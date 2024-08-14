@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,limpido,limpideo,limpido,limpidio,I cleanse
+Active Indicative,Present,1st Person,Plural,limpidamus,limpidemus,limpidimus,limpidimus,We cleanse
+Active Indicative,Present,2nd Person,Singular,limpidas,limpides,limpidis,limpidis,You cleanse
+Active Indicative,Present,2nd Person,Plural,limpidatis,limpidetis,limpiditis,limpiditis,You (pl.) cleanse
+Active Indicative,Present,3rd Person,Singular,limpidat,limpidet,limpidit,limpidit,He/she/it cleanse
+Active Indicative,Present,3rd Person,Plural,limpidant,limpident,limpidiunt,limpidiunt,They cleanse
+Active Indicative,Imperfect,1st Person,Singular,limpidabam,limpidebam,limpidebam,limpidiebam,I was cleanseing
+Active Indicative,Imperfect,1st Person,Plural,limpidabamus,limpidebamus,limpidebamus,limpidiebamus,We were cleanseing
+Active Indicative,Imperfect,2nd Person,Singular,limpidabas,limpidebas,limpidebas,limpidiebas,You were cleanseing
+Active Indicative,Imperfect,2nd Person,Plural,limpidabatis,limpidebatis,limpidebatis,limpidiebatis,You (pl.) were cleanseing
+Active Indicative,Imperfect,3rd Person,Singular,limpidabat,limpidebat,limpidebat,limpidiebat,He/she/it was cleanseing
+Active Indicative,Imperfect,3rd Person,Plural,limpidabant,limpidebant,limpidebant,limpidiebant,They were cleanseing
+Active Indicative,Future,1st Person,Singular,limpidabo,limpidebo,limpidam,limpidiam,I will cleanse
+Active Indicative,Future,1st Person,Plural,limpidabimus,limpidebimus,limpidemus,limpidiemus,We will cleanse
+Active Indicative,Future,2nd Person,Singular,limpidabis,limpidebis,limpides,limpidies,You will cleanse
+Active Indicative,Future,2nd Person,Plural,limpidabitis,limpidebitis,limpidetis,limpidietis,You (pl.) will cleanse
+Active Indicative,Future,3rd Person,Singular,limpidabit,limpidebit,limpidet,limpidiet,He/she/it will cleanse
+Active Indicative,Future,3rd Person,Plural,limpidabunt,limpidebunt,limpident,limpidient,They will cleanse
+Active Indicative,Perfect,1st Person,Singular,limpidavi,limpidui,limpidi,limpidi,I have cleanseed
+Active Indicative,Perfect,1st Person,Plural,limpidavimus,limpiduimus,limpidimus,limpidimus,We have cleanseed
+Active Indicative,Perfect,2nd Person,Singular,limpidavisti,limpiduisti,limpidisti,limpidisti,You have cleanseed
+Active Indicative,Perfect,2nd Person,Plural,limpidavistis,limpiduistis,limpidistis,limpidistis,You (pl.) have cleanseed
+Active Indicative,Perfect,3rd Person,Singular,limpidavit,limpiduit,limpidit,limpidit,He/she/it has cleanseed
+Active Indicative,Perfect,3rd Person,Plural,limpidaverunt,limpiduerunt,limpiderunt,limpiderunt,They have cleanseed
+Active Indicative,Pluperfect,1st Person,Singular,limpidaveram,limpidueram,limpideram,limpideram,I had cleanseed
+Active Indicative,Pluperfect,1st Person,Plural,limpidaveramus,limpidueramus,limpideramus,limpideramus,We had cleanseed
+Active Indicative,Pluperfect,2nd Person,Singular,limpidaveras,limpidueras,limpideras,limpideras,You had cleanseed
+Active Indicative,Pluperfect,2nd Person,Plural,limpidaveratis,limpidueratis,limpideratis,limpideratis,You (pl.) had cleanseed
+Active Indicative,Pluperfect,3rd Person,Singular,limpidaverat,limpiduerat,limpiderat,limpiderat,He/she/it had cleanseed
+Active Indicative,Pluperfect,3rd Person,Plural,limpidaverant,limpiduerant,limpiderant,limpiderant,They had cleanseed
+Active Indicative,Future Perfect,1st Person,Singular,limpidavero,limpidueero,limpidero,limpidiero,I will have cleanseed
+Active Indicative,Future Perfect,1st Person,Plural,limpidaverimus,limpiduerimus,limpiderimus,limpidierimus,We will have cleanseed
+Active Indicative,Future Perfect,2nd Person,Singular,limpidaveris,limpidueris,limpideris,limpidieris,You will have cleanseed
+Active Indicative,Future Perfect,2nd Person,Plural,limpidaveritis,limpidueritis,limpideritis,limpidieritis,You (pl.) will have cleanseed
+Active Indicative,Future Perfect,3rd Person,Singular,limpidaverit,limpiduerit,limpiderit,limpidierit,He/she/it will have cleanseed
+Active Indicative,Future Perfect,3rd Person,Plural,limpidaverint,limpiduerint,limpiderint,limpidierint,They will have cleanseed
+Passive Indicative,Present,1st Person,Singular,limpidor,limpideor,limpidor,limpidior,I am being cleanseed
+Passive Indicative,Present,1st Person,Plural,limpidamur,limpidemur,limpidimur,limpidimur,We are being cleanseed
+Passive Indicative,Present,2nd Person,Singular,limpidaris,limpideris,limpidiris,limpidiris,You are being cleanseed
+Passive Indicative,Present,2nd Person,Plural,limpidamini,limpidemini,limpidimini,limpidimini,You (pl.) are being cleanseed
+Passive Indicative,Present,3rd Person,Singular,limpidatur,limpidetur,limpiditur,limpiditur,He/she/it is being cleanseed
+Passive Indicative,Present,3rd Person,Plural,limpidantur,limpidentur,limpidiuntur,limpidiuntur,They are being cleanseed
+Passive Indicative,Imperfect,1st Person,Singular,limpidabar,limpidebar,limpidebar,limpidiebar,I was cleanseed
+Passive Indicative,Imperfect,1st Person,Plural,limpidabamur,limpidebamur,limpidebamur,limpidiebamur,We were cleanseed
+Passive Indicative,Imperfect,2nd Person,Singular,limpidabaris,limpidebaris,limpidebaris,limpidiebaris,You were cleanseed
+Passive Indicative,Imperfect,2nd Person,Plural,limpidabamini,limpidebamini,limpidebamini,limpidiebamini,You (pl.) were cleanseed
+Passive Indicative,Imperfect,3rd Person,Singular,limpidabatur,limpidebatur,limpidebatur,limpidiebatur,He/she/it was cleanseed
+Passive Indicative,Imperfect,3rd Person,Plural,limpidabantur,limpidebantur,limpidebantur,limpidiebantur,They were cleanseed
+Passive Indicative,Future,1st Person,Singular,limpidabor,limpidebor,limpidar,limpidiar,I will be cleanseed
+Passive Indicative,Future,1st Person,Plural,limpidabimur,limpidebimur,limpidemur,limpidiemur,We will be cleanseed
+Passive Indicative,Future,2nd Person,Singular,limpidaberis,limpideberis,limpideris,limpidieris,You will be cleanseed
+Passive Indicative,Future,2nd Person,Plural,limpidabimini,limpidebimini,limpidemini,limpidiemini,You (pl.) will be cleanseed
+Passive Indicative,Future,3rd Person,Singular,limpidabitur,limpidebitur,limpidetur,limpidietur,He/she/it will be cleanseed
+Passive Indicative,Future,3rd Person,Plural,limpidabuntur,limpidebuntur,limpidentur,limpidientur,They will be cleanseed
+Passive Indicative,Perfect,1st Person,Singular,limpidatus sum,limpidetus sum,limpidus sum,limpidus sum,I have been cleanseed
+Passive Indicative,Perfect,1st Person,Plural,limpidati sumus,limpideti sumus,limpidi sumus,limpidi sumus,We have been cleanseed
+Passive Indicative,Perfect,2nd Person,Singular,limpidatus es,limpidetus es,limpidus es,limpidus es,You have been cleanseed
+Passive Indicative,Perfect,2nd Person,Plural,limpidati estis,limpideti estis,limpidi estis,limpidi estis,You (pl.) have been cleanseed
+Passive Indicative,Perfect,3rd Person,Singular,limpidatus est,limpidetus est,limpidus est,limpidus est,He/she/it has been cleanseed
+Passive Indicative,Perfect,3rd Person,Plural,limpidati sunt,limpideti sunt,limpidi sunt,limpidi sunt,They have been cleanseed
+Passive Indicative,Pluperfect,1st Person,Singular,limpidatus eram,limpidetus eram,limpidus eram,limpidus eram,I had been cleanseed
+Passive Indicative,Pluperfect,1st Person,Plural,limpidati eramus,limpideti eramus,limpidi eramus,limpidi eramus,We had been cleanseed
+Passive Indicative,Pluperfect,2nd Person,Singular,limpidatus eras,limpidetus eras,limpidus eras,limpidus eras,You had been cleanseed
+Passive Indicative,Pluperfect,2nd Person,Plural,limpidati eratis,limpideti eratis,limpidi eratis,limpidi eratis,You (pl.) had been cleanseed
+Passive Indicative,Pluperfect,3rd Person,Singular,limpidatus erat,limpidetus erat,limpidus erat,limpidus erat,He/she/it had been cleanseed
+Passive Indicative,Pluperfect,3rd Person,Plural,limpidati erant,limpideti erant,limpidi erant,limpidi erant,They had been cleanseed
+Passive Indicative,Future Perfect,1st Person,Singular,limpidatus ero,limpidetus ero,limpidus ero,limpidus ero,I will have been cleanseed
+Passive Indicative,Future Perfect,1st Person,Plural,limpidati erimus,limpideti erimus,limpidi erimus,limpidi erimus,We will have been cleanseed
+Passive Indicative,Future Perfect,2nd Person,Singular,limpidatus eris,limpidetus eris,limpidus eris,limpidus eris,You will have been cleanseed
+Passive Indicative,Future Perfect,2nd Person,Plural,limpidati eritis,limpideti eritis,limpidi eritis,limpidi eritis,You (pl.) will have been cleanseed
+Passive Indicative,Future Perfect,3rd Person,Singular,limpidatus erit,limpidetus erit,limpidus erit,limpidus erit,He/she/it will have been cleanseed
+Passive Indicative,Future Perfect,3rd Person,Plural,limpidati erunt,limpideti erunt,limpidi erunt,limpidi erunt,They will have been cleanseed
+Active Subjunctive,Present,1st Person,Singular,limpidem,limpidem,limpidam,limpidam,I may cleanse
+Active Subjunctive,Present,1st Person,Plural,limpidemus,limpidemus,limpidamus,limpidamus,We may cleanse
+Active Subjunctive,Present,2nd Person,Singular,limpides,limpides,limpidas,limpidas,You may cleanse
+Active Subjunctive,Present,2nd Person,Plural,limpidetis,limpidetis,limpidatis,limpidatis,You (pl.) may cleanse
+Active Subjunctive,Present,3rd Person,Singular,limpidet,limpidet,limpidat,limpidat,He/she/it may cleanse
+Active Subjunctive,Present,3rd Person,Plural,limpident,limpident,limpidant,limpidant,They may cleanse
+Active Subjunctive,Imperfect,1st Person,Singular,limpidarem,limpiderem,limpiderem,limpidirem,I should cleanse
+Active Subjunctive,Imperfect,1st Person,Plural,limpidaremus,limpideremus,limpideremus,limpidiremus,We should cleanse
+Active Subjunctive,Imperfect,2nd Person,Singular,limpidares,limpideres,limpideres,limpidires,You should cleanse
+Active Subjunctive,Imperfect,2nd Person,Plural,limpidaretis,limpideretis,limpideretis,limpidiretis,You (pl.) should cleanse
+Active Subjunctive,Imperfect,3rd Person,Singular,limpidaret,limpideret,limpideret,limpidiret,He/she/it should cleanse
+Active Subjunctive,Imperfect,3rd Person,Plural,limpidarent,limpiderent,limpiderent,limpidirent,They should cleanse
+Active Subjunctive,Perfect,1st Person,Singular,limpiderim,limpiduerim,limpiderim,limpidierim,I may have cleanseed
+Active Subjunctive,Perfect,1st Person,Plural,limpiderimus,limpiduerimus,limpiderimus,limpidierimus,We may have cleanseed
+Active Subjunctive,Perfect,2nd Person,Singular,limpideris,limpidueris,limpideris,limpidieris,You may have cleanseed
+Active Subjunctive,Perfect,2nd Person,Plural,limpideritis,limpidueritis,limpideritis,limpidieritis,You (pl.) may have cleanseed
+Active Subjunctive,Perfect,3rd Person,Singular,limpiderit,limpiduerit,limpiderit,limpidierit,He/she/it may have cleanseed
+Active Subjunctive,Perfect,3rd Person,Plural,limpiderint,limpiduerint,limpiderint,limpidierint,They may have cleanseed
+Active Subjunctive,Pluperfect,1st Person,Singular,limpidissem,limpiduissem,limpidissem,limpidissem,I should have cleanseed
+Active Subjunctive,Pluperfect,1st Person,Plural,limpidissemus,limpiduissemus,limpidissemus,limpidissemus,We should have cleanseed
+Active Subjunctive,Pluperfect,2nd Person,Singular,limpidisses,limpiduisses,limpidisses,limpidisses,You would have cleanseed
+Active Subjunctive,Pluperfect,2nd Person,Plural,limpidissetis,limpiduissetis,limpidissetis,limpidissetis,You (pl.) would have cleanseed
+Active Subjunctive,Pluperfect,3rd Person,Singular,limpidisset,limpiduisset,limpidisset,limpidisset,He/she/it would have cleanseed
+Active Subjunctive,Pluperfect,3rd Person,Plural,limpidissent,limpiduissent,limpidissent,limpidissent,They would have cleanseed
+Passive Subjunctive,Present,1st Person,Singular,limpider,limpider,limpidar,limpidar,I may be cleanseed
+Passive Subjunctive,Present,1st Person,Plural,limpidemur,limpidemur,limpidamur,limpidamur,We may be cleanseed
+Passive Subjunctive,Present,2nd Person,Singular,limpideris,limpideris,limpidaris,limpidaris,You may be cleanseed
+Passive Subjunctive,Present,2nd Person,Plural,limpidemini,limpidemini,limpidamini,limpidamini,You (pl.) may be cleanseed
+Passive Subjunctive,Present,3rd Person,Singular,limpidetur,limpidetur,limpidatur,limpidatur,He/she/it may be cleanseed
+Passive Subjunctive,Present,3rd Person,Plural,limpidentur,limpidentur,limpidantur,limpidantur,They may be cleanseed
+Passive Subjunctive,Imperfect,1st Person,Singular,limpidarer,limpiderer,limpiderer,limpidirer,I should be cleanseed
+Passive Subjunctive,Imperfect,1st Person,Plural,limpidaremur,limpideremur,limpideremur,limpidiremur,We should be cleanseed
+Passive Subjunctive,Imperfect,2nd Person,Singular,limpidareris,limpidereris,limpidereris,limpidireris,You would be cleanseed
+Passive Subjunctive,Imperfect,2nd Person,Plural,limpidaremini,limpideremini,limpideremini,limpidiremini,You (pl.) would be cleanseed
+Passive Subjunctive,Imperfect,3rd Person,Singular,limpidaretur,limpideretur,limpideretur,limpidiretur,He/she/it would be cleanseed
+Passive Subjunctive,Imperfect,3rd Person,Plural,limpidarentur,limpiderentur,limpiderentur,limpidirentur,They would be cleanseed
+Passive Subjunctive,Perfect,1st Person,Singular,limpidatus sim,limpidetus sim,limpidus sim,limpidus sim,I may have been cleanseed
+Passive Subjunctive,Perfect,1st Person,Plural,limpidati simus,limpideti simus,limpidi simus,limpidi simus,We may have been cleanseed
+Passive Subjunctive,Perfect,2nd Person,Singular,limpidatus sis,limpidetus sis,limpidus sis,limpidus sis,You may have been cleanseed
+Passive Subjunctive,Perfect,2nd Person,Plural,limpidati sitis,limpideti sitis,limpidi sitis,limpidi sitis,You (pl.) may have been cleanseed
+Passive Subjunctive,Perfect,3rd Person,Singular,limpidatus sit,limpidetus sit,limpidus sit,limpidus sit,He/she/it may have been cleanseed
+Passive Subjunctive,Perfect,3rd Person,Plural,limpidati sint,limpideti sint,limpidi sint,limpidi sint,They may have been cleanseed
+Passive Subjunctive,Pluperfect,1st Person,Singular,limpidatus essem,limpidetus essem,limpidus essem,limpidus essem,I should have been cleanseed
+Passive Subjunctive,Pluperfect,1st Person,Plural,limpidati essemus,limpideti essemus,limpidi essemus,limpidi essemus,We should have been cleanseed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,limpidatus esses,limpidetus esses,limpidus esses,limpidus esses,You would have been cleanseed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,limpidati essetis,limpideti essetis,limpidi essetis,limpidi essetis,You (pl.) would have been cleanseed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,limpidatus esset,limpidetus esset,limpidus esset,limpidus esset,He/she/it would have been cleanseed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,limpidati essent,limpideti essent,limpidi essent,limpidi essent,They would have been cleanseed

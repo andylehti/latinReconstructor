@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,exhauro,exhaureo,exhauro,exhaurio,I drain
+Active Indicative,Present,1st Person,Plural,exhauramus,exhauremus,exhaurimus,exhaurimus,We drain
+Active Indicative,Present,2nd Person,Singular,exhauras,exhaures,exhauris,exhauris,You drain
+Active Indicative,Present,2nd Person,Plural,exhauratis,exhauretis,exhauritis,exhauritis,You (pl.) drain
+Active Indicative,Present,3rd Person,Singular,exhaurat,exhauret,exhaurit,exhaurit,He/she/it drain
+Active Indicative,Present,3rd Person,Plural,exhaurant,exhaurent,exhauriunt,exhauriunt,They drain
+Active Indicative,Imperfect,1st Person,Singular,exhaurabam,exhaurebam,exhaurebam,exhauriebam,I was draining
+Active Indicative,Imperfect,1st Person,Plural,exhaurabamus,exhaurebamus,exhaurebamus,exhauriebamus,We were draining
+Active Indicative,Imperfect,2nd Person,Singular,exhaurabas,exhaurebas,exhaurebas,exhauriebas,You were draining
+Active Indicative,Imperfect,2nd Person,Plural,exhaurabatis,exhaurebatis,exhaurebatis,exhauriebatis,You (pl.) were draining
+Active Indicative,Imperfect,3rd Person,Singular,exhaurabat,exhaurebat,exhaurebat,exhauriebat,He/she/it was draining
+Active Indicative,Imperfect,3rd Person,Plural,exhaurabant,exhaurebant,exhaurebant,exhauriebant,They were draining
+Active Indicative,Future,1st Person,Singular,exhaurabo,exhaurebo,exhauram,exhauriam,I will drain
+Active Indicative,Future,1st Person,Plural,exhaurabimus,exhaurebimus,exhauremus,exhauriemus,We will drain
+Active Indicative,Future,2nd Person,Singular,exhaurabis,exhaurebis,exhaures,exhauries,You will drain
+Active Indicative,Future,2nd Person,Plural,exhaurabitis,exhaurebitis,exhauretis,exhaurietis,You (pl.) will drain
+Active Indicative,Future,3rd Person,Singular,exhaurabit,exhaurebit,exhauret,exhauriet,He/she/it will drain
+Active Indicative,Future,3rd Person,Plural,exhaurabunt,exhaurebunt,exhaurent,exhaurient,They will drain
+Active Indicative,Perfect,1st Person,Singular,exhauravi,exhaurui,exhauri,exhauri,I have drained
+Active Indicative,Perfect,1st Person,Plural,exhauravimus,exhauruimus,exhaurimus,exhaurimus,We have drained
+Active Indicative,Perfect,2nd Person,Singular,exhauravisti,exhauruisti,exhauristi,exhauristi,You have drained
+Active Indicative,Perfect,2nd Person,Plural,exhauravistis,exhauruistis,exhauristis,exhauristis,You (pl.) have drained
+Active Indicative,Perfect,3rd Person,Singular,exhauravit,exhauruit,exhaurit,exhaurit,He/she/it has drained
+Active Indicative,Perfect,3rd Person,Plural,exhauraverunt,exhauruerunt,exhaurerunt,exhaurerunt,They have drained
+Active Indicative,Pluperfect,1st Person,Singular,exhauraveram,exhaurueram,exhaureram,exhaureram,I had drained
+Active Indicative,Pluperfect,1st Person,Plural,exhauraveramus,exhaurueramus,exhaureramus,exhaureramus,We had drained
+Active Indicative,Pluperfect,2nd Person,Singular,exhauraveras,exhaurueras,exhaureras,exhaureras,You had drained
+Active Indicative,Pluperfect,2nd Person,Plural,exhauraveratis,exhaurueratis,exhaureratis,exhaureratis,You (pl.) had drained
+Active Indicative,Pluperfect,3rd Person,Singular,exhauraverat,exhauruerat,exhaurerat,exhaurerat,He/she/it had drained
+Active Indicative,Pluperfect,3rd Person,Plural,exhauraverant,exhauruerant,exhaurerant,exhaurerant,They had drained
+Active Indicative,Future Perfect,1st Person,Singular,exhauravero,exhaurueero,exhaurero,exhauriero,I will have drained
+Active Indicative,Future Perfect,1st Person,Plural,exhauraverimus,exhauruerimus,exhaurerimus,exhaurierimus,We will have drained
+Active Indicative,Future Perfect,2nd Person,Singular,exhauraveris,exhaurueris,exhaureris,exhaurieris,You will have drained
+Active Indicative,Future Perfect,2nd Person,Plural,exhauraveritis,exhaurueritis,exhaureritis,exhaurieritis,You (pl.) will have drained
+Active Indicative,Future Perfect,3rd Person,Singular,exhauraverit,exhauruerit,exhaurerit,exhaurierit,He/she/it will have drained
+Active Indicative,Future Perfect,3rd Person,Plural,exhauraverint,exhauruerint,exhaurerint,exhaurierint,They will have drained
+Passive Indicative,Present,1st Person,Singular,exhauror,exhaureor,exhauror,exhaurior,I am being drained
+Passive Indicative,Present,1st Person,Plural,exhauramur,exhauremur,exhaurimur,exhaurimur,We are being drained
+Passive Indicative,Present,2nd Person,Singular,exhauraris,exhaureris,exhauriris,exhauriris,You are being drained
+Passive Indicative,Present,2nd Person,Plural,exhauramini,exhauremini,exhaurimini,exhaurimini,You (pl.) are being drained
+Passive Indicative,Present,3rd Person,Singular,exhauratur,exhauretur,exhauritur,exhauritur,He/she/it is being drained
+Passive Indicative,Present,3rd Person,Plural,exhaurantur,exhaurentur,exhauriuntur,exhauriuntur,They are being drained
+Passive Indicative,Imperfect,1st Person,Singular,exhaurabar,exhaurebar,exhaurebar,exhauriebar,I was drained
+Passive Indicative,Imperfect,1st Person,Plural,exhaurabamur,exhaurebamur,exhaurebamur,exhauriebamur,We were drained
+Passive Indicative,Imperfect,2nd Person,Singular,exhaurabaris,exhaurebaris,exhaurebaris,exhauriebaris,You were drained
+Passive Indicative,Imperfect,2nd Person,Plural,exhaurabamini,exhaurebamini,exhaurebamini,exhauriebamini,You (pl.) were drained
+Passive Indicative,Imperfect,3rd Person,Singular,exhaurabatur,exhaurebatur,exhaurebatur,exhauriebatur,He/she/it was drained
+Passive Indicative,Imperfect,3rd Person,Plural,exhaurabantur,exhaurebantur,exhaurebantur,exhauriebantur,They were drained
+Passive Indicative,Future,1st Person,Singular,exhaurabor,exhaurebor,exhaurar,exhauriar,I will be drained
+Passive Indicative,Future,1st Person,Plural,exhaurabimur,exhaurebimur,exhauremur,exhauriemur,We will be drained
+Passive Indicative,Future,2nd Person,Singular,exhauraberis,exhaureberis,exhaureris,exhaurieris,You will be drained
+Passive Indicative,Future,2nd Person,Plural,exhaurabimini,exhaurebimini,exhauremini,exhauriemini,You (pl.) will be drained
+Passive Indicative,Future,3rd Person,Singular,exhaurabitur,exhaurebitur,exhauretur,exhaurietur,He/she/it will be drained
+Passive Indicative,Future,3rd Person,Plural,exhaurabuntur,exhaurebuntur,exhaurentur,exhaurientur,They will be drained
+Passive Indicative,Perfect,1st Person,Singular,exhauratus sum,exhauretus sum,exhaurus sum,exhaurus sum,I have been drained
+Passive Indicative,Perfect,1st Person,Plural,exhaurati sumus,exhaureti sumus,exhauri sumus,exhauri sumus,We have been drained
+Passive Indicative,Perfect,2nd Person,Singular,exhauratus es,exhauretus es,exhaurus es,exhaurus es,You have been drained
+Passive Indicative,Perfect,2nd Person,Plural,exhaurati estis,exhaureti estis,exhauri estis,exhauri estis,You (pl.) have been drained
+Passive Indicative,Perfect,3rd Person,Singular,exhauratus est,exhauretus est,exhaurus est,exhaurus est,He/she/it has been drained
+Passive Indicative,Perfect,3rd Person,Plural,exhaurati sunt,exhaureti sunt,exhauri sunt,exhauri sunt,They have been drained
+Passive Indicative,Pluperfect,1st Person,Singular,exhauratus eram,exhauretus eram,exhaurus eram,exhaurus eram,I had been drained
+Passive Indicative,Pluperfect,1st Person,Plural,exhaurati eramus,exhaureti eramus,exhauri eramus,exhauri eramus,We had been drained
+Passive Indicative,Pluperfect,2nd Person,Singular,exhauratus eras,exhauretus eras,exhaurus eras,exhaurus eras,You had been drained
+Passive Indicative,Pluperfect,2nd Person,Plural,exhaurati eratis,exhaureti eratis,exhauri eratis,exhauri eratis,You (pl.) had been drained
+Passive Indicative,Pluperfect,3rd Person,Singular,exhauratus erat,exhauretus erat,exhaurus erat,exhaurus erat,He/she/it had been drained
+Passive Indicative,Pluperfect,3rd Person,Plural,exhaurati erant,exhaureti erant,exhauri erant,exhauri erant,They had been drained
+Passive Indicative,Future Perfect,1st Person,Singular,exhauratus ero,exhauretus ero,exhaurus ero,exhaurus ero,I will have been drained
+Passive Indicative,Future Perfect,1st Person,Plural,exhaurati erimus,exhaureti erimus,exhauri erimus,exhauri erimus,We will have been drained
+Passive Indicative,Future Perfect,2nd Person,Singular,exhauratus eris,exhauretus eris,exhaurus eris,exhaurus eris,You will have been drained
+Passive Indicative,Future Perfect,2nd Person,Plural,exhaurati eritis,exhaureti eritis,exhauri eritis,exhauri eritis,You (pl.) will have been drained
+Passive Indicative,Future Perfect,3rd Person,Singular,exhauratus erit,exhauretus erit,exhaurus erit,exhaurus erit,He/she/it will have been drained
+Passive Indicative,Future Perfect,3rd Person,Plural,exhaurati erunt,exhaureti erunt,exhauri erunt,exhauri erunt,They will have been drained
+Active Subjunctive,Present,1st Person,Singular,exhaurem,exhaurem,exhauram,exhauram,I may drain
+Active Subjunctive,Present,1st Person,Plural,exhauremus,exhauremus,exhauramus,exhauramus,We may drain
+Active Subjunctive,Present,2nd Person,Singular,exhaures,exhaures,exhauras,exhauras,You may drain
+Active Subjunctive,Present,2nd Person,Plural,exhauretis,exhauretis,exhauratis,exhauratis,You (pl.) may drain
+Active Subjunctive,Present,3rd Person,Singular,exhauret,exhauret,exhaurat,exhaurat,He/she/it may drain
+Active Subjunctive,Present,3rd Person,Plural,exhaurent,exhaurent,exhaurant,exhaurant,They may drain
+Active Subjunctive,Imperfect,1st Person,Singular,exhaurarem,exhaurerem,exhaurerem,exhaurirem,I should drain
+Active Subjunctive,Imperfect,1st Person,Plural,exhauraremus,exhaureremus,exhaureremus,exhauriremus,We should drain
+Active Subjunctive,Imperfect,2nd Person,Singular,exhaurares,exhaureres,exhaureres,exhaurires,You should drain
+Active Subjunctive,Imperfect,2nd Person,Plural,exhauraretis,exhaureretis,exhaureretis,exhauriretis,You (pl.) should drain
+Active Subjunctive,Imperfect,3rd Person,Singular,exhauraret,exhaureret,exhaureret,exhauriret,He/she/it should drain
+Active Subjunctive,Imperfect,3rd Person,Plural,exhaurarent,exhaurerent,exhaurerent,exhaurirent,They should drain
+Active Subjunctive,Perfect,1st Person,Singular,exhaurerim,exhauruerim,exhaurerim,exhaurierim,I may have drained
+Active Subjunctive,Perfect,1st Person,Plural,exhaurerimus,exhauruerimus,exhaurerimus,exhaurierimus,We may have drained
+Active Subjunctive,Perfect,2nd Person,Singular,exhaureris,exhaurueris,exhaureris,exhaurieris,You may have drained
+Active Subjunctive,Perfect,2nd Person,Plural,exhaureritis,exhaurueritis,exhaureritis,exhaurieritis,You (pl.) may have drained
+Active Subjunctive,Perfect,3rd Person,Singular,exhaurerit,exhauruerit,exhaurerit,exhaurierit,He/she/it may have drained
+Active Subjunctive,Perfect,3rd Person,Plural,exhaurerint,exhauruerint,exhaurerint,exhaurierint,They may have drained
+Active Subjunctive,Pluperfect,1st Person,Singular,exhaurissem,exhauruissem,exhaurissem,exhaurissem,I should have drained
+Active Subjunctive,Pluperfect,1st Person,Plural,exhaurissemus,exhauruissemus,exhaurissemus,exhaurissemus,We should have drained
+Active Subjunctive,Pluperfect,2nd Person,Singular,exhaurisses,exhauruisses,exhaurisses,exhaurisses,You would have drained
+Active Subjunctive,Pluperfect,2nd Person,Plural,exhaurissetis,exhauruissetis,exhaurissetis,exhaurissetis,You (pl.) would have drained
+Active Subjunctive,Pluperfect,3rd Person,Singular,exhaurisset,exhauruisset,exhaurisset,exhaurisset,He/she/it would have drained
+Active Subjunctive,Pluperfect,3rd Person,Plural,exhaurissent,exhauruissent,exhaurissent,exhaurissent,They would have drained
+Passive Subjunctive,Present,1st Person,Singular,exhaurer,exhaurer,exhaurar,exhaurar,I may be drained
+Passive Subjunctive,Present,1st Person,Plural,exhauremur,exhauremur,exhauramur,exhauramur,We may be drained
+Passive Subjunctive,Present,2nd Person,Singular,exhaureris,exhaureris,exhauraris,exhauraris,You may be drained
+Passive Subjunctive,Present,2nd Person,Plural,exhauremini,exhauremini,exhauramini,exhauramini,You (pl.) may be drained
+Passive Subjunctive,Present,3rd Person,Singular,exhauretur,exhauretur,exhauratur,exhauratur,He/she/it may be drained
+Passive Subjunctive,Present,3rd Person,Plural,exhaurentur,exhaurentur,exhaurantur,exhaurantur,They may be drained
+Passive Subjunctive,Imperfect,1st Person,Singular,exhaurarer,exhaurerer,exhaurerer,exhaurirer,I should be drained
+Passive Subjunctive,Imperfect,1st Person,Plural,exhauraremur,exhaureremur,exhaureremur,exhauriremur,We should be drained
+Passive Subjunctive,Imperfect,2nd Person,Singular,exhaurareris,exhaurereris,exhaurereris,exhaurireris,You would be drained
+Passive Subjunctive,Imperfect,2nd Person,Plural,exhauraremini,exhaureremini,exhaureremini,exhauriremini,You (pl.) would be drained
+Passive Subjunctive,Imperfect,3rd Person,Singular,exhauraretur,exhaureretur,exhaureretur,exhauriretur,He/she/it would be drained
+Passive Subjunctive,Imperfect,3rd Person,Plural,exhaurarentur,exhaurerentur,exhaurerentur,exhaurirentur,They would be drained
+Passive Subjunctive,Perfect,1st Person,Singular,exhauratus sim,exhauretus sim,exhaurus sim,exhaurus sim,I may have been drained
+Passive Subjunctive,Perfect,1st Person,Plural,exhaurati simus,exhaureti simus,exhauri simus,exhauri simus,We may have been drained
+Passive Subjunctive,Perfect,2nd Person,Singular,exhauratus sis,exhauretus sis,exhaurus sis,exhaurus sis,You may have been drained
+Passive Subjunctive,Perfect,2nd Person,Plural,exhaurati sitis,exhaureti sitis,exhauri sitis,exhauri sitis,You (pl.) may have been drained
+Passive Subjunctive,Perfect,3rd Person,Singular,exhauratus sit,exhauretus sit,exhaurus sit,exhaurus sit,He/she/it may have been drained
+Passive Subjunctive,Perfect,3rd Person,Plural,exhaurati sint,exhaureti sint,exhauri sint,exhauri sint,They may have been drained
+Passive Subjunctive,Pluperfect,1st Person,Singular,exhauratus essem,exhauretus essem,exhaurus essem,exhaurus essem,I should have been drained
+Passive Subjunctive,Pluperfect,1st Person,Plural,exhaurati essemus,exhaureti essemus,exhauri essemus,exhauri essemus,We should have been drained
+Passive Subjunctive,Pluperfect,2nd Person,Singular,exhauratus esses,exhauretus esses,exhaurus esses,exhaurus esses,You would have been drained
+Passive Subjunctive,Pluperfect,2nd Person,Plural,exhaurati essetis,exhaureti essetis,exhauri essetis,exhauri essetis,You (pl.) would have been drained
+Passive Subjunctive,Pluperfect,3rd Person,Singular,exhauratus esset,exhauretus esset,exhaurus esset,exhaurus esset,He/she/it would have been drained
+Passive Subjunctive,Pluperfect,3rd Person,Plural,exhaurati essent,exhaureti essent,exhauri essent,exhauri essent,They would have been drained

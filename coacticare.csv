@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,coactico,coacticeo,coactico,coacticio,I press
+Active Indicative,Present,1st Person,Plural,coacticamus,coacticemus,coacticimus,coacticimus,We press
+Active Indicative,Present,2nd Person,Singular,coacticas,coactices,coacticis,coacticis,You press
+Active Indicative,Present,2nd Person,Plural,coacticatis,coacticetis,coacticitis,coacticitis,You (pl.) press
+Active Indicative,Present,3rd Person,Singular,coacticat,coacticet,coacticit,coacticit,He/she/it press
+Active Indicative,Present,3rd Person,Plural,coacticant,coacticent,coacticiunt,coacticiunt,They press
+Active Indicative,Imperfect,1st Person,Singular,coacticabam,coacticebam,coacticebam,coacticiebam,I was pressing
+Active Indicative,Imperfect,1st Person,Plural,coacticabamus,coacticebamus,coacticebamus,coacticiebamus,We were pressing
+Active Indicative,Imperfect,2nd Person,Singular,coacticabas,coacticebas,coacticebas,coacticiebas,You were pressing
+Active Indicative,Imperfect,2nd Person,Plural,coacticabatis,coacticebatis,coacticebatis,coacticiebatis,You (pl.) were pressing
+Active Indicative,Imperfect,3rd Person,Singular,coacticabat,coacticebat,coacticebat,coacticiebat,He/she/it was pressing
+Active Indicative,Imperfect,3rd Person,Plural,coacticabant,coacticebant,coacticebant,coacticiebant,They were pressing
+Active Indicative,Future,1st Person,Singular,coacticabo,coacticebo,coacticam,coacticiam,I will press
+Active Indicative,Future,1st Person,Plural,coacticabimus,coacticebimus,coacticemus,coacticiemus,We will press
+Active Indicative,Future,2nd Person,Singular,coacticabis,coacticebis,coactices,coacticies,You will press
+Active Indicative,Future,2nd Person,Plural,coacticabitis,coacticebitis,coacticetis,coacticietis,You (pl.) will press
+Active Indicative,Future,3rd Person,Singular,coacticabit,coacticebit,coacticet,coacticiet,He/she/it will press
+Active Indicative,Future,3rd Person,Plural,coacticabunt,coacticebunt,coacticent,coacticient,They will press
+Active Indicative,Perfect,1st Person,Singular,coacticavi,coacticui,coactici,coactici,I have pressed
+Active Indicative,Perfect,1st Person,Plural,coacticavimus,coacticuimus,coacticimus,coacticimus,We have pressed
+Active Indicative,Perfect,2nd Person,Singular,coacticavisti,coacticuisti,coacticisti,coacticisti,You have pressed
+Active Indicative,Perfect,2nd Person,Plural,coacticavistis,coacticuistis,coacticistis,coacticistis,You (pl.) have pressed
+Active Indicative,Perfect,3rd Person,Singular,coacticavit,coacticuit,coacticit,coacticit,He/she/it has pressed
+Active Indicative,Perfect,3rd Person,Plural,coacticaverunt,coacticuerunt,coacticerunt,coacticerunt,They have pressed
+Active Indicative,Pluperfect,1st Person,Singular,coacticaveram,coacticueram,coacticeram,coacticeram,I had pressed
+Active Indicative,Pluperfect,1st Person,Plural,coacticaveramus,coacticueramus,coacticeramus,coacticeramus,We had pressed
+Active Indicative,Pluperfect,2nd Person,Singular,coacticaveras,coacticueras,coacticeras,coacticeras,You had pressed
+Active Indicative,Pluperfect,2nd Person,Plural,coacticaveratis,coacticueratis,coacticeratis,coacticeratis,You (pl.) had pressed
+Active Indicative,Pluperfect,3rd Person,Singular,coacticaverat,coacticuerat,coacticerat,coacticerat,He/she/it had pressed
+Active Indicative,Pluperfect,3rd Person,Plural,coacticaverant,coacticuerant,coacticerant,coacticerant,They had pressed
+Active Indicative,Future Perfect,1st Person,Singular,coacticavero,coacticueero,coacticero,coacticiero,I will have pressed
+Active Indicative,Future Perfect,1st Person,Plural,coacticaverimus,coacticuerimus,coacticerimus,coacticierimus,We will have pressed
+Active Indicative,Future Perfect,2nd Person,Singular,coacticaveris,coacticueris,coacticeris,coacticieris,You will have pressed
+Active Indicative,Future Perfect,2nd Person,Plural,coacticaveritis,coacticueritis,coacticeritis,coacticieritis,You (pl.) will have pressed
+Active Indicative,Future Perfect,3rd Person,Singular,coacticaverit,coacticuerit,coacticerit,coacticierit,He/she/it will have pressed
+Active Indicative,Future Perfect,3rd Person,Plural,coacticaverint,coacticuerint,coacticerint,coacticierint,They will have pressed
+Passive Indicative,Present,1st Person,Singular,coacticor,coacticeor,coacticor,coacticior,I am being pressed
+Passive Indicative,Present,1st Person,Plural,coacticamur,coacticemur,coacticimur,coacticimur,We are being pressed
+Passive Indicative,Present,2nd Person,Singular,coacticaris,coacticeris,coacticiris,coacticiris,You are being pressed
+Passive Indicative,Present,2nd Person,Plural,coacticamini,coacticemini,coacticimini,coacticimini,You (pl.) are being pressed
+Passive Indicative,Present,3rd Person,Singular,coacticatur,coacticetur,coacticitur,coacticitur,He/she/it is being pressed
+Passive Indicative,Present,3rd Person,Plural,coacticantur,coacticentur,coacticiuntur,coacticiuntur,They are being pressed
+Passive Indicative,Imperfect,1st Person,Singular,coacticabar,coacticebar,coacticebar,coacticiebar,I was pressed
+Passive Indicative,Imperfect,1st Person,Plural,coacticabamur,coacticebamur,coacticebamur,coacticiebamur,We were pressed
+Passive Indicative,Imperfect,2nd Person,Singular,coacticabaris,coacticebaris,coacticebaris,coacticiebaris,You were pressed
+Passive Indicative,Imperfect,2nd Person,Plural,coacticabamini,coacticebamini,coacticebamini,coacticiebamini,You (pl.) were pressed
+Passive Indicative,Imperfect,3rd Person,Singular,coacticabatur,coacticebatur,coacticebatur,coacticiebatur,He/she/it was pressed
+Passive Indicative,Imperfect,3rd Person,Plural,coacticabantur,coacticebantur,coacticebantur,coacticiebantur,They were pressed
+Passive Indicative,Future,1st Person,Singular,coacticabor,coacticebor,coacticar,coacticiar,I will be pressed
+Passive Indicative,Future,1st Person,Plural,coacticabimur,coacticebimur,coacticemur,coacticiemur,We will be pressed
+Passive Indicative,Future,2nd Person,Singular,coacticaberis,coacticeberis,coacticeris,coacticieris,You will be pressed
+Passive Indicative,Future,2nd Person,Plural,coacticabimini,coacticebimini,coacticemini,coacticiemini,You (pl.) will be pressed
+Passive Indicative,Future,3rd Person,Singular,coacticabitur,coacticebitur,coacticetur,coacticietur,He/she/it will be pressed
+Passive Indicative,Future,3rd Person,Plural,coacticabuntur,coacticebuntur,coacticentur,coacticientur,They will be pressed
+Passive Indicative,Perfect,1st Person,Singular,coacticatus sum,coacticetus sum,coacticus sum,coacticus sum,I have been pressed
+Passive Indicative,Perfect,1st Person,Plural,coacticati sumus,coacticeti sumus,coactici sumus,coactici sumus,We have been pressed
+Passive Indicative,Perfect,2nd Person,Singular,coacticatus es,coacticetus es,coacticus es,coacticus es,You have been pressed
+Passive Indicative,Perfect,2nd Person,Plural,coacticati estis,coacticeti estis,coactici estis,coactici estis,You (pl.) have been pressed
+Passive Indicative,Perfect,3rd Person,Singular,coacticatus est,coacticetus est,coacticus est,coacticus est,He/she/it has been pressed
+Passive Indicative,Perfect,3rd Person,Plural,coacticati sunt,coacticeti sunt,coactici sunt,coactici sunt,They have been pressed
+Passive Indicative,Pluperfect,1st Person,Singular,coacticatus eram,coacticetus eram,coacticus eram,coacticus eram,I had been pressed
+Passive Indicative,Pluperfect,1st Person,Plural,coacticati eramus,coacticeti eramus,coactici eramus,coactici eramus,We had been pressed
+Passive Indicative,Pluperfect,2nd Person,Singular,coacticatus eras,coacticetus eras,coacticus eras,coacticus eras,You had been pressed
+Passive Indicative,Pluperfect,2nd Person,Plural,coacticati eratis,coacticeti eratis,coactici eratis,coactici eratis,You (pl.) had been pressed
+Passive Indicative,Pluperfect,3rd Person,Singular,coacticatus erat,coacticetus erat,coacticus erat,coacticus erat,He/she/it had been pressed
+Passive Indicative,Pluperfect,3rd Person,Plural,coacticati erant,coacticeti erant,coactici erant,coactici erant,They had been pressed
+Passive Indicative,Future Perfect,1st Person,Singular,coacticatus ero,coacticetus ero,coacticus ero,coacticus ero,I will have been pressed
+Passive Indicative,Future Perfect,1st Person,Plural,coacticati erimus,coacticeti erimus,coactici erimus,coactici erimus,We will have been pressed
+Passive Indicative,Future Perfect,2nd Person,Singular,coacticatus eris,coacticetus eris,coacticus eris,coacticus eris,You will have been pressed
+Passive Indicative,Future Perfect,2nd Person,Plural,coacticati eritis,coacticeti eritis,coactici eritis,coactici eritis,You (pl.) will have been pressed
+Passive Indicative,Future Perfect,3rd Person,Singular,coacticatus erit,coacticetus erit,coacticus erit,coacticus erit,He/she/it will have been pressed
+Passive Indicative,Future Perfect,3rd Person,Plural,coacticati erunt,coacticeti erunt,coactici erunt,coactici erunt,They will have been pressed
+Active Subjunctive,Present,1st Person,Singular,coacticem,coacticem,coacticam,coacticam,I may press
+Active Subjunctive,Present,1st Person,Plural,coacticemus,coacticemus,coacticamus,coacticamus,We may press
+Active Subjunctive,Present,2nd Person,Singular,coactices,coactices,coacticas,coacticas,You may press
+Active Subjunctive,Present,2nd Person,Plural,coacticetis,coacticetis,coacticatis,coacticatis,You (pl.) may press
+Active Subjunctive,Present,3rd Person,Singular,coacticet,coacticet,coacticat,coacticat,He/she/it may press
+Active Subjunctive,Present,3rd Person,Plural,coacticent,coacticent,coacticant,coacticant,They may press
+Active Subjunctive,Imperfect,1st Person,Singular,coacticarem,coacticerem,coacticerem,coacticirem,I should press
+Active Subjunctive,Imperfect,1st Person,Plural,coacticaremus,coacticeremus,coacticeremus,coacticiremus,We should press
+Active Subjunctive,Imperfect,2nd Person,Singular,coacticares,coacticeres,coacticeres,coacticires,You should press
+Active Subjunctive,Imperfect,2nd Person,Plural,coacticaretis,coacticeretis,coacticeretis,coacticiretis,You (pl.) should press
+Active Subjunctive,Imperfect,3rd Person,Singular,coacticaret,coacticeret,coacticeret,coacticiret,He/she/it should press
+Active Subjunctive,Imperfect,3rd Person,Plural,coacticarent,coacticerent,coacticerent,coacticirent,They should press
+Active Subjunctive,Perfect,1st Person,Singular,coacticerim,coacticuerim,coacticerim,coacticierim,I may have pressed
+Active Subjunctive,Perfect,1st Person,Plural,coacticerimus,coacticuerimus,coacticerimus,coacticierimus,We may have pressed
+Active Subjunctive,Perfect,2nd Person,Singular,coacticeris,coacticueris,coacticeris,coacticieris,You may have pressed
+Active Subjunctive,Perfect,2nd Person,Plural,coacticeritis,coacticueritis,coacticeritis,coacticieritis,You (pl.) may have pressed
+Active Subjunctive,Perfect,3rd Person,Singular,coacticerit,coacticuerit,coacticerit,coacticierit,He/she/it may have pressed
+Active Subjunctive,Perfect,3rd Person,Plural,coacticerint,coacticuerint,coacticerint,coacticierint,They may have pressed
+Active Subjunctive,Pluperfect,1st Person,Singular,coacticissem,coacticuissem,coacticissem,coacticissem,I should have pressed
+Active Subjunctive,Pluperfect,1st Person,Plural,coacticissemus,coacticuissemus,coacticissemus,coacticissemus,We should have pressed
+Active Subjunctive,Pluperfect,2nd Person,Singular,coacticisses,coacticuisses,coacticisses,coacticisses,You would have pressed
+Active Subjunctive,Pluperfect,2nd Person,Plural,coacticissetis,coacticuissetis,coacticissetis,coacticissetis,You (pl.) would have pressed
+Active Subjunctive,Pluperfect,3rd Person,Singular,coacticisset,coacticuisset,coacticisset,coacticisset,He/she/it would have pressed
+Active Subjunctive,Pluperfect,3rd Person,Plural,coacticissent,coacticuissent,coacticissent,coacticissent,They would have pressed
+Passive Subjunctive,Present,1st Person,Singular,coacticer,coacticer,coacticar,coacticar,I may be pressed
+Passive Subjunctive,Present,1st Person,Plural,coacticemur,coacticemur,coacticamur,coacticamur,We may be pressed
+Passive Subjunctive,Present,2nd Person,Singular,coacticeris,coacticeris,coacticaris,coacticaris,You may be pressed
+Passive Subjunctive,Present,2nd Person,Plural,coacticemini,coacticemini,coacticamini,coacticamini,You (pl.) may be pressed
+Passive Subjunctive,Present,3rd Person,Singular,coacticetur,coacticetur,coacticatur,coacticatur,He/she/it may be pressed
+Passive Subjunctive,Present,3rd Person,Plural,coacticentur,coacticentur,coacticantur,coacticantur,They may be pressed
+Passive Subjunctive,Imperfect,1st Person,Singular,coacticarer,coacticerer,coacticerer,coacticirer,I should be pressed
+Passive Subjunctive,Imperfect,1st Person,Plural,coacticaremur,coacticeremur,coacticeremur,coacticiremur,We should be pressed
+Passive Subjunctive,Imperfect,2nd Person,Singular,coacticareris,coacticereris,coacticereris,coacticireris,You would be pressed
+Passive Subjunctive,Imperfect,2nd Person,Plural,coacticaremini,coacticeremini,coacticeremini,coacticiremini,You (pl.) would be pressed
+Passive Subjunctive,Imperfect,3rd Person,Singular,coacticaretur,coacticeretur,coacticeretur,coacticiretur,He/she/it would be pressed
+Passive Subjunctive,Imperfect,3rd Person,Plural,coacticarentur,coacticerentur,coacticerentur,coacticirentur,They would be pressed
+Passive Subjunctive,Perfect,1st Person,Singular,coacticatus sim,coacticetus sim,coacticus sim,coacticus sim,I may have been pressed
+Passive Subjunctive,Perfect,1st Person,Plural,coacticati simus,coacticeti simus,coactici simus,coactici simus,We may have been pressed
+Passive Subjunctive,Perfect,2nd Person,Singular,coacticatus sis,coacticetus sis,coacticus sis,coacticus sis,You may have been pressed
+Passive Subjunctive,Perfect,2nd Person,Plural,coacticati sitis,coacticeti sitis,coactici sitis,coactici sitis,You (pl.) may have been pressed
+Passive Subjunctive,Perfect,3rd Person,Singular,coacticatus sit,coacticetus sit,coacticus sit,coacticus sit,He/she/it may have been pressed
+Passive Subjunctive,Perfect,3rd Person,Plural,coacticati sint,coacticeti sint,coactici sint,coactici sint,They may have been pressed
+Passive Subjunctive,Pluperfect,1st Person,Singular,coacticatus essem,coacticetus essem,coacticus essem,coacticus essem,I should have been pressed
+Passive Subjunctive,Pluperfect,1st Person,Plural,coacticati essemus,coacticeti essemus,coactici essemus,coactici essemus,We should have been pressed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,coacticatus esses,coacticetus esses,coacticus esses,coacticus esses,You would have been pressed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,coacticati essetis,coacticeti essetis,coactici essetis,coactici essetis,You (pl.) would have been pressed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,coacticatus esset,coacticetus esset,coacticus esset,coacticus esset,He/she/it would have been pressed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,coacticati essent,coacticeti essent,coactici essent,coactici essent,They would have been pressed

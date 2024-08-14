@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,pissio,pissieo,pissio,pissio,I urinate
+Active Indicative,Present,1st Person,Plural,pissiamus,pissiemus,pissimus,pissimus,We urinate
+Active Indicative,Present,2nd Person,Singular,pissias,pissies,pissis,pissis,You urinate
+Active Indicative,Present,2nd Person,Plural,pissiatis,pissietis,pissitis,pissitis,You (pl.) urinate
+Active Indicative,Present,3rd Person,Singular,pissiat,pissiet,pissit,pissit,He/she/it urinate
+Active Indicative,Present,3rd Person,Plural,pissiant,pissient,pissiunt,pissiunt,They urinate
+Active Indicative,Imperfect,1st Person,Singular,pissiabam,pissiebam,pissiebam,pissiebam,I was urinateing
+Active Indicative,Imperfect,1st Person,Plural,pissiabamus,pissiebamus,pissiebamus,pissiebamus,We were urinateing
+Active Indicative,Imperfect,2nd Person,Singular,pissiabas,pissiebas,pissiebas,pissiebas,You were urinateing
+Active Indicative,Imperfect,2nd Person,Plural,pissiabatis,pissiebatis,pissiebatis,pissiebatis,You (pl.) were urinateing
+Active Indicative,Imperfect,3rd Person,Singular,pissiabat,pissiebat,pissiebat,pissiebat,He/she/it was urinateing
+Active Indicative,Imperfect,3rd Person,Plural,pissiabant,pissiebant,pissiebant,pissiebant,They were urinateing
+Active Indicative,Future,1st Person,Singular,pissiabo,pissiebo,pissiam,pissiam,I will urinate
+Active Indicative,Future,1st Person,Plural,pissiabimus,pissiebimus,pissiemus,pissiemus,We will urinate
+Active Indicative,Future,2nd Person,Singular,pissiabis,pissiebis,pissies,pissies,You will urinate
+Active Indicative,Future,2nd Person,Plural,pissiabitis,pissiebitis,pissietis,pissietis,You (pl.) will urinate
+Active Indicative,Future,3rd Person,Singular,pissiabit,pissiebit,pissiet,pissiet,He/she/it will urinate
+Active Indicative,Future,3rd Person,Plural,pissiabunt,pissiebunt,pissient,pissient,They will urinate
+Active Indicative,Perfect,1st Person,Singular,pissiavi,pissiui,pissi,pissi,I have urinateed
+Active Indicative,Perfect,1st Person,Plural,pissiavimus,pissiuimus,pissimus,pissimus,We have urinateed
+Active Indicative,Perfect,2nd Person,Singular,pissiavisti,pissiuisti,pissisti,pissisti,You have urinateed
+Active Indicative,Perfect,2nd Person,Plural,pissiavistis,pissiuistis,pissistis,pissistis,You (pl.) have urinateed
+Active Indicative,Perfect,3rd Person,Singular,pissiavit,pissiuit,pissit,pissit,He/she/it has urinateed
+Active Indicative,Perfect,3rd Person,Plural,pissiaverunt,pissiuerunt,pissierunt,pissierunt,They have urinateed
+Active Indicative,Pluperfect,1st Person,Singular,pissiaveram,pissiueram,pissieram,pissieram,I had urinateed
+Active Indicative,Pluperfect,1st Person,Plural,pissiaveramus,pissiueramus,pissieramus,pissieramus,We had urinateed
+Active Indicative,Pluperfect,2nd Person,Singular,pissiaveras,pissiueras,pissieras,pissieras,You had urinateed
+Active Indicative,Pluperfect,2nd Person,Plural,pissiaveratis,pissiueratis,pissieratis,pissieratis,You (pl.) had urinateed
+Active Indicative,Pluperfect,3rd Person,Singular,pissiaverat,pissiuerat,pissierat,pissierat,He/she/it had urinateed
+Active Indicative,Pluperfect,3rd Person,Plural,pissiaverant,pissiuerant,pissierant,pissierant,They had urinateed
+Active Indicative,Future Perfect,1st Person,Singular,pissiavero,pissiueero,pissiero,pissiero,I will have urinateed
+Active Indicative,Future Perfect,1st Person,Plural,pissiaverimus,pissiuerimus,pissierimus,pissierimus,We will have urinateed
+Active Indicative,Future Perfect,2nd Person,Singular,pissiaveris,pissiueris,pissieris,pissieris,You will have urinateed
+Active Indicative,Future Perfect,2nd Person,Plural,pissiaveritis,pissiueritis,pissieritis,pissieritis,You (pl.) will have urinateed
+Active Indicative,Future Perfect,3rd Person,Singular,pissiaverit,pissiuerit,pissierit,pissierit,He/she/it will have urinateed
+Active Indicative,Future Perfect,3rd Person,Plural,pissiaverint,pissiuerint,pissierint,pissierint,They will have urinateed
+Passive Indicative,Present,1st Person,Singular,pissior,pissieor,pissior,pissior,I am being urinateed
+Passive Indicative,Present,1st Person,Plural,pissiamur,pissiemur,pissimur,pissimur,We are being urinateed
+Passive Indicative,Present,2nd Person,Singular,pissiaris,pissieris,pissiris,pissiris,You are being urinateed
+Passive Indicative,Present,2nd Person,Plural,pissiamini,pissiemini,pissimini,pissimini,You (pl.) are being urinateed
+Passive Indicative,Present,3rd Person,Singular,pissiatur,pissietur,pissitur,pissitur,He/she/it is being urinateed
+Passive Indicative,Present,3rd Person,Plural,pissiantur,pissientur,pissiuntur,pissiuntur,They are being urinateed
+Passive Indicative,Imperfect,1st Person,Singular,pissiabar,pissiebar,pissiebar,pissiebar,I was urinateed
+Passive Indicative,Imperfect,1st Person,Plural,pissiabamur,pissiebamur,pissiebamur,pissiebamur,We were urinateed
+Passive Indicative,Imperfect,2nd Person,Singular,pissiabaris,pissiebaris,pissiebaris,pissiebaris,You were urinateed
+Passive Indicative,Imperfect,2nd Person,Plural,pissiabamini,pissiebamini,pissiebamini,pissiebamini,You (pl.) were urinateed
+Passive Indicative,Imperfect,3rd Person,Singular,pissiabatur,pissiebatur,pissiebatur,pissiebatur,He/she/it was urinateed
+Passive Indicative,Imperfect,3rd Person,Plural,pissiabantur,pissiebantur,pissiebantur,pissiebantur,They were urinateed
+Passive Indicative,Future,1st Person,Singular,pissiabor,pissiebor,pissiar,pissiar,I will be urinateed
+Passive Indicative,Future,1st Person,Plural,pissiabimur,pissiebimur,pissiemur,pissiemur,We will be urinateed
+Passive Indicative,Future,2nd Person,Singular,pissiaberis,pissieberis,pissieris,pissieris,You will be urinateed
+Passive Indicative,Future,2nd Person,Plural,pissiabimini,pissiebimini,pissiemini,pissiemini,You (pl.) will be urinateed
+Passive Indicative,Future,3rd Person,Singular,pissiabitur,pissiebitur,pissietur,pissietur,He/she/it will be urinateed
+Passive Indicative,Future,3rd Person,Plural,pissiabuntur,pissiebuntur,pissientur,pissientur,They will be urinateed
+Passive Indicative,Perfect,1st Person,Singular,pissiatus sum,pissietus sum,pissius sum,pissius sum,I have been urinateed
+Passive Indicative,Perfect,1st Person,Plural,pissiati sumus,pissieti sumus,pissi sumus,pissi sumus,We have been urinateed
+Passive Indicative,Perfect,2nd Person,Singular,pissiatus es,pissietus es,pissius es,pissius es,You have been urinateed
+Passive Indicative,Perfect,2nd Person,Plural,pissiati estis,pissieti estis,pissi estis,pissi estis,You (pl.) have been urinateed
+Passive Indicative,Perfect,3rd Person,Singular,pissiatus est,pissietus est,pissius est,pissius est,He/she/it has been urinateed
+Passive Indicative,Perfect,3rd Person,Plural,pissiati sunt,pissieti sunt,pissi sunt,pissi sunt,They have been urinateed
+Passive Indicative,Pluperfect,1st Person,Singular,pissiatus eram,pissietus eram,pissius eram,pissius eram,I had been urinateed
+Passive Indicative,Pluperfect,1st Person,Plural,pissiati eramus,pissieti eramus,pissi eramus,pissi eramus,We had been urinateed
+Passive Indicative,Pluperfect,2nd Person,Singular,pissiatus eras,pissietus eras,pissius eras,pissius eras,You had been urinateed
+Passive Indicative,Pluperfect,2nd Person,Plural,pissiati eratis,pissieti eratis,pissi eratis,pissi eratis,You (pl.) had been urinateed
+Passive Indicative,Pluperfect,3rd Person,Singular,pissiatus erat,pissietus erat,pissius erat,pissius erat,He/she/it had been urinateed
+Passive Indicative,Pluperfect,3rd Person,Plural,pissiati erant,pissieti erant,pissi erant,pissi erant,They had been urinateed
+Passive Indicative,Future Perfect,1st Person,Singular,pissiatus ero,pissietus ero,pissius ero,pissius ero,I will have been urinateed
+Passive Indicative,Future Perfect,1st Person,Plural,pissiati erimus,pissieti erimus,pissi erimus,pissi erimus,We will have been urinateed
+Passive Indicative,Future Perfect,2nd Person,Singular,pissiatus eris,pissietus eris,pissius eris,pissius eris,You will have been urinateed
+Passive Indicative,Future Perfect,2nd Person,Plural,pissiati eritis,pissieti eritis,pissi eritis,pissi eritis,You (pl.) will have been urinateed
+Passive Indicative,Future Perfect,3rd Person,Singular,pissiatus erit,pissietus erit,pissius erit,pissius erit,He/she/it will have been urinateed
+Passive Indicative,Future Perfect,3rd Person,Plural,pissiati erunt,pissieti erunt,pissi erunt,pissi erunt,They will have been urinateed
+Active Subjunctive,Present,1st Person,Singular,pissiem,pissiem,pissiam,pissiam,I may urinate
+Active Subjunctive,Present,1st Person,Plural,pissiemus,pissiemus,pissiamus,pissiamus,We may urinate
+Active Subjunctive,Present,2nd Person,Singular,pissies,pissies,pissias,pissias,You may urinate
+Active Subjunctive,Present,2nd Person,Plural,pissietis,pissietis,pissiatis,pissiatis,You (pl.) may urinate
+Active Subjunctive,Present,3rd Person,Singular,pissiet,pissiet,pissiat,pissiat,He/she/it may urinate
+Active Subjunctive,Present,3rd Person,Plural,pissient,pissient,pissiant,pissiant,They may urinate
+Active Subjunctive,Imperfect,1st Person,Singular,pissiarem,pissierem,pissierem,pissirem,I should urinate
+Active Subjunctive,Imperfect,1st Person,Plural,pissiaremus,pissieremus,pissieremus,pissiremus,We should urinate
+Active Subjunctive,Imperfect,2nd Person,Singular,pissiares,pissieres,pissieres,pissires,You should urinate
+Active Subjunctive,Imperfect,2nd Person,Plural,pissiaretis,pissieretis,pissieretis,pissiretis,You (pl.) should urinate
+Active Subjunctive,Imperfect,3rd Person,Singular,pissiaret,pissieret,pissieret,pissiret,He/she/it should urinate
+Active Subjunctive,Imperfect,3rd Person,Plural,pissiarent,pissierent,pissierent,pissirent,They should urinate
+Active Subjunctive,Perfect,1st Person,Singular,pissierim,pissiuerim,pissierim,pissierim,I may have urinateed
+Active Subjunctive,Perfect,1st Person,Plural,pissierimus,pissiuerimus,pissierimus,pissierimus,We may have urinateed
+Active Subjunctive,Perfect,2nd Person,Singular,pissieris,pissiueris,pissieris,pissieris,You may have urinateed
+Active Subjunctive,Perfect,2nd Person,Plural,pissieritis,pissiueritis,pissieritis,pissieritis,You (pl.) may have urinateed
+Active Subjunctive,Perfect,3rd Person,Singular,pissierit,pissiuerit,pissierit,pissierit,He/she/it may have urinateed
+Active Subjunctive,Perfect,3rd Person,Plural,pissierint,pissiuerint,pissierint,pissierint,They may have urinateed
+Active Subjunctive,Pluperfect,1st Person,Singular,pississem,pissiuissem,pississem,pississem,I should have urinateed
+Active Subjunctive,Pluperfect,1st Person,Plural,pississemus,pissiuissemus,pississemus,pississemus,We should have urinateed
+Active Subjunctive,Pluperfect,2nd Person,Singular,pississes,pissiuisses,pississes,pississes,You would have urinateed
+Active Subjunctive,Pluperfect,2nd Person,Plural,pississetis,pissiuissetis,pississetis,pississetis,You (pl.) would have urinateed
+Active Subjunctive,Pluperfect,3rd Person,Singular,pississet,pissiuisset,pississet,pississet,He/she/it would have urinateed
+Active Subjunctive,Pluperfect,3rd Person,Plural,pississent,pissiuissent,pississent,pississent,They would have urinateed
+Passive Subjunctive,Present,1st Person,Singular,pissier,pissier,pissiar,pissiar,I may be urinateed
+Passive Subjunctive,Present,1st Person,Plural,pissiemur,pissiemur,pissiamur,pissiamur,We may be urinateed
+Passive Subjunctive,Present,2nd Person,Singular,pissieris,pissieris,pissiaris,pissiaris,You may be urinateed
+Passive Subjunctive,Present,2nd Person,Plural,pissiemini,pissiemini,pissiamini,pissiamini,You (pl.) may be urinateed
+Passive Subjunctive,Present,3rd Person,Singular,pissietur,pissietur,pissiatur,pissiatur,He/she/it may be urinateed
+Passive Subjunctive,Present,3rd Person,Plural,pissientur,pissientur,pissiantur,pissiantur,They may be urinateed
+Passive Subjunctive,Imperfect,1st Person,Singular,pissiarer,pissierer,pissierer,pissirer,I should be urinateed
+Passive Subjunctive,Imperfect,1st Person,Plural,pissiaremur,pissieremur,pissieremur,pissiremur,We should be urinateed
+Passive Subjunctive,Imperfect,2nd Person,Singular,pissiareris,pissiereris,pissiereris,pissireris,You would be urinateed
+Passive Subjunctive,Imperfect,2nd Person,Plural,pissiaremini,pissieremini,pissieremini,pissiremini,You (pl.) would be urinateed
+Passive Subjunctive,Imperfect,3rd Person,Singular,pissiaretur,pissieretur,pissieretur,pissiretur,He/she/it would be urinateed
+Passive Subjunctive,Imperfect,3rd Person,Plural,pissiarentur,pissierentur,pissierentur,pissirentur,They would be urinateed
+Passive Subjunctive,Perfect,1st Person,Singular,pissiatus sim,pissietus sim,pissius sim,pissius sim,I may have been urinateed
+Passive Subjunctive,Perfect,1st Person,Plural,pissiati simus,pissieti simus,pissi simus,pissi simus,We may have been urinateed
+Passive Subjunctive,Perfect,2nd Person,Singular,pissiatus sis,pissietus sis,pissius sis,pissius sis,You may have been urinateed
+Passive Subjunctive,Perfect,2nd Person,Plural,pissiati sitis,pissieti sitis,pissi sitis,pissi sitis,You (pl.) may have been urinateed
+Passive Subjunctive,Perfect,3rd Person,Singular,pissiatus sit,pissietus sit,pissius sit,pissius sit,He/she/it may have been urinateed
+Passive Subjunctive,Perfect,3rd Person,Plural,pissiati sint,pissieti sint,pissi sint,pissi sint,They may have been urinateed
+Passive Subjunctive,Pluperfect,1st Person,Singular,pissiatus essem,pissietus essem,pissius essem,pissius essem,I should have been urinateed
+Passive Subjunctive,Pluperfect,1st Person,Plural,pissiati essemus,pissieti essemus,pissi essemus,pissi essemus,We should have been urinateed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,pissiatus esses,pissietus esses,pissius esses,pissius esses,You would have been urinateed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,pissiati essetis,pissieti essetis,pissi essetis,pissi essetis,You (pl.) would have been urinateed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,pissiatus esset,pissietus esset,pissius esset,pissius esset,He/she/it would have been urinateed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,pissiati essent,pissieti essent,pissi essent,pissi essent,They would have been urinateed

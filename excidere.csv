@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,excido,excideo,excido,excidio,I fall out
+Active Indicative,Present,1st Person,Plural,excidamus,excidemus,excidimus,excidimus,We fall out
+Active Indicative,Present,2nd Person,Singular,excidas,excides,excidis,excidis,You fall out
+Active Indicative,Present,2nd Person,Plural,excidatis,excidetis,exciditis,exciditis,You (pl.) fall out
+Active Indicative,Present,3rd Person,Singular,excidat,excidet,excidit,excidit,He/she/it fall out
+Active Indicative,Present,3rd Person,Plural,excidant,excident,excidiunt,excidiunt,They fall out
+Active Indicative,Imperfect,1st Person,Singular,excidabam,excidebam,excidebam,excidiebam,I was fall outing
+Active Indicative,Imperfect,1st Person,Plural,excidabamus,excidebamus,excidebamus,excidiebamus,We were fall outing
+Active Indicative,Imperfect,2nd Person,Singular,excidabas,excidebas,excidebas,excidiebas,You were fall outing
+Active Indicative,Imperfect,2nd Person,Plural,excidabatis,excidebatis,excidebatis,excidiebatis,You (pl.) were fall outing
+Active Indicative,Imperfect,3rd Person,Singular,excidabat,excidebat,excidebat,excidiebat,He/she/it was fall outing
+Active Indicative,Imperfect,3rd Person,Plural,excidabant,excidebant,excidebant,excidiebant,They were fall outing
+Active Indicative,Future,1st Person,Singular,excidabo,excidebo,excidam,excidiam,I will fall out
+Active Indicative,Future,1st Person,Plural,excidabimus,excidebimus,excidemus,excidiemus,We will fall out
+Active Indicative,Future,2nd Person,Singular,excidabis,excidebis,excides,excidies,You will fall out
+Active Indicative,Future,2nd Person,Plural,excidabitis,excidebitis,excidetis,excidietis,You (pl.) will fall out
+Active Indicative,Future,3rd Person,Singular,excidabit,excidebit,excidet,excidiet,He/she/it will fall out
+Active Indicative,Future,3rd Person,Plural,excidabunt,excidebunt,excident,excidient,They will fall out
+Active Indicative,Perfect,1st Person,Singular,excidavi,excidui,excidi,excidi,I have fall outed
+Active Indicative,Perfect,1st Person,Plural,excidavimus,exciduimus,excidimus,excidimus,We have fall outed
+Active Indicative,Perfect,2nd Person,Singular,excidavisti,exciduisti,excidisti,excidisti,You have fall outed
+Active Indicative,Perfect,2nd Person,Plural,excidavistis,exciduistis,excidistis,excidistis,You (pl.) have fall outed
+Active Indicative,Perfect,3rd Person,Singular,excidavit,exciduit,excidit,excidit,He/she/it has fall outed
+Active Indicative,Perfect,3rd Person,Plural,excidaverunt,exciduerunt,exciderunt,exciderunt,They have fall outed
+Active Indicative,Pluperfect,1st Person,Singular,excidaveram,excidueram,excideram,excideram,I had fall outed
+Active Indicative,Pluperfect,1st Person,Plural,excidaveramus,excidueramus,excideramus,excideramus,We had fall outed
+Active Indicative,Pluperfect,2nd Person,Singular,excidaveras,excidueras,excideras,excideras,You had fall outed
+Active Indicative,Pluperfect,2nd Person,Plural,excidaveratis,excidueratis,excideratis,excideratis,You (pl.) had fall outed
+Active Indicative,Pluperfect,3rd Person,Singular,excidaverat,exciduerat,exciderat,exciderat,He/she/it had fall outed
+Active Indicative,Pluperfect,3rd Person,Plural,excidaverant,exciduerant,exciderant,exciderant,They had fall outed
+Active Indicative,Future Perfect,1st Person,Singular,excidavero,excidueero,excidero,excidiero,I will have fall outed
+Active Indicative,Future Perfect,1st Person,Plural,excidaverimus,exciduerimus,exciderimus,excidierimus,We will have fall outed
+Active Indicative,Future Perfect,2nd Person,Singular,excidaveris,excidueris,excideris,excidieris,You will have fall outed
+Active Indicative,Future Perfect,2nd Person,Plural,excidaveritis,excidueritis,excideritis,excidieritis,You (pl.) will have fall outed
+Active Indicative,Future Perfect,3rd Person,Singular,excidaverit,exciduerit,exciderit,excidierit,He/she/it will have fall outed
+Active Indicative,Future Perfect,3rd Person,Plural,excidaverint,exciduerint,exciderint,excidierint,They will have fall outed
+Passive Indicative,Present,1st Person,Singular,excidor,excideor,excidor,excidior,I am being fall outed
+Passive Indicative,Present,1st Person,Plural,excidamur,excidemur,excidimur,excidimur,We are being fall outed
+Passive Indicative,Present,2nd Person,Singular,excidaris,excideris,excidiris,excidiris,You are being fall outed
+Passive Indicative,Present,2nd Person,Plural,excidamini,excidemini,excidimini,excidimini,You (pl.) are being fall outed
+Passive Indicative,Present,3rd Person,Singular,excidatur,excidetur,exciditur,exciditur,He/she/it is being fall outed
+Passive Indicative,Present,3rd Person,Plural,excidantur,excidentur,excidiuntur,excidiuntur,They are being fall outed
+Passive Indicative,Imperfect,1st Person,Singular,excidabar,excidebar,excidebar,excidiebar,I was fall outed
+Passive Indicative,Imperfect,1st Person,Plural,excidabamur,excidebamur,excidebamur,excidiebamur,We were fall outed
+Passive Indicative,Imperfect,2nd Person,Singular,excidabaris,excidebaris,excidebaris,excidiebaris,You were fall outed
+Passive Indicative,Imperfect,2nd Person,Plural,excidabamini,excidebamini,excidebamini,excidiebamini,You (pl.) were fall outed
+Passive Indicative,Imperfect,3rd Person,Singular,excidabatur,excidebatur,excidebatur,excidiebatur,He/she/it was fall outed
+Passive Indicative,Imperfect,3rd Person,Plural,excidabantur,excidebantur,excidebantur,excidiebantur,They were fall outed
+Passive Indicative,Future,1st Person,Singular,excidabor,excidebor,excidar,excidiar,I will be fall outed
+Passive Indicative,Future,1st Person,Plural,excidabimur,excidebimur,excidemur,excidiemur,We will be fall outed
+Passive Indicative,Future,2nd Person,Singular,excidaberis,excideberis,excideris,excidieris,You will be fall outed
+Passive Indicative,Future,2nd Person,Plural,excidabimini,excidebimini,excidemini,excidiemini,You (pl.) will be fall outed
+Passive Indicative,Future,3rd Person,Singular,excidabitur,excidebitur,excidetur,excidietur,He/she/it will be fall outed
+Passive Indicative,Future,3rd Person,Plural,excidabuntur,excidebuntur,excidentur,excidientur,They will be fall outed
+Passive Indicative,Perfect,1st Person,Singular,excidatus sum,excidetus sum,excidus sum,excidus sum,I have been fall outed
+Passive Indicative,Perfect,1st Person,Plural,excidati sumus,excideti sumus,excidi sumus,excidi sumus,We have been fall outed
+Passive Indicative,Perfect,2nd Person,Singular,excidatus es,excidetus es,excidus es,excidus es,You have been fall outed
+Passive Indicative,Perfect,2nd Person,Plural,excidati estis,excideti estis,excidi estis,excidi estis,You (pl.) have been fall outed
+Passive Indicative,Perfect,3rd Person,Singular,excidatus est,excidetus est,excidus est,excidus est,He/she/it has been fall outed
+Passive Indicative,Perfect,3rd Person,Plural,excidati sunt,excideti sunt,excidi sunt,excidi sunt,They have been fall outed
+Passive Indicative,Pluperfect,1st Person,Singular,excidatus eram,excidetus eram,excidus eram,excidus eram,I had been fall outed
+Passive Indicative,Pluperfect,1st Person,Plural,excidati eramus,excideti eramus,excidi eramus,excidi eramus,We had been fall outed
+Passive Indicative,Pluperfect,2nd Person,Singular,excidatus eras,excidetus eras,excidus eras,excidus eras,You had been fall outed
+Passive Indicative,Pluperfect,2nd Person,Plural,excidati eratis,excideti eratis,excidi eratis,excidi eratis,You (pl.) had been fall outed
+Passive Indicative,Pluperfect,3rd Person,Singular,excidatus erat,excidetus erat,excidus erat,excidus erat,He/she/it had been fall outed
+Passive Indicative,Pluperfect,3rd Person,Plural,excidati erant,excideti erant,excidi erant,excidi erant,They had been fall outed
+Passive Indicative,Future Perfect,1st Person,Singular,excidatus ero,excidetus ero,excidus ero,excidus ero,I will have been fall outed
+Passive Indicative,Future Perfect,1st Person,Plural,excidati erimus,excideti erimus,excidi erimus,excidi erimus,We will have been fall outed
+Passive Indicative,Future Perfect,2nd Person,Singular,excidatus eris,excidetus eris,excidus eris,excidus eris,You will have been fall outed
+Passive Indicative,Future Perfect,2nd Person,Plural,excidati eritis,excideti eritis,excidi eritis,excidi eritis,You (pl.) will have been fall outed
+Passive Indicative,Future Perfect,3rd Person,Singular,excidatus erit,excidetus erit,excidus erit,excidus erit,He/she/it will have been fall outed
+Passive Indicative,Future Perfect,3rd Person,Plural,excidati erunt,excideti erunt,excidi erunt,excidi erunt,They will have been fall outed
+Active Subjunctive,Present,1st Person,Singular,excidem,excidem,excidam,excidam,I may fall out
+Active Subjunctive,Present,1st Person,Plural,excidemus,excidemus,excidamus,excidamus,We may fall out
+Active Subjunctive,Present,2nd Person,Singular,excides,excides,excidas,excidas,You may fall out
+Active Subjunctive,Present,2nd Person,Plural,excidetis,excidetis,excidatis,excidatis,You (pl.) may fall out
+Active Subjunctive,Present,3rd Person,Singular,excidet,excidet,excidat,excidat,He/she/it may fall out
+Active Subjunctive,Present,3rd Person,Plural,excident,excident,excidant,excidant,They may fall out
+Active Subjunctive,Imperfect,1st Person,Singular,excidarem,exciderem,exciderem,excidirem,I should fall out
+Active Subjunctive,Imperfect,1st Person,Plural,excidaremus,excideremus,excideremus,excidiremus,We should fall out
+Active Subjunctive,Imperfect,2nd Person,Singular,excidares,excideres,excideres,excidires,You should fall out
+Active Subjunctive,Imperfect,2nd Person,Plural,excidaretis,excideretis,excideretis,excidiretis,You (pl.) should fall out
+Active Subjunctive,Imperfect,3rd Person,Singular,excidaret,excideret,excideret,excidiret,He/she/it should fall out
+Active Subjunctive,Imperfect,3rd Person,Plural,excidarent,exciderent,exciderent,excidirent,They should fall out
+Active Subjunctive,Perfect,1st Person,Singular,exciderim,exciduerim,exciderim,excidierim,I may have fall outed
+Active Subjunctive,Perfect,1st Person,Plural,exciderimus,exciduerimus,exciderimus,excidierimus,We may have fall outed
+Active Subjunctive,Perfect,2nd Person,Singular,excideris,excidueris,excideris,excidieris,You may have fall outed
+Active Subjunctive,Perfect,2nd Person,Plural,excideritis,excidueritis,excideritis,excidieritis,You (pl.) may have fall outed
+Active Subjunctive,Perfect,3rd Person,Singular,exciderit,exciduerit,exciderit,excidierit,He/she/it may have fall outed
+Active Subjunctive,Perfect,3rd Person,Plural,exciderint,exciduerint,exciderint,excidierint,They may have fall outed
+Active Subjunctive,Pluperfect,1st Person,Singular,excidissem,exciduissem,excidissem,excidissem,I should have fall outed
+Active Subjunctive,Pluperfect,1st Person,Plural,excidissemus,exciduissemus,excidissemus,excidissemus,We should have fall outed
+Active Subjunctive,Pluperfect,2nd Person,Singular,excidisses,exciduisses,excidisses,excidisses,You would have fall outed
+Active Subjunctive,Pluperfect,2nd Person,Plural,excidissetis,exciduissetis,excidissetis,excidissetis,You (pl.) would have fall outed
+Active Subjunctive,Pluperfect,3rd Person,Singular,excidisset,exciduisset,excidisset,excidisset,He/she/it would have fall outed
+Active Subjunctive,Pluperfect,3rd Person,Plural,excidissent,exciduissent,excidissent,excidissent,They would have fall outed
+Passive Subjunctive,Present,1st Person,Singular,excider,excider,excidar,excidar,I may be fall outed
+Passive Subjunctive,Present,1st Person,Plural,excidemur,excidemur,excidamur,excidamur,We may be fall outed
+Passive Subjunctive,Present,2nd Person,Singular,excideris,excideris,excidaris,excidaris,You may be fall outed
+Passive Subjunctive,Present,2nd Person,Plural,excidemini,excidemini,excidamini,excidamini,You (pl.) may be fall outed
+Passive Subjunctive,Present,3rd Person,Singular,excidetur,excidetur,excidatur,excidatur,He/she/it may be fall outed
+Passive Subjunctive,Present,3rd Person,Plural,excidentur,excidentur,excidantur,excidantur,They may be fall outed
+Passive Subjunctive,Imperfect,1st Person,Singular,excidarer,exciderer,exciderer,excidirer,I should be fall outed
+Passive Subjunctive,Imperfect,1st Person,Plural,excidaremur,excideremur,excideremur,excidiremur,We should be fall outed
+Passive Subjunctive,Imperfect,2nd Person,Singular,excidareris,excidereris,excidereris,excidireris,You would be fall outed
+Passive Subjunctive,Imperfect,2nd Person,Plural,excidaremini,excideremini,excideremini,excidiremini,You (pl.) would be fall outed
+Passive Subjunctive,Imperfect,3rd Person,Singular,excidaretur,excideretur,excideretur,excidiretur,He/she/it would be fall outed
+Passive Subjunctive,Imperfect,3rd Person,Plural,excidarentur,exciderentur,exciderentur,excidirentur,They would be fall outed
+Passive Subjunctive,Perfect,1st Person,Singular,excidatus sim,excidetus sim,excidus sim,excidus sim,I may have been fall outed
+Passive Subjunctive,Perfect,1st Person,Plural,excidati simus,excideti simus,excidi simus,excidi simus,We may have been fall outed
+Passive Subjunctive,Perfect,2nd Person,Singular,excidatus sis,excidetus sis,excidus sis,excidus sis,You may have been fall outed
+Passive Subjunctive,Perfect,2nd Person,Plural,excidati sitis,excideti sitis,excidi sitis,excidi sitis,You (pl.) may have been fall outed
+Passive Subjunctive,Perfect,3rd Person,Singular,excidatus sit,excidetus sit,excidus sit,excidus sit,He/she/it may have been fall outed
+Passive Subjunctive,Perfect,3rd Person,Plural,excidati sint,excideti sint,excidi sint,excidi sint,They may have been fall outed
+Passive Subjunctive,Pluperfect,1st Person,Singular,excidatus essem,excidetus essem,excidus essem,excidus essem,I should have been fall outed
+Passive Subjunctive,Pluperfect,1st Person,Plural,excidati essemus,excideti essemus,excidi essemus,excidi essemus,We should have been fall outed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,excidatus esses,excidetus esses,excidus esses,excidus esses,You would have been fall outed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,excidati essetis,excideti essetis,excidi essetis,excidi essetis,You (pl.) would have been fall outed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,excidatus esset,excidetus esset,excidus esset,excidus esset,He/she/it would have been fall outed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,excidati essent,excideti essent,excidi essent,excidi essent,They would have been fall outed

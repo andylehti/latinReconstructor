@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,mucico,muciceo,mucico,mucicio,I blow nose
+Active Indicative,Present,1st Person,Plural,mucicamus,mucicemus,mucicimus,mucicimus,We blow nose
+Active Indicative,Present,2nd Person,Singular,mucicas,mucices,mucicis,mucicis,You blow nose
+Active Indicative,Present,2nd Person,Plural,mucicatis,mucicetis,mucicitis,mucicitis,You (pl.) blow nose
+Active Indicative,Present,3rd Person,Singular,mucicat,mucicet,mucicit,mucicit,He/she/it blow nose
+Active Indicative,Present,3rd Person,Plural,mucicant,mucicent,muciciunt,muciciunt,They blow nose
+Active Indicative,Imperfect,1st Person,Singular,mucicabam,mucicebam,mucicebam,muciciebam,I was blow noseing
+Active Indicative,Imperfect,1st Person,Plural,mucicabamus,mucicebamus,mucicebamus,muciciebamus,We were blow noseing
+Active Indicative,Imperfect,2nd Person,Singular,mucicabas,mucicebas,mucicebas,muciciebas,You were blow noseing
+Active Indicative,Imperfect,2nd Person,Plural,mucicabatis,mucicebatis,mucicebatis,muciciebatis,You (pl.) were blow noseing
+Active Indicative,Imperfect,3rd Person,Singular,mucicabat,mucicebat,mucicebat,muciciebat,He/she/it was blow noseing
+Active Indicative,Imperfect,3rd Person,Plural,mucicabant,mucicebant,mucicebant,muciciebant,They were blow noseing
+Active Indicative,Future,1st Person,Singular,mucicabo,mucicebo,mucicam,muciciam,I will blow nose
+Active Indicative,Future,1st Person,Plural,mucicabimus,mucicebimus,mucicemus,muciciemus,We will blow nose
+Active Indicative,Future,2nd Person,Singular,mucicabis,mucicebis,mucices,mucicies,You will blow nose
+Active Indicative,Future,2nd Person,Plural,mucicabitis,mucicebitis,mucicetis,mucicietis,You (pl.) will blow nose
+Active Indicative,Future,3rd Person,Singular,mucicabit,mucicebit,mucicet,muciciet,He/she/it will blow nose
+Active Indicative,Future,3rd Person,Plural,mucicabunt,mucicebunt,mucicent,mucicient,They will blow nose
+Active Indicative,Perfect,1st Person,Singular,mucicavi,mucicui,mucici,mucici,I have blow noseed
+Active Indicative,Perfect,1st Person,Plural,mucicavimus,mucicuimus,mucicimus,mucicimus,We have blow noseed
+Active Indicative,Perfect,2nd Person,Singular,mucicavisti,mucicuisti,mucicisti,mucicisti,You have blow noseed
+Active Indicative,Perfect,2nd Person,Plural,mucicavistis,mucicuistis,mucicistis,mucicistis,You (pl.) have blow noseed
+Active Indicative,Perfect,3rd Person,Singular,mucicavit,mucicuit,mucicit,mucicit,He/she/it has blow noseed
+Active Indicative,Perfect,3rd Person,Plural,mucicaverunt,mucicuerunt,mucicerunt,mucicerunt,They have blow noseed
+Active Indicative,Pluperfect,1st Person,Singular,mucicaveram,mucicueram,muciceram,muciceram,I had blow noseed
+Active Indicative,Pluperfect,1st Person,Plural,mucicaveramus,mucicueramus,muciceramus,muciceramus,We had blow noseed
+Active Indicative,Pluperfect,2nd Person,Singular,mucicaveras,mucicueras,muciceras,muciceras,You had blow noseed
+Active Indicative,Pluperfect,2nd Person,Plural,mucicaveratis,mucicueratis,muciceratis,muciceratis,You (pl.) had blow noseed
+Active Indicative,Pluperfect,3rd Person,Singular,mucicaverat,mucicuerat,mucicerat,mucicerat,He/she/it had blow noseed
+Active Indicative,Pluperfect,3rd Person,Plural,mucicaverant,mucicuerant,mucicerant,mucicerant,They had blow noseed
+Active Indicative,Future Perfect,1st Person,Singular,mucicavero,mucicueero,mucicero,muciciero,I will have blow noseed
+Active Indicative,Future Perfect,1st Person,Plural,mucicaverimus,mucicuerimus,mucicerimus,mucicierimus,We will have blow noseed
+Active Indicative,Future Perfect,2nd Person,Singular,mucicaveris,mucicueris,muciceris,mucicieris,You will have blow noseed
+Active Indicative,Future Perfect,2nd Person,Plural,mucicaveritis,mucicueritis,muciceritis,mucicieritis,You (pl.) will have blow noseed
+Active Indicative,Future Perfect,3rd Person,Singular,mucicaverit,mucicuerit,mucicerit,mucicierit,He/she/it will have blow noseed
+Active Indicative,Future Perfect,3rd Person,Plural,mucicaverint,mucicuerint,mucicerint,mucicierint,They will have blow noseed
+Passive Indicative,Present,1st Person,Singular,mucicor,muciceor,mucicor,mucicior,I am being blow noseed
+Passive Indicative,Present,1st Person,Plural,mucicamur,mucicemur,mucicimur,mucicimur,We are being blow noseed
+Passive Indicative,Present,2nd Person,Singular,mucicaris,muciceris,muciciris,muciciris,You are being blow noseed
+Passive Indicative,Present,2nd Person,Plural,mucicamini,mucicemini,mucicimini,mucicimini,You (pl.) are being blow noseed
+Passive Indicative,Present,3rd Person,Singular,mucicatur,mucicetur,mucicitur,mucicitur,He/she/it is being blow noseed
+Passive Indicative,Present,3rd Person,Plural,mucicantur,mucicentur,muciciuntur,muciciuntur,They are being blow noseed
+Passive Indicative,Imperfect,1st Person,Singular,mucicabar,mucicebar,mucicebar,muciciebar,I was blow noseed
+Passive Indicative,Imperfect,1st Person,Plural,mucicabamur,mucicebamur,mucicebamur,muciciebamur,We were blow noseed
+Passive Indicative,Imperfect,2nd Person,Singular,mucicabaris,mucicebaris,mucicebaris,muciciebaris,You were blow noseed
+Passive Indicative,Imperfect,2nd Person,Plural,mucicabamini,mucicebamini,mucicebamini,muciciebamini,You (pl.) were blow noseed
+Passive Indicative,Imperfect,3rd Person,Singular,mucicabatur,mucicebatur,mucicebatur,muciciebatur,He/she/it was blow noseed
+Passive Indicative,Imperfect,3rd Person,Plural,mucicabantur,mucicebantur,mucicebantur,muciciebantur,They were blow noseed
+Passive Indicative,Future,1st Person,Singular,mucicabor,mucicebor,mucicar,muciciar,I will be blow noseed
+Passive Indicative,Future,1st Person,Plural,mucicabimur,mucicebimur,mucicemur,muciciemur,We will be blow noseed
+Passive Indicative,Future,2nd Person,Singular,mucicaberis,muciceberis,muciceris,mucicieris,You will be blow noseed
+Passive Indicative,Future,2nd Person,Plural,mucicabimini,mucicebimini,mucicemini,muciciemini,You (pl.) will be blow noseed
+Passive Indicative,Future,3rd Person,Singular,mucicabitur,mucicebitur,mucicetur,mucicietur,He/she/it will be blow noseed
+Passive Indicative,Future,3rd Person,Plural,mucicabuntur,mucicebuntur,mucicentur,mucicientur,They will be blow noseed
+Passive Indicative,Perfect,1st Person,Singular,mucicatus sum,mucicetus sum,mucicus sum,mucicus sum,I have been blow noseed
+Passive Indicative,Perfect,1st Person,Plural,mucicati sumus,muciceti sumus,mucici sumus,mucici sumus,We have been blow noseed
+Passive Indicative,Perfect,2nd Person,Singular,mucicatus es,mucicetus es,mucicus es,mucicus es,You have been blow noseed
+Passive Indicative,Perfect,2nd Person,Plural,mucicati estis,muciceti estis,mucici estis,mucici estis,You (pl.) have been blow noseed
+Passive Indicative,Perfect,3rd Person,Singular,mucicatus est,mucicetus est,mucicus est,mucicus est,He/she/it has been blow noseed
+Passive Indicative,Perfect,3rd Person,Plural,mucicati sunt,muciceti sunt,mucici sunt,mucici sunt,They have been blow noseed
+Passive Indicative,Pluperfect,1st Person,Singular,mucicatus eram,mucicetus eram,mucicus eram,mucicus eram,I had been blow noseed
+Passive Indicative,Pluperfect,1st Person,Plural,mucicati eramus,muciceti eramus,mucici eramus,mucici eramus,We had been blow noseed
+Passive Indicative,Pluperfect,2nd Person,Singular,mucicatus eras,mucicetus eras,mucicus eras,mucicus eras,You had been blow noseed
+Passive Indicative,Pluperfect,2nd Person,Plural,mucicati eratis,muciceti eratis,mucici eratis,mucici eratis,You (pl.) had been blow noseed
+Passive Indicative,Pluperfect,3rd Person,Singular,mucicatus erat,mucicetus erat,mucicus erat,mucicus erat,He/she/it had been blow noseed
+Passive Indicative,Pluperfect,3rd Person,Plural,mucicati erant,muciceti erant,mucici erant,mucici erant,They had been blow noseed
+Passive Indicative,Future Perfect,1st Person,Singular,mucicatus ero,mucicetus ero,mucicus ero,mucicus ero,I will have been blow noseed
+Passive Indicative,Future Perfect,1st Person,Plural,mucicati erimus,muciceti erimus,mucici erimus,mucici erimus,We will have been blow noseed
+Passive Indicative,Future Perfect,2nd Person,Singular,mucicatus eris,mucicetus eris,mucicus eris,mucicus eris,You will have been blow noseed
+Passive Indicative,Future Perfect,2nd Person,Plural,mucicati eritis,muciceti eritis,mucici eritis,mucici eritis,You (pl.) will have been blow noseed
+Passive Indicative,Future Perfect,3rd Person,Singular,mucicatus erit,mucicetus erit,mucicus erit,mucicus erit,He/she/it will have been blow noseed
+Passive Indicative,Future Perfect,3rd Person,Plural,mucicati erunt,muciceti erunt,mucici erunt,mucici erunt,They will have been blow noseed
+Active Subjunctive,Present,1st Person,Singular,mucicem,mucicem,mucicam,mucicam,I may blow nose
+Active Subjunctive,Present,1st Person,Plural,mucicemus,mucicemus,mucicamus,mucicamus,We may blow nose
+Active Subjunctive,Present,2nd Person,Singular,mucices,mucices,mucicas,mucicas,You may blow nose
+Active Subjunctive,Present,2nd Person,Plural,mucicetis,mucicetis,mucicatis,mucicatis,You (pl.) may blow nose
+Active Subjunctive,Present,3rd Person,Singular,mucicet,mucicet,mucicat,mucicat,He/she/it may blow nose
+Active Subjunctive,Present,3rd Person,Plural,mucicent,mucicent,mucicant,mucicant,They may blow nose
+Active Subjunctive,Imperfect,1st Person,Singular,mucicarem,mucicerem,mucicerem,mucicirem,I should blow nose
+Active Subjunctive,Imperfect,1st Person,Plural,mucicaremus,muciceremus,muciceremus,muciciremus,We should blow nose
+Active Subjunctive,Imperfect,2nd Person,Singular,mucicares,muciceres,muciceres,mucicires,You should blow nose
+Active Subjunctive,Imperfect,2nd Person,Plural,mucicaretis,muciceretis,muciceretis,muciciretis,You (pl.) should blow nose
+Active Subjunctive,Imperfect,3rd Person,Singular,mucicaret,muciceret,muciceret,muciciret,He/she/it should blow nose
+Active Subjunctive,Imperfect,3rd Person,Plural,mucicarent,mucicerent,mucicerent,mucicirent,They should blow nose
+Active Subjunctive,Perfect,1st Person,Singular,mucicerim,mucicuerim,mucicerim,mucicierim,I may have blow noseed
+Active Subjunctive,Perfect,1st Person,Plural,mucicerimus,mucicuerimus,mucicerimus,mucicierimus,We may have blow noseed
+Active Subjunctive,Perfect,2nd Person,Singular,muciceris,mucicueris,muciceris,mucicieris,You may have blow noseed
+Active Subjunctive,Perfect,2nd Person,Plural,muciceritis,mucicueritis,muciceritis,mucicieritis,You (pl.) may have blow noseed
+Active Subjunctive,Perfect,3rd Person,Singular,mucicerit,mucicuerit,mucicerit,mucicierit,He/she/it may have blow noseed
+Active Subjunctive,Perfect,3rd Person,Plural,mucicerint,mucicuerint,mucicerint,mucicierint,They may have blow noseed
+Active Subjunctive,Pluperfect,1st Person,Singular,mucicissem,mucicuissem,mucicissem,mucicissem,I should have blow noseed
+Active Subjunctive,Pluperfect,1st Person,Plural,mucicissemus,mucicuissemus,mucicissemus,mucicissemus,We should have blow noseed
+Active Subjunctive,Pluperfect,2nd Person,Singular,mucicisses,mucicuisses,mucicisses,mucicisses,You would have blow noseed
+Active Subjunctive,Pluperfect,2nd Person,Plural,mucicissetis,mucicuissetis,mucicissetis,mucicissetis,You (pl.) would have blow noseed
+Active Subjunctive,Pluperfect,3rd Person,Singular,mucicisset,mucicuisset,mucicisset,mucicisset,He/she/it would have blow noseed
+Active Subjunctive,Pluperfect,3rd Person,Plural,mucicissent,mucicuissent,mucicissent,mucicissent,They would have blow noseed
+Passive Subjunctive,Present,1st Person,Singular,mucicer,mucicer,mucicar,mucicar,I may be blow noseed
+Passive Subjunctive,Present,1st Person,Plural,mucicemur,mucicemur,mucicamur,mucicamur,We may be blow noseed
+Passive Subjunctive,Present,2nd Person,Singular,muciceris,muciceris,mucicaris,mucicaris,You may be blow noseed
+Passive Subjunctive,Present,2nd Person,Plural,mucicemini,mucicemini,mucicamini,mucicamini,You (pl.) may be blow noseed
+Passive Subjunctive,Present,3rd Person,Singular,mucicetur,mucicetur,mucicatur,mucicatur,He/she/it may be blow noseed
+Passive Subjunctive,Present,3rd Person,Plural,mucicentur,mucicentur,mucicantur,mucicantur,They may be blow noseed
+Passive Subjunctive,Imperfect,1st Person,Singular,mucicarer,mucicerer,mucicerer,mucicirer,I should be blow noseed
+Passive Subjunctive,Imperfect,1st Person,Plural,mucicaremur,muciceremur,muciceremur,muciciremur,We should be blow noseed
+Passive Subjunctive,Imperfect,2nd Person,Singular,mucicareris,mucicereris,mucicereris,mucicireris,You would be blow noseed
+Passive Subjunctive,Imperfect,2nd Person,Plural,mucicaremini,muciceremini,muciceremini,muciciremini,You (pl.) would be blow noseed
+Passive Subjunctive,Imperfect,3rd Person,Singular,mucicaretur,muciceretur,muciceretur,muciciretur,He/she/it would be blow noseed
+Passive Subjunctive,Imperfect,3rd Person,Plural,mucicarentur,mucicerentur,mucicerentur,mucicirentur,They would be blow noseed
+Passive Subjunctive,Perfect,1st Person,Singular,mucicatus sim,mucicetus sim,mucicus sim,mucicus sim,I may have been blow noseed
+Passive Subjunctive,Perfect,1st Person,Plural,mucicati simus,muciceti simus,mucici simus,mucici simus,We may have been blow noseed
+Passive Subjunctive,Perfect,2nd Person,Singular,mucicatus sis,mucicetus sis,mucicus sis,mucicus sis,You may have been blow noseed
+Passive Subjunctive,Perfect,2nd Person,Plural,mucicati sitis,muciceti sitis,mucici sitis,mucici sitis,You (pl.) may have been blow noseed
+Passive Subjunctive,Perfect,3rd Person,Singular,mucicatus sit,mucicetus sit,mucicus sit,mucicus sit,He/she/it may have been blow noseed
+Passive Subjunctive,Perfect,3rd Person,Plural,mucicati sint,muciceti sint,mucici sint,mucici sint,They may have been blow noseed
+Passive Subjunctive,Pluperfect,1st Person,Singular,mucicatus essem,mucicetus essem,mucicus essem,mucicus essem,I should have been blow noseed
+Passive Subjunctive,Pluperfect,1st Person,Plural,mucicati essemus,muciceti essemus,mucici essemus,mucici essemus,We should have been blow noseed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,mucicatus esses,mucicetus esses,mucicus esses,mucicus esses,You would have been blow noseed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,mucicati essetis,muciceti essetis,mucici essetis,mucici essetis,You (pl.) would have been blow noseed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,mucicatus esset,mucicetus esset,mucicus esset,mucicus esset,He/she/it would have been blow noseed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,mucicati essent,muciceti essent,mucici essent,mucici essent,They would have been blow noseed

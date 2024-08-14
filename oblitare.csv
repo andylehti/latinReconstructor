@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,oblito,obliteo,oblito,oblitio,I forget
+Active Indicative,Present,1st Person,Plural,oblitamus,oblitemus,oblitimus,oblitimus,We forget
+Active Indicative,Present,2nd Person,Singular,oblitas,oblites,oblitis,oblitis,You forget
+Active Indicative,Present,2nd Person,Plural,oblitatis,oblitetis,oblititis,oblititis,You (pl.) forget
+Active Indicative,Present,3rd Person,Singular,oblitat,oblitet,oblitit,oblitit,He/she/it forget
+Active Indicative,Present,3rd Person,Plural,oblitant,oblitent,oblitiunt,oblitiunt,They forget
+Active Indicative,Imperfect,1st Person,Singular,oblitabam,oblitebam,oblitebam,oblitiebam,I was forgeting
+Active Indicative,Imperfect,1st Person,Plural,oblitabamus,oblitebamus,oblitebamus,oblitiebamus,We were forgeting
+Active Indicative,Imperfect,2nd Person,Singular,oblitabas,oblitebas,oblitebas,oblitiebas,You were forgeting
+Active Indicative,Imperfect,2nd Person,Plural,oblitabatis,oblitebatis,oblitebatis,oblitiebatis,You (pl.) were forgeting
+Active Indicative,Imperfect,3rd Person,Singular,oblitabat,oblitebat,oblitebat,oblitiebat,He/she/it was forgeting
+Active Indicative,Imperfect,3rd Person,Plural,oblitabant,oblitebant,oblitebant,oblitiebant,They were forgeting
+Active Indicative,Future,1st Person,Singular,oblitabo,oblitebo,oblitam,oblitiam,I will forget
+Active Indicative,Future,1st Person,Plural,oblitabimus,oblitebimus,oblitemus,oblitiemus,We will forget
+Active Indicative,Future,2nd Person,Singular,oblitabis,oblitebis,oblites,oblities,You will forget
+Active Indicative,Future,2nd Person,Plural,oblitabitis,oblitebitis,oblitetis,oblitietis,You (pl.) will forget
+Active Indicative,Future,3rd Person,Singular,oblitabit,oblitebit,oblitet,oblitiet,He/she/it will forget
+Active Indicative,Future,3rd Person,Plural,oblitabunt,oblitebunt,oblitent,oblitient,They will forget
+Active Indicative,Perfect,1st Person,Singular,oblitavi,oblitui,obliti,obliti,I have forgeted
+Active Indicative,Perfect,1st Person,Plural,oblitavimus,oblituimus,oblitimus,oblitimus,We have forgeted
+Active Indicative,Perfect,2nd Person,Singular,oblitavisti,oblituisti,oblitisti,oblitisti,You have forgeted
+Active Indicative,Perfect,2nd Person,Plural,oblitavistis,oblituistis,oblitistis,oblitistis,You (pl.) have forgeted
+Active Indicative,Perfect,3rd Person,Singular,oblitavit,oblituit,oblitit,oblitit,He/she/it has forgeted
+Active Indicative,Perfect,3rd Person,Plural,oblitaverunt,oblituerunt,obliterunt,obliterunt,They have forgeted
+Active Indicative,Pluperfect,1st Person,Singular,oblitaveram,oblitueram,obliteram,obliteram,I had forgeted
+Active Indicative,Pluperfect,1st Person,Plural,oblitaveramus,oblitueramus,obliteramus,obliteramus,We had forgeted
+Active Indicative,Pluperfect,2nd Person,Singular,oblitaveras,oblitueras,obliteras,obliteras,You had forgeted
+Active Indicative,Pluperfect,2nd Person,Plural,oblitaveratis,oblitueratis,obliteratis,obliteratis,You (pl.) had forgeted
+Active Indicative,Pluperfect,3rd Person,Singular,oblitaverat,oblituerat,obliterat,obliterat,He/she/it had forgeted
+Active Indicative,Pluperfect,3rd Person,Plural,oblitaverant,oblituerant,obliterant,obliterant,They had forgeted
+Active Indicative,Future Perfect,1st Person,Singular,oblitavero,oblitueero,oblitero,oblitiero,I will have forgeted
+Active Indicative,Future Perfect,1st Person,Plural,oblitaverimus,oblituerimus,obliterimus,oblitierimus,We will have forgeted
+Active Indicative,Future Perfect,2nd Person,Singular,oblitaveris,oblitueris,obliteris,oblitieris,You will have forgeted
+Active Indicative,Future Perfect,2nd Person,Plural,oblitaveritis,oblitueritis,obliteritis,oblitieritis,You (pl.) will have forgeted
+Active Indicative,Future Perfect,3rd Person,Singular,oblitaverit,oblituerit,obliterit,oblitierit,He/she/it will have forgeted
+Active Indicative,Future Perfect,3rd Person,Plural,oblitaverint,oblituerint,obliterint,oblitierint,They will have forgeted
+Passive Indicative,Present,1st Person,Singular,oblitor,obliteor,oblitor,oblitior,I am being forgeted
+Passive Indicative,Present,1st Person,Plural,oblitamur,oblitemur,oblitimur,oblitimur,We are being forgeted
+Passive Indicative,Present,2nd Person,Singular,oblitaris,obliteris,oblitiris,oblitiris,You are being forgeted
+Passive Indicative,Present,2nd Person,Plural,oblitamini,oblitemini,oblitimini,oblitimini,You (pl.) are being forgeted
+Passive Indicative,Present,3rd Person,Singular,oblitatur,oblitetur,oblititur,oblititur,He/she/it is being forgeted
+Passive Indicative,Present,3rd Person,Plural,oblitantur,oblitentur,oblitiuntur,oblitiuntur,They are being forgeted
+Passive Indicative,Imperfect,1st Person,Singular,oblitabar,oblitebar,oblitebar,oblitiebar,I was forgeted
+Passive Indicative,Imperfect,1st Person,Plural,oblitabamur,oblitebamur,oblitebamur,oblitiebamur,We were forgeted
+Passive Indicative,Imperfect,2nd Person,Singular,oblitabaris,oblitebaris,oblitebaris,oblitiebaris,You were forgeted
+Passive Indicative,Imperfect,2nd Person,Plural,oblitabamini,oblitebamini,oblitebamini,oblitiebamini,You (pl.) were forgeted
+Passive Indicative,Imperfect,3rd Person,Singular,oblitabatur,oblitebatur,oblitebatur,oblitiebatur,He/she/it was forgeted
+Passive Indicative,Imperfect,3rd Person,Plural,oblitabantur,oblitebantur,oblitebantur,oblitiebantur,They were forgeted
+Passive Indicative,Future,1st Person,Singular,oblitabor,oblitebor,oblitar,oblitiar,I will be forgeted
+Passive Indicative,Future,1st Person,Plural,oblitabimur,oblitebimur,oblitemur,oblitiemur,We will be forgeted
+Passive Indicative,Future,2nd Person,Singular,oblitaberis,obliteberis,obliteris,oblitieris,You will be forgeted
+Passive Indicative,Future,2nd Person,Plural,oblitabimini,oblitebimini,oblitemini,oblitiemini,You (pl.) will be forgeted
+Passive Indicative,Future,3rd Person,Singular,oblitabitur,oblitebitur,oblitetur,oblitietur,He/she/it will be forgeted
+Passive Indicative,Future,3rd Person,Plural,oblitabuntur,oblitebuntur,oblitentur,oblitientur,They will be forgeted
+Passive Indicative,Perfect,1st Person,Singular,oblitatus sum,oblitetus sum,oblitus sum,oblitus sum,I have been forgeted
+Passive Indicative,Perfect,1st Person,Plural,oblitati sumus,obliteti sumus,obliti sumus,obliti sumus,We have been forgeted
+Passive Indicative,Perfect,2nd Person,Singular,oblitatus es,oblitetus es,oblitus es,oblitus es,You have been forgeted
+Passive Indicative,Perfect,2nd Person,Plural,oblitati estis,obliteti estis,obliti estis,obliti estis,You (pl.) have been forgeted
+Passive Indicative,Perfect,3rd Person,Singular,oblitatus est,oblitetus est,oblitus est,oblitus est,He/she/it has been forgeted
+Passive Indicative,Perfect,3rd Person,Plural,oblitati sunt,obliteti sunt,obliti sunt,obliti sunt,They have been forgeted
+Passive Indicative,Pluperfect,1st Person,Singular,oblitatus eram,oblitetus eram,oblitus eram,oblitus eram,I had been forgeted
+Passive Indicative,Pluperfect,1st Person,Plural,oblitati eramus,obliteti eramus,obliti eramus,obliti eramus,We had been forgeted
+Passive Indicative,Pluperfect,2nd Person,Singular,oblitatus eras,oblitetus eras,oblitus eras,oblitus eras,You had been forgeted
+Passive Indicative,Pluperfect,2nd Person,Plural,oblitati eratis,obliteti eratis,obliti eratis,obliti eratis,You (pl.) had been forgeted
+Passive Indicative,Pluperfect,3rd Person,Singular,oblitatus erat,oblitetus erat,oblitus erat,oblitus erat,He/she/it had been forgeted
+Passive Indicative,Pluperfect,3rd Person,Plural,oblitati erant,obliteti erant,obliti erant,obliti erant,They had been forgeted
+Passive Indicative,Future Perfect,1st Person,Singular,oblitatus ero,oblitetus ero,oblitus ero,oblitus ero,I will have been forgeted
+Passive Indicative,Future Perfect,1st Person,Plural,oblitati erimus,obliteti erimus,obliti erimus,obliti erimus,We will have been forgeted
+Passive Indicative,Future Perfect,2nd Person,Singular,oblitatus eris,oblitetus eris,oblitus eris,oblitus eris,You will have been forgeted
+Passive Indicative,Future Perfect,2nd Person,Plural,oblitati eritis,obliteti eritis,obliti eritis,obliti eritis,You (pl.) will have been forgeted
+Passive Indicative,Future Perfect,3rd Person,Singular,oblitatus erit,oblitetus erit,oblitus erit,oblitus erit,He/she/it will have been forgeted
+Passive Indicative,Future Perfect,3rd Person,Plural,oblitati erunt,obliteti erunt,obliti erunt,obliti erunt,They will have been forgeted
+Active Subjunctive,Present,1st Person,Singular,oblitem,oblitem,oblitam,oblitam,I may forget
+Active Subjunctive,Present,1st Person,Plural,oblitemus,oblitemus,oblitamus,oblitamus,We may forget
+Active Subjunctive,Present,2nd Person,Singular,oblites,oblites,oblitas,oblitas,You may forget
+Active Subjunctive,Present,2nd Person,Plural,oblitetis,oblitetis,oblitatis,oblitatis,You (pl.) may forget
+Active Subjunctive,Present,3rd Person,Singular,oblitet,oblitet,oblitat,oblitat,He/she/it may forget
+Active Subjunctive,Present,3rd Person,Plural,oblitent,oblitent,oblitant,oblitant,They may forget
+Active Subjunctive,Imperfect,1st Person,Singular,oblitarem,obliterem,obliterem,oblitirem,I should forget
+Active Subjunctive,Imperfect,1st Person,Plural,oblitaremus,obliteremus,obliteremus,oblitiremus,We should forget
+Active Subjunctive,Imperfect,2nd Person,Singular,oblitares,obliteres,obliteres,oblitires,You should forget
+Active Subjunctive,Imperfect,2nd Person,Plural,oblitaretis,obliteretis,obliteretis,oblitiretis,You (pl.) should forget
+Active Subjunctive,Imperfect,3rd Person,Singular,oblitaret,obliteret,obliteret,oblitiret,He/she/it should forget
+Active Subjunctive,Imperfect,3rd Person,Plural,oblitarent,obliterent,obliterent,oblitirent,They should forget
+Active Subjunctive,Perfect,1st Person,Singular,obliterim,oblituerim,obliterim,oblitierim,I may have forgeted
+Active Subjunctive,Perfect,1st Person,Plural,obliterimus,oblituerimus,obliterimus,oblitierimus,We may have forgeted
+Active Subjunctive,Perfect,2nd Person,Singular,obliteris,oblitueris,obliteris,oblitieris,You may have forgeted
+Active Subjunctive,Perfect,2nd Person,Plural,obliteritis,oblitueritis,obliteritis,oblitieritis,You (pl.) may have forgeted
+Active Subjunctive,Perfect,3rd Person,Singular,obliterit,oblituerit,obliterit,oblitierit,He/she/it may have forgeted
+Active Subjunctive,Perfect,3rd Person,Plural,obliterint,oblituerint,obliterint,oblitierint,They may have forgeted
+Active Subjunctive,Pluperfect,1st Person,Singular,oblitissem,oblituissem,oblitissem,oblitissem,I should have forgeted
+Active Subjunctive,Pluperfect,1st Person,Plural,oblitissemus,oblituissemus,oblitissemus,oblitissemus,We should have forgeted
+Active Subjunctive,Pluperfect,2nd Person,Singular,oblitisses,oblituisses,oblitisses,oblitisses,You would have forgeted
+Active Subjunctive,Pluperfect,2nd Person,Plural,oblitissetis,oblituissetis,oblitissetis,oblitissetis,You (pl.) would have forgeted
+Active Subjunctive,Pluperfect,3rd Person,Singular,oblitisset,oblituisset,oblitisset,oblitisset,He/she/it would have forgeted
+Active Subjunctive,Pluperfect,3rd Person,Plural,oblitissent,oblituissent,oblitissent,oblitissent,They would have forgeted
+Passive Subjunctive,Present,1st Person,Singular,obliter,obliter,oblitar,oblitar,I may be forgeted
+Passive Subjunctive,Present,1st Person,Plural,oblitemur,oblitemur,oblitamur,oblitamur,We may be forgeted
+Passive Subjunctive,Present,2nd Person,Singular,obliteris,obliteris,oblitaris,oblitaris,You may be forgeted
+Passive Subjunctive,Present,2nd Person,Plural,oblitemini,oblitemini,oblitamini,oblitamini,You (pl.) may be forgeted
+Passive Subjunctive,Present,3rd Person,Singular,oblitetur,oblitetur,oblitatur,oblitatur,He/she/it may be forgeted
+Passive Subjunctive,Present,3rd Person,Plural,oblitentur,oblitentur,oblitantur,oblitantur,They may be forgeted
+Passive Subjunctive,Imperfect,1st Person,Singular,oblitarer,obliterer,obliterer,oblitirer,I should be forgeted
+Passive Subjunctive,Imperfect,1st Person,Plural,oblitaremur,obliteremur,obliteremur,oblitiremur,We should be forgeted
+Passive Subjunctive,Imperfect,2nd Person,Singular,oblitareris,oblitereris,oblitereris,oblitireris,You would be forgeted
+Passive Subjunctive,Imperfect,2nd Person,Plural,oblitaremini,obliteremini,obliteremini,oblitiremini,You (pl.) would be forgeted
+Passive Subjunctive,Imperfect,3rd Person,Singular,oblitaretur,obliteretur,obliteretur,oblitiretur,He/she/it would be forgeted
+Passive Subjunctive,Imperfect,3rd Person,Plural,oblitarentur,obliterentur,obliterentur,oblitirentur,They would be forgeted
+Passive Subjunctive,Perfect,1st Person,Singular,oblitatus sim,oblitetus sim,oblitus sim,oblitus sim,I may have been forgeted
+Passive Subjunctive,Perfect,1st Person,Plural,oblitati simus,obliteti simus,obliti simus,obliti simus,We may have been forgeted
+Passive Subjunctive,Perfect,2nd Person,Singular,oblitatus sis,oblitetus sis,oblitus sis,oblitus sis,You may have been forgeted
+Passive Subjunctive,Perfect,2nd Person,Plural,oblitati sitis,obliteti sitis,obliti sitis,obliti sitis,You (pl.) may have been forgeted
+Passive Subjunctive,Perfect,3rd Person,Singular,oblitatus sit,oblitetus sit,oblitus sit,oblitus sit,He/she/it may have been forgeted
+Passive Subjunctive,Perfect,3rd Person,Plural,oblitati sint,obliteti sint,obliti sint,obliti sint,They may have been forgeted
+Passive Subjunctive,Pluperfect,1st Person,Singular,oblitatus essem,oblitetus essem,oblitus essem,oblitus essem,I should have been forgeted
+Passive Subjunctive,Pluperfect,1st Person,Plural,oblitati essemus,obliteti essemus,obliti essemus,obliti essemus,We should have been forgeted
+Passive Subjunctive,Pluperfect,2nd Person,Singular,oblitatus esses,oblitetus esses,oblitus esses,oblitus esses,You would have been forgeted
+Passive Subjunctive,Pluperfect,2nd Person,Plural,oblitati essetis,obliteti essetis,obliti essetis,obliti essetis,You (pl.) would have been forgeted
+Passive Subjunctive,Pluperfect,3rd Person,Singular,oblitatus esset,oblitetus esset,oblitus esset,oblitus esset,He/she/it would have been forgeted
+Passive Subjunctive,Pluperfect,3rd Person,Plural,oblitati essent,obliteti essent,obliti essent,obliti essent,They would have been forgeted

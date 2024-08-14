@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,pasco,pasceo,pasco,pascio,I graze
+Active Indicative,Present,1st Person,Plural,pascamus,pascemus,pascimus,pascimus,We graze
+Active Indicative,Present,2nd Person,Singular,pascas,pasces,pascis,pascis,You graze
+Active Indicative,Present,2nd Person,Plural,pascatis,pascetis,pascitis,pascitis,You (pl.) graze
+Active Indicative,Present,3rd Person,Singular,pascat,pascet,pascit,pascit,He/she/it graze
+Active Indicative,Present,3rd Person,Plural,pascant,pascent,pasciunt,pasciunt,They graze
+Active Indicative,Imperfect,1st Person,Singular,pascabam,pascebam,pascebam,pasciebam,I was grazeing
+Active Indicative,Imperfect,1st Person,Plural,pascabamus,pascebamus,pascebamus,pasciebamus,We were grazeing
+Active Indicative,Imperfect,2nd Person,Singular,pascabas,pascebas,pascebas,pasciebas,You were grazeing
+Active Indicative,Imperfect,2nd Person,Plural,pascabatis,pascebatis,pascebatis,pasciebatis,You (pl.) were grazeing
+Active Indicative,Imperfect,3rd Person,Singular,pascabat,pascebat,pascebat,pasciebat,He/she/it was grazeing
+Active Indicative,Imperfect,3rd Person,Plural,pascabant,pascebant,pascebant,pasciebant,They were grazeing
+Active Indicative,Future,1st Person,Singular,pascabo,pascebo,pascam,pasciam,I will graze
+Active Indicative,Future,1st Person,Plural,pascabimus,pascebimus,pascemus,pasciemus,We will graze
+Active Indicative,Future,2nd Person,Singular,pascabis,pascebis,pasces,pascies,You will graze
+Active Indicative,Future,2nd Person,Plural,pascabitis,pascebitis,pascetis,pascietis,You (pl.) will graze
+Active Indicative,Future,3rd Person,Singular,pascabit,pascebit,pascet,pasciet,He/she/it will graze
+Active Indicative,Future,3rd Person,Plural,pascabunt,pascebunt,pascent,pascient,They will graze
+Active Indicative,Perfect,1st Person,Singular,pascavi,pascui,pasci,pasci,I have grazeed
+Active Indicative,Perfect,1st Person,Plural,pascavimus,pascuimus,pascimus,pascimus,We have grazeed
+Active Indicative,Perfect,2nd Person,Singular,pascavisti,pascuisti,pascisti,pascisti,You have grazeed
+Active Indicative,Perfect,2nd Person,Plural,pascavistis,pascuistis,pascistis,pascistis,You (pl.) have grazeed
+Active Indicative,Perfect,3rd Person,Singular,pascavit,pascuit,pascit,pascit,He/she/it has grazeed
+Active Indicative,Perfect,3rd Person,Plural,pascaverunt,pascuerunt,pascerunt,pascerunt,They have grazeed
+Active Indicative,Pluperfect,1st Person,Singular,pascaveram,pascueram,pasceram,pasceram,I had grazeed
+Active Indicative,Pluperfect,1st Person,Plural,pascaveramus,pascueramus,pasceramus,pasceramus,We had grazeed
+Active Indicative,Pluperfect,2nd Person,Singular,pascaveras,pascueras,pasceras,pasceras,You had grazeed
+Active Indicative,Pluperfect,2nd Person,Plural,pascaveratis,pascueratis,pasceratis,pasceratis,You (pl.) had grazeed
+Active Indicative,Pluperfect,3rd Person,Singular,pascaverat,pascuerat,pascerat,pascerat,He/she/it had grazeed
+Active Indicative,Pluperfect,3rd Person,Plural,pascaverant,pascuerant,pascerant,pascerant,They had grazeed
+Active Indicative,Future Perfect,1st Person,Singular,pascavero,pascueero,pascero,pasciero,I will have grazeed
+Active Indicative,Future Perfect,1st Person,Plural,pascaverimus,pascuerimus,pascerimus,pascierimus,We will have grazeed
+Active Indicative,Future Perfect,2nd Person,Singular,pascaveris,pascueris,pasceris,pascieris,You will have grazeed
+Active Indicative,Future Perfect,2nd Person,Plural,pascaveritis,pascueritis,pasceritis,pascieritis,You (pl.) will have grazeed
+Active Indicative,Future Perfect,3rd Person,Singular,pascaverit,pascuerit,pascerit,pascierit,He/she/it will have grazeed
+Active Indicative,Future Perfect,3rd Person,Plural,pascaverint,pascuerint,pascerint,pascierint,They will have grazeed
+Passive Indicative,Present,1st Person,Singular,pascor,pasceor,pascor,pascior,I am being grazeed
+Passive Indicative,Present,1st Person,Plural,pascamur,pascemur,pascimur,pascimur,We are being grazeed
+Passive Indicative,Present,2nd Person,Singular,pascaris,pasceris,pasciris,pasciris,You are being grazeed
+Passive Indicative,Present,2nd Person,Plural,pascamini,pascemini,pascimini,pascimini,You (pl.) are being grazeed
+Passive Indicative,Present,3rd Person,Singular,pascatur,pascetur,pascitur,pascitur,He/she/it is being grazeed
+Passive Indicative,Present,3rd Person,Plural,pascantur,pascentur,pasciuntur,pasciuntur,They are being grazeed
+Passive Indicative,Imperfect,1st Person,Singular,pascabar,pascebar,pascebar,pasciebar,I was grazeed
+Passive Indicative,Imperfect,1st Person,Plural,pascabamur,pascebamur,pascebamur,pasciebamur,We were grazeed
+Passive Indicative,Imperfect,2nd Person,Singular,pascabaris,pascebaris,pascebaris,pasciebaris,You were grazeed
+Passive Indicative,Imperfect,2nd Person,Plural,pascabamini,pascebamini,pascebamini,pasciebamini,You (pl.) were grazeed
+Passive Indicative,Imperfect,3rd Person,Singular,pascabatur,pascebatur,pascebatur,pasciebatur,He/she/it was grazeed
+Passive Indicative,Imperfect,3rd Person,Plural,pascabantur,pascebantur,pascebantur,pasciebantur,They were grazeed
+Passive Indicative,Future,1st Person,Singular,pascabor,pascebor,pascar,pasciar,I will be grazeed
+Passive Indicative,Future,1st Person,Plural,pascabimur,pascebimur,pascemur,pasciemur,We will be grazeed
+Passive Indicative,Future,2nd Person,Singular,pascaberis,pasceberis,pasceris,pascieris,You will be grazeed
+Passive Indicative,Future,2nd Person,Plural,pascabimini,pascebimini,pascemini,pasciemini,You (pl.) will be grazeed
+Passive Indicative,Future,3rd Person,Singular,pascabitur,pascebitur,pascetur,pascietur,He/she/it will be grazeed
+Passive Indicative,Future,3rd Person,Plural,pascabuntur,pascebuntur,pascentur,pascientur,They will be grazeed
+Passive Indicative,Perfect,1st Person,Singular,pascatus sum,pascetus sum,pascus sum,pascus sum,I have been grazeed
+Passive Indicative,Perfect,1st Person,Plural,pascati sumus,pasceti sumus,pasci sumus,pasci sumus,We have been grazeed
+Passive Indicative,Perfect,2nd Person,Singular,pascatus es,pascetus es,pascus es,pascus es,You have been grazeed
+Passive Indicative,Perfect,2nd Person,Plural,pascati estis,pasceti estis,pasci estis,pasci estis,You (pl.) have been grazeed
+Passive Indicative,Perfect,3rd Person,Singular,pascatus est,pascetus est,pascus est,pascus est,He/she/it has been grazeed
+Passive Indicative,Perfect,3rd Person,Plural,pascati sunt,pasceti sunt,pasci sunt,pasci sunt,They have been grazeed
+Passive Indicative,Pluperfect,1st Person,Singular,pascatus eram,pascetus eram,pascus eram,pascus eram,I had been grazeed
+Passive Indicative,Pluperfect,1st Person,Plural,pascati eramus,pasceti eramus,pasci eramus,pasci eramus,We had been grazeed
+Passive Indicative,Pluperfect,2nd Person,Singular,pascatus eras,pascetus eras,pascus eras,pascus eras,You had been grazeed
+Passive Indicative,Pluperfect,2nd Person,Plural,pascati eratis,pasceti eratis,pasci eratis,pasci eratis,You (pl.) had been grazeed
+Passive Indicative,Pluperfect,3rd Person,Singular,pascatus erat,pascetus erat,pascus erat,pascus erat,He/she/it had been grazeed
+Passive Indicative,Pluperfect,3rd Person,Plural,pascati erant,pasceti erant,pasci erant,pasci erant,They had been grazeed
+Passive Indicative,Future Perfect,1st Person,Singular,pascatus ero,pascetus ero,pascus ero,pascus ero,I will have been grazeed
+Passive Indicative,Future Perfect,1st Person,Plural,pascati erimus,pasceti erimus,pasci erimus,pasci erimus,We will have been grazeed
+Passive Indicative,Future Perfect,2nd Person,Singular,pascatus eris,pascetus eris,pascus eris,pascus eris,You will have been grazeed
+Passive Indicative,Future Perfect,2nd Person,Plural,pascati eritis,pasceti eritis,pasci eritis,pasci eritis,You (pl.) will have been grazeed
+Passive Indicative,Future Perfect,3rd Person,Singular,pascatus erit,pascetus erit,pascus erit,pascus erit,He/she/it will have been grazeed
+Passive Indicative,Future Perfect,3rd Person,Plural,pascati erunt,pasceti erunt,pasci erunt,pasci erunt,They will have been grazeed
+Active Subjunctive,Present,1st Person,Singular,pascem,pascem,pascam,pascam,I may graze
+Active Subjunctive,Present,1st Person,Plural,pascemus,pascemus,pascamus,pascamus,We may graze
+Active Subjunctive,Present,2nd Person,Singular,pasces,pasces,pascas,pascas,You may graze
+Active Subjunctive,Present,2nd Person,Plural,pascetis,pascetis,pascatis,pascatis,You (pl.) may graze
+Active Subjunctive,Present,3rd Person,Singular,pascet,pascet,pascat,pascat,He/she/it may graze
+Active Subjunctive,Present,3rd Person,Plural,pascent,pascent,pascant,pascant,They may graze
+Active Subjunctive,Imperfect,1st Person,Singular,pascarem,pascerem,pascerem,pascirem,I should graze
+Active Subjunctive,Imperfect,1st Person,Plural,pascaremus,pasceremus,pasceremus,pasciremus,We should graze
+Active Subjunctive,Imperfect,2nd Person,Singular,pascares,pasceres,pasceres,pascires,You should graze
+Active Subjunctive,Imperfect,2nd Person,Plural,pascaretis,pasceretis,pasceretis,pasciretis,You (pl.) should graze
+Active Subjunctive,Imperfect,3rd Person,Singular,pascaret,pasceret,pasceret,pasciret,He/she/it should graze
+Active Subjunctive,Imperfect,3rd Person,Plural,pascarent,pascerent,pascerent,pascirent,They should graze
+Active Subjunctive,Perfect,1st Person,Singular,pascerim,pascuerim,pascerim,pascierim,I may have grazeed
+Active Subjunctive,Perfect,1st Person,Plural,pascerimus,pascuerimus,pascerimus,pascierimus,We may have grazeed
+Active Subjunctive,Perfect,2nd Person,Singular,pasceris,pascueris,pasceris,pascieris,You may have grazeed
+Active Subjunctive,Perfect,2nd Person,Plural,pasceritis,pascueritis,pasceritis,pascieritis,You (pl.) may have grazeed
+Active Subjunctive,Perfect,3rd Person,Singular,pascerit,pascuerit,pascerit,pascierit,He/she/it may have grazeed
+Active Subjunctive,Perfect,3rd Person,Plural,pascerint,pascuerint,pascerint,pascierint,They may have grazeed
+Active Subjunctive,Pluperfect,1st Person,Singular,pascissem,pascuissem,pascissem,pascissem,I should have grazeed
+Active Subjunctive,Pluperfect,1st Person,Plural,pascissemus,pascuissemus,pascissemus,pascissemus,We should have grazeed
+Active Subjunctive,Pluperfect,2nd Person,Singular,pascisses,pascuisses,pascisses,pascisses,You would have grazeed
+Active Subjunctive,Pluperfect,2nd Person,Plural,pascissetis,pascuissetis,pascissetis,pascissetis,You (pl.) would have grazeed
+Active Subjunctive,Pluperfect,3rd Person,Singular,pascisset,pascuisset,pascisset,pascisset,He/she/it would have grazeed
+Active Subjunctive,Pluperfect,3rd Person,Plural,pascissent,pascuissent,pascissent,pascissent,They would have grazeed
+Passive Subjunctive,Present,1st Person,Singular,pascer,pascer,pascar,pascar,I may be grazeed
+Passive Subjunctive,Present,1st Person,Plural,pascemur,pascemur,pascamur,pascamur,We may be grazeed
+Passive Subjunctive,Present,2nd Person,Singular,pasceris,pasceris,pascaris,pascaris,You may be grazeed
+Passive Subjunctive,Present,2nd Person,Plural,pascemini,pascemini,pascamini,pascamini,You (pl.) may be grazeed
+Passive Subjunctive,Present,3rd Person,Singular,pascetur,pascetur,pascatur,pascatur,He/she/it may be grazeed
+Passive Subjunctive,Present,3rd Person,Plural,pascentur,pascentur,pascantur,pascantur,They may be grazeed
+Passive Subjunctive,Imperfect,1st Person,Singular,pascarer,pascerer,pascerer,pascirer,I should be grazeed
+Passive Subjunctive,Imperfect,1st Person,Plural,pascaremur,pasceremur,pasceremur,pasciremur,We should be grazeed
+Passive Subjunctive,Imperfect,2nd Person,Singular,pascareris,pascereris,pascereris,pascireris,You would be grazeed
+Passive Subjunctive,Imperfect,2nd Person,Plural,pascaremini,pasceremini,pasceremini,pasciremini,You (pl.) would be grazeed
+Passive Subjunctive,Imperfect,3rd Person,Singular,pascaretur,pasceretur,pasceretur,pasciretur,He/she/it would be grazeed
+Passive Subjunctive,Imperfect,3rd Person,Plural,pascarentur,pascerentur,pascerentur,pascirentur,They would be grazeed
+Passive Subjunctive,Perfect,1st Person,Singular,pascatus sim,pascetus sim,pascus sim,pascus sim,I may have been grazeed
+Passive Subjunctive,Perfect,1st Person,Plural,pascati simus,pasceti simus,pasci simus,pasci simus,We may have been grazeed
+Passive Subjunctive,Perfect,2nd Person,Singular,pascatus sis,pascetus sis,pascus sis,pascus sis,You may have been grazeed
+Passive Subjunctive,Perfect,2nd Person,Plural,pascati sitis,pasceti sitis,pasci sitis,pasci sitis,You (pl.) may have been grazeed
+Passive Subjunctive,Perfect,3rd Person,Singular,pascatus sit,pascetus sit,pascus sit,pascus sit,He/she/it may have been grazeed
+Passive Subjunctive,Perfect,3rd Person,Plural,pascati sint,pasceti sint,pasci sint,pasci sint,They may have been grazeed
+Passive Subjunctive,Pluperfect,1st Person,Singular,pascatus essem,pascetus essem,pascus essem,pascus essem,I should have been grazeed
+Passive Subjunctive,Pluperfect,1st Person,Plural,pascati essemus,pasceti essemus,pasci essemus,pasci essemus,We should have been grazeed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,pascatus esses,pascetus esses,pascus esses,pascus esses,You would have been grazeed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,pascati essetis,pasceti essetis,pasci essetis,pasci essetis,You (pl.) would have been grazeed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,pascatus esset,pascetus esset,pascus esset,pascus esset,He/she/it would have been grazeed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,pascati essent,pasceti essent,pasci essent,pasci essent,They would have been grazeed

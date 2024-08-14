@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,accapto,accapteo,accapto,accaptio,I accept
+Active Indicative,Present,1st Person,Plural,accaptamus,accaptemus,accaptimus,accaptimus,We accept
+Active Indicative,Present,2nd Person,Singular,accaptas,accaptes,accaptis,accaptis,You accept
+Active Indicative,Present,2nd Person,Plural,accaptatis,accaptetis,accaptitis,accaptitis,You (pl.) accept
+Active Indicative,Present,3rd Person,Singular,accaptat,accaptet,accaptit,accaptit,He/she/it accept
+Active Indicative,Present,3rd Person,Plural,accaptant,accaptent,accaptiunt,accaptiunt,They accept
+Active Indicative,Imperfect,1st Person,Singular,accaptabam,accaptebam,accaptebam,accaptiebam,I was accepting
+Active Indicative,Imperfect,1st Person,Plural,accaptabamus,accaptebamus,accaptebamus,accaptiebamus,We were accepting
+Active Indicative,Imperfect,2nd Person,Singular,accaptabas,accaptebas,accaptebas,accaptiebas,You were accepting
+Active Indicative,Imperfect,2nd Person,Plural,accaptabatis,accaptebatis,accaptebatis,accaptiebatis,You (pl.) were accepting
+Active Indicative,Imperfect,3rd Person,Singular,accaptabat,accaptebat,accaptebat,accaptiebat,He/she/it was accepting
+Active Indicative,Imperfect,3rd Person,Plural,accaptabant,accaptebant,accaptebant,accaptiebant,They were accepting
+Active Indicative,Future,1st Person,Singular,accaptabo,accaptebo,accaptam,accaptiam,I will accept
+Active Indicative,Future,1st Person,Plural,accaptabimus,accaptebimus,accaptemus,accaptiemus,We will accept
+Active Indicative,Future,2nd Person,Singular,accaptabis,accaptebis,accaptes,accapties,You will accept
+Active Indicative,Future,2nd Person,Plural,accaptabitis,accaptebitis,accaptetis,accaptietis,You (pl.) will accept
+Active Indicative,Future,3rd Person,Singular,accaptabit,accaptebit,accaptet,accaptiet,He/she/it will accept
+Active Indicative,Future,3rd Person,Plural,accaptabunt,accaptebunt,accaptent,accaptient,They will accept
+Active Indicative,Perfect,1st Person,Singular,accaptavi,accaptui,accapti,accapti,I have accepted
+Active Indicative,Perfect,1st Person,Plural,accaptavimus,accaptuimus,accaptimus,accaptimus,We have accepted
+Active Indicative,Perfect,2nd Person,Singular,accaptavisti,accaptuisti,accaptisti,accaptisti,You have accepted
+Active Indicative,Perfect,2nd Person,Plural,accaptavistis,accaptuistis,accaptistis,accaptistis,You (pl.) have accepted
+Active Indicative,Perfect,3rd Person,Singular,accaptavit,accaptuit,accaptit,accaptit,He/she/it has accepted
+Active Indicative,Perfect,3rd Person,Plural,accaptaverunt,accaptuerunt,accapterunt,accapterunt,They have accepted
+Active Indicative,Pluperfect,1st Person,Singular,accaptaveram,accaptueram,accapteram,accapteram,I had accepted
+Active Indicative,Pluperfect,1st Person,Plural,accaptaveramus,accaptueramus,accapteramus,accapteramus,We had accepted
+Active Indicative,Pluperfect,2nd Person,Singular,accaptaveras,accaptueras,accapteras,accapteras,You had accepted
+Active Indicative,Pluperfect,2nd Person,Plural,accaptaveratis,accaptueratis,accapteratis,accapteratis,You (pl.) had accepted
+Active Indicative,Pluperfect,3rd Person,Singular,accaptaverat,accaptuerat,accapterat,accapterat,He/she/it had accepted
+Active Indicative,Pluperfect,3rd Person,Plural,accaptaverant,accaptuerant,accapterant,accapterant,They had accepted
+Active Indicative,Future Perfect,1st Person,Singular,accaptavero,accaptueero,accaptero,accaptiero,I will have accepted
+Active Indicative,Future Perfect,1st Person,Plural,accaptaverimus,accaptuerimus,accapterimus,accaptierimus,We will have accepted
+Active Indicative,Future Perfect,2nd Person,Singular,accaptaveris,accaptueris,accapteris,accaptieris,You will have accepted
+Active Indicative,Future Perfect,2nd Person,Plural,accaptaveritis,accaptueritis,accapteritis,accaptieritis,You (pl.) will have accepted
+Active Indicative,Future Perfect,3rd Person,Singular,accaptaverit,accaptuerit,accapterit,accaptierit,He/she/it will have accepted
+Active Indicative,Future Perfect,3rd Person,Plural,accaptaverint,accaptuerint,accapterint,accaptierint,They will have accepted
+Passive Indicative,Present,1st Person,Singular,accaptor,accapteor,accaptor,accaptior,I am being accepted
+Passive Indicative,Present,1st Person,Plural,accaptamur,accaptemur,accaptimur,accaptimur,We are being accepted
+Passive Indicative,Present,2nd Person,Singular,accaptaris,accapteris,accaptiris,accaptiris,You are being accepted
+Passive Indicative,Present,2nd Person,Plural,accaptamini,accaptemini,accaptimini,accaptimini,You (pl.) are being accepted
+Passive Indicative,Present,3rd Person,Singular,accaptatur,accaptetur,accaptitur,accaptitur,He/she/it is being accepted
+Passive Indicative,Present,3rd Person,Plural,accaptantur,accaptentur,accaptiuntur,accaptiuntur,They are being accepted
+Passive Indicative,Imperfect,1st Person,Singular,accaptabar,accaptebar,accaptebar,accaptiebar,I was accepted
+Passive Indicative,Imperfect,1st Person,Plural,accaptabamur,accaptebamur,accaptebamur,accaptiebamur,We were accepted
+Passive Indicative,Imperfect,2nd Person,Singular,accaptabaris,accaptebaris,accaptebaris,accaptiebaris,You were accepted
+Passive Indicative,Imperfect,2nd Person,Plural,accaptabamini,accaptebamini,accaptebamini,accaptiebamini,You (pl.) were accepted
+Passive Indicative,Imperfect,3rd Person,Singular,accaptabatur,accaptebatur,accaptebatur,accaptiebatur,He/she/it was accepted
+Passive Indicative,Imperfect,3rd Person,Plural,accaptabantur,accaptebantur,accaptebantur,accaptiebantur,They were accepted
+Passive Indicative,Future,1st Person,Singular,accaptabor,accaptebor,accaptar,accaptiar,I will be accepted
+Passive Indicative,Future,1st Person,Plural,accaptabimur,accaptebimur,accaptemur,accaptiemur,We will be accepted
+Passive Indicative,Future,2nd Person,Singular,accaptaberis,accapteberis,accapteris,accaptieris,You will be accepted
+Passive Indicative,Future,2nd Person,Plural,accaptabimini,accaptebimini,accaptemini,accaptiemini,You (pl.) will be accepted
+Passive Indicative,Future,3rd Person,Singular,accaptabitur,accaptebitur,accaptetur,accaptietur,He/she/it will be accepted
+Passive Indicative,Future,3rd Person,Plural,accaptabuntur,accaptebuntur,accaptentur,accaptientur,They will be accepted
+Passive Indicative,Perfect,1st Person,Singular,accaptatus sum,accaptetus sum,accaptus sum,accaptus sum,I have been accepted
+Passive Indicative,Perfect,1st Person,Plural,accaptati sumus,accapteti sumus,accapti sumus,accapti sumus,We have been accepted
+Passive Indicative,Perfect,2nd Person,Singular,accaptatus es,accaptetus es,accaptus es,accaptus es,You have been accepted
+Passive Indicative,Perfect,2nd Person,Plural,accaptati estis,accapteti estis,accapti estis,accapti estis,You (pl.) have been accepted
+Passive Indicative,Perfect,3rd Person,Singular,accaptatus est,accaptetus est,accaptus est,accaptus est,He/she/it has been accepted
+Passive Indicative,Perfect,3rd Person,Plural,accaptati sunt,accapteti sunt,accapti sunt,accapti sunt,They have been accepted
+Passive Indicative,Pluperfect,1st Person,Singular,accaptatus eram,accaptetus eram,accaptus eram,accaptus eram,I had been accepted
+Passive Indicative,Pluperfect,1st Person,Plural,accaptati eramus,accapteti eramus,accapti eramus,accapti eramus,We had been accepted
+Passive Indicative,Pluperfect,2nd Person,Singular,accaptatus eras,accaptetus eras,accaptus eras,accaptus eras,You had been accepted
+Passive Indicative,Pluperfect,2nd Person,Plural,accaptati eratis,accapteti eratis,accapti eratis,accapti eratis,You (pl.) had been accepted
+Passive Indicative,Pluperfect,3rd Person,Singular,accaptatus erat,accaptetus erat,accaptus erat,accaptus erat,He/she/it had been accepted
+Passive Indicative,Pluperfect,3rd Person,Plural,accaptati erant,accapteti erant,accapti erant,accapti erant,They had been accepted
+Passive Indicative,Future Perfect,1st Person,Singular,accaptatus ero,accaptetus ero,accaptus ero,accaptus ero,I will have been accepted
+Passive Indicative,Future Perfect,1st Person,Plural,accaptati erimus,accapteti erimus,accapti erimus,accapti erimus,We will have been accepted
+Passive Indicative,Future Perfect,2nd Person,Singular,accaptatus eris,accaptetus eris,accaptus eris,accaptus eris,You will have been accepted
+Passive Indicative,Future Perfect,2nd Person,Plural,accaptati eritis,accapteti eritis,accapti eritis,accapti eritis,You (pl.) will have been accepted
+Passive Indicative,Future Perfect,3rd Person,Singular,accaptatus erit,accaptetus erit,accaptus erit,accaptus erit,He/she/it will have been accepted
+Passive Indicative,Future Perfect,3rd Person,Plural,accaptati erunt,accapteti erunt,accapti erunt,accapti erunt,They will have been accepted
+Active Subjunctive,Present,1st Person,Singular,accaptem,accaptem,accaptam,accaptam,I may accept
+Active Subjunctive,Present,1st Person,Plural,accaptemus,accaptemus,accaptamus,accaptamus,We may accept
+Active Subjunctive,Present,2nd Person,Singular,accaptes,accaptes,accaptas,accaptas,You may accept
+Active Subjunctive,Present,2nd Person,Plural,accaptetis,accaptetis,accaptatis,accaptatis,You (pl.) may accept
+Active Subjunctive,Present,3rd Person,Singular,accaptet,accaptet,accaptat,accaptat,He/she/it may accept
+Active Subjunctive,Present,3rd Person,Plural,accaptent,accaptent,accaptant,accaptant,They may accept
+Active Subjunctive,Imperfect,1st Person,Singular,accaptarem,accapterem,accapterem,accaptirem,I should accept
+Active Subjunctive,Imperfect,1st Person,Plural,accaptaremus,accapteremus,accapteremus,accaptiremus,We should accept
+Active Subjunctive,Imperfect,2nd Person,Singular,accaptares,accapteres,accapteres,accaptires,You should accept
+Active Subjunctive,Imperfect,2nd Person,Plural,accaptaretis,accapteretis,accapteretis,accaptiretis,You (pl.) should accept
+Active Subjunctive,Imperfect,3rd Person,Singular,accaptaret,accapteret,accapteret,accaptiret,He/she/it should accept
+Active Subjunctive,Imperfect,3rd Person,Plural,accaptarent,accapterent,accapterent,accaptirent,They should accept
+Active Subjunctive,Perfect,1st Person,Singular,accapterim,accaptuerim,accapterim,accaptierim,I may have accepted
+Active Subjunctive,Perfect,1st Person,Plural,accapterimus,accaptuerimus,accapterimus,accaptierimus,We may have accepted
+Active Subjunctive,Perfect,2nd Person,Singular,accapteris,accaptueris,accapteris,accaptieris,You may have accepted
+Active Subjunctive,Perfect,2nd Person,Plural,accapteritis,accaptueritis,accapteritis,accaptieritis,You (pl.) may have accepted
+Active Subjunctive,Perfect,3rd Person,Singular,accapterit,accaptuerit,accapterit,accaptierit,He/she/it may have accepted
+Active Subjunctive,Perfect,3rd Person,Plural,accapterint,accaptuerint,accapterint,accaptierint,They may have accepted
+Active Subjunctive,Pluperfect,1st Person,Singular,accaptissem,accaptuissem,accaptissem,accaptissem,I should have accepted
+Active Subjunctive,Pluperfect,1st Person,Plural,accaptissemus,accaptuissemus,accaptissemus,accaptissemus,We should have accepted
+Active Subjunctive,Pluperfect,2nd Person,Singular,accaptisses,accaptuisses,accaptisses,accaptisses,You would have accepted
+Active Subjunctive,Pluperfect,2nd Person,Plural,accaptissetis,accaptuissetis,accaptissetis,accaptissetis,You (pl.) would have accepted
+Active Subjunctive,Pluperfect,3rd Person,Singular,accaptisset,accaptuisset,accaptisset,accaptisset,He/she/it would have accepted
+Active Subjunctive,Pluperfect,3rd Person,Plural,accaptissent,accaptuissent,accaptissent,accaptissent,They would have accepted
+Passive Subjunctive,Present,1st Person,Singular,accapter,accapter,accaptar,accaptar,I may be accepted
+Passive Subjunctive,Present,1st Person,Plural,accaptemur,accaptemur,accaptamur,accaptamur,We may be accepted
+Passive Subjunctive,Present,2nd Person,Singular,accapteris,accapteris,accaptaris,accaptaris,You may be accepted
+Passive Subjunctive,Present,2nd Person,Plural,accaptemini,accaptemini,accaptamini,accaptamini,You (pl.) may be accepted
+Passive Subjunctive,Present,3rd Person,Singular,accaptetur,accaptetur,accaptatur,accaptatur,He/she/it may be accepted
+Passive Subjunctive,Present,3rd Person,Plural,accaptentur,accaptentur,accaptantur,accaptantur,They may be accepted
+Passive Subjunctive,Imperfect,1st Person,Singular,accaptarer,accapterer,accapterer,accaptirer,I should be accepted
+Passive Subjunctive,Imperfect,1st Person,Plural,accaptaremur,accapteremur,accapteremur,accaptiremur,We should be accepted
+Passive Subjunctive,Imperfect,2nd Person,Singular,accaptareris,accaptereris,accaptereris,accaptireris,You would be accepted
+Passive Subjunctive,Imperfect,2nd Person,Plural,accaptaremini,accapteremini,accapteremini,accaptiremini,You (pl.) would be accepted
+Passive Subjunctive,Imperfect,3rd Person,Singular,accaptaretur,accapteretur,accapteretur,accaptiretur,He/she/it would be accepted
+Passive Subjunctive,Imperfect,3rd Person,Plural,accaptarentur,accapterentur,accapterentur,accaptirentur,They would be accepted
+Passive Subjunctive,Perfect,1st Person,Singular,accaptatus sim,accaptetus sim,accaptus sim,accaptus sim,I may have been accepted
+Passive Subjunctive,Perfect,1st Person,Plural,accaptati simus,accapteti simus,accapti simus,accapti simus,We may have been accepted
+Passive Subjunctive,Perfect,2nd Person,Singular,accaptatus sis,accaptetus sis,accaptus sis,accaptus sis,You may have been accepted
+Passive Subjunctive,Perfect,2nd Person,Plural,accaptati sitis,accapteti sitis,accapti sitis,accapti sitis,You (pl.) may have been accepted
+Passive Subjunctive,Perfect,3rd Person,Singular,accaptatus sit,accaptetus sit,accaptus sit,accaptus sit,He/she/it may have been accepted
+Passive Subjunctive,Perfect,3rd Person,Plural,accaptati sint,accapteti sint,accapti sint,accapti sint,They may have been accepted
+Passive Subjunctive,Pluperfect,1st Person,Singular,accaptatus essem,accaptetus essem,accaptus essem,accaptus essem,I should have been accepted
+Passive Subjunctive,Pluperfect,1st Person,Plural,accaptati essemus,accapteti essemus,accapti essemus,accapti essemus,We should have been accepted
+Passive Subjunctive,Pluperfect,2nd Person,Singular,accaptatus esses,accaptetus esses,accaptus esses,accaptus esses,You would have been accepted
+Passive Subjunctive,Pluperfect,2nd Person,Plural,accaptati essetis,accapteti essetis,accapti essetis,accapti essetis,You (pl.) would have been accepted
+Passive Subjunctive,Pluperfect,3rd Person,Singular,accaptatus esset,accaptetus esset,accaptus esset,accaptus esset,He/she/it would have been accepted
+Passive Subjunctive,Pluperfect,3rd Person,Plural,accaptati essent,accapteti essent,accapti essent,accapti essent,They would have been accepted

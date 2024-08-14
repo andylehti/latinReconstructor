@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,paresco,paresceo,paresco,parescio,I appear
+Active Indicative,Present,1st Person,Plural,parescamus,parescemus,parescimus,parescimus,We appear
+Active Indicative,Present,2nd Person,Singular,parescas,paresces,parescis,parescis,You appear
+Active Indicative,Present,2nd Person,Plural,parescatis,parescetis,parescitis,parescitis,You (pl.) appear
+Active Indicative,Present,3rd Person,Singular,parescat,parescet,parescit,parescit,He/she/it appear
+Active Indicative,Present,3rd Person,Plural,parescant,parescent,paresciunt,paresciunt,They appear
+Active Indicative,Imperfect,1st Person,Singular,parescabam,parescebam,parescebam,paresciebam,I was appearing
+Active Indicative,Imperfect,1st Person,Plural,parescabamus,parescebamus,parescebamus,paresciebamus,We were appearing
+Active Indicative,Imperfect,2nd Person,Singular,parescabas,parescebas,parescebas,paresciebas,You were appearing
+Active Indicative,Imperfect,2nd Person,Plural,parescabatis,parescebatis,parescebatis,paresciebatis,You (pl.) were appearing
+Active Indicative,Imperfect,3rd Person,Singular,parescabat,parescebat,parescebat,paresciebat,He/she/it was appearing
+Active Indicative,Imperfect,3rd Person,Plural,parescabant,parescebant,parescebant,paresciebant,They were appearing
+Active Indicative,Future,1st Person,Singular,parescabo,parescebo,parescam,paresciam,I will appear
+Active Indicative,Future,1st Person,Plural,parescabimus,parescebimus,parescemus,paresciemus,We will appear
+Active Indicative,Future,2nd Person,Singular,parescabis,parescebis,paresces,parescies,You will appear
+Active Indicative,Future,2nd Person,Plural,parescabitis,parescebitis,parescetis,parescietis,You (pl.) will appear
+Active Indicative,Future,3rd Person,Singular,parescabit,parescebit,parescet,paresciet,He/she/it will appear
+Active Indicative,Future,3rd Person,Plural,parescabunt,parescebunt,parescent,parescient,They will appear
+Active Indicative,Perfect,1st Person,Singular,parescavi,parescui,paresci,paresci,I have appeared
+Active Indicative,Perfect,1st Person,Plural,parescavimus,parescuimus,parescimus,parescimus,We have appeared
+Active Indicative,Perfect,2nd Person,Singular,parescavisti,parescuisti,parescisti,parescisti,You have appeared
+Active Indicative,Perfect,2nd Person,Plural,parescavistis,parescuistis,parescistis,parescistis,You (pl.) have appeared
+Active Indicative,Perfect,3rd Person,Singular,parescavit,parescuit,parescit,parescit,He/she/it has appeared
+Active Indicative,Perfect,3rd Person,Plural,parescaverunt,parescuerunt,parescerunt,parescerunt,They have appeared
+Active Indicative,Pluperfect,1st Person,Singular,parescaveram,parescueram,paresceram,paresceram,I had appeared
+Active Indicative,Pluperfect,1st Person,Plural,parescaveramus,parescueramus,paresceramus,paresceramus,We had appeared
+Active Indicative,Pluperfect,2nd Person,Singular,parescaveras,parescueras,paresceras,paresceras,You had appeared
+Active Indicative,Pluperfect,2nd Person,Plural,parescaveratis,parescueratis,paresceratis,paresceratis,You (pl.) had appeared
+Active Indicative,Pluperfect,3rd Person,Singular,parescaverat,parescuerat,parescerat,parescerat,He/she/it had appeared
+Active Indicative,Pluperfect,3rd Person,Plural,parescaverant,parescuerant,parescerant,parescerant,They had appeared
+Active Indicative,Future Perfect,1st Person,Singular,parescavero,parescueero,parescero,paresciero,I will have appeared
+Active Indicative,Future Perfect,1st Person,Plural,parescaverimus,parescuerimus,parescerimus,parescierimus,We will have appeared
+Active Indicative,Future Perfect,2nd Person,Singular,parescaveris,parescueris,paresceris,parescieris,You will have appeared
+Active Indicative,Future Perfect,2nd Person,Plural,parescaveritis,parescueritis,paresceritis,parescieritis,You (pl.) will have appeared
+Active Indicative,Future Perfect,3rd Person,Singular,parescaverit,parescuerit,parescerit,parescierit,He/she/it will have appeared
+Active Indicative,Future Perfect,3rd Person,Plural,parescaverint,parescuerint,parescerint,parescierint,They will have appeared
+Passive Indicative,Present,1st Person,Singular,parescor,paresceor,parescor,parescior,I am being appeared
+Passive Indicative,Present,1st Person,Plural,parescamur,parescemur,parescimur,parescimur,We are being appeared
+Passive Indicative,Present,2nd Person,Singular,parescaris,paresceris,paresciris,paresciris,You are being appeared
+Passive Indicative,Present,2nd Person,Plural,parescamini,parescemini,parescimini,parescimini,You (pl.) are being appeared
+Passive Indicative,Present,3rd Person,Singular,parescatur,parescetur,parescitur,parescitur,He/she/it is being appeared
+Passive Indicative,Present,3rd Person,Plural,parescantur,parescentur,paresciuntur,paresciuntur,They are being appeared
+Passive Indicative,Imperfect,1st Person,Singular,parescabar,parescebar,parescebar,paresciebar,I was appeared
+Passive Indicative,Imperfect,1st Person,Plural,parescabamur,parescebamur,parescebamur,paresciebamur,We were appeared
+Passive Indicative,Imperfect,2nd Person,Singular,parescabaris,parescebaris,parescebaris,paresciebaris,You were appeared
+Passive Indicative,Imperfect,2nd Person,Plural,parescabamini,parescebamini,parescebamini,paresciebamini,You (pl.) were appeared
+Passive Indicative,Imperfect,3rd Person,Singular,parescabatur,parescebatur,parescebatur,paresciebatur,He/she/it was appeared
+Passive Indicative,Imperfect,3rd Person,Plural,parescabantur,parescebantur,parescebantur,paresciebantur,They were appeared
+Passive Indicative,Future,1st Person,Singular,parescabor,parescebor,parescar,paresciar,I will be appeared
+Passive Indicative,Future,1st Person,Plural,parescabimur,parescebimur,parescemur,paresciemur,We will be appeared
+Passive Indicative,Future,2nd Person,Singular,parescaberis,paresceberis,paresceris,parescieris,You will be appeared
+Passive Indicative,Future,2nd Person,Plural,parescabimini,parescebimini,parescemini,paresciemini,You (pl.) will be appeared
+Passive Indicative,Future,3rd Person,Singular,parescabitur,parescebitur,parescetur,parescietur,He/she/it will be appeared
+Passive Indicative,Future,3rd Person,Plural,parescabuntur,parescebuntur,parescentur,parescientur,They will be appeared
+Passive Indicative,Perfect,1st Person,Singular,parescatus sum,parescetus sum,parescus sum,parescus sum,I have been appeared
+Passive Indicative,Perfect,1st Person,Plural,parescati sumus,paresceti sumus,paresci sumus,paresci sumus,We have been appeared
+Passive Indicative,Perfect,2nd Person,Singular,parescatus es,parescetus es,parescus es,parescus es,You have been appeared
+Passive Indicative,Perfect,2nd Person,Plural,parescati estis,paresceti estis,paresci estis,paresci estis,You (pl.) have been appeared
+Passive Indicative,Perfect,3rd Person,Singular,parescatus est,parescetus est,parescus est,parescus est,He/she/it has been appeared
+Passive Indicative,Perfect,3rd Person,Plural,parescati sunt,paresceti sunt,paresci sunt,paresci sunt,They have been appeared
+Passive Indicative,Pluperfect,1st Person,Singular,parescatus eram,parescetus eram,parescus eram,parescus eram,I had been appeared
+Passive Indicative,Pluperfect,1st Person,Plural,parescati eramus,paresceti eramus,paresci eramus,paresci eramus,We had been appeared
+Passive Indicative,Pluperfect,2nd Person,Singular,parescatus eras,parescetus eras,parescus eras,parescus eras,You had been appeared
+Passive Indicative,Pluperfect,2nd Person,Plural,parescati eratis,paresceti eratis,paresci eratis,paresci eratis,You (pl.) had been appeared
+Passive Indicative,Pluperfect,3rd Person,Singular,parescatus erat,parescetus erat,parescus erat,parescus erat,He/she/it had been appeared
+Passive Indicative,Pluperfect,3rd Person,Plural,parescati erant,paresceti erant,paresci erant,paresci erant,They had been appeared
+Passive Indicative,Future Perfect,1st Person,Singular,parescatus ero,parescetus ero,parescus ero,parescus ero,I will have been appeared
+Passive Indicative,Future Perfect,1st Person,Plural,parescati erimus,paresceti erimus,paresci erimus,paresci erimus,We will have been appeared
+Passive Indicative,Future Perfect,2nd Person,Singular,parescatus eris,parescetus eris,parescus eris,parescus eris,You will have been appeared
+Passive Indicative,Future Perfect,2nd Person,Plural,parescati eritis,paresceti eritis,paresci eritis,paresci eritis,You (pl.) will have been appeared
+Passive Indicative,Future Perfect,3rd Person,Singular,parescatus erit,parescetus erit,parescus erit,parescus erit,He/she/it will have been appeared
+Passive Indicative,Future Perfect,3rd Person,Plural,parescati erunt,paresceti erunt,paresci erunt,paresci erunt,They will have been appeared
+Active Subjunctive,Present,1st Person,Singular,parescem,parescem,parescam,parescam,I may appear
+Active Subjunctive,Present,1st Person,Plural,parescemus,parescemus,parescamus,parescamus,We may appear
+Active Subjunctive,Present,2nd Person,Singular,paresces,paresces,parescas,parescas,You may appear
+Active Subjunctive,Present,2nd Person,Plural,parescetis,parescetis,parescatis,parescatis,You (pl.) may appear
+Active Subjunctive,Present,3rd Person,Singular,parescet,parescet,parescat,parescat,He/she/it may appear
+Active Subjunctive,Present,3rd Person,Plural,parescent,parescent,parescant,parescant,They may appear
+Active Subjunctive,Imperfect,1st Person,Singular,parescarem,parescerem,parescerem,parescirem,I should appear
+Active Subjunctive,Imperfect,1st Person,Plural,parescaremus,paresceremus,paresceremus,paresciremus,We should appear
+Active Subjunctive,Imperfect,2nd Person,Singular,parescares,paresceres,paresceres,parescires,You should appear
+Active Subjunctive,Imperfect,2nd Person,Plural,parescaretis,paresceretis,paresceretis,paresciretis,You (pl.) should appear
+Active Subjunctive,Imperfect,3rd Person,Singular,parescaret,paresceret,paresceret,paresciret,He/she/it should appear
+Active Subjunctive,Imperfect,3rd Person,Plural,parescarent,parescerent,parescerent,parescirent,They should appear
+Active Subjunctive,Perfect,1st Person,Singular,parescerim,parescuerim,parescerim,parescierim,I may have appeared
+Active Subjunctive,Perfect,1st Person,Plural,parescerimus,parescuerimus,parescerimus,parescierimus,We may have appeared
+Active Subjunctive,Perfect,2nd Person,Singular,paresceris,parescueris,paresceris,parescieris,You may have appeared
+Active Subjunctive,Perfect,2nd Person,Plural,paresceritis,parescueritis,paresceritis,parescieritis,You (pl.) may have appeared
+Active Subjunctive,Perfect,3rd Person,Singular,parescerit,parescuerit,parescerit,parescierit,He/she/it may have appeared
+Active Subjunctive,Perfect,3rd Person,Plural,parescerint,parescuerint,parescerint,parescierint,They may have appeared
+Active Subjunctive,Pluperfect,1st Person,Singular,parescissem,parescuissem,parescissem,parescissem,I should have appeared
+Active Subjunctive,Pluperfect,1st Person,Plural,parescissemus,parescuissemus,parescissemus,parescissemus,We should have appeared
+Active Subjunctive,Pluperfect,2nd Person,Singular,parescisses,parescuisses,parescisses,parescisses,You would have appeared
+Active Subjunctive,Pluperfect,2nd Person,Plural,parescissetis,parescuissetis,parescissetis,parescissetis,You (pl.) would have appeared
+Active Subjunctive,Pluperfect,3rd Person,Singular,parescisset,parescuisset,parescisset,parescisset,He/she/it would have appeared
+Active Subjunctive,Pluperfect,3rd Person,Plural,parescissent,parescuissent,parescissent,parescissent,They would have appeared
+Passive Subjunctive,Present,1st Person,Singular,parescer,parescer,parescar,parescar,I may be appeared
+Passive Subjunctive,Present,1st Person,Plural,parescemur,parescemur,parescamur,parescamur,We may be appeared
+Passive Subjunctive,Present,2nd Person,Singular,paresceris,paresceris,parescaris,parescaris,You may be appeared
+Passive Subjunctive,Present,2nd Person,Plural,parescemini,parescemini,parescamini,parescamini,You (pl.) may be appeared
+Passive Subjunctive,Present,3rd Person,Singular,parescetur,parescetur,parescatur,parescatur,He/she/it may be appeared
+Passive Subjunctive,Present,3rd Person,Plural,parescentur,parescentur,parescantur,parescantur,They may be appeared
+Passive Subjunctive,Imperfect,1st Person,Singular,parescarer,parescerer,parescerer,parescirer,I should be appeared
+Passive Subjunctive,Imperfect,1st Person,Plural,parescaremur,paresceremur,paresceremur,paresciremur,We should be appeared
+Passive Subjunctive,Imperfect,2nd Person,Singular,parescareris,parescereris,parescereris,parescireris,You would be appeared
+Passive Subjunctive,Imperfect,2nd Person,Plural,parescaremini,paresceremini,paresceremini,paresciremini,You (pl.) would be appeared
+Passive Subjunctive,Imperfect,3rd Person,Singular,parescaretur,paresceretur,paresceretur,paresciretur,He/she/it would be appeared
+Passive Subjunctive,Imperfect,3rd Person,Plural,parescarentur,parescerentur,parescerentur,parescirentur,They would be appeared
+Passive Subjunctive,Perfect,1st Person,Singular,parescatus sim,parescetus sim,parescus sim,parescus sim,I may have been appeared
+Passive Subjunctive,Perfect,1st Person,Plural,parescati simus,paresceti simus,paresci simus,paresci simus,We may have been appeared
+Passive Subjunctive,Perfect,2nd Person,Singular,parescatus sis,parescetus sis,parescus sis,parescus sis,You may have been appeared
+Passive Subjunctive,Perfect,2nd Person,Plural,parescati sitis,paresceti sitis,paresci sitis,paresci sitis,You (pl.) may have been appeared
+Passive Subjunctive,Perfect,3rd Person,Singular,parescatus sit,parescetus sit,parescus sit,parescus sit,He/she/it may have been appeared
+Passive Subjunctive,Perfect,3rd Person,Plural,parescati sint,paresceti sint,paresci sint,paresci sint,They may have been appeared
+Passive Subjunctive,Pluperfect,1st Person,Singular,parescatus essem,parescetus essem,parescus essem,parescus essem,I should have been appeared
+Passive Subjunctive,Pluperfect,1st Person,Plural,parescati essemus,paresceti essemus,paresci essemus,paresci essemus,We should have been appeared
+Passive Subjunctive,Pluperfect,2nd Person,Singular,parescatus esses,parescetus esses,parescus esses,parescus esses,You would have been appeared
+Passive Subjunctive,Pluperfect,2nd Person,Plural,parescati essetis,paresceti essetis,paresci essetis,paresci essetis,You (pl.) would have been appeared
+Passive Subjunctive,Pluperfect,3rd Person,Singular,parescatus esset,parescetus esset,parescus esset,parescus esset,He/she/it would have been appeared
+Passive Subjunctive,Pluperfect,3rd Person,Plural,parescati essent,paresceti essent,paresci essent,paresci essent,They would have been appeared

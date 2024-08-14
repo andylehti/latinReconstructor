@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,suscipo,suscipeo,suscipo,suscipio,I undertake
+Active Indicative,Present,1st Person,Plural,suscipamus,suscipemus,suscipimus,suscipimus,We undertake
+Active Indicative,Present,2nd Person,Singular,suscipas,suscipes,suscipis,suscipis,You undertake
+Active Indicative,Present,2nd Person,Plural,suscipatis,suscipetis,suscipitis,suscipitis,You (pl.) undertake
+Active Indicative,Present,3rd Person,Singular,suscipat,suscipet,suscipit,suscipit,He/she/it undertake
+Active Indicative,Present,3rd Person,Plural,suscipant,suscipent,suscipiunt,suscipiunt,They undertake
+Active Indicative,Imperfect,1st Person,Singular,suscipabam,suscipebam,suscipebam,suscipiebam,I was undertakeing
+Active Indicative,Imperfect,1st Person,Plural,suscipabamus,suscipebamus,suscipebamus,suscipiebamus,We were undertakeing
+Active Indicative,Imperfect,2nd Person,Singular,suscipabas,suscipebas,suscipebas,suscipiebas,You were undertakeing
+Active Indicative,Imperfect,2nd Person,Plural,suscipabatis,suscipebatis,suscipebatis,suscipiebatis,You (pl.) were undertakeing
+Active Indicative,Imperfect,3rd Person,Singular,suscipabat,suscipebat,suscipebat,suscipiebat,He/she/it was undertakeing
+Active Indicative,Imperfect,3rd Person,Plural,suscipabant,suscipebant,suscipebant,suscipiebant,They were undertakeing
+Active Indicative,Future,1st Person,Singular,suscipabo,suscipebo,suscipam,suscipiam,I will undertake
+Active Indicative,Future,1st Person,Plural,suscipabimus,suscipebimus,suscipemus,suscipiemus,We will undertake
+Active Indicative,Future,2nd Person,Singular,suscipabis,suscipebis,suscipes,suscipies,You will undertake
+Active Indicative,Future,2nd Person,Plural,suscipabitis,suscipebitis,suscipetis,suscipietis,You (pl.) will undertake
+Active Indicative,Future,3rd Person,Singular,suscipabit,suscipebit,suscipet,suscipiet,He/she/it will undertake
+Active Indicative,Future,3rd Person,Plural,suscipabunt,suscipebunt,suscipent,suscipient,They will undertake
+Active Indicative,Perfect,1st Person,Singular,suscipavi,suscipui,suscipi,suscipi,I have undertakeed
+Active Indicative,Perfect,1st Person,Plural,suscipavimus,suscipuimus,suscipimus,suscipimus,We have undertakeed
+Active Indicative,Perfect,2nd Person,Singular,suscipavisti,suscipuisti,suscipisti,suscipisti,You have undertakeed
+Active Indicative,Perfect,2nd Person,Plural,suscipavistis,suscipuistis,suscipistis,suscipistis,You (pl.) have undertakeed
+Active Indicative,Perfect,3rd Person,Singular,suscipavit,suscipuit,suscipit,suscipit,He/she/it has undertakeed
+Active Indicative,Perfect,3rd Person,Plural,suscipaverunt,suscipuerunt,susciperunt,susciperunt,They have undertakeed
+Active Indicative,Pluperfect,1st Person,Singular,suscipaveram,suscipueram,susciperam,susciperam,I had undertakeed
+Active Indicative,Pluperfect,1st Person,Plural,suscipaveramus,suscipueramus,susciperamus,susciperamus,We had undertakeed
+Active Indicative,Pluperfect,2nd Person,Singular,suscipaveras,suscipueras,susciperas,susciperas,You had undertakeed
+Active Indicative,Pluperfect,2nd Person,Plural,suscipaveratis,suscipueratis,susciperatis,susciperatis,You (pl.) had undertakeed
+Active Indicative,Pluperfect,3rd Person,Singular,suscipaverat,suscipuerat,susciperat,susciperat,He/she/it had undertakeed
+Active Indicative,Pluperfect,3rd Person,Plural,suscipaverant,suscipuerant,susciperant,susciperant,They had undertakeed
+Active Indicative,Future Perfect,1st Person,Singular,suscipavero,suscipueero,suscipero,suscipiero,I will have undertakeed
+Active Indicative,Future Perfect,1st Person,Plural,suscipaverimus,suscipuerimus,susciperimus,suscipierimus,We will have undertakeed
+Active Indicative,Future Perfect,2nd Person,Singular,suscipaveris,suscipueris,susciperis,suscipieris,You will have undertakeed
+Active Indicative,Future Perfect,2nd Person,Plural,suscipaveritis,suscipueritis,susciperitis,suscipieritis,You (pl.) will have undertakeed
+Active Indicative,Future Perfect,3rd Person,Singular,suscipaverit,suscipuerit,susciperit,suscipierit,He/she/it will have undertakeed
+Active Indicative,Future Perfect,3rd Person,Plural,suscipaverint,suscipuerint,susciperint,suscipierint,They will have undertakeed
+Passive Indicative,Present,1st Person,Singular,suscipor,suscipeor,suscipor,suscipior,I am being undertakeed
+Passive Indicative,Present,1st Person,Plural,suscipamur,suscipemur,suscipimur,suscipimur,We are being undertakeed
+Passive Indicative,Present,2nd Person,Singular,susciparis,susciperis,suscipiris,suscipiris,You are being undertakeed
+Passive Indicative,Present,2nd Person,Plural,suscipamini,suscipemini,suscipimini,suscipimini,You (pl.) are being undertakeed
+Passive Indicative,Present,3rd Person,Singular,suscipatur,suscipetur,suscipitur,suscipitur,He/she/it is being undertakeed
+Passive Indicative,Present,3rd Person,Plural,suscipantur,suscipentur,suscipiuntur,suscipiuntur,They are being undertakeed
+Passive Indicative,Imperfect,1st Person,Singular,suscipabar,suscipebar,suscipebar,suscipiebar,I was undertakeed
+Passive Indicative,Imperfect,1st Person,Plural,suscipabamur,suscipebamur,suscipebamur,suscipiebamur,We were undertakeed
+Passive Indicative,Imperfect,2nd Person,Singular,suscipabaris,suscipebaris,suscipebaris,suscipiebaris,You were undertakeed
+Passive Indicative,Imperfect,2nd Person,Plural,suscipabamini,suscipebamini,suscipebamini,suscipiebamini,You (pl.) were undertakeed
+Passive Indicative,Imperfect,3rd Person,Singular,suscipabatur,suscipebatur,suscipebatur,suscipiebatur,He/she/it was undertakeed
+Passive Indicative,Imperfect,3rd Person,Plural,suscipabantur,suscipebantur,suscipebantur,suscipiebantur,They were undertakeed
+Passive Indicative,Future,1st Person,Singular,suscipabor,suscipebor,suscipar,suscipiar,I will be undertakeed
+Passive Indicative,Future,1st Person,Plural,suscipabimur,suscipebimur,suscipemur,suscipiemur,We will be undertakeed
+Passive Indicative,Future,2nd Person,Singular,suscipaberis,suscipeberis,susciperis,suscipieris,You will be undertakeed
+Passive Indicative,Future,2nd Person,Plural,suscipabimini,suscipebimini,suscipemini,suscipiemini,You (pl.) will be undertakeed
+Passive Indicative,Future,3rd Person,Singular,suscipabitur,suscipebitur,suscipetur,suscipietur,He/she/it will be undertakeed
+Passive Indicative,Future,3rd Person,Plural,suscipabuntur,suscipebuntur,suscipentur,suscipientur,They will be undertakeed
+Passive Indicative,Perfect,1st Person,Singular,suscipatus sum,suscipetus sum,suscipus sum,suscipus sum,I have been undertakeed
+Passive Indicative,Perfect,1st Person,Plural,suscipati sumus,suscipeti sumus,suscipi sumus,suscipi sumus,We have been undertakeed
+Passive Indicative,Perfect,2nd Person,Singular,suscipatus es,suscipetus es,suscipus es,suscipus es,You have been undertakeed
+Passive Indicative,Perfect,2nd Person,Plural,suscipati estis,suscipeti estis,suscipi estis,suscipi estis,You (pl.) have been undertakeed
+Passive Indicative,Perfect,3rd Person,Singular,suscipatus est,suscipetus est,suscipus est,suscipus est,He/she/it has been undertakeed
+Passive Indicative,Perfect,3rd Person,Plural,suscipati sunt,suscipeti sunt,suscipi sunt,suscipi sunt,They have been undertakeed
+Passive Indicative,Pluperfect,1st Person,Singular,suscipatus eram,suscipetus eram,suscipus eram,suscipus eram,I had been undertakeed
+Passive Indicative,Pluperfect,1st Person,Plural,suscipati eramus,suscipeti eramus,suscipi eramus,suscipi eramus,We had been undertakeed
+Passive Indicative,Pluperfect,2nd Person,Singular,suscipatus eras,suscipetus eras,suscipus eras,suscipus eras,You had been undertakeed
+Passive Indicative,Pluperfect,2nd Person,Plural,suscipati eratis,suscipeti eratis,suscipi eratis,suscipi eratis,You (pl.) had been undertakeed
+Passive Indicative,Pluperfect,3rd Person,Singular,suscipatus erat,suscipetus erat,suscipus erat,suscipus erat,He/she/it had been undertakeed
+Passive Indicative,Pluperfect,3rd Person,Plural,suscipati erant,suscipeti erant,suscipi erant,suscipi erant,They had been undertakeed
+Passive Indicative,Future Perfect,1st Person,Singular,suscipatus ero,suscipetus ero,suscipus ero,suscipus ero,I will have been undertakeed
+Passive Indicative,Future Perfect,1st Person,Plural,suscipati erimus,suscipeti erimus,suscipi erimus,suscipi erimus,We will have been undertakeed
+Passive Indicative,Future Perfect,2nd Person,Singular,suscipatus eris,suscipetus eris,suscipus eris,suscipus eris,You will have been undertakeed
+Passive Indicative,Future Perfect,2nd Person,Plural,suscipati eritis,suscipeti eritis,suscipi eritis,suscipi eritis,You (pl.) will have been undertakeed
+Passive Indicative,Future Perfect,3rd Person,Singular,suscipatus erit,suscipetus erit,suscipus erit,suscipus erit,He/she/it will have been undertakeed
+Passive Indicative,Future Perfect,3rd Person,Plural,suscipati erunt,suscipeti erunt,suscipi erunt,suscipi erunt,They will have been undertakeed
+Active Subjunctive,Present,1st Person,Singular,suscipem,suscipem,suscipam,suscipam,I may undertake
+Active Subjunctive,Present,1st Person,Plural,suscipemus,suscipemus,suscipamus,suscipamus,We may undertake
+Active Subjunctive,Present,2nd Person,Singular,suscipes,suscipes,suscipas,suscipas,You may undertake
+Active Subjunctive,Present,2nd Person,Plural,suscipetis,suscipetis,suscipatis,suscipatis,You (pl.) may undertake
+Active Subjunctive,Present,3rd Person,Singular,suscipet,suscipet,suscipat,suscipat,He/she/it may undertake
+Active Subjunctive,Present,3rd Person,Plural,suscipent,suscipent,suscipant,suscipant,They may undertake
+Active Subjunctive,Imperfect,1st Person,Singular,susciparem,susciperem,susciperem,suscipirem,I should undertake
+Active Subjunctive,Imperfect,1st Person,Plural,susciparemus,susciperemus,susciperemus,suscipiremus,We should undertake
+Active Subjunctive,Imperfect,2nd Person,Singular,suscipares,susciperes,susciperes,suscipires,You should undertake
+Active Subjunctive,Imperfect,2nd Person,Plural,susciparetis,susciperetis,susciperetis,suscipiretis,You (pl.) should undertake
+Active Subjunctive,Imperfect,3rd Person,Singular,susciparet,susciperet,susciperet,suscipiret,He/she/it should undertake
+Active Subjunctive,Imperfect,3rd Person,Plural,susciparent,susciperent,susciperent,suscipirent,They should undertake
+Active Subjunctive,Perfect,1st Person,Singular,susciperim,suscipuerim,susciperim,suscipierim,I may have undertakeed
+Active Subjunctive,Perfect,1st Person,Plural,susciperimus,suscipuerimus,susciperimus,suscipierimus,We may have undertakeed
+Active Subjunctive,Perfect,2nd Person,Singular,susciperis,suscipueris,susciperis,suscipieris,You may have undertakeed
+Active Subjunctive,Perfect,2nd Person,Plural,susciperitis,suscipueritis,susciperitis,suscipieritis,You (pl.) may have undertakeed
+Active Subjunctive,Perfect,3rd Person,Singular,susciperit,suscipuerit,susciperit,suscipierit,He/she/it may have undertakeed
+Active Subjunctive,Perfect,3rd Person,Plural,susciperint,suscipuerint,susciperint,suscipierint,They may have undertakeed
+Active Subjunctive,Pluperfect,1st Person,Singular,suscipissem,suscipuissem,suscipissem,suscipissem,I should have undertakeed
+Active Subjunctive,Pluperfect,1st Person,Plural,suscipissemus,suscipuissemus,suscipissemus,suscipissemus,We should have undertakeed
+Active Subjunctive,Pluperfect,2nd Person,Singular,suscipisses,suscipuisses,suscipisses,suscipisses,You would have undertakeed
+Active Subjunctive,Pluperfect,2nd Person,Plural,suscipissetis,suscipuissetis,suscipissetis,suscipissetis,You (pl.) would have undertakeed
+Active Subjunctive,Pluperfect,3rd Person,Singular,suscipisset,suscipuisset,suscipisset,suscipisset,He/she/it would have undertakeed
+Active Subjunctive,Pluperfect,3rd Person,Plural,suscipissent,suscipuissent,suscipissent,suscipissent,They would have undertakeed
+Passive Subjunctive,Present,1st Person,Singular,susciper,susciper,suscipar,suscipar,I may be undertakeed
+Passive Subjunctive,Present,1st Person,Plural,suscipemur,suscipemur,suscipamur,suscipamur,We may be undertakeed
+Passive Subjunctive,Present,2nd Person,Singular,susciperis,susciperis,susciparis,susciparis,You may be undertakeed
+Passive Subjunctive,Present,2nd Person,Plural,suscipemini,suscipemini,suscipamini,suscipamini,You (pl.) may be undertakeed
+Passive Subjunctive,Present,3rd Person,Singular,suscipetur,suscipetur,suscipatur,suscipatur,He/she/it may be undertakeed
+Passive Subjunctive,Present,3rd Person,Plural,suscipentur,suscipentur,suscipantur,suscipantur,They may be undertakeed
+Passive Subjunctive,Imperfect,1st Person,Singular,susciparer,susciperer,susciperer,suscipirer,I should be undertakeed
+Passive Subjunctive,Imperfect,1st Person,Plural,susciparemur,susciperemur,susciperemur,suscipiremur,We should be undertakeed
+Passive Subjunctive,Imperfect,2nd Person,Singular,suscipareris,suscipereris,suscipereris,suscipireris,You would be undertakeed
+Passive Subjunctive,Imperfect,2nd Person,Plural,susciparemini,susciperemini,susciperemini,suscipiremini,You (pl.) would be undertakeed
+Passive Subjunctive,Imperfect,3rd Person,Singular,susciparetur,susciperetur,susciperetur,suscipiretur,He/she/it would be undertakeed
+Passive Subjunctive,Imperfect,3rd Person,Plural,susciparentur,susciperentur,susciperentur,suscipirentur,They would be undertakeed
+Passive Subjunctive,Perfect,1st Person,Singular,suscipatus sim,suscipetus sim,suscipus sim,suscipus sim,I may have been undertakeed
+Passive Subjunctive,Perfect,1st Person,Plural,suscipati simus,suscipeti simus,suscipi simus,suscipi simus,We may have been undertakeed
+Passive Subjunctive,Perfect,2nd Person,Singular,suscipatus sis,suscipetus sis,suscipus sis,suscipus sis,You may have been undertakeed
+Passive Subjunctive,Perfect,2nd Person,Plural,suscipati sitis,suscipeti sitis,suscipi sitis,suscipi sitis,You (pl.) may have been undertakeed
+Passive Subjunctive,Perfect,3rd Person,Singular,suscipatus sit,suscipetus sit,suscipus sit,suscipus sit,He/she/it may have been undertakeed
+Passive Subjunctive,Perfect,3rd Person,Plural,suscipati sint,suscipeti sint,suscipi sint,suscipi sint,They may have been undertakeed
+Passive Subjunctive,Pluperfect,1st Person,Singular,suscipatus essem,suscipetus essem,suscipus essem,suscipus essem,I should have been undertakeed
+Passive Subjunctive,Pluperfect,1st Person,Plural,suscipati essemus,suscipeti essemus,suscipi essemus,suscipi essemus,We should have been undertakeed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,suscipatus esses,suscipetus esses,suscipus esses,suscipus esses,You would have been undertakeed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,suscipati essetis,suscipeti essetis,suscipi essetis,suscipi essetis,You (pl.) would have been undertakeed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,suscipatus esset,suscipetus esset,suscipus esset,suscipus esset,He/she/it would have been undertakeed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,suscipati essent,suscipeti essent,suscipi essent,suscipi essent,They would have been undertakeed

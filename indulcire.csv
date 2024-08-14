@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,indulco,indulceo,indulco,indulcio,I sweeten
+Active Indicative,Present,1st Person,Plural,indulcamus,indulcemus,indulcimus,indulcimus,We sweeten
+Active Indicative,Present,2nd Person,Singular,indulcas,indulces,indulcis,indulcis,You sweeten
+Active Indicative,Present,2nd Person,Plural,indulcatis,indulcetis,indulcitis,indulcitis,You (pl.) sweeten
+Active Indicative,Present,3rd Person,Singular,indulcat,indulcet,indulcit,indulcit,He/she/it sweeten
+Active Indicative,Present,3rd Person,Plural,indulcant,indulcent,indulciunt,indulciunt,They sweeten
+Active Indicative,Imperfect,1st Person,Singular,indulcabam,indulcebam,indulcebam,indulciebam,I was sweetening
+Active Indicative,Imperfect,1st Person,Plural,indulcabamus,indulcebamus,indulcebamus,indulciebamus,We were sweetening
+Active Indicative,Imperfect,2nd Person,Singular,indulcabas,indulcebas,indulcebas,indulciebas,You were sweetening
+Active Indicative,Imperfect,2nd Person,Plural,indulcabatis,indulcebatis,indulcebatis,indulciebatis,You (pl.) were sweetening
+Active Indicative,Imperfect,3rd Person,Singular,indulcabat,indulcebat,indulcebat,indulciebat,He/she/it was sweetening
+Active Indicative,Imperfect,3rd Person,Plural,indulcabant,indulcebant,indulcebant,indulciebant,They were sweetening
+Active Indicative,Future,1st Person,Singular,indulcabo,indulcebo,indulcam,indulciam,I will sweeten
+Active Indicative,Future,1st Person,Plural,indulcabimus,indulcebimus,indulcemus,indulciemus,We will sweeten
+Active Indicative,Future,2nd Person,Singular,indulcabis,indulcebis,indulces,indulcies,You will sweeten
+Active Indicative,Future,2nd Person,Plural,indulcabitis,indulcebitis,indulcetis,indulcietis,You (pl.) will sweeten
+Active Indicative,Future,3rd Person,Singular,indulcabit,indulcebit,indulcet,indulciet,He/she/it will sweeten
+Active Indicative,Future,3rd Person,Plural,indulcabunt,indulcebunt,indulcent,indulcient,They will sweeten
+Active Indicative,Perfect,1st Person,Singular,indulcavi,indulcui,indulci,indulci,I have sweetened
+Active Indicative,Perfect,1st Person,Plural,indulcavimus,indulcuimus,indulcimus,indulcimus,We have sweetened
+Active Indicative,Perfect,2nd Person,Singular,indulcavisti,indulcuisti,indulcisti,indulcisti,You have sweetened
+Active Indicative,Perfect,2nd Person,Plural,indulcavistis,indulcuistis,indulcistis,indulcistis,You (pl.) have sweetened
+Active Indicative,Perfect,3rd Person,Singular,indulcavit,indulcuit,indulcit,indulcit,He/she/it has sweetened
+Active Indicative,Perfect,3rd Person,Plural,indulcaverunt,indulcuerunt,indulcerunt,indulcerunt,They have sweetened
+Active Indicative,Pluperfect,1st Person,Singular,indulcaveram,indulcueram,indulceram,indulceram,I had sweetened
+Active Indicative,Pluperfect,1st Person,Plural,indulcaveramus,indulcueramus,indulceramus,indulceramus,We had sweetened
+Active Indicative,Pluperfect,2nd Person,Singular,indulcaveras,indulcueras,indulceras,indulceras,You had sweetened
+Active Indicative,Pluperfect,2nd Person,Plural,indulcaveratis,indulcueratis,indulceratis,indulceratis,You (pl.) had sweetened
+Active Indicative,Pluperfect,3rd Person,Singular,indulcaverat,indulcuerat,indulcerat,indulcerat,He/she/it had sweetened
+Active Indicative,Pluperfect,3rd Person,Plural,indulcaverant,indulcuerant,indulcerant,indulcerant,They had sweetened
+Active Indicative,Future Perfect,1st Person,Singular,indulcavero,indulcueero,indulcero,indulciero,I will have sweetened
+Active Indicative,Future Perfect,1st Person,Plural,indulcaverimus,indulcuerimus,indulcerimus,indulcierimus,We will have sweetened
+Active Indicative,Future Perfect,2nd Person,Singular,indulcaveris,indulcueris,indulceris,indulcieris,You will have sweetened
+Active Indicative,Future Perfect,2nd Person,Plural,indulcaveritis,indulcueritis,indulceritis,indulcieritis,You (pl.) will have sweetened
+Active Indicative,Future Perfect,3rd Person,Singular,indulcaverit,indulcuerit,indulcerit,indulcierit,He/she/it will have sweetened
+Active Indicative,Future Perfect,3rd Person,Plural,indulcaverint,indulcuerint,indulcerint,indulcierint,They will have sweetened
+Passive Indicative,Present,1st Person,Singular,indulcor,indulceor,indulcor,indulcior,I am being sweetened
+Passive Indicative,Present,1st Person,Plural,indulcamur,indulcemur,indulcimur,indulcimur,We are being sweetened
+Passive Indicative,Present,2nd Person,Singular,indulcaris,indulceris,indulciris,indulciris,You are being sweetened
+Passive Indicative,Present,2nd Person,Plural,indulcamini,indulcemini,indulcimini,indulcimini,You (pl.) are being sweetened
+Passive Indicative,Present,3rd Person,Singular,indulcatur,indulcetur,indulcitur,indulcitur,He/she/it is being sweetened
+Passive Indicative,Present,3rd Person,Plural,indulcantur,indulcentur,indulciuntur,indulciuntur,They are being sweetened
+Passive Indicative,Imperfect,1st Person,Singular,indulcabar,indulcebar,indulcebar,indulciebar,I was sweetened
+Passive Indicative,Imperfect,1st Person,Plural,indulcabamur,indulcebamur,indulcebamur,indulciebamur,We were sweetened
+Passive Indicative,Imperfect,2nd Person,Singular,indulcabaris,indulcebaris,indulcebaris,indulciebaris,You were sweetened
+Passive Indicative,Imperfect,2nd Person,Plural,indulcabamini,indulcebamini,indulcebamini,indulciebamini,You (pl.) were sweetened
+Passive Indicative,Imperfect,3rd Person,Singular,indulcabatur,indulcebatur,indulcebatur,indulciebatur,He/she/it was sweetened
+Passive Indicative,Imperfect,3rd Person,Plural,indulcabantur,indulcebantur,indulcebantur,indulciebantur,They were sweetened
+Passive Indicative,Future,1st Person,Singular,indulcabor,indulcebor,indulcar,indulciar,I will be sweetened
+Passive Indicative,Future,1st Person,Plural,indulcabimur,indulcebimur,indulcemur,indulciemur,We will be sweetened
+Passive Indicative,Future,2nd Person,Singular,indulcaberis,indulceberis,indulceris,indulcieris,You will be sweetened
+Passive Indicative,Future,2nd Person,Plural,indulcabimini,indulcebimini,indulcemini,indulciemini,You (pl.) will be sweetened
+Passive Indicative,Future,3rd Person,Singular,indulcabitur,indulcebitur,indulcetur,indulcietur,He/she/it will be sweetened
+Passive Indicative,Future,3rd Person,Plural,indulcabuntur,indulcebuntur,indulcentur,indulcientur,They will be sweetened
+Passive Indicative,Perfect,1st Person,Singular,indulcatus sum,indulcetus sum,indulcus sum,indulcus sum,I have been sweetened
+Passive Indicative,Perfect,1st Person,Plural,indulcati sumus,indulceti sumus,indulci sumus,indulci sumus,We have been sweetened
+Passive Indicative,Perfect,2nd Person,Singular,indulcatus es,indulcetus es,indulcus es,indulcus es,You have been sweetened
+Passive Indicative,Perfect,2nd Person,Plural,indulcati estis,indulceti estis,indulci estis,indulci estis,You (pl.) have been sweetened
+Passive Indicative,Perfect,3rd Person,Singular,indulcatus est,indulcetus est,indulcus est,indulcus est,He/she/it has been sweetened
+Passive Indicative,Perfect,3rd Person,Plural,indulcati sunt,indulceti sunt,indulci sunt,indulci sunt,They have been sweetened
+Passive Indicative,Pluperfect,1st Person,Singular,indulcatus eram,indulcetus eram,indulcus eram,indulcus eram,I had been sweetened
+Passive Indicative,Pluperfect,1st Person,Plural,indulcati eramus,indulceti eramus,indulci eramus,indulci eramus,We had been sweetened
+Passive Indicative,Pluperfect,2nd Person,Singular,indulcatus eras,indulcetus eras,indulcus eras,indulcus eras,You had been sweetened
+Passive Indicative,Pluperfect,2nd Person,Plural,indulcati eratis,indulceti eratis,indulci eratis,indulci eratis,You (pl.) had been sweetened
+Passive Indicative,Pluperfect,3rd Person,Singular,indulcatus erat,indulcetus erat,indulcus erat,indulcus erat,He/she/it had been sweetened
+Passive Indicative,Pluperfect,3rd Person,Plural,indulcati erant,indulceti erant,indulci erant,indulci erant,They had been sweetened
+Passive Indicative,Future Perfect,1st Person,Singular,indulcatus ero,indulcetus ero,indulcus ero,indulcus ero,I will have been sweetened
+Passive Indicative,Future Perfect,1st Person,Plural,indulcati erimus,indulceti erimus,indulci erimus,indulci erimus,We will have been sweetened
+Passive Indicative,Future Perfect,2nd Person,Singular,indulcatus eris,indulcetus eris,indulcus eris,indulcus eris,You will have been sweetened
+Passive Indicative,Future Perfect,2nd Person,Plural,indulcati eritis,indulceti eritis,indulci eritis,indulci eritis,You (pl.) will have been sweetened
+Passive Indicative,Future Perfect,3rd Person,Singular,indulcatus erit,indulcetus erit,indulcus erit,indulcus erit,He/she/it will have been sweetened
+Passive Indicative,Future Perfect,3rd Person,Plural,indulcati erunt,indulceti erunt,indulci erunt,indulci erunt,They will have been sweetened
+Active Subjunctive,Present,1st Person,Singular,indulcem,indulcem,indulcam,indulcam,I may sweeten
+Active Subjunctive,Present,1st Person,Plural,indulcemus,indulcemus,indulcamus,indulcamus,We may sweeten
+Active Subjunctive,Present,2nd Person,Singular,indulces,indulces,indulcas,indulcas,You may sweeten
+Active Subjunctive,Present,2nd Person,Plural,indulcetis,indulcetis,indulcatis,indulcatis,You (pl.) may sweeten
+Active Subjunctive,Present,3rd Person,Singular,indulcet,indulcet,indulcat,indulcat,He/she/it may sweeten
+Active Subjunctive,Present,3rd Person,Plural,indulcent,indulcent,indulcant,indulcant,They may sweeten
+Active Subjunctive,Imperfect,1st Person,Singular,indulcarem,indulcerem,indulcerem,indulcirem,I should sweeten
+Active Subjunctive,Imperfect,1st Person,Plural,indulcaremus,indulceremus,indulceremus,indulciremus,We should sweeten
+Active Subjunctive,Imperfect,2nd Person,Singular,indulcares,indulceres,indulceres,indulcires,You should sweeten
+Active Subjunctive,Imperfect,2nd Person,Plural,indulcaretis,indulceretis,indulceretis,indulciretis,You (pl.) should sweeten
+Active Subjunctive,Imperfect,3rd Person,Singular,indulcaret,indulceret,indulceret,indulciret,He/she/it should sweeten
+Active Subjunctive,Imperfect,3rd Person,Plural,indulcarent,indulcerent,indulcerent,indulcirent,They should sweeten
+Active Subjunctive,Perfect,1st Person,Singular,indulcerim,indulcuerim,indulcerim,indulcierim,I may have sweetened
+Active Subjunctive,Perfect,1st Person,Plural,indulcerimus,indulcuerimus,indulcerimus,indulcierimus,We may have sweetened
+Active Subjunctive,Perfect,2nd Person,Singular,indulceris,indulcueris,indulceris,indulcieris,You may have sweetened
+Active Subjunctive,Perfect,2nd Person,Plural,indulceritis,indulcueritis,indulceritis,indulcieritis,You (pl.) may have sweetened
+Active Subjunctive,Perfect,3rd Person,Singular,indulcerit,indulcuerit,indulcerit,indulcierit,He/she/it may have sweetened
+Active Subjunctive,Perfect,3rd Person,Plural,indulcerint,indulcuerint,indulcerint,indulcierint,They may have sweetened
+Active Subjunctive,Pluperfect,1st Person,Singular,indulcissem,indulcuissem,indulcissem,indulcissem,I should have sweetened
+Active Subjunctive,Pluperfect,1st Person,Plural,indulcissemus,indulcuissemus,indulcissemus,indulcissemus,We should have sweetened
+Active Subjunctive,Pluperfect,2nd Person,Singular,indulcisses,indulcuisses,indulcisses,indulcisses,You would have sweetened
+Active Subjunctive,Pluperfect,2nd Person,Plural,indulcissetis,indulcuissetis,indulcissetis,indulcissetis,You (pl.) would have sweetened
+Active Subjunctive,Pluperfect,3rd Person,Singular,indulcisset,indulcuisset,indulcisset,indulcisset,He/she/it would have sweetened
+Active Subjunctive,Pluperfect,3rd Person,Plural,indulcissent,indulcuissent,indulcissent,indulcissent,They would have sweetened
+Passive Subjunctive,Present,1st Person,Singular,indulcer,indulcer,indulcar,indulcar,I may be sweetened
+Passive Subjunctive,Present,1st Person,Plural,indulcemur,indulcemur,indulcamur,indulcamur,We may be sweetened
+Passive Subjunctive,Present,2nd Person,Singular,indulceris,indulceris,indulcaris,indulcaris,You may be sweetened
+Passive Subjunctive,Present,2nd Person,Plural,indulcemini,indulcemini,indulcamini,indulcamini,You (pl.) may be sweetened
+Passive Subjunctive,Present,3rd Person,Singular,indulcetur,indulcetur,indulcatur,indulcatur,He/she/it may be sweetened
+Passive Subjunctive,Present,3rd Person,Plural,indulcentur,indulcentur,indulcantur,indulcantur,They may be sweetened
+Passive Subjunctive,Imperfect,1st Person,Singular,indulcarer,indulcerer,indulcerer,indulcirer,I should be sweetened
+Passive Subjunctive,Imperfect,1st Person,Plural,indulcaremur,indulceremur,indulceremur,indulciremur,We should be sweetened
+Passive Subjunctive,Imperfect,2nd Person,Singular,indulcareris,indulcereris,indulcereris,indulcireris,You would be sweetened
+Passive Subjunctive,Imperfect,2nd Person,Plural,indulcaremini,indulceremini,indulceremini,indulciremini,You (pl.) would be sweetened
+Passive Subjunctive,Imperfect,3rd Person,Singular,indulcaretur,indulceretur,indulceretur,indulciretur,He/she/it would be sweetened
+Passive Subjunctive,Imperfect,3rd Person,Plural,indulcarentur,indulcerentur,indulcerentur,indulcirentur,They would be sweetened
+Passive Subjunctive,Perfect,1st Person,Singular,indulcatus sim,indulcetus sim,indulcus sim,indulcus sim,I may have been sweetened
+Passive Subjunctive,Perfect,1st Person,Plural,indulcati simus,indulceti simus,indulci simus,indulci simus,We may have been sweetened
+Passive Subjunctive,Perfect,2nd Person,Singular,indulcatus sis,indulcetus sis,indulcus sis,indulcus sis,You may have been sweetened
+Passive Subjunctive,Perfect,2nd Person,Plural,indulcati sitis,indulceti sitis,indulci sitis,indulci sitis,You (pl.) may have been sweetened
+Passive Subjunctive,Perfect,3rd Person,Singular,indulcatus sit,indulcetus sit,indulcus sit,indulcus sit,He/she/it may have been sweetened
+Passive Subjunctive,Perfect,3rd Person,Plural,indulcati sint,indulceti sint,indulci sint,indulci sint,They may have been sweetened
+Passive Subjunctive,Pluperfect,1st Person,Singular,indulcatus essem,indulcetus essem,indulcus essem,indulcus essem,I should have been sweetened
+Passive Subjunctive,Pluperfect,1st Person,Plural,indulcati essemus,indulceti essemus,indulci essemus,indulci essemus,We should have been sweetened
+Passive Subjunctive,Pluperfect,2nd Person,Singular,indulcatus esses,indulcetus esses,indulcus esses,indulcus esses,You would have been sweetened
+Passive Subjunctive,Pluperfect,2nd Person,Plural,indulcati essetis,indulceti essetis,indulci essetis,indulci essetis,You (pl.) would have been sweetened
+Passive Subjunctive,Pluperfect,3rd Person,Singular,indulcatus esset,indulcetus esset,indulcus esset,indulcus esset,He/she/it would have been sweetened
+Passive Subjunctive,Pluperfect,3rd Person,Plural,indulcati essent,indulceti essent,indulci essent,indulci essent,They would have been sweetened

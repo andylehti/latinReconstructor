@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,partiro,partireo,partiro,partirio,I share
+Active Indicative,Present,1st Person,Plural,partiramus,partiremus,partirimus,partirimus,We share
+Active Indicative,Present,2nd Person,Singular,partiras,partires,partiris,partiris,You share
+Active Indicative,Present,2nd Person,Plural,partiratis,partiretis,partiritis,partiritis,You (pl.) share
+Active Indicative,Present,3rd Person,Singular,partirat,partiret,partirit,partirit,He/she/it share
+Active Indicative,Present,3rd Person,Plural,partirant,partirent,partiriunt,partiriunt,They share
+Active Indicative,Imperfect,1st Person,Singular,partirabam,partirebam,partirebam,partiriebam,I was shareing
+Active Indicative,Imperfect,1st Person,Plural,partirabamus,partirebamus,partirebamus,partiriebamus,We were shareing
+Active Indicative,Imperfect,2nd Person,Singular,partirabas,partirebas,partirebas,partiriebas,You were shareing
+Active Indicative,Imperfect,2nd Person,Plural,partirabatis,partirebatis,partirebatis,partiriebatis,You (pl.) were shareing
+Active Indicative,Imperfect,3rd Person,Singular,partirabat,partirebat,partirebat,partiriebat,He/she/it was shareing
+Active Indicative,Imperfect,3rd Person,Plural,partirabant,partirebant,partirebant,partiriebant,They were shareing
+Active Indicative,Future,1st Person,Singular,partirabo,partirebo,partiram,partiriam,I will share
+Active Indicative,Future,1st Person,Plural,partirabimus,partirebimus,partiremus,partiriemus,We will share
+Active Indicative,Future,2nd Person,Singular,partirabis,partirebis,partires,partiries,You will share
+Active Indicative,Future,2nd Person,Plural,partirabitis,partirebitis,partiretis,partirietis,You (pl.) will share
+Active Indicative,Future,3rd Person,Singular,partirabit,partirebit,partiret,partiriet,He/she/it will share
+Active Indicative,Future,3rd Person,Plural,partirabunt,partirebunt,partirent,partirient,They will share
+Active Indicative,Perfect,1st Person,Singular,partiravi,partirui,partiri,partiri,I have shareed
+Active Indicative,Perfect,1st Person,Plural,partiravimus,partiruimus,partirimus,partirimus,We have shareed
+Active Indicative,Perfect,2nd Person,Singular,partiravisti,partiruisti,partiristi,partiristi,You have shareed
+Active Indicative,Perfect,2nd Person,Plural,partiravistis,partiruistis,partiristis,partiristis,You (pl.) have shareed
+Active Indicative,Perfect,3rd Person,Singular,partiravit,partiruit,partirit,partirit,He/she/it has shareed
+Active Indicative,Perfect,3rd Person,Plural,partiraverunt,partiruerunt,partirerunt,partirerunt,They have shareed
+Active Indicative,Pluperfect,1st Person,Singular,partiraveram,partirueram,partireram,partireram,I had shareed
+Active Indicative,Pluperfect,1st Person,Plural,partiraveramus,partirueramus,partireramus,partireramus,We had shareed
+Active Indicative,Pluperfect,2nd Person,Singular,partiraveras,partirueras,partireras,partireras,You had shareed
+Active Indicative,Pluperfect,2nd Person,Plural,partiraveratis,partirueratis,partireratis,partireratis,You (pl.) had shareed
+Active Indicative,Pluperfect,3rd Person,Singular,partiraverat,partiruerat,partirerat,partirerat,He/she/it had shareed
+Active Indicative,Pluperfect,3rd Person,Plural,partiraverant,partiruerant,partirerant,partirerant,They had shareed
+Active Indicative,Future Perfect,1st Person,Singular,partiravero,partirueero,partirero,partiriero,I will have shareed
+Active Indicative,Future Perfect,1st Person,Plural,partiraverimus,partiruerimus,partirerimus,partirierimus,We will have shareed
+Active Indicative,Future Perfect,2nd Person,Singular,partiraveris,partirueris,partireris,partirieris,You will have shareed
+Active Indicative,Future Perfect,2nd Person,Plural,partiraveritis,partirueritis,partireritis,partirieritis,You (pl.) will have shareed
+Active Indicative,Future Perfect,3rd Person,Singular,partiraverit,partiruerit,partirerit,partirierit,He/she/it will have shareed
+Active Indicative,Future Perfect,3rd Person,Plural,partiraverint,partiruerint,partirerint,partirierint,They will have shareed
+Passive Indicative,Present,1st Person,Singular,partiror,partireor,partiror,partirior,I am being shareed
+Passive Indicative,Present,1st Person,Plural,partiramur,partiremur,partirimur,partirimur,We are being shareed
+Passive Indicative,Present,2nd Person,Singular,partiraris,partireris,partiriris,partiriris,You are being shareed
+Passive Indicative,Present,2nd Person,Plural,partiramini,partiremini,partirimini,partirimini,You (pl.) are being shareed
+Passive Indicative,Present,3rd Person,Singular,partiratur,partiretur,partiritur,partiritur,He/she/it is being shareed
+Passive Indicative,Present,3rd Person,Plural,partirantur,partirentur,partiriuntur,partiriuntur,They are being shareed
+Passive Indicative,Imperfect,1st Person,Singular,partirabar,partirebar,partirebar,partiriebar,I was shareed
+Passive Indicative,Imperfect,1st Person,Plural,partirabamur,partirebamur,partirebamur,partiriebamur,We were shareed
+Passive Indicative,Imperfect,2nd Person,Singular,partirabaris,partirebaris,partirebaris,partiriebaris,You were shareed
+Passive Indicative,Imperfect,2nd Person,Plural,partirabamini,partirebamini,partirebamini,partiriebamini,You (pl.) were shareed
+Passive Indicative,Imperfect,3rd Person,Singular,partirabatur,partirebatur,partirebatur,partiriebatur,He/she/it was shareed
+Passive Indicative,Imperfect,3rd Person,Plural,partirabantur,partirebantur,partirebantur,partiriebantur,They were shareed
+Passive Indicative,Future,1st Person,Singular,partirabor,partirebor,partirar,partiriar,I will be shareed
+Passive Indicative,Future,1st Person,Plural,partirabimur,partirebimur,partiremur,partiriemur,We will be shareed
+Passive Indicative,Future,2nd Person,Singular,partiraberis,partireberis,partireris,partirieris,You will be shareed
+Passive Indicative,Future,2nd Person,Plural,partirabimini,partirebimini,partiremini,partiriemini,You (pl.) will be shareed
+Passive Indicative,Future,3rd Person,Singular,partirabitur,partirebitur,partiretur,partirietur,He/she/it will be shareed
+Passive Indicative,Future,3rd Person,Plural,partirabuntur,partirebuntur,partirentur,partirientur,They will be shareed
+Passive Indicative,Perfect,1st Person,Singular,partiratus sum,partiretus sum,partirus sum,partirus sum,I have been shareed
+Passive Indicative,Perfect,1st Person,Plural,partirati sumus,partireti sumus,partiri sumus,partiri sumus,We have been shareed
+Passive Indicative,Perfect,2nd Person,Singular,partiratus es,partiretus es,partirus es,partirus es,You have been shareed
+Passive Indicative,Perfect,2nd Person,Plural,partirati estis,partireti estis,partiri estis,partiri estis,You (pl.) have been shareed
+Passive Indicative,Perfect,3rd Person,Singular,partiratus est,partiretus est,partirus est,partirus est,He/she/it has been shareed
+Passive Indicative,Perfect,3rd Person,Plural,partirati sunt,partireti sunt,partiri sunt,partiri sunt,They have been shareed
+Passive Indicative,Pluperfect,1st Person,Singular,partiratus eram,partiretus eram,partirus eram,partirus eram,I had been shareed
+Passive Indicative,Pluperfect,1st Person,Plural,partirati eramus,partireti eramus,partiri eramus,partiri eramus,We had been shareed
+Passive Indicative,Pluperfect,2nd Person,Singular,partiratus eras,partiretus eras,partirus eras,partirus eras,You had been shareed
+Passive Indicative,Pluperfect,2nd Person,Plural,partirati eratis,partireti eratis,partiri eratis,partiri eratis,You (pl.) had been shareed
+Passive Indicative,Pluperfect,3rd Person,Singular,partiratus erat,partiretus erat,partirus erat,partirus erat,He/she/it had been shareed
+Passive Indicative,Pluperfect,3rd Person,Plural,partirati erant,partireti erant,partiri erant,partiri erant,They had been shareed
+Passive Indicative,Future Perfect,1st Person,Singular,partiratus ero,partiretus ero,partirus ero,partirus ero,I will have been shareed
+Passive Indicative,Future Perfect,1st Person,Plural,partirati erimus,partireti erimus,partiri erimus,partiri erimus,We will have been shareed
+Passive Indicative,Future Perfect,2nd Person,Singular,partiratus eris,partiretus eris,partirus eris,partirus eris,You will have been shareed
+Passive Indicative,Future Perfect,2nd Person,Plural,partirati eritis,partireti eritis,partiri eritis,partiri eritis,You (pl.) will have been shareed
+Passive Indicative,Future Perfect,3rd Person,Singular,partiratus erit,partiretus erit,partirus erit,partirus erit,He/she/it will have been shareed
+Passive Indicative,Future Perfect,3rd Person,Plural,partirati erunt,partireti erunt,partiri erunt,partiri erunt,They will have been shareed
+Active Subjunctive,Present,1st Person,Singular,partirem,partirem,partiram,partiram,I may share
+Active Subjunctive,Present,1st Person,Plural,partiremus,partiremus,partiramus,partiramus,We may share
+Active Subjunctive,Present,2nd Person,Singular,partires,partires,partiras,partiras,You may share
+Active Subjunctive,Present,2nd Person,Plural,partiretis,partiretis,partiratis,partiratis,You (pl.) may share
+Active Subjunctive,Present,3rd Person,Singular,partiret,partiret,partirat,partirat,He/she/it may share
+Active Subjunctive,Present,3rd Person,Plural,partirent,partirent,partirant,partirant,They may share
+Active Subjunctive,Imperfect,1st Person,Singular,partirarem,partirerem,partirerem,partirirem,I should share
+Active Subjunctive,Imperfect,1st Person,Plural,partiraremus,partireremus,partireremus,partiriremus,We should share
+Active Subjunctive,Imperfect,2nd Person,Singular,partirares,partireres,partireres,partirires,You should share
+Active Subjunctive,Imperfect,2nd Person,Plural,partiraretis,partireretis,partireretis,partiriretis,You (pl.) should share
+Active Subjunctive,Imperfect,3rd Person,Singular,partiraret,partireret,partireret,partiriret,He/she/it should share
+Active Subjunctive,Imperfect,3rd Person,Plural,partirarent,partirerent,partirerent,partirirent,They should share
+Active Subjunctive,Perfect,1st Person,Singular,partirerim,partiruerim,partirerim,partirierim,I may have shareed
+Active Subjunctive,Perfect,1st Person,Plural,partirerimus,partiruerimus,partirerimus,partirierimus,We may have shareed
+Active Subjunctive,Perfect,2nd Person,Singular,partireris,partirueris,partireris,partirieris,You may have shareed
+Active Subjunctive,Perfect,2nd Person,Plural,partireritis,partirueritis,partireritis,partirieritis,You (pl.) may have shareed
+Active Subjunctive,Perfect,3rd Person,Singular,partirerit,partiruerit,partirerit,partirierit,He/she/it may have shareed
+Active Subjunctive,Perfect,3rd Person,Plural,partirerint,partiruerint,partirerint,partirierint,They may have shareed
+Active Subjunctive,Pluperfect,1st Person,Singular,partirissem,partiruissem,partirissem,partirissem,I should have shareed
+Active Subjunctive,Pluperfect,1st Person,Plural,partirissemus,partiruissemus,partirissemus,partirissemus,We should have shareed
+Active Subjunctive,Pluperfect,2nd Person,Singular,partirisses,partiruisses,partirisses,partirisses,You would have shareed
+Active Subjunctive,Pluperfect,2nd Person,Plural,partirissetis,partiruissetis,partirissetis,partirissetis,You (pl.) would have shareed
+Active Subjunctive,Pluperfect,3rd Person,Singular,partirisset,partiruisset,partirisset,partirisset,He/she/it would have shareed
+Active Subjunctive,Pluperfect,3rd Person,Plural,partirissent,partiruissent,partirissent,partirissent,They would have shareed
+Passive Subjunctive,Present,1st Person,Singular,partirer,partirer,partirar,partirar,I may be shareed
+Passive Subjunctive,Present,1st Person,Plural,partiremur,partiremur,partiramur,partiramur,We may be shareed
+Passive Subjunctive,Present,2nd Person,Singular,partireris,partireris,partiraris,partiraris,You may be shareed
+Passive Subjunctive,Present,2nd Person,Plural,partiremini,partiremini,partiramini,partiramini,You (pl.) may be shareed
+Passive Subjunctive,Present,3rd Person,Singular,partiretur,partiretur,partiratur,partiratur,He/she/it may be shareed
+Passive Subjunctive,Present,3rd Person,Plural,partirentur,partirentur,partirantur,partirantur,They may be shareed
+Passive Subjunctive,Imperfect,1st Person,Singular,partirarer,partirerer,partirerer,partirirer,I should be shareed
+Passive Subjunctive,Imperfect,1st Person,Plural,partiraremur,partireremur,partireremur,partiriremur,We should be shareed
+Passive Subjunctive,Imperfect,2nd Person,Singular,partirareris,partirereris,partirereris,partirireris,You would be shareed
+Passive Subjunctive,Imperfect,2nd Person,Plural,partiraremini,partireremini,partireremini,partiriremini,You (pl.) would be shareed
+Passive Subjunctive,Imperfect,3rd Person,Singular,partiraretur,partireretur,partireretur,partiriretur,He/she/it would be shareed
+Passive Subjunctive,Imperfect,3rd Person,Plural,partirarentur,partirerentur,partirerentur,partirirentur,They would be shareed
+Passive Subjunctive,Perfect,1st Person,Singular,partiratus sim,partiretus sim,partirus sim,partirus sim,I may have been shareed
+Passive Subjunctive,Perfect,1st Person,Plural,partirati simus,partireti simus,partiri simus,partiri simus,We may have been shareed
+Passive Subjunctive,Perfect,2nd Person,Singular,partiratus sis,partiretus sis,partirus sis,partirus sis,You may have been shareed
+Passive Subjunctive,Perfect,2nd Person,Plural,partirati sitis,partireti sitis,partiri sitis,partiri sitis,You (pl.) may have been shareed
+Passive Subjunctive,Perfect,3rd Person,Singular,partiratus sit,partiretus sit,partirus sit,partirus sit,He/she/it may have been shareed
+Passive Subjunctive,Perfect,3rd Person,Plural,partirati sint,partireti sint,partiri sint,partiri sint,They may have been shareed
+Passive Subjunctive,Pluperfect,1st Person,Singular,partiratus essem,partiretus essem,partirus essem,partirus essem,I should have been shareed
+Passive Subjunctive,Pluperfect,1st Person,Plural,partirati essemus,partireti essemus,partiri essemus,partiri essemus,We should have been shareed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,partiratus esses,partiretus esses,partirus esses,partirus esses,You would have been shareed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,partirati essetis,partireti essetis,partiri essetis,partiri essetis,You (pl.) would have been shareed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,partiratus esset,partiretus esset,partirus esset,partirus esset,He/she/it would have been shareed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,partirati essent,partireti essent,partiri essent,partiri essent,They would have been shareed

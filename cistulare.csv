@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,cistulo,cistuleo,cistulo,cistulio,I shriek
+Active Indicative,Present,1st Person,Plural,cistulamus,cistulemus,cistulimus,cistulimus,We shriek
+Active Indicative,Present,2nd Person,Singular,cistulas,cistules,cistulis,cistulis,You shriek
+Active Indicative,Present,2nd Person,Plural,cistulatis,cistuletis,cistulitis,cistulitis,You (pl.) shriek
+Active Indicative,Present,3rd Person,Singular,cistulat,cistulet,cistulit,cistulit,He/she/it shriek
+Active Indicative,Present,3rd Person,Plural,cistulant,cistulent,cistuliunt,cistuliunt,They shriek
+Active Indicative,Imperfect,1st Person,Singular,cistulabam,cistulebam,cistulebam,cistuliebam,I was shrieking
+Active Indicative,Imperfect,1st Person,Plural,cistulabamus,cistulebamus,cistulebamus,cistuliebamus,We were shrieking
+Active Indicative,Imperfect,2nd Person,Singular,cistulabas,cistulebas,cistulebas,cistuliebas,You were shrieking
+Active Indicative,Imperfect,2nd Person,Plural,cistulabatis,cistulebatis,cistulebatis,cistuliebatis,You (pl.) were shrieking
+Active Indicative,Imperfect,3rd Person,Singular,cistulabat,cistulebat,cistulebat,cistuliebat,He/she/it was shrieking
+Active Indicative,Imperfect,3rd Person,Plural,cistulabant,cistulebant,cistulebant,cistuliebant,They were shrieking
+Active Indicative,Future,1st Person,Singular,cistulabo,cistulebo,cistulam,cistuliam,I will shriek
+Active Indicative,Future,1st Person,Plural,cistulabimus,cistulebimus,cistulemus,cistuliemus,We will shriek
+Active Indicative,Future,2nd Person,Singular,cistulabis,cistulebis,cistules,cistulies,You will shriek
+Active Indicative,Future,2nd Person,Plural,cistulabitis,cistulebitis,cistuletis,cistulietis,You (pl.) will shriek
+Active Indicative,Future,3rd Person,Singular,cistulabit,cistulebit,cistulet,cistuliet,He/she/it will shriek
+Active Indicative,Future,3rd Person,Plural,cistulabunt,cistulebunt,cistulent,cistulient,They will shriek
+Active Indicative,Perfect,1st Person,Singular,cistulavi,cistului,cistuli,cistuli,I have shrieked
+Active Indicative,Perfect,1st Person,Plural,cistulavimus,cistuluimus,cistulimus,cistulimus,We have shrieked
+Active Indicative,Perfect,2nd Person,Singular,cistulavisti,cistuluisti,cistulisti,cistulisti,You have shrieked
+Active Indicative,Perfect,2nd Person,Plural,cistulavistis,cistuluistis,cistulistis,cistulistis,You (pl.) have shrieked
+Active Indicative,Perfect,3rd Person,Singular,cistulavit,cistuluit,cistulit,cistulit,He/she/it has shrieked
+Active Indicative,Perfect,3rd Person,Plural,cistulaverunt,cistuluerunt,cistulerunt,cistulerunt,They have shrieked
+Active Indicative,Pluperfect,1st Person,Singular,cistulaveram,cistulueram,cistuleram,cistuleram,I had shrieked
+Active Indicative,Pluperfect,1st Person,Plural,cistulaveramus,cistulueramus,cistuleramus,cistuleramus,We had shrieked
+Active Indicative,Pluperfect,2nd Person,Singular,cistulaveras,cistulueras,cistuleras,cistuleras,You had shrieked
+Active Indicative,Pluperfect,2nd Person,Plural,cistulaveratis,cistulueratis,cistuleratis,cistuleratis,You (pl.) had shrieked
+Active Indicative,Pluperfect,3rd Person,Singular,cistulaverat,cistuluerat,cistulerat,cistulerat,He/she/it had shrieked
+Active Indicative,Pluperfect,3rd Person,Plural,cistulaverant,cistuluerant,cistulerant,cistulerant,They had shrieked
+Active Indicative,Future Perfect,1st Person,Singular,cistulavero,cistulueero,cistulero,cistuliero,I will have shrieked
+Active Indicative,Future Perfect,1st Person,Plural,cistulaverimus,cistuluerimus,cistulerimus,cistulierimus,We will have shrieked
+Active Indicative,Future Perfect,2nd Person,Singular,cistulaveris,cistulueris,cistuleris,cistulieris,You will have shrieked
+Active Indicative,Future Perfect,2nd Person,Plural,cistulaveritis,cistulueritis,cistuleritis,cistulieritis,You (pl.) will have shrieked
+Active Indicative,Future Perfect,3rd Person,Singular,cistulaverit,cistuluerit,cistulerit,cistulierit,He/she/it will have shrieked
+Active Indicative,Future Perfect,3rd Person,Plural,cistulaverint,cistuluerint,cistulerint,cistulierint,They will have shrieked
+Passive Indicative,Present,1st Person,Singular,cistulor,cistuleor,cistulor,cistulior,I am being shrieked
+Passive Indicative,Present,1st Person,Plural,cistulamur,cistulemur,cistulimur,cistulimur,We are being shrieked
+Passive Indicative,Present,2nd Person,Singular,cistularis,cistuleris,cistuliris,cistuliris,You are being shrieked
+Passive Indicative,Present,2nd Person,Plural,cistulamini,cistulemini,cistulimini,cistulimini,You (pl.) are being shrieked
+Passive Indicative,Present,3rd Person,Singular,cistulatur,cistuletur,cistulitur,cistulitur,He/she/it is being shrieked
+Passive Indicative,Present,3rd Person,Plural,cistulantur,cistulentur,cistuliuntur,cistuliuntur,They are being shrieked
+Passive Indicative,Imperfect,1st Person,Singular,cistulabar,cistulebar,cistulebar,cistuliebar,I was shrieked
+Passive Indicative,Imperfect,1st Person,Plural,cistulabamur,cistulebamur,cistulebamur,cistuliebamur,We were shrieked
+Passive Indicative,Imperfect,2nd Person,Singular,cistulabaris,cistulebaris,cistulebaris,cistuliebaris,You were shrieked
+Passive Indicative,Imperfect,2nd Person,Plural,cistulabamini,cistulebamini,cistulebamini,cistuliebamini,You (pl.) were shrieked
+Passive Indicative,Imperfect,3rd Person,Singular,cistulabatur,cistulebatur,cistulebatur,cistuliebatur,He/she/it was shrieked
+Passive Indicative,Imperfect,3rd Person,Plural,cistulabantur,cistulebantur,cistulebantur,cistuliebantur,They were shrieked
+Passive Indicative,Future,1st Person,Singular,cistulabor,cistulebor,cistular,cistuliar,I will be shrieked
+Passive Indicative,Future,1st Person,Plural,cistulabimur,cistulebimur,cistulemur,cistuliemur,We will be shrieked
+Passive Indicative,Future,2nd Person,Singular,cistulaberis,cistuleberis,cistuleris,cistulieris,You will be shrieked
+Passive Indicative,Future,2nd Person,Plural,cistulabimini,cistulebimini,cistulemini,cistuliemini,You (pl.) will be shrieked
+Passive Indicative,Future,3rd Person,Singular,cistulabitur,cistulebitur,cistuletur,cistulietur,He/she/it will be shrieked
+Passive Indicative,Future,3rd Person,Plural,cistulabuntur,cistulebuntur,cistulentur,cistulientur,They will be shrieked
+Passive Indicative,Perfect,1st Person,Singular,cistulatus sum,cistuletus sum,cistulus sum,cistulus sum,I have been shrieked
+Passive Indicative,Perfect,1st Person,Plural,cistulati sumus,cistuleti sumus,cistuli sumus,cistuli sumus,We have been shrieked
+Passive Indicative,Perfect,2nd Person,Singular,cistulatus es,cistuletus es,cistulus es,cistulus es,You have been shrieked
+Passive Indicative,Perfect,2nd Person,Plural,cistulati estis,cistuleti estis,cistuli estis,cistuli estis,You (pl.) have been shrieked
+Passive Indicative,Perfect,3rd Person,Singular,cistulatus est,cistuletus est,cistulus est,cistulus est,He/she/it has been shrieked
+Passive Indicative,Perfect,3rd Person,Plural,cistulati sunt,cistuleti sunt,cistuli sunt,cistuli sunt,They have been shrieked
+Passive Indicative,Pluperfect,1st Person,Singular,cistulatus eram,cistuletus eram,cistulus eram,cistulus eram,I had been shrieked
+Passive Indicative,Pluperfect,1st Person,Plural,cistulati eramus,cistuleti eramus,cistuli eramus,cistuli eramus,We had been shrieked
+Passive Indicative,Pluperfect,2nd Person,Singular,cistulatus eras,cistuletus eras,cistulus eras,cistulus eras,You had been shrieked
+Passive Indicative,Pluperfect,2nd Person,Plural,cistulati eratis,cistuleti eratis,cistuli eratis,cistuli eratis,You (pl.) had been shrieked
+Passive Indicative,Pluperfect,3rd Person,Singular,cistulatus erat,cistuletus erat,cistulus erat,cistulus erat,He/she/it had been shrieked
+Passive Indicative,Pluperfect,3rd Person,Plural,cistulati erant,cistuleti erant,cistuli erant,cistuli erant,They had been shrieked
+Passive Indicative,Future Perfect,1st Person,Singular,cistulatus ero,cistuletus ero,cistulus ero,cistulus ero,I will have been shrieked
+Passive Indicative,Future Perfect,1st Person,Plural,cistulati erimus,cistuleti erimus,cistuli erimus,cistuli erimus,We will have been shrieked
+Passive Indicative,Future Perfect,2nd Person,Singular,cistulatus eris,cistuletus eris,cistulus eris,cistulus eris,You will have been shrieked
+Passive Indicative,Future Perfect,2nd Person,Plural,cistulati eritis,cistuleti eritis,cistuli eritis,cistuli eritis,You (pl.) will have been shrieked
+Passive Indicative,Future Perfect,3rd Person,Singular,cistulatus erit,cistuletus erit,cistulus erit,cistulus erit,He/she/it will have been shrieked
+Passive Indicative,Future Perfect,3rd Person,Plural,cistulati erunt,cistuleti erunt,cistuli erunt,cistuli erunt,They will have been shrieked
+Active Subjunctive,Present,1st Person,Singular,cistulem,cistulem,cistulam,cistulam,I may shriek
+Active Subjunctive,Present,1st Person,Plural,cistulemus,cistulemus,cistulamus,cistulamus,We may shriek
+Active Subjunctive,Present,2nd Person,Singular,cistules,cistules,cistulas,cistulas,You may shriek
+Active Subjunctive,Present,2nd Person,Plural,cistuletis,cistuletis,cistulatis,cistulatis,You (pl.) may shriek
+Active Subjunctive,Present,3rd Person,Singular,cistulet,cistulet,cistulat,cistulat,He/she/it may shriek
+Active Subjunctive,Present,3rd Person,Plural,cistulent,cistulent,cistulant,cistulant,They may shriek
+Active Subjunctive,Imperfect,1st Person,Singular,cistularem,cistulerem,cistulerem,cistulirem,I should shriek
+Active Subjunctive,Imperfect,1st Person,Plural,cistularemus,cistuleremus,cistuleremus,cistuliremus,We should shriek
+Active Subjunctive,Imperfect,2nd Person,Singular,cistulares,cistuleres,cistuleres,cistulires,You should shriek
+Active Subjunctive,Imperfect,2nd Person,Plural,cistularetis,cistuleretis,cistuleretis,cistuliretis,You (pl.) should shriek
+Active Subjunctive,Imperfect,3rd Person,Singular,cistularet,cistuleret,cistuleret,cistuliret,He/she/it should shriek
+Active Subjunctive,Imperfect,3rd Person,Plural,cistularent,cistulerent,cistulerent,cistulirent,They should shriek
+Active Subjunctive,Perfect,1st Person,Singular,cistulerim,cistuluerim,cistulerim,cistulierim,I may have shrieked
+Active Subjunctive,Perfect,1st Person,Plural,cistulerimus,cistuluerimus,cistulerimus,cistulierimus,We may have shrieked
+Active Subjunctive,Perfect,2nd Person,Singular,cistuleris,cistulueris,cistuleris,cistulieris,You may have shrieked
+Active Subjunctive,Perfect,2nd Person,Plural,cistuleritis,cistulueritis,cistuleritis,cistulieritis,You (pl.) may have shrieked
+Active Subjunctive,Perfect,3rd Person,Singular,cistulerit,cistuluerit,cistulerit,cistulierit,He/she/it may have shrieked
+Active Subjunctive,Perfect,3rd Person,Plural,cistulerint,cistuluerint,cistulerint,cistulierint,They may have shrieked
+Active Subjunctive,Pluperfect,1st Person,Singular,cistulissem,cistuluissem,cistulissem,cistulissem,I should have shrieked
+Active Subjunctive,Pluperfect,1st Person,Plural,cistulissemus,cistuluissemus,cistulissemus,cistulissemus,We should have shrieked
+Active Subjunctive,Pluperfect,2nd Person,Singular,cistulisses,cistuluisses,cistulisses,cistulisses,You would have shrieked
+Active Subjunctive,Pluperfect,2nd Person,Plural,cistulissetis,cistuluissetis,cistulissetis,cistulissetis,You (pl.) would have shrieked
+Active Subjunctive,Pluperfect,3rd Person,Singular,cistulisset,cistuluisset,cistulisset,cistulisset,He/she/it would have shrieked
+Active Subjunctive,Pluperfect,3rd Person,Plural,cistulissent,cistuluissent,cistulissent,cistulissent,They would have shrieked
+Passive Subjunctive,Present,1st Person,Singular,cistuler,cistuler,cistular,cistular,I may be shrieked
+Passive Subjunctive,Present,1st Person,Plural,cistulemur,cistulemur,cistulamur,cistulamur,We may be shrieked
+Passive Subjunctive,Present,2nd Person,Singular,cistuleris,cistuleris,cistularis,cistularis,You may be shrieked
+Passive Subjunctive,Present,2nd Person,Plural,cistulemini,cistulemini,cistulamini,cistulamini,You (pl.) may be shrieked
+Passive Subjunctive,Present,3rd Person,Singular,cistuletur,cistuletur,cistulatur,cistulatur,He/she/it may be shrieked
+Passive Subjunctive,Present,3rd Person,Plural,cistulentur,cistulentur,cistulantur,cistulantur,They may be shrieked
+Passive Subjunctive,Imperfect,1st Person,Singular,cistularer,cistulerer,cistulerer,cistulirer,I should be shrieked
+Passive Subjunctive,Imperfect,1st Person,Plural,cistularemur,cistuleremur,cistuleremur,cistuliremur,We should be shrieked
+Passive Subjunctive,Imperfect,2nd Person,Singular,cistulareris,cistulereris,cistulereris,cistulireris,You would be shrieked
+Passive Subjunctive,Imperfect,2nd Person,Plural,cistularemini,cistuleremini,cistuleremini,cistuliremini,You (pl.) would be shrieked
+Passive Subjunctive,Imperfect,3rd Person,Singular,cistularetur,cistuleretur,cistuleretur,cistuliretur,He/she/it would be shrieked
+Passive Subjunctive,Imperfect,3rd Person,Plural,cistularentur,cistulerentur,cistulerentur,cistulirentur,They would be shrieked
+Passive Subjunctive,Perfect,1st Person,Singular,cistulatus sim,cistuletus sim,cistulus sim,cistulus sim,I may have been shrieked
+Passive Subjunctive,Perfect,1st Person,Plural,cistulati simus,cistuleti simus,cistuli simus,cistuli simus,We may have been shrieked
+Passive Subjunctive,Perfect,2nd Person,Singular,cistulatus sis,cistuletus sis,cistulus sis,cistulus sis,You may have been shrieked
+Passive Subjunctive,Perfect,2nd Person,Plural,cistulati sitis,cistuleti sitis,cistuli sitis,cistuli sitis,You (pl.) may have been shrieked
+Passive Subjunctive,Perfect,3rd Person,Singular,cistulatus sit,cistuletus sit,cistulus sit,cistulus sit,He/she/it may have been shrieked
+Passive Subjunctive,Perfect,3rd Person,Plural,cistulati sint,cistuleti sint,cistuli sint,cistuli sint,They may have been shrieked
+Passive Subjunctive,Pluperfect,1st Person,Singular,cistulatus essem,cistuletus essem,cistulus essem,cistulus essem,I should have been shrieked
+Passive Subjunctive,Pluperfect,1st Person,Plural,cistulati essemus,cistuleti essemus,cistuli essemus,cistuli essemus,We should have been shrieked
+Passive Subjunctive,Pluperfect,2nd Person,Singular,cistulatus esses,cistuletus esses,cistulus esses,cistulus esses,You would have been shrieked
+Passive Subjunctive,Pluperfect,2nd Person,Plural,cistulati essetis,cistuleti essetis,cistuli essetis,cistuli essetis,You (pl.) would have been shrieked
+Passive Subjunctive,Pluperfect,3rd Person,Singular,cistulatus esset,cistuletus esset,cistulus esset,cistulus esset,He/she/it would have been shrieked
+Passive Subjunctive,Pluperfect,3rd Person,Plural,cistulati essent,cistuleti essent,cistuli essent,cistuli essent,They would have been shrieked

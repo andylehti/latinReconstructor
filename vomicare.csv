@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,vomico,vomiceo,vomico,vomicio,I vomit
+Active Indicative,Present,1st Person,Plural,vomicamus,vomicemus,vomicimus,vomicimus,We vomit
+Active Indicative,Present,2nd Person,Singular,vomicas,vomices,vomicis,vomicis,You vomit
+Active Indicative,Present,2nd Person,Plural,vomicatis,vomicetis,vomicitis,vomicitis,You (pl.) vomit
+Active Indicative,Present,3rd Person,Singular,vomicat,vomicet,vomicit,vomicit,He/she/it vomit
+Active Indicative,Present,3rd Person,Plural,vomicant,vomicent,vomiciunt,vomiciunt,They vomit
+Active Indicative,Imperfect,1st Person,Singular,vomicabam,vomicebam,vomicebam,vomiciebam,I was vomiting
+Active Indicative,Imperfect,1st Person,Plural,vomicabamus,vomicebamus,vomicebamus,vomiciebamus,We were vomiting
+Active Indicative,Imperfect,2nd Person,Singular,vomicabas,vomicebas,vomicebas,vomiciebas,You were vomiting
+Active Indicative,Imperfect,2nd Person,Plural,vomicabatis,vomicebatis,vomicebatis,vomiciebatis,You (pl.) were vomiting
+Active Indicative,Imperfect,3rd Person,Singular,vomicabat,vomicebat,vomicebat,vomiciebat,He/she/it was vomiting
+Active Indicative,Imperfect,3rd Person,Plural,vomicabant,vomicebant,vomicebant,vomiciebant,They were vomiting
+Active Indicative,Future,1st Person,Singular,vomicabo,vomicebo,vomicam,vomiciam,I will vomit
+Active Indicative,Future,1st Person,Plural,vomicabimus,vomicebimus,vomicemus,vomiciemus,We will vomit
+Active Indicative,Future,2nd Person,Singular,vomicabis,vomicebis,vomices,vomicies,You will vomit
+Active Indicative,Future,2nd Person,Plural,vomicabitis,vomicebitis,vomicetis,vomicietis,You (pl.) will vomit
+Active Indicative,Future,3rd Person,Singular,vomicabit,vomicebit,vomicet,vomiciet,He/she/it will vomit
+Active Indicative,Future,3rd Person,Plural,vomicabunt,vomicebunt,vomicent,vomicient,They will vomit
+Active Indicative,Perfect,1st Person,Singular,vomicavi,vomicui,vomici,vomici,I have vomited
+Active Indicative,Perfect,1st Person,Plural,vomicavimus,vomicuimus,vomicimus,vomicimus,We have vomited
+Active Indicative,Perfect,2nd Person,Singular,vomicavisti,vomicuisti,vomicisti,vomicisti,You have vomited
+Active Indicative,Perfect,2nd Person,Plural,vomicavistis,vomicuistis,vomicistis,vomicistis,You (pl.) have vomited
+Active Indicative,Perfect,3rd Person,Singular,vomicavit,vomicuit,vomicit,vomicit,He/she/it has vomited
+Active Indicative,Perfect,3rd Person,Plural,vomicaverunt,vomicuerunt,vomicerunt,vomicerunt,They have vomited
+Active Indicative,Pluperfect,1st Person,Singular,vomicaveram,vomicueram,vomiceram,vomiceram,I had vomited
+Active Indicative,Pluperfect,1st Person,Plural,vomicaveramus,vomicueramus,vomiceramus,vomiceramus,We had vomited
+Active Indicative,Pluperfect,2nd Person,Singular,vomicaveras,vomicueras,vomiceras,vomiceras,You had vomited
+Active Indicative,Pluperfect,2nd Person,Plural,vomicaveratis,vomicueratis,vomiceratis,vomiceratis,You (pl.) had vomited
+Active Indicative,Pluperfect,3rd Person,Singular,vomicaverat,vomicuerat,vomicerat,vomicerat,He/she/it had vomited
+Active Indicative,Pluperfect,3rd Person,Plural,vomicaverant,vomicuerant,vomicerant,vomicerant,They had vomited
+Active Indicative,Future Perfect,1st Person,Singular,vomicavero,vomicueero,vomicero,vomiciero,I will have vomited
+Active Indicative,Future Perfect,1st Person,Plural,vomicaverimus,vomicuerimus,vomicerimus,vomicierimus,We will have vomited
+Active Indicative,Future Perfect,2nd Person,Singular,vomicaveris,vomicueris,vomiceris,vomicieris,You will have vomited
+Active Indicative,Future Perfect,2nd Person,Plural,vomicaveritis,vomicueritis,vomiceritis,vomicieritis,You (pl.) will have vomited
+Active Indicative,Future Perfect,3rd Person,Singular,vomicaverit,vomicuerit,vomicerit,vomicierit,He/she/it will have vomited
+Active Indicative,Future Perfect,3rd Person,Plural,vomicaverint,vomicuerint,vomicerint,vomicierint,They will have vomited
+Passive Indicative,Present,1st Person,Singular,vomicor,vomiceor,vomicor,vomicior,I am being vomited
+Passive Indicative,Present,1st Person,Plural,vomicamur,vomicemur,vomicimur,vomicimur,We are being vomited
+Passive Indicative,Present,2nd Person,Singular,vomicaris,vomiceris,vomiciris,vomiciris,You are being vomited
+Passive Indicative,Present,2nd Person,Plural,vomicamini,vomicemini,vomicimini,vomicimini,You (pl.) are being vomited
+Passive Indicative,Present,3rd Person,Singular,vomicatur,vomicetur,vomicitur,vomicitur,He/she/it is being vomited
+Passive Indicative,Present,3rd Person,Plural,vomicantur,vomicentur,vomiciuntur,vomiciuntur,They are being vomited
+Passive Indicative,Imperfect,1st Person,Singular,vomicabar,vomicebar,vomicebar,vomiciebar,I was vomited
+Passive Indicative,Imperfect,1st Person,Plural,vomicabamur,vomicebamur,vomicebamur,vomiciebamur,We were vomited
+Passive Indicative,Imperfect,2nd Person,Singular,vomicabaris,vomicebaris,vomicebaris,vomiciebaris,You were vomited
+Passive Indicative,Imperfect,2nd Person,Plural,vomicabamini,vomicebamini,vomicebamini,vomiciebamini,You (pl.) were vomited
+Passive Indicative,Imperfect,3rd Person,Singular,vomicabatur,vomicebatur,vomicebatur,vomiciebatur,He/she/it was vomited
+Passive Indicative,Imperfect,3rd Person,Plural,vomicabantur,vomicebantur,vomicebantur,vomiciebantur,They were vomited
+Passive Indicative,Future,1st Person,Singular,vomicabor,vomicebor,vomicar,vomiciar,I will be vomited
+Passive Indicative,Future,1st Person,Plural,vomicabimur,vomicebimur,vomicemur,vomiciemur,We will be vomited
+Passive Indicative,Future,2nd Person,Singular,vomicaberis,vomiceberis,vomiceris,vomicieris,You will be vomited
+Passive Indicative,Future,2nd Person,Plural,vomicabimini,vomicebimini,vomicemini,vomiciemini,You (pl.) will be vomited
+Passive Indicative,Future,3rd Person,Singular,vomicabitur,vomicebitur,vomicetur,vomicietur,He/she/it will be vomited
+Passive Indicative,Future,3rd Person,Plural,vomicabuntur,vomicebuntur,vomicentur,vomicientur,They will be vomited
+Passive Indicative,Perfect,1st Person,Singular,vomicatus sum,vomicetus sum,vomicus sum,vomicus sum,I have been vomited
+Passive Indicative,Perfect,1st Person,Plural,vomicati sumus,vomiceti sumus,vomici sumus,vomici sumus,We have been vomited
+Passive Indicative,Perfect,2nd Person,Singular,vomicatus es,vomicetus es,vomicus es,vomicus es,You have been vomited
+Passive Indicative,Perfect,2nd Person,Plural,vomicati estis,vomiceti estis,vomici estis,vomici estis,You (pl.) have been vomited
+Passive Indicative,Perfect,3rd Person,Singular,vomicatus est,vomicetus est,vomicus est,vomicus est,He/she/it has been vomited
+Passive Indicative,Perfect,3rd Person,Plural,vomicati sunt,vomiceti sunt,vomici sunt,vomici sunt,They have been vomited
+Passive Indicative,Pluperfect,1st Person,Singular,vomicatus eram,vomicetus eram,vomicus eram,vomicus eram,I had been vomited
+Passive Indicative,Pluperfect,1st Person,Plural,vomicati eramus,vomiceti eramus,vomici eramus,vomici eramus,We had been vomited
+Passive Indicative,Pluperfect,2nd Person,Singular,vomicatus eras,vomicetus eras,vomicus eras,vomicus eras,You had been vomited
+Passive Indicative,Pluperfect,2nd Person,Plural,vomicati eratis,vomiceti eratis,vomici eratis,vomici eratis,You (pl.) had been vomited
+Passive Indicative,Pluperfect,3rd Person,Singular,vomicatus erat,vomicetus erat,vomicus erat,vomicus erat,He/she/it had been vomited
+Passive Indicative,Pluperfect,3rd Person,Plural,vomicati erant,vomiceti erant,vomici erant,vomici erant,They had been vomited
+Passive Indicative,Future Perfect,1st Person,Singular,vomicatus ero,vomicetus ero,vomicus ero,vomicus ero,I will have been vomited
+Passive Indicative,Future Perfect,1st Person,Plural,vomicati erimus,vomiceti erimus,vomici erimus,vomici erimus,We will have been vomited
+Passive Indicative,Future Perfect,2nd Person,Singular,vomicatus eris,vomicetus eris,vomicus eris,vomicus eris,You will have been vomited
+Passive Indicative,Future Perfect,2nd Person,Plural,vomicati eritis,vomiceti eritis,vomici eritis,vomici eritis,You (pl.) will have been vomited
+Passive Indicative,Future Perfect,3rd Person,Singular,vomicatus erit,vomicetus erit,vomicus erit,vomicus erit,He/she/it will have been vomited
+Passive Indicative,Future Perfect,3rd Person,Plural,vomicati erunt,vomiceti erunt,vomici erunt,vomici erunt,They will have been vomited
+Active Subjunctive,Present,1st Person,Singular,vomicem,vomicem,vomicam,vomicam,I may vomit
+Active Subjunctive,Present,1st Person,Plural,vomicemus,vomicemus,vomicamus,vomicamus,We may vomit
+Active Subjunctive,Present,2nd Person,Singular,vomices,vomices,vomicas,vomicas,You may vomit
+Active Subjunctive,Present,2nd Person,Plural,vomicetis,vomicetis,vomicatis,vomicatis,You (pl.) may vomit
+Active Subjunctive,Present,3rd Person,Singular,vomicet,vomicet,vomicat,vomicat,He/she/it may vomit
+Active Subjunctive,Present,3rd Person,Plural,vomicent,vomicent,vomicant,vomicant,They may vomit
+Active Subjunctive,Imperfect,1st Person,Singular,vomicarem,vomicerem,vomicerem,vomicirem,I should vomit
+Active Subjunctive,Imperfect,1st Person,Plural,vomicaremus,vomiceremus,vomiceremus,vomiciremus,We should vomit
+Active Subjunctive,Imperfect,2nd Person,Singular,vomicares,vomiceres,vomiceres,vomicires,You should vomit
+Active Subjunctive,Imperfect,2nd Person,Plural,vomicaretis,vomiceretis,vomiceretis,vomiciretis,You (pl.) should vomit
+Active Subjunctive,Imperfect,3rd Person,Singular,vomicaret,vomiceret,vomiceret,vomiciret,He/she/it should vomit
+Active Subjunctive,Imperfect,3rd Person,Plural,vomicarent,vomicerent,vomicerent,vomicirent,They should vomit
+Active Subjunctive,Perfect,1st Person,Singular,vomicerim,vomicuerim,vomicerim,vomicierim,I may have vomited
+Active Subjunctive,Perfect,1st Person,Plural,vomicerimus,vomicuerimus,vomicerimus,vomicierimus,We may have vomited
+Active Subjunctive,Perfect,2nd Person,Singular,vomiceris,vomicueris,vomiceris,vomicieris,You may have vomited
+Active Subjunctive,Perfect,2nd Person,Plural,vomiceritis,vomicueritis,vomiceritis,vomicieritis,You (pl.) may have vomited
+Active Subjunctive,Perfect,3rd Person,Singular,vomicerit,vomicuerit,vomicerit,vomicierit,He/she/it may have vomited
+Active Subjunctive,Perfect,3rd Person,Plural,vomicerint,vomicuerint,vomicerint,vomicierint,They may have vomited
+Active Subjunctive,Pluperfect,1st Person,Singular,vomicissem,vomicuissem,vomicissem,vomicissem,I should have vomited
+Active Subjunctive,Pluperfect,1st Person,Plural,vomicissemus,vomicuissemus,vomicissemus,vomicissemus,We should have vomited
+Active Subjunctive,Pluperfect,2nd Person,Singular,vomicisses,vomicuisses,vomicisses,vomicisses,You would have vomited
+Active Subjunctive,Pluperfect,2nd Person,Plural,vomicissetis,vomicuissetis,vomicissetis,vomicissetis,You (pl.) would have vomited
+Active Subjunctive,Pluperfect,3rd Person,Singular,vomicisset,vomicuisset,vomicisset,vomicisset,He/she/it would have vomited
+Active Subjunctive,Pluperfect,3rd Person,Plural,vomicissent,vomicuissent,vomicissent,vomicissent,They would have vomited
+Passive Subjunctive,Present,1st Person,Singular,vomicer,vomicer,vomicar,vomicar,I may be vomited
+Passive Subjunctive,Present,1st Person,Plural,vomicemur,vomicemur,vomicamur,vomicamur,We may be vomited
+Passive Subjunctive,Present,2nd Person,Singular,vomiceris,vomiceris,vomicaris,vomicaris,You may be vomited
+Passive Subjunctive,Present,2nd Person,Plural,vomicemini,vomicemini,vomicamini,vomicamini,You (pl.) may be vomited
+Passive Subjunctive,Present,3rd Person,Singular,vomicetur,vomicetur,vomicatur,vomicatur,He/she/it may be vomited
+Passive Subjunctive,Present,3rd Person,Plural,vomicentur,vomicentur,vomicantur,vomicantur,They may be vomited
+Passive Subjunctive,Imperfect,1st Person,Singular,vomicarer,vomicerer,vomicerer,vomicirer,I should be vomited
+Passive Subjunctive,Imperfect,1st Person,Plural,vomicaremur,vomiceremur,vomiceremur,vomiciremur,We should be vomited
+Passive Subjunctive,Imperfect,2nd Person,Singular,vomicareris,vomicereris,vomicereris,vomicireris,You would be vomited
+Passive Subjunctive,Imperfect,2nd Person,Plural,vomicaremini,vomiceremini,vomiceremini,vomiciremini,You (pl.) would be vomited
+Passive Subjunctive,Imperfect,3rd Person,Singular,vomicaretur,vomiceretur,vomiceretur,vomiciretur,He/she/it would be vomited
+Passive Subjunctive,Imperfect,3rd Person,Plural,vomicarentur,vomicerentur,vomicerentur,vomicirentur,They would be vomited
+Passive Subjunctive,Perfect,1st Person,Singular,vomicatus sim,vomicetus sim,vomicus sim,vomicus sim,I may have been vomited
+Passive Subjunctive,Perfect,1st Person,Plural,vomicati simus,vomiceti simus,vomici simus,vomici simus,We may have been vomited
+Passive Subjunctive,Perfect,2nd Person,Singular,vomicatus sis,vomicetus sis,vomicus sis,vomicus sis,You may have been vomited
+Passive Subjunctive,Perfect,2nd Person,Plural,vomicati sitis,vomiceti sitis,vomici sitis,vomici sitis,You (pl.) may have been vomited
+Passive Subjunctive,Perfect,3rd Person,Singular,vomicatus sit,vomicetus sit,vomicus sit,vomicus sit,He/she/it may have been vomited
+Passive Subjunctive,Perfect,3rd Person,Plural,vomicati sint,vomiceti sint,vomici sint,vomici sint,They may have been vomited
+Passive Subjunctive,Pluperfect,1st Person,Singular,vomicatus essem,vomicetus essem,vomicus essem,vomicus essem,I should have been vomited
+Passive Subjunctive,Pluperfect,1st Person,Plural,vomicati essemus,vomiceti essemus,vomici essemus,vomici essemus,We should have been vomited
+Passive Subjunctive,Pluperfect,2nd Person,Singular,vomicatus esses,vomicetus esses,vomicus esses,vomicus esses,You would have been vomited
+Passive Subjunctive,Pluperfect,2nd Person,Plural,vomicati essetis,vomiceti essetis,vomici essetis,vomici essetis,You (pl.) would have been vomited
+Passive Subjunctive,Pluperfect,3rd Person,Singular,vomicatus esset,vomicetus esset,vomicus esset,vomicus esset,He/she/it would have been vomited
+Passive Subjunctive,Pluperfect,3rd Person,Plural,vomicati essent,vomiceti essent,vomici essent,vomici essent,They would have been vomited

@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,sedo,sedeo,sedo,sedio,I sit
+Active Indicative,Present,1st Person,Plural,sedamus,sedemus,sedimus,sedimus,We sit
+Active Indicative,Present,2nd Person,Singular,sedas,sedes,sedis,sedis,You sit
+Active Indicative,Present,2nd Person,Plural,sedatis,sedetis,seditis,seditis,You (pl.) sit
+Active Indicative,Present,3rd Person,Singular,sedat,sedet,sedit,sedit,He/she/it sit
+Active Indicative,Present,3rd Person,Plural,sedant,sedent,sediunt,sediunt,They sit
+Active Indicative,Imperfect,1st Person,Singular,sedabam,sedebam,sedebam,sediebam,I was siting
+Active Indicative,Imperfect,1st Person,Plural,sedabamus,sedebamus,sedebamus,sediebamus,We were siting
+Active Indicative,Imperfect,2nd Person,Singular,sedabas,sedebas,sedebas,sediebas,You were siting
+Active Indicative,Imperfect,2nd Person,Plural,sedabatis,sedebatis,sedebatis,sediebatis,You (pl.) were siting
+Active Indicative,Imperfect,3rd Person,Singular,sedabat,sedebat,sedebat,sediebat,He/she/it was siting
+Active Indicative,Imperfect,3rd Person,Plural,sedabant,sedebant,sedebant,sediebant,They were siting
+Active Indicative,Future,1st Person,Singular,sedabo,sedebo,sedam,sediam,I will sit
+Active Indicative,Future,1st Person,Plural,sedabimus,sedebimus,sedemus,sediemus,We will sit
+Active Indicative,Future,2nd Person,Singular,sedabis,sedebis,sedes,sedies,You will sit
+Active Indicative,Future,2nd Person,Plural,sedabitis,sedebitis,sedetis,sedietis,You (pl.) will sit
+Active Indicative,Future,3rd Person,Singular,sedabit,sedebit,sedet,sediet,He/she/it will sit
+Active Indicative,Future,3rd Person,Plural,sedabunt,sedebunt,sedent,sedient,They will sit
+Active Indicative,Perfect,1st Person,Singular,sedavi,sedui,sedi,sedi,I have sited
+Active Indicative,Perfect,1st Person,Plural,sedavimus,seduimus,sedimus,sedimus,We have sited
+Active Indicative,Perfect,2nd Person,Singular,sedavisti,seduisti,sedisti,sedisti,You have sited
+Active Indicative,Perfect,2nd Person,Plural,sedavistis,seduistis,sedistis,sedistis,You (pl.) have sited
+Active Indicative,Perfect,3rd Person,Singular,sedavit,seduit,sedit,sedit,He/she/it has sited
+Active Indicative,Perfect,3rd Person,Plural,sedaverunt,seduerunt,sederunt,sederunt,They have sited
+Active Indicative,Pluperfect,1st Person,Singular,sedaveram,sedueram,sederam,sederam,I had sited
+Active Indicative,Pluperfect,1st Person,Plural,sedaveramus,sedueramus,sederamus,sederamus,We had sited
+Active Indicative,Pluperfect,2nd Person,Singular,sedaveras,sedueras,sederas,sederas,You had sited
+Active Indicative,Pluperfect,2nd Person,Plural,sedaveratis,sedueratis,sederatis,sederatis,You (pl.) had sited
+Active Indicative,Pluperfect,3rd Person,Singular,sedaverat,seduerat,sederat,sederat,He/she/it had sited
+Active Indicative,Pluperfect,3rd Person,Plural,sedaverant,seduerant,sederant,sederant,They had sited
+Active Indicative,Future Perfect,1st Person,Singular,sedavero,sedueero,sedero,sediero,I will have sited
+Active Indicative,Future Perfect,1st Person,Plural,sedaverimus,seduerimus,sederimus,sedierimus,We will have sited
+Active Indicative,Future Perfect,2nd Person,Singular,sedaveris,sedueris,sederis,sedieris,You will have sited
+Active Indicative,Future Perfect,2nd Person,Plural,sedaveritis,sedueritis,sederitis,sedieritis,You (pl.) will have sited
+Active Indicative,Future Perfect,3rd Person,Singular,sedaverit,seduerit,sederit,sedierit,He/she/it will have sited
+Active Indicative,Future Perfect,3rd Person,Plural,sedaverint,seduerint,sederint,sedierint,They will have sited
+Passive Indicative,Present,1st Person,Singular,sedor,sedeor,sedor,sedior,I am being sited
+Passive Indicative,Present,1st Person,Plural,sedamur,sedemur,sedimur,sedimur,We are being sited
+Passive Indicative,Present,2nd Person,Singular,sedaris,sederis,sediris,sediris,You are being sited
+Passive Indicative,Present,2nd Person,Plural,sedamini,sedemini,sedimini,sedimini,You (pl.) are being sited
+Passive Indicative,Present,3rd Person,Singular,sedatur,sedetur,seditur,seditur,He/she/it is being sited
+Passive Indicative,Present,3rd Person,Plural,sedantur,sedentur,sediuntur,sediuntur,They are being sited
+Passive Indicative,Imperfect,1st Person,Singular,sedabar,sedebar,sedebar,sediebar,I was sited
+Passive Indicative,Imperfect,1st Person,Plural,sedabamur,sedebamur,sedebamur,sediebamur,We were sited
+Passive Indicative,Imperfect,2nd Person,Singular,sedabaris,sedebaris,sedebaris,sediebaris,You were sited
+Passive Indicative,Imperfect,2nd Person,Plural,sedabamini,sedebamini,sedebamini,sediebamini,You (pl.) were sited
+Passive Indicative,Imperfect,3rd Person,Singular,sedabatur,sedebatur,sedebatur,sediebatur,He/she/it was sited
+Passive Indicative,Imperfect,3rd Person,Plural,sedabantur,sedebantur,sedebantur,sediebantur,They were sited
+Passive Indicative,Future,1st Person,Singular,sedabor,sedebor,sedar,sediar,I will be sited
+Passive Indicative,Future,1st Person,Plural,sedabimur,sedebimur,sedemur,sediemur,We will be sited
+Passive Indicative,Future,2nd Person,Singular,sedaberis,sedeberis,sederis,sedieris,You will be sited
+Passive Indicative,Future,2nd Person,Plural,sedabimini,sedebimini,sedemini,sediemini,You (pl.) will be sited
+Passive Indicative,Future,3rd Person,Singular,sedabitur,sedebitur,sedetur,sedietur,He/she/it will be sited
+Passive Indicative,Future,3rd Person,Plural,sedabuntur,sedebuntur,sedentur,sedientur,They will be sited
+Passive Indicative,Perfect,1st Person,Singular,sedatus sum,sedetus sum,sedus sum,sedus sum,I have been sited
+Passive Indicative,Perfect,1st Person,Plural,sedati sumus,sedeti sumus,sedi sumus,sedi sumus,We have been sited
+Passive Indicative,Perfect,2nd Person,Singular,sedatus es,sedetus es,sedus es,sedus es,You have been sited
+Passive Indicative,Perfect,2nd Person,Plural,sedati estis,sedeti estis,sedi estis,sedi estis,You (pl.) have been sited
+Passive Indicative,Perfect,3rd Person,Singular,sedatus est,sedetus est,sedus est,sedus est,He/she/it has been sited
+Passive Indicative,Perfect,3rd Person,Plural,sedati sunt,sedeti sunt,sedi sunt,sedi sunt,They have been sited
+Passive Indicative,Pluperfect,1st Person,Singular,sedatus eram,sedetus eram,sedus eram,sedus eram,I had been sited
+Passive Indicative,Pluperfect,1st Person,Plural,sedati eramus,sedeti eramus,sedi eramus,sedi eramus,We had been sited
+Passive Indicative,Pluperfect,2nd Person,Singular,sedatus eras,sedetus eras,sedus eras,sedus eras,You had been sited
+Passive Indicative,Pluperfect,2nd Person,Plural,sedati eratis,sedeti eratis,sedi eratis,sedi eratis,You (pl.) had been sited
+Passive Indicative,Pluperfect,3rd Person,Singular,sedatus erat,sedetus erat,sedus erat,sedus erat,He/she/it had been sited
+Passive Indicative,Pluperfect,3rd Person,Plural,sedati erant,sedeti erant,sedi erant,sedi erant,They had been sited
+Passive Indicative,Future Perfect,1st Person,Singular,sedatus ero,sedetus ero,sedus ero,sedus ero,I will have been sited
+Passive Indicative,Future Perfect,1st Person,Plural,sedati erimus,sedeti erimus,sedi erimus,sedi erimus,We will have been sited
+Passive Indicative,Future Perfect,2nd Person,Singular,sedatus eris,sedetus eris,sedus eris,sedus eris,You will have been sited
+Passive Indicative,Future Perfect,2nd Person,Plural,sedati eritis,sedeti eritis,sedi eritis,sedi eritis,You (pl.) will have been sited
+Passive Indicative,Future Perfect,3rd Person,Singular,sedatus erit,sedetus erit,sedus erit,sedus erit,He/she/it will have been sited
+Passive Indicative,Future Perfect,3rd Person,Plural,sedati erunt,sedeti erunt,sedi erunt,sedi erunt,They will have been sited
+Active Subjunctive,Present,1st Person,Singular,sedem,sedem,sedam,sedam,I may sit
+Active Subjunctive,Present,1st Person,Plural,sedemus,sedemus,sedamus,sedamus,We may sit
+Active Subjunctive,Present,2nd Person,Singular,sedes,sedes,sedas,sedas,You may sit
+Active Subjunctive,Present,2nd Person,Plural,sedetis,sedetis,sedatis,sedatis,You (pl.) may sit
+Active Subjunctive,Present,3rd Person,Singular,sedet,sedet,sedat,sedat,He/she/it may sit
+Active Subjunctive,Present,3rd Person,Plural,sedent,sedent,sedant,sedant,They may sit
+Active Subjunctive,Imperfect,1st Person,Singular,sedarem,sederem,sederem,sedirem,I should sit
+Active Subjunctive,Imperfect,1st Person,Plural,sedaremus,sederemus,sederemus,sediremus,We should sit
+Active Subjunctive,Imperfect,2nd Person,Singular,sedares,sederes,sederes,sedires,You should sit
+Active Subjunctive,Imperfect,2nd Person,Plural,sedaretis,sederetis,sederetis,sediretis,You (pl.) should sit
+Active Subjunctive,Imperfect,3rd Person,Singular,sedaret,sederet,sederet,sediret,He/she/it should sit
+Active Subjunctive,Imperfect,3rd Person,Plural,sedarent,sederent,sederent,sedirent,They should sit
+Active Subjunctive,Perfect,1st Person,Singular,sederim,seduerim,sederim,sedierim,I may have sited
+Active Subjunctive,Perfect,1st Person,Plural,sederimus,seduerimus,sederimus,sedierimus,We may have sited
+Active Subjunctive,Perfect,2nd Person,Singular,sederis,sedueris,sederis,sedieris,You may have sited
+Active Subjunctive,Perfect,2nd Person,Plural,sederitis,sedueritis,sederitis,sedieritis,You (pl.) may have sited
+Active Subjunctive,Perfect,3rd Person,Singular,sederit,seduerit,sederit,sedierit,He/she/it may have sited
+Active Subjunctive,Perfect,3rd Person,Plural,sederint,seduerint,sederint,sedierint,They may have sited
+Active Subjunctive,Pluperfect,1st Person,Singular,sedissem,seduissem,sedissem,sedissem,I should have sited
+Active Subjunctive,Pluperfect,1st Person,Plural,sedissemus,seduissemus,sedissemus,sedissemus,We should have sited
+Active Subjunctive,Pluperfect,2nd Person,Singular,sedisses,seduisses,sedisses,sedisses,You would have sited
+Active Subjunctive,Pluperfect,2nd Person,Plural,sedissetis,seduissetis,sedissetis,sedissetis,You (pl.) would have sited
+Active Subjunctive,Pluperfect,3rd Person,Singular,sedisset,seduisset,sedisset,sedisset,He/she/it would have sited
+Active Subjunctive,Pluperfect,3rd Person,Plural,sedissent,seduissent,sedissent,sedissent,They would have sited
+Passive Subjunctive,Present,1st Person,Singular,seder,seder,sedar,sedar,I may be sited
+Passive Subjunctive,Present,1st Person,Plural,sedemur,sedemur,sedamur,sedamur,We may be sited
+Passive Subjunctive,Present,2nd Person,Singular,sederis,sederis,sedaris,sedaris,You may be sited
+Passive Subjunctive,Present,2nd Person,Plural,sedemini,sedemini,sedamini,sedamini,You (pl.) may be sited
+Passive Subjunctive,Present,3rd Person,Singular,sedetur,sedetur,sedatur,sedatur,He/she/it may be sited
+Passive Subjunctive,Present,3rd Person,Plural,sedentur,sedentur,sedantur,sedantur,They may be sited
+Passive Subjunctive,Imperfect,1st Person,Singular,sedarer,sederer,sederer,sedirer,I should be sited
+Passive Subjunctive,Imperfect,1st Person,Plural,sedaremur,sederemur,sederemur,sediremur,We should be sited
+Passive Subjunctive,Imperfect,2nd Person,Singular,sedareris,sedereris,sedereris,sedireris,You would be sited
+Passive Subjunctive,Imperfect,2nd Person,Plural,sedaremini,sederemini,sederemini,sediremini,You (pl.) would be sited
+Passive Subjunctive,Imperfect,3rd Person,Singular,sedaretur,sederetur,sederetur,sediretur,He/she/it would be sited
+Passive Subjunctive,Imperfect,3rd Person,Plural,sedarentur,sederentur,sederentur,sedirentur,They would be sited
+Passive Subjunctive,Perfect,1st Person,Singular,sedatus sim,sedetus sim,sedus sim,sedus sim,I may have been sited
+Passive Subjunctive,Perfect,1st Person,Plural,sedati simus,sedeti simus,sedi simus,sedi simus,We may have been sited
+Passive Subjunctive,Perfect,2nd Person,Singular,sedatus sis,sedetus sis,sedus sis,sedus sis,You may have been sited
+Passive Subjunctive,Perfect,2nd Person,Plural,sedati sitis,sedeti sitis,sedi sitis,sedi sitis,You (pl.) may have been sited
+Passive Subjunctive,Perfect,3rd Person,Singular,sedatus sit,sedetus sit,sedus sit,sedus sit,He/she/it may have been sited
+Passive Subjunctive,Perfect,3rd Person,Plural,sedati sint,sedeti sint,sedi sint,sedi sint,They may have been sited
+Passive Subjunctive,Pluperfect,1st Person,Singular,sedatus essem,sedetus essem,sedus essem,sedus essem,I should have been sited
+Passive Subjunctive,Pluperfect,1st Person,Plural,sedati essemus,sedeti essemus,sedi essemus,sedi essemus,We should have been sited
+Passive Subjunctive,Pluperfect,2nd Person,Singular,sedatus esses,sedetus esses,sedus esses,sedus esses,You would have been sited
+Passive Subjunctive,Pluperfect,2nd Person,Plural,sedati essetis,sedeti essetis,sedi essetis,sedi essetis,You (pl.) would have been sited
+Passive Subjunctive,Pluperfect,3rd Person,Singular,sedatus esset,sedetus esset,sedus esset,sedus esset,He/she/it would have been sited
+Passive Subjunctive,Pluperfect,3rd Person,Plural,sedati essent,sedeti essent,sedi essent,sedi essent,They would have been sited

@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,subrupo,subrupeo,subrupo,subrupio,I undermine
+Active Indicative,Present,1st Person,Plural,subrupamus,subrupemus,subrupimus,subrupimus,We undermine
+Active Indicative,Present,2nd Person,Singular,subrupas,subrupes,subrupis,subrupis,You undermine
+Active Indicative,Present,2nd Person,Plural,subrupatis,subrupetis,subrupitis,subrupitis,You (pl.) undermine
+Active Indicative,Present,3rd Person,Singular,subrupat,subrupet,subrupit,subrupit,He/she/it undermine
+Active Indicative,Present,3rd Person,Plural,subrupant,subrupent,subrupiunt,subrupiunt,They undermine
+Active Indicative,Imperfect,1st Person,Singular,subrupabam,subrupebam,subrupebam,subrupiebam,I was undermineing
+Active Indicative,Imperfect,1st Person,Plural,subrupabamus,subrupebamus,subrupebamus,subrupiebamus,We were undermineing
+Active Indicative,Imperfect,2nd Person,Singular,subrupabas,subrupebas,subrupebas,subrupiebas,You were undermineing
+Active Indicative,Imperfect,2nd Person,Plural,subrupabatis,subrupebatis,subrupebatis,subrupiebatis,You (pl.) were undermineing
+Active Indicative,Imperfect,3rd Person,Singular,subrupabat,subrupebat,subrupebat,subrupiebat,He/she/it was undermineing
+Active Indicative,Imperfect,3rd Person,Plural,subrupabant,subrupebant,subrupebant,subrupiebant,They were undermineing
+Active Indicative,Future,1st Person,Singular,subrupabo,subrupebo,subrupam,subrupiam,I will undermine
+Active Indicative,Future,1st Person,Plural,subrupabimus,subrupebimus,subrupemus,subrupiemus,We will undermine
+Active Indicative,Future,2nd Person,Singular,subrupabis,subrupebis,subrupes,subrupies,You will undermine
+Active Indicative,Future,2nd Person,Plural,subrupabitis,subrupebitis,subrupetis,subrupietis,You (pl.) will undermine
+Active Indicative,Future,3rd Person,Singular,subrupabit,subrupebit,subrupet,subrupiet,He/she/it will undermine
+Active Indicative,Future,3rd Person,Plural,subrupabunt,subrupebunt,subrupent,subrupient,They will undermine
+Active Indicative,Perfect,1st Person,Singular,subrupavi,subrupui,subrupi,subrupi,I have undermineed
+Active Indicative,Perfect,1st Person,Plural,subrupavimus,subrupuimus,subrupimus,subrupimus,We have undermineed
+Active Indicative,Perfect,2nd Person,Singular,subrupavisti,subrupuisti,subrupisti,subrupisti,You have undermineed
+Active Indicative,Perfect,2nd Person,Plural,subrupavistis,subrupuistis,subrupistis,subrupistis,You (pl.) have undermineed
+Active Indicative,Perfect,3rd Person,Singular,subrupavit,subrupuit,subrupit,subrupit,He/she/it has undermineed
+Active Indicative,Perfect,3rd Person,Plural,subrupaverunt,subrupuerunt,subruperunt,subruperunt,They have undermineed
+Active Indicative,Pluperfect,1st Person,Singular,subrupaveram,subrupueram,subruperam,subruperam,I had undermineed
+Active Indicative,Pluperfect,1st Person,Plural,subrupaveramus,subrupueramus,subruperamus,subruperamus,We had undermineed
+Active Indicative,Pluperfect,2nd Person,Singular,subrupaveras,subrupueras,subruperas,subruperas,You had undermineed
+Active Indicative,Pluperfect,2nd Person,Plural,subrupaveratis,subrupueratis,subruperatis,subruperatis,You (pl.) had undermineed
+Active Indicative,Pluperfect,3rd Person,Singular,subrupaverat,subrupuerat,subruperat,subruperat,He/she/it had undermineed
+Active Indicative,Pluperfect,3rd Person,Plural,subrupaverant,subrupuerant,subruperant,subruperant,They had undermineed
+Active Indicative,Future Perfect,1st Person,Singular,subrupavero,subrupueero,subrupero,subrupiero,I will have undermineed
+Active Indicative,Future Perfect,1st Person,Plural,subrupaverimus,subrupuerimus,subruperimus,subrupierimus,We will have undermineed
+Active Indicative,Future Perfect,2nd Person,Singular,subrupaveris,subrupueris,subruperis,subrupieris,You will have undermineed
+Active Indicative,Future Perfect,2nd Person,Plural,subrupaveritis,subrupueritis,subruperitis,subrupieritis,You (pl.) will have undermineed
+Active Indicative,Future Perfect,3rd Person,Singular,subrupaverit,subrupuerit,subruperit,subrupierit,He/she/it will have undermineed
+Active Indicative,Future Perfect,3rd Person,Plural,subrupaverint,subrupuerint,subruperint,subrupierint,They will have undermineed
+Passive Indicative,Present,1st Person,Singular,subrupor,subrupeor,subrupor,subrupior,I am being undermineed
+Passive Indicative,Present,1st Person,Plural,subrupamur,subrupemur,subrupimur,subrupimur,We are being undermineed
+Passive Indicative,Present,2nd Person,Singular,subruparis,subruperis,subrupiris,subrupiris,You are being undermineed
+Passive Indicative,Present,2nd Person,Plural,subrupamini,subrupemini,subrupimini,subrupimini,You (pl.) are being undermineed
+Passive Indicative,Present,3rd Person,Singular,subrupatur,subrupetur,subrupitur,subrupitur,He/she/it is being undermineed
+Passive Indicative,Present,3rd Person,Plural,subrupantur,subrupentur,subrupiuntur,subrupiuntur,They are being undermineed
+Passive Indicative,Imperfect,1st Person,Singular,subrupabar,subrupebar,subrupebar,subrupiebar,I was undermineed
+Passive Indicative,Imperfect,1st Person,Plural,subrupabamur,subrupebamur,subrupebamur,subrupiebamur,We were undermineed
+Passive Indicative,Imperfect,2nd Person,Singular,subrupabaris,subrupebaris,subrupebaris,subrupiebaris,You were undermineed
+Passive Indicative,Imperfect,2nd Person,Plural,subrupabamini,subrupebamini,subrupebamini,subrupiebamini,You (pl.) were undermineed
+Passive Indicative,Imperfect,3rd Person,Singular,subrupabatur,subrupebatur,subrupebatur,subrupiebatur,He/she/it was undermineed
+Passive Indicative,Imperfect,3rd Person,Plural,subrupabantur,subrupebantur,subrupebantur,subrupiebantur,They were undermineed
+Passive Indicative,Future,1st Person,Singular,subrupabor,subrupebor,subrupar,subrupiar,I will be undermineed
+Passive Indicative,Future,1st Person,Plural,subrupabimur,subrupebimur,subrupemur,subrupiemur,We will be undermineed
+Passive Indicative,Future,2nd Person,Singular,subrupaberis,subrupeberis,subruperis,subrupieris,You will be undermineed
+Passive Indicative,Future,2nd Person,Plural,subrupabimini,subrupebimini,subrupemini,subrupiemini,You (pl.) will be undermineed
+Passive Indicative,Future,3rd Person,Singular,subrupabitur,subrupebitur,subrupetur,subrupietur,He/she/it will be undermineed
+Passive Indicative,Future,3rd Person,Plural,subrupabuntur,subrupebuntur,subrupentur,subrupientur,They will be undermineed
+Passive Indicative,Perfect,1st Person,Singular,subrupatus sum,subrupetus sum,subrupus sum,subrupus sum,I have been undermineed
+Passive Indicative,Perfect,1st Person,Plural,subrupati sumus,subrupeti sumus,subrupi sumus,subrupi sumus,We have been undermineed
+Passive Indicative,Perfect,2nd Person,Singular,subrupatus es,subrupetus es,subrupus es,subrupus es,You have been undermineed
+Passive Indicative,Perfect,2nd Person,Plural,subrupati estis,subrupeti estis,subrupi estis,subrupi estis,You (pl.) have been undermineed
+Passive Indicative,Perfect,3rd Person,Singular,subrupatus est,subrupetus est,subrupus est,subrupus est,He/she/it has been undermineed
+Passive Indicative,Perfect,3rd Person,Plural,subrupati sunt,subrupeti sunt,subrupi sunt,subrupi sunt,They have been undermineed
+Passive Indicative,Pluperfect,1st Person,Singular,subrupatus eram,subrupetus eram,subrupus eram,subrupus eram,I had been undermineed
+Passive Indicative,Pluperfect,1st Person,Plural,subrupati eramus,subrupeti eramus,subrupi eramus,subrupi eramus,We had been undermineed
+Passive Indicative,Pluperfect,2nd Person,Singular,subrupatus eras,subrupetus eras,subrupus eras,subrupus eras,You had been undermineed
+Passive Indicative,Pluperfect,2nd Person,Plural,subrupati eratis,subrupeti eratis,subrupi eratis,subrupi eratis,You (pl.) had been undermineed
+Passive Indicative,Pluperfect,3rd Person,Singular,subrupatus erat,subrupetus erat,subrupus erat,subrupus erat,He/she/it had been undermineed
+Passive Indicative,Pluperfect,3rd Person,Plural,subrupati erant,subrupeti erant,subrupi erant,subrupi erant,They had been undermineed
+Passive Indicative,Future Perfect,1st Person,Singular,subrupatus ero,subrupetus ero,subrupus ero,subrupus ero,I will have been undermineed
+Passive Indicative,Future Perfect,1st Person,Plural,subrupati erimus,subrupeti erimus,subrupi erimus,subrupi erimus,We will have been undermineed
+Passive Indicative,Future Perfect,2nd Person,Singular,subrupatus eris,subrupetus eris,subrupus eris,subrupus eris,You will have been undermineed
+Passive Indicative,Future Perfect,2nd Person,Plural,subrupati eritis,subrupeti eritis,subrupi eritis,subrupi eritis,You (pl.) will have been undermineed
+Passive Indicative,Future Perfect,3rd Person,Singular,subrupatus erit,subrupetus erit,subrupus erit,subrupus erit,He/she/it will have been undermineed
+Passive Indicative,Future Perfect,3rd Person,Plural,subrupati erunt,subrupeti erunt,subrupi erunt,subrupi erunt,They will have been undermineed
+Active Subjunctive,Present,1st Person,Singular,subrupem,subrupem,subrupam,subrupam,I may undermine
+Active Subjunctive,Present,1st Person,Plural,subrupemus,subrupemus,subrupamus,subrupamus,We may undermine
+Active Subjunctive,Present,2nd Person,Singular,subrupes,subrupes,subrupas,subrupas,You may undermine
+Active Subjunctive,Present,2nd Person,Plural,subrupetis,subrupetis,subrupatis,subrupatis,You (pl.) may undermine
+Active Subjunctive,Present,3rd Person,Singular,subrupet,subrupet,subrupat,subrupat,He/she/it may undermine
+Active Subjunctive,Present,3rd Person,Plural,subrupent,subrupent,subrupant,subrupant,They may undermine
+Active Subjunctive,Imperfect,1st Person,Singular,subruparem,subruperem,subruperem,subrupirem,I should undermine
+Active Subjunctive,Imperfect,1st Person,Plural,subruparemus,subruperemus,subruperemus,subrupiremus,We should undermine
+Active Subjunctive,Imperfect,2nd Person,Singular,subrupares,subruperes,subruperes,subrupires,You should undermine
+Active Subjunctive,Imperfect,2nd Person,Plural,subruparetis,subruperetis,subruperetis,subrupiretis,You (pl.) should undermine
+Active Subjunctive,Imperfect,3rd Person,Singular,subruparet,subruperet,subruperet,subrupiret,He/she/it should undermine
+Active Subjunctive,Imperfect,3rd Person,Plural,subruparent,subruperent,subruperent,subrupirent,They should undermine
+Active Subjunctive,Perfect,1st Person,Singular,subruperim,subrupuerim,subruperim,subrupierim,I may have undermineed
+Active Subjunctive,Perfect,1st Person,Plural,subruperimus,subrupuerimus,subruperimus,subrupierimus,We may have undermineed
+Active Subjunctive,Perfect,2nd Person,Singular,subruperis,subrupueris,subruperis,subrupieris,You may have undermineed
+Active Subjunctive,Perfect,2nd Person,Plural,subruperitis,subrupueritis,subruperitis,subrupieritis,You (pl.) may have undermineed
+Active Subjunctive,Perfect,3rd Person,Singular,subruperit,subrupuerit,subruperit,subrupierit,He/she/it may have undermineed
+Active Subjunctive,Perfect,3rd Person,Plural,subruperint,subrupuerint,subruperint,subrupierint,They may have undermineed
+Active Subjunctive,Pluperfect,1st Person,Singular,subrupissem,subrupuissem,subrupissem,subrupissem,I should have undermineed
+Active Subjunctive,Pluperfect,1st Person,Plural,subrupissemus,subrupuissemus,subrupissemus,subrupissemus,We should have undermineed
+Active Subjunctive,Pluperfect,2nd Person,Singular,subrupisses,subrupuisses,subrupisses,subrupisses,You would have undermineed
+Active Subjunctive,Pluperfect,2nd Person,Plural,subrupissetis,subrupuissetis,subrupissetis,subrupissetis,You (pl.) would have undermineed
+Active Subjunctive,Pluperfect,3rd Person,Singular,subrupisset,subrupuisset,subrupisset,subrupisset,He/she/it would have undermineed
+Active Subjunctive,Pluperfect,3rd Person,Plural,subrupissent,subrupuissent,subrupissent,subrupissent,They would have undermineed
+Passive Subjunctive,Present,1st Person,Singular,subruper,subruper,subrupar,subrupar,I may be undermineed
+Passive Subjunctive,Present,1st Person,Plural,subrupemur,subrupemur,subrupamur,subrupamur,We may be undermineed
+Passive Subjunctive,Present,2nd Person,Singular,subruperis,subruperis,subruparis,subruparis,You may be undermineed
+Passive Subjunctive,Present,2nd Person,Plural,subrupemini,subrupemini,subrupamini,subrupamini,You (pl.) may be undermineed
+Passive Subjunctive,Present,3rd Person,Singular,subrupetur,subrupetur,subrupatur,subrupatur,He/she/it may be undermineed
+Passive Subjunctive,Present,3rd Person,Plural,subrupentur,subrupentur,subrupantur,subrupantur,They may be undermineed
+Passive Subjunctive,Imperfect,1st Person,Singular,subruparer,subruperer,subruperer,subrupirer,I should be undermineed
+Passive Subjunctive,Imperfect,1st Person,Plural,subruparemur,subruperemur,subruperemur,subrupiremur,We should be undermineed
+Passive Subjunctive,Imperfect,2nd Person,Singular,subrupareris,subrupereris,subrupereris,subrupireris,You would be undermineed
+Passive Subjunctive,Imperfect,2nd Person,Plural,subruparemini,subruperemini,subruperemini,subrupiremini,You (pl.) would be undermineed
+Passive Subjunctive,Imperfect,3rd Person,Singular,subruparetur,subruperetur,subruperetur,subrupiretur,He/she/it would be undermineed
+Passive Subjunctive,Imperfect,3rd Person,Plural,subruparentur,subruperentur,subruperentur,subrupirentur,They would be undermineed
+Passive Subjunctive,Perfect,1st Person,Singular,subrupatus sim,subrupetus sim,subrupus sim,subrupus sim,I may have been undermineed
+Passive Subjunctive,Perfect,1st Person,Plural,subrupati simus,subrupeti simus,subrupi simus,subrupi simus,We may have been undermineed
+Passive Subjunctive,Perfect,2nd Person,Singular,subrupatus sis,subrupetus sis,subrupus sis,subrupus sis,You may have been undermineed
+Passive Subjunctive,Perfect,2nd Person,Plural,subrupati sitis,subrupeti sitis,subrupi sitis,subrupi sitis,You (pl.) may have been undermineed
+Passive Subjunctive,Perfect,3rd Person,Singular,subrupatus sit,subrupetus sit,subrupus sit,subrupus sit,He/she/it may have been undermineed
+Passive Subjunctive,Perfect,3rd Person,Plural,subrupati sint,subrupeti sint,subrupi sint,subrupi sint,They may have been undermineed
+Passive Subjunctive,Pluperfect,1st Person,Singular,subrupatus essem,subrupetus essem,subrupus essem,subrupus essem,I should have been undermineed
+Passive Subjunctive,Pluperfect,1st Person,Plural,subrupati essemus,subrupeti essemus,subrupi essemus,subrupi essemus,We should have been undermineed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,subrupatus esses,subrupetus esses,subrupus esses,subrupus esses,You would have been undermineed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,subrupati essetis,subrupeti essetis,subrupi essetis,subrupi essetis,You (pl.) would have been undermineed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,subrupatus esset,subrupetus esset,subrupus esset,subrupus esset,He/she/it would have been undermineed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,subrupati essent,subrupeti essent,subrupi essent,subrupi essent,They would have been undermineed

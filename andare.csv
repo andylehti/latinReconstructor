@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,ando,andeo,ando,andio,I go
+Active Indicative,Present,1st Person,Plural,andamus,andemus,andimus,andimus,We go
+Active Indicative,Present,2nd Person,Singular,andas,andes,andis,andis,You go
+Active Indicative,Present,2nd Person,Plural,andatis,andetis,anditis,anditis,You (pl.) go
+Active Indicative,Present,3rd Person,Singular,andat,andet,andit,andit,He/she/it go
+Active Indicative,Present,3rd Person,Plural,andant,andent,andiunt,andiunt,They go
+Active Indicative,Imperfect,1st Person,Singular,andabam,andebam,andebam,andiebam,I was going
+Active Indicative,Imperfect,1st Person,Plural,andabamus,andebamus,andebamus,andiebamus,We were going
+Active Indicative,Imperfect,2nd Person,Singular,andabas,andebas,andebas,andiebas,You were going
+Active Indicative,Imperfect,2nd Person,Plural,andabatis,andebatis,andebatis,andiebatis,You (pl.) were going
+Active Indicative,Imperfect,3rd Person,Singular,andabat,andebat,andebat,andiebat,He/she/it was going
+Active Indicative,Imperfect,3rd Person,Plural,andabant,andebant,andebant,andiebant,They were going
+Active Indicative,Future,1st Person,Singular,andabo,andebo,andam,andiam,I will go
+Active Indicative,Future,1st Person,Plural,andabimus,andebimus,andemus,andiemus,We will go
+Active Indicative,Future,2nd Person,Singular,andabis,andebis,andes,andies,You will go
+Active Indicative,Future,2nd Person,Plural,andabitis,andebitis,andetis,andietis,You (pl.) will go
+Active Indicative,Future,3rd Person,Singular,andabit,andebit,andet,andiet,He/she/it will go
+Active Indicative,Future,3rd Person,Plural,andabunt,andebunt,andent,andient,They will go
+Active Indicative,Perfect,1st Person,Singular,andavi,andui,andi,andi,I have goed
+Active Indicative,Perfect,1st Person,Plural,andavimus,anduimus,andimus,andimus,We have goed
+Active Indicative,Perfect,2nd Person,Singular,andavisti,anduisti,andisti,andisti,You have goed
+Active Indicative,Perfect,2nd Person,Plural,andavistis,anduistis,andistis,andistis,You (pl.) have goed
+Active Indicative,Perfect,3rd Person,Singular,andavit,anduit,andit,andit,He/she/it has goed
+Active Indicative,Perfect,3rd Person,Plural,andaverunt,anduerunt,anderunt,anderunt,They have goed
+Active Indicative,Pluperfect,1st Person,Singular,andaveram,andueram,anderam,anderam,I had goed
+Active Indicative,Pluperfect,1st Person,Plural,andaveramus,andueramus,anderamus,anderamus,We had goed
+Active Indicative,Pluperfect,2nd Person,Singular,andaveras,andueras,anderas,anderas,You had goed
+Active Indicative,Pluperfect,2nd Person,Plural,andaveratis,andueratis,anderatis,anderatis,You (pl.) had goed
+Active Indicative,Pluperfect,3rd Person,Singular,andaverat,anduerat,anderat,anderat,He/she/it had goed
+Active Indicative,Pluperfect,3rd Person,Plural,andaverant,anduerant,anderant,anderant,They had goed
+Active Indicative,Future Perfect,1st Person,Singular,andavero,andueero,andero,andiero,I will have goed
+Active Indicative,Future Perfect,1st Person,Plural,andaverimus,anduerimus,anderimus,andierimus,We will have goed
+Active Indicative,Future Perfect,2nd Person,Singular,andaveris,andueris,anderis,andieris,You will have goed
+Active Indicative,Future Perfect,2nd Person,Plural,andaveritis,andueritis,anderitis,andieritis,You (pl.) will have goed
+Active Indicative,Future Perfect,3rd Person,Singular,andaverit,anduerit,anderit,andierit,He/she/it will have goed
+Active Indicative,Future Perfect,3rd Person,Plural,andaverint,anduerint,anderint,andierint,They will have goed
+Passive Indicative,Present,1st Person,Singular,andor,andeor,andor,andior,I am being goed
+Passive Indicative,Present,1st Person,Plural,andamur,andemur,andimur,andimur,We are being goed
+Passive Indicative,Present,2nd Person,Singular,andaris,anderis,andiris,andiris,You are being goed
+Passive Indicative,Present,2nd Person,Plural,andamini,andemini,andimini,andimini,You (pl.) are being goed
+Passive Indicative,Present,3rd Person,Singular,andatur,andetur,anditur,anditur,He/she/it is being goed
+Passive Indicative,Present,3rd Person,Plural,andantur,andentur,andiuntur,andiuntur,They are being goed
+Passive Indicative,Imperfect,1st Person,Singular,andabar,andebar,andebar,andiebar,I was goed
+Passive Indicative,Imperfect,1st Person,Plural,andabamur,andebamur,andebamur,andiebamur,We were goed
+Passive Indicative,Imperfect,2nd Person,Singular,andabaris,andebaris,andebaris,andiebaris,You were goed
+Passive Indicative,Imperfect,2nd Person,Plural,andabamini,andebamini,andebamini,andiebamini,You (pl.) were goed
+Passive Indicative,Imperfect,3rd Person,Singular,andabatur,andebatur,andebatur,andiebatur,He/she/it was goed
+Passive Indicative,Imperfect,3rd Person,Plural,andabantur,andebantur,andebantur,andiebantur,They were goed
+Passive Indicative,Future,1st Person,Singular,andabor,andebor,andar,andiar,I will be goed
+Passive Indicative,Future,1st Person,Plural,andabimur,andebimur,andemur,andiemur,We will be goed
+Passive Indicative,Future,2nd Person,Singular,andaberis,andeberis,anderis,andieris,You will be goed
+Passive Indicative,Future,2nd Person,Plural,andabimini,andebimini,andemini,andiemini,You (pl.) will be goed
+Passive Indicative,Future,3rd Person,Singular,andabitur,andebitur,andetur,andietur,He/she/it will be goed
+Passive Indicative,Future,3rd Person,Plural,andabuntur,andebuntur,andentur,andientur,They will be goed
+Passive Indicative,Perfect,1st Person,Singular,andatus sum,andetus sum,andus sum,andus sum,I have been goed
+Passive Indicative,Perfect,1st Person,Plural,andati sumus,andeti sumus,andi sumus,andi sumus,We have been goed
+Passive Indicative,Perfect,2nd Person,Singular,andatus es,andetus es,andus es,andus es,You have been goed
+Passive Indicative,Perfect,2nd Person,Plural,andati estis,andeti estis,andi estis,andi estis,You (pl.) have been goed
+Passive Indicative,Perfect,3rd Person,Singular,andatus est,andetus est,andus est,andus est,He/she/it has been goed
+Passive Indicative,Perfect,3rd Person,Plural,andati sunt,andeti sunt,andi sunt,andi sunt,They have been goed
+Passive Indicative,Pluperfect,1st Person,Singular,andatus eram,andetus eram,andus eram,andus eram,I had been goed
+Passive Indicative,Pluperfect,1st Person,Plural,andati eramus,andeti eramus,andi eramus,andi eramus,We had been goed
+Passive Indicative,Pluperfect,2nd Person,Singular,andatus eras,andetus eras,andus eras,andus eras,You had been goed
+Passive Indicative,Pluperfect,2nd Person,Plural,andati eratis,andeti eratis,andi eratis,andi eratis,You (pl.) had been goed
+Passive Indicative,Pluperfect,3rd Person,Singular,andatus erat,andetus erat,andus erat,andus erat,He/she/it had been goed
+Passive Indicative,Pluperfect,3rd Person,Plural,andati erant,andeti erant,andi erant,andi erant,They had been goed
+Passive Indicative,Future Perfect,1st Person,Singular,andatus ero,andetus ero,andus ero,andus ero,I will have been goed
+Passive Indicative,Future Perfect,1st Person,Plural,andati erimus,andeti erimus,andi erimus,andi erimus,We will have been goed
+Passive Indicative,Future Perfect,2nd Person,Singular,andatus eris,andetus eris,andus eris,andus eris,You will have been goed
+Passive Indicative,Future Perfect,2nd Person,Plural,andati eritis,andeti eritis,andi eritis,andi eritis,You (pl.) will have been goed
+Passive Indicative,Future Perfect,3rd Person,Singular,andatus erit,andetus erit,andus erit,andus erit,He/she/it will have been goed
+Passive Indicative,Future Perfect,3rd Person,Plural,andati erunt,andeti erunt,andi erunt,andi erunt,They will have been goed
+Active Subjunctive,Present,1st Person,Singular,andem,andem,andam,andam,I may go
+Active Subjunctive,Present,1st Person,Plural,andemus,andemus,andamus,andamus,We may go
+Active Subjunctive,Present,2nd Person,Singular,andes,andes,andas,andas,You may go
+Active Subjunctive,Present,2nd Person,Plural,andetis,andetis,andatis,andatis,You (pl.) may go
+Active Subjunctive,Present,3rd Person,Singular,andet,andet,andat,andat,He/she/it may go
+Active Subjunctive,Present,3rd Person,Plural,andent,andent,andant,andant,They may go
+Active Subjunctive,Imperfect,1st Person,Singular,andarem,anderem,anderem,andirem,I should go
+Active Subjunctive,Imperfect,1st Person,Plural,andaremus,anderemus,anderemus,andiremus,We should go
+Active Subjunctive,Imperfect,2nd Person,Singular,andares,anderes,anderes,andires,You should go
+Active Subjunctive,Imperfect,2nd Person,Plural,andaretis,anderetis,anderetis,andiretis,You (pl.) should go
+Active Subjunctive,Imperfect,3rd Person,Singular,andaret,anderet,anderet,andiret,He/she/it should go
+Active Subjunctive,Imperfect,3rd Person,Plural,andarent,anderent,anderent,andirent,They should go
+Active Subjunctive,Perfect,1st Person,Singular,anderim,anduerim,anderim,andierim,I may have goed
+Active Subjunctive,Perfect,1st Person,Plural,anderimus,anduerimus,anderimus,andierimus,We may have goed
+Active Subjunctive,Perfect,2nd Person,Singular,anderis,andueris,anderis,andieris,You may have goed
+Active Subjunctive,Perfect,2nd Person,Plural,anderitis,andueritis,anderitis,andieritis,You (pl.) may have goed
+Active Subjunctive,Perfect,3rd Person,Singular,anderit,anduerit,anderit,andierit,He/she/it may have goed
+Active Subjunctive,Perfect,3rd Person,Plural,anderint,anduerint,anderint,andierint,They may have goed
+Active Subjunctive,Pluperfect,1st Person,Singular,andissem,anduissem,andissem,andissem,I should have goed
+Active Subjunctive,Pluperfect,1st Person,Plural,andissemus,anduissemus,andissemus,andissemus,We should have goed
+Active Subjunctive,Pluperfect,2nd Person,Singular,andisses,anduisses,andisses,andisses,You would have goed
+Active Subjunctive,Pluperfect,2nd Person,Plural,andissetis,anduissetis,andissetis,andissetis,You (pl.) would have goed
+Active Subjunctive,Pluperfect,3rd Person,Singular,andisset,anduisset,andisset,andisset,He/she/it would have goed
+Active Subjunctive,Pluperfect,3rd Person,Plural,andissent,anduissent,andissent,andissent,They would have goed
+Passive Subjunctive,Present,1st Person,Singular,ander,ander,andar,andar,I may be goed
+Passive Subjunctive,Present,1st Person,Plural,andemur,andemur,andamur,andamur,We may be goed
+Passive Subjunctive,Present,2nd Person,Singular,anderis,anderis,andaris,andaris,You may be goed
+Passive Subjunctive,Present,2nd Person,Plural,andemini,andemini,andamini,andamini,You (pl.) may be goed
+Passive Subjunctive,Present,3rd Person,Singular,andetur,andetur,andatur,andatur,He/she/it may be goed
+Passive Subjunctive,Present,3rd Person,Plural,andentur,andentur,andantur,andantur,They may be goed
+Passive Subjunctive,Imperfect,1st Person,Singular,andarer,anderer,anderer,andirer,I should be goed
+Passive Subjunctive,Imperfect,1st Person,Plural,andaremur,anderemur,anderemur,andiremur,We should be goed
+Passive Subjunctive,Imperfect,2nd Person,Singular,andareris,andereris,andereris,andireris,You would be goed
+Passive Subjunctive,Imperfect,2nd Person,Plural,andaremini,anderemini,anderemini,andiremini,You (pl.) would be goed
+Passive Subjunctive,Imperfect,3rd Person,Singular,andaretur,anderetur,anderetur,andiretur,He/she/it would be goed
+Passive Subjunctive,Imperfect,3rd Person,Plural,andarentur,anderentur,anderentur,andirentur,They would be goed
+Passive Subjunctive,Perfect,1st Person,Singular,andatus sim,andetus sim,andus sim,andus sim,I may have been goed
+Passive Subjunctive,Perfect,1st Person,Plural,andati simus,andeti simus,andi simus,andi simus,We may have been goed
+Passive Subjunctive,Perfect,2nd Person,Singular,andatus sis,andetus sis,andus sis,andus sis,You may have been goed
+Passive Subjunctive,Perfect,2nd Person,Plural,andati sitis,andeti sitis,andi sitis,andi sitis,You (pl.) may have been goed
+Passive Subjunctive,Perfect,3rd Person,Singular,andatus sit,andetus sit,andus sit,andus sit,He/she/it may have been goed
+Passive Subjunctive,Perfect,3rd Person,Plural,andati sint,andeti sint,andi sint,andi sint,They may have been goed
+Passive Subjunctive,Pluperfect,1st Person,Singular,andatus essem,andetus essem,andus essem,andus essem,I should have been goed
+Passive Subjunctive,Pluperfect,1st Person,Plural,andati essemus,andeti essemus,andi essemus,andi essemus,We should have been goed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,andatus esses,andetus esses,andus esses,andus esses,You would have been goed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,andati essetis,andeti essetis,andi essetis,andi essetis,You (pl.) would have been goed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,andatus esset,andetus esset,andus esset,andus esset,He/she/it would have been goed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,andati essent,andeti essent,andi essent,andi essent,They would have been goed

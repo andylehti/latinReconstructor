@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,edo,edeo,edo,edio,I eat
+Active Indicative,Present,1st Person,Plural,edamus,edemus,edimus,edimus,We eat
+Active Indicative,Present,2nd Person,Singular,edas,edes,edis,edis,You eat
+Active Indicative,Present,2nd Person,Plural,edatis,edetis,editis,editis,You (pl.) eat
+Active Indicative,Present,3rd Person,Singular,edat,edet,edit,edit,He/she/it eat
+Active Indicative,Present,3rd Person,Plural,edant,edent,ediunt,ediunt,They eat
+Active Indicative,Imperfect,1st Person,Singular,edabam,edebam,edebam,ediebam,I was eating
+Active Indicative,Imperfect,1st Person,Plural,edabamus,edebamus,edebamus,ediebamus,We were eating
+Active Indicative,Imperfect,2nd Person,Singular,edabas,edebas,edebas,ediebas,You were eating
+Active Indicative,Imperfect,2nd Person,Plural,edabatis,edebatis,edebatis,ediebatis,You (pl.) were eating
+Active Indicative,Imperfect,3rd Person,Singular,edabat,edebat,edebat,ediebat,He/she/it was eating
+Active Indicative,Imperfect,3rd Person,Plural,edabant,edebant,edebant,ediebant,They were eating
+Active Indicative,Future,1st Person,Singular,edabo,edebo,edam,ediam,I will eat
+Active Indicative,Future,1st Person,Plural,edabimus,edebimus,edemus,ediemus,We will eat
+Active Indicative,Future,2nd Person,Singular,edabis,edebis,edes,edies,You will eat
+Active Indicative,Future,2nd Person,Plural,edabitis,edebitis,edetis,edietis,You (pl.) will eat
+Active Indicative,Future,3rd Person,Singular,edabit,edebit,edet,ediet,He/she/it will eat
+Active Indicative,Future,3rd Person,Plural,edabunt,edebunt,edent,edient,They will eat
+Active Indicative,Perfect,1st Person,Singular,edavi,edui,edi,edi,I have eated
+Active Indicative,Perfect,1st Person,Plural,edavimus,eduimus,edimus,edimus,We have eated
+Active Indicative,Perfect,2nd Person,Singular,edavisti,eduisti,edisti,edisti,You have eated
+Active Indicative,Perfect,2nd Person,Plural,edavistis,eduistis,edistis,edistis,You (pl.) have eated
+Active Indicative,Perfect,3rd Person,Singular,edavit,eduit,edit,edit,He/she/it has eated
+Active Indicative,Perfect,3rd Person,Plural,edaverunt,eduerunt,ederunt,ederunt,They have eated
+Active Indicative,Pluperfect,1st Person,Singular,edaveram,edueram,ederam,ederam,I had eated
+Active Indicative,Pluperfect,1st Person,Plural,edaveramus,edueramus,ederamus,ederamus,We had eated
+Active Indicative,Pluperfect,2nd Person,Singular,edaveras,edueras,ederas,ederas,You had eated
+Active Indicative,Pluperfect,2nd Person,Plural,edaveratis,edueratis,ederatis,ederatis,You (pl.) had eated
+Active Indicative,Pluperfect,3rd Person,Singular,edaverat,eduerat,ederat,ederat,He/she/it had eated
+Active Indicative,Pluperfect,3rd Person,Plural,edaverant,eduerant,ederant,ederant,They had eated
+Active Indicative,Future Perfect,1st Person,Singular,edavero,edueero,edero,ediero,I will have eated
+Active Indicative,Future Perfect,1st Person,Plural,edaverimus,eduerimus,ederimus,edierimus,We will have eated
+Active Indicative,Future Perfect,2nd Person,Singular,edaveris,edueris,ederis,edieris,You will have eated
+Active Indicative,Future Perfect,2nd Person,Plural,edaveritis,edueritis,ederitis,edieritis,You (pl.) will have eated
+Active Indicative,Future Perfect,3rd Person,Singular,edaverit,eduerit,ederit,edierit,He/she/it will have eated
+Active Indicative,Future Perfect,3rd Person,Plural,edaverint,eduerint,ederint,edierint,They will have eated
+Passive Indicative,Present,1st Person,Singular,edor,edeor,edor,edior,I am being eated
+Passive Indicative,Present,1st Person,Plural,edamur,edemur,edimur,edimur,We are being eated
+Passive Indicative,Present,2nd Person,Singular,edaris,ederis,ediris,ediris,You are being eated
+Passive Indicative,Present,2nd Person,Plural,edamini,edemini,edimini,edimini,You (pl.) are being eated
+Passive Indicative,Present,3rd Person,Singular,edatur,edetur,editur,editur,He/she/it is being eated
+Passive Indicative,Present,3rd Person,Plural,edantur,edentur,ediuntur,ediuntur,They are being eated
+Passive Indicative,Imperfect,1st Person,Singular,edabar,edebar,edebar,ediebar,I was eated
+Passive Indicative,Imperfect,1st Person,Plural,edabamur,edebamur,edebamur,ediebamur,We were eated
+Passive Indicative,Imperfect,2nd Person,Singular,edabaris,edebaris,edebaris,ediebaris,You were eated
+Passive Indicative,Imperfect,2nd Person,Plural,edabamini,edebamini,edebamini,ediebamini,You (pl.) were eated
+Passive Indicative,Imperfect,3rd Person,Singular,edabatur,edebatur,edebatur,ediebatur,He/she/it was eated
+Passive Indicative,Imperfect,3rd Person,Plural,edabantur,edebantur,edebantur,ediebantur,They were eated
+Passive Indicative,Future,1st Person,Singular,edabor,edebor,edar,ediar,I will be eated
+Passive Indicative,Future,1st Person,Plural,edabimur,edebimur,edemur,ediemur,We will be eated
+Passive Indicative,Future,2nd Person,Singular,edaberis,edeberis,ederis,edieris,You will be eated
+Passive Indicative,Future,2nd Person,Plural,edabimini,edebimini,edemini,ediemini,You (pl.) will be eated
+Passive Indicative,Future,3rd Person,Singular,edabitur,edebitur,edetur,edietur,He/she/it will be eated
+Passive Indicative,Future,3rd Person,Plural,edabuntur,edebuntur,edentur,edientur,They will be eated
+Passive Indicative,Perfect,1st Person,Singular,edatus sum,edetus sum,edus sum,edus sum,I have been eated
+Passive Indicative,Perfect,1st Person,Plural,edati sumus,edeti sumus,edi sumus,edi sumus,We have been eated
+Passive Indicative,Perfect,2nd Person,Singular,edatus es,edetus es,edus es,edus es,You have been eated
+Passive Indicative,Perfect,2nd Person,Plural,edati estis,edeti estis,edi estis,edi estis,You (pl.) have been eated
+Passive Indicative,Perfect,3rd Person,Singular,edatus est,edetus est,edus est,edus est,He/she/it has been eated
+Passive Indicative,Perfect,3rd Person,Plural,edati sunt,edeti sunt,edi sunt,edi sunt,They have been eated
+Passive Indicative,Pluperfect,1st Person,Singular,edatus eram,edetus eram,edus eram,edus eram,I had been eated
+Passive Indicative,Pluperfect,1st Person,Plural,edati eramus,edeti eramus,edi eramus,edi eramus,We had been eated
+Passive Indicative,Pluperfect,2nd Person,Singular,edatus eras,edetus eras,edus eras,edus eras,You had been eated
+Passive Indicative,Pluperfect,2nd Person,Plural,edati eratis,edeti eratis,edi eratis,edi eratis,You (pl.) had been eated
+Passive Indicative,Pluperfect,3rd Person,Singular,edatus erat,edetus erat,edus erat,edus erat,He/she/it had been eated
+Passive Indicative,Pluperfect,3rd Person,Plural,edati erant,edeti erant,edi erant,edi erant,They had been eated
+Passive Indicative,Future Perfect,1st Person,Singular,edatus ero,edetus ero,edus ero,edus ero,I will have been eated
+Passive Indicative,Future Perfect,1st Person,Plural,edati erimus,edeti erimus,edi erimus,edi erimus,We will have been eated
+Passive Indicative,Future Perfect,2nd Person,Singular,edatus eris,edetus eris,edus eris,edus eris,You will have been eated
+Passive Indicative,Future Perfect,2nd Person,Plural,edati eritis,edeti eritis,edi eritis,edi eritis,You (pl.) will have been eated
+Passive Indicative,Future Perfect,3rd Person,Singular,edatus erit,edetus erit,edus erit,edus erit,He/she/it will have been eated
+Passive Indicative,Future Perfect,3rd Person,Plural,edati erunt,edeti erunt,edi erunt,edi erunt,They will have been eated
+Active Subjunctive,Present,1st Person,Singular,edem,edem,edam,edam,I may eat
+Active Subjunctive,Present,1st Person,Plural,edemus,edemus,edamus,edamus,We may eat
+Active Subjunctive,Present,2nd Person,Singular,edes,edes,edas,edas,You may eat
+Active Subjunctive,Present,2nd Person,Plural,edetis,edetis,edatis,edatis,You (pl.) may eat
+Active Subjunctive,Present,3rd Person,Singular,edet,edet,edat,edat,He/she/it may eat
+Active Subjunctive,Present,3rd Person,Plural,edent,edent,edant,edant,They may eat
+Active Subjunctive,Imperfect,1st Person,Singular,edarem,ederem,ederem,edirem,I should eat
+Active Subjunctive,Imperfect,1st Person,Plural,edaremus,ederemus,ederemus,ediremus,We should eat
+Active Subjunctive,Imperfect,2nd Person,Singular,edares,ederes,ederes,edires,You should eat
+Active Subjunctive,Imperfect,2nd Person,Plural,edaretis,ederetis,ederetis,ediretis,You (pl.) should eat
+Active Subjunctive,Imperfect,3rd Person,Singular,edaret,ederet,ederet,ediret,He/she/it should eat
+Active Subjunctive,Imperfect,3rd Person,Plural,edarent,ederent,ederent,edirent,They should eat
+Active Subjunctive,Perfect,1st Person,Singular,ederim,eduerim,ederim,edierim,I may have eated
+Active Subjunctive,Perfect,1st Person,Plural,ederimus,eduerimus,ederimus,edierimus,We may have eated
+Active Subjunctive,Perfect,2nd Person,Singular,ederis,edueris,ederis,edieris,You may have eated
+Active Subjunctive,Perfect,2nd Person,Plural,ederitis,edueritis,ederitis,edieritis,You (pl.) may have eated
+Active Subjunctive,Perfect,3rd Person,Singular,ederit,eduerit,ederit,edierit,He/she/it may have eated
+Active Subjunctive,Perfect,3rd Person,Plural,ederint,eduerint,ederint,edierint,They may have eated
+Active Subjunctive,Pluperfect,1st Person,Singular,edissem,eduissem,edissem,edissem,I should have eated
+Active Subjunctive,Pluperfect,1st Person,Plural,edissemus,eduissemus,edissemus,edissemus,We should have eated
+Active Subjunctive,Pluperfect,2nd Person,Singular,edisses,eduisses,edisses,edisses,You would have eated
+Active Subjunctive,Pluperfect,2nd Person,Plural,edissetis,eduissetis,edissetis,edissetis,You (pl.) would have eated
+Active Subjunctive,Pluperfect,3rd Person,Singular,edisset,eduisset,edisset,edisset,He/she/it would have eated
+Active Subjunctive,Pluperfect,3rd Person,Plural,edissent,eduissent,edissent,edissent,They would have eated
+Passive Subjunctive,Present,1st Person,Singular,eder,eder,edar,edar,I may be eated
+Passive Subjunctive,Present,1st Person,Plural,edemur,edemur,edamur,edamur,We may be eated
+Passive Subjunctive,Present,2nd Person,Singular,ederis,ederis,edaris,edaris,You may be eated
+Passive Subjunctive,Present,2nd Person,Plural,edemini,edemini,edamini,edamini,You (pl.) may be eated
+Passive Subjunctive,Present,3rd Person,Singular,edetur,edetur,edatur,edatur,He/she/it may be eated
+Passive Subjunctive,Present,3rd Person,Plural,edentur,edentur,edantur,edantur,They may be eated
+Passive Subjunctive,Imperfect,1st Person,Singular,edarer,ederer,ederer,edirer,I should be eated
+Passive Subjunctive,Imperfect,1st Person,Plural,edaremur,ederemur,ederemur,ediremur,We should be eated
+Passive Subjunctive,Imperfect,2nd Person,Singular,edareris,edereris,edereris,edireris,You would be eated
+Passive Subjunctive,Imperfect,2nd Person,Plural,edaremini,ederemini,ederemini,ediremini,You (pl.) would be eated
+Passive Subjunctive,Imperfect,3rd Person,Singular,edaretur,ederetur,ederetur,ediretur,He/she/it would be eated
+Passive Subjunctive,Imperfect,3rd Person,Plural,edarentur,ederentur,ederentur,edirentur,They would be eated
+Passive Subjunctive,Perfect,1st Person,Singular,edatus sim,edetus sim,edus sim,edus sim,I may have been eated
+Passive Subjunctive,Perfect,1st Person,Plural,edati simus,edeti simus,edi simus,edi simus,We may have been eated
+Passive Subjunctive,Perfect,2nd Person,Singular,edatus sis,edetus sis,edus sis,edus sis,You may have been eated
+Passive Subjunctive,Perfect,2nd Person,Plural,edati sitis,edeti sitis,edi sitis,edi sitis,You (pl.) may have been eated
+Passive Subjunctive,Perfect,3rd Person,Singular,edatus sit,edetus sit,edus sit,edus sit,He/she/it may have been eated
+Passive Subjunctive,Perfect,3rd Person,Plural,edati sint,edeti sint,edi sint,edi sint,They may have been eated
+Passive Subjunctive,Pluperfect,1st Person,Singular,edatus essem,edetus essem,edus essem,edus essem,I should have been eated
+Passive Subjunctive,Pluperfect,1st Person,Plural,edati essemus,edeti essemus,edi essemus,edi essemus,We should have been eated
+Passive Subjunctive,Pluperfect,2nd Person,Singular,edatus esses,edetus esses,edus esses,edus esses,You would have been eated
+Passive Subjunctive,Pluperfect,2nd Person,Plural,edati essetis,edeti essetis,edi essetis,edi essetis,You (pl.) would have been eated
+Passive Subjunctive,Pluperfect,3rd Person,Singular,edatus esset,edetus esset,edus esset,edus esset,He/she/it would have been eated
+Passive Subjunctive,Pluperfect,3rd Person,Plural,edati essent,edeti essent,edi essent,edi essent,They would have been eated

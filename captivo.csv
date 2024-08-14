@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,captivo,captiveo,captivo,captivio,I capture
+Active Indicative,Present,1st Person,Plural,captivamus,captivemus,captivimus,captivimus,We capture
+Active Indicative,Present,2nd Person,Singular,captivas,captives,captivis,captivis,You capture
+Active Indicative,Present,2nd Person,Plural,captivatis,captivetis,captivitis,captivitis,You (pl.) capture
+Active Indicative,Present,3rd Person,Singular,captivat,captivet,captivit,captivit,He/she/it capture
+Active Indicative,Present,3rd Person,Plural,captivant,captivent,captiviunt,captiviunt,They capture
+Active Indicative,Imperfect,1st Person,Singular,captivabam,captivebam,captivebam,captiviebam,I was captureing
+Active Indicative,Imperfect,1st Person,Plural,captivabamus,captivebamus,captivebamus,captiviebamus,We were captureing
+Active Indicative,Imperfect,2nd Person,Singular,captivabas,captivebas,captivebas,captiviebas,You were captureing
+Active Indicative,Imperfect,2nd Person,Plural,captivabatis,captivebatis,captivebatis,captiviebatis,You (pl.) were captureing
+Active Indicative,Imperfect,3rd Person,Singular,captivabat,captivebat,captivebat,captiviebat,He/she/it was captureing
+Active Indicative,Imperfect,3rd Person,Plural,captivabant,captivebant,captivebant,captiviebant,They were captureing
+Active Indicative,Future,1st Person,Singular,captivabo,captivebo,captivam,captiviam,I will capture
+Active Indicative,Future,1st Person,Plural,captivabimus,captivebimus,captivemus,captiviemus,We will capture
+Active Indicative,Future,2nd Person,Singular,captivabis,captivebis,captives,captivies,You will capture
+Active Indicative,Future,2nd Person,Plural,captivabitis,captivebitis,captivetis,captivietis,You (pl.) will capture
+Active Indicative,Future,3rd Person,Singular,captivabit,captivebit,captivet,captiviet,He/she/it will capture
+Active Indicative,Future,3rd Person,Plural,captivabunt,captivebunt,captivent,captivient,They will capture
+Active Indicative,Perfect,1st Person,Singular,captivavi,captivui,captivi,captivi,I have captureed
+Active Indicative,Perfect,1st Person,Plural,captivavimus,captivuimus,captivimus,captivimus,We have captureed
+Active Indicative,Perfect,2nd Person,Singular,captivavisti,captivuisti,captivisti,captivisti,You have captureed
+Active Indicative,Perfect,2nd Person,Plural,captivavistis,captivuistis,captivistis,captivistis,You (pl.) have captureed
+Active Indicative,Perfect,3rd Person,Singular,captivavit,captivuit,captivit,captivit,He/she/it has captureed
+Active Indicative,Perfect,3rd Person,Plural,captivaverunt,captivuerunt,captiverunt,captiverunt,They have captureed
+Active Indicative,Pluperfect,1st Person,Singular,captivaveram,captivueram,captiveram,captiveram,I had captureed
+Active Indicative,Pluperfect,1st Person,Plural,captivaveramus,captivueramus,captiveramus,captiveramus,We had captureed
+Active Indicative,Pluperfect,2nd Person,Singular,captivaveras,captivueras,captiveras,captiveras,You had captureed
+Active Indicative,Pluperfect,2nd Person,Plural,captivaveratis,captivueratis,captiveratis,captiveratis,You (pl.) had captureed
+Active Indicative,Pluperfect,3rd Person,Singular,captivaverat,captivuerat,captiverat,captiverat,He/she/it had captureed
+Active Indicative,Pluperfect,3rd Person,Plural,captivaverant,captivuerant,captiverant,captiverant,They had captureed
+Active Indicative,Future Perfect,1st Person,Singular,captivavero,captivueero,captivero,captiviero,I will have captureed
+Active Indicative,Future Perfect,1st Person,Plural,captivaverimus,captivuerimus,captiverimus,captivierimus,We will have captureed
+Active Indicative,Future Perfect,2nd Person,Singular,captivaveris,captivueris,captiveris,captivieris,You will have captureed
+Active Indicative,Future Perfect,2nd Person,Plural,captivaveritis,captivueritis,captiveritis,captivieritis,You (pl.) will have captureed
+Active Indicative,Future Perfect,3rd Person,Singular,captivaverit,captivuerit,captiverit,captivierit,He/she/it will have captureed
+Active Indicative,Future Perfect,3rd Person,Plural,captivaverint,captivuerint,captiverint,captivierint,They will have captureed
+Passive Indicative,Present,1st Person,Singular,captivor,captiveor,captivor,captivior,I am being captureed
+Passive Indicative,Present,1st Person,Plural,captivamur,captivemur,captivimur,captivimur,We are being captureed
+Passive Indicative,Present,2nd Person,Singular,captivaris,captiveris,captiviris,captiviris,You are being captureed
+Passive Indicative,Present,2nd Person,Plural,captivamini,captivemini,captivimini,captivimini,You (pl.) are being captureed
+Passive Indicative,Present,3rd Person,Singular,captivatur,captivetur,captivitur,captivitur,He/she/it is being captureed
+Passive Indicative,Present,3rd Person,Plural,captivantur,captiventur,captiviuntur,captiviuntur,They are being captureed
+Passive Indicative,Imperfect,1st Person,Singular,captivabar,captivebar,captivebar,captiviebar,I was captureed
+Passive Indicative,Imperfect,1st Person,Plural,captivabamur,captivebamur,captivebamur,captiviebamur,We were captureed
+Passive Indicative,Imperfect,2nd Person,Singular,captivabaris,captivebaris,captivebaris,captiviebaris,You were captureed
+Passive Indicative,Imperfect,2nd Person,Plural,captivabamini,captivebamini,captivebamini,captiviebamini,You (pl.) were captureed
+Passive Indicative,Imperfect,3rd Person,Singular,captivabatur,captivebatur,captivebatur,captiviebatur,He/she/it was captureed
+Passive Indicative,Imperfect,3rd Person,Plural,captivabantur,captivebantur,captivebantur,captiviebantur,They were captureed
+Passive Indicative,Future,1st Person,Singular,captivabor,captivebor,captivar,captiviar,I will be captureed
+Passive Indicative,Future,1st Person,Plural,captivabimur,captivebimur,captivemur,captiviemur,We will be captureed
+Passive Indicative,Future,2nd Person,Singular,captivaberis,captiveberis,captiveris,captivieris,You will be captureed
+Passive Indicative,Future,2nd Person,Plural,captivabimini,captivebimini,captivemini,captiviemini,You (pl.) will be captureed
+Passive Indicative,Future,3rd Person,Singular,captivabitur,captivebitur,captivetur,captivietur,He/she/it will be captureed
+Passive Indicative,Future,3rd Person,Plural,captivabuntur,captivebuntur,captiventur,captivientur,They will be captureed
+Passive Indicative,Perfect,1st Person,Singular,captivatus sum,captivetus sum,captivus sum,captivus sum,I have been captureed
+Passive Indicative,Perfect,1st Person,Plural,captivati sumus,captiveti sumus,captivi sumus,captivi sumus,We have been captureed
+Passive Indicative,Perfect,2nd Person,Singular,captivatus es,captivetus es,captivus es,captivus es,You have been captureed
+Passive Indicative,Perfect,2nd Person,Plural,captivati estis,captiveti estis,captivi estis,captivi estis,You (pl.) have been captureed
+Passive Indicative,Perfect,3rd Person,Singular,captivatus est,captivetus est,captivus est,captivus est,He/she/it has been captureed
+Passive Indicative,Perfect,3rd Person,Plural,captivati sunt,captiveti sunt,captivi sunt,captivi sunt,They have been captureed
+Passive Indicative,Pluperfect,1st Person,Singular,captivatus eram,captivetus eram,captivus eram,captivus eram,I had been captureed
+Passive Indicative,Pluperfect,1st Person,Plural,captivati eramus,captiveti eramus,captivi eramus,captivi eramus,We had been captureed
+Passive Indicative,Pluperfect,2nd Person,Singular,captivatus eras,captivetus eras,captivus eras,captivus eras,You had been captureed
+Passive Indicative,Pluperfect,2nd Person,Plural,captivati eratis,captiveti eratis,captivi eratis,captivi eratis,You (pl.) had been captureed
+Passive Indicative,Pluperfect,3rd Person,Singular,captivatus erat,captivetus erat,captivus erat,captivus erat,He/she/it had been captureed
+Passive Indicative,Pluperfect,3rd Person,Plural,captivati erant,captiveti erant,captivi erant,captivi erant,They had been captureed
+Passive Indicative,Future Perfect,1st Person,Singular,captivatus ero,captivetus ero,captivus ero,captivus ero,I will have been captureed
+Passive Indicative,Future Perfect,1st Person,Plural,captivati erimus,captiveti erimus,captivi erimus,captivi erimus,We will have been captureed
+Passive Indicative,Future Perfect,2nd Person,Singular,captivatus eris,captivetus eris,captivus eris,captivus eris,You will have been captureed
+Passive Indicative,Future Perfect,2nd Person,Plural,captivati eritis,captiveti eritis,captivi eritis,captivi eritis,You (pl.) will have been captureed
+Passive Indicative,Future Perfect,3rd Person,Singular,captivatus erit,captivetus erit,captivus erit,captivus erit,He/she/it will have been captureed
+Passive Indicative,Future Perfect,3rd Person,Plural,captivati erunt,captiveti erunt,captivi erunt,captivi erunt,They will have been captureed
+Active Subjunctive,Present,1st Person,Singular,captivem,captivem,captivam,captivam,I may capture
+Active Subjunctive,Present,1st Person,Plural,captivemus,captivemus,captivamus,captivamus,We may capture
+Active Subjunctive,Present,2nd Person,Singular,captives,captives,captivas,captivas,You may capture
+Active Subjunctive,Present,2nd Person,Plural,captivetis,captivetis,captivatis,captivatis,You (pl.) may capture
+Active Subjunctive,Present,3rd Person,Singular,captivet,captivet,captivat,captivat,He/she/it may capture
+Active Subjunctive,Present,3rd Person,Plural,captivent,captivent,captivant,captivant,They may capture
+Active Subjunctive,Imperfect,1st Person,Singular,captivarem,captiverem,captiverem,captivirem,I should capture
+Active Subjunctive,Imperfect,1st Person,Plural,captivaremus,captiveremus,captiveremus,captiviremus,We should capture
+Active Subjunctive,Imperfect,2nd Person,Singular,captivares,captiveres,captiveres,captivires,You should capture
+Active Subjunctive,Imperfect,2nd Person,Plural,captivaretis,captiveretis,captiveretis,captiviretis,You (pl.) should capture
+Active Subjunctive,Imperfect,3rd Person,Singular,captivaret,captiveret,captiveret,captiviret,He/she/it should capture
+Active Subjunctive,Imperfect,3rd Person,Plural,captivarent,captiverent,captiverent,captivirent,They should capture
+Active Subjunctive,Perfect,1st Person,Singular,captiverim,captivuerim,captiverim,captivierim,I may have captureed
+Active Subjunctive,Perfect,1st Person,Plural,captiverimus,captivuerimus,captiverimus,captivierimus,We may have captureed
+Active Subjunctive,Perfect,2nd Person,Singular,captiveris,captivueris,captiveris,captivieris,You may have captureed
+Active Subjunctive,Perfect,2nd Person,Plural,captiveritis,captivueritis,captiveritis,captivieritis,You (pl.) may have captureed
+Active Subjunctive,Perfect,3rd Person,Singular,captiverit,captivuerit,captiverit,captivierit,He/she/it may have captureed
+Active Subjunctive,Perfect,3rd Person,Plural,captiverint,captivuerint,captiverint,captivierint,They may have captureed
+Active Subjunctive,Pluperfect,1st Person,Singular,captivissem,captivuissem,captivissem,captivissem,I should have captureed
+Active Subjunctive,Pluperfect,1st Person,Plural,captivissemus,captivuissemus,captivissemus,captivissemus,We should have captureed
+Active Subjunctive,Pluperfect,2nd Person,Singular,captivisses,captivuisses,captivisses,captivisses,You would have captureed
+Active Subjunctive,Pluperfect,2nd Person,Plural,captivissetis,captivuissetis,captivissetis,captivissetis,You (pl.) would have captureed
+Active Subjunctive,Pluperfect,3rd Person,Singular,captivisset,captivuisset,captivisset,captivisset,He/she/it would have captureed
+Active Subjunctive,Pluperfect,3rd Person,Plural,captivissent,captivuissent,captivissent,captivissent,They would have captureed
+Passive Subjunctive,Present,1st Person,Singular,captiver,captiver,captivar,captivar,I may be captureed
+Passive Subjunctive,Present,1st Person,Plural,captivemur,captivemur,captivamur,captivamur,We may be captureed
+Passive Subjunctive,Present,2nd Person,Singular,captiveris,captiveris,captivaris,captivaris,You may be captureed
+Passive Subjunctive,Present,2nd Person,Plural,captivemini,captivemini,captivamini,captivamini,You (pl.) may be captureed
+Passive Subjunctive,Present,3rd Person,Singular,captivetur,captivetur,captivatur,captivatur,He/she/it may be captureed
+Passive Subjunctive,Present,3rd Person,Plural,captiventur,captiventur,captivantur,captivantur,They may be captureed
+Passive Subjunctive,Imperfect,1st Person,Singular,captivarer,captiverer,captiverer,captivirer,I should be captureed
+Passive Subjunctive,Imperfect,1st Person,Plural,captivaremur,captiveremur,captiveremur,captiviremur,We should be captureed
+Passive Subjunctive,Imperfect,2nd Person,Singular,captivareris,captivereris,captivereris,captivireris,You would be captureed
+Passive Subjunctive,Imperfect,2nd Person,Plural,captivaremini,captiveremini,captiveremini,captiviremini,You (pl.) would be captureed
+Passive Subjunctive,Imperfect,3rd Person,Singular,captivaretur,captiveretur,captiveretur,captiviretur,He/she/it would be captureed
+Passive Subjunctive,Imperfect,3rd Person,Plural,captivarentur,captiverentur,captiverentur,captivirentur,They would be captureed
+Passive Subjunctive,Perfect,1st Person,Singular,captivatus sim,captivetus sim,captivus sim,captivus sim,I may have been captureed
+Passive Subjunctive,Perfect,1st Person,Plural,captivati simus,captiveti simus,captivi simus,captivi simus,We may have been captureed
+Passive Subjunctive,Perfect,2nd Person,Singular,captivatus sis,captivetus sis,captivus sis,captivus sis,You may have been captureed
+Passive Subjunctive,Perfect,2nd Person,Plural,captivati sitis,captiveti sitis,captivi sitis,captivi sitis,You (pl.) may have been captureed
+Passive Subjunctive,Perfect,3rd Person,Singular,captivatus sit,captivetus sit,captivus sit,captivus sit,He/she/it may have been captureed
+Passive Subjunctive,Perfect,3rd Person,Plural,captivati sint,captiveti sint,captivi sint,captivi sint,They may have been captureed
+Passive Subjunctive,Pluperfect,1st Person,Singular,captivatus essem,captivetus essem,captivus essem,captivus essem,I should have been captureed
+Passive Subjunctive,Pluperfect,1st Person,Plural,captivati essemus,captiveti essemus,captivi essemus,captivi essemus,We should have been captureed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,captivatus esses,captivetus esses,captivus esses,captivus esses,You would have been captureed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,captivati essetis,captiveti essetis,captivi essetis,captivi essetis,You (pl.) would have been captureed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,captivatus esset,captivetus esset,captivus esset,captivus esset,He/she/it would have been captureed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,captivati essent,captiveti essent,captivi essent,captivi essent,They would have been captureed

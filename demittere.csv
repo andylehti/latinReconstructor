@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,demitto,demitteo,demitto,demittio,I lower
+Active Indicative,Present,1st Person,Plural,demittamus,demittemus,demittimus,demittimus,We lower
+Active Indicative,Present,2nd Person,Singular,demittas,demittes,demittis,demittis,You lower
+Active Indicative,Present,2nd Person,Plural,demittatis,demittetis,demittitis,demittitis,You (pl.) lower
+Active Indicative,Present,3rd Person,Singular,demittat,demittet,demittit,demittit,He/she/it lower
+Active Indicative,Present,3rd Person,Plural,demittant,demittent,demittiunt,demittiunt,They lower
+Active Indicative,Imperfect,1st Person,Singular,demittabam,demittebam,demittebam,demittiebam,I was lowering
+Active Indicative,Imperfect,1st Person,Plural,demittabamus,demittebamus,demittebamus,demittiebamus,We were lowering
+Active Indicative,Imperfect,2nd Person,Singular,demittabas,demittebas,demittebas,demittiebas,You were lowering
+Active Indicative,Imperfect,2nd Person,Plural,demittabatis,demittebatis,demittebatis,demittiebatis,You (pl.) were lowering
+Active Indicative,Imperfect,3rd Person,Singular,demittabat,demittebat,demittebat,demittiebat,He/she/it was lowering
+Active Indicative,Imperfect,3rd Person,Plural,demittabant,demittebant,demittebant,demittiebant,They were lowering
+Active Indicative,Future,1st Person,Singular,demittabo,demittebo,demittam,demittiam,I will lower
+Active Indicative,Future,1st Person,Plural,demittabimus,demittebimus,demittemus,demittiemus,We will lower
+Active Indicative,Future,2nd Person,Singular,demittabis,demittebis,demittes,demitties,You will lower
+Active Indicative,Future,2nd Person,Plural,demittabitis,demittebitis,demittetis,demittietis,You (pl.) will lower
+Active Indicative,Future,3rd Person,Singular,demittabit,demittebit,demittet,demittiet,He/she/it will lower
+Active Indicative,Future,3rd Person,Plural,demittabunt,demittebunt,demittent,demittient,They will lower
+Active Indicative,Perfect,1st Person,Singular,demittavi,demittui,demitti,demitti,I have lowered
+Active Indicative,Perfect,1st Person,Plural,demittavimus,demittuimus,demittimus,demittimus,We have lowered
+Active Indicative,Perfect,2nd Person,Singular,demittavisti,demittuisti,demittisti,demittisti,You have lowered
+Active Indicative,Perfect,2nd Person,Plural,demittavistis,demittuistis,demittistis,demittistis,You (pl.) have lowered
+Active Indicative,Perfect,3rd Person,Singular,demittavit,demittuit,demittit,demittit,He/she/it has lowered
+Active Indicative,Perfect,3rd Person,Plural,demittaverunt,demittuerunt,demitterunt,demitterunt,They have lowered
+Active Indicative,Pluperfect,1st Person,Singular,demittaveram,demittueram,demitteram,demitteram,I had lowered
+Active Indicative,Pluperfect,1st Person,Plural,demittaveramus,demittueramus,demitteramus,demitteramus,We had lowered
+Active Indicative,Pluperfect,2nd Person,Singular,demittaveras,demittueras,demitteras,demitteras,You had lowered
+Active Indicative,Pluperfect,2nd Person,Plural,demittaveratis,demittueratis,demitteratis,demitteratis,You (pl.) had lowered
+Active Indicative,Pluperfect,3rd Person,Singular,demittaverat,demittuerat,demitterat,demitterat,He/she/it had lowered
+Active Indicative,Pluperfect,3rd Person,Plural,demittaverant,demittuerant,demitterant,demitterant,They had lowered
+Active Indicative,Future Perfect,1st Person,Singular,demittavero,demittueero,demittero,demittiero,I will have lowered
+Active Indicative,Future Perfect,1st Person,Plural,demittaverimus,demittuerimus,demitterimus,demittierimus,We will have lowered
+Active Indicative,Future Perfect,2nd Person,Singular,demittaveris,demittueris,demitteris,demittieris,You will have lowered
+Active Indicative,Future Perfect,2nd Person,Plural,demittaveritis,demittueritis,demitteritis,demittieritis,You (pl.) will have lowered
+Active Indicative,Future Perfect,3rd Person,Singular,demittaverit,demittuerit,demitterit,demittierit,He/she/it will have lowered
+Active Indicative,Future Perfect,3rd Person,Plural,demittaverint,demittuerint,demitterint,demittierint,They will have lowered
+Passive Indicative,Present,1st Person,Singular,demittor,demitteor,demittor,demittior,I am being lowered
+Passive Indicative,Present,1st Person,Plural,demittamur,demittemur,demittimur,demittimur,We are being lowered
+Passive Indicative,Present,2nd Person,Singular,demittaris,demitteris,demittiris,demittiris,You are being lowered
+Passive Indicative,Present,2nd Person,Plural,demittamini,demittemini,demittimini,demittimini,You (pl.) are being lowered
+Passive Indicative,Present,3rd Person,Singular,demittatur,demittetur,demittitur,demittitur,He/she/it is being lowered
+Passive Indicative,Present,3rd Person,Plural,demittantur,demittentur,demittiuntur,demittiuntur,They are being lowered
+Passive Indicative,Imperfect,1st Person,Singular,demittabar,demittebar,demittebar,demittiebar,I was lowered
+Passive Indicative,Imperfect,1st Person,Plural,demittabamur,demittebamur,demittebamur,demittiebamur,We were lowered
+Passive Indicative,Imperfect,2nd Person,Singular,demittabaris,demittebaris,demittebaris,demittiebaris,You were lowered
+Passive Indicative,Imperfect,2nd Person,Plural,demittabamini,demittebamini,demittebamini,demittiebamini,You (pl.) were lowered
+Passive Indicative,Imperfect,3rd Person,Singular,demittabatur,demittebatur,demittebatur,demittiebatur,He/she/it was lowered
+Passive Indicative,Imperfect,3rd Person,Plural,demittabantur,demittebantur,demittebantur,demittiebantur,They were lowered
+Passive Indicative,Future,1st Person,Singular,demittabor,demittebor,demittar,demittiar,I will be lowered
+Passive Indicative,Future,1st Person,Plural,demittabimur,demittebimur,demittemur,demittiemur,We will be lowered
+Passive Indicative,Future,2nd Person,Singular,demittaberis,demitteberis,demitteris,demittieris,You will be lowered
+Passive Indicative,Future,2nd Person,Plural,demittabimini,demittebimini,demittemini,demittiemini,You (pl.) will be lowered
+Passive Indicative,Future,3rd Person,Singular,demittabitur,demittebitur,demittetur,demittietur,He/she/it will be lowered
+Passive Indicative,Future,3rd Person,Plural,demittabuntur,demittebuntur,demittentur,demittientur,They will be lowered
+Passive Indicative,Perfect,1st Person,Singular,demittatus sum,demittetus sum,demittus sum,demittus sum,I have been lowered
+Passive Indicative,Perfect,1st Person,Plural,demittati sumus,demitteti sumus,demitti sumus,demitti sumus,We have been lowered
+Passive Indicative,Perfect,2nd Person,Singular,demittatus es,demittetus es,demittus es,demittus es,You have been lowered
+Passive Indicative,Perfect,2nd Person,Plural,demittati estis,demitteti estis,demitti estis,demitti estis,You (pl.) have been lowered
+Passive Indicative,Perfect,3rd Person,Singular,demittatus est,demittetus est,demittus est,demittus est,He/she/it has been lowered
+Passive Indicative,Perfect,3rd Person,Plural,demittati sunt,demitteti sunt,demitti sunt,demitti sunt,They have been lowered
+Passive Indicative,Pluperfect,1st Person,Singular,demittatus eram,demittetus eram,demittus eram,demittus eram,I had been lowered
+Passive Indicative,Pluperfect,1st Person,Plural,demittati eramus,demitteti eramus,demitti eramus,demitti eramus,We had been lowered
+Passive Indicative,Pluperfect,2nd Person,Singular,demittatus eras,demittetus eras,demittus eras,demittus eras,You had been lowered
+Passive Indicative,Pluperfect,2nd Person,Plural,demittati eratis,demitteti eratis,demitti eratis,demitti eratis,You (pl.) had been lowered
+Passive Indicative,Pluperfect,3rd Person,Singular,demittatus erat,demittetus erat,demittus erat,demittus erat,He/she/it had been lowered
+Passive Indicative,Pluperfect,3rd Person,Plural,demittati erant,demitteti erant,demitti erant,demitti erant,They had been lowered
+Passive Indicative,Future Perfect,1st Person,Singular,demittatus ero,demittetus ero,demittus ero,demittus ero,I will have been lowered
+Passive Indicative,Future Perfect,1st Person,Plural,demittati erimus,demitteti erimus,demitti erimus,demitti erimus,We will have been lowered
+Passive Indicative,Future Perfect,2nd Person,Singular,demittatus eris,demittetus eris,demittus eris,demittus eris,You will have been lowered
+Passive Indicative,Future Perfect,2nd Person,Plural,demittati eritis,demitteti eritis,demitti eritis,demitti eritis,You (pl.) will have been lowered
+Passive Indicative,Future Perfect,3rd Person,Singular,demittatus erit,demittetus erit,demittus erit,demittus erit,He/she/it will have been lowered
+Passive Indicative,Future Perfect,3rd Person,Plural,demittati erunt,demitteti erunt,demitti erunt,demitti erunt,They will have been lowered
+Active Subjunctive,Present,1st Person,Singular,demittem,demittem,demittam,demittam,I may lower
+Active Subjunctive,Present,1st Person,Plural,demittemus,demittemus,demittamus,demittamus,We may lower
+Active Subjunctive,Present,2nd Person,Singular,demittes,demittes,demittas,demittas,You may lower
+Active Subjunctive,Present,2nd Person,Plural,demittetis,demittetis,demittatis,demittatis,You (pl.) may lower
+Active Subjunctive,Present,3rd Person,Singular,demittet,demittet,demittat,demittat,He/she/it may lower
+Active Subjunctive,Present,3rd Person,Plural,demittent,demittent,demittant,demittant,They may lower
+Active Subjunctive,Imperfect,1st Person,Singular,demittarem,demitterem,demitterem,demittirem,I should lower
+Active Subjunctive,Imperfect,1st Person,Plural,demittaremus,demitteremus,demitteremus,demittiremus,We should lower
+Active Subjunctive,Imperfect,2nd Person,Singular,demittares,demitteres,demitteres,demittires,You should lower
+Active Subjunctive,Imperfect,2nd Person,Plural,demittaretis,demitteretis,demitteretis,demittiretis,You (pl.) should lower
+Active Subjunctive,Imperfect,3rd Person,Singular,demittaret,demitteret,demitteret,demittiret,He/she/it should lower
+Active Subjunctive,Imperfect,3rd Person,Plural,demittarent,demitterent,demitterent,demittirent,They should lower
+Active Subjunctive,Perfect,1st Person,Singular,demitterim,demittuerim,demitterim,demittierim,I may have lowered
+Active Subjunctive,Perfect,1st Person,Plural,demitterimus,demittuerimus,demitterimus,demittierimus,We may have lowered
+Active Subjunctive,Perfect,2nd Person,Singular,demitteris,demittueris,demitteris,demittieris,You may have lowered
+Active Subjunctive,Perfect,2nd Person,Plural,demitteritis,demittueritis,demitteritis,demittieritis,You (pl.) may have lowered
+Active Subjunctive,Perfect,3rd Person,Singular,demitterit,demittuerit,demitterit,demittierit,He/she/it may have lowered
+Active Subjunctive,Perfect,3rd Person,Plural,demitterint,demittuerint,demitterint,demittierint,They may have lowered
+Active Subjunctive,Pluperfect,1st Person,Singular,demittissem,demittuissem,demittissem,demittissem,I should have lowered
+Active Subjunctive,Pluperfect,1st Person,Plural,demittissemus,demittuissemus,demittissemus,demittissemus,We should have lowered
+Active Subjunctive,Pluperfect,2nd Person,Singular,demittisses,demittuisses,demittisses,demittisses,You would have lowered
+Active Subjunctive,Pluperfect,2nd Person,Plural,demittissetis,demittuissetis,demittissetis,demittissetis,You (pl.) would have lowered
+Active Subjunctive,Pluperfect,3rd Person,Singular,demittisset,demittuisset,demittisset,demittisset,He/she/it would have lowered
+Active Subjunctive,Pluperfect,3rd Person,Plural,demittissent,demittuissent,demittissent,demittissent,They would have lowered
+Passive Subjunctive,Present,1st Person,Singular,demitter,demitter,demittar,demittar,I may be lowered
+Passive Subjunctive,Present,1st Person,Plural,demittemur,demittemur,demittamur,demittamur,We may be lowered
+Passive Subjunctive,Present,2nd Person,Singular,demitteris,demitteris,demittaris,demittaris,You may be lowered
+Passive Subjunctive,Present,2nd Person,Plural,demittemini,demittemini,demittamini,demittamini,You (pl.) may be lowered
+Passive Subjunctive,Present,3rd Person,Singular,demittetur,demittetur,demittatur,demittatur,He/she/it may be lowered
+Passive Subjunctive,Present,3rd Person,Plural,demittentur,demittentur,demittantur,demittantur,They may be lowered
+Passive Subjunctive,Imperfect,1st Person,Singular,demittarer,demitterer,demitterer,demittirer,I should be lowered
+Passive Subjunctive,Imperfect,1st Person,Plural,demittaremur,demitteremur,demitteremur,demittiremur,We should be lowered
+Passive Subjunctive,Imperfect,2nd Person,Singular,demittareris,demittereris,demittereris,demittireris,You would be lowered
+Passive Subjunctive,Imperfect,2nd Person,Plural,demittaremini,demitteremini,demitteremini,demittiremini,You (pl.) would be lowered
+Passive Subjunctive,Imperfect,3rd Person,Singular,demittaretur,demitteretur,demitteretur,demittiretur,He/she/it would be lowered
+Passive Subjunctive,Imperfect,3rd Person,Plural,demittarentur,demitterentur,demitterentur,demittirentur,They would be lowered
+Passive Subjunctive,Perfect,1st Person,Singular,demittatus sim,demittetus sim,demittus sim,demittus sim,I may have been lowered
+Passive Subjunctive,Perfect,1st Person,Plural,demittati simus,demitteti simus,demitti simus,demitti simus,We may have been lowered
+Passive Subjunctive,Perfect,2nd Person,Singular,demittatus sis,demittetus sis,demittus sis,demittus sis,You may have been lowered
+Passive Subjunctive,Perfect,2nd Person,Plural,demittati sitis,demitteti sitis,demitti sitis,demitti sitis,You (pl.) may have been lowered
+Passive Subjunctive,Perfect,3rd Person,Singular,demittatus sit,demittetus sit,demittus sit,demittus sit,He/she/it may have been lowered
+Passive Subjunctive,Perfect,3rd Person,Plural,demittati sint,demitteti sint,demitti sint,demitti sint,They may have been lowered
+Passive Subjunctive,Pluperfect,1st Person,Singular,demittatus essem,demittetus essem,demittus essem,demittus essem,I should have been lowered
+Passive Subjunctive,Pluperfect,1st Person,Plural,demittati essemus,demitteti essemus,demitti essemus,demitti essemus,We should have been lowered
+Passive Subjunctive,Pluperfect,2nd Person,Singular,demittatus esses,demittetus esses,demittus esses,demittus esses,You would have been lowered
+Passive Subjunctive,Pluperfect,2nd Person,Plural,demittati essetis,demitteti essetis,demitti essetis,demitti essetis,You (pl.) would have been lowered
+Passive Subjunctive,Pluperfect,3rd Person,Singular,demittatus esset,demittetus esset,demittus esset,demittus esset,He/she/it would have been lowered
+Passive Subjunctive,Pluperfect,3rd Person,Plural,demittati essent,demitteti essent,demitti essent,demitti essent,They would have been lowered

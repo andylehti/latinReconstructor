@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,accipo,accipeo,accipo,accipio,I accept
+Active Indicative,Present,1st Person,Plural,accipamus,accipemus,accipimus,accipimus,We accept
+Active Indicative,Present,2nd Person,Singular,accipas,accipes,accipis,accipis,You accept
+Active Indicative,Present,2nd Person,Plural,accipatis,accipetis,accipitis,accipitis,You (pl.) accept
+Active Indicative,Present,3rd Person,Singular,accipat,accipet,accipit,accipit,He/she/it accept
+Active Indicative,Present,3rd Person,Plural,accipant,accipent,accipiunt,accipiunt,They accept
+Active Indicative,Imperfect,1st Person,Singular,accipabam,accipebam,accipebam,accipiebam,I was accepting
+Active Indicative,Imperfect,1st Person,Plural,accipabamus,accipebamus,accipebamus,accipiebamus,We were accepting
+Active Indicative,Imperfect,2nd Person,Singular,accipabas,accipebas,accipebas,accipiebas,You were accepting
+Active Indicative,Imperfect,2nd Person,Plural,accipabatis,accipebatis,accipebatis,accipiebatis,You (pl.) were accepting
+Active Indicative,Imperfect,3rd Person,Singular,accipabat,accipebat,accipebat,accipiebat,He/she/it was accepting
+Active Indicative,Imperfect,3rd Person,Plural,accipabant,accipebant,accipebant,accipiebant,They were accepting
+Active Indicative,Future,1st Person,Singular,accipabo,accipebo,accipam,accipiam,I will accept
+Active Indicative,Future,1st Person,Plural,accipabimus,accipebimus,accipemus,accipiemus,We will accept
+Active Indicative,Future,2nd Person,Singular,accipabis,accipebis,accipes,accipies,You will accept
+Active Indicative,Future,2nd Person,Plural,accipabitis,accipebitis,accipetis,accipietis,You (pl.) will accept
+Active Indicative,Future,3rd Person,Singular,accipabit,accipebit,accipet,accipiet,He/she/it will accept
+Active Indicative,Future,3rd Person,Plural,accipabunt,accipebunt,accipent,accipient,They will accept
+Active Indicative,Perfect,1st Person,Singular,accipavi,accipui,accipi,accipi,I have accepted
+Active Indicative,Perfect,1st Person,Plural,accipavimus,accipuimus,accipimus,accipimus,We have accepted
+Active Indicative,Perfect,2nd Person,Singular,accipavisti,accipuisti,accipisti,accipisti,You have accepted
+Active Indicative,Perfect,2nd Person,Plural,accipavistis,accipuistis,accipistis,accipistis,You (pl.) have accepted
+Active Indicative,Perfect,3rd Person,Singular,accipavit,accipuit,accipit,accipit,He/she/it has accepted
+Active Indicative,Perfect,3rd Person,Plural,accipaverunt,accipuerunt,acciperunt,acciperunt,They have accepted
+Active Indicative,Pluperfect,1st Person,Singular,accipaveram,accipueram,acciperam,acciperam,I had accepted
+Active Indicative,Pluperfect,1st Person,Plural,accipaveramus,accipueramus,acciperamus,acciperamus,We had accepted
+Active Indicative,Pluperfect,2nd Person,Singular,accipaveras,accipueras,acciperas,acciperas,You had accepted
+Active Indicative,Pluperfect,2nd Person,Plural,accipaveratis,accipueratis,acciperatis,acciperatis,You (pl.) had accepted
+Active Indicative,Pluperfect,3rd Person,Singular,accipaverat,accipuerat,acciperat,acciperat,He/she/it had accepted
+Active Indicative,Pluperfect,3rd Person,Plural,accipaverant,accipuerant,acciperant,acciperant,They had accepted
+Active Indicative,Future Perfect,1st Person,Singular,accipavero,accipueero,accipero,accipiero,I will have accepted
+Active Indicative,Future Perfect,1st Person,Plural,accipaverimus,accipuerimus,acciperimus,accipierimus,We will have accepted
+Active Indicative,Future Perfect,2nd Person,Singular,accipaveris,accipueris,acciperis,accipieris,You will have accepted
+Active Indicative,Future Perfect,2nd Person,Plural,accipaveritis,accipueritis,acciperitis,accipieritis,You (pl.) will have accepted
+Active Indicative,Future Perfect,3rd Person,Singular,accipaverit,accipuerit,acciperit,accipierit,He/she/it will have accepted
+Active Indicative,Future Perfect,3rd Person,Plural,accipaverint,accipuerint,acciperint,accipierint,They will have accepted
+Passive Indicative,Present,1st Person,Singular,accipor,accipeor,accipor,accipior,I am being accepted
+Passive Indicative,Present,1st Person,Plural,accipamur,accipemur,accipimur,accipimur,We are being accepted
+Passive Indicative,Present,2nd Person,Singular,acciparis,acciperis,accipiris,accipiris,You are being accepted
+Passive Indicative,Present,2nd Person,Plural,accipamini,accipemini,accipimini,accipimini,You (pl.) are being accepted
+Passive Indicative,Present,3rd Person,Singular,accipatur,accipetur,accipitur,accipitur,He/she/it is being accepted
+Passive Indicative,Present,3rd Person,Plural,accipantur,accipentur,accipiuntur,accipiuntur,They are being accepted
+Passive Indicative,Imperfect,1st Person,Singular,accipabar,accipebar,accipebar,accipiebar,I was accepted
+Passive Indicative,Imperfect,1st Person,Plural,accipabamur,accipebamur,accipebamur,accipiebamur,We were accepted
+Passive Indicative,Imperfect,2nd Person,Singular,accipabaris,accipebaris,accipebaris,accipiebaris,You were accepted
+Passive Indicative,Imperfect,2nd Person,Plural,accipabamini,accipebamini,accipebamini,accipiebamini,You (pl.) were accepted
+Passive Indicative,Imperfect,3rd Person,Singular,accipabatur,accipebatur,accipebatur,accipiebatur,He/she/it was accepted
+Passive Indicative,Imperfect,3rd Person,Plural,accipabantur,accipebantur,accipebantur,accipiebantur,They were accepted
+Passive Indicative,Future,1st Person,Singular,accipabor,accipebor,accipar,accipiar,I will be accepted
+Passive Indicative,Future,1st Person,Plural,accipabimur,accipebimur,accipemur,accipiemur,We will be accepted
+Passive Indicative,Future,2nd Person,Singular,accipaberis,accipeberis,acciperis,accipieris,You will be accepted
+Passive Indicative,Future,2nd Person,Plural,accipabimini,accipebimini,accipemini,accipiemini,You (pl.) will be accepted
+Passive Indicative,Future,3rd Person,Singular,accipabitur,accipebitur,accipetur,accipietur,He/she/it will be accepted
+Passive Indicative,Future,3rd Person,Plural,accipabuntur,accipebuntur,accipentur,accipientur,They will be accepted
+Passive Indicative,Perfect,1st Person,Singular,accipatus sum,accipetus sum,accipus sum,accipus sum,I have been accepted
+Passive Indicative,Perfect,1st Person,Plural,accipati sumus,accipeti sumus,accipi sumus,accipi sumus,We have been accepted
+Passive Indicative,Perfect,2nd Person,Singular,accipatus es,accipetus es,accipus es,accipus es,You have been accepted
+Passive Indicative,Perfect,2nd Person,Plural,accipati estis,accipeti estis,accipi estis,accipi estis,You (pl.) have been accepted
+Passive Indicative,Perfect,3rd Person,Singular,accipatus est,accipetus est,accipus est,accipus est,He/she/it has been accepted
+Passive Indicative,Perfect,3rd Person,Plural,accipati sunt,accipeti sunt,accipi sunt,accipi sunt,They have been accepted
+Passive Indicative,Pluperfect,1st Person,Singular,accipatus eram,accipetus eram,accipus eram,accipus eram,I had been accepted
+Passive Indicative,Pluperfect,1st Person,Plural,accipati eramus,accipeti eramus,accipi eramus,accipi eramus,We had been accepted
+Passive Indicative,Pluperfect,2nd Person,Singular,accipatus eras,accipetus eras,accipus eras,accipus eras,You had been accepted
+Passive Indicative,Pluperfect,2nd Person,Plural,accipati eratis,accipeti eratis,accipi eratis,accipi eratis,You (pl.) had been accepted
+Passive Indicative,Pluperfect,3rd Person,Singular,accipatus erat,accipetus erat,accipus erat,accipus erat,He/she/it had been accepted
+Passive Indicative,Pluperfect,3rd Person,Plural,accipati erant,accipeti erant,accipi erant,accipi erant,They had been accepted
+Passive Indicative,Future Perfect,1st Person,Singular,accipatus ero,accipetus ero,accipus ero,accipus ero,I will have been accepted
+Passive Indicative,Future Perfect,1st Person,Plural,accipati erimus,accipeti erimus,accipi erimus,accipi erimus,We will have been accepted
+Passive Indicative,Future Perfect,2nd Person,Singular,accipatus eris,accipetus eris,accipus eris,accipus eris,You will have been accepted
+Passive Indicative,Future Perfect,2nd Person,Plural,accipati eritis,accipeti eritis,accipi eritis,accipi eritis,You (pl.) will have been accepted
+Passive Indicative,Future Perfect,3rd Person,Singular,accipatus erit,accipetus erit,accipus erit,accipus erit,He/she/it will have been accepted
+Passive Indicative,Future Perfect,3rd Person,Plural,accipati erunt,accipeti erunt,accipi erunt,accipi erunt,They will have been accepted
+Active Subjunctive,Present,1st Person,Singular,accipem,accipem,accipam,accipam,I may accept
+Active Subjunctive,Present,1st Person,Plural,accipemus,accipemus,accipamus,accipamus,We may accept
+Active Subjunctive,Present,2nd Person,Singular,accipes,accipes,accipas,accipas,You may accept
+Active Subjunctive,Present,2nd Person,Plural,accipetis,accipetis,accipatis,accipatis,You (pl.) may accept
+Active Subjunctive,Present,3rd Person,Singular,accipet,accipet,accipat,accipat,He/she/it may accept
+Active Subjunctive,Present,3rd Person,Plural,accipent,accipent,accipant,accipant,They may accept
+Active Subjunctive,Imperfect,1st Person,Singular,acciparem,acciperem,acciperem,accipirem,I should accept
+Active Subjunctive,Imperfect,1st Person,Plural,acciparemus,acciperemus,acciperemus,accipiremus,We should accept
+Active Subjunctive,Imperfect,2nd Person,Singular,accipares,acciperes,acciperes,accipires,You should accept
+Active Subjunctive,Imperfect,2nd Person,Plural,acciparetis,acciperetis,acciperetis,accipiretis,You (pl.) should accept
+Active Subjunctive,Imperfect,3rd Person,Singular,acciparet,acciperet,acciperet,accipiret,He/she/it should accept
+Active Subjunctive,Imperfect,3rd Person,Plural,acciparent,acciperent,acciperent,accipirent,They should accept
+Active Subjunctive,Perfect,1st Person,Singular,acciperim,accipuerim,acciperim,accipierim,I may have accepted
+Active Subjunctive,Perfect,1st Person,Plural,acciperimus,accipuerimus,acciperimus,accipierimus,We may have accepted
+Active Subjunctive,Perfect,2nd Person,Singular,acciperis,accipueris,acciperis,accipieris,You may have accepted
+Active Subjunctive,Perfect,2nd Person,Plural,acciperitis,accipueritis,acciperitis,accipieritis,You (pl.) may have accepted
+Active Subjunctive,Perfect,3rd Person,Singular,acciperit,accipuerit,acciperit,accipierit,He/she/it may have accepted
+Active Subjunctive,Perfect,3rd Person,Plural,acciperint,accipuerint,acciperint,accipierint,They may have accepted
+Active Subjunctive,Pluperfect,1st Person,Singular,accipissem,accipuissem,accipissem,accipissem,I should have accepted
+Active Subjunctive,Pluperfect,1st Person,Plural,accipissemus,accipuissemus,accipissemus,accipissemus,We should have accepted
+Active Subjunctive,Pluperfect,2nd Person,Singular,accipisses,accipuisses,accipisses,accipisses,You would have accepted
+Active Subjunctive,Pluperfect,2nd Person,Plural,accipissetis,accipuissetis,accipissetis,accipissetis,You (pl.) would have accepted
+Active Subjunctive,Pluperfect,3rd Person,Singular,accipisset,accipuisset,accipisset,accipisset,He/she/it would have accepted
+Active Subjunctive,Pluperfect,3rd Person,Plural,accipissent,accipuissent,accipissent,accipissent,They would have accepted
+Passive Subjunctive,Present,1st Person,Singular,acciper,acciper,accipar,accipar,I may be accepted
+Passive Subjunctive,Present,1st Person,Plural,accipemur,accipemur,accipamur,accipamur,We may be accepted
+Passive Subjunctive,Present,2nd Person,Singular,acciperis,acciperis,acciparis,acciparis,You may be accepted
+Passive Subjunctive,Present,2nd Person,Plural,accipemini,accipemini,accipamini,accipamini,You (pl.) may be accepted
+Passive Subjunctive,Present,3rd Person,Singular,accipetur,accipetur,accipatur,accipatur,He/she/it may be accepted
+Passive Subjunctive,Present,3rd Person,Plural,accipentur,accipentur,accipantur,accipantur,They may be accepted
+Passive Subjunctive,Imperfect,1st Person,Singular,acciparer,acciperer,acciperer,accipirer,I should be accepted
+Passive Subjunctive,Imperfect,1st Person,Plural,acciparemur,acciperemur,acciperemur,accipiremur,We should be accepted
+Passive Subjunctive,Imperfect,2nd Person,Singular,accipareris,accipereris,accipereris,accipireris,You would be accepted
+Passive Subjunctive,Imperfect,2nd Person,Plural,acciparemini,acciperemini,acciperemini,accipiremini,You (pl.) would be accepted
+Passive Subjunctive,Imperfect,3rd Person,Singular,acciparetur,acciperetur,acciperetur,accipiretur,He/she/it would be accepted
+Passive Subjunctive,Imperfect,3rd Person,Plural,acciparentur,acciperentur,acciperentur,accipirentur,They would be accepted
+Passive Subjunctive,Perfect,1st Person,Singular,accipatus sim,accipetus sim,accipus sim,accipus sim,I may have been accepted
+Passive Subjunctive,Perfect,1st Person,Plural,accipati simus,accipeti simus,accipi simus,accipi simus,We may have been accepted
+Passive Subjunctive,Perfect,2nd Person,Singular,accipatus sis,accipetus sis,accipus sis,accipus sis,You may have been accepted
+Passive Subjunctive,Perfect,2nd Person,Plural,accipati sitis,accipeti sitis,accipi sitis,accipi sitis,You (pl.) may have been accepted
+Passive Subjunctive,Perfect,3rd Person,Singular,accipatus sit,accipetus sit,accipus sit,accipus sit,He/she/it may have been accepted
+Passive Subjunctive,Perfect,3rd Person,Plural,accipati sint,accipeti sint,accipi sint,accipi sint,They may have been accepted
+Passive Subjunctive,Pluperfect,1st Person,Singular,accipatus essem,accipetus essem,accipus essem,accipus essem,I should have been accepted
+Passive Subjunctive,Pluperfect,1st Person,Plural,accipati essemus,accipeti essemus,accipi essemus,accipi essemus,We should have been accepted
+Passive Subjunctive,Pluperfect,2nd Person,Singular,accipatus esses,accipetus esses,accipus esses,accipus esses,You would have been accepted
+Passive Subjunctive,Pluperfect,2nd Person,Plural,accipati essetis,accipeti essetis,accipi essetis,accipi essetis,You (pl.) would have been accepted
+Passive Subjunctive,Pluperfect,3rd Person,Singular,accipatus esset,accipetus esset,accipus esset,accipus esset,He/she/it would have been accepted
+Passive Subjunctive,Pluperfect,3rd Person,Plural,accipati essent,accipeti essent,accipi essent,accipi essent,They would have been accepted

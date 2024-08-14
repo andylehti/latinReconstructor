@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,allico,alliceo,allico,allicio,I attract
+Active Indicative,Present,1st Person,Plural,allicamus,allicemus,allicimus,allicimus,We attract
+Active Indicative,Present,2nd Person,Singular,allicas,allices,allicis,allicis,You attract
+Active Indicative,Present,2nd Person,Plural,allicatis,allicetis,allicitis,allicitis,You (pl.) attract
+Active Indicative,Present,3rd Person,Singular,allicat,allicet,allicit,allicit,He/she/it attract
+Active Indicative,Present,3rd Person,Plural,allicant,allicent,alliciunt,alliciunt,They attract
+Active Indicative,Imperfect,1st Person,Singular,allicabam,allicebam,allicebam,alliciebam,I was attracting
+Active Indicative,Imperfect,1st Person,Plural,allicabamus,allicebamus,allicebamus,alliciebamus,We were attracting
+Active Indicative,Imperfect,2nd Person,Singular,allicabas,allicebas,allicebas,alliciebas,You were attracting
+Active Indicative,Imperfect,2nd Person,Plural,allicabatis,allicebatis,allicebatis,alliciebatis,You (pl.) were attracting
+Active Indicative,Imperfect,3rd Person,Singular,allicabat,allicebat,allicebat,alliciebat,He/she/it was attracting
+Active Indicative,Imperfect,3rd Person,Plural,allicabant,allicebant,allicebant,alliciebant,They were attracting
+Active Indicative,Future,1st Person,Singular,allicabo,allicebo,allicam,alliciam,I will attract
+Active Indicative,Future,1st Person,Plural,allicabimus,allicebimus,allicemus,alliciemus,We will attract
+Active Indicative,Future,2nd Person,Singular,allicabis,allicebis,allices,allicies,You will attract
+Active Indicative,Future,2nd Person,Plural,allicabitis,allicebitis,allicetis,allicietis,You (pl.) will attract
+Active Indicative,Future,3rd Person,Singular,allicabit,allicebit,allicet,alliciet,He/she/it will attract
+Active Indicative,Future,3rd Person,Plural,allicabunt,allicebunt,allicent,allicient,They will attract
+Active Indicative,Perfect,1st Person,Singular,allicavi,allicui,allici,allici,I have attracted
+Active Indicative,Perfect,1st Person,Plural,allicavimus,allicuimus,allicimus,allicimus,We have attracted
+Active Indicative,Perfect,2nd Person,Singular,allicavisti,allicuisti,allicisti,allicisti,You have attracted
+Active Indicative,Perfect,2nd Person,Plural,allicavistis,allicuistis,allicistis,allicistis,You (pl.) have attracted
+Active Indicative,Perfect,3rd Person,Singular,allicavit,allicuit,allicit,allicit,He/she/it has attracted
+Active Indicative,Perfect,3rd Person,Plural,allicaverunt,allicuerunt,allicerunt,allicerunt,They have attracted
+Active Indicative,Pluperfect,1st Person,Singular,allicaveram,allicueram,alliceram,alliceram,I had attracted
+Active Indicative,Pluperfect,1st Person,Plural,allicaveramus,allicueramus,alliceramus,alliceramus,We had attracted
+Active Indicative,Pluperfect,2nd Person,Singular,allicaveras,allicueras,alliceras,alliceras,You had attracted
+Active Indicative,Pluperfect,2nd Person,Plural,allicaveratis,allicueratis,alliceratis,alliceratis,You (pl.) had attracted
+Active Indicative,Pluperfect,3rd Person,Singular,allicaverat,allicuerat,allicerat,allicerat,He/she/it had attracted
+Active Indicative,Pluperfect,3rd Person,Plural,allicaverant,allicuerant,allicerant,allicerant,They had attracted
+Active Indicative,Future Perfect,1st Person,Singular,allicavero,allicueero,allicero,alliciero,I will have attracted
+Active Indicative,Future Perfect,1st Person,Plural,allicaverimus,allicuerimus,allicerimus,allicierimus,We will have attracted
+Active Indicative,Future Perfect,2nd Person,Singular,allicaveris,allicueris,alliceris,allicieris,You will have attracted
+Active Indicative,Future Perfect,2nd Person,Plural,allicaveritis,allicueritis,alliceritis,allicieritis,You (pl.) will have attracted
+Active Indicative,Future Perfect,3rd Person,Singular,allicaverit,allicuerit,allicerit,allicierit,He/she/it will have attracted
+Active Indicative,Future Perfect,3rd Person,Plural,allicaverint,allicuerint,allicerint,allicierint,They will have attracted
+Passive Indicative,Present,1st Person,Singular,allicor,alliceor,allicor,allicior,I am being attracted
+Passive Indicative,Present,1st Person,Plural,allicamur,allicemur,allicimur,allicimur,We are being attracted
+Passive Indicative,Present,2nd Person,Singular,allicaris,alliceris,alliciris,alliciris,You are being attracted
+Passive Indicative,Present,2nd Person,Plural,allicamini,allicemini,allicimini,allicimini,You (pl.) are being attracted
+Passive Indicative,Present,3rd Person,Singular,allicatur,allicetur,allicitur,allicitur,He/she/it is being attracted
+Passive Indicative,Present,3rd Person,Plural,allicantur,allicentur,alliciuntur,alliciuntur,They are being attracted
+Passive Indicative,Imperfect,1st Person,Singular,allicabar,allicebar,allicebar,alliciebar,I was attracted
+Passive Indicative,Imperfect,1st Person,Plural,allicabamur,allicebamur,allicebamur,alliciebamur,We were attracted
+Passive Indicative,Imperfect,2nd Person,Singular,allicabaris,allicebaris,allicebaris,alliciebaris,You were attracted
+Passive Indicative,Imperfect,2nd Person,Plural,allicabamini,allicebamini,allicebamini,alliciebamini,You (pl.) were attracted
+Passive Indicative,Imperfect,3rd Person,Singular,allicabatur,allicebatur,allicebatur,alliciebatur,He/she/it was attracted
+Passive Indicative,Imperfect,3rd Person,Plural,allicabantur,allicebantur,allicebantur,alliciebantur,They were attracted
+Passive Indicative,Future,1st Person,Singular,allicabor,allicebor,allicar,alliciar,I will be attracted
+Passive Indicative,Future,1st Person,Plural,allicabimur,allicebimur,allicemur,alliciemur,We will be attracted
+Passive Indicative,Future,2nd Person,Singular,allicaberis,alliceberis,alliceris,allicieris,You will be attracted
+Passive Indicative,Future,2nd Person,Plural,allicabimini,allicebimini,allicemini,alliciemini,You (pl.) will be attracted
+Passive Indicative,Future,3rd Person,Singular,allicabitur,allicebitur,allicetur,allicietur,He/she/it will be attracted
+Passive Indicative,Future,3rd Person,Plural,allicabuntur,allicebuntur,allicentur,allicientur,They will be attracted
+Passive Indicative,Perfect,1st Person,Singular,allicatus sum,allicetus sum,allicus sum,allicus sum,I have been attracted
+Passive Indicative,Perfect,1st Person,Plural,allicati sumus,alliceti sumus,allici sumus,allici sumus,We have been attracted
+Passive Indicative,Perfect,2nd Person,Singular,allicatus es,allicetus es,allicus es,allicus es,You have been attracted
+Passive Indicative,Perfect,2nd Person,Plural,allicati estis,alliceti estis,allici estis,allici estis,You (pl.) have been attracted
+Passive Indicative,Perfect,3rd Person,Singular,allicatus est,allicetus est,allicus est,allicus est,He/she/it has been attracted
+Passive Indicative,Perfect,3rd Person,Plural,allicati sunt,alliceti sunt,allici sunt,allici sunt,They have been attracted
+Passive Indicative,Pluperfect,1st Person,Singular,allicatus eram,allicetus eram,allicus eram,allicus eram,I had been attracted
+Passive Indicative,Pluperfect,1st Person,Plural,allicati eramus,alliceti eramus,allici eramus,allici eramus,We had been attracted
+Passive Indicative,Pluperfect,2nd Person,Singular,allicatus eras,allicetus eras,allicus eras,allicus eras,You had been attracted
+Passive Indicative,Pluperfect,2nd Person,Plural,allicati eratis,alliceti eratis,allici eratis,allici eratis,You (pl.) had been attracted
+Passive Indicative,Pluperfect,3rd Person,Singular,allicatus erat,allicetus erat,allicus erat,allicus erat,He/she/it had been attracted
+Passive Indicative,Pluperfect,3rd Person,Plural,allicati erant,alliceti erant,allici erant,allici erant,They had been attracted
+Passive Indicative,Future Perfect,1st Person,Singular,allicatus ero,allicetus ero,allicus ero,allicus ero,I will have been attracted
+Passive Indicative,Future Perfect,1st Person,Plural,allicati erimus,alliceti erimus,allici erimus,allici erimus,We will have been attracted
+Passive Indicative,Future Perfect,2nd Person,Singular,allicatus eris,allicetus eris,allicus eris,allicus eris,You will have been attracted
+Passive Indicative,Future Perfect,2nd Person,Plural,allicati eritis,alliceti eritis,allici eritis,allici eritis,You (pl.) will have been attracted
+Passive Indicative,Future Perfect,3rd Person,Singular,allicatus erit,allicetus erit,allicus erit,allicus erit,He/she/it will have been attracted
+Passive Indicative,Future Perfect,3rd Person,Plural,allicati erunt,alliceti erunt,allici erunt,allici erunt,They will have been attracted
+Active Subjunctive,Present,1st Person,Singular,allicem,allicem,allicam,allicam,I may attract
+Active Subjunctive,Present,1st Person,Plural,allicemus,allicemus,allicamus,allicamus,We may attract
+Active Subjunctive,Present,2nd Person,Singular,allices,allices,allicas,allicas,You may attract
+Active Subjunctive,Present,2nd Person,Plural,allicetis,allicetis,allicatis,allicatis,You (pl.) may attract
+Active Subjunctive,Present,3rd Person,Singular,allicet,allicet,allicat,allicat,He/she/it may attract
+Active Subjunctive,Present,3rd Person,Plural,allicent,allicent,allicant,allicant,They may attract
+Active Subjunctive,Imperfect,1st Person,Singular,allicarem,allicerem,allicerem,allicirem,I should attract
+Active Subjunctive,Imperfect,1st Person,Plural,allicaremus,alliceremus,alliceremus,alliciremus,We should attract
+Active Subjunctive,Imperfect,2nd Person,Singular,allicares,alliceres,alliceres,allicires,You should attract
+Active Subjunctive,Imperfect,2nd Person,Plural,allicaretis,alliceretis,alliceretis,alliciretis,You (pl.) should attract
+Active Subjunctive,Imperfect,3rd Person,Singular,allicaret,alliceret,alliceret,alliciret,He/she/it should attract
+Active Subjunctive,Imperfect,3rd Person,Plural,allicarent,allicerent,allicerent,allicirent,They should attract
+Active Subjunctive,Perfect,1st Person,Singular,allicerim,allicuerim,allicerim,allicierim,I may have attracted
+Active Subjunctive,Perfect,1st Person,Plural,allicerimus,allicuerimus,allicerimus,allicierimus,We may have attracted
+Active Subjunctive,Perfect,2nd Person,Singular,alliceris,allicueris,alliceris,allicieris,You may have attracted
+Active Subjunctive,Perfect,2nd Person,Plural,alliceritis,allicueritis,alliceritis,allicieritis,You (pl.) may have attracted
+Active Subjunctive,Perfect,3rd Person,Singular,allicerit,allicuerit,allicerit,allicierit,He/she/it may have attracted
+Active Subjunctive,Perfect,3rd Person,Plural,allicerint,allicuerint,allicerint,allicierint,They may have attracted
+Active Subjunctive,Pluperfect,1st Person,Singular,allicissem,allicuissem,allicissem,allicissem,I should have attracted
+Active Subjunctive,Pluperfect,1st Person,Plural,allicissemus,allicuissemus,allicissemus,allicissemus,We should have attracted
+Active Subjunctive,Pluperfect,2nd Person,Singular,allicisses,allicuisses,allicisses,allicisses,You would have attracted
+Active Subjunctive,Pluperfect,2nd Person,Plural,allicissetis,allicuissetis,allicissetis,allicissetis,You (pl.) would have attracted
+Active Subjunctive,Pluperfect,3rd Person,Singular,allicisset,allicuisset,allicisset,allicisset,He/she/it would have attracted
+Active Subjunctive,Pluperfect,3rd Person,Plural,allicissent,allicuissent,allicissent,allicissent,They would have attracted
+Passive Subjunctive,Present,1st Person,Singular,allicer,allicer,allicar,allicar,I may be attracted
+Passive Subjunctive,Present,1st Person,Plural,allicemur,allicemur,allicamur,allicamur,We may be attracted
+Passive Subjunctive,Present,2nd Person,Singular,alliceris,alliceris,allicaris,allicaris,You may be attracted
+Passive Subjunctive,Present,2nd Person,Plural,allicemini,allicemini,allicamini,allicamini,You (pl.) may be attracted
+Passive Subjunctive,Present,3rd Person,Singular,allicetur,allicetur,allicatur,allicatur,He/she/it may be attracted
+Passive Subjunctive,Present,3rd Person,Plural,allicentur,allicentur,allicantur,allicantur,They may be attracted
+Passive Subjunctive,Imperfect,1st Person,Singular,allicarer,allicerer,allicerer,allicirer,I should be attracted
+Passive Subjunctive,Imperfect,1st Person,Plural,allicaremur,alliceremur,alliceremur,alliciremur,We should be attracted
+Passive Subjunctive,Imperfect,2nd Person,Singular,allicareris,allicereris,allicereris,allicireris,You would be attracted
+Passive Subjunctive,Imperfect,2nd Person,Plural,allicaremini,alliceremini,alliceremini,alliciremini,You (pl.) would be attracted
+Passive Subjunctive,Imperfect,3rd Person,Singular,allicaretur,alliceretur,alliceretur,alliciretur,He/she/it would be attracted
+Passive Subjunctive,Imperfect,3rd Person,Plural,allicarentur,allicerentur,allicerentur,allicirentur,They would be attracted
+Passive Subjunctive,Perfect,1st Person,Singular,allicatus sim,allicetus sim,allicus sim,allicus sim,I may have been attracted
+Passive Subjunctive,Perfect,1st Person,Plural,allicati simus,alliceti simus,allici simus,allici simus,We may have been attracted
+Passive Subjunctive,Perfect,2nd Person,Singular,allicatus sis,allicetus sis,allicus sis,allicus sis,You may have been attracted
+Passive Subjunctive,Perfect,2nd Person,Plural,allicati sitis,alliceti sitis,allici sitis,allici sitis,You (pl.) may have been attracted
+Passive Subjunctive,Perfect,3rd Person,Singular,allicatus sit,allicetus sit,allicus sit,allicus sit,He/she/it may have been attracted
+Passive Subjunctive,Perfect,3rd Person,Plural,allicati sint,alliceti sint,allici sint,allici sint,They may have been attracted
+Passive Subjunctive,Pluperfect,1st Person,Singular,allicatus essem,allicetus essem,allicus essem,allicus essem,I should have been attracted
+Passive Subjunctive,Pluperfect,1st Person,Plural,allicati essemus,alliceti essemus,allici essemus,allici essemus,We should have been attracted
+Passive Subjunctive,Pluperfect,2nd Person,Singular,allicatus esses,allicetus esses,allicus esses,allicus esses,You would have been attracted
+Passive Subjunctive,Pluperfect,2nd Person,Plural,allicati essetis,alliceti essetis,allici essetis,allici essetis,You (pl.) would have been attracted
+Passive Subjunctive,Pluperfect,3rd Person,Singular,allicatus esset,allicetus esset,allicus esset,allicus esset,He/she/it would have been attracted
+Passive Subjunctive,Pluperfect,3rd Person,Plural,allicati essent,alliceti essent,allici essent,allici essent,They would have been attracted

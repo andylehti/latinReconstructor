@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,pato,pateo,pato,patio,I endure
+Active Indicative,Present,1st Person,Plural,patamus,patemus,patimus,patimus,We endure
+Active Indicative,Present,2nd Person,Singular,patas,pates,patis,patis,You endure
+Active Indicative,Present,2nd Person,Plural,patatis,patetis,patitis,patitis,You (pl.) endure
+Active Indicative,Present,3rd Person,Singular,patat,patet,patit,patit,He/she/it endure
+Active Indicative,Present,3rd Person,Plural,patant,patent,patiunt,patiunt,They endure
+Active Indicative,Imperfect,1st Person,Singular,patabam,patebam,patebam,patiebam,I was endureing
+Active Indicative,Imperfect,1st Person,Plural,patabamus,patebamus,patebamus,patiebamus,We were endureing
+Active Indicative,Imperfect,2nd Person,Singular,patabas,patebas,patebas,patiebas,You were endureing
+Active Indicative,Imperfect,2nd Person,Plural,patabatis,patebatis,patebatis,patiebatis,You (pl.) were endureing
+Active Indicative,Imperfect,3rd Person,Singular,patabat,patebat,patebat,patiebat,He/she/it was endureing
+Active Indicative,Imperfect,3rd Person,Plural,patabant,patebant,patebant,patiebant,They were endureing
+Active Indicative,Future,1st Person,Singular,patabo,patebo,patam,patiam,I will endure
+Active Indicative,Future,1st Person,Plural,patabimus,patebimus,patemus,patiemus,We will endure
+Active Indicative,Future,2nd Person,Singular,patabis,patebis,pates,paties,You will endure
+Active Indicative,Future,2nd Person,Plural,patabitis,patebitis,patetis,patietis,You (pl.) will endure
+Active Indicative,Future,3rd Person,Singular,patabit,patebit,patet,patiet,He/she/it will endure
+Active Indicative,Future,3rd Person,Plural,patabunt,patebunt,patent,patient,They will endure
+Active Indicative,Perfect,1st Person,Singular,patavi,patui,pati,pati,I have endureed
+Active Indicative,Perfect,1st Person,Plural,patavimus,patuimus,patimus,patimus,We have endureed
+Active Indicative,Perfect,2nd Person,Singular,patavisti,patuisti,patisti,patisti,You have endureed
+Active Indicative,Perfect,2nd Person,Plural,patavistis,patuistis,patistis,patistis,You (pl.) have endureed
+Active Indicative,Perfect,3rd Person,Singular,patavit,patuit,patit,patit,He/she/it has endureed
+Active Indicative,Perfect,3rd Person,Plural,pataverunt,patuerunt,paterunt,paterunt,They have endureed
+Active Indicative,Pluperfect,1st Person,Singular,pataveram,patueram,pateram,pateram,I had endureed
+Active Indicative,Pluperfect,1st Person,Plural,pataveramus,patueramus,pateramus,pateramus,We had endureed
+Active Indicative,Pluperfect,2nd Person,Singular,pataveras,patueras,pateras,pateras,You had endureed
+Active Indicative,Pluperfect,2nd Person,Plural,pataveratis,patueratis,pateratis,pateratis,You (pl.) had endureed
+Active Indicative,Pluperfect,3rd Person,Singular,pataverat,patuerat,paterat,paterat,He/she/it had endureed
+Active Indicative,Pluperfect,3rd Person,Plural,pataverant,patuerant,paterant,paterant,They had endureed
+Active Indicative,Future Perfect,1st Person,Singular,patavero,patueero,patero,patiero,I will have endureed
+Active Indicative,Future Perfect,1st Person,Plural,pataverimus,patuerimus,paterimus,patierimus,We will have endureed
+Active Indicative,Future Perfect,2nd Person,Singular,pataveris,patueris,pateris,patieris,You will have endureed
+Active Indicative,Future Perfect,2nd Person,Plural,pataveritis,patueritis,pateritis,patieritis,You (pl.) will have endureed
+Active Indicative,Future Perfect,3rd Person,Singular,pataverit,patuerit,paterit,patierit,He/she/it will have endureed
+Active Indicative,Future Perfect,3rd Person,Plural,pataverint,patuerint,paterint,patierint,They will have endureed
+Passive Indicative,Present,1st Person,Singular,pator,pateor,pator,patior,I am being endureed
+Passive Indicative,Present,1st Person,Plural,patamur,patemur,patimur,patimur,We are being endureed
+Passive Indicative,Present,2nd Person,Singular,pataris,pateris,patiris,patiris,You are being endureed
+Passive Indicative,Present,2nd Person,Plural,patamini,patemini,patimini,patimini,You (pl.) are being endureed
+Passive Indicative,Present,3rd Person,Singular,patatur,patetur,patitur,patitur,He/she/it is being endureed
+Passive Indicative,Present,3rd Person,Plural,patantur,patentur,patiuntur,patiuntur,They are being endureed
+Passive Indicative,Imperfect,1st Person,Singular,patabar,patebar,patebar,patiebar,I was endureed
+Passive Indicative,Imperfect,1st Person,Plural,patabamur,patebamur,patebamur,patiebamur,We were endureed
+Passive Indicative,Imperfect,2nd Person,Singular,patabaris,patebaris,patebaris,patiebaris,You were endureed
+Passive Indicative,Imperfect,2nd Person,Plural,patabamini,patebamini,patebamini,patiebamini,You (pl.) were endureed
+Passive Indicative,Imperfect,3rd Person,Singular,patabatur,patebatur,patebatur,patiebatur,He/she/it was endureed
+Passive Indicative,Imperfect,3rd Person,Plural,patabantur,patebantur,patebantur,patiebantur,They were endureed
+Passive Indicative,Future,1st Person,Singular,patabor,patebor,patar,patiar,I will be endureed
+Passive Indicative,Future,1st Person,Plural,patabimur,patebimur,patemur,patiemur,We will be endureed
+Passive Indicative,Future,2nd Person,Singular,pataberis,pateberis,pateris,patieris,You will be endureed
+Passive Indicative,Future,2nd Person,Plural,patabimini,patebimini,patemini,patiemini,You (pl.) will be endureed
+Passive Indicative,Future,3rd Person,Singular,patabitur,patebitur,patetur,patietur,He/she/it will be endureed
+Passive Indicative,Future,3rd Person,Plural,patabuntur,patebuntur,patentur,patientur,They will be endureed
+Passive Indicative,Perfect,1st Person,Singular,patatus sum,patetus sum,patus sum,patus sum,I have been endureed
+Passive Indicative,Perfect,1st Person,Plural,patati sumus,pateti sumus,pati sumus,pati sumus,We have been endureed
+Passive Indicative,Perfect,2nd Person,Singular,patatus es,patetus es,patus es,patus es,You have been endureed
+Passive Indicative,Perfect,2nd Person,Plural,patati estis,pateti estis,pati estis,pati estis,You (pl.) have been endureed
+Passive Indicative,Perfect,3rd Person,Singular,patatus est,patetus est,patus est,patus est,He/she/it has been endureed
+Passive Indicative,Perfect,3rd Person,Plural,patati sunt,pateti sunt,pati sunt,pati sunt,They have been endureed
+Passive Indicative,Pluperfect,1st Person,Singular,patatus eram,patetus eram,patus eram,patus eram,I had been endureed
+Passive Indicative,Pluperfect,1st Person,Plural,patati eramus,pateti eramus,pati eramus,pati eramus,We had been endureed
+Passive Indicative,Pluperfect,2nd Person,Singular,patatus eras,patetus eras,patus eras,patus eras,You had been endureed
+Passive Indicative,Pluperfect,2nd Person,Plural,patati eratis,pateti eratis,pati eratis,pati eratis,You (pl.) had been endureed
+Passive Indicative,Pluperfect,3rd Person,Singular,patatus erat,patetus erat,patus erat,patus erat,He/she/it had been endureed
+Passive Indicative,Pluperfect,3rd Person,Plural,patati erant,pateti erant,pati erant,pati erant,They had been endureed
+Passive Indicative,Future Perfect,1st Person,Singular,patatus ero,patetus ero,patus ero,patus ero,I will have been endureed
+Passive Indicative,Future Perfect,1st Person,Plural,patati erimus,pateti erimus,pati erimus,pati erimus,We will have been endureed
+Passive Indicative,Future Perfect,2nd Person,Singular,patatus eris,patetus eris,patus eris,patus eris,You will have been endureed
+Passive Indicative,Future Perfect,2nd Person,Plural,patati eritis,pateti eritis,pati eritis,pati eritis,You (pl.) will have been endureed
+Passive Indicative,Future Perfect,3rd Person,Singular,patatus erit,patetus erit,patus erit,patus erit,He/she/it will have been endureed
+Passive Indicative,Future Perfect,3rd Person,Plural,patati erunt,pateti erunt,pati erunt,pati erunt,They will have been endureed
+Active Subjunctive,Present,1st Person,Singular,patem,patem,patam,patam,I may endure
+Active Subjunctive,Present,1st Person,Plural,patemus,patemus,patamus,patamus,We may endure
+Active Subjunctive,Present,2nd Person,Singular,pates,pates,patas,patas,You may endure
+Active Subjunctive,Present,2nd Person,Plural,patetis,patetis,patatis,patatis,You (pl.) may endure
+Active Subjunctive,Present,3rd Person,Singular,patet,patet,patat,patat,He/she/it may endure
+Active Subjunctive,Present,3rd Person,Plural,patent,patent,patant,patant,They may endure
+Active Subjunctive,Imperfect,1st Person,Singular,patarem,paterem,paterem,patirem,I should endure
+Active Subjunctive,Imperfect,1st Person,Plural,pataremus,pateremus,pateremus,patiremus,We should endure
+Active Subjunctive,Imperfect,2nd Person,Singular,patares,pateres,pateres,patires,You should endure
+Active Subjunctive,Imperfect,2nd Person,Plural,pataretis,pateretis,pateretis,patiretis,You (pl.) should endure
+Active Subjunctive,Imperfect,3rd Person,Singular,pataret,pateret,pateret,patiret,He/she/it should endure
+Active Subjunctive,Imperfect,3rd Person,Plural,patarent,paterent,paterent,patirent,They should endure
+Active Subjunctive,Perfect,1st Person,Singular,paterim,patuerim,paterim,patierim,I may have endureed
+Active Subjunctive,Perfect,1st Person,Plural,paterimus,patuerimus,paterimus,patierimus,We may have endureed
+Active Subjunctive,Perfect,2nd Person,Singular,pateris,patueris,pateris,patieris,You may have endureed
+Active Subjunctive,Perfect,2nd Person,Plural,pateritis,patueritis,pateritis,patieritis,You (pl.) may have endureed
+Active Subjunctive,Perfect,3rd Person,Singular,paterit,patuerit,paterit,patierit,He/she/it may have endureed
+Active Subjunctive,Perfect,3rd Person,Plural,paterint,patuerint,paterint,patierint,They may have endureed
+Active Subjunctive,Pluperfect,1st Person,Singular,patissem,patuissem,patissem,patissem,I should have endureed
+Active Subjunctive,Pluperfect,1st Person,Plural,patissemus,patuissemus,patissemus,patissemus,We should have endureed
+Active Subjunctive,Pluperfect,2nd Person,Singular,patisses,patuisses,patisses,patisses,You would have endureed
+Active Subjunctive,Pluperfect,2nd Person,Plural,patissetis,patuissetis,patissetis,patissetis,You (pl.) would have endureed
+Active Subjunctive,Pluperfect,3rd Person,Singular,patisset,patuisset,patisset,patisset,He/she/it would have endureed
+Active Subjunctive,Pluperfect,3rd Person,Plural,patissent,patuissent,patissent,patissent,They would have endureed
+Passive Subjunctive,Present,1st Person,Singular,pater,pater,patar,patar,I may be endureed
+Passive Subjunctive,Present,1st Person,Plural,patemur,patemur,patamur,patamur,We may be endureed
+Passive Subjunctive,Present,2nd Person,Singular,pateris,pateris,pataris,pataris,You may be endureed
+Passive Subjunctive,Present,2nd Person,Plural,patemini,patemini,patamini,patamini,You (pl.) may be endureed
+Passive Subjunctive,Present,3rd Person,Singular,patetur,patetur,patatur,patatur,He/she/it may be endureed
+Passive Subjunctive,Present,3rd Person,Plural,patentur,patentur,patantur,patantur,They may be endureed
+Passive Subjunctive,Imperfect,1st Person,Singular,patarer,paterer,paterer,patirer,I should be endureed
+Passive Subjunctive,Imperfect,1st Person,Plural,pataremur,pateremur,pateremur,patiremur,We should be endureed
+Passive Subjunctive,Imperfect,2nd Person,Singular,patareris,patereris,patereris,patireris,You would be endureed
+Passive Subjunctive,Imperfect,2nd Person,Plural,pataremini,pateremini,pateremini,patiremini,You (pl.) would be endureed
+Passive Subjunctive,Imperfect,3rd Person,Singular,pataretur,pateretur,pateretur,patiretur,He/she/it would be endureed
+Passive Subjunctive,Imperfect,3rd Person,Plural,patarentur,paterentur,paterentur,patirentur,They would be endureed
+Passive Subjunctive,Perfect,1st Person,Singular,patatus sim,patetus sim,patus sim,patus sim,I may have been endureed
+Passive Subjunctive,Perfect,1st Person,Plural,patati simus,pateti simus,pati simus,pati simus,We may have been endureed
+Passive Subjunctive,Perfect,2nd Person,Singular,patatus sis,patetus sis,patus sis,patus sis,You may have been endureed
+Passive Subjunctive,Perfect,2nd Person,Plural,patati sitis,pateti sitis,pati sitis,pati sitis,You (pl.) may have been endureed
+Passive Subjunctive,Perfect,3rd Person,Singular,patatus sit,patetus sit,patus sit,patus sit,He/she/it may have been endureed
+Passive Subjunctive,Perfect,3rd Person,Plural,patati sint,pateti sint,pati sint,pati sint,They may have been endureed
+Passive Subjunctive,Pluperfect,1st Person,Singular,patatus essem,patetus essem,patus essem,patus essem,I should have been endureed
+Passive Subjunctive,Pluperfect,1st Person,Plural,patati essemus,pateti essemus,pati essemus,pati essemus,We should have been endureed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,patatus esses,patetus esses,patus esses,patus esses,You would have been endureed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,patati essetis,pateti essetis,pati essetis,pati essetis,You (pl.) would have been endureed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,patatus esset,patetus esset,patus esset,patus esset,He/she/it would have been endureed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,patati essent,pateti essent,pati essent,pati essent,They would have been endureed

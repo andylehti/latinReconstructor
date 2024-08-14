@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,excurtio,excurtieo,excurtio,excurtio,I shorten
+Active Indicative,Present,1st Person,Plural,excurtiamus,excurtiemus,excurtimus,excurtimus,We shorten
+Active Indicative,Present,2nd Person,Singular,excurtias,excurties,excurtis,excurtis,You shorten
+Active Indicative,Present,2nd Person,Plural,excurtiatis,excurtietis,excurtitis,excurtitis,You (pl.) shorten
+Active Indicative,Present,3rd Person,Singular,excurtiat,excurtiet,excurtit,excurtit,He/she/it shorten
+Active Indicative,Present,3rd Person,Plural,excurtiant,excurtient,excurtiunt,excurtiunt,They shorten
+Active Indicative,Imperfect,1st Person,Singular,excurtiabam,excurtiebam,excurtiebam,excurtiebam,I was shortening
+Active Indicative,Imperfect,1st Person,Plural,excurtiabamus,excurtiebamus,excurtiebamus,excurtiebamus,We were shortening
+Active Indicative,Imperfect,2nd Person,Singular,excurtiabas,excurtiebas,excurtiebas,excurtiebas,You were shortening
+Active Indicative,Imperfect,2nd Person,Plural,excurtiabatis,excurtiebatis,excurtiebatis,excurtiebatis,You (pl.) were shortening
+Active Indicative,Imperfect,3rd Person,Singular,excurtiabat,excurtiebat,excurtiebat,excurtiebat,He/she/it was shortening
+Active Indicative,Imperfect,3rd Person,Plural,excurtiabant,excurtiebant,excurtiebant,excurtiebant,They were shortening
+Active Indicative,Future,1st Person,Singular,excurtiabo,excurtiebo,excurtiam,excurtiam,I will shorten
+Active Indicative,Future,1st Person,Plural,excurtiabimus,excurtiebimus,excurtiemus,excurtiemus,We will shorten
+Active Indicative,Future,2nd Person,Singular,excurtiabis,excurtiebis,excurties,excurties,You will shorten
+Active Indicative,Future,2nd Person,Plural,excurtiabitis,excurtiebitis,excurtietis,excurtietis,You (pl.) will shorten
+Active Indicative,Future,3rd Person,Singular,excurtiabit,excurtiebit,excurtiet,excurtiet,He/she/it will shorten
+Active Indicative,Future,3rd Person,Plural,excurtiabunt,excurtiebunt,excurtient,excurtient,They will shorten
+Active Indicative,Perfect,1st Person,Singular,excurtiavi,excurtiui,excurti,excurti,I have shortened
+Active Indicative,Perfect,1st Person,Plural,excurtiavimus,excurtiuimus,excurtimus,excurtimus,We have shortened
+Active Indicative,Perfect,2nd Person,Singular,excurtiavisti,excurtiuisti,excurtisti,excurtisti,You have shortened
+Active Indicative,Perfect,2nd Person,Plural,excurtiavistis,excurtiuistis,excurtistis,excurtistis,You (pl.) have shortened
+Active Indicative,Perfect,3rd Person,Singular,excurtiavit,excurtiuit,excurtit,excurtit,He/she/it has shortened
+Active Indicative,Perfect,3rd Person,Plural,excurtiaverunt,excurtiuerunt,excurtierunt,excurtierunt,They have shortened
+Active Indicative,Pluperfect,1st Person,Singular,excurtiaveram,excurtiueram,excurtieram,excurtieram,I had shortened
+Active Indicative,Pluperfect,1st Person,Plural,excurtiaveramus,excurtiueramus,excurtieramus,excurtieramus,We had shortened
+Active Indicative,Pluperfect,2nd Person,Singular,excurtiaveras,excurtiueras,excurtieras,excurtieras,You had shortened
+Active Indicative,Pluperfect,2nd Person,Plural,excurtiaveratis,excurtiueratis,excurtieratis,excurtieratis,You (pl.) had shortened
+Active Indicative,Pluperfect,3rd Person,Singular,excurtiaverat,excurtiuerat,excurtierat,excurtierat,He/she/it had shortened
+Active Indicative,Pluperfect,3rd Person,Plural,excurtiaverant,excurtiuerant,excurtierant,excurtierant,They had shortened
+Active Indicative,Future Perfect,1st Person,Singular,excurtiavero,excurtiueero,excurtiero,excurtiero,I will have shortened
+Active Indicative,Future Perfect,1st Person,Plural,excurtiaverimus,excurtiuerimus,excurtierimus,excurtierimus,We will have shortened
+Active Indicative,Future Perfect,2nd Person,Singular,excurtiaveris,excurtiueris,excurtieris,excurtieris,You will have shortened
+Active Indicative,Future Perfect,2nd Person,Plural,excurtiaveritis,excurtiueritis,excurtieritis,excurtieritis,You (pl.) will have shortened
+Active Indicative,Future Perfect,3rd Person,Singular,excurtiaverit,excurtiuerit,excurtierit,excurtierit,He/she/it will have shortened
+Active Indicative,Future Perfect,3rd Person,Plural,excurtiaverint,excurtiuerint,excurtierint,excurtierint,They will have shortened
+Passive Indicative,Present,1st Person,Singular,excurtior,excurtieor,excurtior,excurtior,I am being shortened
+Passive Indicative,Present,1st Person,Plural,excurtiamur,excurtiemur,excurtimur,excurtimur,We are being shortened
+Passive Indicative,Present,2nd Person,Singular,excurtiaris,excurtieris,excurtiris,excurtiris,You are being shortened
+Passive Indicative,Present,2nd Person,Plural,excurtiamini,excurtiemini,excurtimini,excurtimini,You (pl.) are being shortened
+Passive Indicative,Present,3rd Person,Singular,excurtiatur,excurtietur,excurtitur,excurtitur,He/she/it is being shortened
+Passive Indicative,Present,3rd Person,Plural,excurtiantur,excurtientur,excurtiuntur,excurtiuntur,They are being shortened
+Passive Indicative,Imperfect,1st Person,Singular,excurtiabar,excurtiebar,excurtiebar,excurtiebar,I was shortened
+Passive Indicative,Imperfect,1st Person,Plural,excurtiabamur,excurtiebamur,excurtiebamur,excurtiebamur,We were shortened
+Passive Indicative,Imperfect,2nd Person,Singular,excurtiabaris,excurtiebaris,excurtiebaris,excurtiebaris,You were shortened
+Passive Indicative,Imperfect,2nd Person,Plural,excurtiabamini,excurtiebamini,excurtiebamini,excurtiebamini,You (pl.) were shortened
+Passive Indicative,Imperfect,3rd Person,Singular,excurtiabatur,excurtiebatur,excurtiebatur,excurtiebatur,He/she/it was shortened
+Passive Indicative,Imperfect,3rd Person,Plural,excurtiabantur,excurtiebantur,excurtiebantur,excurtiebantur,They were shortened
+Passive Indicative,Future,1st Person,Singular,excurtiabor,excurtiebor,excurtiar,excurtiar,I will be shortened
+Passive Indicative,Future,1st Person,Plural,excurtiabimur,excurtiebimur,excurtiemur,excurtiemur,We will be shortened
+Passive Indicative,Future,2nd Person,Singular,excurtiaberis,excurtieberis,excurtieris,excurtieris,You will be shortened
+Passive Indicative,Future,2nd Person,Plural,excurtiabimini,excurtiebimini,excurtiemini,excurtiemini,You (pl.) will be shortened
+Passive Indicative,Future,3rd Person,Singular,excurtiabitur,excurtiebitur,excurtietur,excurtietur,He/she/it will be shortened
+Passive Indicative,Future,3rd Person,Plural,excurtiabuntur,excurtiebuntur,excurtientur,excurtientur,They will be shortened
+Passive Indicative,Perfect,1st Person,Singular,excurtiatus sum,excurtietus sum,excurtius sum,excurtius sum,I have been shortened
+Passive Indicative,Perfect,1st Person,Plural,excurtiati sumus,excurtieti sumus,excurti sumus,excurti sumus,We have been shortened
+Passive Indicative,Perfect,2nd Person,Singular,excurtiatus es,excurtietus es,excurtius es,excurtius es,You have been shortened
+Passive Indicative,Perfect,2nd Person,Plural,excurtiati estis,excurtieti estis,excurti estis,excurti estis,You (pl.) have been shortened
+Passive Indicative,Perfect,3rd Person,Singular,excurtiatus est,excurtietus est,excurtius est,excurtius est,He/she/it has been shortened
+Passive Indicative,Perfect,3rd Person,Plural,excurtiati sunt,excurtieti sunt,excurti sunt,excurti sunt,They have been shortened
+Passive Indicative,Pluperfect,1st Person,Singular,excurtiatus eram,excurtietus eram,excurtius eram,excurtius eram,I had been shortened
+Passive Indicative,Pluperfect,1st Person,Plural,excurtiati eramus,excurtieti eramus,excurti eramus,excurti eramus,We had been shortened
+Passive Indicative,Pluperfect,2nd Person,Singular,excurtiatus eras,excurtietus eras,excurtius eras,excurtius eras,You had been shortened
+Passive Indicative,Pluperfect,2nd Person,Plural,excurtiati eratis,excurtieti eratis,excurti eratis,excurti eratis,You (pl.) had been shortened
+Passive Indicative,Pluperfect,3rd Person,Singular,excurtiatus erat,excurtietus erat,excurtius erat,excurtius erat,He/she/it had been shortened
+Passive Indicative,Pluperfect,3rd Person,Plural,excurtiati erant,excurtieti erant,excurti erant,excurti erant,They had been shortened
+Passive Indicative,Future Perfect,1st Person,Singular,excurtiatus ero,excurtietus ero,excurtius ero,excurtius ero,I will have been shortened
+Passive Indicative,Future Perfect,1st Person,Plural,excurtiati erimus,excurtieti erimus,excurti erimus,excurti erimus,We will have been shortened
+Passive Indicative,Future Perfect,2nd Person,Singular,excurtiatus eris,excurtietus eris,excurtius eris,excurtius eris,You will have been shortened
+Passive Indicative,Future Perfect,2nd Person,Plural,excurtiati eritis,excurtieti eritis,excurti eritis,excurti eritis,You (pl.) will have been shortened
+Passive Indicative,Future Perfect,3rd Person,Singular,excurtiatus erit,excurtietus erit,excurtius erit,excurtius erit,He/she/it will have been shortened
+Passive Indicative,Future Perfect,3rd Person,Plural,excurtiati erunt,excurtieti erunt,excurti erunt,excurti erunt,They will have been shortened
+Active Subjunctive,Present,1st Person,Singular,excurtiem,excurtiem,excurtiam,excurtiam,I may shorten
+Active Subjunctive,Present,1st Person,Plural,excurtiemus,excurtiemus,excurtiamus,excurtiamus,We may shorten
+Active Subjunctive,Present,2nd Person,Singular,excurties,excurties,excurtias,excurtias,You may shorten
+Active Subjunctive,Present,2nd Person,Plural,excurtietis,excurtietis,excurtiatis,excurtiatis,You (pl.) may shorten
+Active Subjunctive,Present,3rd Person,Singular,excurtiet,excurtiet,excurtiat,excurtiat,He/she/it may shorten
+Active Subjunctive,Present,3rd Person,Plural,excurtient,excurtient,excurtiant,excurtiant,They may shorten
+Active Subjunctive,Imperfect,1st Person,Singular,excurtiarem,excurtierem,excurtierem,excurtirem,I should shorten
+Active Subjunctive,Imperfect,1st Person,Plural,excurtiaremus,excurtieremus,excurtieremus,excurtiremus,We should shorten
+Active Subjunctive,Imperfect,2nd Person,Singular,excurtiares,excurtieres,excurtieres,excurtires,You should shorten
+Active Subjunctive,Imperfect,2nd Person,Plural,excurtiaretis,excurtieretis,excurtieretis,excurtiretis,You (pl.) should shorten
+Active Subjunctive,Imperfect,3rd Person,Singular,excurtiaret,excurtieret,excurtieret,excurtiret,He/she/it should shorten
+Active Subjunctive,Imperfect,3rd Person,Plural,excurtiarent,excurtierent,excurtierent,excurtirent,They should shorten
+Active Subjunctive,Perfect,1st Person,Singular,excurtierim,excurtiuerim,excurtierim,excurtierim,I may have shortened
+Active Subjunctive,Perfect,1st Person,Plural,excurtierimus,excurtiuerimus,excurtierimus,excurtierimus,We may have shortened
+Active Subjunctive,Perfect,2nd Person,Singular,excurtieris,excurtiueris,excurtieris,excurtieris,You may have shortened
+Active Subjunctive,Perfect,2nd Person,Plural,excurtieritis,excurtiueritis,excurtieritis,excurtieritis,You (pl.) may have shortened
+Active Subjunctive,Perfect,3rd Person,Singular,excurtierit,excurtiuerit,excurtierit,excurtierit,He/she/it may have shortened
+Active Subjunctive,Perfect,3rd Person,Plural,excurtierint,excurtiuerint,excurtierint,excurtierint,They may have shortened
+Active Subjunctive,Pluperfect,1st Person,Singular,excurtissem,excurtiuissem,excurtissem,excurtissem,I should have shortened
+Active Subjunctive,Pluperfect,1st Person,Plural,excurtissemus,excurtiuissemus,excurtissemus,excurtissemus,We should have shortened
+Active Subjunctive,Pluperfect,2nd Person,Singular,excurtisses,excurtiuisses,excurtisses,excurtisses,You would have shortened
+Active Subjunctive,Pluperfect,2nd Person,Plural,excurtissetis,excurtiuissetis,excurtissetis,excurtissetis,You (pl.) would have shortened
+Active Subjunctive,Pluperfect,3rd Person,Singular,excurtisset,excurtiuisset,excurtisset,excurtisset,He/she/it would have shortened
+Active Subjunctive,Pluperfect,3rd Person,Plural,excurtissent,excurtiuissent,excurtissent,excurtissent,They would have shortened
+Passive Subjunctive,Present,1st Person,Singular,excurtier,excurtier,excurtiar,excurtiar,I may be shortened
+Passive Subjunctive,Present,1st Person,Plural,excurtiemur,excurtiemur,excurtiamur,excurtiamur,We may be shortened
+Passive Subjunctive,Present,2nd Person,Singular,excurtieris,excurtieris,excurtiaris,excurtiaris,You may be shortened
+Passive Subjunctive,Present,2nd Person,Plural,excurtiemini,excurtiemini,excurtiamini,excurtiamini,You (pl.) may be shortened
+Passive Subjunctive,Present,3rd Person,Singular,excurtietur,excurtietur,excurtiatur,excurtiatur,He/she/it may be shortened
+Passive Subjunctive,Present,3rd Person,Plural,excurtientur,excurtientur,excurtiantur,excurtiantur,They may be shortened
+Passive Subjunctive,Imperfect,1st Person,Singular,excurtiarer,excurtierer,excurtierer,excurtirer,I should be shortened
+Passive Subjunctive,Imperfect,1st Person,Plural,excurtiaremur,excurtieremur,excurtieremur,excurtiremur,We should be shortened
+Passive Subjunctive,Imperfect,2nd Person,Singular,excurtiareris,excurtiereris,excurtiereris,excurtireris,You would be shortened
+Passive Subjunctive,Imperfect,2nd Person,Plural,excurtiaremini,excurtieremini,excurtieremini,excurtiremini,You (pl.) would be shortened
+Passive Subjunctive,Imperfect,3rd Person,Singular,excurtiaretur,excurtieretur,excurtieretur,excurtiretur,He/she/it would be shortened
+Passive Subjunctive,Imperfect,3rd Person,Plural,excurtiarentur,excurtierentur,excurtierentur,excurtirentur,They would be shortened
+Passive Subjunctive,Perfect,1st Person,Singular,excurtiatus sim,excurtietus sim,excurtius sim,excurtius sim,I may have been shortened
+Passive Subjunctive,Perfect,1st Person,Plural,excurtiati simus,excurtieti simus,excurti simus,excurti simus,We may have been shortened
+Passive Subjunctive,Perfect,2nd Person,Singular,excurtiatus sis,excurtietus sis,excurtius sis,excurtius sis,You may have been shortened
+Passive Subjunctive,Perfect,2nd Person,Plural,excurtiati sitis,excurtieti sitis,excurti sitis,excurti sitis,You (pl.) may have been shortened
+Passive Subjunctive,Perfect,3rd Person,Singular,excurtiatus sit,excurtietus sit,excurtius sit,excurtius sit,He/she/it may have been shortened
+Passive Subjunctive,Perfect,3rd Person,Plural,excurtiati sint,excurtieti sint,excurti sint,excurti sint,They may have been shortened
+Passive Subjunctive,Pluperfect,1st Person,Singular,excurtiatus essem,excurtietus essem,excurtius essem,excurtius essem,I should have been shortened
+Passive Subjunctive,Pluperfect,1st Person,Plural,excurtiati essemus,excurtieti essemus,excurti essemus,excurti essemus,We should have been shortened
+Passive Subjunctive,Pluperfect,2nd Person,Singular,excurtiatus esses,excurtietus esses,excurtius esses,excurtius esses,You would have been shortened
+Passive Subjunctive,Pluperfect,2nd Person,Plural,excurtiati essetis,excurtieti essetis,excurti essetis,excurti essetis,You (pl.) would have been shortened
+Passive Subjunctive,Pluperfect,3rd Person,Singular,excurtiatus esset,excurtietus esset,excurtius esset,excurtius esset,He/she/it would have been shortened
+Passive Subjunctive,Pluperfect,3rd Person,Plural,excurtiati essent,excurtieti essent,excurti essent,excurti essent,They would have been shortened

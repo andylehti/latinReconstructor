@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,extorco,extorceo,extorco,extorcio,I twist
+Active Indicative,Present,1st Person,Plural,extorcamus,extorcemus,extorcimus,extorcimus,We twist
+Active Indicative,Present,2nd Person,Singular,extorcas,extorces,extorcis,extorcis,You twist
+Active Indicative,Present,2nd Person,Plural,extorcatis,extorcetis,extorcitis,extorcitis,You (pl.) twist
+Active Indicative,Present,3rd Person,Singular,extorcat,extorcet,extorcit,extorcit,He/she/it twist
+Active Indicative,Present,3rd Person,Plural,extorcant,extorcent,extorciunt,extorciunt,They twist
+Active Indicative,Imperfect,1st Person,Singular,extorcabam,extorcebam,extorcebam,extorciebam,I was twisting
+Active Indicative,Imperfect,1st Person,Plural,extorcabamus,extorcebamus,extorcebamus,extorciebamus,We were twisting
+Active Indicative,Imperfect,2nd Person,Singular,extorcabas,extorcebas,extorcebas,extorciebas,You were twisting
+Active Indicative,Imperfect,2nd Person,Plural,extorcabatis,extorcebatis,extorcebatis,extorciebatis,You (pl.) were twisting
+Active Indicative,Imperfect,3rd Person,Singular,extorcabat,extorcebat,extorcebat,extorciebat,He/she/it was twisting
+Active Indicative,Imperfect,3rd Person,Plural,extorcabant,extorcebant,extorcebant,extorciebant,They were twisting
+Active Indicative,Future,1st Person,Singular,extorcabo,extorcebo,extorcam,extorciam,I will twist
+Active Indicative,Future,1st Person,Plural,extorcabimus,extorcebimus,extorcemus,extorciemus,We will twist
+Active Indicative,Future,2nd Person,Singular,extorcabis,extorcebis,extorces,extorcies,You will twist
+Active Indicative,Future,2nd Person,Plural,extorcabitis,extorcebitis,extorcetis,extorcietis,You (pl.) will twist
+Active Indicative,Future,3rd Person,Singular,extorcabit,extorcebit,extorcet,extorciet,He/she/it will twist
+Active Indicative,Future,3rd Person,Plural,extorcabunt,extorcebunt,extorcent,extorcient,They will twist
+Active Indicative,Perfect,1st Person,Singular,extorcavi,extorcui,extorci,extorci,I have twisted
+Active Indicative,Perfect,1st Person,Plural,extorcavimus,extorcuimus,extorcimus,extorcimus,We have twisted
+Active Indicative,Perfect,2nd Person,Singular,extorcavisti,extorcuisti,extorcisti,extorcisti,You have twisted
+Active Indicative,Perfect,2nd Person,Plural,extorcavistis,extorcuistis,extorcistis,extorcistis,You (pl.) have twisted
+Active Indicative,Perfect,3rd Person,Singular,extorcavit,extorcuit,extorcit,extorcit,He/she/it has twisted
+Active Indicative,Perfect,3rd Person,Plural,extorcaverunt,extorcuerunt,extorcerunt,extorcerunt,They have twisted
+Active Indicative,Pluperfect,1st Person,Singular,extorcaveram,extorcueram,extorceram,extorceram,I had twisted
+Active Indicative,Pluperfect,1st Person,Plural,extorcaveramus,extorcueramus,extorceramus,extorceramus,We had twisted
+Active Indicative,Pluperfect,2nd Person,Singular,extorcaveras,extorcueras,extorceras,extorceras,You had twisted
+Active Indicative,Pluperfect,2nd Person,Plural,extorcaveratis,extorcueratis,extorceratis,extorceratis,You (pl.) had twisted
+Active Indicative,Pluperfect,3rd Person,Singular,extorcaverat,extorcuerat,extorcerat,extorcerat,He/she/it had twisted
+Active Indicative,Pluperfect,3rd Person,Plural,extorcaverant,extorcuerant,extorcerant,extorcerant,They had twisted
+Active Indicative,Future Perfect,1st Person,Singular,extorcavero,extorcueero,extorcero,extorciero,I will have twisted
+Active Indicative,Future Perfect,1st Person,Plural,extorcaverimus,extorcuerimus,extorcerimus,extorcierimus,We will have twisted
+Active Indicative,Future Perfect,2nd Person,Singular,extorcaveris,extorcueris,extorceris,extorcieris,You will have twisted
+Active Indicative,Future Perfect,2nd Person,Plural,extorcaveritis,extorcueritis,extorceritis,extorcieritis,You (pl.) will have twisted
+Active Indicative,Future Perfect,3rd Person,Singular,extorcaverit,extorcuerit,extorcerit,extorcierit,He/she/it will have twisted
+Active Indicative,Future Perfect,3rd Person,Plural,extorcaverint,extorcuerint,extorcerint,extorcierint,They will have twisted
+Passive Indicative,Present,1st Person,Singular,extorcor,extorceor,extorcor,extorcior,I am being twisted
+Passive Indicative,Present,1st Person,Plural,extorcamur,extorcemur,extorcimur,extorcimur,We are being twisted
+Passive Indicative,Present,2nd Person,Singular,extorcaris,extorceris,extorciris,extorciris,You are being twisted
+Passive Indicative,Present,2nd Person,Plural,extorcamini,extorcemini,extorcimini,extorcimini,You (pl.) are being twisted
+Passive Indicative,Present,3rd Person,Singular,extorcatur,extorcetur,extorcitur,extorcitur,He/she/it is being twisted
+Passive Indicative,Present,3rd Person,Plural,extorcantur,extorcentur,extorciuntur,extorciuntur,They are being twisted
+Passive Indicative,Imperfect,1st Person,Singular,extorcabar,extorcebar,extorcebar,extorciebar,I was twisted
+Passive Indicative,Imperfect,1st Person,Plural,extorcabamur,extorcebamur,extorcebamur,extorciebamur,We were twisted
+Passive Indicative,Imperfect,2nd Person,Singular,extorcabaris,extorcebaris,extorcebaris,extorciebaris,You were twisted
+Passive Indicative,Imperfect,2nd Person,Plural,extorcabamini,extorcebamini,extorcebamini,extorciebamini,You (pl.) were twisted
+Passive Indicative,Imperfect,3rd Person,Singular,extorcabatur,extorcebatur,extorcebatur,extorciebatur,He/she/it was twisted
+Passive Indicative,Imperfect,3rd Person,Plural,extorcabantur,extorcebantur,extorcebantur,extorciebantur,They were twisted
+Passive Indicative,Future,1st Person,Singular,extorcabor,extorcebor,extorcar,extorciar,I will be twisted
+Passive Indicative,Future,1st Person,Plural,extorcabimur,extorcebimur,extorcemur,extorciemur,We will be twisted
+Passive Indicative,Future,2nd Person,Singular,extorcaberis,extorceberis,extorceris,extorcieris,You will be twisted
+Passive Indicative,Future,2nd Person,Plural,extorcabimini,extorcebimini,extorcemini,extorciemini,You (pl.) will be twisted
+Passive Indicative,Future,3rd Person,Singular,extorcabitur,extorcebitur,extorcetur,extorcietur,He/she/it will be twisted
+Passive Indicative,Future,3rd Person,Plural,extorcabuntur,extorcebuntur,extorcentur,extorcientur,They will be twisted
+Passive Indicative,Perfect,1st Person,Singular,extorcatus sum,extorcetus sum,extorcus sum,extorcus sum,I have been twisted
+Passive Indicative,Perfect,1st Person,Plural,extorcati sumus,extorceti sumus,extorci sumus,extorci sumus,We have been twisted
+Passive Indicative,Perfect,2nd Person,Singular,extorcatus es,extorcetus es,extorcus es,extorcus es,You have been twisted
+Passive Indicative,Perfect,2nd Person,Plural,extorcati estis,extorceti estis,extorci estis,extorci estis,You (pl.) have been twisted
+Passive Indicative,Perfect,3rd Person,Singular,extorcatus est,extorcetus est,extorcus est,extorcus est,He/she/it has been twisted
+Passive Indicative,Perfect,3rd Person,Plural,extorcati sunt,extorceti sunt,extorci sunt,extorci sunt,They have been twisted
+Passive Indicative,Pluperfect,1st Person,Singular,extorcatus eram,extorcetus eram,extorcus eram,extorcus eram,I had been twisted
+Passive Indicative,Pluperfect,1st Person,Plural,extorcati eramus,extorceti eramus,extorci eramus,extorci eramus,We had been twisted
+Passive Indicative,Pluperfect,2nd Person,Singular,extorcatus eras,extorcetus eras,extorcus eras,extorcus eras,You had been twisted
+Passive Indicative,Pluperfect,2nd Person,Plural,extorcati eratis,extorceti eratis,extorci eratis,extorci eratis,You (pl.) had been twisted
+Passive Indicative,Pluperfect,3rd Person,Singular,extorcatus erat,extorcetus erat,extorcus erat,extorcus erat,He/she/it had been twisted
+Passive Indicative,Pluperfect,3rd Person,Plural,extorcati erant,extorceti erant,extorci erant,extorci erant,They had been twisted
+Passive Indicative,Future Perfect,1st Person,Singular,extorcatus ero,extorcetus ero,extorcus ero,extorcus ero,I will have been twisted
+Passive Indicative,Future Perfect,1st Person,Plural,extorcati erimus,extorceti erimus,extorci erimus,extorci erimus,We will have been twisted
+Passive Indicative,Future Perfect,2nd Person,Singular,extorcatus eris,extorcetus eris,extorcus eris,extorcus eris,You will have been twisted
+Passive Indicative,Future Perfect,2nd Person,Plural,extorcati eritis,extorceti eritis,extorci eritis,extorci eritis,You (pl.) will have been twisted
+Passive Indicative,Future Perfect,3rd Person,Singular,extorcatus erit,extorcetus erit,extorcus erit,extorcus erit,He/she/it will have been twisted
+Passive Indicative,Future Perfect,3rd Person,Plural,extorcati erunt,extorceti erunt,extorci erunt,extorci erunt,They will have been twisted
+Active Subjunctive,Present,1st Person,Singular,extorcem,extorcem,extorcam,extorcam,I may twist
+Active Subjunctive,Present,1st Person,Plural,extorcemus,extorcemus,extorcamus,extorcamus,We may twist
+Active Subjunctive,Present,2nd Person,Singular,extorces,extorces,extorcas,extorcas,You may twist
+Active Subjunctive,Present,2nd Person,Plural,extorcetis,extorcetis,extorcatis,extorcatis,You (pl.) may twist
+Active Subjunctive,Present,3rd Person,Singular,extorcet,extorcet,extorcat,extorcat,He/she/it may twist
+Active Subjunctive,Present,3rd Person,Plural,extorcent,extorcent,extorcant,extorcant,They may twist
+Active Subjunctive,Imperfect,1st Person,Singular,extorcarem,extorcerem,extorcerem,extorcirem,I should twist
+Active Subjunctive,Imperfect,1st Person,Plural,extorcaremus,extorceremus,extorceremus,extorciremus,We should twist
+Active Subjunctive,Imperfect,2nd Person,Singular,extorcares,extorceres,extorceres,extorcires,You should twist
+Active Subjunctive,Imperfect,2nd Person,Plural,extorcaretis,extorceretis,extorceretis,extorciretis,You (pl.) should twist
+Active Subjunctive,Imperfect,3rd Person,Singular,extorcaret,extorceret,extorceret,extorciret,He/she/it should twist
+Active Subjunctive,Imperfect,3rd Person,Plural,extorcarent,extorcerent,extorcerent,extorcirent,They should twist
+Active Subjunctive,Perfect,1st Person,Singular,extorcerim,extorcuerim,extorcerim,extorcierim,I may have twisted
+Active Subjunctive,Perfect,1st Person,Plural,extorcerimus,extorcuerimus,extorcerimus,extorcierimus,We may have twisted
+Active Subjunctive,Perfect,2nd Person,Singular,extorceris,extorcueris,extorceris,extorcieris,You may have twisted
+Active Subjunctive,Perfect,2nd Person,Plural,extorceritis,extorcueritis,extorceritis,extorcieritis,You (pl.) may have twisted
+Active Subjunctive,Perfect,3rd Person,Singular,extorcerit,extorcuerit,extorcerit,extorcierit,He/she/it may have twisted
+Active Subjunctive,Perfect,3rd Person,Plural,extorcerint,extorcuerint,extorcerint,extorcierint,They may have twisted
+Active Subjunctive,Pluperfect,1st Person,Singular,extorcissem,extorcuissem,extorcissem,extorcissem,I should have twisted
+Active Subjunctive,Pluperfect,1st Person,Plural,extorcissemus,extorcuissemus,extorcissemus,extorcissemus,We should have twisted
+Active Subjunctive,Pluperfect,2nd Person,Singular,extorcisses,extorcuisses,extorcisses,extorcisses,You would have twisted
+Active Subjunctive,Pluperfect,2nd Person,Plural,extorcissetis,extorcuissetis,extorcissetis,extorcissetis,You (pl.) would have twisted
+Active Subjunctive,Pluperfect,3rd Person,Singular,extorcisset,extorcuisset,extorcisset,extorcisset,He/she/it would have twisted
+Active Subjunctive,Pluperfect,3rd Person,Plural,extorcissent,extorcuissent,extorcissent,extorcissent,They would have twisted
+Passive Subjunctive,Present,1st Person,Singular,extorcer,extorcer,extorcar,extorcar,I may be twisted
+Passive Subjunctive,Present,1st Person,Plural,extorcemur,extorcemur,extorcamur,extorcamur,We may be twisted
+Passive Subjunctive,Present,2nd Person,Singular,extorceris,extorceris,extorcaris,extorcaris,You may be twisted
+Passive Subjunctive,Present,2nd Person,Plural,extorcemini,extorcemini,extorcamini,extorcamini,You (pl.) may be twisted
+Passive Subjunctive,Present,3rd Person,Singular,extorcetur,extorcetur,extorcatur,extorcatur,He/she/it may be twisted
+Passive Subjunctive,Present,3rd Person,Plural,extorcentur,extorcentur,extorcantur,extorcantur,They may be twisted
+Passive Subjunctive,Imperfect,1st Person,Singular,extorcarer,extorcerer,extorcerer,extorcirer,I should be twisted
+Passive Subjunctive,Imperfect,1st Person,Plural,extorcaremur,extorceremur,extorceremur,extorciremur,We should be twisted
+Passive Subjunctive,Imperfect,2nd Person,Singular,extorcareris,extorcereris,extorcereris,extorcireris,You would be twisted
+Passive Subjunctive,Imperfect,2nd Person,Plural,extorcaremini,extorceremini,extorceremini,extorciremini,You (pl.) would be twisted
+Passive Subjunctive,Imperfect,3rd Person,Singular,extorcaretur,extorceretur,extorceretur,extorciretur,He/she/it would be twisted
+Passive Subjunctive,Imperfect,3rd Person,Plural,extorcarentur,extorcerentur,extorcerentur,extorcirentur,They would be twisted
+Passive Subjunctive,Perfect,1st Person,Singular,extorcatus sim,extorcetus sim,extorcus sim,extorcus sim,I may have been twisted
+Passive Subjunctive,Perfect,1st Person,Plural,extorcati simus,extorceti simus,extorci simus,extorci simus,We may have been twisted
+Passive Subjunctive,Perfect,2nd Person,Singular,extorcatus sis,extorcetus sis,extorcus sis,extorcus sis,You may have been twisted
+Passive Subjunctive,Perfect,2nd Person,Plural,extorcati sitis,extorceti sitis,extorci sitis,extorci sitis,You (pl.) may have been twisted
+Passive Subjunctive,Perfect,3rd Person,Singular,extorcatus sit,extorcetus sit,extorcus sit,extorcus sit,He/she/it may have been twisted
+Passive Subjunctive,Perfect,3rd Person,Plural,extorcati sint,extorceti sint,extorci sint,extorci sint,They may have been twisted
+Passive Subjunctive,Pluperfect,1st Person,Singular,extorcatus essem,extorcetus essem,extorcus essem,extorcus essem,I should have been twisted
+Passive Subjunctive,Pluperfect,1st Person,Plural,extorcati essemus,extorceti essemus,extorci essemus,extorci essemus,We should have been twisted
+Passive Subjunctive,Pluperfect,2nd Person,Singular,extorcatus esses,extorcetus esses,extorcus esses,extorcus esses,You would have been twisted
+Passive Subjunctive,Pluperfect,2nd Person,Plural,extorcati essetis,extorceti essetis,extorci essetis,extorci essetis,You (pl.) would have been twisted
+Passive Subjunctive,Pluperfect,3rd Person,Singular,extorcatus esset,extorcetus esset,extorcus esset,extorcus esset,He/she/it would have been twisted
+Passive Subjunctive,Pluperfect,3rd Person,Plural,extorcati essent,extorceti essent,extorci essent,extorci essent,They would have been twisted

@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,fallo,falleo,fallo,fallio,I fail
+Active Indicative,Present,1st Person,Plural,fallamus,fallemus,fallimus,fallimus,We fail
+Active Indicative,Present,2nd Person,Singular,fallas,falles,fallis,fallis,You fail
+Active Indicative,Present,2nd Person,Plural,fallatis,falletis,fallitis,fallitis,You (pl.) fail
+Active Indicative,Present,3rd Person,Singular,fallat,fallet,fallit,fallit,He/she/it fail
+Active Indicative,Present,3rd Person,Plural,fallant,fallent,falliunt,falliunt,They fail
+Active Indicative,Imperfect,1st Person,Singular,fallabam,fallebam,fallebam,falliebam,I was failing
+Active Indicative,Imperfect,1st Person,Plural,fallabamus,fallebamus,fallebamus,falliebamus,We were failing
+Active Indicative,Imperfect,2nd Person,Singular,fallabas,fallebas,fallebas,falliebas,You were failing
+Active Indicative,Imperfect,2nd Person,Plural,fallabatis,fallebatis,fallebatis,falliebatis,You (pl.) were failing
+Active Indicative,Imperfect,3rd Person,Singular,fallabat,fallebat,fallebat,falliebat,He/she/it was failing
+Active Indicative,Imperfect,3rd Person,Plural,fallabant,fallebant,fallebant,falliebant,They were failing
+Active Indicative,Future,1st Person,Singular,fallabo,fallebo,fallam,falliam,I will fail
+Active Indicative,Future,1st Person,Plural,fallabimus,fallebimus,fallemus,falliemus,We will fail
+Active Indicative,Future,2nd Person,Singular,fallabis,fallebis,falles,fallies,You will fail
+Active Indicative,Future,2nd Person,Plural,fallabitis,fallebitis,falletis,fallietis,You (pl.) will fail
+Active Indicative,Future,3rd Person,Singular,fallabit,fallebit,fallet,falliet,He/she/it will fail
+Active Indicative,Future,3rd Person,Plural,fallabunt,fallebunt,fallent,fallient,They will fail
+Active Indicative,Perfect,1st Person,Singular,fallavi,fallui,falli,falli,I have failed
+Active Indicative,Perfect,1st Person,Plural,fallavimus,falluimus,fallimus,fallimus,We have failed
+Active Indicative,Perfect,2nd Person,Singular,fallavisti,falluisti,fallisti,fallisti,You have failed
+Active Indicative,Perfect,2nd Person,Plural,fallavistis,falluistis,fallistis,fallistis,You (pl.) have failed
+Active Indicative,Perfect,3rd Person,Singular,fallavit,falluit,fallit,fallit,He/she/it has failed
+Active Indicative,Perfect,3rd Person,Plural,fallaverunt,falluerunt,fallerunt,fallerunt,They have failed
+Active Indicative,Pluperfect,1st Person,Singular,fallaveram,fallueram,falleram,falleram,I had failed
+Active Indicative,Pluperfect,1st Person,Plural,fallaveramus,fallueramus,falleramus,falleramus,We had failed
+Active Indicative,Pluperfect,2nd Person,Singular,fallaveras,fallueras,falleras,falleras,You had failed
+Active Indicative,Pluperfect,2nd Person,Plural,fallaveratis,fallueratis,falleratis,falleratis,You (pl.) had failed
+Active Indicative,Pluperfect,3rd Person,Singular,fallaverat,falluerat,fallerat,fallerat,He/she/it had failed
+Active Indicative,Pluperfect,3rd Person,Plural,fallaverant,falluerant,fallerant,fallerant,They had failed
+Active Indicative,Future Perfect,1st Person,Singular,fallavero,fallueero,fallero,falliero,I will have failed
+Active Indicative,Future Perfect,1st Person,Plural,fallaverimus,falluerimus,fallerimus,fallierimus,We will have failed
+Active Indicative,Future Perfect,2nd Person,Singular,fallaveris,fallueris,falleris,fallieris,You will have failed
+Active Indicative,Future Perfect,2nd Person,Plural,fallaveritis,fallueritis,falleritis,fallieritis,You (pl.) will have failed
+Active Indicative,Future Perfect,3rd Person,Singular,fallaverit,falluerit,fallerit,fallierit,He/she/it will have failed
+Active Indicative,Future Perfect,3rd Person,Plural,fallaverint,falluerint,fallerint,fallierint,They will have failed
+Passive Indicative,Present,1st Person,Singular,fallor,falleor,fallor,fallior,I am being failed
+Passive Indicative,Present,1st Person,Plural,fallamur,fallemur,fallimur,fallimur,We are being failed
+Passive Indicative,Present,2nd Person,Singular,fallaris,falleris,falliris,falliris,You are being failed
+Passive Indicative,Present,2nd Person,Plural,fallamini,fallemini,fallimini,fallimini,You (pl.) are being failed
+Passive Indicative,Present,3rd Person,Singular,fallatur,falletur,fallitur,fallitur,He/she/it is being failed
+Passive Indicative,Present,3rd Person,Plural,fallantur,fallentur,falliuntur,falliuntur,They are being failed
+Passive Indicative,Imperfect,1st Person,Singular,fallabar,fallebar,fallebar,falliebar,I was failed
+Passive Indicative,Imperfect,1st Person,Plural,fallabamur,fallebamur,fallebamur,falliebamur,We were failed
+Passive Indicative,Imperfect,2nd Person,Singular,fallabaris,fallebaris,fallebaris,falliebaris,You were failed
+Passive Indicative,Imperfect,2nd Person,Plural,fallabamini,fallebamini,fallebamini,falliebamini,You (pl.) were failed
+Passive Indicative,Imperfect,3rd Person,Singular,fallabatur,fallebatur,fallebatur,falliebatur,He/she/it was failed
+Passive Indicative,Imperfect,3rd Person,Plural,fallabantur,fallebantur,fallebantur,falliebantur,They were failed
+Passive Indicative,Future,1st Person,Singular,fallabor,fallebor,fallar,falliar,I will be failed
+Passive Indicative,Future,1st Person,Plural,fallabimur,fallebimur,fallemur,falliemur,We will be failed
+Passive Indicative,Future,2nd Person,Singular,fallaberis,falleberis,falleris,fallieris,You will be failed
+Passive Indicative,Future,2nd Person,Plural,fallabimini,fallebimini,fallemini,falliemini,You (pl.) will be failed
+Passive Indicative,Future,3rd Person,Singular,fallabitur,fallebitur,falletur,fallietur,He/she/it will be failed
+Passive Indicative,Future,3rd Person,Plural,fallabuntur,fallebuntur,fallentur,fallientur,They will be failed
+Passive Indicative,Perfect,1st Person,Singular,fallatus sum,falletus sum,fallus sum,fallus sum,I have been failed
+Passive Indicative,Perfect,1st Person,Plural,fallati sumus,falleti sumus,falli sumus,falli sumus,We have been failed
+Passive Indicative,Perfect,2nd Person,Singular,fallatus es,falletus es,fallus es,fallus es,You have been failed
+Passive Indicative,Perfect,2nd Person,Plural,fallati estis,falleti estis,falli estis,falli estis,You (pl.) have been failed
+Passive Indicative,Perfect,3rd Person,Singular,fallatus est,falletus est,fallus est,fallus est,He/she/it has been failed
+Passive Indicative,Perfect,3rd Person,Plural,fallati sunt,falleti sunt,falli sunt,falli sunt,They have been failed
+Passive Indicative,Pluperfect,1st Person,Singular,fallatus eram,falletus eram,fallus eram,fallus eram,I had been failed
+Passive Indicative,Pluperfect,1st Person,Plural,fallati eramus,falleti eramus,falli eramus,falli eramus,We had been failed
+Passive Indicative,Pluperfect,2nd Person,Singular,fallatus eras,falletus eras,fallus eras,fallus eras,You had been failed
+Passive Indicative,Pluperfect,2nd Person,Plural,fallati eratis,falleti eratis,falli eratis,falli eratis,You (pl.) had been failed
+Passive Indicative,Pluperfect,3rd Person,Singular,fallatus erat,falletus erat,fallus erat,fallus erat,He/she/it had been failed
+Passive Indicative,Pluperfect,3rd Person,Plural,fallati erant,falleti erant,falli erant,falli erant,They had been failed
+Passive Indicative,Future Perfect,1st Person,Singular,fallatus ero,falletus ero,fallus ero,fallus ero,I will have been failed
+Passive Indicative,Future Perfect,1st Person,Plural,fallati erimus,falleti erimus,falli erimus,falli erimus,We will have been failed
+Passive Indicative,Future Perfect,2nd Person,Singular,fallatus eris,falletus eris,fallus eris,fallus eris,You will have been failed
+Passive Indicative,Future Perfect,2nd Person,Plural,fallati eritis,falleti eritis,falli eritis,falli eritis,You (pl.) will have been failed
+Passive Indicative,Future Perfect,3rd Person,Singular,fallatus erit,falletus erit,fallus erit,fallus erit,He/she/it will have been failed
+Passive Indicative,Future Perfect,3rd Person,Plural,fallati erunt,falleti erunt,falli erunt,falli erunt,They will have been failed
+Active Subjunctive,Present,1st Person,Singular,fallem,fallem,fallam,fallam,I may fail
+Active Subjunctive,Present,1st Person,Plural,fallemus,fallemus,fallamus,fallamus,We may fail
+Active Subjunctive,Present,2nd Person,Singular,falles,falles,fallas,fallas,You may fail
+Active Subjunctive,Present,2nd Person,Plural,falletis,falletis,fallatis,fallatis,You (pl.) may fail
+Active Subjunctive,Present,3rd Person,Singular,fallet,fallet,fallat,fallat,He/she/it may fail
+Active Subjunctive,Present,3rd Person,Plural,fallent,fallent,fallant,fallant,They may fail
+Active Subjunctive,Imperfect,1st Person,Singular,fallarem,fallerem,fallerem,fallirem,I should fail
+Active Subjunctive,Imperfect,1st Person,Plural,fallaremus,falleremus,falleremus,falliremus,We should fail
+Active Subjunctive,Imperfect,2nd Person,Singular,fallares,falleres,falleres,fallires,You should fail
+Active Subjunctive,Imperfect,2nd Person,Plural,fallaretis,falleretis,falleretis,falliretis,You (pl.) should fail
+Active Subjunctive,Imperfect,3rd Person,Singular,fallaret,falleret,falleret,falliret,He/she/it should fail
+Active Subjunctive,Imperfect,3rd Person,Plural,fallarent,fallerent,fallerent,fallirent,They should fail
+Active Subjunctive,Perfect,1st Person,Singular,fallerim,falluerim,fallerim,fallierim,I may have failed
+Active Subjunctive,Perfect,1st Person,Plural,fallerimus,falluerimus,fallerimus,fallierimus,We may have failed
+Active Subjunctive,Perfect,2nd Person,Singular,falleris,fallueris,falleris,fallieris,You may have failed
+Active Subjunctive,Perfect,2nd Person,Plural,falleritis,fallueritis,falleritis,fallieritis,You (pl.) may have failed
+Active Subjunctive,Perfect,3rd Person,Singular,fallerit,falluerit,fallerit,fallierit,He/she/it may have failed
+Active Subjunctive,Perfect,3rd Person,Plural,fallerint,falluerint,fallerint,fallierint,They may have failed
+Active Subjunctive,Pluperfect,1st Person,Singular,fallissem,falluissem,fallissem,fallissem,I should have failed
+Active Subjunctive,Pluperfect,1st Person,Plural,fallissemus,falluissemus,fallissemus,fallissemus,We should have failed
+Active Subjunctive,Pluperfect,2nd Person,Singular,fallisses,falluisses,fallisses,fallisses,You would have failed
+Active Subjunctive,Pluperfect,2nd Person,Plural,fallissetis,falluissetis,fallissetis,fallissetis,You (pl.) would have failed
+Active Subjunctive,Pluperfect,3rd Person,Singular,fallisset,falluisset,fallisset,fallisset,He/she/it would have failed
+Active Subjunctive,Pluperfect,3rd Person,Plural,fallissent,falluissent,fallissent,fallissent,They would have failed
+Passive Subjunctive,Present,1st Person,Singular,faller,faller,fallar,fallar,I may be failed
+Passive Subjunctive,Present,1st Person,Plural,fallemur,fallemur,fallamur,fallamur,We may be failed
+Passive Subjunctive,Present,2nd Person,Singular,falleris,falleris,fallaris,fallaris,You may be failed
+Passive Subjunctive,Present,2nd Person,Plural,fallemini,fallemini,fallamini,fallamini,You (pl.) may be failed
+Passive Subjunctive,Present,3rd Person,Singular,falletur,falletur,fallatur,fallatur,He/she/it may be failed
+Passive Subjunctive,Present,3rd Person,Plural,fallentur,fallentur,fallantur,fallantur,They may be failed
+Passive Subjunctive,Imperfect,1st Person,Singular,fallarer,fallerer,fallerer,fallirer,I should be failed
+Passive Subjunctive,Imperfect,1st Person,Plural,fallaremur,falleremur,falleremur,falliremur,We should be failed
+Passive Subjunctive,Imperfect,2nd Person,Singular,fallareris,fallereris,fallereris,fallireris,You would be failed
+Passive Subjunctive,Imperfect,2nd Person,Plural,fallaremini,falleremini,falleremini,falliremini,You (pl.) would be failed
+Passive Subjunctive,Imperfect,3rd Person,Singular,fallaretur,falleretur,falleretur,falliretur,He/she/it would be failed
+Passive Subjunctive,Imperfect,3rd Person,Plural,fallarentur,fallerentur,fallerentur,fallirentur,They would be failed
+Passive Subjunctive,Perfect,1st Person,Singular,fallatus sim,falletus sim,fallus sim,fallus sim,I may have been failed
+Passive Subjunctive,Perfect,1st Person,Plural,fallati simus,falleti simus,falli simus,falli simus,We may have been failed
+Passive Subjunctive,Perfect,2nd Person,Singular,fallatus sis,falletus sis,fallus sis,fallus sis,You may have been failed
+Passive Subjunctive,Perfect,2nd Person,Plural,fallati sitis,falleti sitis,falli sitis,falli sitis,You (pl.) may have been failed
+Passive Subjunctive,Perfect,3rd Person,Singular,fallatus sit,falletus sit,fallus sit,fallus sit,He/she/it may have been failed
+Passive Subjunctive,Perfect,3rd Person,Plural,fallati sint,falleti sint,falli sint,falli sint,They may have been failed
+Passive Subjunctive,Pluperfect,1st Person,Singular,fallatus essem,falletus essem,fallus essem,fallus essem,I should have been failed
+Passive Subjunctive,Pluperfect,1st Person,Plural,fallati essemus,falleti essemus,falli essemus,falli essemus,We should have been failed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,fallatus esses,falletus esses,fallus esses,fallus esses,You would have been failed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,fallati essetis,falleti essetis,falli essetis,falli essetis,You (pl.) would have been failed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,fallatus esset,falletus esset,fallus esset,fallus esset,He/she/it would have been failed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,fallati essent,falleti essent,falli essent,falli essent,They would have been failed

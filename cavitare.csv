@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,cavito,caviteo,cavito,cavitio,I watch out
+Active Indicative,Present,1st Person,Plural,cavitamus,cavitemus,cavitimus,cavitimus,We watch out
+Active Indicative,Present,2nd Person,Singular,cavitas,cavites,cavitis,cavitis,You watch out
+Active Indicative,Present,2nd Person,Plural,cavitatis,cavitetis,cavititis,cavititis,You (pl.) watch out
+Active Indicative,Present,3rd Person,Singular,cavitat,cavitet,cavitit,cavitit,He/she/it watch out
+Active Indicative,Present,3rd Person,Plural,cavitant,cavitent,cavitiunt,cavitiunt,They watch out
+Active Indicative,Imperfect,1st Person,Singular,cavitabam,cavitebam,cavitebam,cavitiebam,I was watch outing
+Active Indicative,Imperfect,1st Person,Plural,cavitabamus,cavitebamus,cavitebamus,cavitiebamus,We were watch outing
+Active Indicative,Imperfect,2nd Person,Singular,cavitabas,cavitebas,cavitebas,cavitiebas,You were watch outing
+Active Indicative,Imperfect,2nd Person,Plural,cavitabatis,cavitebatis,cavitebatis,cavitiebatis,You (pl.) were watch outing
+Active Indicative,Imperfect,3rd Person,Singular,cavitabat,cavitebat,cavitebat,cavitiebat,He/she/it was watch outing
+Active Indicative,Imperfect,3rd Person,Plural,cavitabant,cavitebant,cavitebant,cavitiebant,They were watch outing
+Active Indicative,Future,1st Person,Singular,cavitabo,cavitebo,cavitam,cavitiam,I will watch out
+Active Indicative,Future,1st Person,Plural,cavitabimus,cavitebimus,cavitemus,cavitiemus,We will watch out
+Active Indicative,Future,2nd Person,Singular,cavitabis,cavitebis,cavites,cavities,You will watch out
+Active Indicative,Future,2nd Person,Plural,cavitabitis,cavitebitis,cavitetis,cavitietis,You (pl.) will watch out
+Active Indicative,Future,3rd Person,Singular,cavitabit,cavitebit,cavitet,cavitiet,He/she/it will watch out
+Active Indicative,Future,3rd Person,Plural,cavitabunt,cavitebunt,cavitent,cavitient,They will watch out
+Active Indicative,Perfect,1st Person,Singular,cavitavi,cavitui,caviti,caviti,I have watch outed
+Active Indicative,Perfect,1st Person,Plural,cavitavimus,cavituimus,cavitimus,cavitimus,We have watch outed
+Active Indicative,Perfect,2nd Person,Singular,cavitavisti,cavituisti,cavitisti,cavitisti,You have watch outed
+Active Indicative,Perfect,2nd Person,Plural,cavitavistis,cavituistis,cavitistis,cavitistis,You (pl.) have watch outed
+Active Indicative,Perfect,3rd Person,Singular,cavitavit,cavituit,cavitit,cavitit,He/she/it has watch outed
+Active Indicative,Perfect,3rd Person,Plural,cavitaverunt,cavituerunt,caviterunt,caviterunt,They have watch outed
+Active Indicative,Pluperfect,1st Person,Singular,cavitaveram,cavitueram,caviteram,caviteram,I had watch outed
+Active Indicative,Pluperfect,1st Person,Plural,cavitaveramus,cavitueramus,caviteramus,caviteramus,We had watch outed
+Active Indicative,Pluperfect,2nd Person,Singular,cavitaveras,cavitueras,caviteras,caviteras,You had watch outed
+Active Indicative,Pluperfect,2nd Person,Plural,cavitaveratis,cavitueratis,caviteratis,caviteratis,You (pl.) had watch outed
+Active Indicative,Pluperfect,3rd Person,Singular,cavitaverat,cavituerat,caviterat,caviterat,He/she/it had watch outed
+Active Indicative,Pluperfect,3rd Person,Plural,cavitaverant,cavituerant,caviterant,caviterant,They had watch outed
+Active Indicative,Future Perfect,1st Person,Singular,cavitavero,cavitueero,cavitero,cavitiero,I will have watch outed
+Active Indicative,Future Perfect,1st Person,Plural,cavitaverimus,cavituerimus,caviterimus,cavitierimus,We will have watch outed
+Active Indicative,Future Perfect,2nd Person,Singular,cavitaveris,cavitueris,caviteris,cavitieris,You will have watch outed
+Active Indicative,Future Perfect,2nd Person,Plural,cavitaveritis,cavitueritis,caviteritis,cavitieritis,You (pl.) will have watch outed
+Active Indicative,Future Perfect,3rd Person,Singular,cavitaverit,cavituerit,caviterit,cavitierit,He/she/it will have watch outed
+Active Indicative,Future Perfect,3rd Person,Plural,cavitaverint,cavituerint,caviterint,cavitierint,They will have watch outed
+Passive Indicative,Present,1st Person,Singular,cavitor,caviteor,cavitor,cavitior,I am being watch outed
+Passive Indicative,Present,1st Person,Plural,cavitamur,cavitemur,cavitimur,cavitimur,We are being watch outed
+Passive Indicative,Present,2nd Person,Singular,cavitaris,caviteris,cavitiris,cavitiris,You are being watch outed
+Passive Indicative,Present,2nd Person,Plural,cavitamini,cavitemini,cavitimini,cavitimini,You (pl.) are being watch outed
+Passive Indicative,Present,3rd Person,Singular,cavitatur,cavitetur,cavititur,cavititur,He/she/it is being watch outed
+Passive Indicative,Present,3rd Person,Plural,cavitantur,cavitentur,cavitiuntur,cavitiuntur,They are being watch outed
+Passive Indicative,Imperfect,1st Person,Singular,cavitabar,cavitebar,cavitebar,cavitiebar,I was watch outed
+Passive Indicative,Imperfect,1st Person,Plural,cavitabamur,cavitebamur,cavitebamur,cavitiebamur,We were watch outed
+Passive Indicative,Imperfect,2nd Person,Singular,cavitabaris,cavitebaris,cavitebaris,cavitiebaris,You were watch outed
+Passive Indicative,Imperfect,2nd Person,Plural,cavitabamini,cavitebamini,cavitebamini,cavitiebamini,You (pl.) were watch outed
+Passive Indicative,Imperfect,3rd Person,Singular,cavitabatur,cavitebatur,cavitebatur,cavitiebatur,He/she/it was watch outed
+Passive Indicative,Imperfect,3rd Person,Plural,cavitabantur,cavitebantur,cavitebantur,cavitiebantur,They were watch outed
+Passive Indicative,Future,1st Person,Singular,cavitabor,cavitebor,cavitar,cavitiar,I will be watch outed
+Passive Indicative,Future,1st Person,Plural,cavitabimur,cavitebimur,cavitemur,cavitiemur,We will be watch outed
+Passive Indicative,Future,2nd Person,Singular,cavitaberis,caviteberis,caviteris,cavitieris,You will be watch outed
+Passive Indicative,Future,2nd Person,Plural,cavitabimini,cavitebimini,cavitemini,cavitiemini,You (pl.) will be watch outed
+Passive Indicative,Future,3rd Person,Singular,cavitabitur,cavitebitur,cavitetur,cavitietur,He/she/it will be watch outed
+Passive Indicative,Future,3rd Person,Plural,cavitabuntur,cavitebuntur,cavitentur,cavitientur,They will be watch outed
+Passive Indicative,Perfect,1st Person,Singular,cavitatus sum,cavitetus sum,cavitus sum,cavitus sum,I have been watch outed
+Passive Indicative,Perfect,1st Person,Plural,cavitati sumus,caviteti sumus,caviti sumus,caviti sumus,We have been watch outed
+Passive Indicative,Perfect,2nd Person,Singular,cavitatus es,cavitetus es,cavitus es,cavitus es,You have been watch outed
+Passive Indicative,Perfect,2nd Person,Plural,cavitati estis,caviteti estis,caviti estis,caviti estis,You (pl.) have been watch outed
+Passive Indicative,Perfect,3rd Person,Singular,cavitatus est,cavitetus est,cavitus est,cavitus est,He/she/it has been watch outed
+Passive Indicative,Perfect,3rd Person,Plural,cavitati sunt,caviteti sunt,caviti sunt,caviti sunt,They have been watch outed
+Passive Indicative,Pluperfect,1st Person,Singular,cavitatus eram,cavitetus eram,cavitus eram,cavitus eram,I had been watch outed
+Passive Indicative,Pluperfect,1st Person,Plural,cavitati eramus,caviteti eramus,caviti eramus,caviti eramus,We had been watch outed
+Passive Indicative,Pluperfect,2nd Person,Singular,cavitatus eras,cavitetus eras,cavitus eras,cavitus eras,You had been watch outed
+Passive Indicative,Pluperfect,2nd Person,Plural,cavitati eratis,caviteti eratis,caviti eratis,caviti eratis,You (pl.) had been watch outed
+Passive Indicative,Pluperfect,3rd Person,Singular,cavitatus erat,cavitetus erat,cavitus erat,cavitus erat,He/she/it had been watch outed
+Passive Indicative,Pluperfect,3rd Person,Plural,cavitati erant,caviteti erant,caviti erant,caviti erant,They had been watch outed
+Passive Indicative,Future Perfect,1st Person,Singular,cavitatus ero,cavitetus ero,cavitus ero,cavitus ero,I will have been watch outed
+Passive Indicative,Future Perfect,1st Person,Plural,cavitati erimus,caviteti erimus,caviti erimus,caviti erimus,We will have been watch outed
+Passive Indicative,Future Perfect,2nd Person,Singular,cavitatus eris,cavitetus eris,cavitus eris,cavitus eris,You will have been watch outed
+Passive Indicative,Future Perfect,2nd Person,Plural,cavitati eritis,caviteti eritis,caviti eritis,caviti eritis,You (pl.) will have been watch outed
+Passive Indicative,Future Perfect,3rd Person,Singular,cavitatus erit,cavitetus erit,cavitus erit,cavitus erit,He/she/it will have been watch outed
+Passive Indicative,Future Perfect,3rd Person,Plural,cavitati erunt,caviteti erunt,caviti erunt,caviti erunt,They will have been watch outed
+Active Subjunctive,Present,1st Person,Singular,cavitem,cavitem,cavitam,cavitam,I may watch out
+Active Subjunctive,Present,1st Person,Plural,cavitemus,cavitemus,cavitamus,cavitamus,We may watch out
+Active Subjunctive,Present,2nd Person,Singular,cavites,cavites,cavitas,cavitas,You may watch out
+Active Subjunctive,Present,2nd Person,Plural,cavitetis,cavitetis,cavitatis,cavitatis,You (pl.) may watch out
+Active Subjunctive,Present,3rd Person,Singular,cavitet,cavitet,cavitat,cavitat,He/she/it may watch out
+Active Subjunctive,Present,3rd Person,Plural,cavitent,cavitent,cavitant,cavitant,They may watch out
+Active Subjunctive,Imperfect,1st Person,Singular,cavitarem,caviterem,caviterem,cavitirem,I should watch out
+Active Subjunctive,Imperfect,1st Person,Plural,cavitaremus,caviteremus,caviteremus,cavitiremus,We should watch out
+Active Subjunctive,Imperfect,2nd Person,Singular,cavitares,caviteres,caviteres,cavitires,You should watch out
+Active Subjunctive,Imperfect,2nd Person,Plural,cavitaretis,caviteretis,caviteretis,cavitiretis,You (pl.) should watch out
+Active Subjunctive,Imperfect,3rd Person,Singular,cavitaret,caviteret,caviteret,cavitiret,He/she/it should watch out
+Active Subjunctive,Imperfect,3rd Person,Plural,cavitarent,caviterent,caviterent,cavitirent,They should watch out
+Active Subjunctive,Perfect,1st Person,Singular,caviterim,cavituerim,caviterim,cavitierim,I may have watch outed
+Active Subjunctive,Perfect,1st Person,Plural,caviterimus,cavituerimus,caviterimus,cavitierimus,We may have watch outed
+Active Subjunctive,Perfect,2nd Person,Singular,caviteris,cavitueris,caviteris,cavitieris,You may have watch outed
+Active Subjunctive,Perfect,2nd Person,Plural,caviteritis,cavitueritis,caviteritis,cavitieritis,You (pl.) may have watch outed
+Active Subjunctive,Perfect,3rd Person,Singular,caviterit,cavituerit,caviterit,cavitierit,He/she/it may have watch outed
+Active Subjunctive,Perfect,3rd Person,Plural,caviterint,cavituerint,caviterint,cavitierint,They may have watch outed
+Active Subjunctive,Pluperfect,1st Person,Singular,cavitissem,cavituissem,cavitissem,cavitissem,I should have watch outed
+Active Subjunctive,Pluperfect,1st Person,Plural,cavitissemus,cavituissemus,cavitissemus,cavitissemus,We should have watch outed
+Active Subjunctive,Pluperfect,2nd Person,Singular,cavitisses,cavituisses,cavitisses,cavitisses,You would have watch outed
+Active Subjunctive,Pluperfect,2nd Person,Plural,cavitissetis,cavituissetis,cavitissetis,cavitissetis,You (pl.) would have watch outed
+Active Subjunctive,Pluperfect,3rd Person,Singular,cavitisset,cavituisset,cavitisset,cavitisset,He/she/it would have watch outed
+Active Subjunctive,Pluperfect,3rd Person,Plural,cavitissent,cavituissent,cavitissent,cavitissent,They would have watch outed
+Passive Subjunctive,Present,1st Person,Singular,caviter,caviter,cavitar,cavitar,I may be watch outed
+Passive Subjunctive,Present,1st Person,Plural,cavitemur,cavitemur,cavitamur,cavitamur,We may be watch outed
+Passive Subjunctive,Present,2nd Person,Singular,caviteris,caviteris,cavitaris,cavitaris,You may be watch outed
+Passive Subjunctive,Present,2nd Person,Plural,cavitemini,cavitemini,cavitamini,cavitamini,You (pl.) may be watch outed
+Passive Subjunctive,Present,3rd Person,Singular,cavitetur,cavitetur,cavitatur,cavitatur,He/she/it may be watch outed
+Passive Subjunctive,Present,3rd Person,Plural,cavitentur,cavitentur,cavitantur,cavitantur,They may be watch outed
+Passive Subjunctive,Imperfect,1st Person,Singular,cavitarer,caviterer,caviterer,cavitirer,I should be watch outed
+Passive Subjunctive,Imperfect,1st Person,Plural,cavitaremur,caviteremur,caviteremur,cavitiremur,We should be watch outed
+Passive Subjunctive,Imperfect,2nd Person,Singular,cavitareris,cavitereris,cavitereris,cavitireris,You would be watch outed
+Passive Subjunctive,Imperfect,2nd Person,Plural,cavitaremini,caviteremini,caviteremini,cavitiremini,You (pl.) would be watch outed
+Passive Subjunctive,Imperfect,3rd Person,Singular,cavitaretur,caviteretur,caviteretur,cavitiretur,He/she/it would be watch outed
+Passive Subjunctive,Imperfect,3rd Person,Plural,cavitarentur,caviterentur,caviterentur,cavitirentur,They would be watch outed
+Passive Subjunctive,Perfect,1st Person,Singular,cavitatus sim,cavitetus sim,cavitus sim,cavitus sim,I may have been watch outed
+Passive Subjunctive,Perfect,1st Person,Plural,cavitati simus,caviteti simus,caviti simus,caviti simus,We may have been watch outed
+Passive Subjunctive,Perfect,2nd Person,Singular,cavitatus sis,cavitetus sis,cavitus sis,cavitus sis,You may have been watch outed
+Passive Subjunctive,Perfect,2nd Person,Plural,cavitati sitis,caviteti sitis,caviti sitis,caviti sitis,You (pl.) may have been watch outed
+Passive Subjunctive,Perfect,3rd Person,Singular,cavitatus sit,cavitetus sit,cavitus sit,cavitus sit,He/she/it may have been watch outed
+Passive Subjunctive,Perfect,3rd Person,Plural,cavitati sint,caviteti sint,caviti sint,caviti sint,They may have been watch outed
+Passive Subjunctive,Pluperfect,1st Person,Singular,cavitatus essem,cavitetus essem,cavitus essem,cavitus essem,I should have been watch outed
+Passive Subjunctive,Pluperfect,1st Person,Plural,cavitati essemus,caviteti essemus,caviti essemus,caviti essemus,We should have been watch outed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,cavitatus esses,cavitetus esses,cavitus esses,cavitus esses,You would have been watch outed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,cavitati essetis,caviteti essetis,caviti essetis,caviti essetis,You (pl.) would have been watch outed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,cavitatus esset,cavitetus esset,cavitus esset,cavitus esset,He/she/it would have been watch outed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,cavitati essent,caviteti essent,caviti essent,caviti essent,They would have been watch outed

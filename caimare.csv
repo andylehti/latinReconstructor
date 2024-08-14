@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,caimo,caimeo,caimo,caimio,I burn
+Active Indicative,Present,1st Person,Plural,caimamus,caimemus,caimimus,caimimus,We burn
+Active Indicative,Present,2nd Person,Singular,caimas,caimes,caimis,caimis,You burn
+Active Indicative,Present,2nd Person,Plural,caimatis,caimetis,caimitis,caimitis,You (pl.) burn
+Active Indicative,Present,3rd Person,Singular,caimat,caimet,caimit,caimit,He/she/it burn
+Active Indicative,Present,3rd Person,Plural,caimant,caiment,caimiunt,caimiunt,They burn
+Active Indicative,Imperfect,1st Person,Singular,caimabam,caimebam,caimebam,caimiebam,I was burning
+Active Indicative,Imperfect,1st Person,Plural,caimabamus,caimebamus,caimebamus,caimiebamus,We were burning
+Active Indicative,Imperfect,2nd Person,Singular,caimabas,caimebas,caimebas,caimiebas,You were burning
+Active Indicative,Imperfect,2nd Person,Plural,caimabatis,caimebatis,caimebatis,caimiebatis,You (pl.) were burning
+Active Indicative,Imperfect,3rd Person,Singular,caimabat,caimebat,caimebat,caimiebat,He/she/it was burning
+Active Indicative,Imperfect,3rd Person,Plural,caimabant,caimebant,caimebant,caimiebant,They were burning
+Active Indicative,Future,1st Person,Singular,caimabo,caimebo,caimam,caimiam,I will burn
+Active Indicative,Future,1st Person,Plural,caimabimus,caimebimus,caimemus,caimiemus,We will burn
+Active Indicative,Future,2nd Person,Singular,caimabis,caimebis,caimes,caimies,You will burn
+Active Indicative,Future,2nd Person,Plural,caimabitis,caimebitis,caimetis,caimietis,You (pl.) will burn
+Active Indicative,Future,3rd Person,Singular,caimabit,caimebit,caimet,caimiet,He/she/it will burn
+Active Indicative,Future,3rd Person,Plural,caimabunt,caimebunt,caiment,caimient,They will burn
+Active Indicative,Perfect,1st Person,Singular,caimavi,caimui,caimi,caimi,I have burned
+Active Indicative,Perfect,1st Person,Plural,caimavimus,caimuimus,caimimus,caimimus,We have burned
+Active Indicative,Perfect,2nd Person,Singular,caimavisti,caimuisti,caimisti,caimisti,You have burned
+Active Indicative,Perfect,2nd Person,Plural,caimavistis,caimuistis,caimistis,caimistis,You (pl.) have burned
+Active Indicative,Perfect,3rd Person,Singular,caimavit,caimuit,caimit,caimit,He/she/it has burned
+Active Indicative,Perfect,3rd Person,Plural,caimaverunt,caimuerunt,caimerunt,caimerunt,They have burned
+Active Indicative,Pluperfect,1st Person,Singular,caimaveram,caimueram,caimeram,caimeram,I had burned
+Active Indicative,Pluperfect,1st Person,Plural,caimaveramus,caimueramus,caimeramus,caimeramus,We had burned
+Active Indicative,Pluperfect,2nd Person,Singular,caimaveras,caimueras,caimeras,caimeras,You had burned
+Active Indicative,Pluperfect,2nd Person,Plural,caimaveratis,caimueratis,caimeratis,caimeratis,You (pl.) had burned
+Active Indicative,Pluperfect,3rd Person,Singular,caimaverat,caimuerat,caimerat,caimerat,He/she/it had burned
+Active Indicative,Pluperfect,3rd Person,Plural,caimaverant,caimuerant,caimerant,caimerant,They had burned
+Active Indicative,Future Perfect,1st Person,Singular,caimavero,caimueero,caimero,caimiero,I will have burned
+Active Indicative,Future Perfect,1st Person,Plural,caimaverimus,caimuerimus,caimerimus,caimierimus,We will have burned
+Active Indicative,Future Perfect,2nd Person,Singular,caimaveris,caimueris,caimeris,caimieris,You will have burned
+Active Indicative,Future Perfect,2nd Person,Plural,caimaveritis,caimueritis,caimeritis,caimieritis,You (pl.) will have burned
+Active Indicative,Future Perfect,3rd Person,Singular,caimaverit,caimuerit,caimerit,caimierit,He/she/it will have burned
+Active Indicative,Future Perfect,3rd Person,Plural,caimaverint,caimuerint,caimerint,caimierint,They will have burned
+Passive Indicative,Present,1st Person,Singular,caimor,caimeor,caimor,caimior,I am being burned
+Passive Indicative,Present,1st Person,Plural,caimamur,caimemur,caimimur,caimimur,We are being burned
+Passive Indicative,Present,2nd Person,Singular,caimaris,caimeris,caimiris,caimiris,You are being burned
+Passive Indicative,Present,2nd Person,Plural,caimamini,caimemini,caimimini,caimimini,You (pl.) are being burned
+Passive Indicative,Present,3rd Person,Singular,caimatur,caimetur,caimitur,caimitur,He/she/it is being burned
+Passive Indicative,Present,3rd Person,Plural,caimantur,caimentur,caimiuntur,caimiuntur,They are being burned
+Passive Indicative,Imperfect,1st Person,Singular,caimabar,caimebar,caimebar,caimiebar,I was burned
+Passive Indicative,Imperfect,1st Person,Plural,caimabamur,caimebamur,caimebamur,caimiebamur,We were burned
+Passive Indicative,Imperfect,2nd Person,Singular,caimabaris,caimebaris,caimebaris,caimiebaris,You were burned
+Passive Indicative,Imperfect,2nd Person,Plural,caimabamini,caimebamini,caimebamini,caimiebamini,You (pl.) were burned
+Passive Indicative,Imperfect,3rd Person,Singular,caimabatur,caimebatur,caimebatur,caimiebatur,He/she/it was burned
+Passive Indicative,Imperfect,3rd Person,Plural,caimabantur,caimebantur,caimebantur,caimiebantur,They were burned
+Passive Indicative,Future,1st Person,Singular,caimabor,caimebor,caimar,caimiar,I will be burned
+Passive Indicative,Future,1st Person,Plural,caimabimur,caimebimur,caimemur,caimiemur,We will be burned
+Passive Indicative,Future,2nd Person,Singular,caimaberis,caimeberis,caimeris,caimieris,You will be burned
+Passive Indicative,Future,2nd Person,Plural,caimabimini,caimebimini,caimemini,caimiemini,You (pl.) will be burned
+Passive Indicative,Future,3rd Person,Singular,caimabitur,caimebitur,caimetur,caimietur,He/she/it will be burned
+Passive Indicative,Future,3rd Person,Plural,caimabuntur,caimebuntur,caimentur,caimientur,They will be burned
+Passive Indicative,Perfect,1st Person,Singular,caimatus sum,caimetus sum,caimus sum,caimus sum,I have been burned
+Passive Indicative,Perfect,1st Person,Plural,caimati sumus,caimeti sumus,caimi sumus,caimi sumus,We have been burned
+Passive Indicative,Perfect,2nd Person,Singular,caimatus es,caimetus es,caimus es,caimus es,You have been burned
+Passive Indicative,Perfect,2nd Person,Plural,caimati estis,caimeti estis,caimi estis,caimi estis,You (pl.) have been burned
+Passive Indicative,Perfect,3rd Person,Singular,caimatus est,caimetus est,caimus est,caimus est,He/she/it has been burned
+Passive Indicative,Perfect,3rd Person,Plural,caimati sunt,caimeti sunt,caimi sunt,caimi sunt,They have been burned
+Passive Indicative,Pluperfect,1st Person,Singular,caimatus eram,caimetus eram,caimus eram,caimus eram,I had been burned
+Passive Indicative,Pluperfect,1st Person,Plural,caimati eramus,caimeti eramus,caimi eramus,caimi eramus,We had been burned
+Passive Indicative,Pluperfect,2nd Person,Singular,caimatus eras,caimetus eras,caimus eras,caimus eras,You had been burned
+Passive Indicative,Pluperfect,2nd Person,Plural,caimati eratis,caimeti eratis,caimi eratis,caimi eratis,You (pl.) had been burned
+Passive Indicative,Pluperfect,3rd Person,Singular,caimatus erat,caimetus erat,caimus erat,caimus erat,He/she/it had been burned
+Passive Indicative,Pluperfect,3rd Person,Plural,caimati erant,caimeti erant,caimi erant,caimi erant,They had been burned
+Passive Indicative,Future Perfect,1st Person,Singular,caimatus ero,caimetus ero,caimus ero,caimus ero,I will have been burned
+Passive Indicative,Future Perfect,1st Person,Plural,caimati erimus,caimeti erimus,caimi erimus,caimi erimus,We will have been burned
+Passive Indicative,Future Perfect,2nd Person,Singular,caimatus eris,caimetus eris,caimus eris,caimus eris,You will have been burned
+Passive Indicative,Future Perfect,2nd Person,Plural,caimati eritis,caimeti eritis,caimi eritis,caimi eritis,You (pl.) will have been burned
+Passive Indicative,Future Perfect,3rd Person,Singular,caimatus erit,caimetus erit,caimus erit,caimus erit,He/she/it will have been burned
+Passive Indicative,Future Perfect,3rd Person,Plural,caimati erunt,caimeti erunt,caimi erunt,caimi erunt,They will have been burned
+Active Subjunctive,Present,1st Person,Singular,caimem,caimem,caimam,caimam,I may burn
+Active Subjunctive,Present,1st Person,Plural,caimemus,caimemus,caimamus,caimamus,We may burn
+Active Subjunctive,Present,2nd Person,Singular,caimes,caimes,caimas,caimas,You may burn
+Active Subjunctive,Present,2nd Person,Plural,caimetis,caimetis,caimatis,caimatis,You (pl.) may burn
+Active Subjunctive,Present,3rd Person,Singular,caimet,caimet,caimat,caimat,He/she/it may burn
+Active Subjunctive,Present,3rd Person,Plural,caiment,caiment,caimant,caimant,They may burn
+Active Subjunctive,Imperfect,1st Person,Singular,caimarem,caimerem,caimerem,caimirem,I should burn
+Active Subjunctive,Imperfect,1st Person,Plural,caimaremus,caimeremus,caimeremus,caimiremus,We should burn
+Active Subjunctive,Imperfect,2nd Person,Singular,caimares,caimeres,caimeres,caimires,You should burn
+Active Subjunctive,Imperfect,2nd Person,Plural,caimaretis,caimeretis,caimeretis,caimiretis,You (pl.) should burn
+Active Subjunctive,Imperfect,3rd Person,Singular,caimaret,caimeret,caimeret,caimiret,He/she/it should burn
+Active Subjunctive,Imperfect,3rd Person,Plural,caimarent,caimerent,caimerent,caimirent,They should burn
+Active Subjunctive,Perfect,1st Person,Singular,caimerim,caimuerim,caimerim,caimierim,I may have burned
+Active Subjunctive,Perfect,1st Person,Plural,caimerimus,caimuerimus,caimerimus,caimierimus,We may have burned
+Active Subjunctive,Perfect,2nd Person,Singular,caimeris,caimueris,caimeris,caimieris,You may have burned
+Active Subjunctive,Perfect,2nd Person,Plural,caimeritis,caimueritis,caimeritis,caimieritis,You (pl.) may have burned
+Active Subjunctive,Perfect,3rd Person,Singular,caimerit,caimuerit,caimerit,caimierit,He/she/it may have burned
+Active Subjunctive,Perfect,3rd Person,Plural,caimerint,caimuerint,caimerint,caimierint,They may have burned
+Active Subjunctive,Pluperfect,1st Person,Singular,caimissem,caimuissem,caimissem,caimissem,I should have burned
+Active Subjunctive,Pluperfect,1st Person,Plural,caimissemus,caimuissemus,caimissemus,caimissemus,We should have burned
+Active Subjunctive,Pluperfect,2nd Person,Singular,caimisses,caimuisses,caimisses,caimisses,You would have burned
+Active Subjunctive,Pluperfect,2nd Person,Plural,caimissetis,caimuissetis,caimissetis,caimissetis,You (pl.) would have burned
+Active Subjunctive,Pluperfect,3rd Person,Singular,caimisset,caimuisset,caimisset,caimisset,He/she/it would have burned
+Active Subjunctive,Pluperfect,3rd Person,Plural,caimissent,caimuissent,caimissent,caimissent,They would have burned
+Passive Subjunctive,Present,1st Person,Singular,caimer,caimer,caimar,caimar,I may be burned
+Passive Subjunctive,Present,1st Person,Plural,caimemur,caimemur,caimamur,caimamur,We may be burned
+Passive Subjunctive,Present,2nd Person,Singular,caimeris,caimeris,caimaris,caimaris,You may be burned
+Passive Subjunctive,Present,2nd Person,Plural,caimemini,caimemini,caimamini,caimamini,You (pl.) may be burned
+Passive Subjunctive,Present,3rd Person,Singular,caimetur,caimetur,caimatur,caimatur,He/she/it may be burned
+Passive Subjunctive,Present,3rd Person,Plural,caimentur,caimentur,caimantur,caimantur,They may be burned
+Passive Subjunctive,Imperfect,1st Person,Singular,caimarer,caimerer,caimerer,caimirer,I should be burned
+Passive Subjunctive,Imperfect,1st Person,Plural,caimaremur,caimeremur,caimeremur,caimiremur,We should be burned
+Passive Subjunctive,Imperfect,2nd Person,Singular,caimareris,caimereris,caimereris,caimireris,You would be burned
+Passive Subjunctive,Imperfect,2nd Person,Plural,caimaremini,caimeremini,caimeremini,caimiremini,You (pl.) would be burned
+Passive Subjunctive,Imperfect,3rd Person,Singular,caimaretur,caimeretur,caimeretur,caimiretur,He/she/it would be burned
+Passive Subjunctive,Imperfect,3rd Person,Plural,caimarentur,caimerentur,caimerentur,caimirentur,They would be burned
+Passive Subjunctive,Perfect,1st Person,Singular,caimatus sim,caimetus sim,caimus sim,caimus sim,I may have been burned
+Passive Subjunctive,Perfect,1st Person,Plural,caimati simus,caimeti simus,caimi simus,caimi simus,We may have been burned
+Passive Subjunctive,Perfect,2nd Person,Singular,caimatus sis,caimetus sis,caimus sis,caimus sis,You may have been burned
+Passive Subjunctive,Perfect,2nd Person,Plural,caimati sitis,caimeti sitis,caimi sitis,caimi sitis,You (pl.) may have been burned
+Passive Subjunctive,Perfect,3rd Person,Singular,caimatus sit,caimetus sit,caimus sit,caimus sit,He/she/it may have been burned
+Passive Subjunctive,Perfect,3rd Person,Plural,caimati sint,caimeti sint,caimi sint,caimi sint,They may have been burned
+Passive Subjunctive,Pluperfect,1st Person,Singular,caimatus essem,caimetus essem,caimus essem,caimus essem,I should have been burned
+Passive Subjunctive,Pluperfect,1st Person,Plural,caimati essemus,caimeti essemus,caimi essemus,caimi essemus,We should have been burned
+Passive Subjunctive,Pluperfect,2nd Person,Singular,caimatus esses,caimetus esses,caimus esses,caimus esses,You would have been burned
+Passive Subjunctive,Pluperfect,2nd Person,Plural,caimati essetis,caimeti essetis,caimi essetis,caimi essetis,You (pl.) would have been burned
+Passive Subjunctive,Pluperfect,3rd Person,Singular,caimatus esset,caimetus esset,caimus esset,caimus esset,He/she/it would have been burned
+Passive Subjunctive,Pluperfect,3rd Person,Plural,caimati essent,caimeti essent,caimi essent,caimi essent,They would have been burned

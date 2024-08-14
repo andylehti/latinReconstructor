@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,delineo,delineo,delineo,delineio,I trace
+Active Indicative,Present,1st Person,Plural,delineamus,delinemus,delineimus,delineimus,We trace
+Active Indicative,Present,2nd Person,Singular,delineas,delines,delineis,delineis,You trace
+Active Indicative,Present,2nd Person,Plural,delineatis,delinetis,delineitis,delineitis,You (pl.) trace
+Active Indicative,Present,3rd Person,Singular,delineat,delinet,delineit,delineit,He/she/it trace
+Active Indicative,Present,3rd Person,Plural,delineant,delinent,delineiunt,delineiunt,They trace
+Active Indicative,Imperfect,1st Person,Singular,delineabam,delinebam,delinebam,delineiebam,I was traceing
+Active Indicative,Imperfect,1st Person,Plural,delineabamus,delinebamus,delinebamus,delineiebamus,We were traceing
+Active Indicative,Imperfect,2nd Person,Singular,delineabas,delinebas,delinebas,delineiebas,You were traceing
+Active Indicative,Imperfect,2nd Person,Plural,delineabatis,delinebatis,delinebatis,delineiebatis,You (pl.) were traceing
+Active Indicative,Imperfect,3rd Person,Singular,delineabat,delinebat,delinebat,delineiebat,He/she/it was traceing
+Active Indicative,Imperfect,3rd Person,Plural,delineabant,delinebant,delinebant,delineiebant,They were traceing
+Active Indicative,Future,1st Person,Singular,delineabo,delinebo,delineam,delineiam,I will trace
+Active Indicative,Future,1st Person,Plural,delineabimus,delinebimus,delinemus,delineiemus,We will trace
+Active Indicative,Future,2nd Person,Singular,delineabis,delinebis,delines,delineies,You will trace
+Active Indicative,Future,2nd Person,Plural,delineabitis,delinebitis,delinetis,delineietis,You (pl.) will trace
+Active Indicative,Future,3rd Person,Singular,delineabit,delinebit,delinet,delineiet,He/she/it will trace
+Active Indicative,Future,3rd Person,Plural,delineabunt,delinebunt,delinent,delineient,They will trace
+Active Indicative,Perfect,1st Person,Singular,delineavi,delineui,delinei,delinei,I have traceed
+Active Indicative,Perfect,1st Person,Plural,delineavimus,delineuimus,delineimus,delineimus,We have traceed
+Active Indicative,Perfect,2nd Person,Singular,delineavisti,delineuisti,delineisti,delineisti,You have traceed
+Active Indicative,Perfect,2nd Person,Plural,delineavistis,delineuistis,delineistis,delineistis,You (pl.) have traceed
+Active Indicative,Perfect,3rd Person,Singular,delineavit,delineuit,delineit,delineit,He/she/it has traceed
+Active Indicative,Perfect,3rd Person,Plural,delineaverunt,delineuerunt,delinerunt,delinerunt,They have traceed
+Active Indicative,Pluperfect,1st Person,Singular,delineaveram,delineueram,delineram,delineram,I had traceed
+Active Indicative,Pluperfect,1st Person,Plural,delineaveramus,delineueramus,delineramus,delineramus,We had traceed
+Active Indicative,Pluperfect,2nd Person,Singular,delineaveras,delineueras,delineras,delineras,You had traceed
+Active Indicative,Pluperfect,2nd Person,Plural,delineaveratis,delineueratis,delineratis,delineratis,You (pl.) had traceed
+Active Indicative,Pluperfect,3rd Person,Singular,delineaverat,delineuerat,delinerat,delinerat,He/she/it had traceed
+Active Indicative,Pluperfect,3rd Person,Plural,delineaverant,delineuerant,delinerant,delinerant,They had traceed
+Active Indicative,Future Perfect,1st Person,Singular,delineavero,delineueero,delinero,delineiero,I will have traceed
+Active Indicative,Future Perfect,1st Person,Plural,delineaverimus,delineuerimus,delinerimus,delineierimus,We will have traceed
+Active Indicative,Future Perfect,2nd Person,Singular,delineaveris,delineueris,delineris,delineieris,You will have traceed
+Active Indicative,Future Perfect,2nd Person,Plural,delineaveritis,delineueritis,delineritis,delineieritis,You (pl.) will have traceed
+Active Indicative,Future Perfect,3rd Person,Singular,delineaverit,delineuerit,delinerit,delineierit,He/she/it will have traceed
+Active Indicative,Future Perfect,3rd Person,Plural,delineaverint,delineuerint,delinerint,delineierint,They will have traceed
+Passive Indicative,Present,1st Person,Singular,delineor,delineor,delineor,delineior,I am being traceed
+Passive Indicative,Present,1st Person,Plural,delineamur,delinemur,delineimur,delineimur,We are being traceed
+Passive Indicative,Present,2nd Person,Singular,delinearis,delineris,delineiris,delineiris,You are being traceed
+Passive Indicative,Present,2nd Person,Plural,delineamini,delinemini,delineimini,delineimini,You (pl.) are being traceed
+Passive Indicative,Present,3rd Person,Singular,delineatur,delinetur,delineitur,delineitur,He/she/it is being traceed
+Passive Indicative,Present,3rd Person,Plural,delineantur,delinentur,delineiuntur,delineiuntur,They are being traceed
+Passive Indicative,Imperfect,1st Person,Singular,delineabar,delinebar,delinebar,delineiebar,I was traceed
+Passive Indicative,Imperfect,1st Person,Plural,delineabamur,delinebamur,delinebamur,delineiebamur,We were traceed
+Passive Indicative,Imperfect,2nd Person,Singular,delineabaris,delinebaris,delinebaris,delineiebaris,You were traceed
+Passive Indicative,Imperfect,2nd Person,Plural,delineabamini,delinebamini,delinebamini,delineiebamini,You (pl.) were traceed
+Passive Indicative,Imperfect,3rd Person,Singular,delineabatur,delinebatur,delinebatur,delineiebatur,He/she/it was traceed
+Passive Indicative,Imperfect,3rd Person,Plural,delineabantur,delinebantur,delinebantur,delineiebantur,They were traceed
+Passive Indicative,Future,1st Person,Singular,delineabor,delinebor,delinear,delineiar,I will be traceed
+Passive Indicative,Future,1st Person,Plural,delineabimur,delinebimur,delinemur,delineiemur,We will be traceed
+Passive Indicative,Future,2nd Person,Singular,delineaberis,delineberis,delineris,delineieris,You will be traceed
+Passive Indicative,Future,2nd Person,Plural,delineabimini,delinebimini,delinemini,delineiemini,You (pl.) will be traceed
+Passive Indicative,Future,3rd Person,Singular,delineabitur,delinebitur,delinetur,delineietur,He/she/it will be traceed
+Passive Indicative,Future,3rd Person,Plural,delineabuntur,delinebuntur,delinentur,delineientur,They will be traceed
+Passive Indicative,Perfect,1st Person,Singular,delineatus sum,delinetus sum,delineus sum,delineus sum,I have been traceed
+Passive Indicative,Perfect,1st Person,Plural,delineati sumus,delineti sumus,delinei sumus,delinei sumus,We have been traceed
+Passive Indicative,Perfect,2nd Person,Singular,delineatus es,delinetus es,delineus es,delineus es,You have been traceed
+Passive Indicative,Perfect,2nd Person,Plural,delineati estis,delineti estis,delinei estis,delinei estis,You (pl.) have been traceed
+Passive Indicative,Perfect,3rd Person,Singular,delineatus est,delinetus est,delineus est,delineus est,He/she/it has been traceed
+Passive Indicative,Perfect,3rd Person,Plural,delineati sunt,delineti sunt,delinei sunt,delinei sunt,They have been traceed
+Passive Indicative,Pluperfect,1st Person,Singular,delineatus eram,delinetus eram,delineus eram,delineus eram,I had been traceed
+Passive Indicative,Pluperfect,1st Person,Plural,delineati eramus,delineti eramus,delinei eramus,delinei eramus,We had been traceed
+Passive Indicative,Pluperfect,2nd Person,Singular,delineatus eras,delinetus eras,delineus eras,delineus eras,You had been traceed
+Passive Indicative,Pluperfect,2nd Person,Plural,delineati eratis,delineti eratis,delinei eratis,delinei eratis,You (pl.) had been traceed
+Passive Indicative,Pluperfect,3rd Person,Singular,delineatus erat,delinetus erat,delineus erat,delineus erat,He/she/it had been traceed
+Passive Indicative,Pluperfect,3rd Person,Plural,delineati erant,delineti erant,delinei erant,delinei erant,They had been traceed
+Passive Indicative,Future Perfect,1st Person,Singular,delineatus ero,delinetus ero,delineus ero,delineus ero,I will have been traceed
+Passive Indicative,Future Perfect,1st Person,Plural,delineati erimus,delineti erimus,delinei erimus,delinei erimus,We will have been traceed
+Passive Indicative,Future Perfect,2nd Person,Singular,delineatus eris,delinetus eris,delineus eris,delineus eris,You will have been traceed
+Passive Indicative,Future Perfect,2nd Person,Plural,delineati eritis,delineti eritis,delinei eritis,delinei eritis,You (pl.) will have been traceed
+Passive Indicative,Future Perfect,3rd Person,Singular,delineatus erit,delinetus erit,delineus erit,delineus erit,He/she/it will have been traceed
+Passive Indicative,Future Perfect,3rd Person,Plural,delineati erunt,delineti erunt,delinei erunt,delinei erunt,They will have been traceed
+Active Subjunctive,Present,1st Person,Singular,delinem,delinem,delineam,delineam,I may trace
+Active Subjunctive,Present,1st Person,Plural,delinemus,delinemus,delineamus,delineamus,We may trace
+Active Subjunctive,Present,2nd Person,Singular,delines,delines,delineas,delineas,You may trace
+Active Subjunctive,Present,2nd Person,Plural,delinetis,delinetis,delineatis,delineatis,You (pl.) may trace
+Active Subjunctive,Present,3rd Person,Singular,delinet,delinet,delineat,delineat,He/she/it may trace
+Active Subjunctive,Present,3rd Person,Plural,delinent,delinent,delineant,delineant,They may trace
+Active Subjunctive,Imperfect,1st Person,Singular,delinearem,delinerem,delinerem,delineirem,I should trace
+Active Subjunctive,Imperfect,1st Person,Plural,delinearemus,delineremus,delineremus,delineiremus,We should trace
+Active Subjunctive,Imperfect,2nd Person,Singular,delineares,delineres,delineres,delineires,You should trace
+Active Subjunctive,Imperfect,2nd Person,Plural,delinearetis,delineretis,delineretis,delineiretis,You (pl.) should trace
+Active Subjunctive,Imperfect,3rd Person,Singular,delinearet,delineret,delineret,delineiret,He/she/it should trace
+Active Subjunctive,Imperfect,3rd Person,Plural,delinearent,delinerent,delinerent,delineirent,They should trace
+Active Subjunctive,Perfect,1st Person,Singular,delinerim,delineuerim,delinerim,delineierim,I may have traceed
+Active Subjunctive,Perfect,1st Person,Plural,delinerimus,delineuerimus,delinerimus,delineierimus,We may have traceed
+Active Subjunctive,Perfect,2nd Person,Singular,delineris,delineueris,delineris,delineieris,You may have traceed
+Active Subjunctive,Perfect,2nd Person,Plural,delineritis,delineueritis,delineritis,delineieritis,You (pl.) may have traceed
+Active Subjunctive,Perfect,3rd Person,Singular,delinerit,delineuerit,delinerit,delineierit,He/she/it may have traceed
+Active Subjunctive,Perfect,3rd Person,Plural,delinerint,delineuerint,delinerint,delineierint,They may have traceed
+Active Subjunctive,Pluperfect,1st Person,Singular,delineissem,delineuissem,delineissem,delineissem,I should have traceed
+Active Subjunctive,Pluperfect,1st Person,Plural,delineissemus,delineuissemus,delineissemus,delineissemus,We should have traceed
+Active Subjunctive,Pluperfect,2nd Person,Singular,delineisses,delineuisses,delineisses,delineisses,You would have traceed
+Active Subjunctive,Pluperfect,2nd Person,Plural,delineissetis,delineuissetis,delineissetis,delineissetis,You (pl.) would have traceed
+Active Subjunctive,Pluperfect,3rd Person,Singular,delineisset,delineuisset,delineisset,delineisset,He/she/it would have traceed
+Active Subjunctive,Pluperfect,3rd Person,Plural,delineissent,delineuissent,delineissent,delineissent,They would have traceed
+Passive Subjunctive,Present,1st Person,Singular,deliner,deliner,delinear,delinear,I may be traceed
+Passive Subjunctive,Present,1st Person,Plural,delinemur,delinemur,delineamur,delineamur,We may be traceed
+Passive Subjunctive,Present,2nd Person,Singular,delineris,delineris,delinearis,delinearis,You may be traceed
+Passive Subjunctive,Present,2nd Person,Plural,delinemini,delinemini,delineamini,delineamini,You (pl.) may be traceed
+Passive Subjunctive,Present,3rd Person,Singular,delinetur,delinetur,delineatur,delineatur,He/she/it may be traceed
+Passive Subjunctive,Present,3rd Person,Plural,delinentur,delinentur,delineantur,delineantur,They may be traceed
+Passive Subjunctive,Imperfect,1st Person,Singular,delinearer,delinerer,delinerer,delineirer,I should be traceed
+Passive Subjunctive,Imperfect,1st Person,Plural,delinearemur,delineremur,delineremur,delineiremur,We should be traceed
+Passive Subjunctive,Imperfect,2nd Person,Singular,delineareris,delinereris,delinereris,delineireris,You would be traceed
+Passive Subjunctive,Imperfect,2nd Person,Plural,delinearemini,delineremini,delineremini,delineiremini,You (pl.) would be traceed
+Passive Subjunctive,Imperfect,3rd Person,Singular,delinearetur,delineretur,delineretur,delineiretur,He/she/it would be traceed
+Passive Subjunctive,Imperfect,3rd Person,Plural,delinearentur,delinerentur,delinerentur,delineirentur,They would be traceed
+Passive Subjunctive,Perfect,1st Person,Singular,delineatus sim,delinetus sim,delineus sim,delineus sim,I may have been traceed
+Passive Subjunctive,Perfect,1st Person,Plural,delineati simus,delineti simus,delinei simus,delinei simus,We may have been traceed
+Passive Subjunctive,Perfect,2nd Person,Singular,delineatus sis,delinetus sis,delineus sis,delineus sis,You may have been traceed
+Passive Subjunctive,Perfect,2nd Person,Plural,delineati sitis,delineti sitis,delinei sitis,delinei sitis,You (pl.) may have been traceed
+Passive Subjunctive,Perfect,3rd Person,Singular,delineatus sit,delinetus sit,delineus sit,delineus sit,He/she/it may have been traceed
+Passive Subjunctive,Perfect,3rd Person,Plural,delineati sint,delineti sint,delinei sint,delinei sint,They may have been traceed
+Passive Subjunctive,Pluperfect,1st Person,Singular,delineatus essem,delinetus essem,delineus essem,delineus essem,I should have been traceed
+Passive Subjunctive,Pluperfect,1st Person,Plural,delineati essemus,delineti essemus,delinei essemus,delinei essemus,We should have been traceed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,delineatus esses,delinetus esses,delineus esses,delineus esses,You would have been traceed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,delineati essetis,delineti essetis,delinei essetis,delinei essetis,You (pl.) would have been traceed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,delineatus esset,delinetus esset,delineus esset,delineus esset,He/she/it would have been traceed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,delineati essent,delineti essent,delinei essent,delinei essent,They would have been traceed

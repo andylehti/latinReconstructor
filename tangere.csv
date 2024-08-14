@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,tango,tangeo,tango,tangio,I touch
+Active Indicative,Present,1st Person,Plural,tangamus,tangemus,tangimus,tangimus,We touch
+Active Indicative,Present,2nd Person,Singular,tangas,tanges,tangis,tangis,You touch
+Active Indicative,Present,2nd Person,Plural,tangatis,tangetis,tangitis,tangitis,You (pl.) touch
+Active Indicative,Present,3rd Person,Singular,tangat,tanget,tangit,tangit,He/she/it touch
+Active Indicative,Present,3rd Person,Plural,tangant,tangent,tangiunt,tangiunt,They touch
+Active Indicative,Imperfect,1st Person,Singular,tangabam,tangebam,tangebam,tangiebam,I was touching
+Active Indicative,Imperfect,1st Person,Plural,tangabamus,tangebamus,tangebamus,tangiebamus,We were touching
+Active Indicative,Imperfect,2nd Person,Singular,tangabas,tangebas,tangebas,tangiebas,You were touching
+Active Indicative,Imperfect,2nd Person,Plural,tangabatis,tangebatis,tangebatis,tangiebatis,You (pl.) were touching
+Active Indicative,Imperfect,3rd Person,Singular,tangabat,tangebat,tangebat,tangiebat,He/she/it was touching
+Active Indicative,Imperfect,3rd Person,Plural,tangabant,tangebant,tangebant,tangiebant,They were touching
+Active Indicative,Future,1st Person,Singular,tangabo,tangebo,tangam,tangiam,I will touch
+Active Indicative,Future,1st Person,Plural,tangabimus,tangebimus,tangemus,tangiemus,We will touch
+Active Indicative,Future,2nd Person,Singular,tangabis,tangebis,tanges,tangies,You will touch
+Active Indicative,Future,2nd Person,Plural,tangabitis,tangebitis,tangetis,tangietis,You (pl.) will touch
+Active Indicative,Future,3rd Person,Singular,tangabit,tangebit,tanget,tangiet,He/she/it will touch
+Active Indicative,Future,3rd Person,Plural,tangabunt,tangebunt,tangent,tangient,They will touch
+Active Indicative,Perfect,1st Person,Singular,tangavi,tangui,tangi,tangi,I have touched
+Active Indicative,Perfect,1st Person,Plural,tangavimus,tanguimus,tangimus,tangimus,We have touched
+Active Indicative,Perfect,2nd Person,Singular,tangavisti,tanguisti,tangisti,tangisti,You have touched
+Active Indicative,Perfect,2nd Person,Plural,tangavistis,tanguistis,tangistis,tangistis,You (pl.) have touched
+Active Indicative,Perfect,3rd Person,Singular,tangavit,tanguit,tangit,tangit,He/she/it has touched
+Active Indicative,Perfect,3rd Person,Plural,tangaverunt,tanguerunt,tangerunt,tangerunt,They have touched
+Active Indicative,Pluperfect,1st Person,Singular,tangaveram,tangueram,tangeram,tangeram,I had touched
+Active Indicative,Pluperfect,1st Person,Plural,tangaveramus,tangueramus,tangeramus,tangeramus,We had touched
+Active Indicative,Pluperfect,2nd Person,Singular,tangaveras,tangueras,tangeras,tangeras,You had touched
+Active Indicative,Pluperfect,2nd Person,Plural,tangaveratis,tangueratis,tangeratis,tangeratis,You (pl.) had touched
+Active Indicative,Pluperfect,3rd Person,Singular,tangaverat,tanguerat,tangerat,tangerat,He/she/it had touched
+Active Indicative,Pluperfect,3rd Person,Plural,tangaverant,tanguerant,tangerant,tangerant,They had touched
+Active Indicative,Future Perfect,1st Person,Singular,tangavero,tangueero,tangero,tangiero,I will have touched
+Active Indicative,Future Perfect,1st Person,Plural,tangaverimus,tanguerimus,tangerimus,tangierimus,We will have touched
+Active Indicative,Future Perfect,2nd Person,Singular,tangaveris,tangueris,tangeris,tangieris,You will have touched
+Active Indicative,Future Perfect,2nd Person,Plural,tangaveritis,tangueritis,tangeritis,tangieritis,You (pl.) will have touched
+Active Indicative,Future Perfect,3rd Person,Singular,tangaverit,tanguerit,tangerit,tangierit,He/she/it will have touched
+Active Indicative,Future Perfect,3rd Person,Plural,tangaverint,tanguerint,tangerint,tangierint,They will have touched
+Passive Indicative,Present,1st Person,Singular,tangor,tangeor,tangor,tangior,I am being touched
+Passive Indicative,Present,1st Person,Plural,tangamur,tangemur,tangimur,tangimur,We are being touched
+Passive Indicative,Present,2nd Person,Singular,tangaris,tangeris,tangiris,tangiris,You are being touched
+Passive Indicative,Present,2nd Person,Plural,tangamini,tangemini,tangimini,tangimini,You (pl.) are being touched
+Passive Indicative,Present,3rd Person,Singular,tangatur,tangetur,tangitur,tangitur,He/she/it is being touched
+Passive Indicative,Present,3rd Person,Plural,tangantur,tangentur,tangiuntur,tangiuntur,They are being touched
+Passive Indicative,Imperfect,1st Person,Singular,tangabar,tangebar,tangebar,tangiebar,I was touched
+Passive Indicative,Imperfect,1st Person,Plural,tangabamur,tangebamur,tangebamur,tangiebamur,We were touched
+Passive Indicative,Imperfect,2nd Person,Singular,tangabaris,tangebaris,tangebaris,tangiebaris,You were touched
+Passive Indicative,Imperfect,2nd Person,Plural,tangabamini,tangebamini,tangebamini,tangiebamini,You (pl.) were touched
+Passive Indicative,Imperfect,3rd Person,Singular,tangabatur,tangebatur,tangebatur,tangiebatur,He/she/it was touched
+Passive Indicative,Imperfect,3rd Person,Plural,tangabantur,tangebantur,tangebantur,tangiebantur,They were touched
+Passive Indicative,Future,1st Person,Singular,tangabor,tangebor,tangar,tangiar,I will be touched
+Passive Indicative,Future,1st Person,Plural,tangabimur,tangebimur,tangemur,tangiemur,We will be touched
+Passive Indicative,Future,2nd Person,Singular,tangaberis,tangeberis,tangeris,tangieris,You will be touched
+Passive Indicative,Future,2nd Person,Plural,tangabimini,tangebimini,tangemini,tangiemini,You (pl.) will be touched
+Passive Indicative,Future,3rd Person,Singular,tangabitur,tangebitur,tangetur,tangietur,He/she/it will be touched
+Passive Indicative,Future,3rd Person,Plural,tangabuntur,tangebuntur,tangentur,tangientur,They will be touched
+Passive Indicative,Perfect,1st Person,Singular,tangatus sum,tangetus sum,tangus sum,tangus sum,I have been touched
+Passive Indicative,Perfect,1st Person,Plural,tangati sumus,tangeti sumus,tangi sumus,tangi sumus,We have been touched
+Passive Indicative,Perfect,2nd Person,Singular,tangatus es,tangetus es,tangus es,tangus es,You have been touched
+Passive Indicative,Perfect,2nd Person,Plural,tangati estis,tangeti estis,tangi estis,tangi estis,You (pl.) have been touched
+Passive Indicative,Perfect,3rd Person,Singular,tangatus est,tangetus est,tangus est,tangus est,He/she/it has been touched
+Passive Indicative,Perfect,3rd Person,Plural,tangati sunt,tangeti sunt,tangi sunt,tangi sunt,They have been touched
+Passive Indicative,Pluperfect,1st Person,Singular,tangatus eram,tangetus eram,tangus eram,tangus eram,I had been touched
+Passive Indicative,Pluperfect,1st Person,Plural,tangati eramus,tangeti eramus,tangi eramus,tangi eramus,We had been touched
+Passive Indicative,Pluperfect,2nd Person,Singular,tangatus eras,tangetus eras,tangus eras,tangus eras,You had been touched
+Passive Indicative,Pluperfect,2nd Person,Plural,tangati eratis,tangeti eratis,tangi eratis,tangi eratis,You (pl.) had been touched
+Passive Indicative,Pluperfect,3rd Person,Singular,tangatus erat,tangetus erat,tangus erat,tangus erat,He/she/it had been touched
+Passive Indicative,Pluperfect,3rd Person,Plural,tangati erant,tangeti erant,tangi erant,tangi erant,They had been touched
+Passive Indicative,Future Perfect,1st Person,Singular,tangatus ero,tangetus ero,tangus ero,tangus ero,I will have been touched
+Passive Indicative,Future Perfect,1st Person,Plural,tangati erimus,tangeti erimus,tangi erimus,tangi erimus,We will have been touched
+Passive Indicative,Future Perfect,2nd Person,Singular,tangatus eris,tangetus eris,tangus eris,tangus eris,You will have been touched
+Passive Indicative,Future Perfect,2nd Person,Plural,tangati eritis,tangeti eritis,tangi eritis,tangi eritis,You (pl.) will have been touched
+Passive Indicative,Future Perfect,3rd Person,Singular,tangatus erit,tangetus erit,tangus erit,tangus erit,He/she/it will have been touched
+Passive Indicative,Future Perfect,3rd Person,Plural,tangati erunt,tangeti erunt,tangi erunt,tangi erunt,They will have been touched
+Active Subjunctive,Present,1st Person,Singular,tangem,tangem,tangam,tangam,I may touch
+Active Subjunctive,Present,1st Person,Plural,tangemus,tangemus,tangamus,tangamus,We may touch
+Active Subjunctive,Present,2nd Person,Singular,tanges,tanges,tangas,tangas,You may touch
+Active Subjunctive,Present,2nd Person,Plural,tangetis,tangetis,tangatis,tangatis,You (pl.) may touch
+Active Subjunctive,Present,3rd Person,Singular,tanget,tanget,tangat,tangat,He/she/it may touch
+Active Subjunctive,Present,3rd Person,Plural,tangent,tangent,tangant,tangant,They may touch
+Active Subjunctive,Imperfect,1st Person,Singular,tangarem,tangerem,tangerem,tangirem,I should touch
+Active Subjunctive,Imperfect,1st Person,Plural,tangaremus,tangeremus,tangeremus,tangiremus,We should touch
+Active Subjunctive,Imperfect,2nd Person,Singular,tangares,tangeres,tangeres,tangires,You should touch
+Active Subjunctive,Imperfect,2nd Person,Plural,tangaretis,tangeretis,tangeretis,tangiretis,You (pl.) should touch
+Active Subjunctive,Imperfect,3rd Person,Singular,tangaret,tangeret,tangeret,tangiret,He/she/it should touch
+Active Subjunctive,Imperfect,3rd Person,Plural,tangarent,tangerent,tangerent,tangirent,They should touch
+Active Subjunctive,Perfect,1st Person,Singular,tangerim,tanguerim,tangerim,tangierim,I may have touched
+Active Subjunctive,Perfect,1st Person,Plural,tangerimus,tanguerimus,tangerimus,tangierimus,We may have touched
+Active Subjunctive,Perfect,2nd Person,Singular,tangeris,tangueris,tangeris,tangieris,You may have touched
+Active Subjunctive,Perfect,2nd Person,Plural,tangeritis,tangueritis,tangeritis,tangieritis,You (pl.) may have touched
+Active Subjunctive,Perfect,3rd Person,Singular,tangerit,tanguerit,tangerit,tangierit,He/she/it may have touched
+Active Subjunctive,Perfect,3rd Person,Plural,tangerint,tanguerint,tangerint,tangierint,They may have touched
+Active Subjunctive,Pluperfect,1st Person,Singular,tangissem,tanguissem,tangissem,tangissem,I should have touched
+Active Subjunctive,Pluperfect,1st Person,Plural,tangissemus,tanguissemus,tangissemus,tangissemus,We should have touched
+Active Subjunctive,Pluperfect,2nd Person,Singular,tangisses,tanguisses,tangisses,tangisses,You would have touched
+Active Subjunctive,Pluperfect,2nd Person,Plural,tangissetis,tanguissetis,tangissetis,tangissetis,You (pl.) would have touched
+Active Subjunctive,Pluperfect,3rd Person,Singular,tangisset,tanguisset,tangisset,tangisset,He/she/it would have touched
+Active Subjunctive,Pluperfect,3rd Person,Plural,tangissent,tanguissent,tangissent,tangissent,They would have touched
+Passive Subjunctive,Present,1st Person,Singular,tanger,tanger,tangar,tangar,I may be touched
+Passive Subjunctive,Present,1st Person,Plural,tangemur,tangemur,tangamur,tangamur,We may be touched
+Passive Subjunctive,Present,2nd Person,Singular,tangeris,tangeris,tangaris,tangaris,You may be touched
+Passive Subjunctive,Present,2nd Person,Plural,tangemini,tangemini,tangamini,tangamini,You (pl.) may be touched
+Passive Subjunctive,Present,3rd Person,Singular,tangetur,tangetur,tangatur,tangatur,He/she/it may be touched
+Passive Subjunctive,Present,3rd Person,Plural,tangentur,tangentur,tangantur,tangantur,They may be touched
+Passive Subjunctive,Imperfect,1st Person,Singular,tangarer,tangerer,tangerer,tangirer,I should be touched
+Passive Subjunctive,Imperfect,1st Person,Plural,tangaremur,tangeremur,tangeremur,tangiremur,We should be touched
+Passive Subjunctive,Imperfect,2nd Person,Singular,tangareris,tangereris,tangereris,tangireris,You would be touched
+Passive Subjunctive,Imperfect,2nd Person,Plural,tangaremini,tangeremini,tangeremini,tangiremini,You (pl.) would be touched
+Passive Subjunctive,Imperfect,3rd Person,Singular,tangaretur,tangeretur,tangeretur,tangiretur,He/she/it would be touched
+Passive Subjunctive,Imperfect,3rd Person,Plural,tangarentur,tangerentur,tangerentur,tangirentur,They would be touched
+Passive Subjunctive,Perfect,1st Person,Singular,tangatus sim,tangetus sim,tangus sim,tangus sim,I may have been touched
+Passive Subjunctive,Perfect,1st Person,Plural,tangati simus,tangeti simus,tangi simus,tangi simus,We may have been touched
+Passive Subjunctive,Perfect,2nd Person,Singular,tangatus sis,tangetus sis,tangus sis,tangus sis,You may have been touched
+Passive Subjunctive,Perfect,2nd Person,Plural,tangati sitis,tangeti sitis,tangi sitis,tangi sitis,You (pl.) may have been touched
+Passive Subjunctive,Perfect,3rd Person,Singular,tangatus sit,tangetus sit,tangus sit,tangus sit,He/she/it may have been touched
+Passive Subjunctive,Perfect,3rd Person,Plural,tangati sint,tangeti sint,tangi sint,tangi sint,They may have been touched
+Passive Subjunctive,Pluperfect,1st Person,Singular,tangatus essem,tangetus essem,tangus essem,tangus essem,I should have been touched
+Passive Subjunctive,Pluperfect,1st Person,Plural,tangati essemus,tangeti essemus,tangi essemus,tangi essemus,We should have been touched
+Passive Subjunctive,Pluperfect,2nd Person,Singular,tangatus esses,tangetus esses,tangus esses,tangus esses,You would have been touched
+Passive Subjunctive,Pluperfect,2nd Person,Plural,tangati essetis,tangeti essetis,tangi essetis,tangi essetis,You (pl.) would have been touched
+Passive Subjunctive,Pluperfect,3rd Person,Singular,tangatus esset,tangetus esset,tangus esset,tangus esset,He/she/it would have been touched
+Passive Subjunctive,Pluperfect,3rd Person,Plural,tangati essent,tangeti essent,tangi essent,tangi essent,They would have been touched

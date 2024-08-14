@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,raso,raseo,raso,rasio,I shave
+Active Indicative,Present,1st Person,Plural,rasamus,rasemus,rasimus,rasimus,We shave
+Active Indicative,Present,2nd Person,Singular,rasas,rases,rasis,rasis,You shave
+Active Indicative,Present,2nd Person,Plural,rasatis,rasetis,rasitis,rasitis,You (pl.) shave
+Active Indicative,Present,3rd Person,Singular,rasat,raset,rasit,rasit,He/she/it shave
+Active Indicative,Present,3rd Person,Plural,rasant,rasent,rasiunt,rasiunt,They shave
+Active Indicative,Imperfect,1st Person,Singular,rasabam,rasebam,rasebam,rasiebam,I was shaveing
+Active Indicative,Imperfect,1st Person,Plural,rasabamus,rasebamus,rasebamus,rasiebamus,We were shaveing
+Active Indicative,Imperfect,2nd Person,Singular,rasabas,rasebas,rasebas,rasiebas,You were shaveing
+Active Indicative,Imperfect,2nd Person,Plural,rasabatis,rasebatis,rasebatis,rasiebatis,You (pl.) were shaveing
+Active Indicative,Imperfect,3rd Person,Singular,rasabat,rasebat,rasebat,rasiebat,He/she/it was shaveing
+Active Indicative,Imperfect,3rd Person,Plural,rasabant,rasebant,rasebant,rasiebant,They were shaveing
+Active Indicative,Future,1st Person,Singular,rasabo,rasebo,rasam,rasiam,I will shave
+Active Indicative,Future,1st Person,Plural,rasabimus,rasebimus,rasemus,rasiemus,We will shave
+Active Indicative,Future,2nd Person,Singular,rasabis,rasebis,rases,rasies,You will shave
+Active Indicative,Future,2nd Person,Plural,rasabitis,rasebitis,rasetis,rasietis,You (pl.) will shave
+Active Indicative,Future,3rd Person,Singular,rasabit,rasebit,raset,rasiet,He/she/it will shave
+Active Indicative,Future,3rd Person,Plural,rasabunt,rasebunt,rasent,rasient,They will shave
+Active Indicative,Perfect,1st Person,Singular,rasavi,rasui,rasi,rasi,I have shaveed
+Active Indicative,Perfect,1st Person,Plural,rasavimus,rasuimus,rasimus,rasimus,We have shaveed
+Active Indicative,Perfect,2nd Person,Singular,rasavisti,rasuisti,rasisti,rasisti,You have shaveed
+Active Indicative,Perfect,2nd Person,Plural,rasavistis,rasuistis,rasistis,rasistis,You (pl.) have shaveed
+Active Indicative,Perfect,3rd Person,Singular,rasavit,rasuit,rasit,rasit,He/she/it has shaveed
+Active Indicative,Perfect,3rd Person,Plural,rasaverunt,rasuerunt,raserunt,raserunt,They have shaveed
+Active Indicative,Pluperfect,1st Person,Singular,rasaveram,rasueram,raseram,raseram,I had shaveed
+Active Indicative,Pluperfect,1st Person,Plural,rasaveramus,rasueramus,raseramus,raseramus,We had shaveed
+Active Indicative,Pluperfect,2nd Person,Singular,rasaveras,rasueras,raseras,raseras,You had shaveed
+Active Indicative,Pluperfect,2nd Person,Plural,rasaveratis,rasueratis,raseratis,raseratis,You (pl.) had shaveed
+Active Indicative,Pluperfect,3rd Person,Singular,rasaverat,rasuerat,raserat,raserat,He/she/it had shaveed
+Active Indicative,Pluperfect,3rd Person,Plural,rasaverant,rasuerant,raserant,raserant,They had shaveed
+Active Indicative,Future Perfect,1st Person,Singular,rasavero,rasueero,rasero,rasiero,I will have shaveed
+Active Indicative,Future Perfect,1st Person,Plural,rasaverimus,rasuerimus,raserimus,rasierimus,We will have shaveed
+Active Indicative,Future Perfect,2nd Person,Singular,rasaveris,rasueris,raseris,rasieris,You will have shaveed
+Active Indicative,Future Perfect,2nd Person,Plural,rasaveritis,rasueritis,raseritis,rasieritis,You (pl.) will have shaveed
+Active Indicative,Future Perfect,3rd Person,Singular,rasaverit,rasuerit,raserit,rasierit,He/she/it will have shaveed
+Active Indicative,Future Perfect,3rd Person,Plural,rasaverint,rasuerint,raserint,rasierint,They will have shaveed
+Passive Indicative,Present,1st Person,Singular,rasor,raseor,rasor,rasior,I am being shaveed
+Passive Indicative,Present,1st Person,Plural,rasamur,rasemur,rasimur,rasimur,We are being shaveed
+Passive Indicative,Present,2nd Person,Singular,rasaris,raseris,rasiris,rasiris,You are being shaveed
+Passive Indicative,Present,2nd Person,Plural,rasamini,rasemini,rasimini,rasimini,You (pl.) are being shaveed
+Passive Indicative,Present,3rd Person,Singular,rasatur,rasetur,rasitur,rasitur,He/she/it is being shaveed
+Passive Indicative,Present,3rd Person,Plural,rasantur,rasentur,rasiuntur,rasiuntur,They are being shaveed
+Passive Indicative,Imperfect,1st Person,Singular,rasabar,rasebar,rasebar,rasiebar,I was shaveed
+Passive Indicative,Imperfect,1st Person,Plural,rasabamur,rasebamur,rasebamur,rasiebamur,We were shaveed
+Passive Indicative,Imperfect,2nd Person,Singular,rasabaris,rasebaris,rasebaris,rasiebaris,You were shaveed
+Passive Indicative,Imperfect,2nd Person,Plural,rasabamini,rasebamini,rasebamini,rasiebamini,You (pl.) were shaveed
+Passive Indicative,Imperfect,3rd Person,Singular,rasabatur,rasebatur,rasebatur,rasiebatur,He/she/it was shaveed
+Passive Indicative,Imperfect,3rd Person,Plural,rasabantur,rasebantur,rasebantur,rasiebantur,They were shaveed
+Passive Indicative,Future,1st Person,Singular,rasabor,rasebor,rasar,rasiar,I will be shaveed
+Passive Indicative,Future,1st Person,Plural,rasabimur,rasebimur,rasemur,rasiemur,We will be shaveed
+Passive Indicative,Future,2nd Person,Singular,rasaberis,raseberis,raseris,rasieris,You will be shaveed
+Passive Indicative,Future,2nd Person,Plural,rasabimini,rasebimini,rasemini,rasiemini,You (pl.) will be shaveed
+Passive Indicative,Future,3rd Person,Singular,rasabitur,rasebitur,rasetur,rasietur,He/she/it will be shaveed
+Passive Indicative,Future,3rd Person,Plural,rasabuntur,rasebuntur,rasentur,rasientur,They will be shaveed
+Passive Indicative,Perfect,1st Person,Singular,rasatus sum,rasetus sum,rasus sum,rasus sum,I have been shaveed
+Passive Indicative,Perfect,1st Person,Plural,rasati sumus,raseti sumus,rasi sumus,rasi sumus,We have been shaveed
+Passive Indicative,Perfect,2nd Person,Singular,rasatus es,rasetus es,rasus es,rasus es,You have been shaveed
+Passive Indicative,Perfect,2nd Person,Plural,rasati estis,raseti estis,rasi estis,rasi estis,You (pl.) have been shaveed
+Passive Indicative,Perfect,3rd Person,Singular,rasatus est,rasetus est,rasus est,rasus est,He/she/it has been shaveed
+Passive Indicative,Perfect,3rd Person,Plural,rasati sunt,raseti sunt,rasi sunt,rasi sunt,They have been shaveed
+Passive Indicative,Pluperfect,1st Person,Singular,rasatus eram,rasetus eram,rasus eram,rasus eram,I had been shaveed
+Passive Indicative,Pluperfect,1st Person,Plural,rasati eramus,raseti eramus,rasi eramus,rasi eramus,We had been shaveed
+Passive Indicative,Pluperfect,2nd Person,Singular,rasatus eras,rasetus eras,rasus eras,rasus eras,You had been shaveed
+Passive Indicative,Pluperfect,2nd Person,Plural,rasati eratis,raseti eratis,rasi eratis,rasi eratis,You (pl.) had been shaveed
+Passive Indicative,Pluperfect,3rd Person,Singular,rasatus erat,rasetus erat,rasus erat,rasus erat,He/she/it had been shaveed
+Passive Indicative,Pluperfect,3rd Person,Plural,rasati erant,raseti erant,rasi erant,rasi erant,They had been shaveed
+Passive Indicative,Future Perfect,1st Person,Singular,rasatus ero,rasetus ero,rasus ero,rasus ero,I will have been shaveed
+Passive Indicative,Future Perfect,1st Person,Plural,rasati erimus,raseti erimus,rasi erimus,rasi erimus,We will have been shaveed
+Passive Indicative,Future Perfect,2nd Person,Singular,rasatus eris,rasetus eris,rasus eris,rasus eris,You will have been shaveed
+Passive Indicative,Future Perfect,2nd Person,Plural,rasati eritis,raseti eritis,rasi eritis,rasi eritis,You (pl.) will have been shaveed
+Passive Indicative,Future Perfect,3rd Person,Singular,rasatus erit,rasetus erit,rasus erit,rasus erit,He/she/it will have been shaveed
+Passive Indicative,Future Perfect,3rd Person,Plural,rasati erunt,raseti erunt,rasi erunt,rasi erunt,They will have been shaveed
+Active Subjunctive,Present,1st Person,Singular,rasem,rasem,rasam,rasam,I may shave
+Active Subjunctive,Present,1st Person,Plural,rasemus,rasemus,rasamus,rasamus,We may shave
+Active Subjunctive,Present,2nd Person,Singular,rases,rases,rasas,rasas,You may shave
+Active Subjunctive,Present,2nd Person,Plural,rasetis,rasetis,rasatis,rasatis,You (pl.) may shave
+Active Subjunctive,Present,3rd Person,Singular,raset,raset,rasat,rasat,He/she/it may shave
+Active Subjunctive,Present,3rd Person,Plural,rasent,rasent,rasant,rasant,They may shave
+Active Subjunctive,Imperfect,1st Person,Singular,rasarem,raserem,raserem,rasirem,I should shave
+Active Subjunctive,Imperfect,1st Person,Plural,rasaremus,raseremus,raseremus,rasiremus,We should shave
+Active Subjunctive,Imperfect,2nd Person,Singular,rasares,raseres,raseres,rasires,You should shave
+Active Subjunctive,Imperfect,2nd Person,Plural,rasaretis,raseretis,raseretis,rasiretis,You (pl.) should shave
+Active Subjunctive,Imperfect,3rd Person,Singular,rasaret,raseret,raseret,rasiret,He/she/it should shave
+Active Subjunctive,Imperfect,3rd Person,Plural,rasarent,raserent,raserent,rasirent,They should shave
+Active Subjunctive,Perfect,1st Person,Singular,raserim,rasuerim,raserim,rasierim,I may have shaveed
+Active Subjunctive,Perfect,1st Person,Plural,raserimus,rasuerimus,raserimus,rasierimus,We may have shaveed
+Active Subjunctive,Perfect,2nd Person,Singular,raseris,rasueris,raseris,rasieris,You may have shaveed
+Active Subjunctive,Perfect,2nd Person,Plural,raseritis,rasueritis,raseritis,rasieritis,You (pl.) may have shaveed
+Active Subjunctive,Perfect,3rd Person,Singular,raserit,rasuerit,raserit,rasierit,He/she/it may have shaveed
+Active Subjunctive,Perfect,3rd Person,Plural,raserint,rasuerint,raserint,rasierint,They may have shaveed
+Active Subjunctive,Pluperfect,1st Person,Singular,rasissem,rasuissem,rasissem,rasissem,I should have shaveed
+Active Subjunctive,Pluperfect,1st Person,Plural,rasissemus,rasuissemus,rasissemus,rasissemus,We should have shaveed
+Active Subjunctive,Pluperfect,2nd Person,Singular,rasisses,rasuisses,rasisses,rasisses,You would have shaveed
+Active Subjunctive,Pluperfect,2nd Person,Plural,rasissetis,rasuissetis,rasissetis,rasissetis,You (pl.) would have shaveed
+Active Subjunctive,Pluperfect,3rd Person,Singular,rasisset,rasuisset,rasisset,rasisset,He/she/it would have shaveed
+Active Subjunctive,Pluperfect,3rd Person,Plural,rasissent,rasuissent,rasissent,rasissent,They would have shaveed
+Passive Subjunctive,Present,1st Person,Singular,raser,raser,rasar,rasar,I may be shaveed
+Passive Subjunctive,Present,1st Person,Plural,rasemur,rasemur,rasamur,rasamur,We may be shaveed
+Passive Subjunctive,Present,2nd Person,Singular,raseris,raseris,rasaris,rasaris,You may be shaveed
+Passive Subjunctive,Present,2nd Person,Plural,rasemini,rasemini,rasamini,rasamini,You (pl.) may be shaveed
+Passive Subjunctive,Present,3rd Person,Singular,rasetur,rasetur,rasatur,rasatur,He/she/it may be shaveed
+Passive Subjunctive,Present,3rd Person,Plural,rasentur,rasentur,rasantur,rasantur,They may be shaveed
+Passive Subjunctive,Imperfect,1st Person,Singular,rasarer,raserer,raserer,rasirer,I should be shaveed
+Passive Subjunctive,Imperfect,1st Person,Plural,rasaremur,raseremur,raseremur,rasiremur,We should be shaveed
+Passive Subjunctive,Imperfect,2nd Person,Singular,rasareris,rasereris,rasereris,rasireris,You would be shaveed
+Passive Subjunctive,Imperfect,2nd Person,Plural,rasaremini,raseremini,raseremini,rasiremini,You (pl.) would be shaveed
+Passive Subjunctive,Imperfect,3rd Person,Singular,rasaretur,raseretur,raseretur,rasiretur,He/she/it would be shaveed
+Passive Subjunctive,Imperfect,3rd Person,Plural,rasarentur,raserentur,raserentur,rasirentur,They would be shaveed
+Passive Subjunctive,Perfect,1st Person,Singular,rasatus sim,rasetus sim,rasus sim,rasus sim,I may have been shaveed
+Passive Subjunctive,Perfect,1st Person,Plural,rasati simus,raseti simus,rasi simus,rasi simus,We may have been shaveed
+Passive Subjunctive,Perfect,2nd Person,Singular,rasatus sis,rasetus sis,rasus sis,rasus sis,You may have been shaveed
+Passive Subjunctive,Perfect,2nd Person,Plural,rasati sitis,raseti sitis,rasi sitis,rasi sitis,You (pl.) may have been shaveed
+Passive Subjunctive,Perfect,3rd Person,Singular,rasatus sit,rasetus sit,rasus sit,rasus sit,He/she/it may have been shaveed
+Passive Subjunctive,Perfect,3rd Person,Plural,rasati sint,raseti sint,rasi sint,rasi sint,They may have been shaveed
+Passive Subjunctive,Pluperfect,1st Person,Singular,rasatus essem,rasetus essem,rasus essem,rasus essem,I should have been shaveed
+Passive Subjunctive,Pluperfect,1st Person,Plural,rasati essemus,raseti essemus,rasi essemus,rasi essemus,We should have been shaveed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,rasatus esses,rasetus esses,rasus esses,rasus esses,You would have been shaveed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,rasati essetis,raseti essetis,rasi essetis,rasi essetis,You (pl.) would have been shaveed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,rasatus esset,rasetus esset,rasus esset,rasus esset,He/she/it would have been shaveed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,rasati essent,raseti essent,rasi essent,rasi essent,They would have been shaveed

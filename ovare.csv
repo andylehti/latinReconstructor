@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,ovo,oveo,ovo,ovio,I lay an egg
+Active Indicative,Present,1st Person,Plural,ovamus,ovemus,ovimus,ovimus,We lay an egg
+Active Indicative,Present,2nd Person,Singular,ovas,oves,ovis,ovis,You lay an egg
+Active Indicative,Present,2nd Person,Plural,ovatis,ovetis,ovitis,ovitis,You (pl.) lay an egg
+Active Indicative,Present,3rd Person,Singular,ovat,ovet,ovit,ovit,He/she/it lay an egg
+Active Indicative,Present,3rd Person,Plural,ovant,ovent,oviunt,oviunt,They lay an egg
+Active Indicative,Imperfect,1st Person,Singular,ovabam,ovebam,ovebam,oviebam,I was lay an egging
+Active Indicative,Imperfect,1st Person,Plural,ovabamus,ovebamus,ovebamus,oviebamus,We were lay an egging
+Active Indicative,Imperfect,2nd Person,Singular,ovabas,ovebas,ovebas,oviebas,You were lay an egging
+Active Indicative,Imperfect,2nd Person,Plural,ovabatis,ovebatis,ovebatis,oviebatis,You (pl.) were lay an egging
+Active Indicative,Imperfect,3rd Person,Singular,ovabat,ovebat,ovebat,oviebat,He/she/it was lay an egging
+Active Indicative,Imperfect,3rd Person,Plural,ovabant,ovebant,ovebant,oviebant,They were lay an egging
+Active Indicative,Future,1st Person,Singular,ovabo,ovebo,ovam,oviam,I will lay an egg
+Active Indicative,Future,1st Person,Plural,ovabimus,ovebimus,ovemus,oviemus,We will lay an egg
+Active Indicative,Future,2nd Person,Singular,ovabis,ovebis,oves,ovies,You will lay an egg
+Active Indicative,Future,2nd Person,Plural,ovabitis,ovebitis,ovetis,ovietis,You (pl.) will lay an egg
+Active Indicative,Future,3rd Person,Singular,ovabit,ovebit,ovet,oviet,He/she/it will lay an egg
+Active Indicative,Future,3rd Person,Plural,ovabunt,ovebunt,ovent,ovient,They will lay an egg
+Active Indicative,Perfect,1st Person,Singular,ovavi,ovui,ovi,ovi,I have lay an egged
+Active Indicative,Perfect,1st Person,Plural,ovavimus,ovuimus,ovimus,ovimus,We have lay an egged
+Active Indicative,Perfect,2nd Person,Singular,ovavisti,ovuisti,ovisti,ovisti,You have lay an egged
+Active Indicative,Perfect,2nd Person,Plural,ovavistis,ovuistis,ovistis,ovistis,You (pl.) have lay an egged
+Active Indicative,Perfect,3rd Person,Singular,ovavit,ovuit,ovit,ovit,He/she/it has lay an egged
+Active Indicative,Perfect,3rd Person,Plural,ovaverunt,ovuerunt,overunt,overunt,They have lay an egged
+Active Indicative,Pluperfect,1st Person,Singular,ovaveram,ovueram,overam,overam,I had lay an egged
+Active Indicative,Pluperfect,1st Person,Plural,ovaveramus,ovueramus,overamus,overamus,We had lay an egged
+Active Indicative,Pluperfect,2nd Person,Singular,ovaveras,ovueras,overas,overas,You had lay an egged
+Active Indicative,Pluperfect,2nd Person,Plural,ovaveratis,ovueratis,overatis,overatis,You (pl.) had lay an egged
+Active Indicative,Pluperfect,3rd Person,Singular,ovaverat,ovuerat,overat,overat,He/she/it had lay an egged
+Active Indicative,Pluperfect,3rd Person,Plural,ovaverant,ovuerant,overant,overant,They had lay an egged
+Active Indicative,Future Perfect,1st Person,Singular,ovavero,ovueero,overo,oviero,I will have lay an egged
+Active Indicative,Future Perfect,1st Person,Plural,ovaverimus,ovuerimus,overimus,ovierimus,We will have lay an egged
+Active Indicative,Future Perfect,2nd Person,Singular,ovaveris,ovueris,overis,ovieris,You will have lay an egged
+Active Indicative,Future Perfect,2nd Person,Plural,ovaveritis,ovueritis,overitis,ovieritis,You (pl.) will have lay an egged
+Active Indicative,Future Perfect,3rd Person,Singular,ovaverit,ovuerit,overit,ovierit,He/she/it will have lay an egged
+Active Indicative,Future Perfect,3rd Person,Plural,ovaverint,ovuerint,overint,ovierint,They will have lay an egged
+Passive Indicative,Present,1st Person,Singular,ovor,oveor,ovor,ovior,I am being lay an egged
+Passive Indicative,Present,1st Person,Plural,ovamur,ovemur,ovimur,ovimur,We are being lay an egged
+Passive Indicative,Present,2nd Person,Singular,ovaris,overis,oviris,oviris,You are being lay an egged
+Passive Indicative,Present,2nd Person,Plural,ovamini,ovemini,ovimini,ovimini,You (pl.) are being lay an egged
+Passive Indicative,Present,3rd Person,Singular,ovatur,ovetur,ovitur,ovitur,He/she/it is being lay an egged
+Passive Indicative,Present,3rd Person,Plural,ovantur,oventur,oviuntur,oviuntur,They are being lay an egged
+Passive Indicative,Imperfect,1st Person,Singular,ovabar,ovebar,ovebar,oviebar,I was lay an egged
+Passive Indicative,Imperfect,1st Person,Plural,ovabamur,ovebamur,ovebamur,oviebamur,We were lay an egged
+Passive Indicative,Imperfect,2nd Person,Singular,ovabaris,ovebaris,ovebaris,oviebaris,You were lay an egged
+Passive Indicative,Imperfect,2nd Person,Plural,ovabamini,ovebamini,ovebamini,oviebamini,You (pl.) were lay an egged
+Passive Indicative,Imperfect,3rd Person,Singular,ovabatur,ovebatur,ovebatur,oviebatur,He/she/it was lay an egged
+Passive Indicative,Imperfect,3rd Person,Plural,ovabantur,ovebantur,ovebantur,oviebantur,They were lay an egged
+Passive Indicative,Future,1st Person,Singular,ovabor,ovebor,ovar,oviar,I will be lay an egged
+Passive Indicative,Future,1st Person,Plural,ovabimur,ovebimur,ovemur,oviemur,We will be lay an egged
+Passive Indicative,Future,2nd Person,Singular,ovaberis,oveberis,overis,ovieris,You will be lay an egged
+Passive Indicative,Future,2nd Person,Plural,ovabimini,ovebimini,ovemini,oviemini,You (pl.) will be lay an egged
+Passive Indicative,Future,3rd Person,Singular,ovabitur,ovebitur,ovetur,ovietur,He/she/it will be lay an egged
+Passive Indicative,Future,3rd Person,Plural,ovabuntur,ovebuntur,oventur,ovientur,They will be lay an egged
+Passive Indicative,Perfect,1st Person,Singular,ovatus sum,ovetus sum,ovus sum,ovus sum,I have been lay an egged
+Passive Indicative,Perfect,1st Person,Plural,ovati sumus,oveti sumus,ovi sumus,ovi sumus,We have been lay an egged
+Passive Indicative,Perfect,2nd Person,Singular,ovatus es,ovetus es,ovus es,ovus es,You have been lay an egged
+Passive Indicative,Perfect,2nd Person,Plural,ovati estis,oveti estis,ovi estis,ovi estis,You (pl.) have been lay an egged
+Passive Indicative,Perfect,3rd Person,Singular,ovatus est,ovetus est,ovus est,ovus est,He/she/it has been lay an egged
+Passive Indicative,Perfect,3rd Person,Plural,ovati sunt,oveti sunt,ovi sunt,ovi sunt,They have been lay an egged
+Passive Indicative,Pluperfect,1st Person,Singular,ovatus eram,ovetus eram,ovus eram,ovus eram,I had been lay an egged
+Passive Indicative,Pluperfect,1st Person,Plural,ovati eramus,oveti eramus,ovi eramus,ovi eramus,We had been lay an egged
+Passive Indicative,Pluperfect,2nd Person,Singular,ovatus eras,ovetus eras,ovus eras,ovus eras,You had been lay an egged
+Passive Indicative,Pluperfect,2nd Person,Plural,ovati eratis,oveti eratis,ovi eratis,ovi eratis,You (pl.) had been lay an egged
+Passive Indicative,Pluperfect,3rd Person,Singular,ovatus erat,ovetus erat,ovus erat,ovus erat,He/she/it had been lay an egged
+Passive Indicative,Pluperfect,3rd Person,Plural,ovati erant,oveti erant,ovi erant,ovi erant,They had been lay an egged
+Passive Indicative,Future Perfect,1st Person,Singular,ovatus ero,ovetus ero,ovus ero,ovus ero,I will have been lay an egged
+Passive Indicative,Future Perfect,1st Person,Plural,ovati erimus,oveti erimus,ovi erimus,ovi erimus,We will have been lay an egged
+Passive Indicative,Future Perfect,2nd Person,Singular,ovatus eris,ovetus eris,ovus eris,ovus eris,You will have been lay an egged
+Passive Indicative,Future Perfect,2nd Person,Plural,ovati eritis,oveti eritis,ovi eritis,ovi eritis,You (pl.) will have been lay an egged
+Passive Indicative,Future Perfect,3rd Person,Singular,ovatus erit,ovetus erit,ovus erit,ovus erit,He/she/it will have been lay an egged
+Passive Indicative,Future Perfect,3rd Person,Plural,ovati erunt,oveti erunt,ovi erunt,ovi erunt,They will have been lay an egged
+Active Subjunctive,Present,1st Person,Singular,ovem,ovem,ovam,ovam,I may lay an egg
+Active Subjunctive,Present,1st Person,Plural,ovemus,ovemus,ovamus,ovamus,We may lay an egg
+Active Subjunctive,Present,2nd Person,Singular,oves,oves,ovas,ovas,You may lay an egg
+Active Subjunctive,Present,2nd Person,Plural,ovetis,ovetis,ovatis,ovatis,You (pl.) may lay an egg
+Active Subjunctive,Present,3rd Person,Singular,ovet,ovet,ovat,ovat,He/she/it may lay an egg
+Active Subjunctive,Present,3rd Person,Plural,ovent,ovent,ovant,ovant,They may lay an egg
+Active Subjunctive,Imperfect,1st Person,Singular,ovarem,overem,overem,ovirem,I should lay an egg
+Active Subjunctive,Imperfect,1st Person,Plural,ovaremus,overemus,overemus,oviremus,We should lay an egg
+Active Subjunctive,Imperfect,2nd Person,Singular,ovares,overes,overes,ovires,You should lay an egg
+Active Subjunctive,Imperfect,2nd Person,Plural,ovaretis,overetis,overetis,oviretis,You (pl.) should lay an egg
+Active Subjunctive,Imperfect,3rd Person,Singular,ovaret,overet,overet,oviret,He/she/it should lay an egg
+Active Subjunctive,Imperfect,3rd Person,Plural,ovarent,overent,overent,ovirent,They should lay an egg
+Active Subjunctive,Perfect,1st Person,Singular,overim,ovuerim,overim,ovierim,I may have lay an egged
+Active Subjunctive,Perfect,1st Person,Plural,overimus,ovuerimus,overimus,ovierimus,We may have lay an egged
+Active Subjunctive,Perfect,2nd Person,Singular,overis,ovueris,overis,ovieris,You may have lay an egged
+Active Subjunctive,Perfect,2nd Person,Plural,overitis,ovueritis,overitis,ovieritis,You (pl.) may have lay an egged
+Active Subjunctive,Perfect,3rd Person,Singular,overit,ovuerit,overit,ovierit,He/she/it may have lay an egged
+Active Subjunctive,Perfect,3rd Person,Plural,overint,ovuerint,overint,ovierint,They may have lay an egged
+Active Subjunctive,Pluperfect,1st Person,Singular,ovissem,ovuissem,ovissem,ovissem,I should have lay an egged
+Active Subjunctive,Pluperfect,1st Person,Plural,ovissemus,ovuissemus,ovissemus,ovissemus,We should have lay an egged
+Active Subjunctive,Pluperfect,2nd Person,Singular,ovisses,ovuisses,ovisses,ovisses,You would have lay an egged
+Active Subjunctive,Pluperfect,2nd Person,Plural,ovissetis,ovuissetis,ovissetis,ovissetis,You (pl.) would have lay an egged
+Active Subjunctive,Pluperfect,3rd Person,Singular,ovisset,ovuisset,ovisset,ovisset,He/she/it would have lay an egged
+Active Subjunctive,Pluperfect,3rd Person,Plural,ovissent,ovuissent,ovissent,ovissent,They would have lay an egged
+Passive Subjunctive,Present,1st Person,Singular,over,over,ovar,ovar,I may be lay an egged
+Passive Subjunctive,Present,1st Person,Plural,ovemur,ovemur,ovamur,ovamur,We may be lay an egged
+Passive Subjunctive,Present,2nd Person,Singular,overis,overis,ovaris,ovaris,You may be lay an egged
+Passive Subjunctive,Present,2nd Person,Plural,ovemini,ovemini,ovamini,ovamini,You (pl.) may be lay an egged
+Passive Subjunctive,Present,3rd Person,Singular,ovetur,ovetur,ovatur,ovatur,He/she/it may be lay an egged
+Passive Subjunctive,Present,3rd Person,Plural,oventur,oventur,ovantur,ovantur,They may be lay an egged
+Passive Subjunctive,Imperfect,1st Person,Singular,ovarer,overer,overer,ovirer,I should be lay an egged
+Passive Subjunctive,Imperfect,1st Person,Plural,ovaremur,overemur,overemur,oviremur,We should be lay an egged
+Passive Subjunctive,Imperfect,2nd Person,Singular,ovareris,overeris,overeris,ovireris,You would be lay an egged
+Passive Subjunctive,Imperfect,2nd Person,Plural,ovaremini,overemini,overemini,oviremini,You (pl.) would be lay an egged
+Passive Subjunctive,Imperfect,3rd Person,Singular,ovaretur,overetur,overetur,oviretur,He/she/it would be lay an egged
+Passive Subjunctive,Imperfect,3rd Person,Plural,ovarentur,overentur,overentur,ovirentur,They would be lay an egged
+Passive Subjunctive,Perfect,1st Person,Singular,ovatus sim,ovetus sim,ovus sim,ovus sim,I may have been lay an egged
+Passive Subjunctive,Perfect,1st Person,Plural,ovati simus,oveti simus,ovi simus,ovi simus,We may have been lay an egged
+Passive Subjunctive,Perfect,2nd Person,Singular,ovatus sis,ovetus sis,ovus sis,ovus sis,You may have been lay an egged
+Passive Subjunctive,Perfect,2nd Person,Plural,ovati sitis,oveti sitis,ovi sitis,ovi sitis,You (pl.) may have been lay an egged
+Passive Subjunctive,Perfect,3rd Person,Singular,ovatus sit,ovetus sit,ovus sit,ovus sit,He/she/it may have been lay an egged
+Passive Subjunctive,Perfect,3rd Person,Plural,ovati sint,oveti sint,ovi sint,ovi sint,They may have been lay an egged
+Passive Subjunctive,Pluperfect,1st Person,Singular,ovatus essem,ovetus essem,ovus essem,ovus essem,I should have been lay an egged
+Passive Subjunctive,Pluperfect,1st Person,Plural,ovati essemus,oveti essemus,ovi essemus,ovi essemus,We should have been lay an egged
+Passive Subjunctive,Pluperfect,2nd Person,Singular,ovatus esses,ovetus esses,ovus esses,ovus esses,You would have been lay an egged
+Passive Subjunctive,Pluperfect,2nd Person,Plural,ovati essetis,oveti essetis,ovi essetis,ovi essetis,You (pl.) would have been lay an egged
+Passive Subjunctive,Pluperfect,3rd Person,Singular,ovatus esset,ovetus esset,ovus esset,ovus esset,He/she/it would have been lay an egged
+Passive Subjunctive,Pluperfect,3rd Person,Plural,ovati essent,oveti essent,ovi essent,ovi essent,They would have been lay an egged

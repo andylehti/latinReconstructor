@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,venaro,venareo,venaro,venario,I hunt
+Active Indicative,Present,1st Person,Plural,venaramus,venaremus,venarimus,venarimus,We hunt
+Active Indicative,Present,2nd Person,Singular,venaras,venares,venaris,venaris,You hunt
+Active Indicative,Present,2nd Person,Plural,venaratis,venaretis,venaritis,venaritis,You (pl.) hunt
+Active Indicative,Present,3rd Person,Singular,venarat,venaret,venarit,venarit,He/she/it hunt
+Active Indicative,Present,3rd Person,Plural,venarant,venarent,venariunt,venariunt,They hunt
+Active Indicative,Imperfect,1st Person,Singular,venarabam,venarebam,venarebam,venariebam,I was hunting
+Active Indicative,Imperfect,1st Person,Plural,venarabamus,venarebamus,venarebamus,venariebamus,We were hunting
+Active Indicative,Imperfect,2nd Person,Singular,venarabas,venarebas,venarebas,venariebas,You were hunting
+Active Indicative,Imperfect,2nd Person,Plural,venarabatis,venarebatis,venarebatis,venariebatis,You (pl.) were hunting
+Active Indicative,Imperfect,3rd Person,Singular,venarabat,venarebat,venarebat,venariebat,He/she/it was hunting
+Active Indicative,Imperfect,3rd Person,Plural,venarabant,venarebant,venarebant,venariebant,They were hunting
+Active Indicative,Future,1st Person,Singular,venarabo,venarebo,venaram,venariam,I will hunt
+Active Indicative,Future,1st Person,Plural,venarabimus,venarebimus,venaremus,venariemus,We will hunt
+Active Indicative,Future,2nd Person,Singular,venarabis,venarebis,venares,venaries,You will hunt
+Active Indicative,Future,2nd Person,Plural,venarabitis,venarebitis,venaretis,venarietis,You (pl.) will hunt
+Active Indicative,Future,3rd Person,Singular,venarabit,venarebit,venaret,venariet,He/she/it will hunt
+Active Indicative,Future,3rd Person,Plural,venarabunt,venarebunt,venarent,venarient,They will hunt
+Active Indicative,Perfect,1st Person,Singular,venaravi,venarui,venari,venari,I have hunted
+Active Indicative,Perfect,1st Person,Plural,venaravimus,venaruimus,venarimus,venarimus,We have hunted
+Active Indicative,Perfect,2nd Person,Singular,venaravisti,venaruisti,venaristi,venaristi,You have hunted
+Active Indicative,Perfect,2nd Person,Plural,venaravistis,venaruistis,venaristis,venaristis,You (pl.) have hunted
+Active Indicative,Perfect,3rd Person,Singular,venaravit,venaruit,venarit,venarit,He/she/it has hunted
+Active Indicative,Perfect,3rd Person,Plural,venaraverunt,venaruerunt,venarerunt,venarerunt,They have hunted
+Active Indicative,Pluperfect,1st Person,Singular,venaraveram,venarueram,venareram,venareram,I had hunted
+Active Indicative,Pluperfect,1st Person,Plural,venaraveramus,venarueramus,venareramus,venareramus,We had hunted
+Active Indicative,Pluperfect,2nd Person,Singular,venaraveras,venarueras,venareras,venareras,You had hunted
+Active Indicative,Pluperfect,2nd Person,Plural,venaraveratis,venarueratis,venareratis,venareratis,You (pl.) had hunted
+Active Indicative,Pluperfect,3rd Person,Singular,venaraverat,venaruerat,venarerat,venarerat,He/she/it had hunted
+Active Indicative,Pluperfect,3rd Person,Plural,venaraverant,venaruerant,venarerant,venarerant,They had hunted
+Active Indicative,Future Perfect,1st Person,Singular,venaravero,venarueero,venarero,venariero,I will have hunted
+Active Indicative,Future Perfect,1st Person,Plural,venaraverimus,venaruerimus,venarerimus,venarierimus,We will have hunted
+Active Indicative,Future Perfect,2nd Person,Singular,venaraveris,venarueris,venareris,venarieris,You will have hunted
+Active Indicative,Future Perfect,2nd Person,Plural,venaraveritis,venarueritis,venareritis,venarieritis,You (pl.) will have hunted
+Active Indicative,Future Perfect,3rd Person,Singular,venaraverit,venaruerit,venarerit,venarierit,He/she/it will have hunted
+Active Indicative,Future Perfect,3rd Person,Plural,venaraverint,venaruerint,venarerint,venarierint,They will have hunted
+Passive Indicative,Present,1st Person,Singular,venaror,venareor,venaror,venarior,I am being hunted
+Passive Indicative,Present,1st Person,Plural,venaramur,venaremur,venarimur,venarimur,We are being hunted
+Passive Indicative,Present,2nd Person,Singular,venararis,venareris,venariris,venariris,You are being hunted
+Passive Indicative,Present,2nd Person,Plural,venaramini,venaremini,venarimini,venarimini,You (pl.) are being hunted
+Passive Indicative,Present,3rd Person,Singular,venaratur,venaretur,venaritur,venaritur,He/she/it is being hunted
+Passive Indicative,Present,3rd Person,Plural,venarantur,venarentur,venariuntur,venariuntur,They are being hunted
+Passive Indicative,Imperfect,1st Person,Singular,venarabar,venarebar,venarebar,venariebar,I was hunted
+Passive Indicative,Imperfect,1st Person,Plural,venarabamur,venarebamur,venarebamur,venariebamur,We were hunted
+Passive Indicative,Imperfect,2nd Person,Singular,venarabaris,venarebaris,venarebaris,venariebaris,You were hunted
+Passive Indicative,Imperfect,2nd Person,Plural,venarabamini,venarebamini,venarebamini,venariebamini,You (pl.) were hunted
+Passive Indicative,Imperfect,3rd Person,Singular,venarabatur,venarebatur,venarebatur,venariebatur,He/she/it was hunted
+Passive Indicative,Imperfect,3rd Person,Plural,venarabantur,venarebantur,venarebantur,venariebantur,They were hunted
+Passive Indicative,Future,1st Person,Singular,venarabor,venarebor,venarar,venariar,I will be hunted
+Passive Indicative,Future,1st Person,Plural,venarabimur,venarebimur,venaremur,venariemur,We will be hunted
+Passive Indicative,Future,2nd Person,Singular,venaraberis,venareberis,venareris,venarieris,You will be hunted
+Passive Indicative,Future,2nd Person,Plural,venarabimini,venarebimini,venaremini,venariemini,You (pl.) will be hunted
+Passive Indicative,Future,3rd Person,Singular,venarabitur,venarebitur,venaretur,venarietur,He/she/it will be hunted
+Passive Indicative,Future,3rd Person,Plural,venarabuntur,venarebuntur,venarentur,venarientur,They will be hunted
+Passive Indicative,Perfect,1st Person,Singular,venaratus sum,venaretus sum,venarus sum,venarus sum,I have been hunted
+Passive Indicative,Perfect,1st Person,Plural,venarati sumus,venareti sumus,venari sumus,venari sumus,We have been hunted
+Passive Indicative,Perfect,2nd Person,Singular,venaratus es,venaretus es,venarus es,venarus es,You have been hunted
+Passive Indicative,Perfect,2nd Person,Plural,venarati estis,venareti estis,venari estis,venari estis,You (pl.) have been hunted
+Passive Indicative,Perfect,3rd Person,Singular,venaratus est,venaretus est,venarus est,venarus est,He/she/it has been hunted
+Passive Indicative,Perfect,3rd Person,Plural,venarati sunt,venareti sunt,venari sunt,venari sunt,They have been hunted
+Passive Indicative,Pluperfect,1st Person,Singular,venaratus eram,venaretus eram,venarus eram,venarus eram,I had been hunted
+Passive Indicative,Pluperfect,1st Person,Plural,venarati eramus,venareti eramus,venari eramus,venari eramus,We had been hunted
+Passive Indicative,Pluperfect,2nd Person,Singular,venaratus eras,venaretus eras,venarus eras,venarus eras,You had been hunted
+Passive Indicative,Pluperfect,2nd Person,Plural,venarati eratis,venareti eratis,venari eratis,venari eratis,You (pl.) had been hunted
+Passive Indicative,Pluperfect,3rd Person,Singular,venaratus erat,venaretus erat,venarus erat,venarus erat,He/she/it had been hunted
+Passive Indicative,Pluperfect,3rd Person,Plural,venarati erant,venareti erant,venari erant,venari erant,They had been hunted
+Passive Indicative,Future Perfect,1st Person,Singular,venaratus ero,venaretus ero,venarus ero,venarus ero,I will have been hunted
+Passive Indicative,Future Perfect,1st Person,Plural,venarati erimus,venareti erimus,venari erimus,venari erimus,We will have been hunted
+Passive Indicative,Future Perfect,2nd Person,Singular,venaratus eris,venaretus eris,venarus eris,venarus eris,You will have been hunted
+Passive Indicative,Future Perfect,2nd Person,Plural,venarati eritis,venareti eritis,venari eritis,venari eritis,You (pl.) will have been hunted
+Passive Indicative,Future Perfect,3rd Person,Singular,venaratus erit,venaretus erit,venarus erit,venarus erit,He/she/it will have been hunted
+Passive Indicative,Future Perfect,3rd Person,Plural,venarati erunt,venareti erunt,venari erunt,venari erunt,They will have been hunted
+Active Subjunctive,Present,1st Person,Singular,venarem,venarem,venaram,venaram,I may hunt
+Active Subjunctive,Present,1st Person,Plural,venaremus,venaremus,venaramus,venaramus,We may hunt
+Active Subjunctive,Present,2nd Person,Singular,venares,venares,venaras,venaras,You may hunt
+Active Subjunctive,Present,2nd Person,Plural,venaretis,venaretis,venaratis,venaratis,You (pl.) may hunt
+Active Subjunctive,Present,3rd Person,Singular,venaret,venaret,venarat,venarat,He/she/it may hunt
+Active Subjunctive,Present,3rd Person,Plural,venarent,venarent,venarant,venarant,They may hunt
+Active Subjunctive,Imperfect,1st Person,Singular,venararem,venarerem,venarerem,venarirem,I should hunt
+Active Subjunctive,Imperfect,1st Person,Plural,venararemus,venareremus,venareremus,venariremus,We should hunt
+Active Subjunctive,Imperfect,2nd Person,Singular,venarares,venareres,venareres,venarires,You should hunt
+Active Subjunctive,Imperfect,2nd Person,Plural,venararetis,venareretis,venareretis,venariretis,You (pl.) should hunt
+Active Subjunctive,Imperfect,3rd Person,Singular,venararet,venareret,venareret,venariret,He/she/it should hunt
+Active Subjunctive,Imperfect,3rd Person,Plural,venararent,venarerent,venarerent,venarirent,They should hunt
+Active Subjunctive,Perfect,1st Person,Singular,venarerim,venaruerim,venarerim,venarierim,I may have hunted
+Active Subjunctive,Perfect,1st Person,Plural,venarerimus,venaruerimus,venarerimus,venarierimus,We may have hunted
+Active Subjunctive,Perfect,2nd Person,Singular,venareris,venarueris,venareris,venarieris,You may have hunted
+Active Subjunctive,Perfect,2nd Person,Plural,venareritis,venarueritis,venareritis,venarieritis,You (pl.) may have hunted
+Active Subjunctive,Perfect,3rd Person,Singular,venarerit,venaruerit,venarerit,venarierit,He/she/it may have hunted
+Active Subjunctive,Perfect,3rd Person,Plural,venarerint,venaruerint,venarerint,venarierint,They may have hunted
+Active Subjunctive,Pluperfect,1st Person,Singular,venarissem,venaruissem,venarissem,venarissem,I should have hunted
+Active Subjunctive,Pluperfect,1st Person,Plural,venarissemus,venaruissemus,venarissemus,venarissemus,We should have hunted
+Active Subjunctive,Pluperfect,2nd Person,Singular,venarisses,venaruisses,venarisses,venarisses,You would have hunted
+Active Subjunctive,Pluperfect,2nd Person,Plural,venarissetis,venaruissetis,venarissetis,venarissetis,You (pl.) would have hunted
+Active Subjunctive,Pluperfect,3rd Person,Singular,venarisset,venaruisset,venarisset,venarisset,He/she/it would have hunted
+Active Subjunctive,Pluperfect,3rd Person,Plural,venarissent,venaruissent,venarissent,venarissent,They would have hunted
+Passive Subjunctive,Present,1st Person,Singular,venarer,venarer,venarar,venarar,I may be hunted
+Passive Subjunctive,Present,1st Person,Plural,venaremur,venaremur,venaramur,venaramur,We may be hunted
+Passive Subjunctive,Present,2nd Person,Singular,venareris,venareris,venararis,venararis,You may be hunted
+Passive Subjunctive,Present,2nd Person,Plural,venaremini,venaremini,venaramini,venaramini,You (pl.) may be hunted
+Passive Subjunctive,Present,3rd Person,Singular,venaretur,venaretur,venaratur,venaratur,He/she/it may be hunted
+Passive Subjunctive,Present,3rd Person,Plural,venarentur,venarentur,venarantur,venarantur,They may be hunted
+Passive Subjunctive,Imperfect,1st Person,Singular,venararer,venarerer,venarerer,venarirer,I should be hunted
+Passive Subjunctive,Imperfect,1st Person,Plural,venararemur,venareremur,venareremur,venariremur,We should be hunted
+Passive Subjunctive,Imperfect,2nd Person,Singular,venarareris,venarereris,venarereris,venarireris,You would be hunted
+Passive Subjunctive,Imperfect,2nd Person,Plural,venararemini,venareremini,venareremini,venariremini,You (pl.) would be hunted
+Passive Subjunctive,Imperfect,3rd Person,Singular,venararetur,venareretur,venareretur,venariretur,He/she/it would be hunted
+Passive Subjunctive,Imperfect,3rd Person,Plural,venararentur,venarerentur,venarerentur,venarirentur,They would be hunted
+Passive Subjunctive,Perfect,1st Person,Singular,venaratus sim,venaretus sim,venarus sim,venarus sim,I may have been hunted
+Passive Subjunctive,Perfect,1st Person,Plural,venarati simus,venareti simus,venari simus,venari simus,We may have been hunted
+Passive Subjunctive,Perfect,2nd Person,Singular,venaratus sis,venaretus sis,venarus sis,venarus sis,You may have been hunted
+Passive Subjunctive,Perfect,2nd Person,Plural,venarati sitis,venareti sitis,venari sitis,venari sitis,You (pl.) may have been hunted
+Passive Subjunctive,Perfect,3rd Person,Singular,venaratus sit,venaretus sit,venarus sit,venarus sit,He/she/it may have been hunted
+Passive Subjunctive,Perfect,3rd Person,Plural,venarati sint,venareti sint,venari sint,venari sint,They may have been hunted
+Passive Subjunctive,Pluperfect,1st Person,Singular,venaratus essem,venaretus essem,venarus essem,venarus essem,I should have been hunted
+Passive Subjunctive,Pluperfect,1st Person,Plural,venarati essemus,venareti essemus,venari essemus,venari essemus,We should have been hunted
+Passive Subjunctive,Pluperfect,2nd Person,Singular,venaratus esses,venaretus esses,venarus esses,venarus esses,You would have been hunted
+Passive Subjunctive,Pluperfect,2nd Person,Plural,venarati essetis,venareti essetis,venari essetis,venari essetis,You (pl.) would have been hunted
+Passive Subjunctive,Pluperfect,3rd Person,Singular,venaratus esset,venaretus esset,venarus esset,venarus esset,He/she/it would have been hunted
+Passive Subjunctive,Pluperfect,3rd Person,Plural,venarati essent,venareti essent,venari essent,venari essent,They would have been hunted

@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,tractio,tractieo,tractio,tractio,I trace
+Active Indicative,Present,1st Person,Plural,tractiamus,tractiemus,tractimus,tractimus,We trace
+Active Indicative,Present,2nd Person,Singular,tractias,tracties,tractis,tractis,You trace
+Active Indicative,Present,2nd Person,Plural,tractiatis,tractietis,tractitis,tractitis,You (pl.) trace
+Active Indicative,Present,3rd Person,Singular,tractiat,tractiet,tractit,tractit,He/she/it trace
+Active Indicative,Present,3rd Person,Plural,tractiant,tractient,tractiunt,tractiunt,They trace
+Active Indicative,Imperfect,1st Person,Singular,tractiabam,tractiebam,tractiebam,tractiebam,I was traceing
+Active Indicative,Imperfect,1st Person,Plural,tractiabamus,tractiebamus,tractiebamus,tractiebamus,We were traceing
+Active Indicative,Imperfect,2nd Person,Singular,tractiabas,tractiebas,tractiebas,tractiebas,You were traceing
+Active Indicative,Imperfect,2nd Person,Plural,tractiabatis,tractiebatis,tractiebatis,tractiebatis,You (pl.) were traceing
+Active Indicative,Imperfect,3rd Person,Singular,tractiabat,tractiebat,tractiebat,tractiebat,He/she/it was traceing
+Active Indicative,Imperfect,3rd Person,Plural,tractiabant,tractiebant,tractiebant,tractiebant,They were traceing
+Active Indicative,Future,1st Person,Singular,tractiabo,tractiebo,tractiam,tractiam,I will trace
+Active Indicative,Future,1st Person,Plural,tractiabimus,tractiebimus,tractiemus,tractiemus,We will trace
+Active Indicative,Future,2nd Person,Singular,tractiabis,tractiebis,tracties,tracties,You will trace
+Active Indicative,Future,2nd Person,Plural,tractiabitis,tractiebitis,tractietis,tractietis,You (pl.) will trace
+Active Indicative,Future,3rd Person,Singular,tractiabit,tractiebit,tractiet,tractiet,He/she/it will trace
+Active Indicative,Future,3rd Person,Plural,tractiabunt,tractiebunt,tractient,tractient,They will trace
+Active Indicative,Perfect,1st Person,Singular,tractiavi,tractiui,tracti,tracti,I have traceed
+Active Indicative,Perfect,1st Person,Plural,tractiavimus,tractiuimus,tractimus,tractimus,We have traceed
+Active Indicative,Perfect,2nd Person,Singular,tractiavisti,tractiuisti,tractisti,tractisti,You have traceed
+Active Indicative,Perfect,2nd Person,Plural,tractiavistis,tractiuistis,tractistis,tractistis,You (pl.) have traceed
+Active Indicative,Perfect,3rd Person,Singular,tractiavit,tractiuit,tractit,tractit,He/she/it has traceed
+Active Indicative,Perfect,3rd Person,Plural,tractiaverunt,tractiuerunt,tractierunt,tractierunt,They have traceed
+Active Indicative,Pluperfect,1st Person,Singular,tractiaveram,tractiueram,tractieram,tractieram,I had traceed
+Active Indicative,Pluperfect,1st Person,Plural,tractiaveramus,tractiueramus,tractieramus,tractieramus,We had traceed
+Active Indicative,Pluperfect,2nd Person,Singular,tractiaveras,tractiueras,tractieras,tractieras,You had traceed
+Active Indicative,Pluperfect,2nd Person,Plural,tractiaveratis,tractiueratis,tractieratis,tractieratis,You (pl.) had traceed
+Active Indicative,Pluperfect,3rd Person,Singular,tractiaverat,tractiuerat,tractierat,tractierat,He/she/it had traceed
+Active Indicative,Pluperfect,3rd Person,Plural,tractiaverant,tractiuerant,tractierant,tractierant,They had traceed
+Active Indicative,Future Perfect,1st Person,Singular,tractiavero,tractiueero,tractiero,tractiero,I will have traceed
+Active Indicative,Future Perfect,1st Person,Plural,tractiaverimus,tractiuerimus,tractierimus,tractierimus,We will have traceed
+Active Indicative,Future Perfect,2nd Person,Singular,tractiaveris,tractiueris,tractieris,tractieris,You will have traceed
+Active Indicative,Future Perfect,2nd Person,Plural,tractiaveritis,tractiueritis,tractieritis,tractieritis,You (pl.) will have traceed
+Active Indicative,Future Perfect,3rd Person,Singular,tractiaverit,tractiuerit,tractierit,tractierit,He/she/it will have traceed
+Active Indicative,Future Perfect,3rd Person,Plural,tractiaverint,tractiuerint,tractierint,tractierint,They will have traceed
+Passive Indicative,Present,1st Person,Singular,tractior,tractieor,tractior,tractior,I am being traceed
+Passive Indicative,Present,1st Person,Plural,tractiamur,tractiemur,tractimur,tractimur,We are being traceed
+Passive Indicative,Present,2nd Person,Singular,tractiaris,tractieris,tractiris,tractiris,You are being traceed
+Passive Indicative,Present,2nd Person,Plural,tractiamini,tractiemini,tractimini,tractimini,You (pl.) are being traceed
+Passive Indicative,Present,3rd Person,Singular,tractiatur,tractietur,tractitur,tractitur,He/she/it is being traceed
+Passive Indicative,Present,3rd Person,Plural,tractiantur,tractientur,tractiuntur,tractiuntur,They are being traceed
+Passive Indicative,Imperfect,1st Person,Singular,tractiabar,tractiebar,tractiebar,tractiebar,I was traceed
+Passive Indicative,Imperfect,1st Person,Plural,tractiabamur,tractiebamur,tractiebamur,tractiebamur,We were traceed
+Passive Indicative,Imperfect,2nd Person,Singular,tractiabaris,tractiebaris,tractiebaris,tractiebaris,You were traceed
+Passive Indicative,Imperfect,2nd Person,Plural,tractiabamini,tractiebamini,tractiebamini,tractiebamini,You (pl.) were traceed
+Passive Indicative,Imperfect,3rd Person,Singular,tractiabatur,tractiebatur,tractiebatur,tractiebatur,He/she/it was traceed
+Passive Indicative,Imperfect,3rd Person,Plural,tractiabantur,tractiebantur,tractiebantur,tractiebantur,They were traceed
+Passive Indicative,Future,1st Person,Singular,tractiabor,tractiebor,tractiar,tractiar,I will be traceed
+Passive Indicative,Future,1st Person,Plural,tractiabimur,tractiebimur,tractiemur,tractiemur,We will be traceed
+Passive Indicative,Future,2nd Person,Singular,tractiaberis,tractieberis,tractieris,tractieris,You will be traceed
+Passive Indicative,Future,2nd Person,Plural,tractiabimini,tractiebimini,tractiemini,tractiemini,You (pl.) will be traceed
+Passive Indicative,Future,3rd Person,Singular,tractiabitur,tractiebitur,tractietur,tractietur,He/she/it will be traceed
+Passive Indicative,Future,3rd Person,Plural,tractiabuntur,tractiebuntur,tractientur,tractientur,They will be traceed
+Passive Indicative,Perfect,1st Person,Singular,tractiatus sum,tractietus sum,tractius sum,tractius sum,I have been traceed
+Passive Indicative,Perfect,1st Person,Plural,tractiati sumus,tractieti sumus,tracti sumus,tracti sumus,We have been traceed
+Passive Indicative,Perfect,2nd Person,Singular,tractiatus es,tractietus es,tractius es,tractius es,You have been traceed
+Passive Indicative,Perfect,2nd Person,Plural,tractiati estis,tractieti estis,tracti estis,tracti estis,You (pl.) have been traceed
+Passive Indicative,Perfect,3rd Person,Singular,tractiatus est,tractietus est,tractius est,tractius est,He/she/it has been traceed
+Passive Indicative,Perfect,3rd Person,Plural,tractiati sunt,tractieti sunt,tracti sunt,tracti sunt,They have been traceed
+Passive Indicative,Pluperfect,1st Person,Singular,tractiatus eram,tractietus eram,tractius eram,tractius eram,I had been traceed
+Passive Indicative,Pluperfect,1st Person,Plural,tractiati eramus,tractieti eramus,tracti eramus,tracti eramus,We had been traceed
+Passive Indicative,Pluperfect,2nd Person,Singular,tractiatus eras,tractietus eras,tractius eras,tractius eras,You had been traceed
+Passive Indicative,Pluperfect,2nd Person,Plural,tractiati eratis,tractieti eratis,tracti eratis,tracti eratis,You (pl.) had been traceed
+Passive Indicative,Pluperfect,3rd Person,Singular,tractiatus erat,tractietus erat,tractius erat,tractius erat,He/she/it had been traceed
+Passive Indicative,Pluperfect,3rd Person,Plural,tractiati erant,tractieti erant,tracti erant,tracti erant,They had been traceed
+Passive Indicative,Future Perfect,1st Person,Singular,tractiatus ero,tractietus ero,tractius ero,tractius ero,I will have been traceed
+Passive Indicative,Future Perfect,1st Person,Plural,tractiati erimus,tractieti erimus,tracti erimus,tracti erimus,We will have been traceed
+Passive Indicative,Future Perfect,2nd Person,Singular,tractiatus eris,tractietus eris,tractius eris,tractius eris,You will have been traceed
+Passive Indicative,Future Perfect,2nd Person,Plural,tractiati eritis,tractieti eritis,tracti eritis,tracti eritis,You (pl.) will have been traceed
+Passive Indicative,Future Perfect,3rd Person,Singular,tractiatus erit,tractietus erit,tractius erit,tractius erit,He/she/it will have been traceed
+Passive Indicative,Future Perfect,3rd Person,Plural,tractiati erunt,tractieti erunt,tracti erunt,tracti erunt,They will have been traceed
+Active Subjunctive,Present,1st Person,Singular,tractiem,tractiem,tractiam,tractiam,I may trace
+Active Subjunctive,Present,1st Person,Plural,tractiemus,tractiemus,tractiamus,tractiamus,We may trace
+Active Subjunctive,Present,2nd Person,Singular,tracties,tracties,tractias,tractias,You may trace
+Active Subjunctive,Present,2nd Person,Plural,tractietis,tractietis,tractiatis,tractiatis,You (pl.) may trace
+Active Subjunctive,Present,3rd Person,Singular,tractiet,tractiet,tractiat,tractiat,He/she/it may trace
+Active Subjunctive,Present,3rd Person,Plural,tractient,tractient,tractiant,tractiant,They may trace
+Active Subjunctive,Imperfect,1st Person,Singular,tractiarem,tractierem,tractierem,tractirem,I should trace
+Active Subjunctive,Imperfect,1st Person,Plural,tractiaremus,tractieremus,tractieremus,tractiremus,We should trace
+Active Subjunctive,Imperfect,2nd Person,Singular,tractiares,tractieres,tractieres,tractires,You should trace
+Active Subjunctive,Imperfect,2nd Person,Plural,tractiaretis,tractieretis,tractieretis,tractiretis,You (pl.) should trace
+Active Subjunctive,Imperfect,3rd Person,Singular,tractiaret,tractieret,tractieret,tractiret,He/she/it should trace
+Active Subjunctive,Imperfect,3rd Person,Plural,tractiarent,tractierent,tractierent,tractirent,They should trace
+Active Subjunctive,Perfect,1st Person,Singular,tractierim,tractiuerim,tractierim,tractierim,I may have traceed
+Active Subjunctive,Perfect,1st Person,Plural,tractierimus,tractiuerimus,tractierimus,tractierimus,We may have traceed
+Active Subjunctive,Perfect,2nd Person,Singular,tractieris,tractiueris,tractieris,tractieris,You may have traceed
+Active Subjunctive,Perfect,2nd Person,Plural,tractieritis,tractiueritis,tractieritis,tractieritis,You (pl.) may have traceed
+Active Subjunctive,Perfect,3rd Person,Singular,tractierit,tractiuerit,tractierit,tractierit,He/she/it may have traceed
+Active Subjunctive,Perfect,3rd Person,Plural,tractierint,tractiuerint,tractierint,tractierint,They may have traceed
+Active Subjunctive,Pluperfect,1st Person,Singular,tractissem,tractiuissem,tractissem,tractissem,I should have traceed
+Active Subjunctive,Pluperfect,1st Person,Plural,tractissemus,tractiuissemus,tractissemus,tractissemus,We should have traceed
+Active Subjunctive,Pluperfect,2nd Person,Singular,tractisses,tractiuisses,tractisses,tractisses,You would have traceed
+Active Subjunctive,Pluperfect,2nd Person,Plural,tractissetis,tractiuissetis,tractissetis,tractissetis,You (pl.) would have traceed
+Active Subjunctive,Pluperfect,3rd Person,Singular,tractisset,tractiuisset,tractisset,tractisset,He/she/it would have traceed
+Active Subjunctive,Pluperfect,3rd Person,Plural,tractissent,tractiuissent,tractissent,tractissent,They would have traceed
+Passive Subjunctive,Present,1st Person,Singular,tractier,tractier,tractiar,tractiar,I may be traceed
+Passive Subjunctive,Present,1st Person,Plural,tractiemur,tractiemur,tractiamur,tractiamur,We may be traceed
+Passive Subjunctive,Present,2nd Person,Singular,tractieris,tractieris,tractiaris,tractiaris,You may be traceed
+Passive Subjunctive,Present,2nd Person,Plural,tractiemini,tractiemini,tractiamini,tractiamini,You (pl.) may be traceed
+Passive Subjunctive,Present,3rd Person,Singular,tractietur,tractietur,tractiatur,tractiatur,He/she/it may be traceed
+Passive Subjunctive,Present,3rd Person,Plural,tractientur,tractientur,tractiantur,tractiantur,They may be traceed
+Passive Subjunctive,Imperfect,1st Person,Singular,tractiarer,tractierer,tractierer,tractirer,I should be traceed
+Passive Subjunctive,Imperfect,1st Person,Plural,tractiaremur,tractieremur,tractieremur,tractiremur,We should be traceed
+Passive Subjunctive,Imperfect,2nd Person,Singular,tractiareris,tractiereris,tractiereris,tractireris,You would be traceed
+Passive Subjunctive,Imperfect,2nd Person,Plural,tractiaremini,tractieremini,tractieremini,tractiremini,You (pl.) would be traceed
+Passive Subjunctive,Imperfect,3rd Person,Singular,tractiaretur,tractieretur,tractieretur,tractiretur,He/she/it would be traceed
+Passive Subjunctive,Imperfect,3rd Person,Plural,tractiarentur,tractierentur,tractierentur,tractirentur,They would be traceed
+Passive Subjunctive,Perfect,1st Person,Singular,tractiatus sim,tractietus sim,tractius sim,tractius sim,I may have been traceed
+Passive Subjunctive,Perfect,1st Person,Plural,tractiati simus,tractieti simus,tracti simus,tracti simus,We may have been traceed
+Passive Subjunctive,Perfect,2nd Person,Singular,tractiatus sis,tractietus sis,tractius sis,tractius sis,You may have been traceed
+Passive Subjunctive,Perfect,2nd Person,Plural,tractiati sitis,tractieti sitis,tracti sitis,tracti sitis,You (pl.) may have been traceed
+Passive Subjunctive,Perfect,3rd Person,Singular,tractiatus sit,tractietus sit,tractius sit,tractius sit,He/she/it may have been traceed
+Passive Subjunctive,Perfect,3rd Person,Plural,tractiati sint,tractieti sint,tracti sint,tracti sint,They may have been traceed
+Passive Subjunctive,Pluperfect,1st Person,Singular,tractiatus essem,tractietus essem,tractius essem,tractius essem,I should have been traceed
+Passive Subjunctive,Pluperfect,1st Person,Plural,tractiati essemus,tractieti essemus,tracti essemus,tracti essemus,We should have been traceed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,tractiatus esses,tractietus esses,tractius esses,tractius esses,You would have been traceed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,tractiati essetis,tractieti essetis,tracti essetis,tracti essetis,You (pl.) would have been traceed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,tractiatus esset,tractietus esset,tractius esset,tractius esset,He/she/it would have been traceed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,tractiati essent,tractieti essent,tracti essent,tracti essent,They would have been traceed

@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,tucco,tucceo,tucco,tuccio,I strike
+Active Indicative,Present,1st Person,Plural,tuccamus,tuccemus,tuccimus,tuccimus,We strike
+Active Indicative,Present,2nd Person,Singular,tuccas,tucces,tuccis,tuccis,You strike
+Active Indicative,Present,2nd Person,Plural,tuccatis,tuccetis,tuccitis,tuccitis,You (pl.) strike
+Active Indicative,Present,3rd Person,Singular,tuccat,tuccet,tuccit,tuccit,He/she/it strike
+Active Indicative,Present,3rd Person,Plural,tuccant,tuccent,tucciunt,tucciunt,They strike
+Active Indicative,Imperfect,1st Person,Singular,tuccabam,tuccebam,tuccebam,tucciebam,I was strikeing
+Active Indicative,Imperfect,1st Person,Plural,tuccabamus,tuccebamus,tuccebamus,tucciebamus,We were strikeing
+Active Indicative,Imperfect,2nd Person,Singular,tuccabas,tuccebas,tuccebas,tucciebas,You were strikeing
+Active Indicative,Imperfect,2nd Person,Plural,tuccabatis,tuccebatis,tuccebatis,tucciebatis,You (pl.) were strikeing
+Active Indicative,Imperfect,3rd Person,Singular,tuccabat,tuccebat,tuccebat,tucciebat,He/she/it was strikeing
+Active Indicative,Imperfect,3rd Person,Plural,tuccabant,tuccebant,tuccebant,tucciebant,They were strikeing
+Active Indicative,Future,1st Person,Singular,tuccabo,tuccebo,tuccam,tucciam,I will strike
+Active Indicative,Future,1st Person,Plural,tuccabimus,tuccebimus,tuccemus,tucciemus,We will strike
+Active Indicative,Future,2nd Person,Singular,tuccabis,tuccebis,tucces,tuccies,You will strike
+Active Indicative,Future,2nd Person,Plural,tuccabitis,tuccebitis,tuccetis,tuccietis,You (pl.) will strike
+Active Indicative,Future,3rd Person,Singular,tuccabit,tuccebit,tuccet,tucciet,He/she/it will strike
+Active Indicative,Future,3rd Person,Plural,tuccabunt,tuccebunt,tuccent,tuccient,They will strike
+Active Indicative,Perfect,1st Person,Singular,tuccavi,tuccui,tucci,tucci,I have strikeed
+Active Indicative,Perfect,1st Person,Plural,tuccavimus,tuccuimus,tuccimus,tuccimus,We have strikeed
+Active Indicative,Perfect,2nd Person,Singular,tuccavisti,tuccuisti,tuccisti,tuccisti,You have strikeed
+Active Indicative,Perfect,2nd Person,Plural,tuccavistis,tuccuistis,tuccistis,tuccistis,You (pl.) have strikeed
+Active Indicative,Perfect,3rd Person,Singular,tuccavit,tuccuit,tuccit,tuccit,He/she/it has strikeed
+Active Indicative,Perfect,3rd Person,Plural,tuccaverunt,tuccuerunt,tuccerunt,tuccerunt,They have strikeed
+Active Indicative,Pluperfect,1st Person,Singular,tuccaveram,tuccueram,tucceram,tucceram,I had strikeed
+Active Indicative,Pluperfect,1st Person,Plural,tuccaveramus,tuccueramus,tucceramus,tucceramus,We had strikeed
+Active Indicative,Pluperfect,2nd Person,Singular,tuccaveras,tuccueras,tucceras,tucceras,You had strikeed
+Active Indicative,Pluperfect,2nd Person,Plural,tuccaveratis,tuccueratis,tucceratis,tucceratis,You (pl.) had strikeed
+Active Indicative,Pluperfect,3rd Person,Singular,tuccaverat,tuccuerat,tuccerat,tuccerat,He/she/it had strikeed
+Active Indicative,Pluperfect,3rd Person,Plural,tuccaverant,tuccuerant,tuccerant,tuccerant,They had strikeed
+Active Indicative,Future Perfect,1st Person,Singular,tuccavero,tuccueero,tuccero,tucciero,I will have strikeed
+Active Indicative,Future Perfect,1st Person,Plural,tuccaverimus,tuccuerimus,tuccerimus,tuccierimus,We will have strikeed
+Active Indicative,Future Perfect,2nd Person,Singular,tuccaveris,tuccueris,tucceris,tuccieris,You will have strikeed
+Active Indicative,Future Perfect,2nd Person,Plural,tuccaveritis,tuccueritis,tucceritis,tuccieritis,You (pl.) will have strikeed
+Active Indicative,Future Perfect,3rd Person,Singular,tuccaverit,tuccuerit,tuccerit,tuccierit,He/she/it will have strikeed
+Active Indicative,Future Perfect,3rd Person,Plural,tuccaverint,tuccuerint,tuccerint,tuccierint,They will have strikeed
+Passive Indicative,Present,1st Person,Singular,tuccor,tucceor,tuccor,tuccior,I am being strikeed
+Passive Indicative,Present,1st Person,Plural,tuccamur,tuccemur,tuccimur,tuccimur,We are being strikeed
+Passive Indicative,Present,2nd Person,Singular,tuccaris,tucceris,tucciris,tucciris,You are being strikeed
+Passive Indicative,Present,2nd Person,Plural,tuccamini,tuccemini,tuccimini,tuccimini,You (pl.) are being strikeed
+Passive Indicative,Present,3rd Person,Singular,tuccatur,tuccetur,tuccitur,tuccitur,He/she/it is being strikeed
+Passive Indicative,Present,3rd Person,Plural,tuccantur,tuccentur,tucciuntur,tucciuntur,They are being strikeed
+Passive Indicative,Imperfect,1st Person,Singular,tuccabar,tuccebar,tuccebar,tucciebar,I was strikeed
+Passive Indicative,Imperfect,1st Person,Plural,tuccabamur,tuccebamur,tuccebamur,tucciebamur,We were strikeed
+Passive Indicative,Imperfect,2nd Person,Singular,tuccabaris,tuccebaris,tuccebaris,tucciebaris,You were strikeed
+Passive Indicative,Imperfect,2nd Person,Plural,tuccabamini,tuccebamini,tuccebamini,tucciebamini,You (pl.) were strikeed
+Passive Indicative,Imperfect,3rd Person,Singular,tuccabatur,tuccebatur,tuccebatur,tucciebatur,He/she/it was strikeed
+Passive Indicative,Imperfect,3rd Person,Plural,tuccabantur,tuccebantur,tuccebantur,tucciebantur,They were strikeed
+Passive Indicative,Future,1st Person,Singular,tuccabor,tuccebor,tuccar,tucciar,I will be strikeed
+Passive Indicative,Future,1st Person,Plural,tuccabimur,tuccebimur,tuccemur,tucciemur,We will be strikeed
+Passive Indicative,Future,2nd Person,Singular,tuccaberis,tucceberis,tucceris,tuccieris,You will be strikeed
+Passive Indicative,Future,2nd Person,Plural,tuccabimini,tuccebimini,tuccemini,tucciemini,You (pl.) will be strikeed
+Passive Indicative,Future,3rd Person,Singular,tuccabitur,tuccebitur,tuccetur,tuccietur,He/she/it will be strikeed
+Passive Indicative,Future,3rd Person,Plural,tuccabuntur,tuccebuntur,tuccentur,tuccientur,They will be strikeed
+Passive Indicative,Perfect,1st Person,Singular,tuccatus sum,tuccetus sum,tuccus sum,tuccus sum,I have been strikeed
+Passive Indicative,Perfect,1st Person,Plural,tuccati sumus,tucceti sumus,tucci sumus,tucci sumus,We have been strikeed
+Passive Indicative,Perfect,2nd Person,Singular,tuccatus es,tuccetus es,tuccus es,tuccus es,You have been strikeed
+Passive Indicative,Perfect,2nd Person,Plural,tuccati estis,tucceti estis,tucci estis,tucci estis,You (pl.) have been strikeed
+Passive Indicative,Perfect,3rd Person,Singular,tuccatus est,tuccetus est,tuccus est,tuccus est,He/she/it has been strikeed
+Passive Indicative,Perfect,3rd Person,Plural,tuccati sunt,tucceti sunt,tucci sunt,tucci sunt,They have been strikeed
+Passive Indicative,Pluperfect,1st Person,Singular,tuccatus eram,tuccetus eram,tuccus eram,tuccus eram,I had been strikeed
+Passive Indicative,Pluperfect,1st Person,Plural,tuccati eramus,tucceti eramus,tucci eramus,tucci eramus,We had been strikeed
+Passive Indicative,Pluperfect,2nd Person,Singular,tuccatus eras,tuccetus eras,tuccus eras,tuccus eras,You had been strikeed
+Passive Indicative,Pluperfect,2nd Person,Plural,tuccati eratis,tucceti eratis,tucci eratis,tucci eratis,You (pl.) had been strikeed
+Passive Indicative,Pluperfect,3rd Person,Singular,tuccatus erat,tuccetus erat,tuccus erat,tuccus erat,He/she/it had been strikeed
+Passive Indicative,Pluperfect,3rd Person,Plural,tuccati erant,tucceti erant,tucci erant,tucci erant,They had been strikeed
+Passive Indicative,Future Perfect,1st Person,Singular,tuccatus ero,tuccetus ero,tuccus ero,tuccus ero,I will have been strikeed
+Passive Indicative,Future Perfect,1st Person,Plural,tuccati erimus,tucceti erimus,tucci erimus,tucci erimus,We will have been strikeed
+Passive Indicative,Future Perfect,2nd Person,Singular,tuccatus eris,tuccetus eris,tuccus eris,tuccus eris,You will have been strikeed
+Passive Indicative,Future Perfect,2nd Person,Plural,tuccati eritis,tucceti eritis,tucci eritis,tucci eritis,You (pl.) will have been strikeed
+Passive Indicative,Future Perfect,3rd Person,Singular,tuccatus erit,tuccetus erit,tuccus erit,tuccus erit,He/she/it will have been strikeed
+Passive Indicative,Future Perfect,3rd Person,Plural,tuccati erunt,tucceti erunt,tucci erunt,tucci erunt,They will have been strikeed
+Active Subjunctive,Present,1st Person,Singular,tuccem,tuccem,tuccam,tuccam,I may strike
+Active Subjunctive,Present,1st Person,Plural,tuccemus,tuccemus,tuccamus,tuccamus,We may strike
+Active Subjunctive,Present,2nd Person,Singular,tucces,tucces,tuccas,tuccas,You may strike
+Active Subjunctive,Present,2nd Person,Plural,tuccetis,tuccetis,tuccatis,tuccatis,You (pl.) may strike
+Active Subjunctive,Present,3rd Person,Singular,tuccet,tuccet,tuccat,tuccat,He/she/it may strike
+Active Subjunctive,Present,3rd Person,Plural,tuccent,tuccent,tuccant,tuccant,They may strike
+Active Subjunctive,Imperfect,1st Person,Singular,tuccarem,tuccerem,tuccerem,tuccirem,I should strike
+Active Subjunctive,Imperfect,1st Person,Plural,tuccaremus,tucceremus,tucceremus,tucciremus,We should strike
+Active Subjunctive,Imperfect,2nd Person,Singular,tuccares,tucceres,tucceres,tuccires,You should strike
+Active Subjunctive,Imperfect,2nd Person,Plural,tuccaretis,tucceretis,tucceretis,tucciretis,You (pl.) should strike
+Active Subjunctive,Imperfect,3rd Person,Singular,tuccaret,tucceret,tucceret,tucciret,He/she/it should strike
+Active Subjunctive,Imperfect,3rd Person,Plural,tuccarent,tuccerent,tuccerent,tuccirent,They should strike
+Active Subjunctive,Perfect,1st Person,Singular,tuccerim,tuccuerim,tuccerim,tuccierim,I may have strikeed
+Active Subjunctive,Perfect,1st Person,Plural,tuccerimus,tuccuerimus,tuccerimus,tuccierimus,We may have strikeed
+Active Subjunctive,Perfect,2nd Person,Singular,tucceris,tuccueris,tucceris,tuccieris,You may have strikeed
+Active Subjunctive,Perfect,2nd Person,Plural,tucceritis,tuccueritis,tucceritis,tuccieritis,You (pl.) may have strikeed
+Active Subjunctive,Perfect,3rd Person,Singular,tuccerit,tuccuerit,tuccerit,tuccierit,He/she/it may have strikeed
+Active Subjunctive,Perfect,3rd Person,Plural,tuccerint,tuccuerint,tuccerint,tuccierint,They may have strikeed
+Active Subjunctive,Pluperfect,1st Person,Singular,tuccissem,tuccuissem,tuccissem,tuccissem,I should have strikeed
+Active Subjunctive,Pluperfect,1st Person,Plural,tuccissemus,tuccuissemus,tuccissemus,tuccissemus,We should have strikeed
+Active Subjunctive,Pluperfect,2nd Person,Singular,tuccisses,tuccuisses,tuccisses,tuccisses,You would have strikeed
+Active Subjunctive,Pluperfect,2nd Person,Plural,tuccissetis,tuccuissetis,tuccissetis,tuccissetis,You (pl.) would have strikeed
+Active Subjunctive,Pluperfect,3rd Person,Singular,tuccisset,tuccuisset,tuccisset,tuccisset,He/she/it would have strikeed
+Active Subjunctive,Pluperfect,3rd Person,Plural,tuccissent,tuccuissent,tuccissent,tuccissent,They would have strikeed
+Passive Subjunctive,Present,1st Person,Singular,tuccer,tuccer,tuccar,tuccar,I may be strikeed
+Passive Subjunctive,Present,1st Person,Plural,tuccemur,tuccemur,tuccamur,tuccamur,We may be strikeed
+Passive Subjunctive,Present,2nd Person,Singular,tucceris,tucceris,tuccaris,tuccaris,You may be strikeed
+Passive Subjunctive,Present,2nd Person,Plural,tuccemini,tuccemini,tuccamini,tuccamini,You (pl.) may be strikeed
+Passive Subjunctive,Present,3rd Person,Singular,tuccetur,tuccetur,tuccatur,tuccatur,He/she/it may be strikeed
+Passive Subjunctive,Present,3rd Person,Plural,tuccentur,tuccentur,tuccantur,tuccantur,They may be strikeed
+Passive Subjunctive,Imperfect,1st Person,Singular,tuccarer,tuccerer,tuccerer,tuccirer,I should be strikeed
+Passive Subjunctive,Imperfect,1st Person,Plural,tuccaremur,tucceremur,tucceremur,tucciremur,We should be strikeed
+Passive Subjunctive,Imperfect,2nd Person,Singular,tuccareris,tuccereris,tuccereris,tuccireris,You would be strikeed
+Passive Subjunctive,Imperfect,2nd Person,Plural,tuccaremini,tucceremini,tucceremini,tucciremini,You (pl.) would be strikeed
+Passive Subjunctive,Imperfect,3rd Person,Singular,tuccaretur,tucceretur,tucceretur,tucciretur,He/she/it would be strikeed
+Passive Subjunctive,Imperfect,3rd Person,Plural,tuccarentur,tuccerentur,tuccerentur,tuccirentur,They would be strikeed
+Passive Subjunctive,Perfect,1st Person,Singular,tuccatus sim,tuccetus sim,tuccus sim,tuccus sim,I may have been strikeed
+Passive Subjunctive,Perfect,1st Person,Plural,tuccati simus,tucceti simus,tucci simus,tucci simus,We may have been strikeed
+Passive Subjunctive,Perfect,2nd Person,Singular,tuccatus sis,tuccetus sis,tuccus sis,tuccus sis,You may have been strikeed
+Passive Subjunctive,Perfect,2nd Person,Plural,tuccati sitis,tucceti sitis,tucci sitis,tucci sitis,You (pl.) may have been strikeed
+Passive Subjunctive,Perfect,3rd Person,Singular,tuccatus sit,tuccetus sit,tuccus sit,tuccus sit,He/she/it may have been strikeed
+Passive Subjunctive,Perfect,3rd Person,Plural,tuccati sint,tucceti sint,tucci sint,tucci sint,They may have been strikeed
+Passive Subjunctive,Pluperfect,1st Person,Singular,tuccatus essem,tuccetus essem,tuccus essem,tuccus essem,I should have been strikeed
+Passive Subjunctive,Pluperfect,1st Person,Plural,tuccati essemus,tucceti essemus,tucci essemus,tucci essemus,We should have been strikeed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,tuccatus esses,tuccetus esses,tuccus esses,tuccus esses,You would have been strikeed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,tuccati essetis,tucceti essetis,tucci essetis,tucci essetis,You (pl.) would have been strikeed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,tuccatus esset,tuccetus esset,tuccus esset,tuccus esset,He/she/it would have been strikeed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,tuccati essent,tucceti essent,tucci essent,tucci essent,They would have been strikeed

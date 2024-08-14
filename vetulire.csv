@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,vetulo,vetuleo,vetulo,vetulio,I age
+Active Indicative,Present,1st Person,Plural,vetulamus,vetulemus,vetulimus,vetulimus,We age
+Active Indicative,Present,2nd Person,Singular,vetulas,vetules,vetulis,vetulis,You age
+Active Indicative,Present,2nd Person,Plural,vetulatis,vetuletis,vetulitis,vetulitis,You (pl.) age
+Active Indicative,Present,3rd Person,Singular,vetulat,vetulet,vetulit,vetulit,He/she/it age
+Active Indicative,Present,3rd Person,Plural,vetulant,vetulent,vetuliunt,vetuliunt,They age
+Active Indicative,Imperfect,1st Person,Singular,vetulabam,vetulebam,vetulebam,vetuliebam,I was ageing
+Active Indicative,Imperfect,1st Person,Plural,vetulabamus,vetulebamus,vetulebamus,vetuliebamus,We were ageing
+Active Indicative,Imperfect,2nd Person,Singular,vetulabas,vetulebas,vetulebas,vetuliebas,You were ageing
+Active Indicative,Imperfect,2nd Person,Plural,vetulabatis,vetulebatis,vetulebatis,vetuliebatis,You (pl.) were ageing
+Active Indicative,Imperfect,3rd Person,Singular,vetulabat,vetulebat,vetulebat,vetuliebat,He/she/it was ageing
+Active Indicative,Imperfect,3rd Person,Plural,vetulabant,vetulebant,vetulebant,vetuliebant,They were ageing
+Active Indicative,Future,1st Person,Singular,vetulabo,vetulebo,vetulam,vetuliam,I will age
+Active Indicative,Future,1st Person,Plural,vetulabimus,vetulebimus,vetulemus,vetuliemus,We will age
+Active Indicative,Future,2nd Person,Singular,vetulabis,vetulebis,vetules,vetulies,You will age
+Active Indicative,Future,2nd Person,Plural,vetulabitis,vetulebitis,vetuletis,vetulietis,You (pl.) will age
+Active Indicative,Future,3rd Person,Singular,vetulabit,vetulebit,vetulet,vetuliet,He/she/it will age
+Active Indicative,Future,3rd Person,Plural,vetulabunt,vetulebunt,vetulent,vetulient,They will age
+Active Indicative,Perfect,1st Person,Singular,vetulavi,vetului,vetuli,vetuli,I have ageed
+Active Indicative,Perfect,1st Person,Plural,vetulavimus,vetuluimus,vetulimus,vetulimus,We have ageed
+Active Indicative,Perfect,2nd Person,Singular,vetulavisti,vetuluisti,vetulisti,vetulisti,You have ageed
+Active Indicative,Perfect,2nd Person,Plural,vetulavistis,vetuluistis,vetulistis,vetulistis,You (pl.) have ageed
+Active Indicative,Perfect,3rd Person,Singular,vetulavit,vetuluit,vetulit,vetulit,He/she/it has ageed
+Active Indicative,Perfect,3rd Person,Plural,vetulaverunt,vetuluerunt,vetulerunt,vetulerunt,They have ageed
+Active Indicative,Pluperfect,1st Person,Singular,vetulaveram,vetulueram,vetuleram,vetuleram,I had ageed
+Active Indicative,Pluperfect,1st Person,Plural,vetulaveramus,vetulueramus,vetuleramus,vetuleramus,We had ageed
+Active Indicative,Pluperfect,2nd Person,Singular,vetulaveras,vetulueras,vetuleras,vetuleras,You had ageed
+Active Indicative,Pluperfect,2nd Person,Plural,vetulaveratis,vetulueratis,vetuleratis,vetuleratis,You (pl.) had ageed
+Active Indicative,Pluperfect,3rd Person,Singular,vetulaverat,vetuluerat,vetulerat,vetulerat,He/she/it had ageed
+Active Indicative,Pluperfect,3rd Person,Plural,vetulaverant,vetuluerant,vetulerant,vetulerant,They had ageed
+Active Indicative,Future Perfect,1st Person,Singular,vetulavero,vetulueero,vetulero,vetuliero,I will have ageed
+Active Indicative,Future Perfect,1st Person,Plural,vetulaverimus,vetuluerimus,vetulerimus,vetulierimus,We will have ageed
+Active Indicative,Future Perfect,2nd Person,Singular,vetulaveris,vetulueris,vetuleris,vetulieris,You will have ageed
+Active Indicative,Future Perfect,2nd Person,Plural,vetulaveritis,vetulueritis,vetuleritis,vetulieritis,You (pl.) will have ageed
+Active Indicative,Future Perfect,3rd Person,Singular,vetulaverit,vetuluerit,vetulerit,vetulierit,He/she/it will have ageed
+Active Indicative,Future Perfect,3rd Person,Plural,vetulaverint,vetuluerint,vetulerint,vetulierint,They will have ageed
+Passive Indicative,Present,1st Person,Singular,vetulor,vetuleor,vetulor,vetulior,I am being ageed
+Passive Indicative,Present,1st Person,Plural,vetulamur,vetulemur,vetulimur,vetulimur,We are being ageed
+Passive Indicative,Present,2nd Person,Singular,vetularis,vetuleris,vetuliris,vetuliris,You are being ageed
+Passive Indicative,Present,2nd Person,Plural,vetulamini,vetulemini,vetulimini,vetulimini,You (pl.) are being ageed
+Passive Indicative,Present,3rd Person,Singular,vetulatur,vetuletur,vetulitur,vetulitur,He/she/it is being ageed
+Passive Indicative,Present,3rd Person,Plural,vetulantur,vetulentur,vetuliuntur,vetuliuntur,They are being ageed
+Passive Indicative,Imperfect,1st Person,Singular,vetulabar,vetulebar,vetulebar,vetuliebar,I was ageed
+Passive Indicative,Imperfect,1st Person,Plural,vetulabamur,vetulebamur,vetulebamur,vetuliebamur,We were ageed
+Passive Indicative,Imperfect,2nd Person,Singular,vetulabaris,vetulebaris,vetulebaris,vetuliebaris,You were ageed
+Passive Indicative,Imperfect,2nd Person,Plural,vetulabamini,vetulebamini,vetulebamini,vetuliebamini,You (pl.) were ageed
+Passive Indicative,Imperfect,3rd Person,Singular,vetulabatur,vetulebatur,vetulebatur,vetuliebatur,He/she/it was ageed
+Passive Indicative,Imperfect,3rd Person,Plural,vetulabantur,vetulebantur,vetulebantur,vetuliebantur,They were ageed
+Passive Indicative,Future,1st Person,Singular,vetulabor,vetulebor,vetular,vetuliar,I will be ageed
+Passive Indicative,Future,1st Person,Plural,vetulabimur,vetulebimur,vetulemur,vetuliemur,We will be ageed
+Passive Indicative,Future,2nd Person,Singular,vetulaberis,vetuleberis,vetuleris,vetulieris,You will be ageed
+Passive Indicative,Future,2nd Person,Plural,vetulabimini,vetulebimini,vetulemini,vetuliemini,You (pl.) will be ageed
+Passive Indicative,Future,3rd Person,Singular,vetulabitur,vetulebitur,vetuletur,vetulietur,He/she/it will be ageed
+Passive Indicative,Future,3rd Person,Plural,vetulabuntur,vetulebuntur,vetulentur,vetulientur,They will be ageed
+Passive Indicative,Perfect,1st Person,Singular,vetulatus sum,vetuletus sum,vetulus sum,vetulus sum,I have been ageed
+Passive Indicative,Perfect,1st Person,Plural,vetulati sumus,vetuleti sumus,vetuli sumus,vetuli sumus,We have been ageed
+Passive Indicative,Perfect,2nd Person,Singular,vetulatus es,vetuletus es,vetulus es,vetulus es,You have been ageed
+Passive Indicative,Perfect,2nd Person,Plural,vetulati estis,vetuleti estis,vetuli estis,vetuli estis,You (pl.) have been ageed
+Passive Indicative,Perfect,3rd Person,Singular,vetulatus est,vetuletus est,vetulus est,vetulus est,He/she/it has been ageed
+Passive Indicative,Perfect,3rd Person,Plural,vetulati sunt,vetuleti sunt,vetuli sunt,vetuli sunt,They have been ageed
+Passive Indicative,Pluperfect,1st Person,Singular,vetulatus eram,vetuletus eram,vetulus eram,vetulus eram,I had been ageed
+Passive Indicative,Pluperfect,1st Person,Plural,vetulati eramus,vetuleti eramus,vetuli eramus,vetuli eramus,We had been ageed
+Passive Indicative,Pluperfect,2nd Person,Singular,vetulatus eras,vetuletus eras,vetulus eras,vetulus eras,You had been ageed
+Passive Indicative,Pluperfect,2nd Person,Plural,vetulati eratis,vetuleti eratis,vetuli eratis,vetuli eratis,You (pl.) had been ageed
+Passive Indicative,Pluperfect,3rd Person,Singular,vetulatus erat,vetuletus erat,vetulus erat,vetulus erat,He/she/it had been ageed
+Passive Indicative,Pluperfect,3rd Person,Plural,vetulati erant,vetuleti erant,vetuli erant,vetuli erant,They had been ageed
+Passive Indicative,Future Perfect,1st Person,Singular,vetulatus ero,vetuletus ero,vetulus ero,vetulus ero,I will have been ageed
+Passive Indicative,Future Perfect,1st Person,Plural,vetulati erimus,vetuleti erimus,vetuli erimus,vetuli erimus,We will have been ageed
+Passive Indicative,Future Perfect,2nd Person,Singular,vetulatus eris,vetuletus eris,vetulus eris,vetulus eris,You will have been ageed
+Passive Indicative,Future Perfect,2nd Person,Plural,vetulati eritis,vetuleti eritis,vetuli eritis,vetuli eritis,You (pl.) will have been ageed
+Passive Indicative,Future Perfect,3rd Person,Singular,vetulatus erit,vetuletus erit,vetulus erit,vetulus erit,He/she/it will have been ageed
+Passive Indicative,Future Perfect,3rd Person,Plural,vetulati erunt,vetuleti erunt,vetuli erunt,vetuli erunt,They will have been ageed
+Active Subjunctive,Present,1st Person,Singular,vetulem,vetulem,vetulam,vetulam,I may age
+Active Subjunctive,Present,1st Person,Plural,vetulemus,vetulemus,vetulamus,vetulamus,We may age
+Active Subjunctive,Present,2nd Person,Singular,vetules,vetules,vetulas,vetulas,You may age
+Active Subjunctive,Present,2nd Person,Plural,vetuletis,vetuletis,vetulatis,vetulatis,You (pl.) may age
+Active Subjunctive,Present,3rd Person,Singular,vetulet,vetulet,vetulat,vetulat,He/she/it may age
+Active Subjunctive,Present,3rd Person,Plural,vetulent,vetulent,vetulant,vetulant,They may age
+Active Subjunctive,Imperfect,1st Person,Singular,vetularem,vetulerem,vetulerem,vetulirem,I should age
+Active Subjunctive,Imperfect,1st Person,Plural,vetularemus,vetuleremus,vetuleremus,vetuliremus,We should age
+Active Subjunctive,Imperfect,2nd Person,Singular,vetulares,vetuleres,vetuleres,vetulires,You should age
+Active Subjunctive,Imperfect,2nd Person,Plural,vetularetis,vetuleretis,vetuleretis,vetuliretis,You (pl.) should age
+Active Subjunctive,Imperfect,3rd Person,Singular,vetularet,vetuleret,vetuleret,vetuliret,He/she/it should age
+Active Subjunctive,Imperfect,3rd Person,Plural,vetularent,vetulerent,vetulerent,vetulirent,They should age
+Active Subjunctive,Perfect,1st Person,Singular,vetulerim,vetuluerim,vetulerim,vetulierim,I may have ageed
+Active Subjunctive,Perfect,1st Person,Plural,vetulerimus,vetuluerimus,vetulerimus,vetulierimus,We may have ageed
+Active Subjunctive,Perfect,2nd Person,Singular,vetuleris,vetulueris,vetuleris,vetulieris,You may have ageed
+Active Subjunctive,Perfect,2nd Person,Plural,vetuleritis,vetulueritis,vetuleritis,vetulieritis,You (pl.) may have ageed
+Active Subjunctive,Perfect,3rd Person,Singular,vetulerit,vetuluerit,vetulerit,vetulierit,He/she/it may have ageed
+Active Subjunctive,Perfect,3rd Person,Plural,vetulerint,vetuluerint,vetulerint,vetulierint,They may have ageed
+Active Subjunctive,Pluperfect,1st Person,Singular,vetulissem,vetuluissem,vetulissem,vetulissem,I should have ageed
+Active Subjunctive,Pluperfect,1st Person,Plural,vetulissemus,vetuluissemus,vetulissemus,vetulissemus,We should have ageed
+Active Subjunctive,Pluperfect,2nd Person,Singular,vetulisses,vetuluisses,vetulisses,vetulisses,You would have ageed
+Active Subjunctive,Pluperfect,2nd Person,Plural,vetulissetis,vetuluissetis,vetulissetis,vetulissetis,You (pl.) would have ageed
+Active Subjunctive,Pluperfect,3rd Person,Singular,vetulisset,vetuluisset,vetulisset,vetulisset,He/she/it would have ageed
+Active Subjunctive,Pluperfect,3rd Person,Plural,vetulissent,vetuluissent,vetulissent,vetulissent,They would have ageed
+Passive Subjunctive,Present,1st Person,Singular,vetuler,vetuler,vetular,vetular,I may be ageed
+Passive Subjunctive,Present,1st Person,Plural,vetulemur,vetulemur,vetulamur,vetulamur,We may be ageed
+Passive Subjunctive,Present,2nd Person,Singular,vetuleris,vetuleris,vetularis,vetularis,You may be ageed
+Passive Subjunctive,Present,2nd Person,Plural,vetulemini,vetulemini,vetulamini,vetulamini,You (pl.) may be ageed
+Passive Subjunctive,Present,3rd Person,Singular,vetuletur,vetuletur,vetulatur,vetulatur,He/she/it may be ageed
+Passive Subjunctive,Present,3rd Person,Plural,vetulentur,vetulentur,vetulantur,vetulantur,They may be ageed
+Passive Subjunctive,Imperfect,1st Person,Singular,vetularer,vetulerer,vetulerer,vetulirer,I should be ageed
+Passive Subjunctive,Imperfect,1st Person,Plural,vetularemur,vetuleremur,vetuleremur,vetuliremur,We should be ageed
+Passive Subjunctive,Imperfect,2nd Person,Singular,vetulareris,vetulereris,vetulereris,vetulireris,You would be ageed
+Passive Subjunctive,Imperfect,2nd Person,Plural,vetularemini,vetuleremini,vetuleremini,vetuliremini,You (pl.) would be ageed
+Passive Subjunctive,Imperfect,3rd Person,Singular,vetularetur,vetuleretur,vetuleretur,vetuliretur,He/she/it would be ageed
+Passive Subjunctive,Imperfect,3rd Person,Plural,vetularentur,vetulerentur,vetulerentur,vetulirentur,They would be ageed
+Passive Subjunctive,Perfect,1st Person,Singular,vetulatus sim,vetuletus sim,vetulus sim,vetulus sim,I may have been ageed
+Passive Subjunctive,Perfect,1st Person,Plural,vetulati simus,vetuleti simus,vetuli simus,vetuli simus,We may have been ageed
+Passive Subjunctive,Perfect,2nd Person,Singular,vetulatus sis,vetuletus sis,vetulus sis,vetulus sis,You may have been ageed
+Passive Subjunctive,Perfect,2nd Person,Plural,vetulati sitis,vetuleti sitis,vetuli sitis,vetuli sitis,You (pl.) may have been ageed
+Passive Subjunctive,Perfect,3rd Person,Singular,vetulatus sit,vetuletus sit,vetulus sit,vetulus sit,He/she/it may have been ageed
+Passive Subjunctive,Perfect,3rd Person,Plural,vetulati sint,vetuleti sint,vetuli sint,vetuli sint,They may have been ageed
+Passive Subjunctive,Pluperfect,1st Person,Singular,vetulatus essem,vetuletus essem,vetulus essem,vetulus essem,I should have been ageed
+Passive Subjunctive,Pluperfect,1st Person,Plural,vetulati essemus,vetuleti essemus,vetuli essemus,vetuli essemus,We should have been ageed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,vetulatus esses,vetuletus esses,vetulus esses,vetulus esses,You would have been ageed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,vetulati essetis,vetuleti essetis,vetuli essetis,vetuli essetis,You (pl.) would have been ageed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,vetulatus esset,vetuletus esset,vetulus esset,vetulus esset,He/she/it would have been ageed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,vetulati essent,vetuleti essent,vetuli essent,vetuli essent,They would have been ageed

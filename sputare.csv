@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,sputo,sputeo,sputo,sputio,I spit
+Active Indicative,Present,1st Person,Plural,sputamus,sputemus,sputimus,sputimus,We spit
+Active Indicative,Present,2nd Person,Singular,sputas,sputes,sputis,sputis,You spit
+Active Indicative,Present,2nd Person,Plural,sputatis,sputetis,sputitis,sputitis,You (pl.) spit
+Active Indicative,Present,3rd Person,Singular,sputat,sputet,sputit,sputit,He/she/it spit
+Active Indicative,Present,3rd Person,Plural,sputant,sputent,sputiunt,sputiunt,They spit
+Active Indicative,Imperfect,1st Person,Singular,sputabam,sputebam,sputebam,sputiebam,I was spiting
+Active Indicative,Imperfect,1st Person,Plural,sputabamus,sputebamus,sputebamus,sputiebamus,We were spiting
+Active Indicative,Imperfect,2nd Person,Singular,sputabas,sputebas,sputebas,sputiebas,You were spiting
+Active Indicative,Imperfect,2nd Person,Plural,sputabatis,sputebatis,sputebatis,sputiebatis,You (pl.) were spiting
+Active Indicative,Imperfect,3rd Person,Singular,sputabat,sputebat,sputebat,sputiebat,He/she/it was spiting
+Active Indicative,Imperfect,3rd Person,Plural,sputabant,sputebant,sputebant,sputiebant,They were spiting
+Active Indicative,Future,1st Person,Singular,sputabo,sputebo,sputam,sputiam,I will spit
+Active Indicative,Future,1st Person,Plural,sputabimus,sputebimus,sputemus,sputiemus,We will spit
+Active Indicative,Future,2nd Person,Singular,sputabis,sputebis,sputes,sputies,You will spit
+Active Indicative,Future,2nd Person,Plural,sputabitis,sputebitis,sputetis,sputietis,You (pl.) will spit
+Active Indicative,Future,3rd Person,Singular,sputabit,sputebit,sputet,sputiet,He/she/it will spit
+Active Indicative,Future,3rd Person,Plural,sputabunt,sputebunt,sputent,sputient,They will spit
+Active Indicative,Perfect,1st Person,Singular,sputavi,sputui,sputi,sputi,I have spited
+Active Indicative,Perfect,1st Person,Plural,sputavimus,sputuimus,sputimus,sputimus,We have spited
+Active Indicative,Perfect,2nd Person,Singular,sputavisti,sputuisti,sputisti,sputisti,You have spited
+Active Indicative,Perfect,2nd Person,Plural,sputavistis,sputuistis,sputistis,sputistis,You (pl.) have spited
+Active Indicative,Perfect,3rd Person,Singular,sputavit,sputuit,sputit,sputit,He/she/it has spited
+Active Indicative,Perfect,3rd Person,Plural,sputaverunt,sputuerunt,sputerunt,sputerunt,They have spited
+Active Indicative,Pluperfect,1st Person,Singular,sputaveram,sputueram,sputeram,sputeram,I had spited
+Active Indicative,Pluperfect,1st Person,Plural,sputaveramus,sputueramus,sputeramus,sputeramus,We had spited
+Active Indicative,Pluperfect,2nd Person,Singular,sputaveras,sputueras,sputeras,sputeras,You had spited
+Active Indicative,Pluperfect,2nd Person,Plural,sputaveratis,sputueratis,sputeratis,sputeratis,You (pl.) had spited
+Active Indicative,Pluperfect,3rd Person,Singular,sputaverat,sputuerat,sputerat,sputerat,He/she/it had spited
+Active Indicative,Pluperfect,3rd Person,Plural,sputaverant,sputuerant,sputerant,sputerant,They had spited
+Active Indicative,Future Perfect,1st Person,Singular,sputavero,sputueero,sputero,sputiero,I will have spited
+Active Indicative,Future Perfect,1st Person,Plural,sputaverimus,sputuerimus,sputerimus,sputierimus,We will have spited
+Active Indicative,Future Perfect,2nd Person,Singular,sputaveris,sputueris,sputeris,sputieris,You will have spited
+Active Indicative,Future Perfect,2nd Person,Plural,sputaveritis,sputueritis,sputeritis,sputieritis,You (pl.) will have spited
+Active Indicative,Future Perfect,3rd Person,Singular,sputaverit,sputuerit,sputerit,sputierit,He/she/it will have spited
+Active Indicative,Future Perfect,3rd Person,Plural,sputaverint,sputuerint,sputerint,sputierint,They will have spited
+Passive Indicative,Present,1st Person,Singular,sputor,sputeor,sputor,sputior,I am being spited
+Passive Indicative,Present,1st Person,Plural,sputamur,sputemur,sputimur,sputimur,We are being spited
+Passive Indicative,Present,2nd Person,Singular,sputaris,sputeris,sputiris,sputiris,You are being spited
+Passive Indicative,Present,2nd Person,Plural,sputamini,sputemini,sputimini,sputimini,You (pl.) are being spited
+Passive Indicative,Present,3rd Person,Singular,sputatur,sputetur,sputitur,sputitur,He/she/it is being spited
+Passive Indicative,Present,3rd Person,Plural,sputantur,sputentur,sputiuntur,sputiuntur,They are being spited
+Passive Indicative,Imperfect,1st Person,Singular,sputabar,sputebar,sputebar,sputiebar,I was spited
+Passive Indicative,Imperfect,1st Person,Plural,sputabamur,sputebamur,sputebamur,sputiebamur,We were spited
+Passive Indicative,Imperfect,2nd Person,Singular,sputabaris,sputebaris,sputebaris,sputiebaris,You were spited
+Passive Indicative,Imperfect,2nd Person,Plural,sputabamini,sputebamini,sputebamini,sputiebamini,You (pl.) were spited
+Passive Indicative,Imperfect,3rd Person,Singular,sputabatur,sputebatur,sputebatur,sputiebatur,He/she/it was spited
+Passive Indicative,Imperfect,3rd Person,Plural,sputabantur,sputebantur,sputebantur,sputiebantur,They were spited
+Passive Indicative,Future,1st Person,Singular,sputabor,sputebor,sputar,sputiar,I will be spited
+Passive Indicative,Future,1st Person,Plural,sputabimur,sputebimur,sputemur,sputiemur,We will be spited
+Passive Indicative,Future,2nd Person,Singular,sputaberis,sputeberis,sputeris,sputieris,You will be spited
+Passive Indicative,Future,2nd Person,Plural,sputabimini,sputebimini,sputemini,sputiemini,You (pl.) will be spited
+Passive Indicative,Future,3rd Person,Singular,sputabitur,sputebitur,sputetur,sputietur,He/she/it will be spited
+Passive Indicative,Future,3rd Person,Plural,sputabuntur,sputebuntur,sputentur,sputientur,They will be spited
+Passive Indicative,Perfect,1st Person,Singular,sputatus sum,sputetus sum,sputus sum,sputus sum,I have been spited
+Passive Indicative,Perfect,1st Person,Plural,sputati sumus,sputeti sumus,sputi sumus,sputi sumus,We have been spited
+Passive Indicative,Perfect,2nd Person,Singular,sputatus es,sputetus es,sputus es,sputus es,You have been spited
+Passive Indicative,Perfect,2nd Person,Plural,sputati estis,sputeti estis,sputi estis,sputi estis,You (pl.) have been spited
+Passive Indicative,Perfect,3rd Person,Singular,sputatus est,sputetus est,sputus est,sputus est,He/she/it has been spited
+Passive Indicative,Perfect,3rd Person,Plural,sputati sunt,sputeti sunt,sputi sunt,sputi sunt,They have been spited
+Passive Indicative,Pluperfect,1st Person,Singular,sputatus eram,sputetus eram,sputus eram,sputus eram,I had been spited
+Passive Indicative,Pluperfect,1st Person,Plural,sputati eramus,sputeti eramus,sputi eramus,sputi eramus,We had been spited
+Passive Indicative,Pluperfect,2nd Person,Singular,sputatus eras,sputetus eras,sputus eras,sputus eras,You had been spited
+Passive Indicative,Pluperfect,2nd Person,Plural,sputati eratis,sputeti eratis,sputi eratis,sputi eratis,You (pl.) had been spited
+Passive Indicative,Pluperfect,3rd Person,Singular,sputatus erat,sputetus erat,sputus erat,sputus erat,He/she/it had been spited
+Passive Indicative,Pluperfect,3rd Person,Plural,sputati erant,sputeti erant,sputi erant,sputi erant,They had been spited
+Passive Indicative,Future Perfect,1st Person,Singular,sputatus ero,sputetus ero,sputus ero,sputus ero,I will have been spited
+Passive Indicative,Future Perfect,1st Person,Plural,sputati erimus,sputeti erimus,sputi erimus,sputi erimus,We will have been spited
+Passive Indicative,Future Perfect,2nd Person,Singular,sputatus eris,sputetus eris,sputus eris,sputus eris,You will have been spited
+Passive Indicative,Future Perfect,2nd Person,Plural,sputati eritis,sputeti eritis,sputi eritis,sputi eritis,You (pl.) will have been spited
+Passive Indicative,Future Perfect,3rd Person,Singular,sputatus erit,sputetus erit,sputus erit,sputus erit,He/she/it will have been spited
+Passive Indicative,Future Perfect,3rd Person,Plural,sputati erunt,sputeti erunt,sputi erunt,sputi erunt,They will have been spited
+Active Subjunctive,Present,1st Person,Singular,sputem,sputem,sputam,sputam,I may spit
+Active Subjunctive,Present,1st Person,Plural,sputemus,sputemus,sputamus,sputamus,We may spit
+Active Subjunctive,Present,2nd Person,Singular,sputes,sputes,sputas,sputas,You may spit
+Active Subjunctive,Present,2nd Person,Plural,sputetis,sputetis,sputatis,sputatis,You (pl.) may spit
+Active Subjunctive,Present,3rd Person,Singular,sputet,sputet,sputat,sputat,He/she/it may spit
+Active Subjunctive,Present,3rd Person,Plural,sputent,sputent,sputant,sputant,They may spit
+Active Subjunctive,Imperfect,1st Person,Singular,sputarem,sputerem,sputerem,sputirem,I should spit
+Active Subjunctive,Imperfect,1st Person,Plural,sputaremus,sputeremus,sputeremus,sputiremus,We should spit
+Active Subjunctive,Imperfect,2nd Person,Singular,sputares,sputeres,sputeres,sputires,You should spit
+Active Subjunctive,Imperfect,2nd Person,Plural,sputaretis,sputeretis,sputeretis,sputiretis,You (pl.) should spit
+Active Subjunctive,Imperfect,3rd Person,Singular,sputaret,sputeret,sputeret,sputiret,He/she/it should spit
+Active Subjunctive,Imperfect,3rd Person,Plural,sputarent,sputerent,sputerent,sputirent,They should spit
+Active Subjunctive,Perfect,1st Person,Singular,sputerim,sputuerim,sputerim,sputierim,I may have spited
+Active Subjunctive,Perfect,1st Person,Plural,sputerimus,sputuerimus,sputerimus,sputierimus,We may have spited
+Active Subjunctive,Perfect,2nd Person,Singular,sputeris,sputueris,sputeris,sputieris,You may have spited
+Active Subjunctive,Perfect,2nd Person,Plural,sputeritis,sputueritis,sputeritis,sputieritis,You (pl.) may have spited
+Active Subjunctive,Perfect,3rd Person,Singular,sputerit,sputuerit,sputerit,sputierit,He/she/it may have spited
+Active Subjunctive,Perfect,3rd Person,Plural,sputerint,sputuerint,sputerint,sputierint,They may have spited
+Active Subjunctive,Pluperfect,1st Person,Singular,sputissem,sputuissem,sputissem,sputissem,I should have spited
+Active Subjunctive,Pluperfect,1st Person,Plural,sputissemus,sputuissemus,sputissemus,sputissemus,We should have spited
+Active Subjunctive,Pluperfect,2nd Person,Singular,sputisses,sputuisses,sputisses,sputisses,You would have spited
+Active Subjunctive,Pluperfect,2nd Person,Plural,sputissetis,sputuissetis,sputissetis,sputissetis,You (pl.) would have spited
+Active Subjunctive,Pluperfect,3rd Person,Singular,sputisset,sputuisset,sputisset,sputisset,He/she/it would have spited
+Active Subjunctive,Pluperfect,3rd Person,Plural,sputissent,sputuissent,sputissent,sputissent,They would have spited
+Passive Subjunctive,Present,1st Person,Singular,sputer,sputer,sputar,sputar,I may be spited
+Passive Subjunctive,Present,1st Person,Plural,sputemur,sputemur,sputamur,sputamur,We may be spited
+Passive Subjunctive,Present,2nd Person,Singular,sputeris,sputeris,sputaris,sputaris,You may be spited
+Passive Subjunctive,Present,2nd Person,Plural,sputemini,sputemini,sputamini,sputamini,You (pl.) may be spited
+Passive Subjunctive,Present,3rd Person,Singular,sputetur,sputetur,sputatur,sputatur,He/she/it may be spited
+Passive Subjunctive,Present,3rd Person,Plural,sputentur,sputentur,sputantur,sputantur,They may be spited
+Passive Subjunctive,Imperfect,1st Person,Singular,sputarer,sputerer,sputerer,sputirer,I should be spited
+Passive Subjunctive,Imperfect,1st Person,Plural,sputaremur,sputeremur,sputeremur,sputiremur,We should be spited
+Passive Subjunctive,Imperfect,2nd Person,Singular,sputareris,sputereris,sputereris,sputireris,You would be spited
+Passive Subjunctive,Imperfect,2nd Person,Plural,sputaremini,sputeremini,sputeremini,sputiremini,You (pl.) would be spited
+Passive Subjunctive,Imperfect,3rd Person,Singular,sputaretur,sputeretur,sputeretur,sputiretur,He/she/it would be spited
+Passive Subjunctive,Imperfect,3rd Person,Plural,sputarentur,sputerentur,sputerentur,sputirentur,They would be spited
+Passive Subjunctive,Perfect,1st Person,Singular,sputatus sim,sputetus sim,sputus sim,sputus sim,I may have been spited
+Passive Subjunctive,Perfect,1st Person,Plural,sputati simus,sputeti simus,sputi simus,sputi simus,We may have been spited
+Passive Subjunctive,Perfect,2nd Person,Singular,sputatus sis,sputetus sis,sputus sis,sputus sis,You may have been spited
+Passive Subjunctive,Perfect,2nd Person,Plural,sputati sitis,sputeti sitis,sputi sitis,sputi sitis,You (pl.) may have been spited
+Passive Subjunctive,Perfect,3rd Person,Singular,sputatus sit,sputetus sit,sputus sit,sputus sit,He/she/it may have been spited
+Passive Subjunctive,Perfect,3rd Person,Plural,sputati sint,sputeti sint,sputi sint,sputi sint,They may have been spited
+Passive Subjunctive,Pluperfect,1st Person,Singular,sputatus essem,sputetus essem,sputus essem,sputus essem,I should have been spited
+Passive Subjunctive,Pluperfect,1st Person,Plural,sputati essemus,sputeti essemus,sputi essemus,sputi essemus,We should have been spited
+Passive Subjunctive,Pluperfect,2nd Person,Singular,sputatus esses,sputetus esses,sputus esses,sputus esses,You would have been spited
+Passive Subjunctive,Pluperfect,2nd Person,Plural,sputati essetis,sputeti essetis,sputi essetis,sputi essetis,You (pl.) would have been spited
+Passive Subjunctive,Pluperfect,3rd Person,Singular,sputatus esset,sputetus esset,sputus esset,sputus esset,He/she/it would have been spited
+Passive Subjunctive,Pluperfect,3rd Person,Plural,sputati essent,sputeti essent,sputi essent,sputi essent,They would have been spited

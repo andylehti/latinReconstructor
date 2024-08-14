@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,tracto,tracteo,tracto,tractio,I handle
+Active Indicative,Present,1st Person,Plural,tractamus,tractemus,tractimus,tractimus,We handle
+Active Indicative,Present,2nd Person,Singular,tractas,tractes,tractis,tractis,You handle
+Active Indicative,Present,2nd Person,Plural,tractatis,tractetis,tractitis,tractitis,You (pl.) handle
+Active Indicative,Present,3rd Person,Singular,tractat,tractet,tractit,tractit,He/she/it handle
+Active Indicative,Present,3rd Person,Plural,tractant,tractent,tractiunt,tractiunt,They handle
+Active Indicative,Imperfect,1st Person,Singular,tractabam,tractebam,tractebam,tractiebam,I was handleing
+Active Indicative,Imperfect,1st Person,Plural,tractabamus,tractebamus,tractebamus,tractiebamus,We were handleing
+Active Indicative,Imperfect,2nd Person,Singular,tractabas,tractebas,tractebas,tractiebas,You were handleing
+Active Indicative,Imperfect,2nd Person,Plural,tractabatis,tractebatis,tractebatis,tractiebatis,You (pl.) were handleing
+Active Indicative,Imperfect,3rd Person,Singular,tractabat,tractebat,tractebat,tractiebat,He/she/it was handleing
+Active Indicative,Imperfect,3rd Person,Plural,tractabant,tractebant,tractebant,tractiebant,They were handleing
+Active Indicative,Future,1st Person,Singular,tractabo,tractebo,tractam,tractiam,I will handle
+Active Indicative,Future,1st Person,Plural,tractabimus,tractebimus,tractemus,tractiemus,We will handle
+Active Indicative,Future,2nd Person,Singular,tractabis,tractebis,tractes,tracties,You will handle
+Active Indicative,Future,2nd Person,Plural,tractabitis,tractebitis,tractetis,tractietis,You (pl.) will handle
+Active Indicative,Future,3rd Person,Singular,tractabit,tractebit,tractet,tractiet,He/she/it will handle
+Active Indicative,Future,3rd Person,Plural,tractabunt,tractebunt,tractent,tractient,They will handle
+Active Indicative,Perfect,1st Person,Singular,tractavi,tractui,tracti,tracti,I have handleed
+Active Indicative,Perfect,1st Person,Plural,tractavimus,tractuimus,tractimus,tractimus,We have handleed
+Active Indicative,Perfect,2nd Person,Singular,tractavisti,tractuisti,tractisti,tractisti,You have handleed
+Active Indicative,Perfect,2nd Person,Plural,tractavistis,tractuistis,tractistis,tractistis,You (pl.) have handleed
+Active Indicative,Perfect,3rd Person,Singular,tractavit,tractuit,tractit,tractit,He/she/it has handleed
+Active Indicative,Perfect,3rd Person,Plural,tractaverunt,tractuerunt,tracterunt,tracterunt,They have handleed
+Active Indicative,Pluperfect,1st Person,Singular,tractaveram,tractueram,tracteram,tracteram,I had handleed
+Active Indicative,Pluperfect,1st Person,Plural,tractaveramus,tractueramus,tracteramus,tracteramus,We had handleed
+Active Indicative,Pluperfect,2nd Person,Singular,tractaveras,tractueras,tracteras,tracteras,You had handleed
+Active Indicative,Pluperfect,2nd Person,Plural,tractaveratis,tractueratis,tracteratis,tracteratis,You (pl.) had handleed
+Active Indicative,Pluperfect,3rd Person,Singular,tractaverat,tractuerat,tracterat,tracterat,He/she/it had handleed
+Active Indicative,Pluperfect,3rd Person,Plural,tractaverant,tractuerant,tracterant,tracterant,They had handleed
+Active Indicative,Future Perfect,1st Person,Singular,tractavero,tractueero,tractero,tractiero,I will have handleed
+Active Indicative,Future Perfect,1st Person,Plural,tractaverimus,tractuerimus,tracterimus,tractierimus,We will have handleed
+Active Indicative,Future Perfect,2nd Person,Singular,tractaveris,tractueris,tracteris,tractieris,You will have handleed
+Active Indicative,Future Perfect,2nd Person,Plural,tractaveritis,tractueritis,tracteritis,tractieritis,You (pl.) will have handleed
+Active Indicative,Future Perfect,3rd Person,Singular,tractaverit,tractuerit,tracterit,tractierit,He/she/it will have handleed
+Active Indicative,Future Perfect,3rd Person,Plural,tractaverint,tractuerint,tracterint,tractierint,They will have handleed
+Passive Indicative,Present,1st Person,Singular,tractor,tracteor,tractor,tractior,I am being handleed
+Passive Indicative,Present,1st Person,Plural,tractamur,tractemur,tractimur,tractimur,We are being handleed
+Passive Indicative,Present,2nd Person,Singular,tractaris,tracteris,tractiris,tractiris,You are being handleed
+Passive Indicative,Present,2nd Person,Plural,tractamini,tractemini,tractimini,tractimini,You (pl.) are being handleed
+Passive Indicative,Present,3rd Person,Singular,tractatur,tractetur,tractitur,tractitur,He/she/it is being handleed
+Passive Indicative,Present,3rd Person,Plural,tractantur,tractentur,tractiuntur,tractiuntur,They are being handleed
+Passive Indicative,Imperfect,1st Person,Singular,tractabar,tractebar,tractebar,tractiebar,I was handleed
+Passive Indicative,Imperfect,1st Person,Plural,tractabamur,tractebamur,tractebamur,tractiebamur,We were handleed
+Passive Indicative,Imperfect,2nd Person,Singular,tractabaris,tractebaris,tractebaris,tractiebaris,You were handleed
+Passive Indicative,Imperfect,2nd Person,Plural,tractabamini,tractebamini,tractebamini,tractiebamini,You (pl.) were handleed
+Passive Indicative,Imperfect,3rd Person,Singular,tractabatur,tractebatur,tractebatur,tractiebatur,He/she/it was handleed
+Passive Indicative,Imperfect,3rd Person,Plural,tractabantur,tractebantur,tractebantur,tractiebantur,They were handleed
+Passive Indicative,Future,1st Person,Singular,tractabor,tractebor,tractar,tractiar,I will be handleed
+Passive Indicative,Future,1st Person,Plural,tractabimur,tractebimur,tractemur,tractiemur,We will be handleed
+Passive Indicative,Future,2nd Person,Singular,tractaberis,tracteberis,tracteris,tractieris,You will be handleed
+Passive Indicative,Future,2nd Person,Plural,tractabimini,tractebimini,tractemini,tractiemini,You (pl.) will be handleed
+Passive Indicative,Future,3rd Person,Singular,tractabitur,tractebitur,tractetur,tractietur,He/she/it will be handleed
+Passive Indicative,Future,3rd Person,Plural,tractabuntur,tractebuntur,tractentur,tractientur,They will be handleed
+Passive Indicative,Perfect,1st Person,Singular,tractatus sum,tractetus sum,tractus sum,tractus sum,I have been handleed
+Passive Indicative,Perfect,1st Person,Plural,tractati sumus,tracteti sumus,tracti sumus,tracti sumus,We have been handleed
+Passive Indicative,Perfect,2nd Person,Singular,tractatus es,tractetus es,tractus es,tractus es,You have been handleed
+Passive Indicative,Perfect,2nd Person,Plural,tractati estis,tracteti estis,tracti estis,tracti estis,You (pl.) have been handleed
+Passive Indicative,Perfect,3rd Person,Singular,tractatus est,tractetus est,tractus est,tractus est,He/she/it has been handleed
+Passive Indicative,Perfect,3rd Person,Plural,tractati sunt,tracteti sunt,tracti sunt,tracti sunt,They have been handleed
+Passive Indicative,Pluperfect,1st Person,Singular,tractatus eram,tractetus eram,tractus eram,tractus eram,I had been handleed
+Passive Indicative,Pluperfect,1st Person,Plural,tractati eramus,tracteti eramus,tracti eramus,tracti eramus,We had been handleed
+Passive Indicative,Pluperfect,2nd Person,Singular,tractatus eras,tractetus eras,tractus eras,tractus eras,You had been handleed
+Passive Indicative,Pluperfect,2nd Person,Plural,tractati eratis,tracteti eratis,tracti eratis,tracti eratis,You (pl.) had been handleed
+Passive Indicative,Pluperfect,3rd Person,Singular,tractatus erat,tractetus erat,tractus erat,tractus erat,He/she/it had been handleed
+Passive Indicative,Pluperfect,3rd Person,Plural,tractati erant,tracteti erant,tracti erant,tracti erant,They had been handleed
+Passive Indicative,Future Perfect,1st Person,Singular,tractatus ero,tractetus ero,tractus ero,tractus ero,I will have been handleed
+Passive Indicative,Future Perfect,1st Person,Plural,tractati erimus,tracteti erimus,tracti erimus,tracti erimus,We will have been handleed
+Passive Indicative,Future Perfect,2nd Person,Singular,tractatus eris,tractetus eris,tractus eris,tractus eris,You will have been handleed
+Passive Indicative,Future Perfect,2nd Person,Plural,tractati eritis,tracteti eritis,tracti eritis,tracti eritis,You (pl.) will have been handleed
+Passive Indicative,Future Perfect,3rd Person,Singular,tractatus erit,tractetus erit,tractus erit,tractus erit,He/she/it will have been handleed
+Passive Indicative,Future Perfect,3rd Person,Plural,tractati erunt,tracteti erunt,tracti erunt,tracti erunt,They will have been handleed
+Active Subjunctive,Present,1st Person,Singular,tractem,tractem,tractam,tractam,I may handle
+Active Subjunctive,Present,1st Person,Plural,tractemus,tractemus,tractamus,tractamus,We may handle
+Active Subjunctive,Present,2nd Person,Singular,tractes,tractes,tractas,tractas,You may handle
+Active Subjunctive,Present,2nd Person,Plural,tractetis,tractetis,tractatis,tractatis,You (pl.) may handle
+Active Subjunctive,Present,3rd Person,Singular,tractet,tractet,tractat,tractat,He/she/it may handle
+Active Subjunctive,Present,3rd Person,Plural,tractent,tractent,tractant,tractant,They may handle
+Active Subjunctive,Imperfect,1st Person,Singular,tractarem,tracterem,tracterem,tractirem,I should handle
+Active Subjunctive,Imperfect,1st Person,Plural,tractaremus,tracteremus,tracteremus,tractiremus,We should handle
+Active Subjunctive,Imperfect,2nd Person,Singular,tractares,tracteres,tracteres,tractires,You should handle
+Active Subjunctive,Imperfect,2nd Person,Plural,tractaretis,tracteretis,tracteretis,tractiretis,You (pl.) should handle
+Active Subjunctive,Imperfect,3rd Person,Singular,tractaret,tracteret,tracteret,tractiret,He/she/it should handle
+Active Subjunctive,Imperfect,3rd Person,Plural,tractarent,tracterent,tracterent,tractirent,They should handle
+Active Subjunctive,Perfect,1st Person,Singular,tracterim,tractuerim,tracterim,tractierim,I may have handleed
+Active Subjunctive,Perfect,1st Person,Plural,tracterimus,tractuerimus,tracterimus,tractierimus,We may have handleed
+Active Subjunctive,Perfect,2nd Person,Singular,tracteris,tractueris,tracteris,tractieris,You may have handleed
+Active Subjunctive,Perfect,2nd Person,Plural,tracteritis,tractueritis,tracteritis,tractieritis,You (pl.) may have handleed
+Active Subjunctive,Perfect,3rd Person,Singular,tracterit,tractuerit,tracterit,tractierit,He/she/it may have handleed
+Active Subjunctive,Perfect,3rd Person,Plural,tracterint,tractuerint,tracterint,tractierint,They may have handleed
+Active Subjunctive,Pluperfect,1st Person,Singular,tractissem,tractuissem,tractissem,tractissem,I should have handleed
+Active Subjunctive,Pluperfect,1st Person,Plural,tractissemus,tractuissemus,tractissemus,tractissemus,We should have handleed
+Active Subjunctive,Pluperfect,2nd Person,Singular,tractisses,tractuisses,tractisses,tractisses,You would have handleed
+Active Subjunctive,Pluperfect,2nd Person,Plural,tractissetis,tractuissetis,tractissetis,tractissetis,You (pl.) would have handleed
+Active Subjunctive,Pluperfect,3rd Person,Singular,tractisset,tractuisset,tractisset,tractisset,He/she/it would have handleed
+Active Subjunctive,Pluperfect,3rd Person,Plural,tractissent,tractuissent,tractissent,tractissent,They would have handleed
+Passive Subjunctive,Present,1st Person,Singular,tracter,tracter,tractar,tractar,I may be handleed
+Passive Subjunctive,Present,1st Person,Plural,tractemur,tractemur,tractamur,tractamur,We may be handleed
+Passive Subjunctive,Present,2nd Person,Singular,tracteris,tracteris,tractaris,tractaris,You may be handleed
+Passive Subjunctive,Present,2nd Person,Plural,tractemini,tractemini,tractamini,tractamini,You (pl.) may be handleed
+Passive Subjunctive,Present,3rd Person,Singular,tractetur,tractetur,tractatur,tractatur,He/she/it may be handleed
+Passive Subjunctive,Present,3rd Person,Plural,tractentur,tractentur,tractantur,tractantur,They may be handleed
+Passive Subjunctive,Imperfect,1st Person,Singular,tractarer,tracterer,tracterer,tractirer,I should be handleed
+Passive Subjunctive,Imperfect,1st Person,Plural,tractaremur,tracteremur,tracteremur,tractiremur,We should be handleed
+Passive Subjunctive,Imperfect,2nd Person,Singular,tractareris,tractereris,tractereris,tractireris,You would be handleed
+Passive Subjunctive,Imperfect,2nd Person,Plural,tractaremini,tracteremini,tracteremini,tractiremini,You (pl.) would be handleed
+Passive Subjunctive,Imperfect,3rd Person,Singular,tractaretur,tracteretur,tracteretur,tractiretur,He/she/it would be handleed
+Passive Subjunctive,Imperfect,3rd Person,Plural,tractarentur,tracterentur,tracterentur,tractirentur,They would be handleed
+Passive Subjunctive,Perfect,1st Person,Singular,tractatus sim,tractetus sim,tractus sim,tractus sim,I may have been handleed
+Passive Subjunctive,Perfect,1st Person,Plural,tractati simus,tracteti simus,tracti simus,tracti simus,We may have been handleed
+Passive Subjunctive,Perfect,2nd Person,Singular,tractatus sis,tractetus sis,tractus sis,tractus sis,You may have been handleed
+Passive Subjunctive,Perfect,2nd Person,Plural,tractati sitis,tracteti sitis,tracti sitis,tracti sitis,You (pl.) may have been handleed
+Passive Subjunctive,Perfect,3rd Person,Singular,tractatus sit,tractetus sit,tractus sit,tractus sit,He/she/it may have been handleed
+Passive Subjunctive,Perfect,3rd Person,Plural,tractati sint,tracteti sint,tracti sint,tracti sint,They may have been handleed
+Passive Subjunctive,Pluperfect,1st Person,Singular,tractatus essem,tractetus essem,tractus essem,tractus essem,I should have been handleed
+Passive Subjunctive,Pluperfect,1st Person,Plural,tractati essemus,tracteti essemus,tracti essemus,tracti essemus,We should have been handleed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,tractatus esses,tractetus esses,tractus esses,tractus esses,You would have been handleed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,tractati essetis,tracteti essetis,tracti essetis,tracti essetis,You (pl.) would have been handleed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,tractatus esset,tractetus esset,tractus esset,tractus esset,He/she/it would have been handleed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,tractati essent,tracteti essent,tracti essent,tracti essent,They would have been handleed

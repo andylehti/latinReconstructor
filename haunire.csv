@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,hauno,hauneo,hauno,haunio,I shame
+Active Indicative,Present,1st Person,Plural,haunamus,haunemus,haunimus,haunimus,We shame
+Active Indicative,Present,2nd Person,Singular,haunas,haunes,haunis,haunis,You shame
+Active Indicative,Present,2nd Person,Plural,haunatis,haunetis,haunitis,haunitis,You (pl.) shame
+Active Indicative,Present,3rd Person,Singular,haunat,haunet,haunit,haunit,He/she/it shame
+Active Indicative,Present,3rd Person,Plural,haunant,haunent,hauniunt,hauniunt,They shame
+Active Indicative,Imperfect,1st Person,Singular,haunabam,haunebam,haunebam,hauniebam,I was shameing
+Active Indicative,Imperfect,1st Person,Plural,haunabamus,haunebamus,haunebamus,hauniebamus,We were shameing
+Active Indicative,Imperfect,2nd Person,Singular,haunabas,haunebas,haunebas,hauniebas,You were shameing
+Active Indicative,Imperfect,2nd Person,Plural,haunabatis,haunebatis,haunebatis,hauniebatis,You (pl.) were shameing
+Active Indicative,Imperfect,3rd Person,Singular,haunabat,haunebat,haunebat,hauniebat,He/she/it was shameing
+Active Indicative,Imperfect,3rd Person,Plural,haunabant,haunebant,haunebant,hauniebant,They were shameing
+Active Indicative,Future,1st Person,Singular,haunabo,haunebo,haunam,hauniam,I will shame
+Active Indicative,Future,1st Person,Plural,haunabimus,haunebimus,haunemus,hauniemus,We will shame
+Active Indicative,Future,2nd Person,Singular,haunabis,haunebis,haunes,haunies,You will shame
+Active Indicative,Future,2nd Person,Plural,haunabitis,haunebitis,haunetis,haunietis,You (pl.) will shame
+Active Indicative,Future,3rd Person,Singular,haunabit,haunebit,haunet,hauniet,He/she/it will shame
+Active Indicative,Future,3rd Person,Plural,haunabunt,haunebunt,haunent,haunient,They will shame
+Active Indicative,Perfect,1st Person,Singular,haunavi,haunui,hauni,hauni,I have shameed
+Active Indicative,Perfect,1st Person,Plural,haunavimus,haunuimus,haunimus,haunimus,We have shameed
+Active Indicative,Perfect,2nd Person,Singular,haunavisti,haunuisti,haunisti,haunisti,You have shameed
+Active Indicative,Perfect,2nd Person,Plural,haunavistis,haunuistis,haunistis,haunistis,You (pl.) have shameed
+Active Indicative,Perfect,3rd Person,Singular,haunavit,haunuit,haunit,haunit,He/she/it has shameed
+Active Indicative,Perfect,3rd Person,Plural,haunaverunt,haunuerunt,haunerunt,haunerunt,They have shameed
+Active Indicative,Pluperfect,1st Person,Singular,haunaveram,haunueram,hauneram,hauneram,I had shameed
+Active Indicative,Pluperfect,1st Person,Plural,haunaveramus,haunueramus,hauneramus,hauneramus,We had shameed
+Active Indicative,Pluperfect,2nd Person,Singular,haunaveras,haunueras,hauneras,hauneras,You had shameed
+Active Indicative,Pluperfect,2nd Person,Plural,haunaveratis,haunueratis,hauneratis,hauneratis,You (pl.) had shameed
+Active Indicative,Pluperfect,3rd Person,Singular,haunaverat,haunuerat,haunerat,haunerat,He/she/it had shameed
+Active Indicative,Pluperfect,3rd Person,Plural,haunaverant,haunuerant,haunerant,haunerant,They had shameed
+Active Indicative,Future Perfect,1st Person,Singular,haunavero,haunueero,haunero,hauniero,I will have shameed
+Active Indicative,Future Perfect,1st Person,Plural,haunaverimus,haunuerimus,haunerimus,haunierimus,We will have shameed
+Active Indicative,Future Perfect,2nd Person,Singular,haunaveris,haunueris,hauneris,haunieris,You will have shameed
+Active Indicative,Future Perfect,2nd Person,Plural,haunaveritis,haunueritis,hauneritis,haunieritis,You (pl.) will have shameed
+Active Indicative,Future Perfect,3rd Person,Singular,haunaverit,haunuerit,haunerit,haunierit,He/she/it will have shameed
+Active Indicative,Future Perfect,3rd Person,Plural,haunaverint,haunuerint,haunerint,haunierint,They will have shameed
+Passive Indicative,Present,1st Person,Singular,haunor,hauneor,haunor,haunior,I am being shameed
+Passive Indicative,Present,1st Person,Plural,haunamur,haunemur,haunimur,haunimur,We are being shameed
+Passive Indicative,Present,2nd Person,Singular,haunaris,hauneris,hauniris,hauniris,You are being shameed
+Passive Indicative,Present,2nd Person,Plural,haunamini,haunemini,haunimini,haunimini,You (pl.) are being shameed
+Passive Indicative,Present,3rd Person,Singular,haunatur,haunetur,haunitur,haunitur,He/she/it is being shameed
+Passive Indicative,Present,3rd Person,Plural,haunantur,haunentur,hauniuntur,hauniuntur,They are being shameed
+Passive Indicative,Imperfect,1st Person,Singular,haunabar,haunebar,haunebar,hauniebar,I was shameed
+Passive Indicative,Imperfect,1st Person,Plural,haunabamur,haunebamur,haunebamur,hauniebamur,We were shameed
+Passive Indicative,Imperfect,2nd Person,Singular,haunabaris,haunebaris,haunebaris,hauniebaris,You were shameed
+Passive Indicative,Imperfect,2nd Person,Plural,haunabamini,haunebamini,haunebamini,hauniebamini,You (pl.) were shameed
+Passive Indicative,Imperfect,3rd Person,Singular,haunabatur,haunebatur,haunebatur,hauniebatur,He/she/it was shameed
+Passive Indicative,Imperfect,3rd Person,Plural,haunabantur,haunebantur,haunebantur,hauniebantur,They were shameed
+Passive Indicative,Future,1st Person,Singular,haunabor,haunebor,haunar,hauniar,I will be shameed
+Passive Indicative,Future,1st Person,Plural,haunabimur,haunebimur,haunemur,hauniemur,We will be shameed
+Passive Indicative,Future,2nd Person,Singular,haunaberis,hauneberis,hauneris,haunieris,You will be shameed
+Passive Indicative,Future,2nd Person,Plural,haunabimini,haunebimini,haunemini,hauniemini,You (pl.) will be shameed
+Passive Indicative,Future,3rd Person,Singular,haunabitur,haunebitur,haunetur,haunietur,He/she/it will be shameed
+Passive Indicative,Future,3rd Person,Plural,haunabuntur,haunebuntur,haunentur,haunientur,They will be shameed
+Passive Indicative,Perfect,1st Person,Singular,haunatus sum,haunetus sum,haunus sum,haunus sum,I have been shameed
+Passive Indicative,Perfect,1st Person,Plural,haunati sumus,hauneti sumus,hauni sumus,hauni sumus,We have been shameed
+Passive Indicative,Perfect,2nd Person,Singular,haunatus es,haunetus es,haunus es,haunus es,You have been shameed
+Passive Indicative,Perfect,2nd Person,Plural,haunati estis,hauneti estis,hauni estis,hauni estis,You (pl.) have been shameed
+Passive Indicative,Perfect,3rd Person,Singular,haunatus est,haunetus est,haunus est,haunus est,He/she/it has been shameed
+Passive Indicative,Perfect,3rd Person,Plural,haunati sunt,hauneti sunt,hauni sunt,hauni sunt,They have been shameed
+Passive Indicative,Pluperfect,1st Person,Singular,haunatus eram,haunetus eram,haunus eram,haunus eram,I had been shameed
+Passive Indicative,Pluperfect,1st Person,Plural,haunati eramus,hauneti eramus,hauni eramus,hauni eramus,We had been shameed
+Passive Indicative,Pluperfect,2nd Person,Singular,haunatus eras,haunetus eras,haunus eras,haunus eras,You had been shameed
+Passive Indicative,Pluperfect,2nd Person,Plural,haunati eratis,hauneti eratis,hauni eratis,hauni eratis,You (pl.) had been shameed
+Passive Indicative,Pluperfect,3rd Person,Singular,haunatus erat,haunetus erat,haunus erat,haunus erat,He/she/it had been shameed
+Passive Indicative,Pluperfect,3rd Person,Plural,haunati erant,hauneti erant,hauni erant,hauni erant,They had been shameed
+Passive Indicative,Future Perfect,1st Person,Singular,haunatus ero,haunetus ero,haunus ero,haunus ero,I will have been shameed
+Passive Indicative,Future Perfect,1st Person,Plural,haunati erimus,hauneti erimus,hauni erimus,hauni erimus,We will have been shameed
+Passive Indicative,Future Perfect,2nd Person,Singular,haunatus eris,haunetus eris,haunus eris,haunus eris,You will have been shameed
+Passive Indicative,Future Perfect,2nd Person,Plural,haunati eritis,hauneti eritis,hauni eritis,hauni eritis,You (pl.) will have been shameed
+Passive Indicative,Future Perfect,3rd Person,Singular,haunatus erit,haunetus erit,haunus erit,haunus erit,He/she/it will have been shameed
+Passive Indicative,Future Perfect,3rd Person,Plural,haunati erunt,hauneti erunt,hauni erunt,hauni erunt,They will have been shameed
+Active Subjunctive,Present,1st Person,Singular,haunem,haunem,haunam,haunam,I may shame
+Active Subjunctive,Present,1st Person,Plural,haunemus,haunemus,haunamus,haunamus,We may shame
+Active Subjunctive,Present,2nd Person,Singular,haunes,haunes,haunas,haunas,You may shame
+Active Subjunctive,Present,2nd Person,Plural,haunetis,haunetis,haunatis,haunatis,You (pl.) may shame
+Active Subjunctive,Present,3rd Person,Singular,haunet,haunet,haunat,haunat,He/she/it may shame
+Active Subjunctive,Present,3rd Person,Plural,haunent,haunent,haunant,haunant,They may shame
+Active Subjunctive,Imperfect,1st Person,Singular,haunarem,haunerem,haunerem,haunirem,I should shame
+Active Subjunctive,Imperfect,1st Person,Plural,haunaremus,hauneremus,hauneremus,hauniremus,We should shame
+Active Subjunctive,Imperfect,2nd Person,Singular,haunares,hauneres,hauneres,haunires,You should shame
+Active Subjunctive,Imperfect,2nd Person,Plural,haunaretis,hauneretis,hauneretis,hauniretis,You (pl.) should shame
+Active Subjunctive,Imperfect,3rd Person,Singular,haunaret,hauneret,hauneret,hauniret,He/she/it should shame
+Active Subjunctive,Imperfect,3rd Person,Plural,haunarent,haunerent,haunerent,haunirent,They should shame
+Active Subjunctive,Perfect,1st Person,Singular,haunerim,haunuerim,haunerim,haunierim,I may have shameed
+Active Subjunctive,Perfect,1st Person,Plural,haunerimus,haunuerimus,haunerimus,haunierimus,We may have shameed
+Active Subjunctive,Perfect,2nd Person,Singular,hauneris,haunueris,hauneris,haunieris,You may have shameed
+Active Subjunctive,Perfect,2nd Person,Plural,hauneritis,haunueritis,hauneritis,haunieritis,You (pl.) may have shameed
+Active Subjunctive,Perfect,3rd Person,Singular,haunerit,haunuerit,haunerit,haunierit,He/she/it may have shameed
+Active Subjunctive,Perfect,3rd Person,Plural,haunerint,haunuerint,haunerint,haunierint,They may have shameed
+Active Subjunctive,Pluperfect,1st Person,Singular,haunissem,haunuissem,haunissem,haunissem,I should have shameed
+Active Subjunctive,Pluperfect,1st Person,Plural,haunissemus,haunuissemus,haunissemus,haunissemus,We should have shameed
+Active Subjunctive,Pluperfect,2nd Person,Singular,haunisses,haunuisses,haunisses,haunisses,You would have shameed
+Active Subjunctive,Pluperfect,2nd Person,Plural,haunissetis,haunuissetis,haunissetis,haunissetis,You (pl.) would have shameed
+Active Subjunctive,Pluperfect,3rd Person,Singular,haunisset,haunuisset,haunisset,haunisset,He/she/it would have shameed
+Active Subjunctive,Pluperfect,3rd Person,Plural,haunissent,haunuissent,haunissent,haunissent,They would have shameed
+Passive Subjunctive,Present,1st Person,Singular,hauner,hauner,haunar,haunar,I may be shameed
+Passive Subjunctive,Present,1st Person,Plural,haunemur,haunemur,haunamur,haunamur,We may be shameed
+Passive Subjunctive,Present,2nd Person,Singular,hauneris,hauneris,haunaris,haunaris,You may be shameed
+Passive Subjunctive,Present,2nd Person,Plural,haunemini,haunemini,haunamini,haunamini,You (pl.) may be shameed
+Passive Subjunctive,Present,3rd Person,Singular,haunetur,haunetur,haunatur,haunatur,He/she/it may be shameed
+Passive Subjunctive,Present,3rd Person,Plural,haunentur,haunentur,haunantur,haunantur,They may be shameed
+Passive Subjunctive,Imperfect,1st Person,Singular,haunarer,haunerer,haunerer,haunirer,I should be shameed
+Passive Subjunctive,Imperfect,1st Person,Plural,haunaremur,hauneremur,hauneremur,hauniremur,We should be shameed
+Passive Subjunctive,Imperfect,2nd Person,Singular,haunareris,haunereris,haunereris,haunireris,You would be shameed
+Passive Subjunctive,Imperfect,2nd Person,Plural,haunaremini,hauneremini,hauneremini,hauniremini,You (pl.) would be shameed
+Passive Subjunctive,Imperfect,3rd Person,Singular,haunaretur,hauneretur,hauneretur,hauniretur,He/she/it would be shameed
+Passive Subjunctive,Imperfect,3rd Person,Plural,haunarentur,haunerentur,haunerentur,haunirentur,They would be shameed
+Passive Subjunctive,Perfect,1st Person,Singular,haunatus sim,haunetus sim,haunus sim,haunus sim,I may have been shameed
+Passive Subjunctive,Perfect,1st Person,Plural,haunati simus,hauneti simus,hauni simus,hauni simus,We may have been shameed
+Passive Subjunctive,Perfect,2nd Person,Singular,haunatus sis,haunetus sis,haunus sis,haunus sis,You may have been shameed
+Passive Subjunctive,Perfect,2nd Person,Plural,haunati sitis,hauneti sitis,hauni sitis,hauni sitis,You (pl.) may have been shameed
+Passive Subjunctive,Perfect,3rd Person,Singular,haunatus sit,haunetus sit,haunus sit,haunus sit,He/she/it may have been shameed
+Passive Subjunctive,Perfect,3rd Person,Plural,haunati sint,hauneti sint,hauni sint,hauni sint,They may have been shameed
+Passive Subjunctive,Pluperfect,1st Person,Singular,haunatus essem,haunetus essem,haunus essem,haunus essem,I should have been shameed
+Passive Subjunctive,Pluperfect,1st Person,Plural,haunati essemus,hauneti essemus,hauni essemus,hauni essemus,We should have been shameed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,haunatus esses,haunetus esses,haunus esses,haunus esses,You would have been shameed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,haunati essetis,hauneti essetis,hauni essetis,hauni essetis,You (pl.) would have been shameed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,haunatus esset,haunetus esset,haunus esset,haunus esset,He/she/it would have been shameed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,haunati essent,hauneti essent,hauni essent,hauni essent,They would have been shameed

@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,resalo,resaleo,resalo,resalio,I rise up
+Active Indicative,Present,1st Person,Plural,resalamus,resalemus,resalimus,resalimus,We rise up
+Active Indicative,Present,2nd Person,Singular,resalas,resales,resalis,resalis,You rise up
+Active Indicative,Present,2nd Person,Plural,resalatis,resaletis,resalitis,resalitis,You (pl.) rise up
+Active Indicative,Present,3rd Person,Singular,resalat,resalet,resalit,resalit,He/she/it rise up
+Active Indicative,Present,3rd Person,Plural,resalant,resalent,resaliunt,resaliunt,They rise up
+Active Indicative,Imperfect,1st Person,Singular,resalabam,resalebam,resalebam,resaliebam,I was rise uping
+Active Indicative,Imperfect,1st Person,Plural,resalabamus,resalebamus,resalebamus,resaliebamus,We were rise uping
+Active Indicative,Imperfect,2nd Person,Singular,resalabas,resalebas,resalebas,resaliebas,You were rise uping
+Active Indicative,Imperfect,2nd Person,Plural,resalabatis,resalebatis,resalebatis,resaliebatis,You (pl.) were rise uping
+Active Indicative,Imperfect,3rd Person,Singular,resalabat,resalebat,resalebat,resaliebat,He/she/it was rise uping
+Active Indicative,Imperfect,3rd Person,Plural,resalabant,resalebant,resalebant,resaliebant,They were rise uping
+Active Indicative,Future,1st Person,Singular,resalabo,resalebo,resalam,resaliam,I will rise up
+Active Indicative,Future,1st Person,Plural,resalabimus,resalebimus,resalemus,resaliemus,We will rise up
+Active Indicative,Future,2nd Person,Singular,resalabis,resalebis,resales,resalies,You will rise up
+Active Indicative,Future,2nd Person,Plural,resalabitis,resalebitis,resaletis,resalietis,You (pl.) will rise up
+Active Indicative,Future,3rd Person,Singular,resalabit,resalebit,resalet,resaliet,He/she/it will rise up
+Active Indicative,Future,3rd Person,Plural,resalabunt,resalebunt,resalent,resalient,They will rise up
+Active Indicative,Perfect,1st Person,Singular,resalavi,resalui,resali,resali,I have rise uped
+Active Indicative,Perfect,1st Person,Plural,resalavimus,resaluimus,resalimus,resalimus,We have rise uped
+Active Indicative,Perfect,2nd Person,Singular,resalavisti,resaluisti,resalisti,resalisti,You have rise uped
+Active Indicative,Perfect,2nd Person,Plural,resalavistis,resaluistis,resalistis,resalistis,You (pl.) have rise uped
+Active Indicative,Perfect,3rd Person,Singular,resalavit,resaluit,resalit,resalit,He/she/it has rise uped
+Active Indicative,Perfect,3rd Person,Plural,resalaverunt,resaluerunt,resalerunt,resalerunt,They have rise uped
+Active Indicative,Pluperfect,1st Person,Singular,resalaveram,resalueram,resaleram,resaleram,I had rise uped
+Active Indicative,Pluperfect,1st Person,Plural,resalaveramus,resalueramus,resaleramus,resaleramus,We had rise uped
+Active Indicative,Pluperfect,2nd Person,Singular,resalaveras,resalueras,resaleras,resaleras,You had rise uped
+Active Indicative,Pluperfect,2nd Person,Plural,resalaveratis,resalueratis,resaleratis,resaleratis,You (pl.) had rise uped
+Active Indicative,Pluperfect,3rd Person,Singular,resalaverat,resaluerat,resalerat,resalerat,He/she/it had rise uped
+Active Indicative,Pluperfect,3rd Person,Plural,resalaverant,resaluerant,resalerant,resalerant,They had rise uped
+Active Indicative,Future Perfect,1st Person,Singular,resalavero,resalueero,resalero,resaliero,I will have rise uped
+Active Indicative,Future Perfect,1st Person,Plural,resalaverimus,resaluerimus,resalerimus,resalierimus,We will have rise uped
+Active Indicative,Future Perfect,2nd Person,Singular,resalaveris,resalueris,resaleris,resalieris,You will have rise uped
+Active Indicative,Future Perfect,2nd Person,Plural,resalaveritis,resalueritis,resaleritis,resalieritis,You (pl.) will have rise uped
+Active Indicative,Future Perfect,3rd Person,Singular,resalaverit,resaluerit,resalerit,resalierit,He/she/it will have rise uped
+Active Indicative,Future Perfect,3rd Person,Plural,resalaverint,resaluerint,resalerint,resalierint,They will have rise uped
+Passive Indicative,Present,1st Person,Singular,resalor,resaleor,resalor,resalior,I am being rise uped
+Passive Indicative,Present,1st Person,Plural,resalamur,resalemur,resalimur,resalimur,We are being rise uped
+Passive Indicative,Present,2nd Person,Singular,resalaris,resaleris,resaliris,resaliris,You are being rise uped
+Passive Indicative,Present,2nd Person,Plural,resalamini,resalemini,resalimini,resalimini,You (pl.) are being rise uped
+Passive Indicative,Present,3rd Person,Singular,resalatur,resaletur,resalitur,resalitur,He/she/it is being rise uped
+Passive Indicative,Present,3rd Person,Plural,resalantur,resalentur,resaliuntur,resaliuntur,They are being rise uped
+Passive Indicative,Imperfect,1st Person,Singular,resalabar,resalebar,resalebar,resaliebar,I was rise uped
+Passive Indicative,Imperfect,1st Person,Plural,resalabamur,resalebamur,resalebamur,resaliebamur,We were rise uped
+Passive Indicative,Imperfect,2nd Person,Singular,resalabaris,resalebaris,resalebaris,resaliebaris,You were rise uped
+Passive Indicative,Imperfect,2nd Person,Plural,resalabamini,resalebamini,resalebamini,resaliebamini,You (pl.) were rise uped
+Passive Indicative,Imperfect,3rd Person,Singular,resalabatur,resalebatur,resalebatur,resaliebatur,He/she/it was rise uped
+Passive Indicative,Imperfect,3rd Person,Plural,resalabantur,resalebantur,resalebantur,resaliebantur,They were rise uped
+Passive Indicative,Future,1st Person,Singular,resalabor,resalebor,resalar,resaliar,I will be rise uped
+Passive Indicative,Future,1st Person,Plural,resalabimur,resalebimur,resalemur,resaliemur,We will be rise uped
+Passive Indicative,Future,2nd Person,Singular,resalaberis,resaleberis,resaleris,resalieris,You will be rise uped
+Passive Indicative,Future,2nd Person,Plural,resalabimini,resalebimini,resalemini,resaliemini,You (pl.) will be rise uped
+Passive Indicative,Future,3rd Person,Singular,resalabitur,resalebitur,resaletur,resalietur,He/she/it will be rise uped
+Passive Indicative,Future,3rd Person,Plural,resalabuntur,resalebuntur,resalentur,resalientur,They will be rise uped
+Passive Indicative,Perfect,1st Person,Singular,resalatus sum,resaletus sum,resalus sum,resalus sum,I have been rise uped
+Passive Indicative,Perfect,1st Person,Plural,resalati sumus,resaleti sumus,resali sumus,resali sumus,We have been rise uped
+Passive Indicative,Perfect,2nd Person,Singular,resalatus es,resaletus es,resalus es,resalus es,You have been rise uped
+Passive Indicative,Perfect,2nd Person,Plural,resalati estis,resaleti estis,resali estis,resali estis,You (pl.) have been rise uped
+Passive Indicative,Perfect,3rd Person,Singular,resalatus est,resaletus est,resalus est,resalus est,He/she/it has been rise uped
+Passive Indicative,Perfect,3rd Person,Plural,resalati sunt,resaleti sunt,resali sunt,resali sunt,They have been rise uped
+Passive Indicative,Pluperfect,1st Person,Singular,resalatus eram,resaletus eram,resalus eram,resalus eram,I had been rise uped
+Passive Indicative,Pluperfect,1st Person,Plural,resalati eramus,resaleti eramus,resali eramus,resali eramus,We had been rise uped
+Passive Indicative,Pluperfect,2nd Person,Singular,resalatus eras,resaletus eras,resalus eras,resalus eras,You had been rise uped
+Passive Indicative,Pluperfect,2nd Person,Plural,resalati eratis,resaleti eratis,resali eratis,resali eratis,You (pl.) had been rise uped
+Passive Indicative,Pluperfect,3rd Person,Singular,resalatus erat,resaletus erat,resalus erat,resalus erat,He/she/it had been rise uped
+Passive Indicative,Pluperfect,3rd Person,Plural,resalati erant,resaleti erant,resali erant,resali erant,They had been rise uped
+Passive Indicative,Future Perfect,1st Person,Singular,resalatus ero,resaletus ero,resalus ero,resalus ero,I will have been rise uped
+Passive Indicative,Future Perfect,1st Person,Plural,resalati erimus,resaleti erimus,resali erimus,resali erimus,We will have been rise uped
+Passive Indicative,Future Perfect,2nd Person,Singular,resalatus eris,resaletus eris,resalus eris,resalus eris,You will have been rise uped
+Passive Indicative,Future Perfect,2nd Person,Plural,resalati eritis,resaleti eritis,resali eritis,resali eritis,You (pl.) will have been rise uped
+Passive Indicative,Future Perfect,3rd Person,Singular,resalatus erit,resaletus erit,resalus erit,resalus erit,He/she/it will have been rise uped
+Passive Indicative,Future Perfect,3rd Person,Plural,resalati erunt,resaleti erunt,resali erunt,resali erunt,They will have been rise uped
+Active Subjunctive,Present,1st Person,Singular,resalem,resalem,resalam,resalam,I may rise up
+Active Subjunctive,Present,1st Person,Plural,resalemus,resalemus,resalamus,resalamus,We may rise up
+Active Subjunctive,Present,2nd Person,Singular,resales,resales,resalas,resalas,You may rise up
+Active Subjunctive,Present,2nd Person,Plural,resaletis,resaletis,resalatis,resalatis,You (pl.) may rise up
+Active Subjunctive,Present,3rd Person,Singular,resalet,resalet,resalat,resalat,He/she/it may rise up
+Active Subjunctive,Present,3rd Person,Plural,resalent,resalent,resalant,resalant,They may rise up
+Active Subjunctive,Imperfect,1st Person,Singular,resalarem,resalerem,resalerem,resalirem,I should rise up
+Active Subjunctive,Imperfect,1st Person,Plural,resalaremus,resaleremus,resaleremus,resaliremus,We should rise up
+Active Subjunctive,Imperfect,2nd Person,Singular,resalares,resaleres,resaleres,resalires,You should rise up
+Active Subjunctive,Imperfect,2nd Person,Plural,resalaretis,resaleretis,resaleretis,resaliretis,You (pl.) should rise up
+Active Subjunctive,Imperfect,3rd Person,Singular,resalaret,resaleret,resaleret,resaliret,He/she/it should rise up
+Active Subjunctive,Imperfect,3rd Person,Plural,resalarent,resalerent,resalerent,resalirent,They should rise up
+Active Subjunctive,Perfect,1st Person,Singular,resalerim,resaluerim,resalerim,resalierim,I may have rise uped
+Active Subjunctive,Perfect,1st Person,Plural,resalerimus,resaluerimus,resalerimus,resalierimus,We may have rise uped
+Active Subjunctive,Perfect,2nd Person,Singular,resaleris,resalueris,resaleris,resalieris,You may have rise uped
+Active Subjunctive,Perfect,2nd Person,Plural,resaleritis,resalueritis,resaleritis,resalieritis,You (pl.) may have rise uped
+Active Subjunctive,Perfect,3rd Person,Singular,resalerit,resaluerit,resalerit,resalierit,He/she/it may have rise uped
+Active Subjunctive,Perfect,3rd Person,Plural,resalerint,resaluerint,resalerint,resalierint,They may have rise uped
+Active Subjunctive,Pluperfect,1st Person,Singular,resalissem,resaluissem,resalissem,resalissem,I should have rise uped
+Active Subjunctive,Pluperfect,1st Person,Plural,resalissemus,resaluissemus,resalissemus,resalissemus,We should have rise uped
+Active Subjunctive,Pluperfect,2nd Person,Singular,resalisses,resaluisses,resalisses,resalisses,You would have rise uped
+Active Subjunctive,Pluperfect,2nd Person,Plural,resalissetis,resaluissetis,resalissetis,resalissetis,You (pl.) would have rise uped
+Active Subjunctive,Pluperfect,3rd Person,Singular,resalisset,resaluisset,resalisset,resalisset,He/she/it would have rise uped
+Active Subjunctive,Pluperfect,3rd Person,Plural,resalissent,resaluissent,resalissent,resalissent,They would have rise uped
+Passive Subjunctive,Present,1st Person,Singular,resaler,resaler,resalar,resalar,I may be rise uped
+Passive Subjunctive,Present,1st Person,Plural,resalemur,resalemur,resalamur,resalamur,We may be rise uped
+Passive Subjunctive,Present,2nd Person,Singular,resaleris,resaleris,resalaris,resalaris,You may be rise uped
+Passive Subjunctive,Present,2nd Person,Plural,resalemini,resalemini,resalamini,resalamini,You (pl.) may be rise uped
+Passive Subjunctive,Present,3rd Person,Singular,resaletur,resaletur,resalatur,resalatur,He/she/it may be rise uped
+Passive Subjunctive,Present,3rd Person,Plural,resalentur,resalentur,resalantur,resalantur,They may be rise uped
+Passive Subjunctive,Imperfect,1st Person,Singular,resalarer,resalerer,resalerer,resalirer,I should be rise uped
+Passive Subjunctive,Imperfect,1st Person,Plural,resalaremur,resaleremur,resaleremur,resaliremur,We should be rise uped
+Passive Subjunctive,Imperfect,2nd Person,Singular,resalareris,resalereris,resalereris,resalireris,You would be rise uped
+Passive Subjunctive,Imperfect,2nd Person,Plural,resalaremini,resaleremini,resaleremini,resaliremini,You (pl.) would be rise uped
+Passive Subjunctive,Imperfect,3rd Person,Singular,resalaretur,resaleretur,resaleretur,resaliretur,He/she/it would be rise uped
+Passive Subjunctive,Imperfect,3rd Person,Plural,resalarentur,resalerentur,resalerentur,resalirentur,They would be rise uped
+Passive Subjunctive,Perfect,1st Person,Singular,resalatus sim,resaletus sim,resalus sim,resalus sim,I may have been rise uped
+Passive Subjunctive,Perfect,1st Person,Plural,resalati simus,resaleti simus,resali simus,resali simus,We may have been rise uped
+Passive Subjunctive,Perfect,2nd Person,Singular,resalatus sis,resaletus sis,resalus sis,resalus sis,You may have been rise uped
+Passive Subjunctive,Perfect,2nd Person,Plural,resalati sitis,resaleti sitis,resali sitis,resali sitis,You (pl.) may have been rise uped
+Passive Subjunctive,Perfect,3rd Person,Singular,resalatus sit,resaletus sit,resalus sit,resalus sit,He/she/it may have been rise uped
+Passive Subjunctive,Perfect,3rd Person,Plural,resalati sint,resaleti sint,resali sint,resali sint,They may have been rise uped
+Passive Subjunctive,Pluperfect,1st Person,Singular,resalatus essem,resaletus essem,resalus essem,resalus essem,I should have been rise uped
+Passive Subjunctive,Pluperfect,1st Person,Plural,resalati essemus,resaleti essemus,resali essemus,resali essemus,We should have been rise uped
+Passive Subjunctive,Pluperfect,2nd Person,Singular,resalatus esses,resaletus esses,resalus esses,resalus esses,You would have been rise uped
+Passive Subjunctive,Pluperfect,2nd Person,Plural,resalati essetis,resaleti essetis,resali essetis,resali essetis,You (pl.) would have been rise uped
+Passive Subjunctive,Pluperfect,3rd Person,Singular,resalatus esset,resaletus esset,resalus esset,resalus esset,He/she/it would have been rise uped
+Passive Subjunctive,Pluperfect,3rd Person,Plural,resalati essent,resaleti essent,resali essent,resali essent,They would have been rise uped

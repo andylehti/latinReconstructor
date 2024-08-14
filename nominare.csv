@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,nomino,nomineo,nomino,nominio,I appoint
+Active Indicative,Present,1st Person,Plural,nominamus,nominemus,nominimus,nominimus,We appoint
+Active Indicative,Present,2nd Person,Singular,nominas,nomines,nominis,nominis,You appoint
+Active Indicative,Present,2nd Person,Plural,nominatis,nominetis,nominitis,nominitis,You (pl.) appoint
+Active Indicative,Present,3rd Person,Singular,nominat,nominet,nominit,nominit,He/she/it appoint
+Active Indicative,Present,3rd Person,Plural,nominant,nominent,nominiunt,nominiunt,They appoint
+Active Indicative,Imperfect,1st Person,Singular,nominabam,nominebam,nominebam,nominiebam,I was appointing
+Active Indicative,Imperfect,1st Person,Plural,nominabamus,nominebamus,nominebamus,nominiebamus,We were appointing
+Active Indicative,Imperfect,2nd Person,Singular,nominabas,nominebas,nominebas,nominiebas,You were appointing
+Active Indicative,Imperfect,2nd Person,Plural,nominabatis,nominebatis,nominebatis,nominiebatis,You (pl.) were appointing
+Active Indicative,Imperfect,3rd Person,Singular,nominabat,nominebat,nominebat,nominiebat,He/she/it was appointing
+Active Indicative,Imperfect,3rd Person,Plural,nominabant,nominebant,nominebant,nominiebant,They were appointing
+Active Indicative,Future,1st Person,Singular,nominabo,nominebo,nominam,nominiam,I will appoint
+Active Indicative,Future,1st Person,Plural,nominabimus,nominebimus,nominemus,nominiemus,We will appoint
+Active Indicative,Future,2nd Person,Singular,nominabis,nominebis,nomines,nominies,You will appoint
+Active Indicative,Future,2nd Person,Plural,nominabitis,nominebitis,nominetis,nominietis,You (pl.) will appoint
+Active Indicative,Future,3rd Person,Singular,nominabit,nominebit,nominet,nominiet,He/she/it will appoint
+Active Indicative,Future,3rd Person,Plural,nominabunt,nominebunt,nominent,nominient,They will appoint
+Active Indicative,Perfect,1st Person,Singular,nominavi,nominui,nomini,nomini,I have appointed
+Active Indicative,Perfect,1st Person,Plural,nominavimus,nominuimus,nominimus,nominimus,We have appointed
+Active Indicative,Perfect,2nd Person,Singular,nominavisti,nominuisti,noministi,noministi,You have appointed
+Active Indicative,Perfect,2nd Person,Plural,nominavistis,nominuistis,noministis,noministis,You (pl.) have appointed
+Active Indicative,Perfect,3rd Person,Singular,nominavit,nominuit,nominit,nominit,He/she/it has appointed
+Active Indicative,Perfect,3rd Person,Plural,nominaverunt,nominuerunt,nominerunt,nominerunt,They have appointed
+Active Indicative,Pluperfect,1st Person,Singular,nominaveram,nominueram,nomineram,nomineram,I had appointed
+Active Indicative,Pluperfect,1st Person,Plural,nominaveramus,nominueramus,nomineramus,nomineramus,We had appointed
+Active Indicative,Pluperfect,2nd Person,Singular,nominaveras,nominueras,nomineras,nomineras,You had appointed
+Active Indicative,Pluperfect,2nd Person,Plural,nominaveratis,nominueratis,nomineratis,nomineratis,You (pl.) had appointed
+Active Indicative,Pluperfect,3rd Person,Singular,nominaverat,nominuerat,nominerat,nominerat,He/she/it had appointed
+Active Indicative,Pluperfect,3rd Person,Plural,nominaverant,nominuerant,nominerant,nominerant,They had appointed
+Active Indicative,Future Perfect,1st Person,Singular,nominavero,nominueero,nominero,nominiero,I will have appointed
+Active Indicative,Future Perfect,1st Person,Plural,nominaverimus,nominuerimus,nominerimus,nominierimus,We will have appointed
+Active Indicative,Future Perfect,2nd Person,Singular,nominaveris,nominueris,nomineris,nominieris,You will have appointed
+Active Indicative,Future Perfect,2nd Person,Plural,nominaveritis,nominueritis,nomineritis,nominieritis,You (pl.) will have appointed
+Active Indicative,Future Perfect,3rd Person,Singular,nominaverit,nominuerit,nominerit,nominierit,He/she/it will have appointed
+Active Indicative,Future Perfect,3rd Person,Plural,nominaverint,nominuerint,nominerint,nominierint,They will have appointed
+Passive Indicative,Present,1st Person,Singular,nominor,nomineor,nominor,nominior,I am being appointed
+Passive Indicative,Present,1st Person,Plural,nominamur,nominemur,nominimur,nominimur,We are being appointed
+Passive Indicative,Present,2nd Person,Singular,nominaris,nomineris,nominiris,nominiris,You are being appointed
+Passive Indicative,Present,2nd Person,Plural,nominamini,nominemini,nominimini,nominimini,You (pl.) are being appointed
+Passive Indicative,Present,3rd Person,Singular,nominatur,nominetur,nominitur,nominitur,He/she/it is being appointed
+Passive Indicative,Present,3rd Person,Plural,nominantur,nominentur,nominiuntur,nominiuntur,They are being appointed
+Passive Indicative,Imperfect,1st Person,Singular,nominabar,nominebar,nominebar,nominiebar,I was appointed
+Passive Indicative,Imperfect,1st Person,Plural,nominabamur,nominebamur,nominebamur,nominiebamur,We were appointed
+Passive Indicative,Imperfect,2nd Person,Singular,nominabaris,nominebaris,nominebaris,nominiebaris,You were appointed
+Passive Indicative,Imperfect,2nd Person,Plural,nominabamini,nominebamini,nominebamini,nominiebamini,You (pl.) were appointed
+Passive Indicative,Imperfect,3rd Person,Singular,nominabatur,nominebatur,nominebatur,nominiebatur,He/she/it was appointed
+Passive Indicative,Imperfect,3rd Person,Plural,nominabantur,nominebantur,nominebantur,nominiebantur,They were appointed
+Passive Indicative,Future,1st Person,Singular,nominabor,nominebor,nominar,nominiar,I will be appointed
+Passive Indicative,Future,1st Person,Plural,nominabimur,nominebimur,nominemur,nominiemur,We will be appointed
+Passive Indicative,Future,2nd Person,Singular,nominaberis,nomineberis,nomineris,nominieris,You will be appointed
+Passive Indicative,Future,2nd Person,Plural,nominabimini,nominebimini,nominemini,nominiemini,You (pl.) will be appointed
+Passive Indicative,Future,3rd Person,Singular,nominabitur,nominebitur,nominetur,nominietur,He/she/it will be appointed
+Passive Indicative,Future,3rd Person,Plural,nominabuntur,nominebuntur,nominentur,nominientur,They will be appointed
+Passive Indicative,Perfect,1st Person,Singular,nominatus sum,nominetus sum,nominus sum,nominus sum,I have been appointed
+Passive Indicative,Perfect,1st Person,Plural,nominati sumus,nomineti sumus,nomini sumus,nomini sumus,We have been appointed
+Passive Indicative,Perfect,2nd Person,Singular,nominatus es,nominetus es,nominus es,nominus es,You have been appointed
+Passive Indicative,Perfect,2nd Person,Plural,nominati estis,nomineti estis,nomini estis,nomini estis,You (pl.) have been appointed
+Passive Indicative,Perfect,3rd Person,Singular,nominatus est,nominetus est,nominus est,nominus est,He/she/it has been appointed
+Passive Indicative,Perfect,3rd Person,Plural,nominati sunt,nomineti sunt,nomini sunt,nomini sunt,They have been appointed
+Passive Indicative,Pluperfect,1st Person,Singular,nominatus eram,nominetus eram,nominus eram,nominus eram,I had been appointed
+Passive Indicative,Pluperfect,1st Person,Plural,nominati eramus,nomineti eramus,nomini eramus,nomini eramus,We had been appointed
+Passive Indicative,Pluperfect,2nd Person,Singular,nominatus eras,nominetus eras,nominus eras,nominus eras,You had been appointed
+Passive Indicative,Pluperfect,2nd Person,Plural,nominati eratis,nomineti eratis,nomini eratis,nomini eratis,You (pl.) had been appointed
+Passive Indicative,Pluperfect,3rd Person,Singular,nominatus erat,nominetus erat,nominus erat,nominus erat,He/she/it had been appointed
+Passive Indicative,Pluperfect,3rd Person,Plural,nominati erant,nomineti erant,nomini erant,nomini erant,They had been appointed
+Passive Indicative,Future Perfect,1st Person,Singular,nominatus ero,nominetus ero,nominus ero,nominus ero,I will have been appointed
+Passive Indicative,Future Perfect,1st Person,Plural,nominati erimus,nomineti erimus,nomini erimus,nomini erimus,We will have been appointed
+Passive Indicative,Future Perfect,2nd Person,Singular,nominatus eris,nominetus eris,nominus eris,nominus eris,You will have been appointed
+Passive Indicative,Future Perfect,2nd Person,Plural,nominati eritis,nomineti eritis,nomini eritis,nomini eritis,You (pl.) will have been appointed
+Passive Indicative,Future Perfect,3rd Person,Singular,nominatus erit,nominetus erit,nominus erit,nominus erit,He/she/it will have been appointed
+Passive Indicative,Future Perfect,3rd Person,Plural,nominati erunt,nomineti erunt,nomini erunt,nomini erunt,They will have been appointed
+Active Subjunctive,Present,1st Person,Singular,nominem,nominem,nominam,nominam,I may appoint
+Active Subjunctive,Present,1st Person,Plural,nominemus,nominemus,nominamus,nominamus,We may appoint
+Active Subjunctive,Present,2nd Person,Singular,nomines,nomines,nominas,nominas,You may appoint
+Active Subjunctive,Present,2nd Person,Plural,nominetis,nominetis,nominatis,nominatis,You (pl.) may appoint
+Active Subjunctive,Present,3rd Person,Singular,nominet,nominet,nominat,nominat,He/she/it may appoint
+Active Subjunctive,Present,3rd Person,Plural,nominent,nominent,nominant,nominant,They may appoint
+Active Subjunctive,Imperfect,1st Person,Singular,nominarem,nominerem,nominerem,nominirem,I should appoint
+Active Subjunctive,Imperfect,1st Person,Plural,nominaremus,nomineremus,nomineremus,nominiremus,We should appoint
+Active Subjunctive,Imperfect,2nd Person,Singular,nominares,nomineres,nomineres,nominires,You should appoint
+Active Subjunctive,Imperfect,2nd Person,Plural,nominaretis,nomineretis,nomineretis,nominiretis,You (pl.) should appoint
+Active Subjunctive,Imperfect,3rd Person,Singular,nominaret,nomineret,nomineret,nominiret,He/she/it should appoint
+Active Subjunctive,Imperfect,3rd Person,Plural,nominarent,nominerent,nominerent,nominirent,They should appoint
+Active Subjunctive,Perfect,1st Person,Singular,nominerim,nominuerim,nominerim,nominierim,I may have appointed
+Active Subjunctive,Perfect,1st Person,Plural,nominerimus,nominuerimus,nominerimus,nominierimus,We may have appointed
+Active Subjunctive,Perfect,2nd Person,Singular,nomineris,nominueris,nomineris,nominieris,You may have appointed
+Active Subjunctive,Perfect,2nd Person,Plural,nomineritis,nominueritis,nomineritis,nominieritis,You (pl.) may have appointed
+Active Subjunctive,Perfect,3rd Person,Singular,nominerit,nominuerit,nominerit,nominierit,He/she/it may have appointed
+Active Subjunctive,Perfect,3rd Person,Plural,nominerint,nominuerint,nominerint,nominierint,They may have appointed
+Active Subjunctive,Pluperfect,1st Person,Singular,nominissem,nominuissem,nominissem,nominissem,I should have appointed
+Active Subjunctive,Pluperfect,1st Person,Plural,nominissemus,nominuissemus,nominissemus,nominissemus,We should have appointed
+Active Subjunctive,Pluperfect,2nd Person,Singular,nominisses,nominuisses,nominisses,nominisses,You would have appointed
+Active Subjunctive,Pluperfect,2nd Person,Plural,nominissetis,nominuissetis,nominissetis,nominissetis,You (pl.) would have appointed
+Active Subjunctive,Pluperfect,3rd Person,Singular,nominisset,nominuisset,nominisset,nominisset,He/she/it would have appointed
+Active Subjunctive,Pluperfect,3rd Person,Plural,nominissent,nominuissent,nominissent,nominissent,They would have appointed
+Passive Subjunctive,Present,1st Person,Singular,nominer,nominer,nominar,nominar,I may be appointed
+Passive Subjunctive,Present,1st Person,Plural,nominemur,nominemur,nominamur,nominamur,We may be appointed
+Passive Subjunctive,Present,2nd Person,Singular,nomineris,nomineris,nominaris,nominaris,You may be appointed
+Passive Subjunctive,Present,2nd Person,Plural,nominemini,nominemini,nominamini,nominamini,You (pl.) may be appointed
+Passive Subjunctive,Present,3rd Person,Singular,nominetur,nominetur,nominatur,nominatur,He/she/it may be appointed
+Passive Subjunctive,Present,3rd Person,Plural,nominentur,nominentur,nominantur,nominantur,They may be appointed
+Passive Subjunctive,Imperfect,1st Person,Singular,nominarer,nominerer,nominerer,nominirer,I should be appointed
+Passive Subjunctive,Imperfect,1st Person,Plural,nominaremur,nomineremur,nomineremur,nominiremur,We should be appointed
+Passive Subjunctive,Imperfect,2nd Person,Singular,nominareris,nominereris,nominereris,nominireris,You would be appointed
+Passive Subjunctive,Imperfect,2nd Person,Plural,nominaremini,nomineremini,nomineremini,nominiremini,You (pl.) would be appointed
+Passive Subjunctive,Imperfect,3rd Person,Singular,nominaretur,nomineretur,nomineretur,nominiretur,He/she/it would be appointed
+Passive Subjunctive,Imperfect,3rd Person,Plural,nominarentur,nominerentur,nominerentur,nominirentur,They would be appointed
+Passive Subjunctive,Perfect,1st Person,Singular,nominatus sim,nominetus sim,nominus sim,nominus sim,I may have been appointed
+Passive Subjunctive,Perfect,1st Person,Plural,nominati simus,nomineti simus,nomini simus,nomini simus,We may have been appointed
+Passive Subjunctive,Perfect,2nd Person,Singular,nominatus sis,nominetus sis,nominus sis,nominus sis,You may have been appointed
+Passive Subjunctive,Perfect,2nd Person,Plural,nominati sitis,nomineti sitis,nomini sitis,nomini sitis,You (pl.) may have been appointed
+Passive Subjunctive,Perfect,3rd Person,Singular,nominatus sit,nominetus sit,nominus sit,nominus sit,He/she/it may have been appointed
+Passive Subjunctive,Perfect,3rd Person,Plural,nominati sint,nomineti sint,nomini sint,nomini sint,They may have been appointed
+Passive Subjunctive,Pluperfect,1st Person,Singular,nominatus essem,nominetus essem,nominus essem,nominus essem,I should have been appointed
+Passive Subjunctive,Pluperfect,1st Person,Plural,nominati essemus,nomineti essemus,nomini essemus,nomini essemus,We should have been appointed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,nominatus esses,nominetus esses,nominus esses,nominus esses,You would have been appointed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,nominati essetis,nomineti essetis,nomini essetis,nomini essetis,You (pl.) would have been appointed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,nominatus esset,nominetus esset,nominus esset,nominus esset,He/she/it would have been appointed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,nominati essent,nomineti essent,nomini essent,nomini essent,They would have been appointed

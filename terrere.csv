@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,terro,terreo,terro,terrio,I frighten
+Active Indicative,Present,1st Person,Plural,terramus,terremus,terrimus,terrimus,We frighten
+Active Indicative,Present,2nd Person,Singular,terras,terres,terris,terris,You frighten
+Active Indicative,Present,2nd Person,Plural,terratis,terretis,territis,territis,You (pl.) frighten
+Active Indicative,Present,3rd Person,Singular,terrat,terret,territ,territ,He/she/it frighten
+Active Indicative,Present,3rd Person,Plural,terrant,terrent,terriunt,terriunt,They frighten
+Active Indicative,Imperfect,1st Person,Singular,terrabam,terrebam,terrebam,terriebam,I was frightening
+Active Indicative,Imperfect,1st Person,Plural,terrabamus,terrebamus,terrebamus,terriebamus,We were frightening
+Active Indicative,Imperfect,2nd Person,Singular,terrabas,terrebas,terrebas,terriebas,You were frightening
+Active Indicative,Imperfect,2nd Person,Plural,terrabatis,terrebatis,terrebatis,terriebatis,You (pl.) were frightening
+Active Indicative,Imperfect,3rd Person,Singular,terrabat,terrebat,terrebat,terriebat,He/she/it was frightening
+Active Indicative,Imperfect,3rd Person,Plural,terrabant,terrebant,terrebant,terriebant,They were frightening
+Active Indicative,Future,1st Person,Singular,terrabo,terrebo,terram,terriam,I will frighten
+Active Indicative,Future,1st Person,Plural,terrabimus,terrebimus,terremus,terriemus,We will frighten
+Active Indicative,Future,2nd Person,Singular,terrabis,terrebis,terres,terries,You will frighten
+Active Indicative,Future,2nd Person,Plural,terrabitis,terrebitis,terretis,terrietis,You (pl.) will frighten
+Active Indicative,Future,3rd Person,Singular,terrabit,terrebit,terret,terriet,He/she/it will frighten
+Active Indicative,Future,3rd Person,Plural,terrabunt,terrebunt,terrent,terrient,They will frighten
+Active Indicative,Perfect,1st Person,Singular,terravi,terrui,terri,terri,I have frightened
+Active Indicative,Perfect,1st Person,Plural,terravimus,terruimus,terrimus,terrimus,We have frightened
+Active Indicative,Perfect,2nd Person,Singular,terravisti,terruisti,terristi,terristi,You have frightened
+Active Indicative,Perfect,2nd Person,Plural,terravistis,terruistis,terristis,terristis,You (pl.) have frightened
+Active Indicative,Perfect,3rd Person,Singular,terravit,terruit,territ,territ,He/she/it has frightened
+Active Indicative,Perfect,3rd Person,Plural,terraverunt,terruerunt,terrerunt,terrerunt,They have frightened
+Active Indicative,Pluperfect,1st Person,Singular,terraveram,terrueram,terreram,terreram,I had frightened
+Active Indicative,Pluperfect,1st Person,Plural,terraveramus,terrueramus,terreramus,terreramus,We had frightened
+Active Indicative,Pluperfect,2nd Person,Singular,terraveras,terrueras,terreras,terreras,You had frightened
+Active Indicative,Pluperfect,2nd Person,Plural,terraveratis,terrueratis,terreratis,terreratis,You (pl.) had frightened
+Active Indicative,Pluperfect,3rd Person,Singular,terraverat,terruerat,terrerat,terrerat,He/she/it had frightened
+Active Indicative,Pluperfect,3rd Person,Plural,terraverant,terruerant,terrerant,terrerant,They had frightened
+Active Indicative,Future Perfect,1st Person,Singular,terravero,terrueero,terrero,terriero,I will have frightened
+Active Indicative,Future Perfect,1st Person,Plural,terraverimus,terruerimus,terrerimus,terrierimus,We will have frightened
+Active Indicative,Future Perfect,2nd Person,Singular,terraveris,terrueris,terreris,terrieris,You will have frightened
+Active Indicative,Future Perfect,2nd Person,Plural,terraveritis,terrueritis,terreritis,terrieritis,You (pl.) will have frightened
+Active Indicative,Future Perfect,3rd Person,Singular,terraverit,terruerit,terrerit,terrierit,He/she/it will have frightened
+Active Indicative,Future Perfect,3rd Person,Plural,terraverint,terruerint,terrerint,terrierint,They will have frightened
+Passive Indicative,Present,1st Person,Singular,terror,terreor,terror,terrior,I am being frightened
+Passive Indicative,Present,1st Person,Plural,terramur,terremur,terrimur,terrimur,We are being frightened
+Passive Indicative,Present,2nd Person,Singular,terraris,terreris,terriris,terriris,You are being frightened
+Passive Indicative,Present,2nd Person,Plural,terramini,terremini,terrimini,terrimini,You (pl.) are being frightened
+Passive Indicative,Present,3rd Person,Singular,terratur,terretur,territur,territur,He/she/it is being frightened
+Passive Indicative,Present,3rd Person,Plural,terrantur,terrentur,terriuntur,terriuntur,They are being frightened
+Passive Indicative,Imperfect,1st Person,Singular,terrabar,terrebar,terrebar,terriebar,I was frightened
+Passive Indicative,Imperfect,1st Person,Plural,terrabamur,terrebamur,terrebamur,terriebamur,We were frightened
+Passive Indicative,Imperfect,2nd Person,Singular,terrabaris,terrebaris,terrebaris,terriebaris,You were frightened
+Passive Indicative,Imperfect,2nd Person,Plural,terrabamini,terrebamini,terrebamini,terriebamini,You (pl.) were frightened
+Passive Indicative,Imperfect,3rd Person,Singular,terrabatur,terrebatur,terrebatur,terriebatur,He/she/it was frightened
+Passive Indicative,Imperfect,3rd Person,Plural,terrabantur,terrebantur,terrebantur,terriebantur,They were frightened
+Passive Indicative,Future,1st Person,Singular,terrabor,terrebor,terrar,terriar,I will be frightened
+Passive Indicative,Future,1st Person,Plural,terrabimur,terrebimur,terremur,terriemur,We will be frightened
+Passive Indicative,Future,2nd Person,Singular,terraberis,terreberis,terreris,terrieris,You will be frightened
+Passive Indicative,Future,2nd Person,Plural,terrabimini,terrebimini,terremini,terriemini,You (pl.) will be frightened
+Passive Indicative,Future,3rd Person,Singular,terrabitur,terrebitur,terretur,terrietur,He/she/it will be frightened
+Passive Indicative,Future,3rd Person,Plural,terrabuntur,terrebuntur,terrentur,terrientur,They will be frightened
+Passive Indicative,Perfect,1st Person,Singular,terratus sum,terretus sum,terrus sum,terrus sum,I have been frightened
+Passive Indicative,Perfect,1st Person,Plural,terrati sumus,terreti sumus,terri sumus,terri sumus,We have been frightened
+Passive Indicative,Perfect,2nd Person,Singular,terratus es,terretus es,terrus es,terrus es,You have been frightened
+Passive Indicative,Perfect,2nd Person,Plural,terrati estis,terreti estis,terri estis,terri estis,You (pl.) have been frightened
+Passive Indicative,Perfect,3rd Person,Singular,terratus est,terretus est,terrus est,terrus est,He/she/it has been frightened
+Passive Indicative,Perfect,3rd Person,Plural,terrati sunt,terreti sunt,terri sunt,terri sunt,They have been frightened
+Passive Indicative,Pluperfect,1st Person,Singular,terratus eram,terretus eram,terrus eram,terrus eram,I had been frightened
+Passive Indicative,Pluperfect,1st Person,Plural,terrati eramus,terreti eramus,terri eramus,terri eramus,We had been frightened
+Passive Indicative,Pluperfect,2nd Person,Singular,terratus eras,terretus eras,terrus eras,terrus eras,You had been frightened
+Passive Indicative,Pluperfect,2nd Person,Plural,terrati eratis,terreti eratis,terri eratis,terri eratis,You (pl.) had been frightened
+Passive Indicative,Pluperfect,3rd Person,Singular,terratus erat,terretus erat,terrus erat,terrus erat,He/she/it had been frightened
+Passive Indicative,Pluperfect,3rd Person,Plural,terrati erant,terreti erant,terri erant,terri erant,They had been frightened
+Passive Indicative,Future Perfect,1st Person,Singular,terratus ero,terretus ero,terrus ero,terrus ero,I will have been frightened
+Passive Indicative,Future Perfect,1st Person,Plural,terrati erimus,terreti erimus,terri erimus,terri erimus,We will have been frightened
+Passive Indicative,Future Perfect,2nd Person,Singular,terratus eris,terretus eris,terrus eris,terrus eris,You will have been frightened
+Passive Indicative,Future Perfect,2nd Person,Plural,terrati eritis,terreti eritis,terri eritis,terri eritis,You (pl.) will have been frightened
+Passive Indicative,Future Perfect,3rd Person,Singular,terratus erit,terretus erit,terrus erit,terrus erit,He/she/it will have been frightened
+Passive Indicative,Future Perfect,3rd Person,Plural,terrati erunt,terreti erunt,terri erunt,terri erunt,They will have been frightened
+Active Subjunctive,Present,1st Person,Singular,terrem,terrem,terram,terram,I may frighten
+Active Subjunctive,Present,1st Person,Plural,terremus,terremus,terramus,terramus,We may frighten
+Active Subjunctive,Present,2nd Person,Singular,terres,terres,terras,terras,You may frighten
+Active Subjunctive,Present,2nd Person,Plural,terretis,terretis,terratis,terratis,You (pl.) may frighten
+Active Subjunctive,Present,3rd Person,Singular,terret,terret,terrat,terrat,He/she/it may frighten
+Active Subjunctive,Present,3rd Person,Plural,terrent,terrent,terrant,terrant,They may frighten
+Active Subjunctive,Imperfect,1st Person,Singular,terrarem,terrerem,terrerem,terrirem,I should frighten
+Active Subjunctive,Imperfect,1st Person,Plural,terraremus,terreremus,terreremus,terriremus,We should frighten
+Active Subjunctive,Imperfect,2nd Person,Singular,terrares,terreres,terreres,terrires,You should frighten
+Active Subjunctive,Imperfect,2nd Person,Plural,terraretis,terreretis,terreretis,terriretis,You (pl.) should frighten
+Active Subjunctive,Imperfect,3rd Person,Singular,terraret,terreret,terreret,terriret,He/she/it should frighten
+Active Subjunctive,Imperfect,3rd Person,Plural,terrarent,terrerent,terrerent,terrirent,They should frighten
+Active Subjunctive,Perfect,1st Person,Singular,terrerim,terruerim,terrerim,terrierim,I may have frightened
+Active Subjunctive,Perfect,1st Person,Plural,terrerimus,terruerimus,terrerimus,terrierimus,We may have frightened
+Active Subjunctive,Perfect,2nd Person,Singular,terreris,terrueris,terreris,terrieris,You may have frightened
+Active Subjunctive,Perfect,2nd Person,Plural,terreritis,terrueritis,terreritis,terrieritis,You (pl.) may have frightened
+Active Subjunctive,Perfect,3rd Person,Singular,terrerit,terruerit,terrerit,terrierit,He/she/it may have frightened
+Active Subjunctive,Perfect,3rd Person,Plural,terrerint,terruerint,terrerint,terrierint,They may have frightened
+Active Subjunctive,Pluperfect,1st Person,Singular,terrissem,terruissem,terrissem,terrissem,I should have frightened
+Active Subjunctive,Pluperfect,1st Person,Plural,terrissemus,terruissemus,terrissemus,terrissemus,We should have frightened
+Active Subjunctive,Pluperfect,2nd Person,Singular,terrisses,terruisses,terrisses,terrisses,You would have frightened
+Active Subjunctive,Pluperfect,2nd Person,Plural,terrissetis,terruissetis,terrissetis,terrissetis,You (pl.) would have frightened
+Active Subjunctive,Pluperfect,3rd Person,Singular,terrisset,terruisset,terrisset,terrisset,He/she/it would have frightened
+Active Subjunctive,Pluperfect,3rd Person,Plural,terrissent,terruissent,terrissent,terrissent,They would have frightened
+Passive Subjunctive,Present,1st Person,Singular,terrer,terrer,terrar,terrar,I may be frightened
+Passive Subjunctive,Present,1st Person,Plural,terremur,terremur,terramur,terramur,We may be frightened
+Passive Subjunctive,Present,2nd Person,Singular,terreris,terreris,terraris,terraris,You may be frightened
+Passive Subjunctive,Present,2nd Person,Plural,terremini,terremini,terramini,terramini,You (pl.) may be frightened
+Passive Subjunctive,Present,3rd Person,Singular,terretur,terretur,terratur,terratur,He/she/it may be frightened
+Passive Subjunctive,Present,3rd Person,Plural,terrentur,terrentur,terrantur,terrantur,They may be frightened
+Passive Subjunctive,Imperfect,1st Person,Singular,terrarer,terrerer,terrerer,terrirer,I should be frightened
+Passive Subjunctive,Imperfect,1st Person,Plural,terraremur,terreremur,terreremur,terriremur,We should be frightened
+Passive Subjunctive,Imperfect,2nd Person,Singular,terrareris,terrereris,terrereris,terrireris,You would be frightened
+Passive Subjunctive,Imperfect,2nd Person,Plural,terraremini,terreremini,terreremini,terriremini,You (pl.) would be frightened
+Passive Subjunctive,Imperfect,3rd Person,Singular,terraretur,terreretur,terreretur,terriretur,He/she/it would be frightened
+Passive Subjunctive,Imperfect,3rd Person,Plural,terrarentur,terrerentur,terrerentur,terrirentur,They would be frightened
+Passive Subjunctive,Perfect,1st Person,Singular,terratus sim,terretus sim,terrus sim,terrus sim,I may have been frightened
+Passive Subjunctive,Perfect,1st Person,Plural,terrati simus,terreti simus,terri simus,terri simus,We may have been frightened
+Passive Subjunctive,Perfect,2nd Person,Singular,terratus sis,terretus sis,terrus sis,terrus sis,You may have been frightened
+Passive Subjunctive,Perfect,2nd Person,Plural,terrati sitis,terreti sitis,terri sitis,terri sitis,You (pl.) may have been frightened
+Passive Subjunctive,Perfect,3rd Person,Singular,terratus sit,terretus sit,terrus sit,terrus sit,He/she/it may have been frightened
+Passive Subjunctive,Perfect,3rd Person,Plural,terrati sint,terreti sint,terri sint,terri sint,They may have been frightened
+Passive Subjunctive,Pluperfect,1st Person,Singular,terratus essem,terretus essem,terrus essem,terrus essem,I should have been frightened
+Passive Subjunctive,Pluperfect,1st Person,Plural,terrati essemus,terreti essemus,terri essemus,terri essemus,We should have been frightened
+Passive Subjunctive,Pluperfect,2nd Person,Singular,terratus esses,terretus esses,terrus esses,terrus esses,You would have been frightened
+Passive Subjunctive,Pluperfect,2nd Person,Plural,terrati essetis,terreti essetis,terri essetis,terri essetis,You (pl.) would have been frightened
+Passive Subjunctive,Pluperfect,3rd Person,Singular,terratus esset,terretus esset,terrus esset,terrus esset,He/she/it would have been frightened
+Passive Subjunctive,Pluperfect,3rd Person,Plural,terrati essent,terreti essent,terri essent,terri essent,They would have been frightened

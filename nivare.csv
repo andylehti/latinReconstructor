@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,nivo,niveo,nivo,nivio,I snow
+Active Indicative,Present,1st Person,Plural,nivamus,nivemus,nivimus,nivimus,We snow
+Active Indicative,Present,2nd Person,Singular,nivas,nives,nivis,nivis,You snow
+Active Indicative,Present,2nd Person,Plural,nivatis,nivetis,nivitis,nivitis,You (pl.) snow
+Active Indicative,Present,3rd Person,Singular,nivat,nivet,nivit,nivit,He/she/it snow
+Active Indicative,Present,3rd Person,Plural,nivant,nivent,niviunt,niviunt,They snow
+Active Indicative,Imperfect,1st Person,Singular,nivabam,nivebam,nivebam,niviebam,I was snowing
+Active Indicative,Imperfect,1st Person,Plural,nivabamus,nivebamus,nivebamus,niviebamus,We were snowing
+Active Indicative,Imperfect,2nd Person,Singular,nivabas,nivebas,nivebas,niviebas,You were snowing
+Active Indicative,Imperfect,2nd Person,Plural,nivabatis,nivebatis,nivebatis,niviebatis,You (pl.) were snowing
+Active Indicative,Imperfect,3rd Person,Singular,nivabat,nivebat,nivebat,niviebat,He/she/it was snowing
+Active Indicative,Imperfect,3rd Person,Plural,nivabant,nivebant,nivebant,niviebant,They were snowing
+Active Indicative,Future,1st Person,Singular,nivabo,nivebo,nivam,niviam,I will snow
+Active Indicative,Future,1st Person,Plural,nivabimus,nivebimus,nivemus,niviemus,We will snow
+Active Indicative,Future,2nd Person,Singular,nivabis,nivebis,nives,nivies,You will snow
+Active Indicative,Future,2nd Person,Plural,nivabitis,nivebitis,nivetis,nivietis,You (pl.) will snow
+Active Indicative,Future,3rd Person,Singular,nivabit,nivebit,nivet,niviet,He/she/it will snow
+Active Indicative,Future,3rd Person,Plural,nivabunt,nivebunt,nivent,nivient,They will snow
+Active Indicative,Perfect,1st Person,Singular,nivavi,nivui,nivi,nivi,I have snowed
+Active Indicative,Perfect,1st Person,Plural,nivavimus,nivuimus,nivimus,nivimus,We have snowed
+Active Indicative,Perfect,2nd Person,Singular,nivavisti,nivuisti,nivisti,nivisti,You have snowed
+Active Indicative,Perfect,2nd Person,Plural,nivavistis,nivuistis,nivistis,nivistis,You (pl.) have snowed
+Active Indicative,Perfect,3rd Person,Singular,nivavit,nivuit,nivit,nivit,He/she/it has snowed
+Active Indicative,Perfect,3rd Person,Plural,nivaverunt,nivuerunt,niverunt,niverunt,They have snowed
+Active Indicative,Pluperfect,1st Person,Singular,nivaveram,nivueram,niveram,niveram,I had snowed
+Active Indicative,Pluperfect,1st Person,Plural,nivaveramus,nivueramus,niveramus,niveramus,We had snowed
+Active Indicative,Pluperfect,2nd Person,Singular,nivaveras,nivueras,niveras,niveras,You had snowed
+Active Indicative,Pluperfect,2nd Person,Plural,nivaveratis,nivueratis,niveratis,niveratis,You (pl.) had snowed
+Active Indicative,Pluperfect,3rd Person,Singular,nivaverat,nivuerat,niverat,niverat,He/she/it had snowed
+Active Indicative,Pluperfect,3rd Person,Plural,nivaverant,nivuerant,niverant,niverant,They had snowed
+Active Indicative,Future Perfect,1st Person,Singular,nivavero,nivueero,nivero,niviero,I will have snowed
+Active Indicative,Future Perfect,1st Person,Plural,nivaverimus,nivuerimus,niverimus,nivierimus,We will have snowed
+Active Indicative,Future Perfect,2nd Person,Singular,nivaveris,nivueris,niveris,nivieris,You will have snowed
+Active Indicative,Future Perfect,2nd Person,Plural,nivaveritis,nivueritis,niveritis,nivieritis,You (pl.) will have snowed
+Active Indicative,Future Perfect,3rd Person,Singular,nivaverit,nivuerit,niverit,nivierit,He/she/it will have snowed
+Active Indicative,Future Perfect,3rd Person,Plural,nivaverint,nivuerint,niverint,nivierint,They will have snowed
+Passive Indicative,Present,1st Person,Singular,nivor,niveor,nivor,nivior,I am being snowed
+Passive Indicative,Present,1st Person,Plural,nivamur,nivemur,nivimur,nivimur,We are being snowed
+Passive Indicative,Present,2nd Person,Singular,nivaris,niveris,niviris,niviris,You are being snowed
+Passive Indicative,Present,2nd Person,Plural,nivamini,nivemini,nivimini,nivimini,You (pl.) are being snowed
+Passive Indicative,Present,3rd Person,Singular,nivatur,nivetur,nivitur,nivitur,He/she/it is being snowed
+Passive Indicative,Present,3rd Person,Plural,nivantur,niventur,niviuntur,niviuntur,They are being snowed
+Passive Indicative,Imperfect,1st Person,Singular,nivabar,nivebar,nivebar,niviebar,I was snowed
+Passive Indicative,Imperfect,1st Person,Plural,nivabamur,nivebamur,nivebamur,niviebamur,We were snowed
+Passive Indicative,Imperfect,2nd Person,Singular,nivabaris,nivebaris,nivebaris,niviebaris,You were snowed
+Passive Indicative,Imperfect,2nd Person,Plural,nivabamini,nivebamini,nivebamini,niviebamini,You (pl.) were snowed
+Passive Indicative,Imperfect,3rd Person,Singular,nivabatur,nivebatur,nivebatur,niviebatur,He/she/it was snowed
+Passive Indicative,Imperfect,3rd Person,Plural,nivabantur,nivebantur,nivebantur,niviebantur,They were snowed
+Passive Indicative,Future,1st Person,Singular,nivabor,nivebor,nivar,niviar,I will be snowed
+Passive Indicative,Future,1st Person,Plural,nivabimur,nivebimur,nivemur,niviemur,We will be snowed
+Passive Indicative,Future,2nd Person,Singular,nivaberis,niveberis,niveris,nivieris,You will be snowed
+Passive Indicative,Future,2nd Person,Plural,nivabimini,nivebimini,nivemini,niviemini,You (pl.) will be snowed
+Passive Indicative,Future,3rd Person,Singular,nivabitur,nivebitur,nivetur,nivietur,He/she/it will be snowed
+Passive Indicative,Future,3rd Person,Plural,nivabuntur,nivebuntur,niventur,nivientur,They will be snowed
+Passive Indicative,Perfect,1st Person,Singular,nivatus sum,nivetus sum,nivus sum,nivus sum,I have been snowed
+Passive Indicative,Perfect,1st Person,Plural,nivati sumus,niveti sumus,nivi sumus,nivi sumus,We have been snowed
+Passive Indicative,Perfect,2nd Person,Singular,nivatus es,nivetus es,nivus es,nivus es,You have been snowed
+Passive Indicative,Perfect,2nd Person,Plural,nivati estis,niveti estis,nivi estis,nivi estis,You (pl.) have been snowed
+Passive Indicative,Perfect,3rd Person,Singular,nivatus est,nivetus est,nivus est,nivus est,He/she/it has been snowed
+Passive Indicative,Perfect,3rd Person,Plural,nivati sunt,niveti sunt,nivi sunt,nivi sunt,They have been snowed
+Passive Indicative,Pluperfect,1st Person,Singular,nivatus eram,nivetus eram,nivus eram,nivus eram,I had been snowed
+Passive Indicative,Pluperfect,1st Person,Plural,nivati eramus,niveti eramus,nivi eramus,nivi eramus,We had been snowed
+Passive Indicative,Pluperfect,2nd Person,Singular,nivatus eras,nivetus eras,nivus eras,nivus eras,You had been snowed
+Passive Indicative,Pluperfect,2nd Person,Plural,nivati eratis,niveti eratis,nivi eratis,nivi eratis,You (pl.) had been snowed
+Passive Indicative,Pluperfect,3rd Person,Singular,nivatus erat,nivetus erat,nivus erat,nivus erat,He/she/it had been snowed
+Passive Indicative,Pluperfect,3rd Person,Plural,nivati erant,niveti erant,nivi erant,nivi erant,They had been snowed
+Passive Indicative,Future Perfect,1st Person,Singular,nivatus ero,nivetus ero,nivus ero,nivus ero,I will have been snowed
+Passive Indicative,Future Perfect,1st Person,Plural,nivati erimus,niveti erimus,nivi erimus,nivi erimus,We will have been snowed
+Passive Indicative,Future Perfect,2nd Person,Singular,nivatus eris,nivetus eris,nivus eris,nivus eris,You will have been snowed
+Passive Indicative,Future Perfect,2nd Person,Plural,nivati eritis,niveti eritis,nivi eritis,nivi eritis,You (pl.) will have been snowed
+Passive Indicative,Future Perfect,3rd Person,Singular,nivatus erit,nivetus erit,nivus erit,nivus erit,He/she/it will have been snowed
+Passive Indicative,Future Perfect,3rd Person,Plural,nivati erunt,niveti erunt,nivi erunt,nivi erunt,They will have been snowed
+Active Subjunctive,Present,1st Person,Singular,nivem,nivem,nivam,nivam,I may snow
+Active Subjunctive,Present,1st Person,Plural,nivemus,nivemus,nivamus,nivamus,We may snow
+Active Subjunctive,Present,2nd Person,Singular,nives,nives,nivas,nivas,You may snow
+Active Subjunctive,Present,2nd Person,Plural,nivetis,nivetis,nivatis,nivatis,You (pl.) may snow
+Active Subjunctive,Present,3rd Person,Singular,nivet,nivet,nivat,nivat,He/she/it may snow
+Active Subjunctive,Present,3rd Person,Plural,nivent,nivent,nivant,nivant,They may snow
+Active Subjunctive,Imperfect,1st Person,Singular,nivarem,niverem,niverem,nivirem,I should snow
+Active Subjunctive,Imperfect,1st Person,Plural,nivaremus,niveremus,niveremus,niviremus,We should snow
+Active Subjunctive,Imperfect,2nd Person,Singular,nivares,niveres,niveres,nivires,You should snow
+Active Subjunctive,Imperfect,2nd Person,Plural,nivaretis,niveretis,niveretis,niviretis,You (pl.) should snow
+Active Subjunctive,Imperfect,3rd Person,Singular,nivaret,niveret,niveret,niviret,He/she/it should snow
+Active Subjunctive,Imperfect,3rd Person,Plural,nivarent,niverent,niverent,nivirent,They should snow
+Active Subjunctive,Perfect,1st Person,Singular,niverim,nivuerim,niverim,nivierim,I may have snowed
+Active Subjunctive,Perfect,1st Person,Plural,niverimus,nivuerimus,niverimus,nivierimus,We may have snowed
+Active Subjunctive,Perfect,2nd Person,Singular,niveris,nivueris,niveris,nivieris,You may have snowed
+Active Subjunctive,Perfect,2nd Person,Plural,niveritis,nivueritis,niveritis,nivieritis,You (pl.) may have snowed
+Active Subjunctive,Perfect,3rd Person,Singular,niverit,nivuerit,niverit,nivierit,He/she/it may have snowed
+Active Subjunctive,Perfect,3rd Person,Plural,niverint,nivuerint,niverint,nivierint,They may have snowed
+Active Subjunctive,Pluperfect,1st Person,Singular,nivissem,nivuissem,nivissem,nivissem,I should have snowed
+Active Subjunctive,Pluperfect,1st Person,Plural,nivissemus,nivuissemus,nivissemus,nivissemus,We should have snowed
+Active Subjunctive,Pluperfect,2nd Person,Singular,nivisses,nivuisses,nivisses,nivisses,You would have snowed
+Active Subjunctive,Pluperfect,2nd Person,Plural,nivissetis,nivuissetis,nivissetis,nivissetis,You (pl.) would have snowed
+Active Subjunctive,Pluperfect,3rd Person,Singular,nivisset,nivuisset,nivisset,nivisset,He/she/it would have snowed
+Active Subjunctive,Pluperfect,3rd Person,Plural,nivissent,nivuissent,nivissent,nivissent,They would have snowed
+Passive Subjunctive,Present,1st Person,Singular,niver,niver,nivar,nivar,I may be snowed
+Passive Subjunctive,Present,1st Person,Plural,nivemur,nivemur,nivamur,nivamur,We may be snowed
+Passive Subjunctive,Present,2nd Person,Singular,niveris,niveris,nivaris,nivaris,You may be snowed
+Passive Subjunctive,Present,2nd Person,Plural,nivemini,nivemini,nivamini,nivamini,You (pl.) may be snowed
+Passive Subjunctive,Present,3rd Person,Singular,nivetur,nivetur,nivatur,nivatur,He/she/it may be snowed
+Passive Subjunctive,Present,3rd Person,Plural,niventur,niventur,nivantur,nivantur,They may be snowed
+Passive Subjunctive,Imperfect,1st Person,Singular,nivarer,niverer,niverer,nivirer,I should be snowed
+Passive Subjunctive,Imperfect,1st Person,Plural,nivaremur,niveremur,niveremur,niviremur,We should be snowed
+Passive Subjunctive,Imperfect,2nd Person,Singular,nivareris,nivereris,nivereris,nivireris,You would be snowed
+Passive Subjunctive,Imperfect,2nd Person,Plural,nivaremini,niveremini,niveremini,niviremini,You (pl.) would be snowed
+Passive Subjunctive,Imperfect,3rd Person,Singular,nivaretur,niveretur,niveretur,niviretur,He/she/it would be snowed
+Passive Subjunctive,Imperfect,3rd Person,Plural,nivarentur,niverentur,niverentur,nivirentur,They would be snowed
+Passive Subjunctive,Perfect,1st Person,Singular,nivatus sim,nivetus sim,nivus sim,nivus sim,I may have been snowed
+Passive Subjunctive,Perfect,1st Person,Plural,nivati simus,niveti simus,nivi simus,nivi simus,We may have been snowed
+Passive Subjunctive,Perfect,2nd Person,Singular,nivatus sis,nivetus sis,nivus sis,nivus sis,You may have been snowed
+Passive Subjunctive,Perfect,2nd Person,Plural,nivati sitis,niveti sitis,nivi sitis,nivi sitis,You (pl.) may have been snowed
+Passive Subjunctive,Perfect,3rd Person,Singular,nivatus sit,nivetus sit,nivus sit,nivus sit,He/she/it may have been snowed
+Passive Subjunctive,Perfect,3rd Person,Plural,nivati sint,niveti sint,nivi sint,nivi sint,They may have been snowed
+Passive Subjunctive,Pluperfect,1st Person,Singular,nivatus essem,nivetus essem,nivus essem,nivus essem,I should have been snowed
+Passive Subjunctive,Pluperfect,1st Person,Plural,nivati essemus,niveti essemus,nivi essemus,nivi essemus,We should have been snowed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,nivatus esses,nivetus esses,nivus esses,nivus esses,You would have been snowed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,nivati essetis,niveti essetis,nivi essetis,nivi essetis,You (pl.) would have been snowed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,nivatus esset,nivetus esset,nivus esset,nivus esset,He/she/it would have been snowed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,nivati essent,niveti essent,nivi essent,nivi essent,They would have been snowed

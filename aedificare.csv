@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,aedifico,aedificeo,aedifico,aedificio,I build
+Active Indicative,Present,1st Person,Plural,aedificamus,aedificemus,aedificimus,aedificimus,We build
+Active Indicative,Present,2nd Person,Singular,aedificas,aedifices,aedificis,aedificis,You build
+Active Indicative,Present,2nd Person,Plural,aedificatis,aedificetis,aedificitis,aedificitis,You (pl.) build
+Active Indicative,Present,3rd Person,Singular,aedificat,aedificet,aedificit,aedificit,He/she/it build
+Active Indicative,Present,3rd Person,Plural,aedificant,aedificent,aedificiunt,aedificiunt,They build
+Active Indicative,Imperfect,1st Person,Singular,aedificabam,aedificebam,aedificebam,aedificiebam,I was building
+Active Indicative,Imperfect,1st Person,Plural,aedificabamus,aedificebamus,aedificebamus,aedificiebamus,We were building
+Active Indicative,Imperfect,2nd Person,Singular,aedificabas,aedificebas,aedificebas,aedificiebas,You were building
+Active Indicative,Imperfect,2nd Person,Plural,aedificabatis,aedificebatis,aedificebatis,aedificiebatis,You (pl.) were building
+Active Indicative,Imperfect,3rd Person,Singular,aedificabat,aedificebat,aedificebat,aedificiebat,He/she/it was building
+Active Indicative,Imperfect,3rd Person,Plural,aedificabant,aedificebant,aedificebant,aedificiebant,They were building
+Active Indicative,Future,1st Person,Singular,aedificabo,aedificebo,aedificam,aedificiam,I will build
+Active Indicative,Future,1st Person,Plural,aedificabimus,aedificebimus,aedificemus,aedificiemus,We will build
+Active Indicative,Future,2nd Person,Singular,aedificabis,aedificebis,aedifices,aedificies,You will build
+Active Indicative,Future,2nd Person,Plural,aedificabitis,aedificebitis,aedificetis,aedificietis,You (pl.) will build
+Active Indicative,Future,3rd Person,Singular,aedificabit,aedificebit,aedificet,aedificiet,He/she/it will build
+Active Indicative,Future,3rd Person,Plural,aedificabunt,aedificebunt,aedificent,aedificient,They will build
+Active Indicative,Perfect,1st Person,Singular,aedificavi,aedificui,aedifici,aedifici,I have builded
+Active Indicative,Perfect,1st Person,Plural,aedificavimus,aedificuimus,aedificimus,aedificimus,We have builded
+Active Indicative,Perfect,2nd Person,Singular,aedificavisti,aedificuisti,aedificisti,aedificisti,You have builded
+Active Indicative,Perfect,2nd Person,Plural,aedificavistis,aedificuistis,aedificistis,aedificistis,You (pl.) have builded
+Active Indicative,Perfect,3rd Person,Singular,aedificavit,aedificuit,aedificit,aedificit,He/she/it has builded
+Active Indicative,Perfect,3rd Person,Plural,aedificaverunt,aedificuerunt,aedificerunt,aedificerunt,They have builded
+Active Indicative,Pluperfect,1st Person,Singular,aedificaveram,aedificueram,aedificeram,aedificeram,I had builded
+Active Indicative,Pluperfect,1st Person,Plural,aedificaveramus,aedificueramus,aedificeramus,aedificeramus,We had builded
+Active Indicative,Pluperfect,2nd Person,Singular,aedificaveras,aedificueras,aedificeras,aedificeras,You had builded
+Active Indicative,Pluperfect,2nd Person,Plural,aedificaveratis,aedificueratis,aedificeratis,aedificeratis,You (pl.) had builded
+Active Indicative,Pluperfect,3rd Person,Singular,aedificaverat,aedificuerat,aedificerat,aedificerat,He/she/it had builded
+Active Indicative,Pluperfect,3rd Person,Plural,aedificaverant,aedificuerant,aedificerant,aedificerant,They had builded
+Active Indicative,Future Perfect,1st Person,Singular,aedificavero,aedificueero,aedificero,aedificiero,I will have builded
+Active Indicative,Future Perfect,1st Person,Plural,aedificaverimus,aedificuerimus,aedificerimus,aedificierimus,We will have builded
+Active Indicative,Future Perfect,2nd Person,Singular,aedificaveris,aedificueris,aedificeris,aedificieris,You will have builded
+Active Indicative,Future Perfect,2nd Person,Plural,aedificaveritis,aedificueritis,aedificeritis,aedificieritis,You (pl.) will have builded
+Active Indicative,Future Perfect,3rd Person,Singular,aedificaverit,aedificuerit,aedificerit,aedificierit,He/she/it will have builded
+Active Indicative,Future Perfect,3rd Person,Plural,aedificaverint,aedificuerint,aedificerint,aedificierint,They will have builded
+Passive Indicative,Present,1st Person,Singular,aedificor,aedificeor,aedificor,aedificior,I am being builded
+Passive Indicative,Present,1st Person,Plural,aedificamur,aedificemur,aedificimur,aedificimur,We are being builded
+Passive Indicative,Present,2nd Person,Singular,aedificaris,aedificeris,aedificiris,aedificiris,You are being builded
+Passive Indicative,Present,2nd Person,Plural,aedificamini,aedificemini,aedificimini,aedificimini,You (pl.) are being builded
+Passive Indicative,Present,3rd Person,Singular,aedificatur,aedificetur,aedificitur,aedificitur,He/she/it is being builded
+Passive Indicative,Present,3rd Person,Plural,aedificantur,aedificentur,aedificiuntur,aedificiuntur,They are being builded
+Passive Indicative,Imperfect,1st Person,Singular,aedificabar,aedificebar,aedificebar,aedificiebar,I was builded
+Passive Indicative,Imperfect,1st Person,Plural,aedificabamur,aedificebamur,aedificebamur,aedificiebamur,We were builded
+Passive Indicative,Imperfect,2nd Person,Singular,aedificabaris,aedificebaris,aedificebaris,aedificiebaris,You were builded
+Passive Indicative,Imperfect,2nd Person,Plural,aedificabamini,aedificebamini,aedificebamini,aedificiebamini,You (pl.) were builded
+Passive Indicative,Imperfect,3rd Person,Singular,aedificabatur,aedificebatur,aedificebatur,aedificiebatur,He/she/it was builded
+Passive Indicative,Imperfect,3rd Person,Plural,aedificabantur,aedificebantur,aedificebantur,aedificiebantur,They were builded
+Passive Indicative,Future,1st Person,Singular,aedificabor,aedificebor,aedificar,aedificiar,I will be builded
+Passive Indicative,Future,1st Person,Plural,aedificabimur,aedificebimur,aedificemur,aedificiemur,We will be builded
+Passive Indicative,Future,2nd Person,Singular,aedificaberis,aedificeberis,aedificeris,aedificieris,You will be builded
+Passive Indicative,Future,2nd Person,Plural,aedificabimini,aedificebimini,aedificemini,aedificiemini,You (pl.) will be builded
+Passive Indicative,Future,3rd Person,Singular,aedificabitur,aedificebitur,aedificetur,aedificietur,He/she/it will be builded
+Passive Indicative,Future,3rd Person,Plural,aedificabuntur,aedificebuntur,aedificentur,aedificientur,They will be builded
+Passive Indicative,Perfect,1st Person,Singular,aedificatus sum,aedificetus sum,aedificus sum,aedificus sum,I have been builded
+Passive Indicative,Perfect,1st Person,Plural,aedificati sumus,aedificeti sumus,aedifici sumus,aedifici sumus,We have been builded
+Passive Indicative,Perfect,2nd Person,Singular,aedificatus es,aedificetus es,aedificus es,aedificus es,You have been builded
+Passive Indicative,Perfect,2nd Person,Plural,aedificati estis,aedificeti estis,aedifici estis,aedifici estis,You (pl.) have been builded
+Passive Indicative,Perfect,3rd Person,Singular,aedificatus est,aedificetus est,aedificus est,aedificus est,He/she/it has been builded
+Passive Indicative,Perfect,3rd Person,Plural,aedificati sunt,aedificeti sunt,aedifici sunt,aedifici sunt,They have been builded
+Passive Indicative,Pluperfect,1st Person,Singular,aedificatus eram,aedificetus eram,aedificus eram,aedificus eram,I had been builded
+Passive Indicative,Pluperfect,1st Person,Plural,aedificati eramus,aedificeti eramus,aedifici eramus,aedifici eramus,We had been builded
+Passive Indicative,Pluperfect,2nd Person,Singular,aedificatus eras,aedificetus eras,aedificus eras,aedificus eras,You had been builded
+Passive Indicative,Pluperfect,2nd Person,Plural,aedificati eratis,aedificeti eratis,aedifici eratis,aedifici eratis,You (pl.) had been builded
+Passive Indicative,Pluperfect,3rd Person,Singular,aedificatus erat,aedificetus erat,aedificus erat,aedificus erat,He/she/it had been builded
+Passive Indicative,Pluperfect,3rd Person,Plural,aedificati erant,aedificeti erant,aedifici erant,aedifici erant,They had been builded
+Passive Indicative,Future Perfect,1st Person,Singular,aedificatus ero,aedificetus ero,aedificus ero,aedificus ero,I will have been builded
+Passive Indicative,Future Perfect,1st Person,Plural,aedificati erimus,aedificeti erimus,aedifici erimus,aedifici erimus,We will have been builded
+Passive Indicative,Future Perfect,2nd Person,Singular,aedificatus eris,aedificetus eris,aedificus eris,aedificus eris,You will have been builded
+Passive Indicative,Future Perfect,2nd Person,Plural,aedificati eritis,aedificeti eritis,aedifici eritis,aedifici eritis,You (pl.) will have been builded
+Passive Indicative,Future Perfect,3rd Person,Singular,aedificatus erit,aedificetus erit,aedificus erit,aedificus erit,He/she/it will have been builded
+Passive Indicative,Future Perfect,3rd Person,Plural,aedificati erunt,aedificeti erunt,aedifici erunt,aedifici erunt,They will have been builded
+Active Subjunctive,Present,1st Person,Singular,aedificem,aedificem,aedificam,aedificam,I may build
+Active Subjunctive,Present,1st Person,Plural,aedificemus,aedificemus,aedificamus,aedificamus,We may build
+Active Subjunctive,Present,2nd Person,Singular,aedifices,aedifices,aedificas,aedificas,You may build
+Active Subjunctive,Present,2nd Person,Plural,aedificetis,aedificetis,aedificatis,aedificatis,You (pl.) may build
+Active Subjunctive,Present,3rd Person,Singular,aedificet,aedificet,aedificat,aedificat,He/she/it may build
+Active Subjunctive,Present,3rd Person,Plural,aedificent,aedificent,aedificant,aedificant,They may build
+Active Subjunctive,Imperfect,1st Person,Singular,aedificarem,aedificerem,aedificerem,aedificirem,I should build
+Active Subjunctive,Imperfect,1st Person,Plural,aedificaremus,aedificeremus,aedificeremus,aedificiremus,We should build
+Active Subjunctive,Imperfect,2nd Person,Singular,aedificares,aedificeres,aedificeres,aedificires,You should build
+Active Subjunctive,Imperfect,2nd Person,Plural,aedificaretis,aedificeretis,aedificeretis,aedificiretis,You (pl.) should build
+Active Subjunctive,Imperfect,3rd Person,Singular,aedificaret,aedificeret,aedificeret,aedificiret,He/she/it should build
+Active Subjunctive,Imperfect,3rd Person,Plural,aedificarent,aedificerent,aedificerent,aedificirent,They should build
+Active Subjunctive,Perfect,1st Person,Singular,aedificerim,aedificuerim,aedificerim,aedificierim,I may have builded
+Active Subjunctive,Perfect,1st Person,Plural,aedificerimus,aedificuerimus,aedificerimus,aedificierimus,We may have builded
+Active Subjunctive,Perfect,2nd Person,Singular,aedificeris,aedificueris,aedificeris,aedificieris,You may have builded
+Active Subjunctive,Perfect,2nd Person,Plural,aedificeritis,aedificueritis,aedificeritis,aedificieritis,You (pl.) may have builded
+Active Subjunctive,Perfect,3rd Person,Singular,aedificerit,aedificuerit,aedificerit,aedificierit,He/she/it may have builded
+Active Subjunctive,Perfect,3rd Person,Plural,aedificerint,aedificuerint,aedificerint,aedificierint,They may have builded
+Active Subjunctive,Pluperfect,1st Person,Singular,aedificissem,aedificuissem,aedificissem,aedificissem,I should have builded
+Active Subjunctive,Pluperfect,1st Person,Plural,aedificissemus,aedificuissemus,aedificissemus,aedificissemus,We should have builded
+Active Subjunctive,Pluperfect,2nd Person,Singular,aedificisses,aedificuisses,aedificisses,aedificisses,You would have builded
+Active Subjunctive,Pluperfect,2nd Person,Plural,aedificissetis,aedificuissetis,aedificissetis,aedificissetis,You (pl.) would have builded
+Active Subjunctive,Pluperfect,3rd Person,Singular,aedificisset,aedificuisset,aedificisset,aedificisset,He/she/it would have builded
+Active Subjunctive,Pluperfect,3rd Person,Plural,aedificissent,aedificuissent,aedificissent,aedificissent,They would have builded
+Passive Subjunctive,Present,1st Person,Singular,aedificer,aedificer,aedificar,aedificar,I may be builded
+Passive Subjunctive,Present,1st Person,Plural,aedificemur,aedificemur,aedificamur,aedificamur,We may be builded
+Passive Subjunctive,Present,2nd Person,Singular,aedificeris,aedificeris,aedificaris,aedificaris,You may be builded
+Passive Subjunctive,Present,2nd Person,Plural,aedificemini,aedificemini,aedificamini,aedificamini,You (pl.) may be builded
+Passive Subjunctive,Present,3rd Person,Singular,aedificetur,aedificetur,aedificatur,aedificatur,He/she/it may be builded
+Passive Subjunctive,Present,3rd Person,Plural,aedificentur,aedificentur,aedificantur,aedificantur,They may be builded
+Passive Subjunctive,Imperfect,1st Person,Singular,aedificarer,aedificerer,aedificerer,aedificirer,I should be builded
+Passive Subjunctive,Imperfect,1st Person,Plural,aedificaremur,aedificeremur,aedificeremur,aedificiremur,We should be builded
+Passive Subjunctive,Imperfect,2nd Person,Singular,aedificareris,aedificereris,aedificereris,aedificireris,You would be builded
+Passive Subjunctive,Imperfect,2nd Person,Plural,aedificaremini,aedificeremini,aedificeremini,aedificiremini,You (pl.) would be builded
+Passive Subjunctive,Imperfect,3rd Person,Singular,aedificaretur,aedificeretur,aedificeretur,aedificiretur,He/she/it would be builded
+Passive Subjunctive,Imperfect,3rd Person,Plural,aedificarentur,aedificerentur,aedificerentur,aedificirentur,They would be builded
+Passive Subjunctive,Perfect,1st Person,Singular,aedificatus sim,aedificetus sim,aedificus sim,aedificus sim,I may have been builded
+Passive Subjunctive,Perfect,1st Person,Plural,aedificati simus,aedificeti simus,aedifici simus,aedifici simus,We may have been builded
+Passive Subjunctive,Perfect,2nd Person,Singular,aedificatus sis,aedificetus sis,aedificus sis,aedificus sis,You may have been builded
+Passive Subjunctive,Perfect,2nd Person,Plural,aedificati sitis,aedificeti sitis,aedifici sitis,aedifici sitis,You (pl.) may have been builded
+Passive Subjunctive,Perfect,3rd Person,Singular,aedificatus sit,aedificetus sit,aedificus sit,aedificus sit,He/she/it may have been builded
+Passive Subjunctive,Perfect,3rd Person,Plural,aedificati sint,aedificeti sint,aedifici sint,aedifici sint,They may have been builded
+Passive Subjunctive,Pluperfect,1st Person,Singular,aedificatus essem,aedificetus essem,aedificus essem,aedificus essem,I should have been builded
+Passive Subjunctive,Pluperfect,1st Person,Plural,aedificati essemus,aedificeti essemus,aedifici essemus,aedifici essemus,We should have been builded
+Passive Subjunctive,Pluperfect,2nd Person,Singular,aedificatus esses,aedificetus esses,aedificus esses,aedificus esses,You would have been builded
+Passive Subjunctive,Pluperfect,2nd Person,Plural,aedificati essetis,aedificeti essetis,aedifici essetis,aedifici essetis,You (pl.) would have been builded
+Passive Subjunctive,Pluperfect,3rd Person,Singular,aedificatus esset,aedificetus esset,aedificus esset,aedificus esset,He/she/it would have been builded
+Passive Subjunctive,Pluperfect,3rd Person,Plural,aedificati essent,aedificeti essent,aedifici essent,aedifici essent,They would have been builded

@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,inveno,inveneo,inveno,invenio,I find
+Active Indicative,Present,1st Person,Plural,invenamus,invenemus,invenimus,invenimus,We find
+Active Indicative,Present,2nd Person,Singular,invenas,invenes,invenis,invenis,You find
+Active Indicative,Present,2nd Person,Plural,invenatis,invenetis,invenitis,invenitis,You (pl.) find
+Active Indicative,Present,3rd Person,Singular,invenat,invenet,invenit,invenit,He/she/it find
+Active Indicative,Present,3rd Person,Plural,invenant,invenent,inveniunt,inveniunt,They find
+Active Indicative,Imperfect,1st Person,Singular,invenabam,invenebam,invenebam,inveniebam,I was finding
+Active Indicative,Imperfect,1st Person,Plural,invenabamus,invenebamus,invenebamus,inveniebamus,We were finding
+Active Indicative,Imperfect,2nd Person,Singular,invenabas,invenebas,invenebas,inveniebas,You were finding
+Active Indicative,Imperfect,2nd Person,Plural,invenabatis,invenebatis,invenebatis,inveniebatis,You (pl.) were finding
+Active Indicative,Imperfect,3rd Person,Singular,invenabat,invenebat,invenebat,inveniebat,He/she/it was finding
+Active Indicative,Imperfect,3rd Person,Plural,invenabant,invenebant,invenebant,inveniebant,They were finding
+Active Indicative,Future,1st Person,Singular,invenabo,invenebo,invenam,inveniam,I will find
+Active Indicative,Future,1st Person,Plural,invenabimus,invenebimus,invenemus,inveniemus,We will find
+Active Indicative,Future,2nd Person,Singular,invenabis,invenebis,invenes,invenies,You will find
+Active Indicative,Future,2nd Person,Plural,invenabitis,invenebitis,invenetis,invenietis,You (pl.) will find
+Active Indicative,Future,3rd Person,Singular,invenabit,invenebit,invenet,inveniet,He/she/it will find
+Active Indicative,Future,3rd Person,Plural,invenabunt,invenebunt,invenent,invenient,They will find
+Active Indicative,Perfect,1st Person,Singular,invenavi,invenui,inveni,inveni,I have finded
+Active Indicative,Perfect,1st Person,Plural,invenavimus,invenuimus,invenimus,invenimus,We have finded
+Active Indicative,Perfect,2nd Person,Singular,invenavisti,invenuisti,invenisti,invenisti,You have finded
+Active Indicative,Perfect,2nd Person,Plural,invenavistis,invenuistis,invenistis,invenistis,You (pl.) have finded
+Active Indicative,Perfect,3rd Person,Singular,invenavit,invenuit,invenit,invenit,He/she/it has finded
+Active Indicative,Perfect,3rd Person,Plural,invenaverunt,invenuerunt,invenerunt,invenerunt,They have finded
+Active Indicative,Pluperfect,1st Person,Singular,invenaveram,invenueram,inveneram,inveneram,I had finded
+Active Indicative,Pluperfect,1st Person,Plural,invenaveramus,invenueramus,inveneramus,inveneramus,We had finded
+Active Indicative,Pluperfect,2nd Person,Singular,invenaveras,invenueras,inveneras,inveneras,You had finded
+Active Indicative,Pluperfect,2nd Person,Plural,invenaveratis,invenueratis,inveneratis,inveneratis,You (pl.) had finded
+Active Indicative,Pluperfect,3rd Person,Singular,invenaverat,invenuerat,invenerat,invenerat,He/she/it had finded
+Active Indicative,Pluperfect,3rd Person,Plural,invenaverant,invenuerant,invenerant,invenerant,They had finded
+Active Indicative,Future Perfect,1st Person,Singular,invenavero,invenueero,invenero,inveniero,I will have finded
+Active Indicative,Future Perfect,1st Person,Plural,invenaverimus,invenuerimus,invenerimus,invenierimus,We will have finded
+Active Indicative,Future Perfect,2nd Person,Singular,invenaveris,invenueris,inveneris,invenieris,You will have finded
+Active Indicative,Future Perfect,2nd Person,Plural,invenaveritis,invenueritis,inveneritis,invenieritis,You (pl.) will have finded
+Active Indicative,Future Perfect,3rd Person,Singular,invenaverit,invenuerit,invenerit,invenierit,He/she/it will have finded
+Active Indicative,Future Perfect,3rd Person,Plural,invenaverint,invenuerint,invenerint,invenierint,They will have finded
+Passive Indicative,Present,1st Person,Singular,invenor,inveneor,invenor,invenior,I am being finded
+Passive Indicative,Present,1st Person,Plural,invenamur,invenemur,invenimur,invenimur,We are being finded
+Passive Indicative,Present,2nd Person,Singular,invenaris,inveneris,inveniris,inveniris,You are being finded
+Passive Indicative,Present,2nd Person,Plural,invenamini,invenemini,invenimini,invenimini,You (pl.) are being finded
+Passive Indicative,Present,3rd Person,Singular,invenatur,invenetur,invenitur,invenitur,He/she/it is being finded
+Passive Indicative,Present,3rd Person,Plural,invenantur,invenentur,inveniuntur,inveniuntur,They are being finded
+Passive Indicative,Imperfect,1st Person,Singular,invenabar,invenebar,invenebar,inveniebar,I was finded
+Passive Indicative,Imperfect,1st Person,Plural,invenabamur,invenebamur,invenebamur,inveniebamur,We were finded
+Passive Indicative,Imperfect,2nd Person,Singular,invenabaris,invenebaris,invenebaris,inveniebaris,You were finded
+Passive Indicative,Imperfect,2nd Person,Plural,invenabamini,invenebamini,invenebamini,inveniebamini,You (pl.) were finded
+Passive Indicative,Imperfect,3rd Person,Singular,invenabatur,invenebatur,invenebatur,inveniebatur,He/she/it was finded
+Passive Indicative,Imperfect,3rd Person,Plural,invenabantur,invenebantur,invenebantur,inveniebantur,They were finded
+Passive Indicative,Future,1st Person,Singular,invenabor,invenebor,invenar,inveniar,I will be finded
+Passive Indicative,Future,1st Person,Plural,invenabimur,invenebimur,invenemur,inveniemur,We will be finded
+Passive Indicative,Future,2nd Person,Singular,invenaberis,inveneberis,inveneris,invenieris,You will be finded
+Passive Indicative,Future,2nd Person,Plural,invenabimini,invenebimini,invenemini,inveniemini,You (pl.) will be finded
+Passive Indicative,Future,3rd Person,Singular,invenabitur,invenebitur,invenetur,invenietur,He/she/it will be finded
+Passive Indicative,Future,3rd Person,Plural,invenabuntur,invenebuntur,invenentur,invenientur,They will be finded
+Passive Indicative,Perfect,1st Person,Singular,invenatus sum,invenetus sum,invenus sum,invenus sum,I have been finded
+Passive Indicative,Perfect,1st Person,Plural,invenati sumus,inveneti sumus,inveni sumus,inveni sumus,We have been finded
+Passive Indicative,Perfect,2nd Person,Singular,invenatus es,invenetus es,invenus es,invenus es,You have been finded
+Passive Indicative,Perfect,2nd Person,Plural,invenati estis,inveneti estis,inveni estis,inveni estis,You (pl.) have been finded
+Passive Indicative,Perfect,3rd Person,Singular,invenatus est,invenetus est,invenus est,invenus est,He/she/it has been finded
+Passive Indicative,Perfect,3rd Person,Plural,invenati sunt,inveneti sunt,inveni sunt,inveni sunt,They have been finded
+Passive Indicative,Pluperfect,1st Person,Singular,invenatus eram,invenetus eram,invenus eram,invenus eram,I had been finded
+Passive Indicative,Pluperfect,1st Person,Plural,invenati eramus,inveneti eramus,inveni eramus,inveni eramus,We had been finded
+Passive Indicative,Pluperfect,2nd Person,Singular,invenatus eras,invenetus eras,invenus eras,invenus eras,You had been finded
+Passive Indicative,Pluperfect,2nd Person,Plural,invenati eratis,inveneti eratis,inveni eratis,inveni eratis,You (pl.) had been finded
+Passive Indicative,Pluperfect,3rd Person,Singular,invenatus erat,invenetus erat,invenus erat,invenus erat,He/she/it had been finded
+Passive Indicative,Pluperfect,3rd Person,Plural,invenati erant,inveneti erant,inveni erant,inveni erant,They had been finded
+Passive Indicative,Future Perfect,1st Person,Singular,invenatus ero,invenetus ero,invenus ero,invenus ero,I will have been finded
+Passive Indicative,Future Perfect,1st Person,Plural,invenati erimus,inveneti erimus,inveni erimus,inveni erimus,We will have been finded
+Passive Indicative,Future Perfect,2nd Person,Singular,invenatus eris,invenetus eris,invenus eris,invenus eris,You will have been finded
+Passive Indicative,Future Perfect,2nd Person,Plural,invenati eritis,inveneti eritis,inveni eritis,inveni eritis,You (pl.) will have been finded
+Passive Indicative,Future Perfect,3rd Person,Singular,invenatus erit,invenetus erit,invenus erit,invenus erit,He/she/it will have been finded
+Passive Indicative,Future Perfect,3rd Person,Plural,invenati erunt,inveneti erunt,inveni erunt,inveni erunt,They will have been finded
+Active Subjunctive,Present,1st Person,Singular,invenem,invenem,invenam,invenam,I may find
+Active Subjunctive,Present,1st Person,Plural,invenemus,invenemus,invenamus,invenamus,We may find
+Active Subjunctive,Present,2nd Person,Singular,invenes,invenes,invenas,invenas,You may find
+Active Subjunctive,Present,2nd Person,Plural,invenetis,invenetis,invenatis,invenatis,You (pl.) may find
+Active Subjunctive,Present,3rd Person,Singular,invenet,invenet,invenat,invenat,He/she/it may find
+Active Subjunctive,Present,3rd Person,Plural,invenent,invenent,invenant,invenant,They may find
+Active Subjunctive,Imperfect,1st Person,Singular,invenarem,invenerem,invenerem,invenirem,I should find
+Active Subjunctive,Imperfect,1st Person,Plural,invenaremus,inveneremus,inveneremus,inveniremus,We should find
+Active Subjunctive,Imperfect,2nd Person,Singular,invenares,inveneres,inveneres,invenires,You should find
+Active Subjunctive,Imperfect,2nd Person,Plural,invenaretis,inveneretis,inveneretis,inveniretis,You (pl.) should find
+Active Subjunctive,Imperfect,3rd Person,Singular,invenaret,inveneret,inveneret,inveniret,He/she/it should find
+Active Subjunctive,Imperfect,3rd Person,Plural,invenarent,invenerent,invenerent,invenirent,They should find
+Active Subjunctive,Perfect,1st Person,Singular,invenerim,invenuerim,invenerim,invenierim,I may have finded
+Active Subjunctive,Perfect,1st Person,Plural,invenerimus,invenuerimus,invenerimus,invenierimus,We may have finded
+Active Subjunctive,Perfect,2nd Person,Singular,inveneris,invenueris,inveneris,invenieris,You may have finded
+Active Subjunctive,Perfect,2nd Person,Plural,inveneritis,invenueritis,inveneritis,invenieritis,You (pl.) may have finded
+Active Subjunctive,Perfect,3rd Person,Singular,invenerit,invenuerit,invenerit,invenierit,He/she/it may have finded
+Active Subjunctive,Perfect,3rd Person,Plural,invenerint,invenuerint,invenerint,invenierint,They may have finded
+Active Subjunctive,Pluperfect,1st Person,Singular,invenissem,invenuissem,invenissem,invenissem,I should have finded
+Active Subjunctive,Pluperfect,1st Person,Plural,invenissemus,invenuissemus,invenissemus,invenissemus,We should have finded
+Active Subjunctive,Pluperfect,2nd Person,Singular,invenisses,invenuisses,invenisses,invenisses,You would have finded
+Active Subjunctive,Pluperfect,2nd Person,Plural,invenissetis,invenuissetis,invenissetis,invenissetis,You (pl.) would have finded
+Active Subjunctive,Pluperfect,3rd Person,Singular,invenisset,invenuisset,invenisset,invenisset,He/she/it would have finded
+Active Subjunctive,Pluperfect,3rd Person,Plural,invenissent,invenuissent,invenissent,invenissent,They would have finded
+Passive Subjunctive,Present,1st Person,Singular,invener,invener,invenar,invenar,I may be finded
+Passive Subjunctive,Present,1st Person,Plural,invenemur,invenemur,invenamur,invenamur,We may be finded
+Passive Subjunctive,Present,2nd Person,Singular,inveneris,inveneris,invenaris,invenaris,You may be finded
+Passive Subjunctive,Present,2nd Person,Plural,invenemini,invenemini,invenamini,invenamini,You (pl.) may be finded
+Passive Subjunctive,Present,3rd Person,Singular,invenetur,invenetur,invenatur,invenatur,He/she/it may be finded
+Passive Subjunctive,Present,3rd Person,Plural,invenentur,invenentur,invenantur,invenantur,They may be finded
+Passive Subjunctive,Imperfect,1st Person,Singular,invenarer,invenerer,invenerer,invenirer,I should be finded
+Passive Subjunctive,Imperfect,1st Person,Plural,invenaremur,inveneremur,inveneremur,inveniremur,We should be finded
+Passive Subjunctive,Imperfect,2nd Person,Singular,invenareris,invenereris,invenereris,invenireris,You would be finded
+Passive Subjunctive,Imperfect,2nd Person,Plural,invenaremini,inveneremini,inveneremini,inveniremini,You (pl.) would be finded
+Passive Subjunctive,Imperfect,3rd Person,Singular,invenaretur,inveneretur,inveneretur,inveniretur,He/she/it would be finded
+Passive Subjunctive,Imperfect,3rd Person,Plural,invenarentur,invenerentur,invenerentur,invenirentur,They would be finded
+Passive Subjunctive,Perfect,1st Person,Singular,invenatus sim,invenetus sim,invenus sim,invenus sim,I may have been finded
+Passive Subjunctive,Perfect,1st Person,Plural,invenati simus,inveneti simus,inveni simus,inveni simus,We may have been finded
+Passive Subjunctive,Perfect,2nd Person,Singular,invenatus sis,invenetus sis,invenus sis,invenus sis,You may have been finded
+Passive Subjunctive,Perfect,2nd Person,Plural,invenati sitis,inveneti sitis,inveni sitis,inveni sitis,You (pl.) may have been finded
+Passive Subjunctive,Perfect,3rd Person,Singular,invenatus sit,invenetus sit,invenus sit,invenus sit,He/she/it may have been finded
+Passive Subjunctive,Perfect,3rd Person,Plural,invenati sint,inveneti sint,inveni sint,inveni sint,They may have been finded
+Passive Subjunctive,Pluperfect,1st Person,Singular,invenatus essem,invenetus essem,invenus essem,invenus essem,I should have been finded
+Passive Subjunctive,Pluperfect,1st Person,Plural,invenati essemus,inveneti essemus,inveni essemus,inveni essemus,We should have been finded
+Passive Subjunctive,Pluperfect,2nd Person,Singular,invenatus esses,invenetus esses,invenus esses,invenus esses,You would have been finded
+Passive Subjunctive,Pluperfect,2nd Person,Plural,invenati essetis,inveneti essetis,inveni essetis,inveni essetis,You (pl.) would have been finded
+Passive Subjunctive,Pluperfect,3rd Person,Singular,invenatus esset,invenetus esset,invenus esset,invenus esset,He/she/it would have been finded
+Passive Subjunctive,Pluperfect,3rd Person,Plural,invenati essent,inveneti essent,inveni essent,inveni essent,They would have been finded

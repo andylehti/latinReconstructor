@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,brevio,brevieo,brevio,brevio,I shorten
+Active Indicative,Present,1st Person,Plural,breviamus,breviemus,brevimus,brevimus,We shorten
+Active Indicative,Present,2nd Person,Singular,brevias,brevies,brevis,brevis,You shorten
+Active Indicative,Present,2nd Person,Plural,breviatis,brevietis,brevitis,brevitis,You (pl.) shorten
+Active Indicative,Present,3rd Person,Singular,breviat,breviet,brevit,brevit,He/she/it shorten
+Active Indicative,Present,3rd Person,Plural,breviant,brevient,breviunt,breviunt,They shorten
+Active Indicative,Imperfect,1st Person,Singular,breviabam,breviebam,breviebam,breviebam,I was shortening
+Active Indicative,Imperfect,1st Person,Plural,breviabamus,breviebamus,breviebamus,breviebamus,We were shortening
+Active Indicative,Imperfect,2nd Person,Singular,breviabas,breviebas,breviebas,breviebas,You were shortening
+Active Indicative,Imperfect,2nd Person,Plural,breviabatis,breviebatis,breviebatis,breviebatis,You (pl.) were shortening
+Active Indicative,Imperfect,3rd Person,Singular,breviabat,breviebat,breviebat,breviebat,He/she/it was shortening
+Active Indicative,Imperfect,3rd Person,Plural,breviabant,breviebant,breviebant,breviebant,They were shortening
+Active Indicative,Future,1st Person,Singular,breviabo,breviebo,breviam,breviam,I will shorten
+Active Indicative,Future,1st Person,Plural,breviabimus,breviebimus,breviemus,breviemus,We will shorten
+Active Indicative,Future,2nd Person,Singular,breviabis,breviebis,brevies,brevies,You will shorten
+Active Indicative,Future,2nd Person,Plural,breviabitis,breviebitis,brevietis,brevietis,You (pl.) will shorten
+Active Indicative,Future,3rd Person,Singular,breviabit,breviebit,breviet,breviet,He/she/it will shorten
+Active Indicative,Future,3rd Person,Plural,breviabunt,breviebunt,brevient,brevient,They will shorten
+Active Indicative,Perfect,1st Person,Singular,breviavi,breviui,brevi,brevi,I have shortened
+Active Indicative,Perfect,1st Person,Plural,breviavimus,breviuimus,brevimus,brevimus,We have shortened
+Active Indicative,Perfect,2nd Person,Singular,breviavisti,breviuisti,brevisti,brevisti,You have shortened
+Active Indicative,Perfect,2nd Person,Plural,breviavistis,breviuistis,brevistis,brevistis,You (pl.) have shortened
+Active Indicative,Perfect,3rd Person,Singular,breviavit,breviuit,brevit,brevit,He/she/it has shortened
+Active Indicative,Perfect,3rd Person,Plural,breviaverunt,breviuerunt,brevierunt,brevierunt,They have shortened
+Active Indicative,Pluperfect,1st Person,Singular,breviaveram,breviueram,brevieram,brevieram,I had shortened
+Active Indicative,Pluperfect,1st Person,Plural,breviaveramus,breviueramus,brevieramus,brevieramus,We had shortened
+Active Indicative,Pluperfect,2nd Person,Singular,breviaveras,breviueras,brevieras,brevieras,You had shortened
+Active Indicative,Pluperfect,2nd Person,Plural,breviaveratis,breviueratis,brevieratis,brevieratis,You (pl.) had shortened
+Active Indicative,Pluperfect,3rd Person,Singular,breviaverat,breviuerat,brevierat,brevierat,He/she/it had shortened
+Active Indicative,Pluperfect,3rd Person,Plural,breviaverant,breviuerant,brevierant,brevierant,They had shortened
+Active Indicative,Future Perfect,1st Person,Singular,breviavero,breviueero,breviero,breviero,I will have shortened
+Active Indicative,Future Perfect,1st Person,Plural,breviaverimus,breviuerimus,brevierimus,brevierimus,We will have shortened
+Active Indicative,Future Perfect,2nd Person,Singular,breviaveris,breviueris,brevieris,brevieris,You will have shortened
+Active Indicative,Future Perfect,2nd Person,Plural,breviaveritis,breviueritis,brevieritis,brevieritis,You (pl.) will have shortened
+Active Indicative,Future Perfect,3rd Person,Singular,breviaverit,breviuerit,brevierit,brevierit,He/she/it will have shortened
+Active Indicative,Future Perfect,3rd Person,Plural,breviaverint,breviuerint,brevierint,brevierint,They will have shortened
+Passive Indicative,Present,1st Person,Singular,brevior,brevieor,brevior,brevior,I am being shortened
+Passive Indicative,Present,1st Person,Plural,breviamur,breviemur,brevimur,brevimur,We are being shortened
+Passive Indicative,Present,2nd Person,Singular,breviaris,brevieris,breviris,breviris,You are being shortened
+Passive Indicative,Present,2nd Person,Plural,breviamini,breviemini,brevimini,brevimini,You (pl.) are being shortened
+Passive Indicative,Present,3rd Person,Singular,breviatur,brevietur,brevitur,brevitur,He/she/it is being shortened
+Passive Indicative,Present,3rd Person,Plural,breviantur,brevientur,breviuntur,breviuntur,They are being shortened
+Passive Indicative,Imperfect,1st Person,Singular,breviabar,breviebar,breviebar,breviebar,I was shortened
+Passive Indicative,Imperfect,1st Person,Plural,breviabamur,breviebamur,breviebamur,breviebamur,We were shortened
+Passive Indicative,Imperfect,2nd Person,Singular,breviabaris,breviebaris,breviebaris,breviebaris,You were shortened
+Passive Indicative,Imperfect,2nd Person,Plural,breviabamini,breviebamini,breviebamini,breviebamini,You (pl.) were shortened
+Passive Indicative,Imperfect,3rd Person,Singular,breviabatur,breviebatur,breviebatur,breviebatur,He/she/it was shortened
+Passive Indicative,Imperfect,3rd Person,Plural,breviabantur,breviebantur,breviebantur,breviebantur,They were shortened
+Passive Indicative,Future,1st Person,Singular,breviabor,breviebor,breviar,breviar,I will be shortened
+Passive Indicative,Future,1st Person,Plural,breviabimur,breviebimur,breviemur,breviemur,We will be shortened
+Passive Indicative,Future,2nd Person,Singular,breviaberis,brevieberis,brevieris,brevieris,You will be shortened
+Passive Indicative,Future,2nd Person,Plural,breviabimini,breviebimini,breviemini,breviemini,You (pl.) will be shortened
+Passive Indicative,Future,3rd Person,Singular,breviabitur,breviebitur,brevietur,brevietur,He/she/it will be shortened
+Passive Indicative,Future,3rd Person,Plural,breviabuntur,breviebuntur,brevientur,brevientur,They will be shortened
+Passive Indicative,Perfect,1st Person,Singular,breviatus sum,brevietus sum,brevius sum,brevius sum,I have been shortened
+Passive Indicative,Perfect,1st Person,Plural,breviati sumus,brevieti sumus,brevi sumus,brevi sumus,We have been shortened
+Passive Indicative,Perfect,2nd Person,Singular,breviatus es,brevietus es,brevius es,brevius es,You have been shortened
+Passive Indicative,Perfect,2nd Person,Plural,breviati estis,brevieti estis,brevi estis,brevi estis,You (pl.) have been shortened
+Passive Indicative,Perfect,3rd Person,Singular,breviatus est,brevietus est,brevius est,brevius est,He/she/it has been shortened
+Passive Indicative,Perfect,3rd Person,Plural,breviati sunt,brevieti sunt,brevi sunt,brevi sunt,They have been shortened
+Passive Indicative,Pluperfect,1st Person,Singular,breviatus eram,brevietus eram,brevius eram,brevius eram,I had been shortened
+Passive Indicative,Pluperfect,1st Person,Plural,breviati eramus,brevieti eramus,brevi eramus,brevi eramus,We had been shortened
+Passive Indicative,Pluperfect,2nd Person,Singular,breviatus eras,brevietus eras,brevius eras,brevius eras,You had been shortened
+Passive Indicative,Pluperfect,2nd Person,Plural,breviati eratis,brevieti eratis,brevi eratis,brevi eratis,You (pl.) had been shortened
+Passive Indicative,Pluperfect,3rd Person,Singular,breviatus erat,brevietus erat,brevius erat,brevius erat,He/she/it had been shortened
+Passive Indicative,Pluperfect,3rd Person,Plural,breviati erant,brevieti erant,brevi erant,brevi erant,They had been shortened
+Passive Indicative,Future Perfect,1st Person,Singular,breviatus ero,brevietus ero,brevius ero,brevius ero,I will have been shortened
+Passive Indicative,Future Perfect,1st Person,Plural,breviati erimus,brevieti erimus,brevi erimus,brevi erimus,We will have been shortened
+Passive Indicative,Future Perfect,2nd Person,Singular,breviatus eris,brevietus eris,brevius eris,brevius eris,You will have been shortened
+Passive Indicative,Future Perfect,2nd Person,Plural,breviati eritis,brevieti eritis,brevi eritis,brevi eritis,You (pl.) will have been shortened
+Passive Indicative,Future Perfect,3rd Person,Singular,breviatus erit,brevietus erit,brevius erit,brevius erit,He/she/it will have been shortened
+Passive Indicative,Future Perfect,3rd Person,Plural,breviati erunt,brevieti erunt,brevi erunt,brevi erunt,They will have been shortened
+Active Subjunctive,Present,1st Person,Singular,breviem,breviem,breviam,breviam,I may shorten
+Active Subjunctive,Present,1st Person,Plural,breviemus,breviemus,breviamus,breviamus,We may shorten
+Active Subjunctive,Present,2nd Person,Singular,brevies,brevies,brevias,brevias,You may shorten
+Active Subjunctive,Present,2nd Person,Plural,brevietis,brevietis,breviatis,breviatis,You (pl.) may shorten
+Active Subjunctive,Present,3rd Person,Singular,breviet,breviet,breviat,breviat,He/she/it may shorten
+Active Subjunctive,Present,3rd Person,Plural,brevient,brevient,breviant,breviant,They may shorten
+Active Subjunctive,Imperfect,1st Person,Singular,breviarem,brevierem,brevierem,brevirem,I should shorten
+Active Subjunctive,Imperfect,1st Person,Plural,breviaremus,brevieremus,brevieremus,breviremus,We should shorten
+Active Subjunctive,Imperfect,2nd Person,Singular,breviares,brevieres,brevieres,brevires,You should shorten
+Active Subjunctive,Imperfect,2nd Person,Plural,breviaretis,brevieretis,brevieretis,breviretis,You (pl.) should shorten
+Active Subjunctive,Imperfect,3rd Person,Singular,breviaret,brevieret,brevieret,breviret,He/she/it should shorten
+Active Subjunctive,Imperfect,3rd Person,Plural,breviarent,brevierent,brevierent,brevirent,They should shorten
+Active Subjunctive,Perfect,1st Person,Singular,brevierim,breviuerim,brevierim,brevierim,I may have shortened
+Active Subjunctive,Perfect,1st Person,Plural,brevierimus,breviuerimus,brevierimus,brevierimus,We may have shortened
+Active Subjunctive,Perfect,2nd Person,Singular,brevieris,breviueris,brevieris,brevieris,You may have shortened
+Active Subjunctive,Perfect,2nd Person,Plural,brevieritis,breviueritis,brevieritis,brevieritis,You (pl.) may have shortened
+Active Subjunctive,Perfect,3rd Person,Singular,brevierit,breviuerit,brevierit,brevierit,He/she/it may have shortened
+Active Subjunctive,Perfect,3rd Person,Plural,brevierint,breviuerint,brevierint,brevierint,They may have shortened
+Active Subjunctive,Pluperfect,1st Person,Singular,brevissem,breviuissem,brevissem,brevissem,I should have shortened
+Active Subjunctive,Pluperfect,1st Person,Plural,brevissemus,breviuissemus,brevissemus,brevissemus,We should have shortened
+Active Subjunctive,Pluperfect,2nd Person,Singular,brevisses,breviuisses,brevisses,brevisses,You would have shortened
+Active Subjunctive,Pluperfect,2nd Person,Plural,brevissetis,breviuissetis,brevissetis,brevissetis,You (pl.) would have shortened
+Active Subjunctive,Pluperfect,3rd Person,Singular,brevisset,breviuisset,brevisset,brevisset,He/she/it would have shortened
+Active Subjunctive,Pluperfect,3rd Person,Plural,brevissent,breviuissent,brevissent,brevissent,They would have shortened
+Passive Subjunctive,Present,1st Person,Singular,brevier,brevier,breviar,breviar,I may be shortened
+Passive Subjunctive,Present,1st Person,Plural,breviemur,breviemur,breviamur,breviamur,We may be shortened
+Passive Subjunctive,Present,2nd Person,Singular,brevieris,brevieris,breviaris,breviaris,You may be shortened
+Passive Subjunctive,Present,2nd Person,Plural,breviemini,breviemini,breviamini,breviamini,You (pl.) may be shortened
+Passive Subjunctive,Present,3rd Person,Singular,brevietur,brevietur,breviatur,breviatur,He/she/it may be shortened
+Passive Subjunctive,Present,3rd Person,Plural,brevientur,brevientur,breviantur,breviantur,They may be shortened
+Passive Subjunctive,Imperfect,1st Person,Singular,breviarer,brevierer,brevierer,brevirer,I should be shortened
+Passive Subjunctive,Imperfect,1st Person,Plural,breviaremur,brevieremur,brevieremur,breviremur,We should be shortened
+Passive Subjunctive,Imperfect,2nd Person,Singular,breviareris,breviereris,breviereris,brevireris,You would be shortened
+Passive Subjunctive,Imperfect,2nd Person,Plural,breviaremini,brevieremini,brevieremini,breviremini,You (pl.) would be shortened
+Passive Subjunctive,Imperfect,3rd Person,Singular,breviaretur,brevieretur,brevieretur,breviretur,He/she/it would be shortened
+Passive Subjunctive,Imperfect,3rd Person,Plural,breviarentur,brevierentur,brevierentur,brevirentur,They would be shortened
+Passive Subjunctive,Perfect,1st Person,Singular,breviatus sim,brevietus sim,brevius sim,brevius sim,I may have been shortened
+Passive Subjunctive,Perfect,1st Person,Plural,breviati simus,brevieti simus,brevi simus,brevi simus,We may have been shortened
+Passive Subjunctive,Perfect,2nd Person,Singular,breviatus sis,brevietus sis,brevius sis,brevius sis,You may have been shortened
+Passive Subjunctive,Perfect,2nd Person,Plural,breviati sitis,brevieti sitis,brevi sitis,brevi sitis,You (pl.) may have been shortened
+Passive Subjunctive,Perfect,3rd Person,Singular,breviatus sit,brevietus sit,brevius sit,brevius sit,He/she/it may have been shortened
+Passive Subjunctive,Perfect,3rd Person,Plural,breviati sint,brevieti sint,brevi sint,brevi sint,They may have been shortened
+Passive Subjunctive,Pluperfect,1st Person,Singular,breviatus essem,brevietus essem,brevius essem,brevius essem,I should have been shortened
+Passive Subjunctive,Pluperfect,1st Person,Plural,breviati essemus,brevieti essemus,brevi essemus,brevi essemus,We should have been shortened
+Passive Subjunctive,Pluperfect,2nd Person,Singular,breviatus esses,brevietus esses,brevius esses,brevius esses,You would have been shortened
+Passive Subjunctive,Pluperfect,2nd Person,Plural,breviati essetis,brevieti essetis,brevi essetis,brevi essetis,You (pl.) would have been shortened
+Passive Subjunctive,Pluperfect,3rd Person,Singular,breviatus esset,brevietus esset,brevius esset,brevius esset,He/she/it would have been shortened
+Passive Subjunctive,Pluperfect,3rd Person,Plural,breviati essent,brevieti essent,brevi essent,brevi essent,They would have been shortened

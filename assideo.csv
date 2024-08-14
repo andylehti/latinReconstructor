@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,assideo,assideo,assideo,assideio,I sit by
+Active Indicative,Present,1st Person,Plural,assideamus,assidemus,assideimus,assideimus,We sit by
+Active Indicative,Present,2nd Person,Singular,assideas,assides,assideis,assideis,You sit by
+Active Indicative,Present,2nd Person,Plural,assideatis,assidetis,assideitis,assideitis,You (pl.) sit by
+Active Indicative,Present,3rd Person,Singular,assideat,assidet,assideit,assideit,He/she/it sit by
+Active Indicative,Present,3rd Person,Plural,assideant,assident,assideiunt,assideiunt,They sit by
+Active Indicative,Imperfect,1st Person,Singular,assideabam,assidebam,assidebam,assideiebam,I was sit bying
+Active Indicative,Imperfect,1st Person,Plural,assideabamus,assidebamus,assidebamus,assideiebamus,We were sit bying
+Active Indicative,Imperfect,2nd Person,Singular,assideabas,assidebas,assidebas,assideiebas,You were sit bying
+Active Indicative,Imperfect,2nd Person,Plural,assideabatis,assidebatis,assidebatis,assideiebatis,You (pl.) were sit bying
+Active Indicative,Imperfect,3rd Person,Singular,assideabat,assidebat,assidebat,assideiebat,He/she/it was sit bying
+Active Indicative,Imperfect,3rd Person,Plural,assideabant,assidebant,assidebant,assideiebant,They were sit bying
+Active Indicative,Future,1st Person,Singular,assideabo,assidebo,assideam,assideiam,I will sit by
+Active Indicative,Future,1st Person,Plural,assideabimus,assidebimus,assidemus,assideiemus,We will sit by
+Active Indicative,Future,2nd Person,Singular,assideabis,assidebis,assides,assideies,You will sit by
+Active Indicative,Future,2nd Person,Plural,assideabitis,assidebitis,assidetis,assideietis,You (pl.) will sit by
+Active Indicative,Future,3rd Person,Singular,assideabit,assidebit,assidet,assideiet,He/she/it will sit by
+Active Indicative,Future,3rd Person,Plural,assideabunt,assidebunt,assident,assideient,They will sit by
+Active Indicative,Perfect,1st Person,Singular,assideavi,assideui,assidei,assidei,I have sit byed
+Active Indicative,Perfect,1st Person,Plural,assideavimus,assideuimus,assideimus,assideimus,We have sit byed
+Active Indicative,Perfect,2nd Person,Singular,assideavisti,assideuisti,assideisti,assideisti,You have sit byed
+Active Indicative,Perfect,2nd Person,Plural,assideavistis,assideuistis,assideistis,assideistis,You (pl.) have sit byed
+Active Indicative,Perfect,3rd Person,Singular,assideavit,assideuit,assideit,assideit,He/she/it has sit byed
+Active Indicative,Perfect,3rd Person,Plural,assideaverunt,assideuerunt,assiderunt,assiderunt,They have sit byed
+Active Indicative,Pluperfect,1st Person,Singular,assideaveram,assideueram,assideram,assideram,I had sit byed
+Active Indicative,Pluperfect,1st Person,Plural,assideaveramus,assideueramus,assideramus,assideramus,We had sit byed
+Active Indicative,Pluperfect,2nd Person,Singular,assideaveras,assideueras,assideras,assideras,You had sit byed
+Active Indicative,Pluperfect,2nd Person,Plural,assideaveratis,assideueratis,assideratis,assideratis,You (pl.) had sit byed
+Active Indicative,Pluperfect,3rd Person,Singular,assideaverat,assideuerat,assiderat,assiderat,He/she/it had sit byed
+Active Indicative,Pluperfect,3rd Person,Plural,assideaverant,assideuerant,assiderant,assiderant,They had sit byed
+Active Indicative,Future Perfect,1st Person,Singular,assideavero,assideueero,assidero,assideiero,I will have sit byed
+Active Indicative,Future Perfect,1st Person,Plural,assideaverimus,assideuerimus,assiderimus,assideierimus,We will have sit byed
+Active Indicative,Future Perfect,2nd Person,Singular,assideaveris,assideueris,assideris,assideieris,You will have sit byed
+Active Indicative,Future Perfect,2nd Person,Plural,assideaveritis,assideueritis,assideritis,assideieritis,You (pl.) will have sit byed
+Active Indicative,Future Perfect,3rd Person,Singular,assideaverit,assideuerit,assiderit,assideierit,He/she/it will have sit byed
+Active Indicative,Future Perfect,3rd Person,Plural,assideaverint,assideuerint,assiderint,assideierint,They will have sit byed
+Passive Indicative,Present,1st Person,Singular,assideor,assideor,assideor,assideior,I am being sit byed
+Passive Indicative,Present,1st Person,Plural,assideamur,assidemur,assideimur,assideimur,We are being sit byed
+Passive Indicative,Present,2nd Person,Singular,assidearis,assideris,assideiris,assideiris,You are being sit byed
+Passive Indicative,Present,2nd Person,Plural,assideamini,assidemini,assideimini,assideimini,You (pl.) are being sit byed
+Passive Indicative,Present,3rd Person,Singular,assideatur,assidetur,assideitur,assideitur,He/she/it is being sit byed
+Passive Indicative,Present,3rd Person,Plural,assideantur,assidentur,assideiuntur,assideiuntur,They are being sit byed
+Passive Indicative,Imperfect,1st Person,Singular,assideabar,assidebar,assidebar,assideiebar,I was sit byed
+Passive Indicative,Imperfect,1st Person,Plural,assideabamur,assidebamur,assidebamur,assideiebamur,We were sit byed
+Passive Indicative,Imperfect,2nd Person,Singular,assideabaris,assidebaris,assidebaris,assideiebaris,You were sit byed
+Passive Indicative,Imperfect,2nd Person,Plural,assideabamini,assidebamini,assidebamini,assideiebamini,You (pl.) were sit byed
+Passive Indicative,Imperfect,3rd Person,Singular,assideabatur,assidebatur,assidebatur,assideiebatur,He/she/it was sit byed
+Passive Indicative,Imperfect,3rd Person,Plural,assideabantur,assidebantur,assidebantur,assideiebantur,They were sit byed
+Passive Indicative,Future,1st Person,Singular,assideabor,assidebor,assidear,assideiar,I will be sit byed
+Passive Indicative,Future,1st Person,Plural,assideabimur,assidebimur,assidemur,assideiemur,We will be sit byed
+Passive Indicative,Future,2nd Person,Singular,assideaberis,assideberis,assideris,assideieris,You will be sit byed
+Passive Indicative,Future,2nd Person,Plural,assideabimini,assidebimini,assidemini,assideiemini,You (pl.) will be sit byed
+Passive Indicative,Future,3rd Person,Singular,assideabitur,assidebitur,assidetur,assideietur,He/she/it will be sit byed
+Passive Indicative,Future,3rd Person,Plural,assideabuntur,assidebuntur,assidentur,assideientur,They will be sit byed
+Passive Indicative,Perfect,1st Person,Singular,assideatus sum,assidetus sum,assideus sum,assideus sum,I have been sit byed
+Passive Indicative,Perfect,1st Person,Plural,assideati sumus,assideti sumus,assidei sumus,assidei sumus,We have been sit byed
+Passive Indicative,Perfect,2nd Person,Singular,assideatus es,assidetus es,assideus es,assideus es,You have been sit byed
+Passive Indicative,Perfect,2nd Person,Plural,assideati estis,assideti estis,assidei estis,assidei estis,You (pl.) have been sit byed
+Passive Indicative,Perfect,3rd Person,Singular,assideatus est,assidetus est,assideus est,assideus est,He/she/it has been sit byed
+Passive Indicative,Perfect,3rd Person,Plural,assideati sunt,assideti sunt,assidei sunt,assidei sunt,They have been sit byed
+Passive Indicative,Pluperfect,1st Person,Singular,assideatus eram,assidetus eram,assideus eram,assideus eram,I had been sit byed
+Passive Indicative,Pluperfect,1st Person,Plural,assideati eramus,assideti eramus,assidei eramus,assidei eramus,We had been sit byed
+Passive Indicative,Pluperfect,2nd Person,Singular,assideatus eras,assidetus eras,assideus eras,assideus eras,You had been sit byed
+Passive Indicative,Pluperfect,2nd Person,Plural,assideati eratis,assideti eratis,assidei eratis,assidei eratis,You (pl.) had been sit byed
+Passive Indicative,Pluperfect,3rd Person,Singular,assideatus erat,assidetus erat,assideus erat,assideus erat,He/she/it had been sit byed
+Passive Indicative,Pluperfect,3rd Person,Plural,assideati erant,assideti erant,assidei erant,assidei erant,They had been sit byed
+Passive Indicative,Future Perfect,1st Person,Singular,assideatus ero,assidetus ero,assideus ero,assideus ero,I will have been sit byed
+Passive Indicative,Future Perfect,1st Person,Plural,assideati erimus,assideti erimus,assidei erimus,assidei erimus,We will have been sit byed
+Passive Indicative,Future Perfect,2nd Person,Singular,assideatus eris,assidetus eris,assideus eris,assideus eris,You will have been sit byed
+Passive Indicative,Future Perfect,2nd Person,Plural,assideati eritis,assideti eritis,assidei eritis,assidei eritis,You (pl.) will have been sit byed
+Passive Indicative,Future Perfect,3rd Person,Singular,assideatus erit,assidetus erit,assideus erit,assideus erit,He/she/it will have been sit byed
+Passive Indicative,Future Perfect,3rd Person,Plural,assideati erunt,assideti erunt,assidei erunt,assidei erunt,They will have been sit byed
+Active Subjunctive,Present,1st Person,Singular,assidem,assidem,assideam,assideam,I may sit by
+Active Subjunctive,Present,1st Person,Plural,assidemus,assidemus,assideamus,assideamus,We may sit by
+Active Subjunctive,Present,2nd Person,Singular,assides,assides,assideas,assideas,You may sit by
+Active Subjunctive,Present,2nd Person,Plural,assidetis,assidetis,assideatis,assideatis,You (pl.) may sit by
+Active Subjunctive,Present,3rd Person,Singular,assidet,assidet,assideat,assideat,He/she/it may sit by
+Active Subjunctive,Present,3rd Person,Plural,assident,assident,assideant,assideant,They may sit by
+Active Subjunctive,Imperfect,1st Person,Singular,assidearem,assiderem,assiderem,assideirem,I should sit by
+Active Subjunctive,Imperfect,1st Person,Plural,assidearemus,assideremus,assideremus,assideiremus,We should sit by
+Active Subjunctive,Imperfect,2nd Person,Singular,assideares,assideres,assideres,assideires,You should sit by
+Active Subjunctive,Imperfect,2nd Person,Plural,assidearetis,assideretis,assideretis,assideiretis,You (pl.) should sit by
+Active Subjunctive,Imperfect,3rd Person,Singular,assidearet,assideret,assideret,assideiret,He/she/it should sit by
+Active Subjunctive,Imperfect,3rd Person,Plural,assidearent,assiderent,assiderent,assideirent,They should sit by
+Active Subjunctive,Perfect,1st Person,Singular,assiderim,assideuerim,assiderim,assideierim,I may have sit byed
+Active Subjunctive,Perfect,1st Person,Plural,assiderimus,assideuerimus,assiderimus,assideierimus,We may have sit byed
+Active Subjunctive,Perfect,2nd Person,Singular,assideris,assideueris,assideris,assideieris,You may have sit byed
+Active Subjunctive,Perfect,2nd Person,Plural,assideritis,assideueritis,assideritis,assideieritis,You (pl.) may have sit byed
+Active Subjunctive,Perfect,3rd Person,Singular,assiderit,assideuerit,assiderit,assideierit,He/she/it may have sit byed
+Active Subjunctive,Perfect,3rd Person,Plural,assiderint,assideuerint,assiderint,assideierint,They may have sit byed
+Active Subjunctive,Pluperfect,1st Person,Singular,assideissem,assideuissem,assideissem,assideissem,I should have sit byed
+Active Subjunctive,Pluperfect,1st Person,Plural,assideissemus,assideuissemus,assideissemus,assideissemus,We should have sit byed
+Active Subjunctive,Pluperfect,2nd Person,Singular,assideisses,assideuisses,assideisses,assideisses,You would have sit byed
+Active Subjunctive,Pluperfect,2nd Person,Plural,assideissetis,assideuissetis,assideissetis,assideissetis,You (pl.) would have sit byed
+Active Subjunctive,Pluperfect,3rd Person,Singular,assideisset,assideuisset,assideisset,assideisset,He/she/it would have sit byed
+Active Subjunctive,Pluperfect,3rd Person,Plural,assideissent,assideuissent,assideissent,assideissent,They would have sit byed
+Passive Subjunctive,Present,1st Person,Singular,assider,assider,assidear,assidear,I may be sit byed
+Passive Subjunctive,Present,1st Person,Plural,assidemur,assidemur,assideamur,assideamur,We may be sit byed
+Passive Subjunctive,Present,2nd Person,Singular,assideris,assideris,assidearis,assidearis,You may be sit byed
+Passive Subjunctive,Present,2nd Person,Plural,assidemini,assidemini,assideamini,assideamini,You (pl.) may be sit byed
+Passive Subjunctive,Present,3rd Person,Singular,assidetur,assidetur,assideatur,assideatur,He/she/it may be sit byed
+Passive Subjunctive,Present,3rd Person,Plural,assidentur,assidentur,assideantur,assideantur,They may be sit byed
+Passive Subjunctive,Imperfect,1st Person,Singular,assidearer,assiderer,assiderer,assideirer,I should be sit byed
+Passive Subjunctive,Imperfect,1st Person,Plural,assidearemur,assideremur,assideremur,assideiremur,We should be sit byed
+Passive Subjunctive,Imperfect,2nd Person,Singular,assideareris,assidereris,assidereris,assideireris,You would be sit byed
+Passive Subjunctive,Imperfect,2nd Person,Plural,assidearemini,assideremini,assideremini,assideiremini,You (pl.) would be sit byed
+Passive Subjunctive,Imperfect,3rd Person,Singular,assidearetur,assideretur,assideretur,assideiretur,He/she/it would be sit byed
+Passive Subjunctive,Imperfect,3rd Person,Plural,assidearentur,assiderentur,assiderentur,assideirentur,They would be sit byed
+Passive Subjunctive,Perfect,1st Person,Singular,assideatus sim,assidetus sim,assideus sim,assideus sim,I may have been sit byed
+Passive Subjunctive,Perfect,1st Person,Plural,assideati simus,assideti simus,assidei simus,assidei simus,We may have been sit byed
+Passive Subjunctive,Perfect,2nd Person,Singular,assideatus sis,assidetus sis,assideus sis,assideus sis,You may have been sit byed
+Passive Subjunctive,Perfect,2nd Person,Plural,assideati sitis,assideti sitis,assidei sitis,assidei sitis,You (pl.) may have been sit byed
+Passive Subjunctive,Perfect,3rd Person,Singular,assideatus sit,assidetus sit,assideus sit,assideus sit,He/she/it may have been sit byed
+Passive Subjunctive,Perfect,3rd Person,Plural,assideati sint,assideti sint,assidei sint,assidei sint,They may have been sit byed
+Passive Subjunctive,Pluperfect,1st Person,Singular,assideatus essem,assidetus essem,assideus essem,assideus essem,I should have been sit byed
+Passive Subjunctive,Pluperfect,1st Person,Plural,assideati essemus,assideti essemus,assidei essemus,assidei essemus,We should have been sit byed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,assideatus esses,assidetus esses,assideus esses,assideus esses,You would have been sit byed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,assideati essetis,assideti essetis,assidei essetis,assidei essetis,You (pl.) would have been sit byed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,assideatus esset,assidetus esset,assideus esset,assideus esset,He/she/it would have been sit byed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,assideati essent,assideti essent,assidei essent,assidei essent,They would have been sit byed

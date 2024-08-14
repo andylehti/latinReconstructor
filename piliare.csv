@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,pilio,pilieo,pilio,pilio,I take
+Active Indicative,Present,1st Person,Plural,piliamus,piliemus,pilimus,pilimus,We take
+Active Indicative,Present,2nd Person,Singular,pilias,pilies,pilis,pilis,You take
+Active Indicative,Present,2nd Person,Plural,piliatis,pilietis,pilitis,pilitis,You (pl.) take
+Active Indicative,Present,3rd Person,Singular,piliat,piliet,pilit,pilit,He/she/it take
+Active Indicative,Present,3rd Person,Plural,piliant,pilient,piliunt,piliunt,They take
+Active Indicative,Imperfect,1st Person,Singular,piliabam,piliebam,piliebam,piliebam,I was takeing
+Active Indicative,Imperfect,1st Person,Plural,piliabamus,piliebamus,piliebamus,piliebamus,We were takeing
+Active Indicative,Imperfect,2nd Person,Singular,piliabas,piliebas,piliebas,piliebas,You were takeing
+Active Indicative,Imperfect,2nd Person,Plural,piliabatis,piliebatis,piliebatis,piliebatis,You (pl.) were takeing
+Active Indicative,Imperfect,3rd Person,Singular,piliabat,piliebat,piliebat,piliebat,He/she/it was takeing
+Active Indicative,Imperfect,3rd Person,Plural,piliabant,piliebant,piliebant,piliebant,They were takeing
+Active Indicative,Future,1st Person,Singular,piliabo,piliebo,piliam,piliam,I will take
+Active Indicative,Future,1st Person,Plural,piliabimus,piliebimus,piliemus,piliemus,We will take
+Active Indicative,Future,2nd Person,Singular,piliabis,piliebis,pilies,pilies,You will take
+Active Indicative,Future,2nd Person,Plural,piliabitis,piliebitis,pilietis,pilietis,You (pl.) will take
+Active Indicative,Future,3rd Person,Singular,piliabit,piliebit,piliet,piliet,He/she/it will take
+Active Indicative,Future,3rd Person,Plural,piliabunt,piliebunt,pilient,pilient,They will take
+Active Indicative,Perfect,1st Person,Singular,piliavi,piliui,pili,pili,I have takeed
+Active Indicative,Perfect,1st Person,Plural,piliavimus,piliuimus,pilimus,pilimus,We have takeed
+Active Indicative,Perfect,2nd Person,Singular,piliavisti,piliuisti,pilisti,pilisti,You have takeed
+Active Indicative,Perfect,2nd Person,Plural,piliavistis,piliuistis,pilistis,pilistis,You (pl.) have takeed
+Active Indicative,Perfect,3rd Person,Singular,piliavit,piliuit,pilit,pilit,He/she/it has takeed
+Active Indicative,Perfect,3rd Person,Plural,piliaverunt,piliuerunt,pilierunt,pilierunt,They have takeed
+Active Indicative,Pluperfect,1st Person,Singular,piliaveram,piliueram,pilieram,pilieram,I had takeed
+Active Indicative,Pluperfect,1st Person,Plural,piliaveramus,piliueramus,pilieramus,pilieramus,We had takeed
+Active Indicative,Pluperfect,2nd Person,Singular,piliaveras,piliueras,pilieras,pilieras,You had takeed
+Active Indicative,Pluperfect,2nd Person,Plural,piliaveratis,piliueratis,pilieratis,pilieratis,You (pl.) had takeed
+Active Indicative,Pluperfect,3rd Person,Singular,piliaverat,piliuerat,pilierat,pilierat,He/she/it had takeed
+Active Indicative,Pluperfect,3rd Person,Plural,piliaverant,piliuerant,pilierant,pilierant,They had takeed
+Active Indicative,Future Perfect,1st Person,Singular,piliavero,piliueero,piliero,piliero,I will have takeed
+Active Indicative,Future Perfect,1st Person,Plural,piliaverimus,piliuerimus,pilierimus,pilierimus,We will have takeed
+Active Indicative,Future Perfect,2nd Person,Singular,piliaveris,piliueris,pilieris,pilieris,You will have takeed
+Active Indicative,Future Perfect,2nd Person,Plural,piliaveritis,piliueritis,pilieritis,pilieritis,You (pl.) will have takeed
+Active Indicative,Future Perfect,3rd Person,Singular,piliaverit,piliuerit,pilierit,pilierit,He/she/it will have takeed
+Active Indicative,Future Perfect,3rd Person,Plural,piliaverint,piliuerint,pilierint,pilierint,They will have takeed
+Passive Indicative,Present,1st Person,Singular,pilior,pilieor,pilior,pilior,I am being takeed
+Passive Indicative,Present,1st Person,Plural,piliamur,piliemur,pilimur,pilimur,We are being takeed
+Passive Indicative,Present,2nd Person,Singular,piliaris,pilieris,piliris,piliris,You are being takeed
+Passive Indicative,Present,2nd Person,Plural,piliamini,piliemini,pilimini,pilimini,You (pl.) are being takeed
+Passive Indicative,Present,3rd Person,Singular,piliatur,pilietur,pilitur,pilitur,He/she/it is being takeed
+Passive Indicative,Present,3rd Person,Plural,piliantur,pilientur,piliuntur,piliuntur,They are being takeed
+Passive Indicative,Imperfect,1st Person,Singular,piliabar,piliebar,piliebar,piliebar,I was takeed
+Passive Indicative,Imperfect,1st Person,Plural,piliabamur,piliebamur,piliebamur,piliebamur,We were takeed
+Passive Indicative,Imperfect,2nd Person,Singular,piliabaris,piliebaris,piliebaris,piliebaris,You were takeed
+Passive Indicative,Imperfect,2nd Person,Plural,piliabamini,piliebamini,piliebamini,piliebamini,You (pl.) were takeed
+Passive Indicative,Imperfect,3rd Person,Singular,piliabatur,piliebatur,piliebatur,piliebatur,He/she/it was takeed
+Passive Indicative,Imperfect,3rd Person,Plural,piliabantur,piliebantur,piliebantur,piliebantur,They were takeed
+Passive Indicative,Future,1st Person,Singular,piliabor,piliebor,piliar,piliar,I will be takeed
+Passive Indicative,Future,1st Person,Plural,piliabimur,piliebimur,piliemur,piliemur,We will be takeed
+Passive Indicative,Future,2nd Person,Singular,piliaberis,pilieberis,pilieris,pilieris,You will be takeed
+Passive Indicative,Future,2nd Person,Plural,piliabimini,piliebimini,piliemini,piliemini,You (pl.) will be takeed
+Passive Indicative,Future,3rd Person,Singular,piliabitur,piliebitur,pilietur,pilietur,He/she/it will be takeed
+Passive Indicative,Future,3rd Person,Plural,piliabuntur,piliebuntur,pilientur,pilientur,They will be takeed
+Passive Indicative,Perfect,1st Person,Singular,piliatus sum,pilietus sum,pilius sum,pilius sum,I have been takeed
+Passive Indicative,Perfect,1st Person,Plural,piliati sumus,pilieti sumus,pili sumus,pili sumus,We have been takeed
+Passive Indicative,Perfect,2nd Person,Singular,piliatus es,pilietus es,pilius es,pilius es,You have been takeed
+Passive Indicative,Perfect,2nd Person,Plural,piliati estis,pilieti estis,pili estis,pili estis,You (pl.) have been takeed
+Passive Indicative,Perfect,3rd Person,Singular,piliatus est,pilietus est,pilius est,pilius est,He/she/it has been takeed
+Passive Indicative,Perfect,3rd Person,Plural,piliati sunt,pilieti sunt,pili sunt,pili sunt,They have been takeed
+Passive Indicative,Pluperfect,1st Person,Singular,piliatus eram,pilietus eram,pilius eram,pilius eram,I had been takeed
+Passive Indicative,Pluperfect,1st Person,Plural,piliati eramus,pilieti eramus,pili eramus,pili eramus,We had been takeed
+Passive Indicative,Pluperfect,2nd Person,Singular,piliatus eras,pilietus eras,pilius eras,pilius eras,You had been takeed
+Passive Indicative,Pluperfect,2nd Person,Plural,piliati eratis,pilieti eratis,pili eratis,pili eratis,You (pl.) had been takeed
+Passive Indicative,Pluperfect,3rd Person,Singular,piliatus erat,pilietus erat,pilius erat,pilius erat,He/she/it had been takeed
+Passive Indicative,Pluperfect,3rd Person,Plural,piliati erant,pilieti erant,pili erant,pili erant,They had been takeed
+Passive Indicative,Future Perfect,1st Person,Singular,piliatus ero,pilietus ero,pilius ero,pilius ero,I will have been takeed
+Passive Indicative,Future Perfect,1st Person,Plural,piliati erimus,pilieti erimus,pili erimus,pili erimus,We will have been takeed
+Passive Indicative,Future Perfect,2nd Person,Singular,piliatus eris,pilietus eris,pilius eris,pilius eris,You will have been takeed
+Passive Indicative,Future Perfect,2nd Person,Plural,piliati eritis,pilieti eritis,pili eritis,pili eritis,You (pl.) will have been takeed
+Passive Indicative,Future Perfect,3rd Person,Singular,piliatus erit,pilietus erit,pilius erit,pilius erit,He/she/it will have been takeed
+Passive Indicative,Future Perfect,3rd Person,Plural,piliati erunt,pilieti erunt,pili erunt,pili erunt,They will have been takeed
+Active Subjunctive,Present,1st Person,Singular,piliem,piliem,piliam,piliam,I may take
+Active Subjunctive,Present,1st Person,Plural,piliemus,piliemus,piliamus,piliamus,We may take
+Active Subjunctive,Present,2nd Person,Singular,pilies,pilies,pilias,pilias,You may take
+Active Subjunctive,Present,2nd Person,Plural,pilietis,pilietis,piliatis,piliatis,You (pl.) may take
+Active Subjunctive,Present,3rd Person,Singular,piliet,piliet,piliat,piliat,He/she/it may take
+Active Subjunctive,Present,3rd Person,Plural,pilient,pilient,piliant,piliant,They may take
+Active Subjunctive,Imperfect,1st Person,Singular,piliarem,pilierem,pilierem,pilirem,I should take
+Active Subjunctive,Imperfect,1st Person,Plural,piliaremus,pilieremus,pilieremus,piliremus,We should take
+Active Subjunctive,Imperfect,2nd Person,Singular,piliares,pilieres,pilieres,pilires,You should take
+Active Subjunctive,Imperfect,2nd Person,Plural,piliaretis,pilieretis,pilieretis,piliretis,You (pl.) should take
+Active Subjunctive,Imperfect,3rd Person,Singular,piliaret,pilieret,pilieret,piliret,He/she/it should take
+Active Subjunctive,Imperfect,3rd Person,Plural,piliarent,pilierent,pilierent,pilirent,They should take
+Active Subjunctive,Perfect,1st Person,Singular,pilierim,piliuerim,pilierim,pilierim,I may have takeed
+Active Subjunctive,Perfect,1st Person,Plural,pilierimus,piliuerimus,pilierimus,pilierimus,We may have takeed
+Active Subjunctive,Perfect,2nd Person,Singular,pilieris,piliueris,pilieris,pilieris,You may have takeed
+Active Subjunctive,Perfect,2nd Person,Plural,pilieritis,piliueritis,pilieritis,pilieritis,You (pl.) may have takeed
+Active Subjunctive,Perfect,3rd Person,Singular,pilierit,piliuerit,pilierit,pilierit,He/she/it may have takeed
+Active Subjunctive,Perfect,3rd Person,Plural,pilierint,piliuerint,pilierint,pilierint,They may have takeed
+Active Subjunctive,Pluperfect,1st Person,Singular,pilissem,piliuissem,pilissem,pilissem,I should have takeed
+Active Subjunctive,Pluperfect,1st Person,Plural,pilissemus,piliuissemus,pilissemus,pilissemus,We should have takeed
+Active Subjunctive,Pluperfect,2nd Person,Singular,pilisses,piliuisses,pilisses,pilisses,You would have takeed
+Active Subjunctive,Pluperfect,2nd Person,Plural,pilissetis,piliuissetis,pilissetis,pilissetis,You (pl.) would have takeed
+Active Subjunctive,Pluperfect,3rd Person,Singular,pilisset,piliuisset,pilisset,pilisset,He/she/it would have takeed
+Active Subjunctive,Pluperfect,3rd Person,Plural,pilissent,piliuissent,pilissent,pilissent,They would have takeed
+Passive Subjunctive,Present,1st Person,Singular,pilier,pilier,piliar,piliar,I may be takeed
+Passive Subjunctive,Present,1st Person,Plural,piliemur,piliemur,piliamur,piliamur,We may be takeed
+Passive Subjunctive,Present,2nd Person,Singular,pilieris,pilieris,piliaris,piliaris,You may be takeed
+Passive Subjunctive,Present,2nd Person,Plural,piliemini,piliemini,piliamini,piliamini,You (pl.) may be takeed
+Passive Subjunctive,Present,3rd Person,Singular,pilietur,pilietur,piliatur,piliatur,He/she/it may be takeed
+Passive Subjunctive,Present,3rd Person,Plural,pilientur,pilientur,piliantur,piliantur,They may be takeed
+Passive Subjunctive,Imperfect,1st Person,Singular,piliarer,pilierer,pilierer,pilirer,I should be takeed
+Passive Subjunctive,Imperfect,1st Person,Plural,piliaremur,pilieremur,pilieremur,piliremur,We should be takeed
+Passive Subjunctive,Imperfect,2nd Person,Singular,piliareris,piliereris,piliereris,pilireris,You would be takeed
+Passive Subjunctive,Imperfect,2nd Person,Plural,piliaremini,pilieremini,pilieremini,piliremini,You (pl.) would be takeed
+Passive Subjunctive,Imperfect,3rd Person,Singular,piliaretur,pilieretur,pilieretur,piliretur,He/she/it would be takeed
+Passive Subjunctive,Imperfect,3rd Person,Plural,piliarentur,pilierentur,pilierentur,pilirentur,They would be takeed
+Passive Subjunctive,Perfect,1st Person,Singular,piliatus sim,pilietus sim,pilius sim,pilius sim,I may have been takeed
+Passive Subjunctive,Perfect,1st Person,Plural,piliati simus,pilieti simus,pili simus,pili simus,We may have been takeed
+Passive Subjunctive,Perfect,2nd Person,Singular,piliatus sis,pilietus sis,pilius sis,pilius sis,You may have been takeed
+Passive Subjunctive,Perfect,2nd Person,Plural,piliati sitis,pilieti sitis,pili sitis,pili sitis,You (pl.) may have been takeed
+Passive Subjunctive,Perfect,3rd Person,Singular,piliatus sit,pilietus sit,pilius sit,pilius sit,He/she/it may have been takeed
+Passive Subjunctive,Perfect,3rd Person,Plural,piliati sint,pilieti sint,pili sint,pili sint,They may have been takeed
+Passive Subjunctive,Pluperfect,1st Person,Singular,piliatus essem,pilietus essem,pilius essem,pilius essem,I should have been takeed
+Passive Subjunctive,Pluperfect,1st Person,Plural,piliati essemus,pilieti essemus,pili essemus,pili essemus,We should have been takeed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,piliatus esses,pilietus esses,pilius esses,pilius esses,You would have been takeed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,piliati essetis,pilieti essetis,pili essetis,pili essetis,You (pl.) would have been takeed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,piliatus esset,pilietus esset,pilius esset,pilius esset,He/she/it would have been takeed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,piliati essent,pilieti essent,pili essent,pili essent,They would have been takeed

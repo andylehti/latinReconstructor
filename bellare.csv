@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,bello,belleo,bello,bellio,I wage war
+Active Indicative,Present,1st Person,Plural,bellamus,bellemus,bellimus,bellimus,We wage war
+Active Indicative,Present,2nd Person,Singular,bellas,belles,bellis,bellis,You wage war
+Active Indicative,Present,2nd Person,Plural,bellatis,belletis,bellitis,bellitis,You (pl.) wage war
+Active Indicative,Present,3rd Person,Singular,bellat,bellet,bellit,bellit,He/she/it wage war
+Active Indicative,Present,3rd Person,Plural,bellant,bellent,belliunt,belliunt,They wage war
+Active Indicative,Imperfect,1st Person,Singular,bellabam,bellebam,bellebam,belliebam,I was wage waring
+Active Indicative,Imperfect,1st Person,Plural,bellabamus,bellebamus,bellebamus,belliebamus,We were wage waring
+Active Indicative,Imperfect,2nd Person,Singular,bellabas,bellebas,bellebas,belliebas,You were wage waring
+Active Indicative,Imperfect,2nd Person,Plural,bellabatis,bellebatis,bellebatis,belliebatis,You (pl.) were wage waring
+Active Indicative,Imperfect,3rd Person,Singular,bellabat,bellebat,bellebat,belliebat,He/she/it was wage waring
+Active Indicative,Imperfect,3rd Person,Plural,bellabant,bellebant,bellebant,belliebant,They were wage waring
+Active Indicative,Future,1st Person,Singular,bellabo,bellebo,bellam,belliam,I will wage war
+Active Indicative,Future,1st Person,Plural,bellabimus,bellebimus,bellemus,belliemus,We will wage war
+Active Indicative,Future,2nd Person,Singular,bellabis,bellebis,belles,bellies,You will wage war
+Active Indicative,Future,2nd Person,Plural,bellabitis,bellebitis,belletis,bellietis,You (pl.) will wage war
+Active Indicative,Future,3rd Person,Singular,bellabit,bellebit,bellet,belliet,He/she/it will wage war
+Active Indicative,Future,3rd Person,Plural,bellabunt,bellebunt,bellent,bellient,They will wage war
+Active Indicative,Perfect,1st Person,Singular,bellavi,bellui,belli,belli,I have wage wared
+Active Indicative,Perfect,1st Person,Plural,bellavimus,belluimus,bellimus,bellimus,We have wage wared
+Active Indicative,Perfect,2nd Person,Singular,bellavisti,belluisti,bellisti,bellisti,You have wage wared
+Active Indicative,Perfect,2nd Person,Plural,bellavistis,belluistis,bellistis,bellistis,You (pl.) have wage wared
+Active Indicative,Perfect,3rd Person,Singular,bellavit,belluit,bellit,bellit,He/she/it has wage wared
+Active Indicative,Perfect,3rd Person,Plural,bellaverunt,belluerunt,bellerunt,bellerunt,They have wage wared
+Active Indicative,Pluperfect,1st Person,Singular,bellaveram,bellueram,belleram,belleram,I had wage wared
+Active Indicative,Pluperfect,1st Person,Plural,bellaveramus,bellueramus,belleramus,belleramus,We had wage wared
+Active Indicative,Pluperfect,2nd Person,Singular,bellaveras,bellueras,belleras,belleras,You had wage wared
+Active Indicative,Pluperfect,2nd Person,Plural,bellaveratis,bellueratis,belleratis,belleratis,You (pl.) had wage wared
+Active Indicative,Pluperfect,3rd Person,Singular,bellaverat,belluerat,bellerat,bellerat,He/she/it had wage wared
+Active Indicative,Pluperfect,3rd Person,Plural,bellaverant,belluerant,bellerant,bellerant,They had wage wared
+Active Indicative,Future Perfect,1st Person,Singular,bellavero,bellueero,bellero,belliero,I will have wage wared
+Active Indicative,Future Perfect,1st Person,Plural,bellaverimus,belluerimus,bellerimus,bellierimus,We will have wage wared
+Active Indicative,Future Perfect,2nd Person,Singular,bellaveris,bellueris,belleris,bellieris,You will have wage wared
+Active Indicative,Future Perfect,2nd Person,Plural,bellaveritis,bellueritis,belleritis,bellieritis,You (pl.) will have wage wared
+Active Indicative,Future Perfect,3rd Person,Singular,bellaverit,belluerit,bellerit,bellierit,He/she/it will have wage wared
+Active Indicative,Future Perfect,3rd Person,Plural,bellaverint,belluerint,bellerint,bellierint,They will have wage wared
+Passive Indicative,Present,1st Person,Singular,bellor,belleor,bellor,bellior,I am being wage wared
+Passive Indicative,Present,1st Person,Plural,bellamur,bellemur,bellimur,bellimur,We are being wage wared
+Passive Indicative,Present,2nd Person,Singular,bellaris,belleris,belliris,belliris,You are being wage wared
+Passive Indicative,Present,2nd Person,Plural,bellamini,bellemini,bellimini,bellimini,You (pl.) are being wage wared
+Passive Indicative,Present,3rd Person,Singular,bellatur,belletur,bellitur,bellitur,He/she/it is being wage wared
+Passive Indicative,Present,3rd Person,Plural,bellantur,bellentur,belliuntur,belliuntur,They are being wage wared
+Passive Indicative,Imperfect,1st Person,Singular,bellabar,bellebar,bellebar,belliebar,I was wage wared
+Passive Indicative,Imperfect,1st Person,Plural,bellabamur,bellebamur,bellebamur,belliebamur,We were wage wared
+Passive Indicative,Imperfect,2nd Person,Singular,bellabaris,bellebaris,bellebaris,belliebaris,You were wage wared
+Passive Indicative,Imperfect,2nd Person,Plural,bellabamini,bellebamini,bellebamini,belliebamini,You (pl.) were wage wared
+Passive Indicative,Imperfect,3rd Person,Singular,bellabatur,bellebatur,bellebatur,belliebatur,He/she/it was wage wared
+Passive Indicative,Imperfect,3rd Person,Plural,bellabantur,bellebantur,bellebantur,belliebantur,They were wage wared
+Passive Indicative,Future,1st Person,Singular,bellabor,bellebor,bellar,belliar,I will be wage wared
+Passive Indicative,Future,1st Person,Plural,bellabimur,bellebimur,bellemur,belliemur,We will be wage wared
+Passive Indicative,Future,2nd Person,Singular,bellaberis,belleberis,belleris,bellieris,You will be wage wared
+Passive Indicative,Future,2nd Person,Plural,bellabimini,bellebimini,bellemini,belliemini,You (pl.) will be wage wared
+Passive Indicative,Future,3rd Person,Singular,bellabitur,bellebitur,belletur,bellietur,He/she/it will be wage wared
+Passive Indicative,Future,3rd Person,Plural,bellabuntur,bellebuntur,bellentur,bellientur,They will be wage wared
+Passive Indicative,Perfect,1st Person,Singular,bellatus sum,belletus sum,bellus sum,bellus sum,I have been wage wared
+Passive Indicative,Perfect,1st Person,Plural,bellati sumus,belleti sumus,belli sumus,belli sumus,We have been wage wared
+Passive Indicative,Perfect,2nd Person,Singular,bellatus es,belletus es,bellus es,bellus es,You have been wage wared
+Passive Indicative,Perfect,2nd Person,Plural,bellati estis,belleti estis,belli estis,belli estis,You (pl.) have been wage wared
+Passive Indicative,Perfect,3rd Person,Singular,bellatus est,belletus est,bellus est,bellus est,He/she/it has been wage wared
+Passive Indicative,Perfect,3rd Person,Plural,bellati sunt,belleti sunt,belli sunt,belli sunt,They have been wage wared
+Passive Indicative,Pluperfect,1st Person,Singular,bellatus eram,belletus eram,bellus eram,bellus eram,I had been wage wared
+Passive Indicative,Pluperfect,1st Person,Plural,bellati eramus,belleti eramus,belli eramus,belli eramus,We had been wage wared
+Passive Indicative,Pluperfect,2nd Person,Singular,bellatus eras,belletus eras,bellus eras,bellus eras,You had been wage wared
+Passive Indicative,Pluperfect,2nd Person,Plural,bellati eratis,belleti eratis,belli eratis,belli eratis,You (pl.) had been wage wared
+Passive Indicative,Pluperfect,3rd Person,Singular,bellatus erat,belletus erat,bellus erat,bellus erat,He/she/it had been wage wared
+Passive Indicative,Pluperfect,3rd Person,Plural,bellati erant,belleti erant,belli erant,belli erant,They had been wage wared
+Passive Indicative,Future Perfect,1st Person,Singular,bellatus ero,belletus ero,bellus ero,bellus ero,I will have been wage wared
+Passive Indicative,Future Perfect,1st Person,Plural,bellati erimus,belleti erimus,belli erimus,belli erimus,We will have been wage wared
+Passive Indicative,Future Perfect,2nd Person,Singular,bellatus eris,belletus eris,bellus eris,bellus eris,You will have been wage wared
+Passive Indicative,Future Perfect,2nd Person,Plural,bellati eritis,belleti eritis,belli eritis,belli eritis,You (pl.) will have been wage wared
+Passive Indicative,Future Perfect,3rd Person,Singular,bellatus erit,belletus erit,bellus erit,bellus erit,He/she/it will have been wage wared
+Passive Indicative,Future Perfect,3rd Person,Plural,bellati erunt,belleti erunt,belli erunt,belli erunt,They will have been wage wared
+Active Subjunctive,Present,1st Person,Singular,bellem,bellem,bellam,bellam,I may wage war
+Active Subjunctive,Present,1st Person,Plural,bellemus,bellemus,bellamus,bellamus,We may wage war
+Active Subjunctive,Present,2nd Person,Singular,belles,belles,bellas,bellas,You may wage war
+Active Subjunctive,Present,2nd Person,Plural,belletis,belletis,bellatis,bellatis,You (pl.) may wage war
+Active Subjunctive,Present,3rd Person,Singular,bellet,bellet,bellat,bellat,He/she/it may wage war
+Active Subjunctive,Present,3rd Person,Plural,bellent,bellent,bellant,bellant,They may wage war
+Active Subjunctive,Imperfect,1st Person,Singular,bellarem,bellerem,bellerem,bellirem,I should wage war
+Active Subjunctive,Imperfect,1st Person,Plural,bellaremus,belleremus,belleremus,belliremus,We should wage war
+Active Subjunctive,Imperfect,2nd Person,Singular,bellares,belleres,belleres,bellires,You should wage war
+Active Subjunctive,Imperfect,2nd Person,Plural,bellaretis,belleretis,belleretis,belliretis,You (pl.) should wage war
+Active Subjunctive,Imperfect,3rd Person,Singular,bellaret,belleret,belleret,belliret,He/she/it should wage war
+Active Subjunctive,Imperfect,3rd Person,Plural,bellarent,bellerent,bellerent,bellirent,They should wage war
+Active Subjunctive,Perfect,1st Person,Singular,bellerim,belluerim,bellerim,bellierim,I may have wage wared
+Active Subjunctive,Perfect,1st Person,Plural,bellerimus,belluerimus,bellerimus,bellierimus,We may have wage wared
+Active Subjunctive,Perfect,2nd Person,Singular,belleris,bellueris,belleris,bellieris,You may have wage wared
+Active Subjunctive,Perfect,2nd Person,Plural,belleritis,bellueritis,belleritis,bellieritis,You (pl.) may have wage wared
+Active Subjunctive,Perfect,3rd Person,Singular,bellerit,belluerit,bellerit,bellierit,He/she/it may have wage wared
+Active Subjunctive,Perfect,3rd Person,Plural,bellerint,belluerint,bellerint,bellierint,They may have wage wared
+Active Subjunctive,Pluperfect,1st Person,Singular,bellissem,belluissem,bellissem,bellissem,I should have wage wared
+Active Subjunctive,Pluperfect,1st Person,Plural,bellissemus,belluissemus,bellissemus,bellissemus,We should have wage wared
+Active Subjunctive,Pluperfect,2nd Person,Singular,bellisses,belluisses,bellisses,bellisses,You would have wage wared
+Active Subjunctive,Pluperfect,2nd Person,Plural,bellissetis,belluissetis,bellissetis,bellissetis,You (pl.) would have wage wared
+Active Subjunctive,Pluperfect,3rd Person,Singular,bellisset,belluisset,bellisset,bellisset,He/she/it would have wage wared
+Active Subjunctive,Pluperfect,3rd Person,Plural,bellissent,belluissent,bellissent,bellissent,They would have wage wared
+Passive Subjunctive,Present,1st Person,Singular,beller,beller,bellar,bellar,I may be wage wared
+Passive Subjunctive,Present,1st Person,Plural,bellemur,bellemur,bellamur,bellamur,We may be wage wared
+Passive Subjunctive,Present,2nd Person,Singular,belleris,belleris,bellaris,bellaris,You may be wage wared
+Passive Subjunctive,Present,2nd Person,Plural,bellemini,bellemini,bellamini,bellamini,You (pl.) may be wage wared
+Passive Subjunctive,Present,3rd Person,Singular,belletur,belletur,bellatur,bellatur,He/she/it may be wage wared
+Passive Subjunctive,Present,3rd Person,Plural,bellentur,bellentur,bellantur,bellantur,They may be wage wared
+Passive Subjunctive,Imperfect,1st Person,Singular,bellarer,bellerer,bellerer,bellirer,I should be wage wared
+Passive Subjunctive,Imperfect,1st Person,Plural,bellaremur,belleremur,belleremur,belliremur,We should be wage wared
+Passive Subjunctive,Imperfect,2nd Person,Singular,bellareris,bellereris,bellereris,bellireris,You would be wage wared
+Passive Subjunctive,Imperfect,2nd Person,Plural,bellaremini,belleremini,belleremini,belliremini,You (pl.) would be wage wared
+Passive Subjunctive,Imperfect,3rd Person,Singular,bellaretur,belleretur,belleretur,belliretur,He/she/it would be wage wared
+Passive Subjunctive,Imperfect,3rd Person,Plural,bellarentur,bellerentur,bellerentur,bellirentur,They would be wage wared
+Passive Subjunctive,Perfect,1st Person,Singular,bellatus sim,belletus sim,bellus sim,bellus sim,I may have been wage wared
+Passive Subjunctive,Perfect,1st Person,Plural,bellati simus,belleti simus,belli simus,belli simus,We may have been wage wared
+Passive Subjunctive,Perfect,2nd Person,Singular,bellatus sis,belletus sis,bellus sis,bellus sis,You may have been wage wared
+Passive Subjunctive,Perfect,2nd Person,Plural,bellati sitis,belleti sitis,belli sitis,belli sitis,You (pl.) may have been wage wared
+Passive Subjunctive,Perfect,3rd Person,Singular,bellatus sit,belletus sit,bellus sit,bellus sit,He/she/it may have been wage wared
+Passive Subjunctive,Perfect,3rd Person,Plural,bellati sint,belleti sint,belli sint,belli sint,They may have been wage wared
+Passive Subjunctive,Pluperfect,1st Person,Singular,bellatus essem,belletus essem,bellus essem,bellus essem,I should have been wage wared
+Passive Subjunctive,Pluperfect,1st Person,Plural,bellati essemus,belleti essemus,belli essemus,belli essemus,We should have been wage wared
+Passive Subjunctive,Pluperfect,2nd Person,Singular,bellatus esses,belletus esses,bellus esses,bellus esses,You would have been wage wared
+Passive Subjunctive,Pluperfect,2nd Person,Plural,bellati essetis,belleti essetis,belli essetis,belli essetis,You (pl.) would have been wage wared
+Passive Subjunctive,Pluperfect,3rd Person,Singular,bellatus esset,belletus esset,bellus esset,bellus esset,He/she/it would have been wage wared
+Passive Subjunctive,Pluperfect,3rd Person,Plural,bellati essent,belleti essent,belli essent,belli essent,They would have been wage wared

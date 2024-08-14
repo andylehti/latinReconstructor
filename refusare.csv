@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,refuso,refuseo,refuso,refusio,I refuse
+Active Indicative,Present,1st Person,Plural,refusamus,refusemus,refusimus,refusimus,We refuse
+Active Indicative,Present,2nd Person,Singular,refusas,refuses,refusis,refusis,You refuse
+Active Indicative,Present,2nd Person,Plural,refusatis,refusetis,refusitis,refusitis,You (pl.) refuse
+Active Indicative,Present,3rd Person,Singular,refusat,refuset,refusit,refusit,He/she/it refuse
+Active Indicative,Present,3rd Person,Plural,refusant,refusent,refusiunt,refusiunt,They refuse
+Active Indicative,Imperfect,1st Person,Singular,refusabam,refusebam,refusebam,refusiebam,I was refuseing
+Active Indicative,Imperfect,1st Person,Plural,refusabamus,refusebamus,refusebamus,refusiebamus,We were refuseing
+Active Indicative,Imperfect,2nd Person,Singular,refusabas,refusebas,refusebas,refusiebas,You were refuseing
+Active Indicative,Imperfect,2nd Person,Plural,refusabatis,refusebatis,refusebatis,refusiebatis,You (pl.) were refuseing
+Active Indicative,Imperfect,3rd Person,Singular,refusabat,refusebat,refusebat,refusiebat,He/she/it was refuseing
+Active Indicative,Imperfect,3rd Person,Plural,refusabant,refusebant,refusebant,refusiebant,They were refuseing
+Active Indicative,Future,1st Person,Singular,refusabo,refusebo,refusam,refusiam,I will refuse
+Active Indicative,Future,1st Person,Plural,refusabimus,refusebimus,refusemus,refusiemus,We will refuse
+Active Indicative,Future,2nd Person,Singular,refusabis,refusebis,refuses,refusies,You will refuse
+Active Indicative,Future,2nd Person,Plural,refusabitis,refusebitis,refusetis,refusietis,You (pl.) will refuse
+Active Indicative,Future,3rd Person,Singular,refusabit,refusebit,refuset,refusiet,He/she/it will refuse
+Active Indicative,Future,3rd Person,Plural,refusabunt,refusebunt,refusent,refusient,They will refuse
+Active Indicative,Perfect,1st Person,Singular,refusavi,refusui,refusi,refusi,I have refuseed
+Active Indicative,Perfect,1st Person,Plural,refusavimus,refusuimus,refusimus,refusimus,We have refuseed
+Active Indicative,Perfect,2nd Person,Singular,refusavisti,refusuisti,refusisti,refusisti,You have refuseed
+Active Indicative,Perfect,2nd Person,Plural,refusavistis,refusuistis,refusistis,refusistis,You (pl.) have refuseed
+Active Indicative,Perfect,3rd Person,Singular,refusavit,refusuit,refusit,refusit,He/she/it has refuseed
+Active Indicative,Perfect,3rd Person,Plural,refusaverunt,refusuerunt,refuserunt,refuserunt,They have refuseed
+Active Indicative,Pluperfect,1st Person,Singular,refusaveram,refusueram,refuseram,refuseram,I had refuseed
+Active Indicative,Pluperfect,1st Person,Plural,refusaveramus,refusueramus,refuseramus,refuseramus,We had refuseed
+Active Indicative,Pluperfect,2nd Person,Singular,refusaveras,refusueras,refuseras,refuseras,You had refuseed
+Active Indicative,Pluperfect,2nd Person,Plural,refusaveratis,refusueratis,refuseratis,refuseratis,You (pl.) had refuseed
+Active Indicative,Pluperfect,3rd Person,Singular,refusaverat,refusuerat,refuserat,refuserat,He/she/it had refuseed
+Active Indicative,Pluperfect,3rd Person,Plural,refusaverant,refusuerant,refuserant,refuserant,They had refuseed
+Active Indicative,Future Perfect,1st Person,Singular,refusavero,refusueero,refusero,refusiero,I will have refuseed
+Active Indicative,Future Perfect,1st Person,Plural,refusaverimus,refusuerimus,refuserimus,refusierimus,We will have refuseed
+Active Indicative,Future Perfect,2nd Person,Singular,refusaveris,refusueris,refuseris,refusieris,You will have refuseed
+Active Indicative,Future Perfect,2nd Person,Plural,refusaveritis,refusueritis,refuseritis,refusieritis,You (pl.) will have refuseed
+Active Indicative,Future Perfect,3rd Person,Singular,refusaverit,refusuerit,refuserit,refusierit,He/she/it will have refuseed
+Active Indicative,Future Perfect,3rd Person,Plural,refusaverint,refusuerint,refuserint,refusierint,They will have refuseed
+Passive Indicative,Present,1st Person,Singular,refusor,refuseor,refusor,refusior,I am being refuseed
+Passive Indicative,Present,1st Person,Plural,refusamur,refusemur,refusimur,refusimur,We are being refuseed
+Passive Indicative,Present,2nd Person,Singular,refusaris,refuseris,refusiris,refusiris,You are being refuseed
+Passive Indicative,Present,2nd Person,Plural,refusamini,refusemini,refusimini,refusimini,You (pl.) are being refuseed
+Passive Indicative,Present,3rd Person,Singular,refusatur,refusetur,refusitur,refusitur,He/she/it is being refuseed
+Passive Indicative,Present,3rd Person,Plural,refusantur,refusentur,refusiuntur,refusiuntur,They are being refuseed
+Passive Indicative,Imperfect,1st Person,Singular,refusabar,refusebar,refusebar,refusiebar,I was refuseed
+Passive Indicative,Imperfect,1st Person,Plural,refusabamur,refusebamur,refusebamur,refusiebamur,We were refuseed
+Passive Indicative,Imperfect,2nd Person,Singular,refusabaris,refusebaris,refusebaris,refusiebaris,You were refuseed
+Passive Indicative,Imperfect,2nd Person,Plural,refusabamini,refusebamini,refusebamini,refusiebamini,You (pl.) were refuseed
+Passive Indicative,Imperfect,3rd Person,Singular,refusabatur,refusebatur,refusebatur,refusiebatur,He/she/it was refuseed
+Passive Indicative,Imperfect,3rd Person,Plural,refusabantur,refusebantur,refusebantur,refusiebantur,They were refuseed
+Passive Indicative,Future,1st Person,Singular,refusabor,refusebor,refusar,refusiar,I will be refuseed
+Passive Indicative,Future,1st Person,Plural,refusabimur,refusebimur,refusemur,refusiemur,We will be refuseed
+Passive Indicative,Future,2nd Person,Singular,refusaberis,refuseberis,refuseris,refusieris,You will be refuseed
+Passive Indicative,Future,2nd Person,Plural,refusabimini,refusebimini,refusemini,refusiemini,You (pl.) will be refuseed
+Passive Indicative,Future,3rd Person,Singular,refusabitur,refusebitur,refusetur,refusietur,He/she/it will be refuseed
+Passive Indicative,Future,3rd Person,Plural,refusabuntur,refusebuntur,refusentur,refusientur,They will be refuseed
+Passive Indicative,Perfect,1st Person,Singular,refusatus sum,refusetus sum,refusus sum,refusus sum,I have been refuseed
+Passive Indicative,Perfect,1st Person,Plural,refusati sumus,refuseti sumus,refusi sumus,refusi sumus,We have been refuseed
+Passive Indicative,Perfect,2nd Person,Singular,refusatus es,refusetus es,refusus es,refusus es,You have been refuseed
+Passive Indicative,Perfect,2nd Person,Plural,refusati estis,refuseti estis,refusi estis,refusi estis,You (pl.) have been refuseed
+Passive Indicative,Perfect,3rd Person,Singular,refusatus est,refusetus est,refusus est,refusus est,He/she/it has been refuseed
+Passive Indicative,Perfect,3rd Person,Plural,refusati sunt,refuseti sunt,refusi sunt,refusi sunt,They have been refuseed
+Passive Indicative,Pluperfect,1st Person,Singular,refusatus eram,refusetus eram,refusus eram,refusus eram,I had been refuseed
+Passive Indicative,Pluperfect,1st Person,Plural,refusati eramus,refuseti eramus,refusi eramus,refusi eramus,We had been refuseed
+Passive Indicative,Pluperfect,2nd Person,Singular,refusatus eras,refusetus eras,refusus eras,refusus eras,You had been refuseed
+Passive Indicative,Pluperfect,2nd Person,Plural,refusati eratis,refuseti eratis,refusi eratis,refusi eratis,You (pl.) had been refuseed
+Passive Indicative,Pluperfect,3rd Person,Singular,refusatus erat,refusetus erat,refusus erat,refusus erat,He/she/it had been refuseed
+Passive Indicative,Pluperfect,3rd Person,Plural,refusati erant,refuseti erant,refusi erant,refusi erant,They had been refuseed
+Passive Indicative,Future Perfect,1st Person,Singular,refusatus ero,refusetus ero,refusus ero,refusus ero,I will have been refuseed
+Passive Indicative,Future Perfect,1st Person,Plural,refusati erimus,refuseti erimus,refusi erimus,refusi erimus,We will have been refuseed
+Passive Indicative,Future Perfect,2nd Person,Singular,refusatus eris,refusetus eris,refusus eris,refusus eris,You will have been refuseed
+Passive Indicative,Future Perfect,2nd Person,Plural,refusati eritis,refuseti eritis,refusi eritis,refusi eritis,You (pl.) will have been refuseed
+Passive Indicative,Future Perfect,3rd Person,Singular,refusatus erit,refusetus erit,refusus erit,refusus erit,He/she/it will have been refuseed
+Passive Indicative,Future Perfect,3rd Person,Plural,refusati erunt,refuseti erunt,refusi erunt,refusi erunt,They will have been refuseed
+Active Subjunctive,Present,1st Person,Singular,refusem,refusem,refusam,refusam,I may refuse
+Active Subjunctive,Present,1st Person,Plural,refusemus,refusemus,refusamus,refusamus,We may refuse
+Active Subjunctive,Present,2nd Person,Singular,refuses,refuses,refusas,refusas,You may refuse
+Active Subjunctive,Present,2nd Person,Plural,refusetis,refusetis,refusatis,refusatis,You (pl.) may refuse
+Active Subjunctive,Present,3rd Person,Singular,refuset,refuset,refusat,refusat,He/she/it may refuse
+Active Subjunctive,Present,3rd Person,Plural,refusent,refusent,refusant,refusant,They may refuse
+Active Subjunctive,Imperfect,1st Person,Singular,refusarem,refuserem,refuserem,refusirem,I should refuse
+Active Subjunctive,Imperfect,1st Person,Plural,refusaremus,refuseremus,refuseremus,refusiremus,We should refuse
+Active Subjunctive,Imperfect,2nd Person,Singular,refusares,refuseres,refuseres,refusires,You should refuse
+Active Subjunctive,Imperfect,2nd Person,Plural,refusaretis,refuseretis,refuseretis,refusiretis,You (pl.) should refuse
+Active Subjunctive,Imperfect,3rd Person,Singular,refusaret,refuseret,refuseret,refusiret,He/she/it should refuse
+Active Subjunctive,Imperfect,3rd Person,Plural,refusarent,refuserent,refuserent,refusirent,They should refuse
+Active Subjunctive,Perfect,1st Person,Singular,refuserim,refusuerim,refuserim,refusierim,I may have refuseed
+Active Subjunctive,Perfect,1st Person,Plural,refuserimus,refusuerimus,refuserimus,refusierimus,We may have refuseed
+Active Subjunctive,Perfect,2nd Person,Singular,refuseris,refusueris,refuseris,refusieris,You may have refuseed
+Active Subjunctive,Perfect,2nd Person,Plural,refuseritis,refusueritis,refuseritis,refusieritis,You (pl.) may have refuseed
+Active Subjunctive,Perfect,3rd Person,Singular,refuserit,refusuerit,refuserit,refusierit,He/she/it may have refuseed
+Active Subjunctive,Perfect,3rd Person,Plural,refuserint,refusuerint,refuserint,refusierint,They may have refuseed
+Active Subjunctive,Pluperfect,1st Person,Singular,refusissem,refusuissem,refusissem,refusissem,I should have refuseed
+Active Subjunctive,Pluperfect,1st Person,Plural,refusissemus,refusuissemus,refusissemus,refusissemus,We should have refuseed
+Active Subjunctive,Pluperfect,2nd Person,Singular,refusisses,refusuisses,refusisses,refusisses,You would have refuseed
+Active Subjunctive,Pluperfect,2nd Person,Plural,refusissetis,refusuissetis,refusissetis,refusissetis,You (pl.) would have refuseed
+Active Subjunctive,Pluperfect,3rd Person,Singular,refusisset,refusuisset,refusisset,refusisset,He/she/it would have refuseed
+Active Subjunctive,Pluperfect,3rd Person,Plural,refusissent,refusuissent,refusissent,refusissent,They would have refuseed
+Passive Subjunctive,Present,1st Person,Singular,refuser,refuser,refusar,refusar,I may be refuseed
+Passive Subjunctive,Present,1st Person,Plural,refusemur,refusemur,refusamur,refusamur,We may be refuseed
+Passive Subjunctive,Present,2nd Person,Singular,refuseris,refuseris,refusaris,refusaris,You may be refuseed
+Passive Subjunctive,Present,2nd Person,Plural,refusemini,refusemini,refusamini,refusamini,You (pl.) may be refuseed
+Passive Subjunctive,Present,3rd Person,Singular,refusetur,refusetur,refusatur,refusatur,He/she/it may be refuseed
+Passive Subjunctive,Present,3rd Person,Plural,refusentur,refusentur,refusantur,refusantur,They may be refuseed
+Passive Subjunctive,Imperfect,1st Person,Singular,refusarer,refuserer,refuserer,refusirer,I should be refuseed
+Passive Subjunctive,Imperfect,1st Person,Plural,refusaremur,refuseremur,refuseremur,refusiremur,We should be refuseed
+Passive Subjunctive,Imperfect,2nd Person,Singular,refusareris,refusereris,refusereris,refusireris,You would be refuseed
+Passive Subjunctive,Imperfect,2nd Person,Plural,refusaremini,refuseremini,refuseremini,refusiremini,You (pl.) would be refuseed
+Passive Subjunctive,Imperfect,3rd Person,Singular,refusaretur,refuseretur,refuseretur,refusiretur,He/she/it would be refuseed
+Passive Subjunctive,Imperfect,3rd Person,Plural,refusarentur,refuserentur,refuserentur,refusirentur,They would be refuseed
+Passive Subjunctive,Perfect,1st Person,Singular,refusatus sim,refusetus sim,refusus sim,refusus sim,I may have been refuseed
+Passive Subjunctive,Perfect,1st Person,Plural,refusati simus,refuseti simus,refusi simus,refusi simus,We may have been refuseed
+Passive Subjunctive,Perfect,2nd Person,Singular,refusatus sis,refusetus sis,refusus sis,refusus sis,You may have been refuseed
+Passive Subjunctive,Perfect,2nd Person,Plural,refusati sitis,refuseti sitis,refusi sitis,refusi sitis,You (pl.) may have been refuseed
+Passive Subjunctive,Perfect,3rd Person,Singular,refusatus sit,refusetus sit,refusus sit,refusus sit,He/she/it may have been refuseed
+Passive Subjunctive,Perfect,3rd Person,Plural,refusati sint,refuseti sint,refusi sint,refusi sint,They may have been refuseed
+Passive Subjunctive,Pluperfect,1st Person,Singular,refusatus essem,refusetus essem,refusus essem,refusus essem,I should have been refuseed
+Passive Subjunctive,Pluperfect,1st Person,Plural,refusati essemus,refuseti essemus,refusi essemus,refusi essemus,We should have been refuseed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,refusatus esses,refusetus esses,refusus esses,refusus esses,You would have been refuseed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,refusati essetis,refuseti essetis,refusi essetis,refusi essetis,You (pl.) would have been refuseed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,refusatus esset,refusetus esset,refusus esset,refusus esset,He/she/it would have been refuseed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,refusati essent,refuseti essent,refusi essent,refusi essent,They would have been refuseed

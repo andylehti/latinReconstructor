@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,trudico,trudiceo,trudico,trudicio,I shove
+Active Indicative,Present,1st Person,Plural,trudicamus,trudicemus,trudicimus,trudicimus,We shove
+Active Indicative,Present,2nd Person,Singular,trudicas,trudices,trudicis,trudicis,You shove
+Active Indicative,Present,2nd Person,Plural,trudicatis,trudicetis,trudicitis,trudicitis,You (pl.) shove
+Active Indicative,Present,3rd Person,Singular,trudicat,trudicet,trudicit,trudicit,He/she/it shove
+Active Indicative,Present,3rd Person,Plural,trudicant,trudicent,trudiciunt,trudiciunt,They shove
+Active Indicative,Imperfect,1st Person,Singular,trudicabam,trudicebam,trudicebam,trudiciebam,I was shoveing
+Active Indicative,Imperfect,1st Person,Plural,trudicabamus,trudicebamus,trudicebamus,trudiciebamus,We were shoveing
+Active Indicative,Imperfect,2nd Person,Singular,trudicabas,trudicebas,trudicebas,trudiciebas,You were shoveing
+Active Indicative,Imperfect,2nd Person,Plural,trudicabatis,trudicebatis,trudicebatis,trudiciebatis,You (pl.) were shoveing
+Active Indicative,Imperfect,3rd Person,Singular,trudicabat,trudicebat,trudicebat,trudiciebat,He/she/it was shoveing
+Active Indicative,Imperfect,3rd Person,Plural,trudicabant,trudicebant,trudicebant,trudiciebant,They were shoveing
+Active Indicative,Future,1st Person,Singular,trudicabo,trudicebo,trudicam,trudiciam,I will shove
+Active Indicative,Future,1st Person,Plural,trudicabimus,trudicebimus,trudicemus,trudiciemus,We will shove
+Active Indicative,Future,2nd Person,Singular,trudicabis,trudicebis,trudices,trudicies,You will shove
+Active Indicative,Future,2nd Person,Plural,trudicabitis,trudicebitis,trudicetis,trudicietis,You (pl.) will shove
+Active Indicative,Future,3rd Person,Singular,trudicabit,trudicebit,trudicet,trudiciet,He/she/it will shove
+Active Indicative,Future,3rd Person,Plural,trudicabunt,trudicebunt,trudicent,trudicient,They will shove
+Active Indicative,Perfect,1st Person,Singular,trudicavi,trudicui,trudici,trudici,I have shoveed
+Active Indicative,Perfect,1st Person,Plural,trudicavimus,trudicuimus,trudicimus,trudicimus,We have shoveed
+Active Indicative,Perfect,2nd Person,Singular,trudicavisti,trudicuisti,trudicisti,trudicisti,You have shoveed
+Active Indicative,Perfect,2nd Person,Plural,trudicavistis,trudicuistis,trudicistis,trudicistis,You (pl.) have shoveed
+Active Indicative,Perfect,3rd Person,Singular,trudicavit,trudicuit,trudicit,trudicit,He/she/it has shoveed
+Active Indicative,Perfect,3rd Person,Plural,trudicaverunt,trudicuerunt,trudicerunt,trudicerunt,They have shoveed
+Active Indicative,Pluperfect,1st Person,Singular,trudicaveram,trudicueram,trudiceram,trudiceram,I had shoveed
+Active Indicative,Pluperfect,1st Person,Plural,trudicaveramus,trudicueramus,trudiceramus,trudiceramus,We had shoveed
+Active Indicative,Pluperfect,2nd Person,Singular,trudicaveras,trudicueras,trudiceras,trudiceras,You had shoveed
+Active Indicative,Pluperfect,2nd Person,Plural,trudicaveratis,trudicueratis,trudiceratis,trudiceratis,You (pl.) had shoveed
+Active Indicative,Pluperfect,3rd Person,Singular,trudicaverat,trudicuerat,trudicerat,trudicerat,He/she/it had shoveed
+Active Indicative,Pluperfect,3rd Person,Plural,trudicaverant,trudicuerant,trudicerant,trudicerant,They had shoveed
+Active Indicative,Future Perfect,1st Person,Singular,trudicavero,trudicueero,trudicero,trudiciero,I will have shoveed
+Active Indicative,Future Perfect,1st Person,Plural,trudicaverimus,trudicuerimus,trudicerimus,trudicierimus,We will have shoveed
+Active Indicative,Future Perfect,2nd Person,Singular,trudicaveris,trudicueris,trudiceris,trudicieris,You will have shoveed
+Active Indicative,Future Perfect,2nd Person,Plural,trudicaveritis,trudicueritis,trudiceritis,trudicieritis,You (pl.) will have shoveed
+Active Indicative,Future Perfect,3rd Person,Singular,trudicaverit,trudicuerit,trudicerit,trudicierit,He/she/it will have shoveed
+Active Indicative,Future Perfect,3rd Person,Plural,trudicaverint,trudicuerint,trudicerint,trudicierint,They will have shoveed
+Passive Indicative,Present,1st Person,Singular,trudicor,trudiceor,trudicor,trudicior,I am being shoveed
+Passive Indicative,Present,1st Person,Plural,trudicamur,trudicemur,trudicimur,trudicimur,We are being shoveed
+Passive Indicative,Present,2nd Person,Singular,trudicaris,trudiceris,trudiciris,trudiciris,You are being shoveed
+Passive Indicative,Present,2nd Person,Plural,trudicamini,trudicemini,trudicimini,trudicimini,You (pl.) are being shoveed
+Passive Indicative,Present,3rd Person,Singular,trudicatur,trudicetur,trudicitur,trudicitur,He/she/it is being shoveed
+Passive Indicative,Present,3rd Person,Plural,trudicantur,trudicentur,trudiciuntur,trudiciuntur,They are being shoveed
+Passive Indicative,Imperfect,1st Person,Singular,trudicabar,trudicebar,trudicebar,trudiciebar,I was shoveed
+Passive Indicative,Imperfect,1st Person,Plural,trudicabamur,trudicebamur,trudicebamur,trudiciebamur,We were shoveed
+Passive Indicative,Imperfect,2nd Person,Singular,trudicabaris,trudicebaris,trudicebaris,trudiciebaris,You were shoveed
+Passive Indicative,Imperfect,2nd Person,Plural,trudicabamini,trudicebamini,trudicebamini,trudiciebamini,You (pl.) were shoveed
+Passive Indicative,Imperfect,3rd Person,Singular,trudicabatur,trudicebatur,trudicebatur,trudiciebatur,He/she/it was shoveed
+Passive Indicative,Imperfect,3rd Person,Plural,trudicabantur,trudicebantur,trudicebantur,trudiciebantur,They were shoveed
+Passive Indicative,Future,1st Person,Singular,trudicabor,trudicebor,trudicar,trudiciar,I will be shoveed
+Passive Indicative,Future,1st Person,Plural,trudicabimur,trudicebimur,trudicemur,trudiciemur,We will be shoveed
+Passive Indicative,Future,2nd Person,Singular,trudicaberis,trudiceberis,trudiceris,trudicieris,You will be shoveed
+Passive Indicative,Future,2nd Person,Plural,trudicabimini,trudicebimini,trudicemini,trudiciemini,You (pl.) will be shoveed
+Passive Indicative,Future,3rd Person,Singular,trudicabitur,trudicebitur,trudicetur,trudicietur,He/she/it will be shoveed
+Passive Indicative,Future,3rd Person,Plural,trudicabuntur,trudicebuntur,trudicentur,trudicientur,They will be shoveed
+Passive Indicative,Perfect,1st Person,Singular,trudicatus sum,trudicetus sum,trudicus sum,trudicus sum,I have been shoveed
+Passive Indicative,Perfect,1st Person,Plural,trudicati sumus,trudiceti sumus,trudici sumus,trudici sumus,We have been shoveed
+Passive Indicative,Perfect,2nd Person,Singular,trudicatus es,trudicetus es,trudicus es,trudicus es,You have been shoveed
+Passive Indicative,Perfect,2nd Person,Plural,trudicati estis,trudiceti estis,trudici estis,trudici estis,You (pl.) have been shoveed
+Passive Indicative,Perfect,3rd Person,Singular,trudicatus est,trudicetus est,trudicus est,trudicus est,He/she/it has been shoveed
+Passive Indicative,Perfect,3rd Person,Plural,trudicati sunt,trudiceti sunt,trudici sunt,trudici sunt,They have been shoveed
+Passive Indicative,Pluperfect,1st Person,Singular,trudicatus eram,trudicetus eram,trudicus eram,trudicus eram,I had been shoveed
+Passive Indicative,Pluperfect,1st Person,Plural,trudicati eramus,trudiceti eramus,trudici eramus,trudici eramus,We had been shoveed
+Passive Indicative,Pluperfect,2nd Person,Singular,trudicatus eras,trudicetus eras,trudicus eras,trudicus eras,You had been shoveed
+Passive Indicative,Pluperfect,2nd Person,Plural,trudicati eratis,trudiceti eratis,trudici eratis,trudici eratis,You (pl.) had been shoveed
+Passive Indicative,Pluperfect,3rd Person,Singular,trudicatus erat,trudicetus erat,trudicus erat,trudicus erat,He/she/it had been shoveed
+Passive Indicative,Pluperfect,3rd Person,Plural,trudicati erant,trudiceti erant,trudici erant,trudici erant,They had been shoveed
+Passive Indicative,Future Perfect,1st Person,Singular,trudicatus ero,trudicetus ero,trudicus ero,trudicus ero,I will have been shoveed
+Passive Indicative,Future Perfect,1st Person,Plural,trudicati erimus,trudiceti erimus,trudici erimus,trudici erimus,We will have been shoveed
+Passive Indicative,Future Perfect,2nd Person,Singular,trudicatus eris,trudicetus eris,trudicus eris,trudicus eris,You will have been shoveed
+Passive Indicative,Future Perfect,2nd Person,Plural,trudicati eritis,trudiceti eritis,trudici eritis,trudici eritis,You (pl.) will have been shoveed
+Passive Indicative,Future Perfect,3rd Person,Singular,trudicatus erit,trudicetus erit,trudicus erit,trudicus erit,He/she/it will have been shoveed
+Passive Indicative,Future Perfect,3rd Person,Plural,trudicati erunt,trudiceti erunt,trudici erunt,trudici erunt,They will have been shoveed
+Active Subjunctive,Present,1st Person,Singular,trudicem,trudicem,trudicam,trudicam,I may shove
+Active Subjunctive,Present,1st Person,Plural,trudicemus,trudicemus,trudicamus,trudicamus,We may shove
+Active Subjunctive,Present,2nd Person,Singular,trudices,trudices,trudicas,trudicas,You may shove
+Active Subjunctive,Present,2nd Person,Plural,trudicetis,trudicetis,trudicatis,trudicatis,You (pl.) may shove
+Active Subjunctive,Present,3rd Person,Singular,trudicet,trudicet,trudicat,trudicat,He/she/it may shove
+Active Subjunctive,Present,3rd Person,Plural,trudicent,trudicent,trudicant,trudicant,They may shove
+Active Subjunctive,Imperfect,1st Person,Singular,trudicarem,trudicerem,trudicerem,trudicirem,I should shove
+Active Subjunctive,Imperfect,1st Person,Plural,trudicaremus,trudiceremus,trudiceremus,trudiciremus,We should shove
+Active Subjunctive,Imperfect,2nd Person,Singular,trudicares,trudiceres,trudiceres,trudicires,You should shove
+Active Subjunctive,Imperfect,2nd Person,Plural,trudicaretis,trudiceretis,trudiceretis,trudiciretis,You (pl.) should shove
+Active Subjunctive,Imperfect,3rd Person,Singular,trudicaret,trudiceret,trudiceret,trudiciret,He/she/it should shove
+Active Subjunctive,Imperfect,3rd Person,Plural,trudicarent,trudicerent,trudicerent,trudicirent,They should shove
+Active Subjunctive,Perfect,1st Person,Singular,trudicerim,trudicuerim,trudicerim,trudicierim,I may have shoveed
+Active Subjunctive,Perfect,1st Person,Plural,trudicerimus,trudicuerimus,trudicerimus,trudicierimus,We may have shoveed
+Active Subjunctive,Perfect,2nd Person,Singular,trudiceris,trudicueris,trudiceris,trudicieris,You may have shoveed
+Active Subjunctive,Perfect,2nd Person,Plural,trudiceritis,trudicueritis,trudiceritis,trudicieritis,You (pl.) may have shoveed
+Active Subjunctive,Perfect,3rd Person,Singular,trudicerit,trudicuerit,trudicerit,trudicierit,He/she/it may have shoveed
+Active Subjunctive,Perfect,3rd Person,Plural,trudicerint,trudicuerint,trudicerint,trudicierint,They may have shoveed
+Active Subjunctive,Pluperfect,1st Person,Singular,trudicissem,trudicuissem,trudicissem,trudicissem,I should have shoveed
+Active Subjunctive,Pluperfect,1st Person,Plural,trudicissemus,trudicuissemus,trudicissemus,trudicissemus,We should have shoveed
+Active Subjunctive,Pluperfect,2nd Person,Singular,trudicisses,trudicuisses,trudicisses,trudicisses,You would have shoveed
+Active Subjunctive,Pluperfect,2nd Person,Plural,trudicissetis,trudicuissetis,trudicissetis,trudicissetis,You (pl.) would have shoveed
+Active Subjunctive,Pluperfect,3rd Person,Singular,trudicisset,trudicuisset,trudicisset,trudicisset,He/she/it would have shoveed
+Active Subjunctive,Pluperfect,3rd Person,Plural,trudicissent,trudicuissent,trudicissent,trudicissent,They would have shoveed
+Passive Subjunctive,Present,1st Person,Singular,trudicer,trudicer,trudicar,trudicar,I may be shoveed
+Passive Subjunctive,Present,1st Person,Plural,trudicemur,trudicemur,trudicamur,trudicamur,We may be shoveed
+Passive Subjunctive,Present,2nd Person,Singular,trudiceris,trudiceris,trudicaris,trudicaris,You may be shoveed
+Passive Subjunctive,Present,2nd Person,Plural,trudicemini,trudicemini,trudicamini,trudicamini,You (pl.) may be shoveed
+Passive Subjunctive,Present,3rd Person,Singular,trudicetur,trudicetur,trudicatur,trudicatur,He/she/it may be shoveed
+Passive Subjunctive,Present,3rd Person,Plural,trudicentur,trudicentur,trudicantur,trudicantur,They may be shoveed
+Passive Subjunctive,Imperfect,1st Person,Singular,trudicarer,trudicerer,trudicerer,trudicirer,I should be shoveed
+Passive Subjunctive,Imperfect,1st Person,Plural,trudicaremur,trudiceremur,trudiceremur,trudiciremur,We should be shoveed
+Passive Subjunctive,Imperfect,2nd Person,Singular,trudicareris,trudicereris,trudicereris,trudicireris,You would be shoveed
+Passive Subjunctive,Imperfect,2nd Person,Plural,trudicaremini,trudiceremini,trudiceremini,trudiciremini,You (pl.) would be shoveed
+Passive Subjunctive,Imperfect,3rd Person,Singular,trudicaretur,trudiceretur,trudiceretur,trudiciretur,He/she/it would be shoveed
+Passive Subjunctive,Imperfect,3rd Person,Plural,trudicarentur,trudicerentur,trudicerentur,trudicirentur,They would be shoveed
+Passive Subjunctive,Perfect,1st Person,Singular,trudicatus sim,trudicetus sim,trudicus sim,trudicus sim,I may have been shoveed
+Passive Subjunctive,Perfect,1st Person,Plural,trudicati simus,trudiceti simus,trudici simus,trudici simus,We may have been shoveed
+Passive Subjunctive,Perfect,2nd Person,Singular,trudicatus sis,trudicetus sis,trudicus sis,trudicus sis,You may have been shoveed
+Passive Subjunctive,Perfect,2nd Person,Plural,trudicati sitis,trudiceti sitis,trudici sitis,trudici sitis,You (pl.) may have been shoveed
+Passive Subjunctive,Perfect,3rd Person,Singular,trudicatus sit,trudicetus sit,trudicus sit,trudicus sit,He/she/it may have been shoveed
+Passive Subjunctive,Perfect,3rd Person,Plural,trudicati sint,trudiceti sint,trudici sint,trudici sint,They may have been shoveed
+Passive Subjunctive,Pluperfect,1st Person,Singular,trudicatus essem,trudicetus essem,trudicus essem,trudicus essem,I should have been shoveed
+Passive Subjunctive,Pluperfect,1st Person,Plural,trudicati essemus,trudiceti essemus,trudici essemus,trudici essemus,We should have been shoveed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,trudicatus esses,trudicetus esses,trudicus esses,trudicus esses,You would have been shoveed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,trudicati essetis,trudiceti essetis,trudici essetis,trudici essetis,You (pl.) would have been shoveed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,trudicatus esset,trudicetus esset,trudicus esset,trudicus esset,He/she/it would have been shoveed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,trudicati essent,trudiceti essent,trudici essent,trudici essent,They would have been shoveed

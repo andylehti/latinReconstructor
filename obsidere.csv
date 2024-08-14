@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,obsido,obsideo,obsido,obsidio,I besiege
+Active Indicative,Present,1st Person,Plural,obsidamus,obsidemus,obsidimus,obsidimus,We besiege
+Active Indicative,Present,2nd Person,Singular,obsidas,obsides,obsidis,obsidis,You besiege
+Active Indicative,Present,2nd Person,Plural,obsidatis,obsidetis,obsiditis,obsiditis,You (pl.) besiege
+Active Indicative,Present,3rd Person,Singular,obsidat,obsidet,obsidit,obsidit,He/she/it besiege
+Active Indicative,Present,3rd Person,Plural,obsidant,obsident,obsidiunt,obsidiunt,They besiege
+Active Indicative,Imperfect,1st Person,Singular,obsidabam,obsidebam,obsidebam,obsidiebam,I was besiegeing
+Active Indicative,Imperfect,1st Person,Plural,obsidabamus,obsidebamus,obsidebamus,obsidiebamus,We were besiegeing
+Active Indicative,Imperfect,2nd Person,Singular,obsidabas,obsidebas,obsidebas,obsidiebas,You were besiegeing
+Active Indicative,Imperfect,2nd Person,Plural,obsidabatis,obsidebatis,obsidebatis,obsidiebatis,You (pl.) were besiegeing
+Active Indicative,Imperfect,3rd Person,Singular,obsidabat,obsidebat,obsidebat,obsidiebat,He/she/it was besiegeing
+Active Indicative,Imperfect,3rd Person,Plural,obsidabant,obsidebant,obsidebant,obsidiebant,They were besiegeing
+Active Indicative,Future,1st Person,Singular,obsidabo,obsidebo,obsidam,obsidiam,I will besiege
+Active Indicative,Future,1st Person,Plural,obsidabimus,obsidebimus,obsidemus,obsidiemus,We will besiege
+Active Indicative,Future,2nd Person,Singular,obsidabis,obsidebis,obsides,obsidies,You will besiege
+Active Indicative,Future,2nd Person,Plural,obsidabitis,obsidebitis,obsidetis,obsidietis,You (pl.) will besiege
+Active Indicative,Future,3rd Person,Singular,obsidabit,obsidebit,obsidet,obsidiet,He/she/it will besiege
+Active Indicative,Future,3rd Person,Plural,obsidabunt,obsidebunt,obsident,obsidient,They will besiege
+Active Indicative,Perfect,1st Person,Singular,obsidavi,obsidui,obsidi,obsidi,I have besiegeed
+Active Indicative,Perfect,1st Person,Plural,obsidavimus,obsiduimus,obsidimus,obsidimus,We have besiegeed
+Active Indicative,Perfect,2nd Person,Singular,obsidavisti,obsiduisti,obsidisti,obsidisti,You have besiegeed
+Active Indicative,Perfect,2nd Person,Plural,obsidavistis,obsiduistis,obsidistis,obsidistis,You (pl.) have besiegeed
+Active Indicative,Perfect,3rd Person,Singular,obsidavit,obsiduit,obsidit,obsidit,He/she/it has besiegeed
+Active Indicative,Perfect,3rd Person,Plural,obsidaverunt,obsiduerunt,obsiderunt,obsiderunt,They have besiegeed
+Active Indicative,Pluperfect,1st Person,Singular,obsidaveram,obsidueram,obsideram,obsideram,I had besiegeed
+Active Indicative,Pluperfect,1st Person,Plural,obsidaveramus,obsidueramus,obsideramus,obsideramus,We had besiegeed
+Active Indicative,Pluperfect,2nd Person,Singular,obsidaveras,obsidueras,obsideras,obsideras,You had besiegeed
+Active Indicative,Pluperfect,2nd Person,Plural,obsidaveratis,obsidueratis,obsideratis,obsideratis,You (pl.) had besiegeed
+Active Indicative,Pluperfect,3rd Person,Singular,obsidaverat,obsiduerat,obsiderat,obsiderat,He/she/it had besiegeed
+Active Indicative,Pluperfect,3rd Person,Plural,obsidaverant,obsiduerant,obsiderant,obsiderant,They had besiegeed
+Active Indicative,Future Perfect,1st Person,Singular,obsidavero,obsidueero,obsidero,obsidiero,I will have besiegeed
+Active Indicative,Future Perfect,1st Person,Plural,obsidaverimus,obsiduerimus,obsiderimus,obsidierimus,We will have besiegeed
+Active Indicative,Future Perfect,2nd Person,Singular,obsidaveris,obsidueris,obsideris,obsidieris,You will have besiegeed
+Active Indicative,Future Perfect,2nd Person,Plural,obsidaveritis,obsidueritis,obsideritis,obsidieritis,You (pl.) will have besiegeed
+Active Indicative,Future Perfect,3rd Person,Singular,obsidaverit,obsiduerit,obsiderit,obsidierit,He/she/it will have besiegeed
+Active Indicative,Future Perfect,3rd Person,Plural,obsidaverint,obsiduerint,obsiderint,obsidierint,They will have besiegeed
+Passive Indicative,Present,1st Person,Singular,obsidor,obsideor,obsidor,obsidior,I am being besiegeed
+Passive Indicative,Present,1st Person,Plural,obsidamur,obsidemur,obsidimur,obsidimur,We are being besiegeed
+Passive Indicative,Present,2nd Person,Singular,obsidaris,obsideris,obsidiris,obsidiris,You are being besiegeed
+Passive Indicative,Present,2nd Person,Plural,obsidamini,obsidemini,obsidimini,obsidimini,You (pl.) are being besiegeed
+Passive Indicative,Present,3rd Person,Singular,obsidatur,obsidetur,obsiditur,obsiditur,He/she/it is being besiegeed
+Passive Indicative,Present,3rd Person,Plural,obsidantur,obsidentur,obsidiuntur,obsidiuntur,They are being besiegeed
+Passive Indicative,Imperfect,1st Person,Singular,obsidabar,obsidebar,obsidebar,obsidiebar,I was besiegeed
+Passive Indicative,Imperfect,1st Person,Plural,obsidabamur,obsidebamur,obsidebamur,obsidiebamur,We were besiegeed
+Passive Indicative,Imperfect,2nd Person,Singular,obsidabaris,obsidebaris,obsidebaris,obsidiebaris,You were besiegeed
+Passive Indicative,Imperfect,2nd Person,Plural,obsidabamini,obsidebamini,obsidebamini,obsidiebamini,You (pl.) were besiegeed
+Passive Indicative,Imperfect,3rd Person,Singular,obsidabatur,obsidebatur,obsidebatur,obsidiebatur,He/she/it was besiegeed
+Passive Indicative,Imperfect,3rd Person,Plural,obsidabantur,obsidebantur,obsidebantur,obsidiebantur,They were besiegeed
+Passive Indicative,Future,1st Person,Singular,obsidabor,obsidebor,obsidar,obsidiar,I will be besiegeed
+Passive Indicative,Future,1st Person,Plural,obsidabimur,obsidebimur,obsidemur,obsidiemur,We will be besiegeed
+Passive Indicative,Future,2nd Person,Singular,obsidaberis,obsideberis,obsideris,obsidieris,You will be besiegeed
+Passive Indicative,Future,2nd Person,Plural,obsidabimini,obsidebimini,obsidemini,obsidiemini,You (pl.) will be besiegeed
+Passive Indicative,Future,3rd Person,Singular,obsidabitur,obsidebitur,obsidetur,obsidietur,He/she/it will be besiegeed
+Passive Indicative,Future,3rd Person,Plural,obsidabuntur,obsidebuntur,obsidentur,obsidientur,They will be besiegeed
+Passive Indicative,Perfect,1st Person,Singular,obsidatus sum,obsidetus sum,obsidus sum,obsidus sum,I have been besiegeed
+Passive Indicative,Perfect,1st Person,Plural,obsidati sumus,obsideti sumus,obsidi sumus,obsidi sumus,We have been besiegeed
+Passive Indicative,Perfect,2nd Person,Singular,obsidatus es,obsidetus es,obsidus es,obsidus es,You have been besiegeed
+Passive Indicative,Perfect,2nd Person,Plural,obsidati estis,obsideti estis,obsidi estis,obsidi estis,You (pl.) have been besiegeed
+Passive Indicative,Perfect,3rd Person,Singular,obsidatus est,obsidetus est,obsidus est,obsidus est,He/she/it has been besiegeed
+Passive Indicative,Perfect,3rd Person,Plural,obsidati sunt,obsideti sunt,obsidi sunt,obsidi sunt,They have been besiegeed
+Passive Indicative,Pluperfect,1st Person,Singular,obsidatus eram,obsidetus eram,obsidus eram,obsidus eram,I had been besiegeed
+Passive Indicative,Pluperfect,1st Person,Plural,obsidati eramus,obsideti eramus,obsidi eramus,obsidi eramus,We had been besiegeed
+Passive Indicative,Pluperfect,2nd Person,Singular,obsidatus eras,obsidetus eras,obsidus eras,obsidus eras,You had been besiegeed
+Passive Indicative,Pluperfect,2nd Person,Plural,obsidati eratis,obsideti eratis,obsidi eratis,obsidi eratis,You (pl.) had been besiegeed
+Passive Indicative,Pluperfect,3rd Person,Singular,obsidatus erat,obsidetus erat,obsidus erat,obsidus erat,He/she/it had been besiegeed
+Passive Indicative,Pluperfect,3rd Person,Plural,obsidati erant,obsideti erant,obsidi erant,obsidi erant,They had been besiegeed
+Passive Indicative,Future Perfect,1st Person,Singular,obsidatus ero,obsidetus ero,obsidus ero,obsidus ero,I will have been besiegeed
+Passive Indicative,Future Perfect,1st Person,Plural,obsidati erimus,obsideti erimus,obsidi erimus,obsidi erimus,We will have been besiegeed
+Passive Indicative,Future Perfect,2nd Person,Singular,obsidatus eris,obsidetus eris,obsidus eris,obsidus eris,You will have been besiegeed
+Passive Indicative,Future Perfect,2nd Person,Plural,obsidati eritis,obsideti eritis,obsidi eritis,obsidi eritis,You (pl.) will have been besiegeed
+Passive Indicative,Future Perfect,3rd Person,Singular,obsidatus erit,obsidetus erit,obsidus erit,obsidus erit,He/she/it will have been besiegeed
+Passive Indicative,Future Perfect,3rd Person,Plural,obsidati erunt,obsideti erunt,obsidi erunt,obsidi erunt,They will have been besiegeed
+Active Subjunctive,Present,1st Person,Singular,obsidem,obsidem,obsidam,obsidam,I may besiege
+Active Subjunctive,Present,1st Person,Plural,obsidemus,obsidemus,obsidamus,obsidamus,We may besiege
+Active Subjunctive,Present,2nd Person,Singular,obsides,obsides,obsidas,obsidas,You may besiege
+Active Subjunctive,Present,2nd Person,Plural,obsidetis,obsidetis,obsidatis,obsidatis,You (pl.) may besiege
+Active Subjunctive,Present,3rd Person,Singular,obsidet,obsidet,obsidat,obsidat,He/she/it may besiege
+Active Subjunctive,Present,3rd Person,Plural,obsident,obsident,obsidant,obsidant,They may besiege
+Active Subjunctive,Imperfect,1st Person,Singular,obsidarem,obsiderem,obsiderem,obsidirem,I should besiege
+Active Subjunctive,Imperfect,1st Person,Plural,obsidaremus,obsideremus,obsideremus,obsidiremus,We should besiege
+Active Subjunctive,Imperfect,2nd Person,Singular,obsidares,obsideres,obsideres,obsidires,You should besiege
+Active Subjunctive,Imperfect,2nd Person,Plural,obsidaretis,obsideretis,obsideretis,obsidiretis,You (pl.) should besiege
+Active Subjunctive,Imperfect,3rd Person,Singular,obsidaret,obsideret,obsideret,obsidiret,He/she/it should besiege
+Active Subjunctive,Imperfect,3rd Person,Plural,obsidarent,obsiderent,obsiderent,obsidirent,They should besiege
+Active Subjunctive,Perfect,1st Person,Singular,obsiderim,obsiduerim,obsiderim,obsidierim,I may have besiegeed
+Active Subjunctive,Perfect,1st Person,Plural,obsiderimus,obsiduerimus,obsiderimus,obsidierimus,We may have besiegeed
+Active Subjunctive,Perfect,2nd Person,Singular,obsideris,obsidueris,obsideris,obsidieris,You may have besiegeed
+Active Subjunctive,Perfect,2nd Person,Plural,obsideritis,obsidueritis,obsideritis,obsidieritis,You (pl.) may have besiegeed
+Active Subjunctive,Perfect,3rd Person,Singular,obsiderit,obsiduerit,obsiderit,obsidierit,He/she/it may have besiegeed
+Active Subjunctive,Perfect,3rd Person,Plural,obsiderint,obsiduerint,obsiderint,obsidierint,They may have besiegeed
+Active Subjunctive,Pluperfect,1st Person,Singular,obsidissem,obsiduissem,obsidissem,obsidissem,I should have besiegeed
+Active Subjunctive,Pluperfect,1st Person,Plural,obsidissemus,obsiduissemus,obsidissemus,obsidissemus,We should have besiegeed
+Active Subjunctive,Pluperfect,2nd Person,Singular,obsidisses,obsiduisses,obsidisses,obsidisses,You would have besiegeed
+Active Subjunctive,Pluperfect,2nd Person,Plural,obsidissetis,obsiduissetis,obsidissetis,obsidissetis,You (pl.) would have besiegeed
+Active Subjunctive,Pluperfect,3rd Person,Singular,obsidisset,obsiduisset,obsidisset,obsidisset,He/she/it would have besiegeed
+Active Subjunctive,Pluperfect,3rd Person,Plural,obsidissent,obsiduissent,obsidissent,obsidissent,They would have besiegeed
+Passive Subjunctive,Present,1st Person,Singular,obsider,obsider,obsidar,obsidar,I may be besiegeed
+Passive Subjunctive,Present,1st Person,Plural,obsidemur,obsidemur,obsidamur,obsidamur,We may be besiegeed
+Passive Subjunctive,Present,2nd Person,Singular,obsideris,obsideris,obsidaris,obsidaris,You may be besiegeed
+Passive Subjunctive,Present,2nd Person,Plural,obsidemini,obsidemini,obsidamini,obsidamini,You (pl.) may be besiegeed
+Passive Subjunctive,Present,3rd Person,Singular,obsidetur,obsidetur,obsidatur,obsidatur,He/she/it may be besiegeed
+Passive Subjunctive,Present,3rd Person,Plural,obsidentur,obsidentur,obsidantur,obsidantur,They may be besiegeed
+Passive Subjunctive,Imperfect,1st Person,Singular,obsidarer,obsiderer,obsiderer,obsidirer,I should be besiegeed
+Passive Subjunctive,Imperfect,1st Person,Plural,obsidaremur,obsideremur,obsideremur,obsidiremur,We should be besiegeed
+Passive Subjunctive,Imperfect,2nd Person,Singular,obsidareris,obsidereris,obsidereris,obsidireris,You would be besiegeed
+Passive Subjunctive,Imperfect,2nd Person,Plural,obsidaremini,obsideremini,obsideremini,obsidiremini,You (pl.) would be besiegeed
+Passive Subjunctive,Imperfect,3rd Person,Singular,obsidaretur,obsideretur,obsideretur,obsidiretur,He/she/it would be besiegeed
+Passive Subjunctive,Imperfect,3rd Person,Plural,obsidarentur,obsiderentur,obsiderentur,obsidirentur,They would be besiegeed
+Passive Subjunctive,Perfect,1st Person,Singular,obsidatus sim,obsidetus sim,obsidus sim,obsidus sim,I may have been besiegeed
+Passive Subjunctive,Perfect,1st Person,Plural,obsidati simus,obsideti simus,obsidi simus,obsidi simus,We may have been besiegeed
+Passive Subjunctive,Perfect,2nd Person,Singular,obsidatus sis,obsidetus sis,obsidus sis,obsidus sis,You may have been besiegeed
+Passive Subjunctive,Perfect,2nd Person,Plural,obsidati sitis,obsideti sitis,obsidi sitis,obsidi sitis,You (pl.) may have been besiegeed
+Passive Subjunctive,Perfect,3rd Person,Singular,obsidatus sit,obsidetus sit,obsidus sit,obsidus sit,He/she/it may have been besiegeed
+Passive Subjunctive,Perfect,3rd Person,Plural,obsidati sint,obsideti sint,obsidi sint,obsidi sint,They may have been besiegeed
+Passive Subjunctive,Pluperfect,1st Person,Singular,obsidatus essem,obsidetus essem,obsidus essem,obsidus essem,I should have been besiegeed
+Passive Subjunctive,Pluperfect,1st Person,Plural,obsidati essemus,obsideti essemus,obsidi essemus,obsidi essemus,We should have been besiegeed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,obsidatus esses,obsidetus esses,obsidus esses,obsidus esses,You would have been besiegeed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,obsidati essetis,obsideti essetis,obsidi essetis,obsidi essetis,You (pl.) would have been besiegeed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,obsidatus esset,obsidetus esset,obsidus esset,obsidus esset,He/she/it would have been besiegeed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,obsidati essent,obsideti essent,obsidi essent,obsidi essent,They would have been besiegeed

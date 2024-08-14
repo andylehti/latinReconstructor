@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,submergo,submergeo,submergo,submergio,I drown
+Active Indicative,Present,1st Person,Plural,submergamus,submergemus,submergimus,submergimus,We drown
+Active Indicative,Present,2nd Person,Singular,submergas,submerges,submergis,submergis,You drown
+Active Indicative,Present,2nd Person,Plural,submergatis,submergetis,submergitis,submergitis,You (pl.) drown
+Active Indicative,Present,3rd Person,Singular,submergat,submerget,submergit,submergit,He/she/it drown
+Active Indicative,Present,3rd Person,Plural,submergant,submergent,submergiunt,submergiunt,They drown
+Active Indicative,Imperfect,1st Person,Singular,submergabam,submergebam,submergebam,submergiebam,I was drowning
+Active Indicative,Imperfect,1st Person,Plural,submergabamus,submergebamus,submergebamus,submergiebamus,We were drowning
+Active Indicative,Imperfect,2nd Person,Singular,submergabas,submergebas,submergebas,submergiebas,You were drowning
+Active Indicative,Imperfect,2nd Person,Plural,submergabatis,submergebatis,submergebatis,submergiebatis,You (pl.) were drowning
+Active Indicative,Imperfect,3rd Person,Singular,submergabat,submergebat,submergebat,submergiebat,He/she/it was drowning
+Active Indicative,Imperfect,3rd Person,Plural,submergabant,submergebant,submergebant,submergiebant,They were drowning
+Active Indicative,Future,1st Person,Singular,submergabo,submergebo,submergam,submergiam,I will drown
+Active Indicative,Future,1st Person,Plural,submergabimus,submergebimus,submergemus,submergiemus,We will drown
+Active Indicative,Future,2nd Person,Singular,submergabis,submergebis,submerges,submergies,You will drown
+Active Indicative,Future,2nd Person,Plural,submergabitis,submergebitis,submergetis,submergietis,You (pl.) will drown
+Active Indicative,Future,3rd Person,Singular,submergabit,submergebit,submerget,submergiet,He/she/it will drown
+Active Indicative,Future,3rd Person,Plural,submergabunt,submergebunt,submergent,submergient,They will drown
+Active Indicative,Perfect,1st Person,Singular,submergavi,submergui,submergi,submergi,I have drowned
+Active Indicative,Perfect,1st Person,Plural,submergavimus,submerguimus,submergimus,submergimus,We have drowned
+Active Indicative,Perfect,2nd Person,Singular,submergavisti,submerguisti,submergisti,submergisti,You have drowned
+Active Indicative,Perfect,2nd Person,Plural,submergavistis,submerguistis,submergistis,submergistis,You (pl.) have drowned
+Active Indicative,Perfect,3rd Person,Singular,submergavit,submerguit,submergit,submergit,He/she/it has drowned
+Active Indicative,Perfect,3rd Person,Plural,submergaverunt,submerguerunt,submergerunt,submergerunt,They have drowned
+Active Indicative,Pluperfect,1st Person,Singular,submergaveram,submergueram,submergeram,submergeram,I had drowned
+Active Indicative,Pluperfect,1st Person,Plural,submergaveramus,submergueramus,submergeramus,submergeramus,We had drowned
+Active Indicative,Pluperfect,2nd Person,Singular,submergaveras,submergueras,submergeras,submergeras,You had drowned
+Active Indicative,Pluperfect,2nd Person,Plural,submergaveratis,submergueratis,submergeratis,submergeratis,You (pl.) had drowned
+Active Indicative,Pluperfect,3rd Person,Singular,submergaverat,submerguerat,submergerat,submergerat,He/she/it had drowned
+Active Indicative,Pluperfect,3rd Person,Plural,submergaverant,submerguerant,submergerant,submergerant,They had drowned
+Active Indicative,Future Perfect,1st Person,Singular,submergavero,submergueero,submergero,submergiero,I will have drowned
+Active Indicative,Future Perfect,1st Person,Plural,submergaverimus,submerguerimus,submergerimus,submergierimus,We will have drowned
+Active Indicative,Future Perfect,2nd Person,Singular,submergaveris,submergueris,submergeris,submergieris,You will have drowned
+Active Indicative,Future Perfect,2nd Person,Plural,submergaveritis,submergueritis,submergeritis,submergieritis,You (pl.) will have drowned
+Active Indicative,Future Perfect,3rd Person,Singular,submergaverit,submerguerit,submergerit,submergierit,He/she/it will have drowned
+Active Indicative,Future Perfect,3rd Person,Plural,submergaverint,submerguerint,submergerint,submergierint,They will have drowned
+Passive Indicative,Present,1st Person,Singular,submergor,submergeor,submergor,submergior,I am being drowned
+Passive Indicative,Present,1st Person,Plural,submergamur,submergemur,submergimur,submergimur,We are being drowned
+Passive Indicative,Present,2nd Person,Singular,submergaris,submergeris,submergiris,submergiris,You are being drowned
+Passive Indicative,Present,2nd Person,Plural,submergamini,submergemini,submergimini,submergimini,You (pl.) are being drowned
+Passive Indicative,Present,3rd Person,Singular,submergatur,submergetur,submergitur,submergitur,He/she/it is being drowned
+Passive Indicative,Present,3rd Person,Plural,submergantur,submergentur,submergiuntur,submergiuntur,They are being drowned
+Passive Indicative,Imperfect,1st Person,Singular,submergabar,submergebar,submergebar,submergiebar,I was drowned
+Passive Indicative,Imperfect,1st Person,Plural,submergabamur,submergebamur,submergebamur,submergiebamur,We were drowned
+Passive Indicative,Imperfect,2nd Person,Singular,submergabaris,submergebaris,submergebaris,submergiebaris,You were drowned
+Passive Indicative,Imperfect,2nd Person,Plural,submergabamini,submergebamini,submergebamini,submergiebamini,You (pl.) were drowned
+Passive Indicative,Imperfect,3rd Person,Singular,submergabatur,submergebatur,submergebatur,submergiebatur,He/she/it was drowned
+Passive Indicative,Imperfect,3rd Person,Plural,submergabantur,submergebantur,submergebantur,submergiebantur,They were drowned
+Passive Indicative,Future,1st Person,Singular,submergabor,submergebor,submergar,submergiar,I will be drowned
+Passive Indicative,Future,1st Person,Plural,submergabimur,submergebimur,submergemur,submergiemur,We will be drowned
+Passive Indicative,Future,2nd Person,Singular,submergaberis,submergeberis,submergeris,submergieris,You will be drowned
+Passive Indicative,Future,2nd Person,Plural,submergabimini,submergebimini,submergemini,submergiemini,You (pl.) will be drowned
+Passive Indicative,Future,3rd Person,Singular,submergabitur,submergebitur,submergetur,submergietur,He/she/it will be drowned
+Passive Indicative,Future,3rd Person,Plural,submergabuntur,submergebuntur,submergentur,submergientur,They will be drowned
+Passive Indicative,Perfect,1st Person,Singular,submergatus sum,submergetus sum,submergus sum,submergus sum,I have been drowned
+Passive Indicative,Perfect,1st Person,Plural,submergati sumus,submergeti sumus,submergi sumus,submergi sumus,We have been drowned
+Passive Indicative,Perfect,2nd Person,Singular,submergatus es,submergetus es,submergus es,submergus es,You have been drowned
+Passive Indicative,Perfect,2nd Person,Plural,submergati estis,submergeti estis,submergi estis,submergi estis,You (pl.) have been drowned
+Passive Indicative,Perfect,3rd Person,Singular,submergatus est,submergetus est,submergus est,submergus est,He/she/it has been drowned
+Passive Indicative,Perfect,3rd Person,Plural,submergati sunt,submergeti sunt,submergi sunt,submergi sunt,They have been drowned
+Passive Indicative,Pluperfect,1st Person,Singular,submergatus eram,submergetus eram,submergus eram,submergus eram,I had been drowned
+Passive Indicative,Pluperfect,1st Person,Plural,submergati eramus,submergeti eramus,submergi eramus,submergi eramus,We had been drowned
+Passive Indicative,Pluperfect,2nd Person,Singular,submergatus eras,submergetus eras,submergus eras,submergus eras,You had been drowned
+Passive Indicative,Pluperfect,2nd Person,Plural,submergati eratis,submergeti eratis,submergi eratis,submergi eratis,You (pl.) had been drowned
+Passive Indicative,Pluperfect,3rd Person,Singular,submergatus erat,submergetus erat,submergus erat,submergus erat,He/she/it had been drowned
+Passive Indicative,Pluperfect,3rd Person,Plural,submergati erant,submergeti erant,submergi erant,submergi erant,They had been drowned
+Passive Indicative,Future Perfect,1st Person,Singular,submergatus ero,submergetus ero,submergus ero,submergus ero,I will have been drowned
+Passive Indicative,Future Perfect,1st Person,Plural,submergati erimus,submergeti erimus,submergi erimus,submergi erimus,We will have been drowned
+Passive Indicative,Future Perfect,2nd Person,Singular,submergatus eris,submergetus eris,submergus eris,submergus eris,You will have been drowned
+Passive Indicative,Future Perfect,2nd Person,Plural,submergati eritis,submergeti eritis,submergi eritis,submergi eritis,You (pl.) will have been drowned
+Passive Indicative,Future Perfect,3rd Person,Singular,submergatus erit,submergetus erit,submergus erit,submergus erit,He/she/it will have been drowned
+Passive Indicative,Future Perfect,3rd Person,Plural,submergati erunt,submergeti erunt,submergi erunt,submergi erunt,They will have been drowned
+Active Subjunctive,Present,1st Person,Singular,submergem,submergem,submergam,submergam,I may drown
+Active Subjunctive,Present,1st Person,Plural,submergemus,submergemus,submergamus,submergamus,We may drown
+Active Subjunctive,Present,2nd Person,Singular,submerges,submerges,submergas,submergas,You may drown
+Active Subjunctive,Present,2nd Person,Plural,submergetis,submergetis,submergatis,submergatis,You (pl.) may drown
+Active Subjunctive,Present,3rd Person,Singular,submerget,submerget,submergat,submergat,He/she/it may drown
+Active Subjunctive,Present,3rd Person,Plural,submergent,submergent,submergant,submergant,They may drown
+Active Subjunctive,Imperfect,1st Person,Singular,submergarem,submergerem,submergerem,submergirem,I should drown
+Active Subjunctive,Imperfect,1st Person,Plural,submergaremus,submergeremus,submergeremus,submergiremus,We should drown
+Active Subjunctive,Imperfect,2nd Person,Singular,submergares,submergeres,submergeres,submergires,You should drown
+Active Subjunctive,Imperfect,2nd Person,Plural,submergaretis,submergeretis,submergeretis,submergiretis,You (pl.) should drown
+Active Subjunctive,Imperfect,3rd Person,Singular,submergaret,submergeret,submergeret,submergiret,He/she/it should drown
+Active Subjunctive,Imperfect,3rd Person,Plural,submergarent,submergerent,submergerent,submergirent,They should drown
+Active Subjunctive,Perfect,1st Person,Singular,submergerim,submerguerim,submergerim,submergierim,I may have drowned
+Active Subjunctive,Perfect,1st Person,Plural,submergerimus,submerguerimus,submergerimus,submergierimus,We may have drowned
+Active Subjunctive,Perfect,2nd Person,Singular,submergeris,submergueris,submergeris,submergieris,You may have drowned
+Active Subjunctive,Perfect,2nd Person,Plural,submergeritis,submergueritis,submergeritis,submergieritis,You (pl.) may have drowned
+Active Subjunctive,Perfect,3rd Person,Singular,submergerit,submerguerit,submergerit,submergierit,He/she/it may have drowned
+Active Subjunctive,Perfect,3rd Person,Plural,submergerint,submerguerint,submergerint,submergierint,They may have drowned
+Active Subjunctive,Pluperfect,1st Person,Singular,submergissem,submerguissem,submergissem,submergissem,I should have drowned
+Active Subjunctive,Pluperfect,1st Person,Plural,submergissemus,submerguissemus,submergissemus,submergissemus,We should have drowned
+Active Subjunctive,Pluperfect,2nd Person,Singular,submergisses,submerguisses,submergisses,submergisses,You would have drowned
+Active Subjunctive,Pluperfect,2nd Person,Plural,submergissetis,submerguissetis,submergissetis,submergissetis,You (pl.) would have drowned
+Active Subjunctive,Pluperfect,3rd Person,Singular,submergisset,submerguisset,submergisset,submergisset,He/she/it would have drowned
+Active Subjunctive,Pluperfect,3rd Person,Plural,submergissent,submerguissent,submergissent,submergissent,They would have drowned
+Passive Subjunctive,Present,1st Person,Singular,submerger,submerger,submergar,submergar,I may be drowned
+Passive Subjunctive,Present,1st Person,Plural,submergemur,submergemur,submergamur,submergamur,We may be drowned
+Passive Subjunctive,Present,2nd Person,Singular,submergeris,submergeris,submergaris,submergaris,You may be drowned
+Passive Subjunctive,Present,2nd Person,Plural,submergemini,submergemini,submergamini,submergamini,You (pl.) may be drowned
+Passive Subjunctive,Present,3rd Person,Singular,submergetur,submergetur,submergatur,submergatur,He/she/it may be drowned
+Passive Subjunctive,Present,3rd Person,Plural,submergentur,submergentur,submergantur,submergantur,They may be drowned
+Passive Subjunctive,Imperfect,1st Person,Singular,submergarer,submergerer,submergerer,submergirer,I should be drowned
+Passive Subjunctive,Imperfect,1st Person,Plural,submergaremur,submergeremur,submergeremur,submergiremur,We should be drowned
+Passive Subjunctive,Imperfect,2nd Person,Singular,submergareris,submergereris,submergereris,submergireris,You would be drowned
+Passive Subjunctive,Imperfect,2nd Person,Plural,submergaremini,submergeremini,submergeremini,submergiremini,You (pl.) would be drowned
+Passive Subjunctive,Imperfect,3rd Person,Singular,submergaretur,submergeretur,submergeretur,submergiretur,He/she/it would be drowned
+Passive Subjunctive,Imperfect,3rd Person,Plural,submergarentur,submergerentur,submergerentur,submergirentur,They would be drowned
+Passive Subjunctive,Perfect,1st Person,Singular,submergatus sim,submergetus sim,submergus sim,submergus sim,I may have been drowned
+Passive Subjunctive,Perfect,1st Person,Plural,submergati simus,submergeti simus,submergi simus,submergi simus,We may have been drowned
+Passive Subjunctive,Perfect,2nd Person,Singular,submergatus sis,submergetus sis,submergus sis,submergus sis,You may have been drowned
+Passive Subjunctive,Perfect,2nd Person,Plural,submergati sitis,submergeti sitis,submergi sitis,submergi sitis,You (pl.) may have been drowned
+Passive Subjunctive,Perfect,3rd Person,Singular,submergatus sit,submergetus sit,submergus sit,submergus sit,He/she/it may have been drowned
+Passive Subjunctive,Perfect,3rd Person,Plural,submergati sint,submergeti sint,submergi sint,submergi sint,They may have been drowned
+Passive Subjunctive,Pluperfect,1st Person,Singular,submergatus essem,submergetus essem,submergus essem,submergus essem,I should have been drowned
+Passive Subjunctive,Pluperfect,1st Person,Plural,submergati essemus,submergeti essemus,submergi essemus,submergi essemus,We should have been drowned
+Passive Subjunctive,Pluperfect,2nd Person,Singular,submergatus esses,submergetus esses,submergus esses,submergus esses,You would have been drowned
+Passive Subjunctive,Pluperfect,2nd Person,Plural,submergati essetis,submergeti essetis,submergi essetis,submergi essetis,You (pl.) would have been drowned
+Passive Subjunctive,Pluperfect,3rd Person,Singular,submergatus esset,submergetus esset,submergus esset,submergus esset,He/she/it would have been drowned
+Passive Subjunctive,Pluperfect,3rd Person,Plural,submergati essent,submergeti essent,submergi essent,submergi essent,They would have been drowned

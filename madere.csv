@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,mado,madeo,mado,madio,I soak
+Active Indicative,Present,1st Person,Plural,madamus,mademus,madimus,madimus,We soak
+Active Indicative,Present,2nd Person,Singular,madas,mades,madis,madis,You soak
+Active Indicative,Present,2nd Person,Plural,madatis,madetis,maditis,maditis,You (pl.) soak
+Active Indicative,Present,3rd Person,Singular,madat,madet,madit,madit,He/she/it soak
+Active Indicative,Present,3rd Person,Plural,madant,madent,madiunt,madiunt,They soak
+Active Indicative,Imperfect,1st Person,Singular,madabam,madebam,madebam,madiebam,I was soaking
+Active Indicative,Imperfect,1st Person,Plural,madabamus,madebamus,madebamus,madiebamus,We were soaking
+Active Indicative,Imperfect,2nd Person,Singular,madabas,madebas,madebas,madiebas,You were soaking
+Active Indicative,Imperfect,2nd Person,Plural,madabatis,madebatis,madebatis,madiebatis,You (pl.) were soaking
+Active Indicative,Imperfect,3rd Person,Singular,madabat,madebat,madebat,madiebat,He/she/it was soaking
+Active Indicative,Imperfect,3rd Person,Plural,madabant,madebant,madebant,madiebant,They were soaking
+Active Indicative,Future,1st Person,Singular,madabo,madebo,madam,madiam,I will soak
+Active Indicative,Future,1st Person,Plural,madabimus,madebimus,mademus,madiemus,We will soak
+Active Indicative,Future,2nd Person,Singular,madabis,madebis,mades,madies,You will soak
+Active Indicative,Future,2nd Person,Plural,madabitis,madebitis,madetis,madietis,You (pl.) will soak
+Active Indicative,Future,3rd Person,Singular,madabit,madebit,madet,madiet,He/she/it will soak
+Active Indicative,Future,3rd Person,Plural,madabunt,madebunt,madent,madient,They will soak
+Active Indicative,Perfect,1st Person,Singular,madavi,madui,madi,madi,I have soaked
+Active Indicative,Perfect,1st Person,Plural,madavimus,maduimus,madimus,madimus,We have soaked
+Active Indicative,Perfect,2nd Person,Singular,madavisti,maduisti,madisti,madisti,You have soaked
+Active Indicative,Perfect,2nd Person,Plural,madavistis,maduistis,madistis,madistis,You (pl.) have soaked
+Active Indicative,Perfect,3rd Person,Singular,madavit,maduit,madit,madit,He/she/it has soaked
+Active Indicative,Perfect,3rd Person,Plural,madaverunt,maduerunt,maderunt,maderunt,They have soaked
+Active Indicative,Pluperfect,1st Person,Singular,madaveram,madueram,maderam,maderam,I had soaked
+Active Indicative,Pluperfect,1st Person,Plural,madaveramus,madueramus,maderamus,maderamus,We had soaked
+Active Indicative,Pluperfect,2nd Person,Singular,madaveras,madueras,maderas,maderas,You had soaked
+Active Indicative,Pluperfect,2nd Person,Plural,madaveratis,madueratis,maderatis,maderatis,You (pl.) had soaked
+Active Indicative,Pluperfect,3rd Person,Singular,madaverat,maduerat,maderat,maderat,He/she/it had soaked
+Active Indicative,Pluperfect,3rd Person,Plural,madaverant,maduerant,maderant,maderant,They had soaked
+Active Indicative,Future Perfect,1st Person,Singular,madavero,madueero,madero,madiero,I will have soaked
+Active Indicative,Future Perfect,1st Person,Plural,madaverimus,maduerimus,maderimus,madierimus,We will have soaked
+Active Indicative,Future Perfect,2nd Person,Singular,madaveris,madueris,maderis,madieris,You will have soaked
+Active Indicative,Future Perfect,2nd Person,Plural,madaveritis,madueritis,maderitis,madieritis,You (pl.) will have soaked
+Active Indicative,Future Perfect,3rd Person,Singular,madaverit,maduerit,maderit,madierit,He/she/it will have soaked
+Active Indicative,Future Perfect,3rd Person,Plural,madaverint,maduerint,maderint,madierint,They will have soaked
+Passive Indicative,Present,1st Person,Singular,mador,madeor,mador,madior,I am being soaked
+Passive Indicative,Present,1st Person,Plural,madamur,mademur,madimur,madimur,We are being soaked
+Passive Indicative,Present,2nd Person,Singular,madaris,maderis,madiris,madiris,You are being soaked
+Passive Indicative,Present,2nd Person,Plural,madamini,mademini,madimini,madimini,You (pl.) are being soaked
+Passive Indicative,Present,3rd Person,Singular,madatur,madetur,maditur,maditur,He/she/it is being soaked
+Passive Indicative,Present,3rd Person,Plural,madantur,madentur,madiuntur,madiuntur,They are being soaked
+Passive Indicative,Imperfect,1st Person,Singular,madabar,madebar,madebar,madiebar,I was soaked
+Passive Indicative,Imperfect,1st Person,Plural,madabamur,madebamur,madebamur,madiebamur,We were soaked
+Passive Indicative,Imperfect,2nd Person,Singular,madabaris,madebaris,madebaris,madiebaris,You were soaked
+Passive Indicative,Imperfect,2nd Person,Plural,madabamini,madebamini,madebamini,madiebamini,You (pl.) were soaked
+Passive Indicative,Imperfect,3rd Person,Singular,madabatur,madebatur,madebatur,madiebatur,He/she/it was soaked
+Passive Indicative,Imperfect,3rd Person,Plural,madabantur,madebantur,madebantur,madiebantur,They were soaked
+Passive Indicative,Future,1st Person,Singular,madabor,madebor,madar,madiar,I will be soaked
+Passive Indicative,Future,1st Person,Plural,madabimur,madebimur,mademur,madiemur,We will be soaked
+Passive Indicative,Future,2nd Person,Singular,madaberis,madeberis,maderis,madieris,You will be soaked
+Passive Indicative,Future,2nd Person,Plural,madabimini,madebimini,mademini,madiemini,You (pl.) will be soaked
+Passive Indicative,Future,3rd Person,Singular,madabitur,madebitur,madetur,madietur,He/she/it will be soaked
+Passive Indicative,Future,3rd Person,Plural,madabuntur,madebuntur,madentur,madientur,They will be soaked
+Passive Indicative,Perfect,1st Person,Singular,madatus sum,madetus sum,madus sum,madus sum,I have been soaked
+Passive Indicative,Perfect,1st Person,Plural,madati sumus,madeti sumus,madi sumus,madi sumus,We have been soaked
+Passive Indicative,Perfect,2nd Person,Singular,madatus es,madetus es,madus es,madus es,You have been soaked
+Passive Indicative,Perfect,2nd Person,Plural,madati estis,madeti estis,madi estis,madi estis,You (pl.) have been soaked
+Passive Indicative,Perfect,3rd Person,Singular,madatus est,madetus est,madus est,madus est,He/she/it has been soaked
+Passive Indicative,Perfect,3rd Person,Plural,madati sunt,madeti sunt,madi sunt,madi sunt,They have been soaked
+Passive Indicative,Pluperfect,1st Person,Singular,madatus eram,madetus eram,madus eram,madus eram,I had been soaked
+Passive Indicative,Pluperfect,1st Person,Plural,madati eramus,madeti eramus,madi eramus,madi eramus,We had been soaked
+Passive Indicative,Pluperfect,2nd Person,Singular,madatus eras,madetus eras,madus eras,madus eras,You had been soaked
+Passive Indicative,Pluperfect,2nd Person,Plural,madati eratis,madeti eratis,madi eratis,madi eratis,You (pl.) had been soaked
+Passive Indicative,Pluperfect,3rd Person,Singular,madatus erat,madetus erat,madus erat,madus erat,He/she/it had been soaked
+Passive Indicative,Pluperfect,3rd Person,Plural,madati erant,madeti erant,madi erant,madi erant,They had been soaked
+Passive Indicative,Future Perfect,1st Person,Singular,madatus ero,madetus ero,madus ero,madus ero,I will have been soaked
+Passive Indicative,Future Perfect,1st Person,Plural,madati erimus,madeti erimus,madi erimus,madi erimus,We will have been soaked
+Passive Indicative,Future Perfect,2nd Person,Singular,madatus eris,madetus eris,madus eris,madus eris,You will have been soaked
+Passive Indicative,Future Perfect,2nd Person,Plural,madati eritis,madeti eritis,madi eritis,madi eritis,You (pl.) will have been soaked
+Passive Indicative,Future Perfect,3rd Person,Singular,madatus erit,madetus erit,madus erit,madus erit,He/she/it will have been soaked
+Passive Indicative,Future Perfect,3rd Person,Plural,madati erunt,madeti erunt,madi erunt,madi erunt,They will have been soaked
+Active Subjunctive,Present,1st Person,Singular,madem,madem,madam,madam,I may soak
+Active Subjunctive,Present,1st Person,Plural,mademus,mademus,madamus,madamus,We may soak
+Active Subjunctive,Present,2nd Person,Singular,mades,mades,madas,madas,You may soak
+Active Subjunctive,Present,2nd Person,Plural,madetis,madetis,madatis,madatis,You (pl.) may soak
+Active Subjunctive,Present,3rd Person,Singular,madet,madet,madat,madat,He/she/it may soak
+Active Subjunctive,Present,3rd Person,Plural,madent,madent,madant,madant,They may soak
+Active Subjunctive,Imperfect,1st Person,Singular,madarem,maderem,maderem,madirem,I should soak
+Active Subjunctive,Imperfect,1st Person,Plural,madaremus,maderemus,maderemus,madiremus,We should soak
+Active Subjunctive,Imperfect,2nd Person,Singular,madares,maderes,maderes,madires,You should soak
+Active Subjunctive,Imperfect,2nd Person,Plural,madaretis,maderetis,maderetis,madiretis,You (pl.) should soak
+Active Subjunctive,Imperfect,3rd Person,Singular,madaret,maderet,maderet,madiret,He/she/it should soak
+Active Subjunctive,Imperfect,3rd Person,Plural,madarent,maderent,maderent,madirent,They should soak
+Active Subjunctive,Perfect,1st Person,Singular,maderim,maduerim,maderim,madierim,I may have soaked
+Active Subjunctive,Perfect,1st Person,Plural,maderimus,maduerimus,maderimus,madierimus,We may have soaked
+Active Subjunctive,Perfect,2nd Person,Singular,maderis,madueris,maderis,madieris,You may have soaked
+Active Subjunctive,Perfect,2nd Person,Plural,maderitis,madueritis,maderitis,madieritis,You (pl.) may have soaked
+Active Subjunctive,Perfect,3rd Person,Singular,maderit,maduerit,maderit,madierit,He/she/it may have soaked
+Active Subjunctive,Perfect,3rd Person,Plural,maderint,maduerint,maderint,madierint,They may have soaked
+Active Subjunctive,Pluperfect,1st Person,Singular,madissem,maduissem,madissem,madissem,I should have soaked
+Active Subjunctive,Pluperfect,1st Person,Plural,madissemus,maduissemus,madissemus,madissemus,We should have soaked
+Active Subjunctive,Pluperfect,2nd Person,Singular,madisses,maduisses,madisses,madisses,You would have soaked
+Active Subjunctive,Pluperfect,2nd Person,Plural,madissetis,maduissetis,madissetis,madissetis,You (pl.) would have soaked
+Active Subjunctive,Pluperfect,3rd Person,Singular,madisset,maduisset,madisset,madisset,He/she/it would have soaked
+Active Subjunctive,Pluperfect,3rd Person,Plural,madissent,maduissent,madissent,madissent,They would have soaked
+Passive Subjunctive,Present,1st Person,Singular,mader,mader,madar,madar,I may be soaked
+Passive Subjunctive,Present,1st Person,Plural,mademur,mademur,madamur,madamur,We may be soaked
+Passive Subjunctive,Present,2nd Person,Singular,maderis,maderis,madaris,madaris,You may be soaked
+Passive Subjunctive,Present,2nd Person,Plural,mademini,mademini,madamini,madamini,You (pl.) may be soaked
+Passive Subjunctive,Present,3rd Person,Singular,madetur,madetur,madatur,madatur,He/she/it may be soaked
+Passive Subjunctive,Present,3rd Person,Plural,madentur,madentur,madantur,madantur,They may be soaked
+Passive Subjunctive,Imperfect,1st Person,Singular,madarer,maderer,maderer,madirer,I should be soaked
+Passive Subjunctive,Imperfect,1st Person,Plural,madaremur,maderemur,maderemur,madiremur,We should be soaked
+Passive Subjunctive,Imperfect,2nd Person,Singular,madareris,madereris,madereris,madireris,You would be soaked
+Passive Subjunctive,Imperfect,2nd Person,Plural,madaremini,maderemini,maderemini,madiremini,You (pl.) would be soaked
+Passive Subjunctive,Imperfect,3rd Person,Singular,madaretur,maderetur,maderetur,madiretur,He/she/it would be soaked
+Passive Subjunctive,Imperfect,3rd Person,Plural,madarentur,maderentur,maderentur,madirentur,They would be soaked
+Passive Subjunctive,Perfect,1st Person,Singular,madatus sim,madetus sim,madus sim,madus sim,I may have been soaked
+Passive Subjunctive,Perfect,1st Person,Plural,madati simus,madeti simus,madi simus,madi simus,We may have been soaked
+Passive Subjunctive,Perfect,2nd Person,Singular,madatus sis,madetus sis,madus sis,madus sis,You may have been soaked
+Passive Subjunctive,Perfect,2nd Person,Plural,madati sitis,madeti sitis,madi sitis,madi sitis,You (pl.) may have been soaked
+Passive Subjunctive,Perfect,3rd Person,Singular,madatus sit,madetus sit,madus sit,madus sit,He/she/it may have been soaked
+Passive Subjunctive,Perfect,3rd Person,Plural,madati sint,madeti sint,madi sint,madi sint,They may have been soaked
+Passive Subjunctive,Pluperfect,1st Person,Singular,madatus essem,madetus essem,madus essem,madus essem,I should have been soaked
+Passive Subjunctive,Pluperfect,1st Person,Plural,madati essemus,madeti essemus,madi essemus,madi essemus,We should have been soaked
+Passive Subjunctive,Pluperfect,2nd Person,Singular,madatus esses,madetus esses,madus esses,madus esses,You would have been soaked
+Passive Subjunctive,Pluperfect,2nd Person,Plural,madati essetis,madeti essetis,madi essetis,madi essetis,You (pl.) would have been soaked
+Passive Subjunctive,Pluperfect,3rd Person,Singular,madatus esset,madetus esset,madus esset,madus esset,He/she/it would have been soaked
+Passive Subjunctive,Pluperfect,3rd Person,Plural,madati essent,madeti essent,madi essent,madi essent,They would have been soaked

@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,perturbo,perturbeo,perturbo,perturbio,I disturb
+Active Indicative,Present,1st Person,Plural,perturbamus,perturbemus,perturbimus,perturbimus,We disturb
+Active Indicative,Present,2nd Person,Singular,perturbas,perturbes,perturbis,perturbis,You disturb
+Active Indicative,Present,2nd Person,Plural,perturbatis,perturbetis,perturbitis,perturbitis,You (pl.) disturb
+Active Indicative,Present,3rd Person,Singular,perturbat,perturbet,perturbit,perturbit,He/she/it disturb
+Active Indicative,Present,3rd Person,Plural,perturbant,perturbent,perturbiunt,perturbiunt,They disturb
+Active Indicative,Imperfect,1st Person,Singular,perturbabam,perturbebam,perturbebam,perturbiebam,I was disturbing
+Active Indicative,Imperfect,1st Person,Plural,perturbabamus,perturbebamus,perturbebamus,perturbiebamus,We were disturbing
+Active Indicative,Imperfect,2nd Person,Singular,perturbabas,perturbebas,perturbebas,perturbiebas,You were disturbing
+Active Indicative,Imperfect,2nd Person,Plural,perturbabatis,perturbebatis,perturbebatis,perturbiebatis,You (pl.) were disturbing
+Active Indicative,Imperfect,3rd Person,Singular,perturbabat,perturbebat,perturbebat,perturbiebat,He/she/it was disturbing
+Active Indicative,Imperfect,3rd Person,Plural,perturbabant,perturbebant,perturbebant,perturbiebant,They were disturbing
+Active Indicative,Future,1st Person,Singular,perturbabo,perturbebo,perturbam,perturbiam,I will disturb
+Active Indicative,Future,1st Person,Plural,perturbabimus,perturbebimus,perturbemus,perturbiemus,We will disturb
+Active Indicative,Future,2nd Person,Singular,perturbabis,perturbebis,perturbes,perturbies,You will disturb
+Active Indicative,Future,2nd Person,Plural,perturbabitis,perturbebitis,perturbetis,perturbietis,You (pl.) will disturb
+Active Indicative,Future,3rd Person,Singular,perturbabit,perturbebit,perturbet,perturbiet,He/she/it will disturb
+Active Indicative,Future,3rd Person,Plural,perturbabunt,perturbebunt,perturbent,perturbient,They will disturb
+Active Indicative,Perfect,1st Person,Singular,perturbavi,perturbui,perturbi,perturbi,I have disturbed
+Active Indicative,Perfect,1st Person,Plural,perturbavimus,perturbuimus,perturbimus,perturbimus,We have disturbed
+Active Indicative,Perfect,2nd Person,Singular,perturbavisti,perturbuisti,perturbisti,perturbisti,You have disturbed
+Active Indicative,Perfect,2nd Person,Plural,perturbavistis,perturbuistis,perturbistis,perturbistis,You (pl.) have disturbed
+Active Indicative,Perfect,3rd Person,Singular,perturbavit,perturbuit,perturbit,perturbit,He/she/it has disturbed
+Active Indicative,Perfect,3rd Person,Plural,perturbaverunt,perturbuerunt,perturberunt,perturberunt,They have disturbed
+Active Indicative,Pluperfect,1st Person,Singular,perturbaveram,perturbueram,perturberam,perturberam,I had disturbed
+Active Indicative,Pluperfect,1st Person,Plural,perturbaveramus,perturbueramus,perturberamus,perturberamus,We had disturbed
+Active Indicative,Pluperfect,2nd Person,Singular,perturbaveras,perturbueras,perturberas,perturberas,You had disturbed
+Active Indicative,Pluperfect,2nd Person,Plural,perturbaveratis,perturbueratis,perturberatis,perturberatis,You (pl.) had disturbed
+Active Indicative,Pluperfect,3rd Person,Singular,perturbaverat,perturbuerat,perturberat,perturberat,He/she/it had disturbed
+Active Indicative,Pluperfect,3rd Person,Plural,perturbaverant,perturbuerant,perturberant,perturberant,They had disturbed
+Active Indicative,Future Perfect,1st Person,Singular,perturbavero,perturbueero,perturbero,perturbiero,I will have disturbed
+Active Indicative,Future Perfect,1st Person,Plural,perturbaverimus,perturbuerimus,perturberimus,perturbierimus,We will have disturbed
+Active Indicative,Future Perfect,2nd Person,Singular,perturbaveris,perturbueris,perturberis,perturbieris,You will have disturbed
+Active Indicative,Future Perfect,2nd Person,Plural,perturbaveritis,perturbueritis,perturberitis,perturbieritis,You (pl.) will have disturbed
+Active Indicative,Future Perfect,3rd Person,Singular,perturbaverit,perturbuerit,perturberit,perturbierit,He/she/it will have disturbed
+Active Indicative,Future Perfect,3rd Person,Plural,perturbaverint,perturbuerint,perturberint,perturbierint,They will have disturbed
+Passive Indicative,Present,1st Person,Singular,perturbor,perturbeor,perturbor,perturbior,I am being disturbed
+Passive Indicative,Present,1st Person,Plural,perturbamur,perturbemur,perturbimur,perturbimur,We are being disturbed
+Passive Indicative,Present,2nd Person,Singular,perturbaris,perturberis,perturbiris,perturbiris,You are being disturbed
+Passive Indicative,Present,2nd Person,Plural,perturbamini,perturbemini,perturbimini,perturbimini,You (pl.) are being disturbed
+Passive Indicative,Present,3rd Person,Singular,perturbatur,perturbetur,perturbitur,perturbitur,He/she/it is being disturbed
+Passive Indicative,Present,3rd Person,Plural,perturbantur,perturbentur,perturbiuntur,perturbiuntur,They are being disturbed
+Passive Indicative,Imperfect,1st Person,Singular,perturbabar,perturbebar,perturbebar,perturbiebar,I was disturbed
+Passive Indicative,Imperfect,1st Person,Plural,perturbabamur,perturbebamur,perturbebamur,perturbiebamur,We were disturbed
+Passive Indicative,Imperfect,2nd Person,Singular,perturbabaris,perturbebaris,perturbebaris,perturbiebaris,You were disturbed
+Passive Indicative,Imperfect,2nd Person,Plural,perturbabamini,perturbebamini,perturbebamini,perturbiebamini,You (pl.) were disturbed
+Passive Indicative,Imperfect,3rd Person,Singular,perturbabatur,perturbebatur,perturbebatur,perturbiebatur,He/she/it was disturbed
+Passive Indicative,Imperfect,3rd Person,Plural,perturbabantur,perturbebantur,perturbebantur,perturbiebantur,They were disturbed
+Passive Indicative,Future,1st Person,Singular,perturbabor,perturbebor,perturbar,perturbiar,I will be disturbed
+Passive Indicative,Future,1st Person,Plural,perturbabimur,perturbebimur,perturbemur,perturbiemur,We will be disturbed
+Passive Indicative,Future,2nd Person,Singular,perturbaberis,perturbeberis,perturberis,perturbieris,You will be disturbed
+Passive Indicative,Future,2nd Person,Plural,perturbabimini,perturbebimini,perturbemini,perturbiemini,You (pl.) will be disturbed
+Passive Indicative,Future,3rd Person,Singular,perturbabitur,perturbebitur,perturbetur,perturbietur,He/she/it will be disturbed
+Passive Indicative,Future,3rd Person,Plural,perturbabuntur,perturbebuntur,perturbentur,perturbientur,They will be disturbed
+Passive Indicative,Perfect,1st Person,Singular,perturbatus sum,perturbetus sum,perturbus sum,perturbus sum,I have been disturbed
+Passive Indicative,Perfect,1st Person,Plural,perturbati sumus,perturbeti sumus,perturbi sumus,perturbi sumus,We have been disturbed
+Passive Indicative,Perfect,2nd Person,Singular,perturbatus es,perturbetus es,perturbus es,perturbus es,You have been disturbed
+Passive Indicative,Perfect,2nd Person,Plural,perturbati estis,perturbeti estis,perturbi estis,perturbi estis,You (pl.) have been disturbed
+Passive Indicative,Perfect,3rd Person,Singular,perturbatus est,perturbetus est,perturbus est,perturbus est,He/she/it has been disturbed
+Passive Indicative,Perfect,3rd Person,Plural,perturbati sunt,perturbeti sunt,perturbi sunt,perturbi sunt,They have been disturbed
+Passive Indicative,Pluperfect,1st Person,Singular,perturbatus eram,perturbetus eram,perturbus eram,perturbus eram,I had been disturbed
+Passive Indicative,Pluperfect,1st Person,Plural,perturbati eramus,perturbeti eramus,perturbi eramus,perturbi eramus,We had been disturbed
+Passive Indicative,Pluperfect,2nd Person,Singular,perturbatus eras,perturbetus eras,perturbus eras,perturbus eras,You had been disturbed
+Passive Indicative,Pluperfect,2nd Person,Plural,perturbati eratis,perturbeti eratis,perturbi eratis,perturbi eratis,You (pl.) had been disturbed
+Passive Indicative,Pluperfect,3rd Person,Singular,perturbatus erat,perturbetus erat,perturbus erat,perturbus erat,He/she/it had been disturbed
+Passive Indicative,Pluperfect,3rd Person,Plural,perturbati erant,perturbeti erant,perturbi erant,perturbi erant,They had been disturbed
+Passive Indicative,Future Perfect,1st Person,Singular,perturbatus ero,perturbetus ero,perturbus ero,perturbus ero,I will have been disturbed
+Passive Indicative,Future Perfect,1st Person,Plural,perturbati erimus,perturbeti erimus,perturbi erimus,perturbi erimus,We will have been disturbed
+Passive Indicative,Future Perfect,2nd Person,Singular,perturbatus eris,perturbetus eris,perturbus eris,perturbus eris,You will have been disturbed
+Passive Indicative,Future Perfect,2nd Person,Plural,perturbati eritis,perturbeti eritis,perturbi eritis,perturbi eritis,You (pl.) will have been disturbed
+Passive Indicative,Future Perfect,3rd Person,Singular,perturbatus erit,perturbetus erit,perturbus erit,perturbus erit,He/she/it will have been disturbed
+Passive Indicative,Future Perfect,3rd Person,Plural,perturbati erunt,perturbeti erunt,perturbi erunt,perturbi erunt,They will have been disturbed
+Active Subjunctive,Present,1st Person,Singular,perturbem,perturbem,perturbam,perturbam,I may disturb
+Active Subjunctive,Present,1st Person,Plural,perturbemus,perturbemus,perturbamus,perturbamus,We may disturb
+Active Subjunctive,Present,2nd Person,Singular,perturbes,perturbes,perturbas,perturbas,You may disturb
+Active Subjunctive,Present,2nd Person,Plural,perturbetis,perturbetis,perturbatis,perturbatis,You (pl.) may disturb
+Active Subjunctive,Present,3rd Person,Singular,perturbet,perturbet,perturbat,perturbat,He/she/it may disturb
+Active Subjunctive,Present,3rd Person,Plural,perturbent,perturbent,perturbant,perturbant,They may disturb
+Active Subjunctive,Imperfect,1st Person,Singular,perturbarem,perturberem,perturberem,perturbirem,I should disturb
+Active Subjunctive,Imperfect,1st Person,Plural,perturbaremus,perturberemus,perturberemus,perturbiremus,We should disturb
+Active Subjunctive,Imperfect,2nd Person,Singular,perturbares,perturberes,perturberes,perturbires,You should disturb
+Active Subjunctive,Imperfect,2nd Person,Plural,perturbaretis,perturberetis,perturberetis,perturbiretis,You (pl.) should disturb
+Active Subjunctive,Imperfect,3rd Person,Singular,perturbaret,perturberet,perturberet,perturbiret,He/she/it should disturb
+Active Subjunctive,Imperfect,3rd Person,Plural,perturbarent,perturberent,perturberent,perturbirent,They should disturb
+Active Subjunctive,Perfect,1st Person,Singular,perturberim,perturbuerim,perturberim,perturbierim,I may have disturbed
+Active Subjunctive,Perfect,1st Person,Plural,perturberimus,perturbuerimus,perturberimus,perturbierimus,We may have disturbed
+Active Subjunctive,Perfect,2nd Person,Singular,perturberis,perturbueris,perturberis,perturbieris,You may have disturbed
+Active Subjunctive,Perfect,2nd Person,Plural,perturberitis,perturbueritis,perturberitis,perturbieritis,You (pl.) may have disturbed
+Active Subjunctive,Perfect,3rd Person,Singular,perturberit,perturbuerit,perturberit,perturbierit,He/she/it may have disturbed
+Active Subjunctive,Perfect,3rd Person,Plural,perturberint,perturbuerint,perturberint,perturbierint,They may have disturbed
+Active Subjunctive,Pluperfect,1st Person,Singular,perturbissem,perturbuissem,perturbissem,perturbissem,I should have disturbed
+Active Subjunctive,Pluperfect,1st Person,Plural,perturbissemus,perturbuissemus,perturbissemus,perturbissemus,We should have disturbed
+Active Subjunctive,Pluperfect,2nd Person,Singular,perturbisses,perturbuisses,perturbisses,perturbisses,You would have disturbed
+Active Subjunctive,Pluperfect,2nd Person,Plural,perturbissetis,perturbuissetis,perturbissetis,perturbissetis,You (pl.) would have disturbed
+Active Subjunctive,Pluperfect,3rd Person,Singular,perturbisset,perturbuisset,perturbisset,perturbisset,He/she/it would have disturbed
+Active Subjunctive,Pluperfect,3rd Person,Plural,perturbissent,perturbuissent,perturbissent,perturbissent,They would have disturbed
+Passive Subjunctive,Present,1st Person,Singular,perturber,perturber,perturbar,perturbar,I may be disturbed
+Passive Subjunctive,Present,1st Person,Plural,perturbemur,perturbemur,perturbamur,perturbamur,We may be disturbed
+Passive Subjunctive,Present,2nd Person,Singular,perturberis,perturberis,perturbaris,perturbaris,You may be disturbed
+Passive Subjunctive,Present,2nd Person,Plural,perturbemini,perturbemini,perturbamini,perturbamini,You (pl.) may be disturbed
+Passive Subjunctive,Present,3rd Person,Singular,perturbetur,perturbetur,perturbatur,perturbatur,He/she/it may be disturbed
+Passive Subjunctive,Present,3rd Person,Plural,perturbentur,perturbentur,perturbantur,perturbantur,They may be disturbed
+Passive Subjunctive,Imperfect,1st Person,Singular,perturbarer,perturberer,perturberer,perturbirer,I should be disturbed
+Passive Subjunctive,Imperfect,1st Person,Plural,perturbaremur,perturberemur,perturberemur,perturbiremur,We should be disturbed
+Passive Subjunctive,Imperfect,2nd Person,Singular,perturbareris,perturbereris,perturbereris,perturbireris,You would be disturbed
+Passive Subjunctive,Imperfect,2nd Person,Plural,perturbaremini,perturberemini,perturberemini,perturbiremini,You (pl.) would be disturbed
+Passive Subjunctive,Imperfect,3rd Person,Singular,perturbaretur,perturberetur,perturberetur,perturbiretur,He/she/it would be disturbed
+Passive Subjunctive,Imperfect,3rd Person,Plural,perturbarentur,perturberentur,perturberentur,perturbirentur,They would be disturbed
+Passive Subjunctive,Perfect,1st Person,Singular,perturbatus sim,perturbetus sim,perturbus sim,perturbus sim,I may have been disturbed
+Passive Subjunctive,Perfect,1st Person,Plural,perturbati simus,perturbeti simus,perturbi simus,perturbi simus,We may have been disturbed
+Passive Subjunctive,Perfect,2nd Person,Singular,perturbatus sis,perturbetus sis,perturbus sis,perturbus sis,You may have been disturbed
+Passive Subjunctive,Perfect,2nd Person,Plural,perturbati sitis,perturbeti sitis,perturbi sitis,perturbi sitis,You (pl.) may have been disturbed
+Passive Subjunctive,Perfect,3rd Person,Singular,perturbatus sit,perturbetus sit,perturbus sit,perturbus sit,He/she/it may have been disturbed
+Passive Subjunctive,Perfect,3rd Person,Plural,perturbati sint,perturbeti sint,perturbi sint,perturbi sint,They may have been disturbed
+Passive Subjunctive,Pluperfect,1st Person,Singular,perturbatus essem,perturbetus essem,perturbus essem,perturbus essem,I should have been disturbed
+Passive Subjunctive,Pluperfect,1st Person,Plural,perturbati essemus,perturbeti essemus,perturbi essemus,perturbi essemus,We should have been disturbed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,perturbatus esses,perturbetus esses,perturbus esses,perturbus esses,You would have been disturbed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,perturbati essetis,perturbeti essetis,perturbi essetis,perturbi essetis,You (pl.) would have been disturbed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,perturbatus esset,perturbetus esset,perturbus esset,perturbus esset,He/she/it would have been disturbed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,perturbati essent,perturbeti essent,perturbi essent,perturbi essent,They would have been disturbed

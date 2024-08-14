@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,bullico,bulliceo,bullico,bullicio,I boil
+Active Indicative,Present,1st Person,Plural,bullicamus,bullicemus,bullicimus,bullicimus,We boil
+Active Indicative,Present,2nd Person,Singular,bullicas,bullices,bullicis,bullicis,You boil
+Active Indicative,Present,2nd Person,Plural,bullicatis,bullicetis,bullicitis,bullicitis,You (pl.) boil
+Active Indicative,Present,3rd Person,Singular,bullicat,bullicet,bullicit,bullicit,He/she/it boil
+Active Indicative,Present,3rd Person,Plural,bullicant,bullicent,bulliciunt,bulliciunt,They boil
+Active Indicative,Imperfect,1st Person,Singular,bullicabam,bullicebam,bullicebam,bulliciebam,I was boiling
+Active Indicative,Imperfect,1st Person,Plural,bullicabamus,bullicebamus,bullicebamus,bulliciebamus,We were boiling
+Active Indicative,Imperfect,2nd Person,Singular,bullicabas,bullicebas,bullicebas,bulliciebas,You were boiling
+Active Indicative,Imperfect,2nd Person,Plural,bullicabatis,bullicebatis,bullicebatis,bulliciebatis,You (pl.) were boiling
+Active Indicative,Imperfect,3rd Person,Singular,bullicabat,bullicebat,bullicebat,bulliciebat,He/she/it was boiling
+Active Indicative,Imperfect,3rd Person,Plural,bullicabant,bullicebant,bullicebant,bulliciebant,They were boiling
+Active Indicative,Future,1st Person,Singular,bullicabo,bullicebo,bullicam,bulliciam,I will boil
+Active Indicative,Future,1st Person,Plural,bullicabimus,bullicebimus,bullicemus,bulliciemus,We will boil
+Active Indicative,Future,2nd Person,Singular,bullicabis,bullicebis,bullices,bullicies,You will boil
+Active Indicative,Future,2nd Person,Plural,bullicabitis,bullicebitis,bullicetis,bullicietis,You (pl.) will boil
+Active Indicative,Future,3rd Person,Singular,bullicabit,bullicebit,bullicet,bulliciet,He/she/it will boil
+Active Indicative,Future,3rd Person,Plural,bullicabunt,bullicebunt,bullicent,bullicient,They will boil
+Active Indicative,Perfect,1st Person,Singular,bullicavi,bullicui,bullici,bullici,I have boiled
+Active Indicative,Perfect,1st Person,Plural,bullicavimus,bullicuimus,bullicimus,bullicimus,We have boiled
+Active Indicative,Perfect,2nd Person,Singular,bullicavisti,bullicuisti,bullicisti,bullicisti,You have boiled
+Active Indicative,Perfect,2nd Person,Plural,bullicavistis,bullicuistis,bullicistis,bullicistis,You (pl.) have boiled
+Active Indicative,Perfect,3rd Person,Singular,bullicavit,bullicuit,bullicit,bullicit,He/she/it has boiled
+Active Indicative,Perfect,3rd Person,Plural,bullicaverunt,bullicuerunt,bullicerunt,bullicerunt,They have boiled
+Active Indicative,Pluperfect,1st Person,Singular,bullicaveram,bullicueram,bulliceram,bulliceram,I had boiled
+Active Indicative,Pluperfect,1st Person,Plural,bullicaveramus,bullicueramus,bulliceramus,bulliceramus,We had boiled
+Active Indicative,Pluperfect,2nd Person,Singular,bullicaveras,bullicueras,bulliceras,bulliceras,You had boiled
+Active Indicative,Pluperfect,2nd Person,Plural,bullicaveratis,bullicueratis,bulliceratis,bulliceratis,You (pl.) had boiled
+Active Indicative,Pluperfect,3rd Person,Singular,bullicaverat,bullicuerat,bullicerat,bullicerat,He/she/it had boiled
+Active Indicative,Pluperfect,3rd Person,Plural,bullicaverant,bullicuerant,bullicerant,bullicerant,They had boiled
+Active Indicative,Future Perfect,1st Person,Singular,bullicavero,bullicueero,bullicero,bulliciero,I will have boiled
+Active Indicative,Future Perfect,1st Person,Plural,bullicaverimus,bullicuerimus,bullicerimus,bullicierimus,We will have boiled
+Active Indicative,Future Perfect,2nd Person,Singular,bullicaveris,bullicueris,bulliceris,bullicieris,You will have boiled
+Active Indicative,Future Perfect,2nd Person,Plural,bullicaveritis,bullicueritis,bulliceritis,bullicieritis,You (pl.) will have boiled
+Active Indicative,Future Perfect,3rd Person,Singular,bullicaverit,bullicuerit,bullicerit,bullicierit,He/she/it will have boiled
+Active Indicative,Future Perfect,3rd Person,Plural,bullicaverint,bullicuerint,bullicerint,bullicierint,They will have boiled
+Passive Indicative,Present,1st Person,Singular,bullicor,bulliceor,bullicor,bullicior,I am being boiled
+Passive Indicative,Present,1st Person,Plural,bullicamur,bullicemur,bullicimur,bullicimur,We are being boiled
+Passive Indicative,Present,2nd Person,Singular,bullicaris,bulliceris,bulliciris,bulliciris,You are being boiled
+Passive Indicative,Present,2nd Person,Plural,bullicamini,bullicemini,bullicimini,bullicimini,You (pl.) are being boiled
+Passive Indicative,Present,3rd Person,Singular,bullicatur,bullicetur,bullicitur,bullicitur,He/she/it is being boiled
+Passive Indicative,Present,3rd Person,Plural,bullicantur,bullicentur,bulliciuntur,bulliciuntur,They are being boiled
+Passive Indicative,Imperfect,1st Person,Singular,bullicabar,bullicebar,bullicebar,bulliciebar,I was boiled
+Passive Indicative,Imperfect,1st Person,Plural,bullicabamur,bullicebamur,bullicebamur,bulliciebamur,We were boiled
+Passive Indicative,Imperfect,2nd Person,Singular,bullicabaris,bullicebaris,bullicebaris,bulliciebaris,You were boiled
+Passive Indicative,Imperfect,2nd Person,Plural,bullicabamini,bullicebamini,bullicebamini,bulliciebamini,You (pl.) were boiled
+Passive Indicative,Imperfect,3rd Person,Singular,bullicabatur,bullicebatur,bullicebatur,bulliciebatur,He/she/it was boiled
+Passive Indicative,Imperfect,3rd Person,Plural,bullicabantur,bullicebantur,bullicebantur,bulliciebantur,They were boiled
+Passive Indicative,Future,1st Person,Singular,bullicabor,bullicebor,bullicar,bulliciar,I will be boiled
+Passive Indicative,Future,1st Person,Plural,bullicabimur,bullicebimur,bullicemur,bulliciemur,We will be boiled
+Passive Indicative,Future,2nd Person,Singular,bullicaberis,bulliceberis,bulliceris,bullicieris,You will be boiled
+Passive Indicative,Future,2nd Person,Plural,bullicabimini,bullicebimini,bullicemini,bulliciemini,You (pl.) will be boiled
+Passive Indicative,Future,3rd Person,Singular,bullicabitur,bullicebitur,bullicetur,bullicietur,He/she/it will be boiled
+Passive Indicative,Future,3rd Person,Plural,bullicabuntur,bullicebuntur,bullicentur,bullicientur,They will be boiled
+Passive Indicative,Perfect,1st Person,Singular,bullicatus sum,bullicetus sum,bullicus sum,bullicus sum,I have been boiled
+Passive Indicative,Perfect,1st Person,Plural,bullicati sumus,bulliceti sumus,bullici sumus,bullici sumus,We have been boiled
+Passive Indicative,Perfect,2nd Person,Singular,bullicatus es,bullicetus es,bullicus es,bullicus es,You have been boiled
+Passive Indicative,Perfect,2nd Person,Plural,bullicati estis,bulliceti estis,bullici estis,bullici estis,You (pl.) have been boiled
+Passive Indicative,Perfect,3rd Person,Singular,bullicatus est,bullicetus est,bullicus est,bullicus est,He/she/it has been boiled
+Passive Indicative,Perfect,3rd Person,Plural,bullicati sunt,bulliceti sunt,bullici sunt,bullici sunt,They have been boiled
+Passive Indicative,Pluperfect,1st Person,Singular,bullicatus eram,bullicetus eram,bullicus eram,bullicus eram,I had been boiled
+Passive Indicative,Pluperfect,1st Person,Plural,bullicati eramus,bulliceti eramus,bullici eramus,bullici eramus,We had been boiled
+Passive Indicative,Pluperfect,2nd Person,Singular,bullicatus eras,bullicetus eras,bullicus eras,bullicus eras,You had been boiled
+Passive Indicative,Pluperfect,2nd Person,Plural,bullicati eratis,bulliceti eratis,bullici eratis,bullici eratis,You (pl.) had been boiled
+Passive Indicative,Pluperfect,3rd Person,Singular,bullicatus erat,bullicetus erat,bullicus erat,bullicus erat,He/she/it had been boiled
+Passive Indicative,Pluperfect,3rd Person,Plural,bullicati erant,bulliceti erant,bullici erant,bullici erant,They had been boiled
+Passive Indicative,Future Perfect,1st Person,Singular,bullicatus ero,bullicetus ero,bullicus ero,bullicus ero,I will have been boiled
+Passive Indicative,Future Perfect,1st Person,Plural,bullicati erimus,bulliceti erimus,bullici erimus,bullici erimus,We will have been boiled
+Passive Indicative,Future Perfect,2nd Person,Singular,bullicatus eris,bullicetus eris,bullicus eris,bullicus eris,You will have been boiled
+Passive Indicative,Future Perfect,2nd Person,Plural,bullicati eritis,bulliceti eritis,bullici eritis,bullici eritis,You (pl.) will have been boiled
+Passive Indicative,Future Perfect,3rd Person,Singular,bullicatus erit,bullicetus erit,bullicus erit,bullicus erit,He/she/it will have been boiled
+Passive Indicative,Future Perfect,3rd Person,Plural,bullicati erunt,bulliceti erunt,bullici erunt,bullici erunt,They will have been boiled
+Active Subjunctive,Present,1st Person,Singular,bullicem,bullicem,bullicam,bullicam,I may boil
+Active Subjunctive,Present,1st Person,Plural,bullicemus,bullicemus,bullicamus,bullicamus,We may boil
+Active Subjunctive,Present,2nd Person,Singular,bullices,bullices,bullicas,bullicas,You may boil
+Active Subjunctive,Present,2nd Person,Plural,bullicetis,bullicetis,bullicatis,bullicatis,You (pl.) may boil
+Active Subjunctive,Present,3rd Person,Singular,bullicet,bullicet,bullicat,bullicat,He/she/it may boil
+Active Subjunctive,Present,3rd Person,Plural,bullicent,bullicent,bullicant,bullicant,They may boil
+Active Subjunctive,Imperfect,1st Person,Singular,bullicarem,bullicerem,bullicerem,bullicirem,I should boil
+Active Subjunctive,Imperfect,1st Person,Plural,bullicaremus,bulliceremus,bulliceremus,bulliciremus,We should boil
+Active Subjunctive,Imperfect,2nd Person,Singular,bullicares,bulliceres,bulliceres,bullicires,You should boil
+Active Subjunctive,Imperfect,2nd Person,Plural,bullicaretis,bulliceretis,bulliceretis,bulliciretis,You (pl.) should boil
+Active Subjunctive,Imperfect,3rd Person,Singular,bullicaret,bulliceret,bulliceret,bulliciret,He/she/it should boil
+Active Subjunctive,Imperfect,3rd Person,Plural,bullicarent,bullicerent,bullicerent,bullicirent,They should boil
+Active Subjunctive,Perfect,1st Person,Singular,bullicerim,bullicuerim,bullicerim,bullicierim,I may have boiled
+Active Subjunctive,Perfect,1st Person,Plural,bullicerimus,bullicuerimus,bullicerimus,bullicierimus,We may have boiled
+Active Subjunctive,Perfect,2nd Person,Singular,bulliceris,bullicueris,bulliceris,bullicieris,You may have boiled
+Active Subjunctive,Perfect,2nd Person,Plural,bulliceritis,bullicueritis,bulliceritis,bullicieritis,You (pl.) may have boiled
+Active Subjunctive,Perfect,3rd Person,Singular,bullicerit,bullicuerit,bullicerit,bullicierit,He/she/it may have boiled
+Active Subjunctive,Perfect,3rd Person,Plural,bullicerint,bullicuerint,bullicerint,bullicierint,They may have boiled
+Active Subjunctive,Pluperfect,1st Person,Singular,bullicissem,bullicuissem,bullicissem,bullicissem,I should have boiled
+Active Subjunctive,Pluperfect,1st Person,Plural,bullicissemus,bullicuissemus,bullicissemus,bullicissemus,We should have boiled
+Active Subjunctive,Pluperfect,2nd Person,Singular,bullicisses,bullicuisses,bullicisses,bullicisses,You would have boiled
+Active Subjunctive,Pluperfect,2nd Person,Plural,bullicissetis,bullicuissetis,bullicissetis,bullicissetis,You (pl.) would have boiled
+Active Subjunctive,Pluperfect,3rd Person,Singular,bullicisset,bullicuisset,bullicisset,bullicisset,He/she/it would have boiled
+Active Subjunctive,Pluperfect,3rd Person,Plural,bullicissent,bullicuissent,bullicissent,bullicissent,They would have boiled
+Passive Subjunctive,Present,1st Person,Singular,bullicer,bullicer,bullicar,bullicar,I may be boiled
+Passive Subjunctive,Present,1st Person,Plural,bullicemur,bullicemur,bullicamur,bullicamur,We may be boiled
+Passive Subjunctive,Present,2nd Person,Singular,bulliceris,bulliceris,bullicaris,bullicaris,You may be boiled
+Passive Subjunctive,Present,2nd Person,Plural,bullicemini,bullicemini,bullicamini,bullicamini,You (pl.) may be boiled
+Passive Subjunctive,Present,3rd Person,Singular,bullicetur,bullicetur,bullicatur,bullicatur,He/she/it may be boiled
+Passive Subjunctive,Present,3rd Person,Plural,bullicentur,bullicentur,bullicantur,bullicantur,They may be boiled
+Passive Subjunctive,Imperfect,1st Person,Singular,bullicarer,bullicerer,bullicerer,bullicirer,I should be boiled
+Passive Subjunctive,Imperfect,1st Person,Plural,bullicaremur,bulliceremur,bulliceremur,bulliciremur,We should be boiled
+Passive Subjunctive,Imperfect,2nd Person,Singular,bullicareris,bullicereris,bullicereris,bullicireris,You would be boiled
+Passive Subjunctive,Imperfect,2nd Person,Plural,bullicaremini,bulliceremini,bulliceremini,bulliciremini,You (pl.) would be boiled
+Passive Subjunctive,Imperfect,3rd Person,Singular,bullicaretur,bulliceretur,bulliceretur,bulliciretur,He/she/it would be boiled
+Passive Subjunctive,Imperfect,3rd Person,Plural,bullicarentur,bullicerentur,bullicerentur,bullicirentur,They would be boiled
+Passive Subjunctive,Perfect,1st Person,Singular,bullicatus sim,bullicetus sim,bullicus sim,bullicus sim,I may have been boiled
+Passive Subjunctive,Perfect,1st Person,Plural,bullicati simus,bulliceti simus,bullici simus,bullici simus,We may have been boiled
+Passive Subjunctive,Perfect,2nd Person,Singular,bullicatus sis,bullicetus sis,bullicus sis,bullicus sis,You may have been boiled
+Passive Subjunctive,Perfect,2nd Person,Plural,bullicati sitis,bulliceti sitis,bullici sitis,bullici sitis,You (pl.) may have been boiled
+Passive Subjunctive,Perfect,3rd Person,Singular,bullicatus sit,bullicetus sit,bullicus sit,bullicus sit,He/she/it may have been boiled
+Passive Subjunctive,Perfect,3rd Person,Plural,bullicati sint,bulliceti sint,bullici sint,bullici sint,They may have been boiled
+Passive Subjunctive,Pluperfect,1st Person,Singular,bullicatus essem,bullicetus essem,bullicus essem,bullicus essem,I should have been boiled
+Passive Subjunctive,Pluperfect,1st Person,Plural,bullicati essemus,bulliceti essemus,bullici essemus,bullici essemus,We should have been boiled
+Passive Subjunctive,Pluperfect,2nd Person,Singular,bullicatus esses,bullicetus esses,bullicus esses,bullicus esses,You would have been boiled
+Passive Subjunctive,Pluperfect,2nd Person,Plural,bullicati essetis,bulliceti essetis,bullici essetis,bullici essetis,You (pl.) would have been boiled
+Passive Subjunctive,Pluperfect,3rd Person,Singular,bullicatus esset,bullicetus esset,bullicus esset,bullicus esset,He/she/it would have been boiled
+Passive Subjunctive,Pluperfect,3rd Person,Plural,bullicati essent,bulliceti essent,bullici essent,bullici essent,They would have been boiled

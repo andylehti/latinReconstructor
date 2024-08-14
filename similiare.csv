@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,similio,similieo,similio,similio,I resemble
+Active Indicative,Present,1st Person,Plural,similiamus,similiemus,similimus,similimus,We resemble
+Active Indicative,Present,2nd Person,Singular,similias,similies,similis,similis,You resemble
+Active Indicative,Present,2nd Person,Plural,similiatis,similietis,similitis,similitis,You (pl.) resemble
+Active Indicative,Present,3rd Person,Singular,similiat,similiet,similit,similit,He/she/it resemble
+Active Indicative,Present,3rd Person,Plural,similiant,similient,similiunt,similiunt,They resemble
+Active Indicative,Imperfect,1st Person,Singular,similiabam,similiebam,similiebam,similiebam,I was resembleing
+Active Indicative,Imperfect,1st Person,Plural,similiabamus,similiebamus,similiebamus,similiebamus,We were resembleing
+Active Indicative,Imperfect,2nd Person,Singular,similiabas,similiebas,similiebas,similiebas,You were resembleing
+Active Indicative,Imperfect,2nd Person,Plural,similiabatis,similiebatis,similiebatis,similiebatis,You (pl.) were resembleing
+Active Indicative,Imperfect,3rd Person,Singular,similiabat,similiebat,similiebat,similiebat,He/she/it was resembleing
+Active Indicative,Imperfect,3rd Person,Plural,similiabant,similiebant,similiebant,similiebant,They were resembleing
+Active Indicative,Future,1st Person,Singular,similiabo,similiebo,similiam,similiam,I will resemble
+Active Indicative,Future,1st Person,Plural,similiabimus,similiebimus,similiemus,similiemus,We will resemble
+Active Indicative,Future,2nd Person,Singular,similiabis,similiebis,similies,similies,You will resemble
+Active Indicative,Future,2nd Person,Plural,similiabitis,similiebitis,similietis,similietis,You (pl.) will resemble
+Active Indicative,Future,3rd Person,Singular,similiabit,similiebit,similiet,similiet,He/she/it will resemble
+Active Indicative,Future,3rd Person,Plural,similiabunt,similiebunt,similient,similient,They will resemble
+Active Indicative,Perfect,1st Person,Singular,similiavi,similiui,simili,simili,I have resembleed
+Active Indicative,Perfect,1st Person,Plural,similiavimus,similiuimus,similimus,similimus,We have resembleed
+Active Indicative,Perfect,2nd Person,Singular,similiavisti,similiuisti,similisti,similisti,You have resembleed
+Active Indicative,Perfect,2nd Person,Plural,similiavistis,similiuistis,similistis,similistis,You (pl.) have resembleed
+Active Indicative,Perfect,3rd Person,Singular,similiavit,similiuit,similit,similit,He/she/it has resembleed
+Active Indicative,Perfect,3rd Person,Plural,similiaverunt,similiuerunt,similierunt,similierunt,They have resembleed
+Active Indicative,Pluperfect,1st Person,Singular,similiaveram,similiueram,similieram,similieram,I had resembleed
+Active Indicative,Pluperfect,1st Person,Plural,similiaveramus,similiueramus,similieramus,similieramus,We had resembleed
+Active Indicative,Pluperfect,2nd Person,Singular,similiaveras,similiueras,similieras,similieras,You had resembleed
+Active Indicative,Pluperfect,2nd Person,Plural,similiaveratis,similiueratis,similieratis,similieratis,You (pl.) had resembleed
+Active Indicative,Pluperfect,3rd Person,Singular,similiaverat,similiuerat,similierat,similierat,He/she/it had resembleed
+Active Indicative,Pluperfect,3rd Person,Plural,similiaverant,similiuerant,similierant,similierant,They had resembleed
+Active Indicative,Future Perfect,1st Person,Singular,similiavero,similiueero,similiero,similiero,I will have resembleed
+Active Indicative,Future Perfect,1st Person,Plural,similiaverimus,similiuerimus,similierimus,similierimus,We will have resembleed
+Active Indicative,Future Perfect,2nd Person,Singular,similiaveris,similiueris,similieris,similieris,You will have resembleed
+Active Indicative,Future Perfect,2nd Person,Plural,similiaveritis,similiueritis,similieritis,similieritis,You (pl.) will have resembleed
+Active Indicative,Future Perfect,3rd Person,Singular,similiaverit,similiuerit,similierit,similierit,He/she/it will have resembleed
+Active Indicative,Future Perfect,3rd Person,Plural,similiaverint,similiuerint,similierint,similierint,They will have resembleed
+Passive Indicative,Present,1st Person,Singular,similior,similieor,similior,similior,I am being resembleed
+Passive Indicative,Present,1st Person,Plural,similiamur,similiemur,similimur,similimur,We are being resembleed
+Passive Indicative,Present,2nd Person,Singular,similiaris,similieris,similiris,similiris,You are being resembleed
+Passive Indicative,Present,2nd Person,Plural,similiamini,similiemini,similimini,similimini,You (pl.) are being resembleed
+Passive Indicative,Present,3rd Person,Singular,similiatur,similietur,similitur,similitur,He/she/it is being resembleed
+Passive Indicative,Present,3rd Person,Plural,similiantur,similientur,similiuntur,similiuntur,They are being resembleed
+Passive Indicative,Imperfect,1st Person,Singular,similiabar,similiebar,similiebar,similiebar,I was resembleed
+Passive Indicative,Imperfect,1st Person,Plural,similiabamur,similiebamur,similiebamur,similiebamur,We were resembleed
+Passive Indicative,Imperfect,2nd Person,Singular,similiabaris,similiebaris,similiebaris,similiebaris,You were resembleed
+Passive Indicative,Imperfect,2nd Person,Plural,similiabamini,similiebamini,similiebamini,similiebamini,You (pl.) were resembleed
+Passive Indicative,Imperfect,3rd Person,Singular,similiabatur,similiebatur,similiebatur,similiebatur,He/she/it was resembleed
+Passive Indicative,Imperfect,3rd Person,Plural,similiabantur,similiebantur,similiebantur,similiebantur,They were resembleed
+Passive Indicative,Future,1st Person,Singular,similiabor,similiebor,similiar,similiar,I will be resembleed
+Passive Indicative,Future,1st Person,Plural,similiabimur,similiebimur,similiemur,similiemur,We will be resembleed
+Passive Indicative,Future,2nd Person,Singular,similiaberis,similieberis,similieris,similieris,You will be resembleed
+Passive Indicative,Future,2nd Person,Plural,similiabimini,similiebimini,similiemini,similiemini,You (pl.) will be resembleed
+Passive Indicative,Future,3rd Person,Singular,similiabitur,similiebitur,similietur,similietur,He/she/it will be resembleed
+Passive Indicative,Future,3rd Person,Plural,similiabuntur,similiebuntur,similientur,similientur,They will be resembleed
+Passive Indicative,Perfect,1st Person,Singular,similiatus sum,similietus sum,similius sum,similius sum,I have been resembleed
+Passive Indicative,Perfect,1st Person,Plural,similiati sumus,similieti sumus,simili sumus,simili sumus,We have been resembleed
+Passive Indicative,Perfect,2nd Person,Singular,similiatus es,similietus es,similius es,similius es,You have been resembleed
+Passive Indicative,Perfect,2nd Person,Plural,similiati estis,similieti estis,simili estis,simili estis,You (pl.) have been resembleed
+Passive Indicative,Perfect,3rd Person,Singular,similiatus est,similietus est,similius est,similius est,He/she/it has been resembleed
+Passive Indicative,Perfect,3rd Person,Plural,similiati sunt,similieti sunt,simili sunt,simili sunt,They have been resembleed
+Passive Indicative,Pluperfect,1st Person,Singular,similiatus eram,similietus eram,similius eram,similius eram,I had been resembleed
+Passive Indicative,Pluperfect,1st Person,Plural,similiati eramus,similieti eramus,simili eramus,simili eramus,We had been resembleed
+Passive Indicative,Pluperfect,2nd Person,Singular,similiatus eras,similietus eras,similius eras,similius eras,You had been resembleed
+Passive Indicative,Pluperfect,2nd Person,Plural,similiati eratis,similieti eratis,simili eratis,simili eratis,You (pl.) had been resembleed
+Passive Indicative,Pluperfect,3rd Person,Singular,similiatus erat,similietus erat,similius erat,similius erat,He/she/it had been resembleed
+Passive Indicative,Pluperfect,3rd Person,Plural,similiati erant,similieti erant,simili erant,simili erant,They had been resembleed
+Passive Indicative,Future Perfect,1st Person,Singular,similiatus ero,similietus ero,similius ero,similius ero,I will have been resembleed
+Passive Indicative,Future Perfect,1st Person,Plural,similiati erimus,similieti erimus,simili erimus,simili erimus,We will have been resembleed
+Passive Indicative,Future Perfect,2nd Person,Singular,similiatus eris,similietus eris,similius eris,similius eris,You will have been resembleed
+Passive Indicative,Future Perfect,2nd Person,Plural,similiati eritis,similieti eritis,simili eritis,simili eritis,You (pl.) will have been resembleed
+Passive Indicative,Future Perfect,3rd Person,Singular,similiatus erit,similietus erit,similius erit,similius erit,He/she/it will have been resembleed
+Passive Indicative,Future Perfect,3rd Person,Plural,similiati erunt,similieti erunt,simili erunt,simili erunt,They will have been resembleed
+Active Subjunctive,Present,1st Person,Singular,similiem,similiem,similiam,similiam,I may resemble
+Active Subjunctive,Present,1st Person,Plural,similiemus,similiemus,similiamus,similiamus,We may resemble
+Active Subjunctive,Present,2nd Person,Singular,similies,similies,similias,similias,You may resemble
+Active Subjunctive,Present,2nd Person,Plural,similietis,similietis,similiatis,similiatis,You (pl.) may resemble
+Active Subjunctive,Present,3rd Person,Singular,similiet,similiet,similiat,similiat,He/she/it may resemble
+Active Subjunctive,Present,3rd Person,Plural,similient,similient,similiant,similiant,They may resemble
+Active Subjunctive,Imperfect,1st Person,Singular,similiarem,similierem,similierem,similirem,I should resemble
+Active Subjunctive,Imperfect,1st Person,Plural,similiaremus,similieremus,similieremus,similiremus,We should resemble
+Active Subjunctive,Imperfect,2nd Person,Singular,similiares,similieres,similieres,similires,You should resemble
+Active Subjunctive,Imperfect,2nd Person,Plural,similiaretis,similieretis,similieretis,similiretis,You (pl.) should resemble
+Active Subjunctive,Imperfect,3rd Person,Singular,similiaret,similieret,similieret,similiret,He/she/it should resemble
+Active Subjunctive,Imperfect,3rd Person,Plural,similiarent,similierent,similierent,similirent,They should resemble
+Active Subjunctive,Perfect,1st Person,Singular,similierim,similiuerim,similierim,similierim,I may have resembleed
+Active Subjunctive,Perfect,1st Person,Plural,similierimus,similiuerimus,similierimus,similierimus,We may have resembleed
+Active Subjunctive,Perfect,2nd Person,Singular,similieris,similiueris,similieris,similieris,You may have resembleed
+Active Subjunctive,Perfect,2nd Person,Plural,similieritis,similiueritis,similieritis,similieritis,You (pl.) may have resembleed
+Active Subjunctive,Perfect,3rd Person,Singular,similierit,similiuerit,similierit,similierit,He/she/it may have resembleed
+Active Subjunctive,Perfect,3rd Person,Plural,similierint,similiuerint,similierint,similierint,They may have resembleed
+Active Subjunctive,Pluperfect,1st Person,Singular,similissem,similiuissem,similissem,similissem,I should have resembleed
+Active Subjunctive,Pluperfect,1st Person,Plural,similissemus,similiuissemus,similissemus,similissemus,We should have resembleed
+Active Subjunctive,Pluperfect,2nd Person,Singular,similisses,similiuisses,similisses,similisses,You would have resembleed
+Active Subjunctive,Pluperfect,2nd Person,Plural,similissetis,similiuissetis,similissetis,similissetis,You (pl.) would have resembleed
+Active Subjunctive,Pluperfect,3rd Person,Singular,similisset,similiuisset,similisset,similisset,He/she/it would have resembleed
+Active Subjunctive,Pluperfect,3rd Person,Plural,similissent,similiuissent,similissent,similissent,They would have resembleed
+Passive Subjunctive,Present,1st Person,Singular,similier,similier,similiar,similiar,I may be resembleed
+Passive Subjunctive,Present,1st Person,Plural,similiemur,similiemur,similiamur,similiamur,We may be resembleed
+Passive Subjunctive,Present,2nd Person,Singular,similieris,similieris,similiaris,similiaris,You may be resembleed
+Passive Subjunctive,Present,2nd Person,Plural,similiemini,similiemini,similiamini,similiamini,You (pl.) may be resembleed
+Passive Subjunctive,Present,3rd Person,Singular,similietur,similietur,similiatur,similiatur,He/she/it may be resembleed
+Passive Subjunctive,Present,3rd Person,Plural,similientur,similientur,similiantur,similiantur,They may be resembleed
+Passive Subjunctive,Imperfect,1st Person,Singular,similiarer,similierer,similierer,similirer,I should be resembleed
+Passive Subjunctive,Imperfect,1st Person,Plural,similiaremur,similieremur,similieremur,similiremur,We should be resembleed
+Passive Subjunctive,Imperfect,2nd Person,Singular,similiareris,similiereris,similiereris,similireris,You would be resembleed
+Passive Subjunctive,Imperfect,2nd Person,Plural,similiaremini,similieremini,similieremini,similiremini,You (pl.) would be resembleed
+Passive Subjunctive,Imperfect,3rd Person,Singular,similiaretur,similieretur,similieretur,similiretur,He/she/it would be resembleed
+Passive Subjunctive,Imperfect,3rd Person,Plural,similiarentur,similierentur,similierentur,similirentur,They would be resembleed
+Passive Subjunctive,Perfect,1st Person,Singular,similiatus sim,similietus sim,similius sim,similius sim,I may have been resembleed
+Passive Subjunctive,Perfect,1st Person,Plural,similiati simus,similieti simus,simili simus,simili simus,We may have been resembleed
+Passive Subjunctive,Perfect,2nd Person,Singular,similiatus sis,similietus sis,similius sis,similius sis,You may have been resembleed
+Passive Subjunctive,Perfect,2nd Person,Plural,similiati sitis,similieti sitis,simili sitis,simili sitis,You (pl.) may have been resembleed
+Passive Subjunctive,Perfect,3rd Person,Singular,similiatus sit,similietus sit,similius sit,similius sit,He/she/it may have been resembleed
+Passive Subjunctive,Perfect,3rd Person,Plural,similiati sint,similieti sint,simili sint,simili sint,They may have been resembleed
+Passive Subjunctive,Pluperfect,1st Person,Singular,similiatus essem,similietus essem,similius essem,similius essem,I should have been resembleed
+Passive Subjunctive,Pluperfect,1st Person,Plural,similiati essemus,similieti essemus,simili essemus,simili essemus,We should have been resembleed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,similiatus esses,similietus esses,similius esses,similius esses,You would have been resembleed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,similiati essetis,similieti essetis,simili essetis,simili essetis,You (pl.) would have been resembleed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,similiatus esset,similietus esset,similius esset,similius esset,He/she/it would have been resembleed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,similiati essent,similieti essent,simili essent,simili essent,They would have been resembleed

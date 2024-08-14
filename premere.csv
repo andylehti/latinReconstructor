@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,premo,premeo,premo,premio,I press
+Active Indicative,Present,1st Person,Plural,premamus,prememus,premimus,premimus,We press
+Active Indicative,Present,2nd Person,Singular,premas,premes,premis,premis,You press
+Active Indicative,Present,2nd Person,Plural,prematis,premetis,premitis,premitis,You (pl.) press
+Active Indicative,Present,3rd Person,Singular,premat,premet,premit,premit,He/she/it press
+Active Indicative,Present,3rd Person,Plural,premant,prement,premiunt,premiunt,They press
+Active Indicative,Imperfect,1st Person,Singular,premabam,premebam,premebam,premiebam,I was pressing
+Active Indicative,Imperfect,1st Person,Plural,premabamus,premebamus,premebamus,premiebamus,We were pressing
+Active Indicative,Imperfect,2nd Person,Singular,premabas,premebas,premebas,premiebas,You were pressing
+Active Indicative,Imperfect,2nd Person,Plural,premabatis,premebatis,premebatis,premiebatis,You (pl.) were pressing
+Active Indicative,Imperfect,3rd Person,Singular,premabat,premebat,premebat,premiebat,He/she/it was pressing
+Active Indicative,Imperfect,3rd Person,Plural,premabant,premebant,premebant,premiebant,They were pressing
+Active Indicative,Future,1st Person,Singular,premabo,premebo,premam,premiam,I will press
+Active Indicative,Future,1st Person,Plural,premabimus,premebimus,prememus,premiemus,We will press
+Active Indicative,Future,2nd Person,Singular,premabis,premebis,premes,premies,You will press
+Active Indicative,Future,2nd Person,Plural,premabitis,premebitis,premetis,premietis,You (pl.) will press
+Active Indicative,Future,3rd Person,Singular,premabit,premebit,premet,premiet,He/she/it will press
+Active Indicative,Future,3rd Person,Plural,premabunt,premebunt,prement,premient,They will press
+Active Indicative,Perfect,1st Person,Singular,premavi,premui,premi,premi,I have pressed
+Active Indicative,Perfect,1st Person,Plural,premavimus,premuimus,premimus,premimus,We have pressed
+Active Indicative,Perfect,2nd Person,Singular,premavisti,premuisti,premisti,premisti,You have pressed
+Active Indicative,Perfect,2nd Person,Plural,premavistis,premuistis,premistis,premistis,You (pl.) have pressed
+Active Indicative,Perfect,3rd Person,Singular,premavit,premuit,premit,premit,He/she/it has pressed
+Active Indicative,Perfect,3rd Person,Plural,premaverunt,premuerunt,premerunt,premerunt,They have pressed
+Active Indicative,Pluperfect,1st Person,Singular,premaveram,premueram,premeram,premeram,I had pressed
+Active Indicative,Pluperfect,1st Person,Plural,premaveramus,premueramus,premeramus,premeramus,We had pressed
+Active Indicative,Pluperfect,2nd Person,Singular,premaveras,premueras,premeras,premeras,You had pressed
+Active Indicative,Pluperfect,2nd Person,Plural,premaveratis,premueratis,premeratis,premeratis,You (pl.) had pressed
+Active Indicative,Pluperfect,3rd Person,Singular,premaverat,premuerat,premerat,premerat,He/she/it had pressed
+Active Indicative,Pluperfect,3rd Person,Plural,premaverant,premuerant,premerant,premerant,They had pressed
+Active Indicative,Future Perfect,1st Person,Singular,premavero,premueero,premero,premiero,I will have pressed
+Active Indicative,Future Perfect,1st Person,Plural,premaverimus,premuerimus,premerimus,premierimus,We will have pressed
+Active Indicative,Future Perfect,2nd Person,Singular,premaveris,premueris,premeris,premieris,You will have pressed
+Active Indicative,Future Perfect,2nd Person,Plural,premaveritis,premueritis,premeritis,premieritis,You (pl.) will have pressed
+Active Indicative,Future Perfect,3rd Person,Singular,premaverit,premuerit,premerit,premierit,He/she/it will have pressed
+Active Indicative,Future Perfect,3rd Person,Plural,premaverint,premuerint,premerint,premierint,They will have pressed
+Passive Indicative,Present,1st Person,Singular,premor,premeor,premor,premior,I am being pressed
+Passive Indicative,Present,1st Person,Plural,premamur,prememur,premimur,premimur,We are being pressed
+Passive Indicative,Present,2nd Person,Singular,premaris,premeris,premiris,premiris,You are being pressed
+Passive Indicative,Present,2nd Person,Plural,premamini,prememini,premimini,premimini,You (pl.) are being pressed
+Passive Indicative,Present,3rd Person,Singular,prematur,premetur,premitur,premitur,He/she/it is being pressed
+Passive Indicative,Present,3rd Person,Plural,premantur,prementur,premiuntur,premiuntur,They are being pressed
+Passive Indicative,Imperfect,1st Person,Singular,premabar,premebar,premebar,premiebar,I was pressed
+Passive Indicative,Imperfect,1st Person,Plural,premabamur,premebamur,premebamur,premiebamur,We were pressed
+Passive Indicative,Imperfect,2nd Person,Singular,premabaris,premebaris,premebaris,premiebaris,You were pressed
+Passive Indicative,Imperfect,2nd Person,Plural,premabamini,premebamini,premebamini,premiebamini,You (pl.) were pressed
+Passive Indicative,Imperfect,3rd Person,Singular,premabatur,premebatur,premebatur,premiebatur,He/she/it was pressed
+Passive Indicative,Imperfect,3rd Person,Plural,premabantur,premebantur,premebantur,premiebantur,They were pressed
+Passive Indicative,Future,1st Person,Singular,premabor,premebor,premar,premiar,I will be pressed
+Passive Indicative,Future,1st Person,Plural,premabimur,premebimur,prememur,premiemur,We will be pressed
+Passive Indicative,Future,2nd Person,Singular,premaberis,premeberis,premeris,premieris,You will be pressed
+Passive Indicative,Future,2nd Person,Plural,premabimini,premebimini,prememini,premiemini,You (pl.) will be pressed
+Passive Indicative,Future,3rd Person,Singular,premabitur,premebitur,premetur,premietur,He/she/it will be pressed
+Passive Indicative,Future,3rd Person,Plural,premabuntur,premebuntur,prementur,premientur,They will be pressed
+Passive Indicative,Perfect,1st Person,Singular,prematus sum,premetus sum,premus sum,premus sum,I have been pressed
+Passive Indicative,Perfect,1st Person,Plural,premati sumus,premeti sumus,premi sumus,premi sumus,We have been pressed
+Passive Indicative,Perfect,2nd Person,Singular,prematus es,premetus es,premus es,premus es,You have been pressed
+Passive Indicative,Perfect,2nd Person,Plural,premati estis,premeti estis,premi estis,premi estis,You (pl.) have been pressed
+Passive Indicative,Perfect,3rd Person,Singular,prematus est,premetus est,premus est,premus est,He/she/it has been pressed
+Passive Indicative,Perfect,3rd Person,Plural,premati sunt,premeti sunt,premi sunt,premi sunt,They have been pressed
+Passive Indicative,Pluperfect,1st Person,Singular,prematus eram,premetus eram,premus eram,premus eram,I had been pressed
+Passive Indicative,Pluperfect,1st Person,Plural,premati eramus,premeti eramus,premi eramus,premi eramus,We had been pressed
+Passive Indicative,Pluperfect,2nd Person,Singular,prematus eras,premetus eras,premus eras,premus eras,You had been pressed
+Passive Indicative,Pluperfect,2nd Person,Plural,premati eratis,premeti eratis,premi eratis,premi eratis,You (pl.) had been pressed
+Passive Indicative,Pluperfect,3rd Person,Singular,prematus erat,premetus erat,premus erat,premus erat,He/she/it had been pressed
+Passive Indicative,Pluperfect,3rd Person,Plural,premati erant,premeti erant,premi erant,premi erant,They had been pressed
+Passive Indicative,Future Perfect,1st Person,Singular,prematus ero,premetus ero,premus ero,premus ero,I will have been pressed
+Passive Indicative,Future Perfect,1st Person,Plural,premati erimus,premeti erimus,premi erimus,premi erimus,We will have been pressed
+Passive Indicative,Future Perfect,2nd Person,Singular,prematus eris,premetus eris,premus eris,premus eris,You will have been pressed
+Passive Indicative,Future Perfect,2nd Person,Plural,premati eritis,premeti eritis,premi eritis,premi eritis,You (pl.) will have been pressed
+Passive Indicative,Future Perfect,3rd Person,Singular,prematus erit,premetus erit,premus erit,premus erit,He/she/it will have been pressed
+Passive Indicative,Future Perfect,3rd Person,Plural,premati erunt,premeti erunt,premi erunt,premi erunt,They will have been pressed
+Active Subjunctive,Present,1st Person,Singular,premem,premem,premam,premam,I may press
+Active Subjunctive,Present,1st Person,Plural,prememus,prememus,premamus,premamus,We may press
+Active Subjunctive,Present,2nd Person,Singular,premes,premes,premas,premas,You may press
+Active Subjunctive,Present,2nd Person,Plural,premetis,premetis,prematis,prematis,You (pl.) may press
+Active Subjunctive,Present,3rd Person,Singular,premet,premet,premat,premat,He/she/it may press
+Active Subjunctive,Present,3rd Person,Plural,prement,prement,premant,premant,They may press
+Active Subjunctive,Imperfect,1st Person,Singular,premarem,premerem,premerem,premirem,I should press
+Active Subjunctive,Imperfect,1st Person,Plural,premaremus,premeremus,premeremus,premiremus,We should press
+Active Subjunctive,Imperfect,2nd Person,Singular,premares,premeres,premeres,premires,You should press
+Active Subjunctive,Imperfect,2nd Person,Plural,premaretis,premeretis,premeretis,premiretis,You (pl.) should press
+Active Subjunctive,Imperfect,3rd Person,Singular,premaret,premeret,premeret,premiret,He/she/it should press
+Active Subjunctive,Imperfect,3rd Person,Plural,premarent,premerent,premerent,premirent,They should press
+Active Subjunctive,Perfect,1st Person,Singular,premerim,premuerim,premerim,premierim,I may have pressed
+Active Subjunctive,Perfect,1st Person,Plural,premerimus,premuerimus,premerimus,premierimus,We may have pressed
+Active Subjunctive,Perfect,2nd Person,Singular,premeris,premueris,premeris,premieris,You may have pressed
+Active Subjunctive,Perfect,2nd Person,Plural,premeritis,premueritis,premeritis,premieritis,You (pl.) may have pressed
+Active Subjunctive,Perfect,3rd Person,Singular,premerit,premuerit,premerit,premierit,He/she/it may have pressed
+Active Subjunctive,Perfect,3rd Person,Plural,premerint,premuerint,premerint,premierint,They may have pressed
+Active Subjunctive,Pluperfect,1st Person,Singular,premissem,premuissem,premissem,premissem,I should have pressed
+Active Subjunctive,Pluperfect,1st Person,Plural,premissemus,premuissemus,premissemus,premissemus,We should have pressed
+Active Subjunctive,Pluperfect,2nd Person,Singular,premisses,premuisses,premisses,premisses,You would have pressed
+Active Subjunctive,Pluperfect,2nd Person,Plural,premissetis,premuissetis,premissetis,premissetis,You (pl.) would have pressed
+Active Subjunctive,Pluperfect,3rd Person,Singular,premisset,premuisset,premisset,premisset,He/she/it would have pressed
+Active Subjunctive,Pluperfect,3rd Person,Plural,premissent,premuissent,premissent,premissent,They would have pressed
+Passive Subjunctive,Present,1st Person,Singular,premer,premer,premar,premar,I may be pressed
+Passive Subjunctive,Present,1st Person,Plural,prememur,prememur,premamur,premamur,We may be pressed
+Passive Subjunctive,Present,2nd Person,Singular,premeris,premeris,premaris,premaris,You may be pressed
+Passive Subjunctive,Present,2nd Person,Plural,prememini,prememini,premamini,premamini,You (pl.) may be pressed
+Passive Subjunctive,Present,3rd Person,Singular,premetur,premetur,prematur,prematur,He/she/it may be pressed
+Passive Subjunctive,Present,3rd Person,Plural,prementur,prementur,premantur,premantur,They may be pressed
+Passive Subjunctive,Imperfect,1st Person,Singular,premarer,premerer,premerer,premirer,I should be pressed
+Passive Subjunctive,Imperfect,1st Person,Plural,premaremur,premeremur,premeremur,premiremur,We should be pressed
+Passive Subjunctive,Imperfect,2nd Person,Singular,premareris,premereris,premereris,premireris,You would be pressed
+Passive Subjunctive,Imperfect,2nd Person,Plural,premaremini,premeremini,premeremini,premiremini,You (pl.) would be pressed
+Passive Subjunctive,Imperfect,3rd Person,Singular,premaretur,premeretur,premeretur,premiretur,He/she/it would be pressed
+Passive Subjunctive,Imperfect,3rd Person,Plural,premarentur,premerentur,premerentur,premirentur,They would be pressed
+Passive Subjunctive,Perfect,1st Person,Singular,prematus sim,premetus sim,premus sim,premus sim,I may have been pressed
+Passive Subjunctive,Perfect,1st Person,Plural,premati simus,premeti simus,premi simus,premi simus,We may have been pressed
+Passive Subjunctive,Perfect,2nd Person,Singular,prematus sis,premetus sis,premus sis,premus sis,You may have been pressed
+Passive Subjunctive,Perfect,2nd Person,Plural,premati sitis,premeti sitis,premi sitis,premi sitis,You (pl.) may have been pressed
+Passive Subjunctive,Perfect,3rd Person,Singular,prematus sit,premetus sit,premus sit,premus sit,He/she/it may have been pressed
+Passive Subjunctive,Perfect,3rd Person,Plural,premati sint,premeti sint,premi sint,premi sint,They may have been pressed
+Passive Subjunctive,Pluperfect,1st Person,Singular,prematus essem,premetus essem,premus essem,premus essem,I should have been pressed
+Passive Subjunctive,Pluperfect,1st Person,Plural,premati essemus,premeti essemus,premi essemus,premi essemus,We should have been pressed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,prematus esses,premetus esses,premus esses,premus esses,You would have been pressed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,premati essetis,premeti essetis,premi essetis,premi essetis,You (pl.) would have been pressed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,prematus esset,premetus esset,premus esset,premus esset,He/she/it would have been pressed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,premati essent,premeti essent,premi essent,premi essent,They would have been pressed

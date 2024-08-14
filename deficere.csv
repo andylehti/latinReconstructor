@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,defico,deficeo,defico,deficio,I fail
+Active Indicative,Present,1st Person,Plural,deficamus,deficemus,deficimus,deficimus,We fail
+Active Indicative,Present,2nd Person,Singular,deficas,defices,deficis,deficis,You fail
+Active Indicative,Present,2nd Person,Plural,deficatis,deficetis,deficitis,deficitis,You (pl.) fail
+Active Indicative,Present,3rd Person,Singular,deficat,deficet,deficit,deficit,He/she/it fail
+Active Indicative,Present,3rd Person,Plural,deficant,deficent,deficiunt,deficiunt,They fail
+Active Indicative,Imperfect,1st Person,Singular,deficabam,deficebam,deficebam,deficiebam,I was failing
+Active Indicative,Imperfect,1st Person,Plural,deficabamus,deficebamus,deficebamus,deficiebamus,We were failing
+Active Indicative,Imperfect,2nd Person,Singular,deficabas,deficebas,deficebas,deficiebas,You were failing
+Active Indicative,Imperfect,2nd Person,Plural,deficabatis,deficebatis,deficebatis,deficiebatis,You (pl.) were failing
+Active Indicative,Imperfect,3rd Person,Singular,deficabat,deficebat,deficebat,deficiebat,He/she/it was failing
+Active Indicative,Imperfect,3rd Person,Plural,deficabant,deficebant,deficebant,deficiebant,They were failing
+Active Indicative,Future,1st Person,Singular,deficabo,deficebo,deficam,deficiam,I will fail
+Active Indicative,Future,1st Person,Plural,deficabimus,deficebimus,deficemus,deficiemus,We will fail
+Active Indicative,Future,2nd Person,Singular,deficabis,deficebis,defices,deficies,You will fail
+Active Indicative,Future,2nd Person,Plural,deficabitis,deficebitis,deficetis,deficietis,You (pl.) will fail
+Active Indicative,Future,3rd Person,Singular,deficabit,deficebit,deficet,deficiet,He/she/it will fail
+Active Indicative,Future,3rd Person,Plural,deficabunt,deficebunt,deficent,deficient,They will fail
+Active Indicative,Perfect,1st Person,Singular,deficavi,deficui,defici,defici,I have failed
+Active Indicative,Perfect,1st Person,Plural,deficavimus,deficuimus,deficimus,deficimus,We have failed
+Active Indicative,Perfect,2nd Person,Singular,deficavisti,deficuisti,deficisti,deficisti,You have failed
+Active Indicative,Perfect,2nd Person,Plural,deficavistis,deficuistis,deficistis,deficistis,You (pl.) have failed
+Active Indicative,Perfect,3rd Person,Singular,deficavit,deficuit,deficit,deficit,He/she/it has failed
+Active Indicative,Perfect,3rd Person,Plural,deficaverunt,deficuerunt,deficerunt,deficerunt,They have failed
+Active Indicative,Pluperfect,1st Person,Singular,deficaveram,deficueram,deficeram,deficeram,I had failed
+Active Indicative,Pluperfect,1st Person,Plural,deficaveramus,deficueramus,deficeramus,deficeramus,We had failed
+Active Indicative,Pluperfect,2nd Person,Singular,deficaveras,deficueras,deficeras,deficeras,You had failed
+Active Indicative,Pluperfect,2nd Person,Plural,deficaveratis,deficueratis,deficeratis,deficeratis,You (pl.) had failed
+Active Indicative,Pluperfect,3rd Person,Singular,deficaverat,deficuerat,deficerat,deficerat,He/she/it had failed
+Active Indicative,Pluperfect,3rd Person,Plural,deficaverant,deficuerant,deficerant,deficerant,They had failed
+Active Indicative,Future Perfect,1st Person,Singular,deficavero,deficueero,deficero,deficiero,I will have failed
+Active Indicative,Future Perfect,1st Person,Plural,deficaverimus,deficuerimus,deficerimus,deficierimus,We will have failed
+Active Indicative,Future Perfect,2nd Person,Singular,deficaveris,deficueris,deficeris,deficieris,You will have failed
+Active Indicative,Future Perfect,2nd Person,Plural,deficaveritis,deficueritis,deficeritis,deficieritis,You (pl.) will have failed
+Active Indicative,Future Perfect,3rd Person,Singular,deficaverit,deficuerit,deficerit,deficierit,He/she/it will have failed
+Active Indicative,Future Perfect,3rd Person,Plural,deficaverint,deficuerint,deficerint,deficierint,They will have failed
+Passive Indicative,Present,1st Person,Singular,deficor,deficeor,deficor,deficior,I am being failed
+Passive Indicative,Present,1st Person,Plural,deficamur,deficemur,deficimur,deficimur,We are being failed
+Passive Indicative,Present,2nd Person,Singular,deficaris,deficeris,deficiris,deficiris,You are being failed
+Passive Indicative,Present,2nd Person,Plural,deficamini,deficemini,deficimini,deficimini,You (pl.) are being failed
+Passive Indicative,Present,3rd Person,Singular,deficatur,deficetur,deficitur,deficitur,He/she/it is being failed
+Passive Indicative,Present,3rd Person,Plural,deficantur,deficentur,deficiuntur,deficiuntur,They are being failed
+Passive Indicative,Imperfect,1st Person,Singular,deficabar,deficebar,deficebar,deficiebar,I was failed
+Passive Indicative,Imperfect,1st Person,Plural,deficabamur,deficebamur,deficebamur,deficiebamur,We were failed
+Passive Indicative,Imperfect,2nd Person,Singular,deficabaris,deficebaris,deficebaris,deficiebaris,You were failed
+Passive Indicative,Imperfect,2nd Person,Plural,deficabamini,deficebamini,deficebamini,deficiebamini,You (pl.) were failed
+Passive Indicative,Imperfect,3rd Person,Singular,deficabatur,deficebatur,deficebatur,deficiebatur,He/she/it was failed
+Passive Indicative,Imperfect,3rd Person,Plural,deficabantur,deficebantur,deficebantur,deficiebantur,They were failed
+Passive Indicative,Future,1st Person,Singular,deficabor,deficebor,deficar,deficiar,I will be failed
+Passive Indicative,Future,1st Person,Plural,deficabimur,deficebimur,deficemur,deficiemur,We will be failed
+Passive Indicative,Future,2nd Person,Singular,deficaberis,deficeberis,deficeris,deficieris,You will be failed
+Passive Indicative,Future,2nd Person,Plural,deficabimini,deficebimini,deficemini,deficiemini,You (pl.) will be failed
+Passive Indicative,Future,3rd Person,Singular,deficabitur,deficebitur,deficetur,deficietur,He/she/it will be failed
+Passive Indicative,Future,3rd Person,Plural,deficabuntur,deficebuntur,deficentur,deficientur,They will be failed
+Passive Indicative,Perfect,1st Person,Singular,deficatus sum,deficetus sum,deficus sum,deficus sum,I have been failed
+Passive Indicative,Perfect,1st Person,Plural,deficati sumus,deficeti sumus,defici sumus,defici sumus,We have been failed
+Passive Indicative,Perfect,2nd Person,Singular,deficatus es,deficetus es,deficus es,deficus es,You have been failed
+Passive Indicative,Perfect,2nd Person,Plural,deficati estis,deficeti estis,defici estis,defici estis,You (pl.) have been failed
+Passive Indicative,Perfect,3rd Person,Singular,deficatus est,deficetus est,deficus est,deficus est,He/she/it has been failed
+Passive Indicative,Perfect,3rd Person,Plural,deficati sunt,deficeti sunt,defici sunt,defici sunt,They have been failed
+Passive Indicative,Pluperfect,1st Person,Singular,deficatus eram,deficetus eram,deficus eram,deficus eram,I had been failed
+Passive Indicative,Pluperfect,1st Person,Plural,deficati eramus,deficeti eramus,defici eramus,defici eramus,We had been failed
+Passive Indicative,Pluperfect,2nd Person,Singular,deficatus eras,deficetus eras,deficus eras,deficus eras,You had been failed
+Passive Indicative,Pluperfect,2nd Person,Plural,deficati eratis,deficeti eratis,defici eratis,defici eratis,You (pl.) had been failed
+Passive Indicative,Pluperfect,3rd Person,Singular,deficatus erat,deficetus erat,deficus erat,deficus erat,He/she/it had been failed
+Passive Indicative,Pluperfect,3rd Person,Plural,deficati erant,deficeti erant,defici erant,defici erant,They had been failed
+Passive Indicative,Future Perfect,1st Person,Singular,deficatus ero,deficetus ero,deficus ero,deficus ero,I will have been failed
+Passive Indicative,Future Perfect,1st Person,Plural,deficati erimus,deficeti erimus,defici erimus,defici erimus,We will have been failed
+Passive Indicative,Future Perfect,2nd Person,Singular,deficatus eris,deficetus eris,deficus eris,deficus eris,You will have been failed
+Passive Indicative,Future Perfect,2nd Person,Plural,deficati eritis,deficeti eritis,defici eritis,defici eritis,You (pl.) will have been failed
+Passive Indicative,Future Perfect,3rd Person,Singular,deficatus erit,deficetus erit,deficus erit,deficus erit,He/she/it will have been failed
+Passive Indicative,Future Perfect,3rd Person,Plural,deficati erunt,deficeti erunt,defici erunt,defici erunt,They will have been failed
+Active Subjunctive,Present,1st Person,Singular,deficem,deficem,deficam,deficam,I may fail
+Active Subjunctive,Present,1st Person,Plural,deficemus,deficemus,deficamus,deficamus,We may fail
+Active Subjunctive,Present,2nd Person,Singular,defices,defices,deficas,deficas,You may fail
+Active Subjunctive,Present,2nd Person,Plural,deficetis,deficetis,deficatis,deficatis,You (pl.) may fail
+Active Subjunctive,Present,3rd Person,Singular,deficet,deficet,deficat,deficat,He/she/it may fail
+Active Subjunctive,Present,3rd Person,Plural,deficent,deficent,deficant,deficant,They may fail
+Active Subjunctive,Imperfect,1st Person,Singular,deficarem,deficerem,deficerem,deficirem,I should fail
+Active Subjunctive,Imperfect,1st Person,Plural,deficaremus,deficeremus,deficeremus,deficiremus,We should fail
+Active Subjunctive,Imperfect,2nd Person,Singular,deficares,deficeres,deficeres,deficires,You should fail
+Active Subjunctive,Imperfect,2nd Person,Plural,deficaretis,deficeretis,deficeretis,deficiretis,You (pl.) should fail
+Active Subjunctive,Imperfect,3rd Person,Singular,deficaret,deficeret,deficeret,deficiret,He/she/it should fail
+Active Subjunctive,Imperfect,3rd Person,Plural,deficarent,deficerent,deficerent,deficirent,They should fail
+Active Subjunctive,Perfect,1st Person,Singular,deficerim,deficuerim,deficerim,deficierim,I may have failed
+Active Subjunctive,Perfect,1st Person,Plural,deficerimus,deficuerimus,deficerimus,deficierimus,We may have failed
+Active Subjunctive,Perfect,2nd Person,Singular,deficeris,deficueris,deficeris,deficieris,You may have failed
+Active Subjunctive,Perfect,2nd Person,Plural,deficeritis,deficueritis,deficeritis,deficieritis,You (pl.) may have failed
+Active Subjunctive,Perfect,3rd Person,Singular,deficerit,deficuerit,deficerit,deficierit,He/she/it may have failed
+Active Subjunctive,Perfect,3rd Person,Plural,deficerint,deficuerint,deficerint,deficierint,They may have failed
+Active Subjunctive,Pluperfect,1st Person,Singular,deficissem,deficuissem,deficissem,deficissem,I should have failed
+Active Subjunctive,Pluperfect,1st Person,Plural,deficissemus,deficuissemus,deficissemus,deficissemus,We should have failed
+Active Subjunctive,Pluperfect,2nd Person,Singular,deficisses,deficuisses,deficisses,deficisses,You would have failed
+Active Subjunctive,Pluperfect,2nd Person,Plural,deficissetis,deficuissetis,deficissetis,deficissetis,You (pl.) would have failed
+Active Subjunctive,Pluperfect,3rd Person,Singular,deficisset,deficuisset,deficisset,deficisset,He/she/it would have failed
+Active Subjunctive,Pluperfect,3rd Person,Plural,deficissent,deficuissent,deficissent,deficissent,They would have failed
+Passive Subjunctive,Present,1st Person,Singular,deficer,deficer,deficar,deficar,I may be failed
+Passive Subjunctive,Present,1st Person,Plural,deficemur,deficemur,deficamur,deficamur,We may be failed
+Passive Subjunctive,Present,2nd Person,Singular,deficeris,deficeris,deficaris,deficaris,You may be failed
+Passive Subjunctive,Present,2nd Person,Plural,deficemini,deficemini,deficamini,deficamini,You (pl.) may be failed
+Passive Subjunctive,Present,3rd Person,Singular,deficetur,deficetur,deficatur,deficatur,He/she/it may be failed
+Passive Subjunctive,Present,3rd Person,Plural,deficentur,deficentur,deficantur,deficantur,They may be failed
+Passive Subjunctive,Imperfect,1st Person,Singular,deficarer,deficerer,deficerer,deficirer,I should be failed
+Passive Subjunctive,Imperfect,1st Person,Plural,deficaremur,deficeremur,deficeremur,deficiremur,We should be failed
+Passive Subjunctive,Imperfect,2nd Person,Singular,deficareris,deficereris,deficereris,deficireris,You would be failed
+Passive Subjunctive,Imperfect,2nd Person,Plural,deficaremini,deficeremini,deficeremini,deficiremini,You (pl.) would be failed
+Passive Subjunctive,Imperfect,3rd Person,Singular,deficaretur,deficeretur,deficeretur,deficiretur,He/she/it would be failed
+Passive Subjunctive,Imperfect,3rd Person,Plural,deficarentur,deficerentur,deficerentur,deficirentur,They would be failed
+Passive Subjunctive,Perfect,1st Person,Singular,deficatus sim,deficetus sim,deficus sim,deficus sim,I may have been failed
+Passive Subjunctive,Perfect,1st Person,Plural,deficati simus,deficeti simus,defici simus,defici simus,We may have been failed
+Passive Subjunctive,Perfect,2nd Person,Singular,deficatus sis,deficetus sis,deficus sis,deficus sis,You may have been failed
+Passive Subjunctive,Perfect,2nd Person,Plural,deficati sitis,deficeti sitis,defici sitis,defici sitis,You (pl.) may have been failed
+Passive Subjunctive,Perfect,3rd Person,Singular,deficatus sit,deficetus sit,deficus sit,deficus sit,He/she/it may have been failed
+Passive Subjunctive,Perfect,3rd Person,Plural,deficati sint,deficeti sint,defici sint,defici sint,They may have been failed
+Passive Subjunctive,Pluperfect,1st Person,Singular,deficatus essem,deficetus essem,deficus essem,deficus essem,I should have been failed
+Passive Subjunctive,Pluperfect,1st Person,Plural,deficati essemus,deficeti essemus,defici essemus,defici essemus,We should have been failed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,deficatus esses,deficetus esses,deficus esses,deficus esses,You would have been failed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,deficati essetis,deficeti essetis,defici essetis,defici essetis,You (pl.) would have been failed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,deficatus esset,deficetus esset,deficus esset,deficus esset,He/she/it would have been failed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,deficati essent,deficeti essent,defici essent,defici essent,They would have been failed

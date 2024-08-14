@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,perveno,perveneo,perveno,pervenio,I arrive at
+Active Indicative,Present,1st Person,Plural,pervenamus,pervenemus,pervenimus,pervenimus,We arrive at
+Active Indicative,Present,2nd Person,Singular,pervenas,pervenes,pervenis,pervenis,You arrive at
+Active Indicative,Present,2nd Person,Plural,pervenatis,pervenetis,pervenitis,pervenitis,You (pl.) arrive at
+Active Indicative,Present,3rd Person,Singular,pervenat,pervenet,pervenit,pervenit,He/she/it arrive at
+Active Indicative,Present,3rd Person,Plural,pervenant,pervenent,perveniunt,perveniunt,They arrive at
+Active Indicative,Imperfect,1st Person,Singular,pervenabam,pervenebam,pervenebam,perveniebam,I was arrive ating
+Active Indicative,Imperfect,1st Person,Plural,pervenabamus,pervenebamus,pervenebamus,perveniebamus,We were arrive ating
+Active Indicative,Imperfect,2nd Person,Singular,pervenabas,pervenebas,pervenebas,perveniebas,You were arrive ating
+Active Indicative,Imperfect,2nd Person,Plural,pervenabatis,pervenebatis,pervenebatis,perveniebatis,You (pl.) were arrive ating
+Active Indicative,Imperfect,3rd Person,Singular,pervenabat,pervenebat,pervenebat,perveniebat,He/she/it was arrive ating
+Active Indicative,Imperfect,3rd Person,Plural,pervenabant,pervenebant,pervenebant,perveniebant,They were arrive ating
+Active Indicative,Future,1st Person,Singular,pervenabo,pervenebo,pervenam,perveniam,I will arrive at
+Active Indicative,Future,1st Person,Plural,pervenabimus,pervenebimus,pervenemus,perveniemus,We will arrive at
+Active Indicative,Future,2nd Person,Singular,pervenabis,pervenebis,pervenes,pervenies,You will arrive at
+Active Indicative,Future,2nd Person,Plural,pervenabitis,pervenebitis,pervenetis,pervenietis,You (pl.) will arrive at
+Active Indicative,Future,3rd Person,Singular,pervenabit,pervenebit,pervenet,perveniet,He/she/it will arrive at
+Active Indicative,Future,3rd Person,Plural,pervenabunt,pervenebunt,pervenent,pervenient,They will arrive at
+Active Indicative,Perfect,1st Person,Singular,pervenavi,pervenui,perveni,perveni,I have arrive ated
+Active Indicative,Perfect,1st Person,Plural,pervenavimus,pervenuimus,pervenimus,pervenimus,We have arrive ated
+Active Indicative,Perfect,2nd Person,Singular,pervenavisti,pervenuisti,pervenisti,pervenisti,You have arrive ated
+Active Indicative,Perfect,2nd Person,Plural,pervenavistis,pervenuistis,pervenistis,pervenistis,You (pl.) have arrive ated
+Active Indicative,Perfect,3rd Person,Singular,pervenavit,pervenuit,pervenit,pervenit,He/she/it has arrive ated
+Active Indicative,Perfect,3rd Person,Plural,pervenaverunt,pervenuerunt,pervenerunt,pervenerunt,They have arrive ated
+Active Indicative,Pluperfect,1st Person,Singular,pervenaveram,pervenueram,perveneram,perveneram,I had arrive ated
+Active Indicative,Pluperfect,1st Person,Plural,pervenaveramus,pervenueramus,perveneramus,perveneramus,We had arrive ated
+Active Indicative,Pluperfect,2nd Person,Singular,pervenaveras,pervenueras,perveneras,perveneras,You had arrive ated
+Active Indicative,Pluperfect,2nd Person,Plural,pervenaveratis,pervenueratis,perveneratis,perveneratis,You (pl.) had arrive ated
+Active Indicative,Pluperfect,3rd Person,Singular,pervenaverat,pervenuerat,pervenerat,pervenerat,He/she/it had arrive ated
+Active Indicative,Pluperfect,3rd Person,Plural,pervenaverant,pervenuerant,pervenerant,pervenerant,They had arrive ated
+Active Indicative,Future Perfect,1st Person,Singular,pervenavero,pervenueero,pervenero,perveniero,I will have arrive ated
+Active Indicative,Future Perfect,1st Person,Plural,pervenaverimus,pervenuerimus,pervenerimus,pervenierimus,We will have arrive ated
+Active Indicative,Future Perfect,2nd Person,Singular,pervenaveris,pervenueris,perveneris,pervenieris,You will have arrive ated
+Active Indicative,Future Perfect,2nd Person,Plural,pervenaveritis,pervenueritis,perveneritis,pervenieritis,You (pl.) will have arrive ated
+Active Indicative,Future Perfect,3rd Person,Singular,pervenaverit,pervenuerit,pervenerit,pervenierit,He/she/it will have arrive ated
+Active Indicative,Future Perfect,3rd Person,Plural,pervenaverint,pervenuerint,pervenerint,pervenierint,They will have arrive ated
+Passive Indicative,Present,1st Person,Singular,pervenor,perveneor,pervenor,pervenior,I am being arrive ated
+Passive Indicative,Present,1st Person,Plural,pervenamur,pervenemur,pervenimur,pervenimur,We are being arrive ated
+Passive Indicative,Present,2nd Person,Singular,pervenaris,perveneris,perveniris,perveniris,You are being arrive ated
+Passive Indicative,Present,2nd Person,Plural,pervenamini,pervenemini,pervenimini,pervenimini,You (pl.) are being arrive ated
+Passive Indicative,Present,3rd Person,Singular,pervenatur,pervenetur,pervenitur,pervenitur,He/she/it is being arrive ated
+Passive Indicative,Present,3rd Person,Plural,pervenantur,pervenentur,perveniuntur,perveniuntur,They are being arrive ated
+Passive Indicative,Imperfect,1st Person,Singular,pervenabar,pervenebar,pervenebar,perveniebar,I was arrive ated
+Passive Indicative,Imperfect,1st Person,Plural,pervenabamur,pervenebamur,pervenebamur,perveniebamur,We were arrive ated
+Passive Indicative,Imperfect,2nd Person,Singular,pervenabaris,pervenebaris,pervenebaris,perveniebaris,You were arrive ated
+Passive Indicative,Imperfect,2nd Person,Plural,pervenabamini,pervenebamini,pervenebamini,perveniebamini,You (pl.) were arrive ated
+Passive Indicative,Imperfect,3rd Person,Singular,pervenabatur,pervenebatur,pervenebatur,perveniebatur,He/she/it was arrive ated
+Passive Indicative,Imperfect,3rd Person,Plural,pervenabantur,pervenebantur,pervenebantur,perveniebantur,They were arrive ated
+Passive Indicative,Future,1st Person,Singular,pervenabor,pervenebor,pervenar,perveniar,I will be arrive ated
+Passive Indicative,Future,1st Person,Plural,pervenabimur,pervenebimur,pervenemur,perveniemur,We will be arrive ated
+Passive Indicative,Future,2nd Person,Singular,pervenaberis,perveneberis,perveneris,pervenieris,You will be arrive ated
+Passive Indicative,Future,2nd Person,Plural,pervenabimini,pervenebimini,pervenemini,perveniemini,You (pl.) will be arrive ated
+Passive Indicative,Future,3rd Person,Singular,pervenabitur,pervenebitur,pervenetur,pervenietur,He/she/it will be arrive ated
+Passive Indicative,Future,3rd Person,Plural,pervenabuntur,pervenebuntur,pervenentur,pervenientur,They will be arrive ated
+Passive Indicative,Perfect,1st Person,Singular,pervenatus sum,pervenetus sum,pervenus sum,pervenus sum,I have been arrive ated
+Passive Indicative,Perfect,1st Person,Plural,pervenati sumus,perveneti sumus,perveni sumus,perveni sumus,We have been arrive ated
+Passive Indicative,Perfect,2nd Person,Singular,pervenatus es,pervenetus es,pervenus es,pervenus es,You have been arrive ated
+Passive Indicative,Perfect,2nd Person,Plural,pervenati estis,perveneti estis,perveni estis,perveni estis,You (pl.) have been arrive ated
+Passive Indicative,Perfect,3rd Person,Singular,pervenatus est,pervenetus est,pervenus est,pervenus est,He/she/it has been arrive ated
+Passive Indicative,Perfect,3rd Person,Plural,pervenati sunt,perveneti sunt,perveni sunt,perveni sunt,They have been arrive ated
+Passive Indicative,Pluperfect,1st Person,Singular,pervenatus eram,pervenetus eram,pervenus eram,pervenus eram,I had been arrive ated
+Passive Indicative,Pluperfect,1st Person,Plural,pervenati eramus,perveneti eramus,perveni eramus,perveni eramus,We had been arrive ated
+Passive Indicative,Pluperfect,2nd Person,Singular,pervenatus eras,pervenetus eras,pervenus eras,pervenus eras,You had been arrive ated
+Passive Indicative,Pluperfect,2nd Person,Plural,pervenati eratis,perveneti eratis,perveni eratis,perveni eratis,You (pl.) had been arrive ated
+Passive Indicative,Pluperfect,3rd Person,Singular,pervenatus erat,pervenetus erat,pervenus erat,pervenus erat,He/she/it had been arrive ated
+Passive Indicative,Pluperfect,3rd Person,Plural,pervenati erant,perveneti erant,perveni erant,perveni erant,They had been arrive ated
+Passive Indicative,Future Perfect,1st Person,Singular,pervenatus ero,pervenetus ero,pervenus ero,pervenus ero,I will have been arrive ated
+Passive Indicative,Future Perfect,1st Person,Plural,pervenati erimus,perveneti erimus,perveni erimus,perveni erimus,We will have been arrive ated
+Passive Indicative,Future Perfect,2nd Person,Singular,pervenatus eris,pervenetus eris,pervenus eris,pervenus eris,You will have been arrive ated
+Passive Indicative,Future Perfect,2nd Person,Plural,pervenati eritis,perveneti eritis,perveni eritis,perveni eritis,You (pl.) will have been arrive ated
+Passive Indicative,Future Perfect,3rd Person,Singular,pervenatus erit,pervenetus erit,pervenus erit,pervenus erit,He/she/it will have been arrive ated
+Passive Indicative,Future Perfect,3rd Person,Plural,pervenati erunt,perveneti erunt,perveni erunt,perveni erunt,They will have been arrive ated
+Active Subjunctive,Present,1st Person,Singular,pervenem,pervenem,pervenam,pervenam,I may arrive at
+Active Subjunctive,Present,1st Person,Plural,pervenemus,pervenemus,pervenamus,pervenamus,We may arrive at
+Active Subjunctive,Present,2nd Person,Singular,pervenes,pervenes,pervenas,pervenas,You may arrive at
+Active Subjunctive,Present,2nd Person,Plural,pervenetis,pervenetis,pervenatis,pervenatis,You (pl.) may arrive at
+Active Subjunctive,Present,3rd Person,Singular,pervenet,pervenet,pervenat,pervenat,He/she/it may arrive at
+Active Subjunctive,Present,3rd Person,Plural,pervenent,pervenent,pervenant,pervenant,They may arrive at
+Active Subjunctive,Imperfect,1st Person,Singular,pervenarem,pervenerem,pervenerem,pervenirem,I should arrive at
+Active Subjunctive,Imperfect,1st Person,Plural,pervenaremus,perveneremus,perveneremus,perveniremus,We should arrive at
+Active Subjunctive,Imperfect,2nd Person,Singular,pervenares,perveneres,perveneres,pervenires,You should arrive at
+Active Subjunctive,Imperfect,2nd Person,Plural,pervenaretis,perveneretis,perveneretis,perveniretis,You (pl.) should arrive at
+Active Subjunctive,Imperfect,3rd Person,Singular,pervenaret,perveneret,perveneret,perveniret,He/she/it should arrive at
+Active Subjunctive,Imperfect,3rd Person,Plural,pervenarent,pervenerent,pervenerent,pervenirent,They should arrive at
+Active Subjunctive,Perfect,1st Person,Singular,pervenerim,pervenuerim,pervenerim,pervenierim,I may have arrive ated
+Active Subjunctive,Perfect,1st Person,Plural,pervenerimus,pervenuerimus,pervenerimus,pervenierimus,We may have arrive ated
+Active Subjunctive,Perfect,2nd Person,Singular,perveneris,pervenueris,perveneris,pervenieris,You may have arrive ated
+Active Subjunctive,Perfect,2nd Person,Plural,perveneritis,pervenueritis,perveneritis,pervenieritis,You (pl.) may have arrive ated
+Active Subjunctive,Perfect,3rd Person,Singular,pervenerit,pervenuerit,pervenerit,pervenierit,He/she/it may have arrive ated
+Active Subjunctive,Perfect,3rd Person,Plural,pervenerint,pervenuerint,pervenerint,pervenierint,They may have arrive ated
+Active Subjunctive,Pluperfect,1st Person,Singular,pervenissem,pervenuissem,pervenissem,pervenissem,I should have arrive ated
+Active Subjunctive,Pluperfect,1st Person,Plural,pervenissemus,pervenuissemus,pervenissemus,pervenissemus,We should have arrive ated
+Active Subjunctive,Pluperfect,2nd Person,Singular,pervenisses,pervenuisses,pervenisses,pervenisses,You would have arrive ated
+Active Subjunctive,Pluperfect,2nd Person,Plural,pervenissetis,pervenuissetis,pervenissetis,pervenissetis,You (pl.) would have arrive ated
+Active Subjunctive,Pluperfect,3rd Person,Singular,pervenisset,pervenuisset,pervenisset,pervenisset,He/she/it would have arrive ated
+Active Subjunctive,Pluperfect,3rd Person,Plural,pervenissent,pervenuissent,pervenissent,pervenissent,They would have arrive ated
+Passive Subjunctive,Present,1st Person,Singular,pervener,pervener,pervenar,pervenar,I may be arrive ated
+Passive Subjunctive,Present,1st Person,Plural,pervenemur,pervenemur,pervenamur,pervenamur,We may be arrive ated
+Passive Subjunctive,Present,2nd Person,Singular,perveneris,perveneris,pervenaris,pervenaris,You may be arrive ated
+Passive Subjunctive,Present,2nd Person,Plural,pervenemini,pervenemini,pervenamini,pervenamini,You (pl.) may be arrive ated
+Passive Subjunctive,Present,3rd Person,Singular,pervenetur,pervenetur,pervenatur,pervenatur,He/she/it may be arrive ated
+Passive Subjunctive,Present,3rd Person,Plural,pervenentur,pervenentur,pervenantur,pervenantur,They may be arrive ated
+Passive Subjunctive,Imperfect,1st Person,Singular,pervenarer,pervenerer,pervenerer,pervenirer,I should be arrive ated
+Passive Subjunctive,Imperfect,1st Person,Plural,pervenaremur,perveneremur,perveneremur,perveniremur,We should be arrive ated
+Passive Subjunctive,Imperfect,2nd Person,Singular,pervenareris,pervenereris,pervenereris,pervenireris,You would be arrive ated
+Passive Subjunctive,Imperfect,2nd Person,Plural,pervenaremini,perveneremini,perveneremini,perveniremini,You (pl.) would be arrive ated
+Passive Subjunctive,Imperfect,3rd Person,Singular,pervenaretur,perveneretur,perveneretur,perveniretur,He/she/it would be arrive ated
+Passive Subjunctive,Imperfect,3rd Person,Plural,pervenarentur,pervenerentur,pervenerentur,pervenirentur,They would be arrive ated
+Passive Subjunctive,Perfect,1st Person,Singular,pervenatus sim,pervenetus sim,pervenus sim,pervenus sim,I may have been arrive ated
+Passive Subjunctive,Perfect,1st Person,Plural,pervenati simus,perveneti simus,perveni simus,perveni simus,We may have been arrive ated
+Passive Subjunctive,Perfect,2nd Person,Singular,pervenatus sis,pervenetus sis,pervenus sis,pervenus sis,You may have been arrive ated
+Passive Subjunctive,Perfect,2nd Person,Plural,pervenati sitis,perveneti sitis,perveni sitis,perveni sitis,You (pl.) may have been arrive ated
+Passive Subjunctive,Perfect,3rd Person,Singular,pervenatus sit,pervenetus sit,pervenus sit,pervenus sit,He/she/it may have been arrive ated
+Passive Subjunctive,Perfect,3rd Person,Plural,pervenati sint,perveneti sint,perveni sint,perveni sint,They may have been arrive ated
+Passive Subjunctive,Pluperfect,1st Person,Singular,pervenatus essem,pervenetus essem,pervenus essem,pervenus essem,I should have been arrive ated
+Passive Subjunctive,Pluperfect,1st Person,Plural,pervenati essemus,perveneti essemus,perveni essemus,perveni essemus,We should have been arrive ated
+Passive Subjunctive,Pluperfect,2nd Person,Singular,pervenatus esses,pervenetus esses,pervenus esses,pervenus esses,You would have been arrive ated
+Passive Subjunctive,Pluperfect,2nd Person,Plural,pervenati essetis,perveneti essetis,perveni essetis,perveni essetis,You (pl.) would have been arrive ated
+Passive Subjunctive,Pluperfect,3rd Person,Singular,pervenatus esset,pervenetus esset,pervenus esset,pervenus esset,He/she/it would have been arrive ated
+Passive Subjunctive,Pluperfect,3rd Person,Plural,pervenati essent,perveneti essent,perveni essent,perveni essent,They would have been arrive ated

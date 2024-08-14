@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,cremo,cremeo,cremo,cremio,I tremble
+Active Indicative,Present,1st Person,Plural,cremamus,crememus,cremimus,cremimus,We tremble
+Active Indicative,Present,2nd Person,Singular,cremas,cremes,cremis,cremis,You tremble
+Active Indicative,Present,2nd Person,Plural,crematis,cremetis,cremitis,cremitis,You (pl.) tremble
+Active Indicative,Present,3rd Person,Singular,cremat,cremet,cremit,cremit,He/she/it tremble
+Active Indicative,Present,3rd Person,Plural,cremant,crement,cremiunt,cremiunt,They tremble
+Active Indicative,Imperfect,1st Person,Singular,cremabam,cremebam,cremebam,cremiebam,I was trembleing
+Active Indicative,Imperfect,1st Person,Plural,cremabamus,cremebamus,cremebamus,cremiebamus,We were trembleing
+Active Indicative,Imperfect,2nd Person,Singular,cremabas,cremebas,cremebas,cremiebas,You were trembleing
+Active Indicative,Imperfect,2nd Person,Plural,cremabatis,cremebatis,cremebatis,cremiebatis,You (pl.) were trembleing
+Active Indicative,Imperfect,3rd Person,Singular,cremabat,cremebat,cremebat,cremiebat,He/she/it was trembleing
+Active Indicative,Imperfect,3rd Person,Plural,cremabant,cremebant,cremebant,cremiebant,They were trembleing
+Active Indicative,Future,1st Person,Singular,cremabo,cremebo,cremam,cremiam,I will tremble
+Active Indicative,Future,1st Person,Plural,cremabimus,cremebimus,crememus,cremiemus,We will tremble
+Active Indicative,Future,2nd Person,Singular,cremabis,cremebis,cremes,cremies,You will tremble
+Active Indicative,Future,2nd Person,Plural,cremabitis,cremebitis,cremetis,cremietis,You (pl.) will tremble
+Active Indicative,Future,3rd Person,Singular,cremabit,cremebit,cremet,cremiet,He/she/it will tremble
+Active Indicative,Future,3rd Person,Plural,cremabunt,cremebunt,crement,cremient,They will tremble
+Active Indicative,Perfect,1st Person,Singular,cremavi,cremui,cremi,cremi,I have trembleed
+Active Indicative,Perfect,1st Person,Plural,cremavimus,cremuimus,cremimus,cremimus,We have trembleed
+Active Indicative,Perfect,2nd Person,Singular,cremavisti,cremuisti,cremisti,cremisti,You have trembleed
+Active Indicative,Perfect,2nd Person,Plural,cremavistis,cremuistis,cremistis,cremistis,You (pl.) have trembleed
+Active Indicative,Perfect,3rd Person,Singular,cremavit,cremuit,cremit,cremit,He/she/it has trembleed
+Active Indicative,Perfect,3rd Person,Plural,cremaverunt,cremuerunt,cremerunt,cremerunt,They have trembleed
+Active Indicative,Pluperfect,1st Person,Singular,cremaveram,cremueram,cremeram,cremeram,I had trembleed
+Active Indicative,Pluperfect,1st Person,Plural,cremaveramus,cremueramus,cremeramus,cremeramus,We had trembleed
+Active Indicative,Pluperfect,2nd Person,Singular,cremaveras,cremueras,cremeras,cremeras,You had trembleed
+Active Indicative,Pluperfect,2nd Person,Plural,cremaveratis,cremueratis,cremeratis,cremeratis,You (pl.) had trembleed
+Active Indicative,Pluperfect,3rd Person,Singular,cremaverat,cremuerat,cremerat,cremerat,He/she/it had trembleed
+Active Indicative,Pluperfect,3rd Person,Plural,cremaverant,cremuerant,cremerant,cremerant,They had trembleed
+Active Indicative,Future Perfect,1st Person,Singular,cremavero,cremueero,cremero,cremiero,I will have trembleed
+Active Indicative,Future Perfect,1st Person,Plural,cremaverimus,cremuerimus,cremerimus,cremierimus,We will have trembleed
+Active Indicative,Future Perfect,2nd Person,Singular,cremaveris,cremueris,cremeris,cremieris,You will have trembleed
+Active Indicative,Future Perfect,2nd Person,Plural,cremaveritis,cremueritis,cremeritis,cremieritis,You (pl.) will have trembleed
+Active Indicative,Future Perfect,3rd Person,Singular,cremaverit,cremuerit,cremerit,cremierit,He/she/it will have trembleed
+Active Indicative,Future Perfect,3rd Person,Plural,cremaverint,cremuerint,cremerint,cremierint,They will have trembleed
+Passive Indicative,Present,1st Person,Singular,cremor,cremeor,cremor,cremior,I am being trembleed
+Passive Indicative,Present,1st Person,Plural,cremamur,crememur,cremimur,cremimur,We are being trembleed
+Passive Indicative,Present,2nd Person,Singular,cremaris,cremeris,cremiris,cremiris,You are being trembleed
+Passive Indicative,Present,2nd Person,Plural,cremamini,crememini,cremimini,cremimini,You (pl.) are being trembleed
+Passive Indicative,Present,3rd Person,Singular,crematur,cremetur,cremitur,cremitur,He/she/it is being trembleed
+Passive Indicative,Present,3rd Person,Plural,cremantur,crementur,cremiuntur,cremiuntur,They are being trembleed
+Passive Indicative,Imperfect,1st Person,Singular,cremabar,cremebar,cremebar,cremiebar,I was trembleed
+Passive Indicative,Imperfect,1st Person,Plural,cremabamur,cremebamur,cremebamur,cremiebamur,We were trembleed
+Passive Indicative,Imperfect,2nd Person,Singular,cremabaris,cremebaris,cremebaris,cremiebaris,You were trembleed
+Passive Indicative,Imperfect,2nd Person,Plural,cremabamini,cremebamini,cremebamini,cremiebamini,You (pl.) were trembleed
+Passive Indicative,Imperfect,3rd Person,Singular,cremabatur,cremebatur,cremebatur,cremiebatur,He/she/it was trembleed
+Passive Indicative,Imperfect,3rd Person,Plural,cremabantur,cremebantur,cremebantur,cremiebantur,They were trembleed
+Passive Indicative,Future,1st Person,Singular,cremabor,cremebor,cremar,cremiar,I will be trembleed
+Passive Indicative,Future,1st Person,Plural,cremabimur,cremebimur,crememur,cremiemur,We will be trembleed
+Passive Indicative,Future,2nd Person,Singular,cremaberis,cremeberis,cremeris,cremieris,You will be trembleed
+Passive Indicative,Future,2nd Person,Plural,cremabimini,cremebimini,crememini,cremiemini,You (pl.) will be trembleed
+Passive Indicative,Future,3rd Person,Singular,cremabitur,cremebitur,cremetur,cremietur,He/she/it will be trembleed
+Passive Indicative,Future,3rd Person,Plural,cremabuntur,cremebuntur,crementur,cremientur,They will be trembleed
+Passive Indicative,Perfect,1st Person,Singular,crematus sum,cremetus sum,cremus sum,cremus sum,I have been trembleed
+Passive Indicative,Perfect,1st Person,Plural,cremati sumus,cremeti sumus,cremi sumus,cremi sumus,We have been trembleed
+Passive Indicative,Perfect,2nd Person,Singular,crematus es,cremetus es,cremus es,cremus es,You have been trembleed
+Passive Indicative,Perfect,2nd Person,Plural,cremati estis,cremeti estis,cremi estis,cremi estis,You (pl.) have been trembleed
+Passive Indicative,Perfect,3rd Person,Singular,crematus est,cremetus est,cremus est,cremus est,He/she/it has been trembleed
+Passive Indicative,Perfect,3rd Person,Plural,cremati sunt,cremeti sunt,cremi sunt,cremi sunt,They have been trembleed
+Passive Indicative,Pluperfect,1st Person,Singular,crematus eram,cremetus eram,cremus eram,cremus eram,I had been trembleed
+Passive Indicative,Pluperfect,1st Person,Plural,cremati eramus,cremeti eramus,cremi eramus,cremi eramus,We had been trembleed
+Passive Indicative,Pluperfect,2nd Person,Singular,crematus eras,cremetus eras,cremus eras,cremus eras,You had been trembleed
+Passive Indicative,Pluperfect,2nd Person,Plural,cremati eratis,cremeti eratis,cremi eratis,cremi eratis,You (pl.) had been trembleed
+Passive Indicative,Pluperfect,3rd Person,Singular,crematus erat,cremetus erat,cremus erat,cremus erat,He/she/it had been trembleed
+Passive Indicative,Pluperfect,3rd Person,Plural,cremati erant,cremeti erant,cremi erant,cremi erant,They had been trembleed
+Passive Indicative,Future Perfect,1st Person,Singular,crematus ero,cremetus ero,cremus ero,cremus ero,I will have been trembleed
+Passive Indicative,Future Perfect,1st Person,Plural,cremati erimus,cremeti erimus,cremi erimus,cremi erimus,We will have been trembleed
+Passive Indicative,Future Perfect,2nd Person,Singular,crematus eris,cremetus eris,cremus eris,cremus eris,You will have been trembleed
+Passive Indicative,Future Perfect,2nd Person,Plural,cremati eritis,cremeti eritis,cremi eritis,cremi eritis,You (pl.) will have been trembleed
+Passive Indicative,Future Perfect,3rd Person,Singular,crematus erit,cremetus erit,cremus erit,cremus erit,He/she/it will have been trembleed
+Passive Indicative,Future Perfect,3rd Person,Plural,cremati erunt,cremeti erunt,cremi erunt,cremi erunt,They will have been trembleed
+Active Subjunctive,Present,1st Person,Singular,cremem,cremem,cremam,cremam,I may tremble
+Active Subjunctive,Present,1st Person,Plural,crememus,crememus,cremamus,cremamus,We may tremble
+Active Subjunctive,Present,2nd Person,Singular,cremes,cremes,cremas,cremas,You may tremble
+Active Subjunctive,Present,2nd Person,Plural,cremetis,cremetis,crematis,crematis,You (pl.) may tremble
+Active Subjunctive,Present,3rd Person,Singular,cremet,cremet,cremat,cremat,He/she/it may tremble
+Active Subjunctive,Present,3rd Person,Plural,crement,crement,cremant,cremant,They may tremble
+Active Subjunctive,Imperfect,1st Person,Singular,cremarem,cremerem,cremerem,cremirem,I should tremble
+Active Subjunctive,Imperfect,1st Person,Plural,cremaremus,cremeremus,cremeremus,cremiremus,We should tremble
+Active Subjunctive,Imperfect,2nd Person,Singular,cremares,cremeres,cremeres,cremires,You should tremble
+Active Subjunctive,Imperfect,2nd Person,Plural,cremaretis,cremeretis,cremeretis,cremiretis,You (pl.) should tremble
+Active Subjunctive,Imperfect,3rd Person,Singular,cremaret,cremeret,cremeret,cremiret,He/she/it should tremble
+Active Subjunctive,Imperfect,3rd Person,Plural,cremarent,cremerent,cremerent,cremirent,They should tremble
+Active Subjunctive,Perfect,1st Person,Singular,cremerim,cremuerim,cremerim,cremierim,I may have trembleed
+Active Subjunctive,Perfect,1st Person,Plural,cremerimus,cremuerimus,cremerimus,cremierimus,We may have trembleed
+Active Subjunctive,Perfect,2nd Person,Singular,cremeris,cremueris,cremeris,cremieris,You may have trembleed
+Active Subjunctive,Perfect,2nd Person,Plural,cremeritis,cremueritis,cremeritis,cremieritis,You (pl.) may have trembleed
+Active Subjunctive,Perfect,3rd Person,Singular,cremerit,cremuerit,cremerit,cremierit,He/she/it may have trembleed
+Active Subjunctive,Perfect,3rd Person,Plural,cremerint,cremuerint,cremerint,cremierint,They may have trembleed
+Active Subjunctive,Pluperfect,1st Person,Singular,cremissem,cremuissem,cremissem,cremissem,I should have trembleed
+Active Subjunctive,Pluperfect,1st Person,Plural,cremissemus,cremuissemus,cremissemus,cremissemus,We should have trembleed
+Active Subjunctive,Pluperfect,2nd Person,Singular,cremisses,cremuisses,cremisses,cremisses,You would have trembleed
+Active Subjunctive,Pluperfect,2nd Person,Plural,cremissetis,cremuissetis,cremissetis,cremissetis,You (pl.) would have trembleed
+Active Subjunctive,Pluperfect,3rd Person,Singular,cremisset,cremuisset,cremisset,cremisset,He/she/it would have trembleed
+Active Subjunctive,Pluperfect,3rd Person,Plural,cremissent,cremuissent,cremissent,cremissent,They would have trembleed
+Passive Subjunctive,Present,1st Person,Singular,cremer,cremer,cremar,cremar,I may be trembleed
+Passive Subjunctive,Present,1st Person,Plural,crememur,crememur,cremamur,cremamur,We may be trembleed
+Passive Subjunctive,Present,2nd Person,Singular,cremeris,cremeris,cremaris,cremaris,You may be trembleed
+Passive Subjunctive,Present,2nd Person,Plural,crememini,crememini,cremamini,cremamini,You (pl.) may be trembleed
+Passive Subjunctive,Present,3rd Person,Singular,cremetur,cremetur,crematur,crematur,He/she/it may be trembleed
+Passive Subjunctive,Present,3rd Person,Plural,crementur,crementur,cremantur,cremantur,They may be trembleed
+Passive Subjunctive,Imperfect,1st Person,Singular,cremarer,cremerer,cremerer,cremirer,I should be trembleed
+Passive Subjunctive,Imperfect,1st Person,Plural,cremaremur,cremeremur,cremeremur,cremiremur,We should be trembleed
+Passive Subjunctive,Imperfect,2nd Person,Singular,cremareris,cremereris,cremereris,cremireris,You would be trembleed
+Passive Subjunctive,Imperfect,2nd Person,Plural,cremaremini,cremeremini,cremeremini,cremiremini,You (pl.) would be trembleed
+Passive Subjunctive,Imperfect,3rd Person,Singular,cremaretur,cremeretur,cremeretur,cremiretur,He/she/it would be trembleed
+Passive Subjunctive,Imperfect,3rd Person,Plural,cremarentur,cremerentur,cremerentur,cremirentur,They would be trembleed
+Passive Subjunctive,Perfect,1st Person,Singular,crematus sim,cremetus sim,cremus sim,cremus sim,I may have been trembleed
+Passive Subjunctive,Perfect,1st Person,Plural,cremati simus,cremeti simus,cremi simus,cremi simus,We may have been trembleed
+Passive Subjunctive,Perfect,2nd Person,Singular,crematus sis,cremetus sis,cremus sis,cremus sis,You may have been trembleed
+Passive Subjunctive,Perfect,2nd Person,Plural,cremati sitis,cremeti sitis,cremi sitis,cremi sitis,You (pl.) may have been trembleed
+Passive Subjunctive,Perfect,3rd Person,Singular,crematus sit,cremetus sit,cremus sit,cremus sit,He/she/it may have been trembleed
+Passive Subjunctive,Perfect,3rd Person,Plural,cremati sint,cremeti sint,cremi sint,cremi sint,They may have been trembleed
+Passive Subjunctive,Pluperfect,1st Person,Singular,crematus essem,cremetus essem,cremus essem,cremus essem,I should have been trembleed
+Passive Subjunctive,Pluperfect,1st Person,Plural,cremati essemus,cremeti essemus,cremi essemus,cremi essemus,We should have been trembleed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,crematus esses,cremetus esses,cremus esses,cremus esses,You would have been trembleed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,cremati essetis,cremeti essetis,cremi essetis,cremi essetis,You (pl.) would have been trembleed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,crematus esset,cremetus esset,cremus esset,cremus esset,He/she/it would have been trembleed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,cremati essent,cremeti essent,cremi essent,cremi essent,They would have been trembleed

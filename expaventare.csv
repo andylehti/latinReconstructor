@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,expavento,expaventeo,expavento,expaventio,I frighten
+Active Indicative,Present,1st Person,Plural,expaventamus,expaventemus,expaventimus,expaventimus,We frighten
+Active Indicative,Present,2nd Person,Singular,expaventas,expaventes,expaventis,expaventis,You frighten
+Active Indicative,Present,2nd Person,Plural,expaventatis,expaventetis,expaventitis,expaventitis,You (pl.) frighten
+Active Indicative,Present,3rd Person,Singular,expaventat,expaventet,expaventit,expaventit,He/she/it frighten
+Active Indicative,Present,3rd Person,Plural,expaventant,expaventent,expaventiunt,expaventiunt,They frighten
+Active Indicative,Imperfect,1st Person,Singular,expaventabam,expaventebam,expaventebam,expaventiebam,I was frightening
+Active Indicative,Imperfect,1st Person,Plural,expaventabamus,expaventebamus,expaventebamus,expaventiebamus,We were frightening
+Active Indicative,Imperfect,2nd Person,Singular,expaventabas,expaventebas,expaventebas,expaventiebas,You were frightening
+Active Indicative,Imperfect,2nd Person,Plural,expaventabatis,expaventebatis,expaventebatis,expaventiebatis,You (pl.) were frightening
+Active Indicative,Imperfect,3rd Person,Singular,expaventabat,expaventebat,expaventebat,expaventiebat,He/she/it was frightening
+Active Indicative,Imperfect,3rd Person,Plural,expaventabant,expaventebant,expaventebant,expaventiebant,They were frightening
+Active Indicative,Future,1st Person,Singular,expaventabo,expaventebo,expaventam,expaventiam,I will frighten
+Active Indicative,Future,1st Person,Plural,expaventabimus,expaventebimus,expaventemus,expaventiemus,We will frighten
+Active Indicative,Future,2nd Person,Singular,expaventabis,expaventebis,expaventes,expaventies,You will frighten
+Active Indicative,Future,2nd Person,Plural,expaventabitis,expaventebitis,expaventetis,expaventietis,You (pl.) will frighten
+Active Indicative,Future,3rd Person,Singular,expaventabit,expaventebit,expaventet,expaventiet,He/she/it will frighten
+Active Indicative,Future,3rd Person,Plural,expaventabunt,expaventebunt,expaventent,expaventient,They will frighten
+Active Indicative,Perfect,1st Person,Singular,expaventavi,expaventui,expaventi,expaventi,I have frightened
+Active Indicative,Perfect,1st Person,Plural,expaventavimus,expaventuimus,expaventimus,expaventimus,We have frightened
+Active Indicative,Perfect,2nd Person,Singular,expaventavisti,expaventuisti,expaventisti,expaventisti,You have frightened
+Active Indicative,Perfect,2nd Person,Plural,expaventavistis,expaventuistis,expaventistis,expaventistis,You (pl.) have frightened
+Active Indicative,Perfect,3rd Person,Singular,expaventavit,expaventuit,expaventit,expaventit,He/she/it has frightened
+Active Indicative,Perfect,3rd Person,Plural,expaventaverunt,expaventuerunt,expaventerunt,expaventerunt,They have frightened
+Active Indicative,Pluperfect,1st Person,Singular,expaventaveram,expaventueram,expaventeram,expaventeram,I had frightened
+Active Indicative,Pluperfect,1st Person,Plural,expaventaveramus,expaventueramus,expaventeramus,expaventeramus,We had frightened
+Active Indicative,Pluperfect,2nd Person,Singular,expaventaveras,expaventueras,expaventeras,expaventeras,You had frightened
+Active Indicative,Pluperfect,2nd Person,Plural,expaventaveratis,expaventueratis,expaventeratis,expaventeratis,You (pl.) had frightened
+Active Indicative,Pluperfect,3rd Person,Singular,expaventaverat,expaventuerat,expaventerat,expaventerat,He/she/it had frightened
+Active Indicative,Pluperfect,3rd Person,Plural,expaventaverant,expaventuerant,expaventerant,expaventerant,They had frightened
+Active Indicative,Future Perfect,1st Person,Singular,expaventavero,expaventueero,expaventero,expaventiero,I will have frightened
+Active Indicative,Future Perfect,1st Person,Plural,expaventaverimus,expaventuerimus,expaventerimus,expaventierimus,We will have frightened
+Active Indicative,Future Perfect,2nd Person,Singular,expaventaveris,expaventueris,expaventeris,expaventieris,You will have frightened
+Active Indicative,Future Perfect,2nd Person,Plural,expaventaveritis,expaventueritis,expaventeritis,expaventieritis,You (pl.) will have frightened
+Active Indicative,Future Perfect,3rd Person,Singular,expaventaverit,expaventuerit,expaventerit,expaventierit,He/she/it will have frightened
+Active Indicative,Future Perfect,3rd Person,Plural,expaventaverint,expaventuerint,expaventerint,expaventierint,They will have frightened
+Passive Indicative,Present,1st Person,Singular,expaventor,expaventeor,expaventor,expaventior,I am being frightened
+Passive Indicative,Present,1st Person,Plural,expaventamur,expaventemur,expaventimur,expaventimur,We are being frightened
+Passive Indicative,Present,2nd Person,Singular,expaventaris,expaventeris,expaventiris,expaventiris,You are being frightened
+Passive Indicative,Present,2nd Person,Plural,expaventamini,expaventemini,expaventimini,expaventimini,You (pl.) are being frightened
+Passive Indicative,Present,3rd Person,Singular,expaventatur,expaventetur,expaventitur,expaventitur,He/she/it is being frightened
+Passive Indicative,Present,3rd Person,Plural,expaventantur,expavententur,expaventiuntur,expaventiuntur,They are being frightened
+Passive Indicative,Imperfect,1st Person,Singular,expaventabar,expaventebar,expaventebar,expaventiebar,I was frightened
+Passive Indicative,Imperfect,1st Person,Plural,expaventabamur,expaventebamur,expaventebamur,expaventiebamur,We were frightened
+Passive Indicative,Imperfect,2nd Person,Singular,expaventabaris,expaventebaris,expaventebaris,expaventiebaris,You were frightened
+Passive Indicative,Imperfect,2nd Person,Plural,expaventabamini,expaventebamini,expaventebamini,expaventiebamini,You (pl.) were frightened
+Passive Indicative,Imperfect,3rd Person,Singular,expaventabatur,expaventebatur,expaventebatur,expaventiebatur,He/she/it was frightened
+Passive Indicative,Imperfect,3rd Person,Plural,expaventabantur,expaventebantur,expaventebantur,expaventiebantur,They were frightened
+Passive Indicative,Future,1st Person,Singular,expaventabor,expaventebor,expaventar,expaventiar,I will be frightened
+Passive Indicative,Future,1st Person,Plural,expaventabimur,expaventebimur,expaventemur,expaventiemur,We will be frightened
+Passive Indicative,Future,2nd Person,Singular,expaventaberis,expaventeberis,expaventeris,expaventieris,You will be frightened
+Passive Indicative,Future,2nd Person,Plural,expaventabimini,expaventebimini,expaventemini,expaventiemini,You (pl.) will be frightened
+Passive Indicative,Future,3rd Person,Singular,expaventabitur,expaventebitur,expaventetur,expaventietur,He/she/it will be frightened
+Passive Indicative,Future,3rd Person,Plural,expaventabuntur,expaventebuntur,expavententur,expaventientur,They will be frightened
+Passive Indicative,Perfect,1st Person,Singular,expaventatus sum,expaventetus sum,expaventus sum,expaventus sum,I have been frightened
+Passive Indicative,Perfect,1st Person,Plural,expaventati sumus,expaventeti sumus,expaventi sumus,expaventi sumus,We have been frightened
+Passive Indicative,Perfect,2nd Person,Singular,expaventatus es,expaventetus es,expaventus es,expaventus es,You have been frightened
+Passive Indicative,Perfect,2nd Person,Plural,expaventati estis,expaventeti estis,expaventi estis,expaventi estis,You (pl.) have been frightened
+Passive Indicative,Perfect,3rd Person,Singular,expaventatus est,expaventetus est,expaventus est,expaventus est,He/she/it has been frightened
+Passive Indicative,Perfect,3rd Person,Plural,expaventati sunt,expaventeti sunt,expaventi sunt,expaventi sunt,They have been frightened
+Passive Indicative,Pluperfect,1st Person,Singular,expaventatus eram,expaventetus eram,expaventus eram,expaventus eram,I had been frightened
+Passive Indicative,Pluperfect,1st Person,Plural,expaventati eramus,expaventeti eramus,expaventi eramus,expaventi eramus,We had been frightened
+Passive Indicative,Pluperfect,2nd Person,Singular,expaventatus eras,expaventetus eras,expaventus eras,expaventus eras,You had been frightened
+Passive Indicative,Pluperfect,2nd Person,Plural,expaventati eratis,expaventeti eratis,expaventi eratis,expaventi eratis,You (pl.) had been frightened
+Passive Indicative,Pluperfect,3rd Person,Singular,expaventatus erat,expaventetus erat,expaventus erat,expaventus erat,He/she/it had been frightened
+Passive Indicative,Pluperfect,3rd Person,Plural,expaventati erant,expaventeti erant,expaventi erant,expaventi erant,They had been frightened
+Passive Indicative,Future Perfect,1st Person,Singular,expaventatus ero,expaventetus ero,expaventus ero,expaventus ero,I will have been frightened
+Passive Indicative,Future Perfect,1st Person,Plural,expaventati erimus,expaventeti erimus,expaventi erimus,expaventi erimus,We will have been frightened
+Passive Indicative,Future Perfect,2nd Person,Singular,expaventatus eris,expaventetus eris,expaventus eris,expaventus eris,You will have been frightened
+Passive Indicative,Future Perfect,2nd Person,Plural,expaventati eritis,expaventeti eritis,expaventi eritis,expaventi eritis,You (pl.) will have been frightened
+Passive Indicative,Future Perfect,3rd Person,Singular,expaventatus erit,expaventetus erit,expaventus erit,expaventus erit,He/she/it will have been frightened
+Passive Indicative,Future Perfect,3rd Person,Plural,expaventati erunt,expaventeti erunt,expaventi erunt,expaventi erunt,They will have been frightened
+Active Subjunctive,Present,1st Person,Singular,expaventem,expaventem,expaventam,expaventam,I may frighten
+Active Subjunctive,Present,1st Person,Plural,expaventemus,expaventemus,expaventamus,expaventamus,We may frighten
+Active Subjunctive,Present,2nd Person,Singular,expaventes,expaventes,expaventas,expaventas,You may frighten
+Active Subjunctive,Present,2nd Person,Plural,expaventetis,expaventetis,expaventatis,expaventatis,You (pl.) may frighten
+Active Subjunctive,Present,3rd Person,Singular,expaventet,expaventet,expaventat,expaventat,He/she/it may frighten
+Active Subjunctive,Present,3rd Person,Plural,expaventent,expaventent,expaventant,expaventant,They may frighten
+Active Subjunctive,Imperfect,1st Person,Singular,expaventarem,expaventerem,expaventerem,expaventirem,I should frighten
+Active Subjunctive,Imperfect,1st Person,Plural,expaventaremus,expaventeremus,expaventeremus,expaventiremus,We should frighten
+Active Subjunctive,Imperfect,2nd Person,Singular,expaventares,expaventeres,expaventeres,expaventires,You should frighten
+Active Subjunctive,Imperfect,2nd Person,Plural,expaventaretis,expaventeretis,expaventeretis,expaventiretis,You (pl.) should frighten
+Active Subjunctive,Imperfect,3rd Person,Singular,expaventaret,expaventeret,expaventeret,expaventiret,He/she/it should frighten
+Active Subjunctive,Imperfect,3rd Person,Plural,expaventarent,expaventerent,expaventerent,expaventirent,They should frighten
+Active Subjunctive,Perfect,1st Person,Singular,expaventerim,expaventuerim,expaventerim,expaventierim,I may have frightened
+Active Subjunctive,Perfect,1st Person,Plural,expaventerimus,expaventuerimus,expaventerimus,expaventierimus,We may have frightened
+Active Subjunctive,Perfect,2nd Person,Singular,expaventeris,expaventueris,expaventeris,expaventieris,You may have frightened
+Active Subjunctive,Perfect,2nd Person,Plural,expaventeritis,expaventueritis,expaventeritis,expaventieritis,You (pl.) may have frightened
+Active Subjunctive,Perfect,3rd Person,Singular,expaventerit,expaventuerit,expaventerit,expaventierit,He/she/it may have frightened
+Active Subjunctive,Perfect,3rd Person,Plural,expaventerint,expaventuerint,expaventerint,expaventierint,They may have frightened
+Active Subjunctive,Pluperfect,1st Person,Singular,expaventissem,expaventuissem,expaventissem,expaventissem,I should have frightened
+Active Subjunctive,Pluperfect,1st Person,Plural,expaventissemus,expaventuissemus,expaventissemus,expaventissemus,We should have frightened
+Active Subjunctive,Pluperfect,2nd Person,Singular,expaventisses,expaventuisses,expaventisses,expaventisses,You would have frightened
+Active Subjunctive,Pluperfect,2nd Person,Plural,expaventissetis,expaventuissetis,expaventissetis,expaventissetis,You (pl.) would have frightened
+Active Subjunctive,Pluperfect,3rd Person,Singular,expaventisset,expaventuisset,expaventisset,expaventisset,He/she/it would have frightened
+Active Subjunctive,Pluperfect,3rd Person,Plural,expaventissent,expaventuissent,expaventissent,expaventissent,They would have frightened
+Passive Subjunctive,Present,1st Person,Singular,expaventer,expaventer,expaventar,expaventar,I may be frightened
+Passive Subjunctive,Present,1st Person,Plural,expaventemur,expaventemur,expaventamur,expaventamur,We may be frightened
+Passive Subjunctive,Present,2nd Person,Singular,expaventeris,expaventeris,expaventaris,expaventaris,You may be frightened
+Passive Subjunctive,Present,2nd Person,Plural,expaventemini,expaventemini,expaventamini,expaventamini,You (pl.) may be frightened
+Passive Subjunctive,Present,3rd Person,Singular,expaventetur,expaventetur,expaventatur,expaventatur,He/she/it may be frightened
+Passive Subjunctive,Present,3rd Person,Plural,expavententur,expavententur,expaventantur,expaventantur,They may be frightened
+Passive Subjunctive,Imperfect,1st Person,Singular,expaventarer,expaventerer,expaventerer,expaventirer,I should be frightened
+Passive Subjunctive,Imperfect,1st Person,Plural,expaventaremur,expaventeremur,expaventeremur,expaventiremur,We should be frightened
+Passive Subjunctive,Imperfect,2nd Person,Singular,expaventareris,expaventereris,expaventereris,expaventireris,You would be frightened
+Passive Subjunctive,Imperfect,2nd Person,Plural,expaventaremini,expaventeremini,expaventeremini,expaventiremini,You (pl.) would be frightened
+Passive Subjunctive,Imperfect,3rd Person,Singular,expaventaretur,expaventeretur,expaventeretur,expaventiretur,He/she/it would be frightened
+Passive Subjunctive,Imperfect,3rd Person,Plural,expaventarentur,expaventerentur,expaventerentur,expaventirentur,They would be frightened
+Passive Subjunctive,Perfect,1st Person,Singular,expaventatus sim,expaventetus sim,expaventus sim,expaventus sim,I may have been frightened
+Passive Subjunctive,Perfect,1st Person,Plural,expaventati simus,expaventeti simus,expaventi simus,expaventi simus,We may have been frightened
+Passive Subjunctive,Perfect,2nd Person,Singular,expaventatus sis,expaventetus sis,expaventus sis,expaventus sis,You may have been frightened
+Passive Subjunctive,Perfect,2nd Person,Plural,expaventati sitis,expaventeti sitis,expaventi sitis,expaventi sitis,You (pl.) may have been frightened
+Passive Subjunctive,Perfect,3rd Person,Singular,expaventatus sit,expaventetus sit,expaventus sit,expaventus sit,He/she/it may have been frightened
+Passive Subjunctive,Perfect,3rd Person,Plural,expaventati sint,expaventeti sint,expaventi sint,expaventi sint,They may have been frightened
+Passive Subjunctive,Pluperfect,1st Person,Singular,expaventatus essem,expaventetus essem,expaventus essem,expaventus essem,I should have been frightened
+Passive Subjunctive,Pluperfect,1st Person,Plural,expaventati essemus,expaventeti essemus,expaventi essemus,expaventi essemus,We should have been frightened
+Passive Subjunctive,Pluperfect,2nd Person,Singular,expaventatus esses,expaventetus esses,expaventus esses,expaventus esses,You would have been frightened
+Passive Subjunctive,Pluperfect,2nd Person,Plural,expaventati essetis,expaventeti essetis,expaventi essetis,expaventi essetis,You (pl.) would have been frightened
+Passive Subjunctive,Pluperfect,3rd Person,Singular,expaventatus esset,expaventetus esset,expaventus esset,expaventus esset,He/she/it would have been frightened
+Passive Subjunctive,Pluperfect,3rd Person,Plural,expaventati essent,expaventeti essent,expaventi essent,expaventi essent,They would have been frightened

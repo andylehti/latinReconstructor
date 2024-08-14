@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,meto,meteo,meto,metio,I reap
+Active Indicative,Present,1st Person,Plural,metamus,metemus,metimus,metimus,We reap
+Active Indicative,Present,2nd Person,Singular,metas,metes,metis,metis,You reap
+Active Indicative,Present,2nd Person,Plural,metatis,metetis,metitis,metitis,You (pl.) reap
+Active Indicative,Present,3rd Person,Singular,metat,metet,metit,metit,He/she/it reap
+Active Indicative,Present,3rd Person,Plural,metant,metent,metiunt,metiunt,They reap
+Active Indicative,Imperfect,1st Person,Singular,metabam,metebam,metebam,metiebam,I was reaping
+Active Indicative,Imperfect,1st Person,Plural,metabamus,metebamus,metebamus,metiebamus,We were reaping
+Active Indicative,Imperfect,2nd Person,Singular,metabas,metebas,metebas,metiebas,You were reaping
+Active Indicative,Imperfect,2nd Person,Plural,metabatis,metebatis,metebatis,metiebatis,You (pl.) were reaping
+Active Indicative,Imperfect,3rd Person,Singular,metabat,metebat,metebat,metiebat,He/she/it was reaping
+Active Indicative,Imperfect,3rd Person,Plural,metabant,metebant,metebant,metiebant,They were reaping
+Active Indicative,Future,1st Person,Singular,metabo,metebo,metam,metiam,I will reap
+Active Indicative,Future,1st Person,Plural,metabimus,metebimus,metemus,metiemus,We will reap
+Active Indicative,Future,2nd Person,Singular,metabis,metebis,metes,meties,You will reap
+Active Indicative,Future,2nd Person,Plural,metabitis,metebitis,metetis,metietis,You (pl.) will reap
+Active Indicative,Future,3rd Person,Singular,metabit,metebit,metet,metiet,He/she/it will reap
+Active Indicative,Future,3rd Person,Plural,metabunt,metebunt,metent,metient,They will reap
+Active Indicative,Perfect,1st Person,Singular,metavi,metui,meti,meti,I have reaped
+Active Indicative,Perfect,1st Person,Plural,metavimus,metuimus,metimus,metimus,We have reaped
+Active Indicative,Perfect,2nd Person,Singular,metavisti,metuisti,metisti,metisti,You have reaped
+Active Indicative,Perfect,2nd Person,Plural,metavistis,metuistis,metistis,metistis,You (pl.) have reaped
+Active Indicative,Perfect,3rd Person,Singular,metavit,metuit,metit,metit,He/she/it has reaped
+Active Indicative,Perfect,3rd Person,Plural,metaverunt,metuerunt,meterunt,meterunt,They have reaped
+Active Indicative,Pluperfect,1st Person,Singular,metaveram,metueram,meteram,meteram,I had reaped
+Active Indicative,Pluperfect,1st Person,Plural,metaveramus,metueramus,meteramus,meteramus,We had reaped
+Active Indicative,Pluperfect,2nd Person,Singular,metaveras,metueras,meteras,meteras,You had reaped
+Active Indicative,Pluperfect,2nd Person,Plural,metaveratis,metueratis,meteratis,meteratis,You (pl.) had reaped
+Active Indicative,Pluperfect,3rd Person,Singular,metaverat,metuerat,meterat,meterat,He/she/it had reaped
+Active Indicative,Pluperfect,3rd Person,Plural,metaverant,metuerant,meterant,meterant,They had reaped
+Active Indicative,Future Perfect,1st Person,Singular,metavero,metueero,metero,metiero,I will have reaped
+Active Indicative,Future Perfect,1st Person,Plural,metaverimus,metuerimus,meterimus,metierimus,We will have reaped
+Active Indicative,Future Perfect,2nd Person,Singular,metaveris,metueris,meteris,metieris,You will have reaped
+Active Indicative,Future Perfect,2nd Person,Plural,metaveritis,metueritis,meteritis,metieritis,You (pl.) will have reaped
+Active Indicative,Future Perfect,3rd Person,Singular,metaverit,metuerit,meterit,metierit,He/she/it will have reaped
+Active Indicative,Future Perfect,3rd Person,Plural,metaverint,metuerint,meterint,metierint,They will have reaped
+Passive Indicative,Present,1st Person,Singular,metor,meteor,metor,metior,I am being reaped
+Passive Indicative,Present,1st Person,Plural,metamur,metemur,metimur,metimur,We are being reaped
+Passive Indicative,Present,2nd Person,Singular,metaris,meteris,metiris,metiris,You are being reaped
+Passive Indicative,Present,2nd Person,Plural,metamini,metemini,metimini,metimini,You (pl.) are being reaped
+Passive Indicative,Present,3rd Person,Singular,metatur,metetur,metitur,metitur,He/she/it is being reaped
+Passive Indicative,Present,3rd Person,Plural,metantur,metentur,metiuntur,metiuntur,They are being reaped
+Passive Indicative,Imperfect,1st Person,Singular,metabar,metebar,metebar,metiebar,I was reaped
+Passive Indicative,Imperfect,1st Person,Plural,metabamur,metebamur,metebamur,metiebamur,We were reaped
+Passive Indicative,Imperfect,2nd Person,Singular,metabaris,metebaris,metebaris,metiebaris,You were reaped
+Passive Indicative,Imperfect,2nd Person,Plural,metabamini,metebamini,metebamini,metiebamini,You (pl.) were reaped
+Passive Indicative,Imperfect,3rd Person,Singular,metabatur,metebatur,metebatur,metiebatur,He/she/it was reaped
+Passive Indicative,Imperfect,3rd Person,Plural,metabantur,metebantur,metebantur,metiebantur,They were reaped
+Passive Indicative,Future,1st Person,Singular,metabor,metebor,metar,metiar,I will be reaped
+Passive Indicative,Future,1st Person,Plural,metabimur,metebimur,metemur,metiemur,We will be reaped
+Passive Indicative,Future,2nd Person,Singular,metaberis,meteberis,meteris,metieris,You will be reaped
+Passive Indicative,Future,2nd Person,Plural,metabimini,metebimini,metemini,metiemini,You (pl.) will be reaped
+Passive Indicative,Future,3rd Person,Singular,metabitur,metebitur,metetur,metietur,He/she/it will be reaped
+Passive Indicative,Future,3rd Person,Plural,metabuntur,metebuntur,metentur,metientur,They will be reaped
+Passive Indicative,Perfect,1st Person,Singular,metatus sum,metetus sum,metus sum,metus sum,I have been reaped
+Passive Indicative,Perfect,1st Person,Plural,metati sumus,meteti sumus,meti sumus,meti sumus,We have been reaped
+Passive Indicative,Perfect,2nd Person,Singular,metatus es,metetus es,metus es,metus es,You have been reaped
+Passive Indicative,Perfect,2nd Person,Plural,metati estis,meteti estis,meti estis,meti estis,You (pl.) have been reaped
+Passive Indicative,Perfect,3rd Person,Singular,metatus est,metetus est,metus est,metus est,He/she/it has been reaped
+Passive Indicative,Perfect,3rd Person,Plural,metati sunt,meteti sunt,meti sunt,meti sunt,They have been reaped
+Passive Indicative,Pluperfect,1st Person,Singular,metatus eram,metetus eram,metus eram,metus eram,I had been reaped
+Passive Indicative,Pluperfect,1st Person,Plural,metati eramus,meteti eramus,meti eramus,meti eramus,We had been reaped
+Passive Indicative,Pluperfect,2nd Person,Singular,metatus eras,metetus eras,metus eras,metus eras,You had been reaped
+Passive Indicative,Pluperfect,2nd Person,Plural,metati eratis,meteti eratis,meti eratis,meti eratis,You (pl.) had been reaped
+Passive Indicative,Pluperfect,3rd Person,Singular,metatus erat,metetus erat,metus erat,metus erat,He/she/it had been reaped
+Passive Indicative,Pluperfect,3rd Person,Plural,metati erant,meteti erant,meti erant,meti erant,They had been reaped
+Passive Indicative,Future Perfect,1st Person,Singular,metatus ero,metetus ero,metus ero,metus ero,I will have been reaped
+Passive Indicative,Future Perfect,1st Person,Plural,metati erimus,meteti erimus,meti erimus,meti erimus,We will have been reaped
+Passive Indicative,Future Perfect,2nd Person,Singular,metatus eris,metetus eris,metus eris,metus eris,You will have been reaped
+Passive Indicative,Future Perfect,2nd Person,Plural,metati eritis,meteti eritis,meti eritis,meti eritis,You (pl.) will have been reaped
+Passive Indicative,Future Perfect,3rd Person,Singular,metatus erit,metetus erit,metus erit,metus erit,He/she/it will have been reaped
+Passive Indicative,Future Perfect,3rd Person,Plural,metati erunt,meteti erunt,meti erunt,meti erunt,They will have been reaped
+Active Subjunctive,Present,1st Person,Singular,metem,metem,metam,metam,I may reap
+Active Subjunctive,Present,1st Person,Plural,metemus,metemus,metamus,metamus,We may reap
+Active Subjunctive,Present,2nd Person,Singular,metes,metes,metas,metas,You may reap
+Active Subjunctive,Present,2nd Person,Plural,metetis,metetis,metatis,metatis,You (pl.) may reap
+Active Subjunctive,Present,3rd Person,Singular,metet,metet,metat,metat,He/she/it may reap
+Active Subjunctive,Present,3rd Person,Plural,metent,metent,metant,metant,They may reap
+Active Subjunctive,Imperfect,1st Person,Singular,metarem,meterem,meterem,metirem,I should reap
+Active Subjunctive,Imperfect,1st Person,Plural,metaremus,meteremus,meteremus,metiremus,We should reap
+Active Subjunctive,Imperfect,2nd Person,Singular,metares,meteres,meteres,metires,You should reap
+Active Subjunctive,Imperfect,2nd Person,Plural,metaretis,meteretis,meteretis,metiretis,You (pl.) should reap
+Active Subjunctive,Imperfect,3rd Person,Singular,metaret,meteret,meteret,metiret,He/she/it should reap
+Active Subjunctive,Imperfect,3rd Person,Plural,metarent,meterent,meterent,metirent,They should reap
+Active Subjunctive,Perfect,1st Person,Singular,meterim,metuerim,meterim,metierim,I may have reaped
+Active Subjunctive,Perfect,1st Person,Plural,meterimus,metuerimus,meterimus,metierimus,We may have reaped
+Active Subjunctive,Perfect,2nd Person,Singular,meteris,metueris,meteris,metieris,You may have reaped
+Active Subjunctive,Perfect,2nd Person,Plural,meteritis,metueritis,meteritis,metieritis,You (pl.) may have reaped
+Active Subjunctive,Perfect,3rd Person,Singular,meterit,metuerit,meterit,metierit,He/she/it may have reaped
+Active Subjunctive,Perfect,3rd Person,Plural,meterint,metuerint,meterint,metierint,They may have reaped
+Active Subjunctive,Pluperfect,1st Person,Singular,metissem,metuissem,metissem,metissem,I should have reaped
+Active Subjunctive,Pluperfect,1st Person,Plural,metissemus,metuissemus,metissemus,metissemus,We should have reaped
+Active Subjunctive,Pluperfect,2nd Person,Singular,metisses,metuisses,metisses,metisses,You would have reaped
+Active Subjunctive,Pluperfect,2nd Person,Plural,metissetis,metuissetis,metissetis,metissetis,You (pl.) would have reaped
+Active Subjunctive,Pluperfect,3rd Person,Singular,metisset,metuisset,metisset,metisset,He/she/it would have reaped
+Active Subjunctive,Pluperfect,3rd Person,Plural,metissent,metuissent,metissent,metissent,They would have reaped
+Passive Subjunctive,Present,1st Person,Singular,meter,meter,metar,metar,I may be reaped
+Passive Subjunctive,Present,1st Person,Plural,metemur,metemur,metamur,metamur,We may be reaped
+Passive Subjunctive,Present,2nd Person,Singular,meteris,meteris,metaris,metaris,You may be reaped
+Passive Subjunctive,Present,2nd Person,Plural,metemini,metemini,metamini,metamini,You (pl.) may be reaped
+Passive Subjunctive,Present,3rd Person,Singular,metetur,metetur,metatur,metatur,He/she/it may be reaped
+Passive Subjunctive,Present,3rd Person,Plural,metentur,metentur,metantur,metantur,They may be reaped
+Passive Subjunctive,Imperfect,1st Person,Singular,metarer,meterer,meterer,metirer,I should be reaped
+Passive Subjunctive,Imperfect,1st Person,Plural,metaremur,meteremur,meteremur,metiremur,We should be reaped
+Passive Subjunctive,Imperfect,2nd Person,Singular,metareris,metereris,metereris,metireris,You would be reaped
+Passive Subjunctive,Imperfect,2nd Person,Plural,metaremini,meteremini,meteremini,metiremini,You (pl.) would be reaped
+Passive Subjunctive,Imperfect,3rd Person,Singular,metaretur,meteretur,meteretur,metiretur,He/she/it would be reaped
+Passive Subjunctive,Imperfect,3rd Person,Plural,metarentur,meterentur,meterentur,metirentur,They would be reaped
+Passive Subjunctive,Perfect,1st Person,Singular,metatus sim,metetus sim,metus sim,metus sim,I may have been reaped
+Passive Subjunctive,Perfect,1st Person,Plural,metati simus,meteti simus,meti simus,meti simus,We may have been reaped
+Passive Subjunctive,Perfect,2nd Person,Singular,metatus sis,metetus sis,metus sis,metus sis,You may have been reaped
+Passive Subjunctive,Perfect,2nd Person,Plural,metati sitis,meteti sitis,meti sitis,meti sitis,You (pl.) may have been reaped
+Passive Subjunctive,Perfect,3rd Person,Singular,metatus sit,metetus sit,metus sit,metus sit,He/she/it may have been reaped
+Passive Subjunctive,Perfect,3rd Person,Plural,metati sint,meteti sint,meti sint,meti sint,They may have been reaped
+Passive Subjunctive,Pluperfect,1st Person,Singular,metatus essem,metetus essem,metus essem,metus essem,I should have been reaped
+Passive Subjunctive,Pluperfect,1st Person,Plural,metati essemus,meteti essemus,meti essemus,meti essemus,We should have been reaped
+Passive Subjunctive,Pluperfect,2nd Person,Singular,metatus esses,metetus esses,metus esses,metus esses,You would have been reaped
+Passive Subjunctive,Pluperfect,2nd Person,Plural,metati essetis,meteti essetis,meti essetis,meti essetis,You (pl.) would have been reaped
+Passive Subjunctive,Pluperfect,3rd Person,Singular,metatus esset,metetus esset,metus esset,metus esset,He/she/it would have been reaped
+Passive Subjunctive,Pluperfect,3rd Person,Plural,metati essent,meteti essent,meti essent,meti essent,They would have been reaped

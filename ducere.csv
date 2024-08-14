@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,duco,duceo,duco,ducio,I guide
+Active Indicative,Present,1st Person,Plural,ducamus,ducemus,ducimus,ducimus,We guide
+Active Indicative,Present,2nd Person,Singular,ducas,duces,ducis,ducis,You guide
+Active Indicative,Present,2nd Person,Plural,ducatis,ducetis,ducitis,ducitis,You (pl.) guide
+Active Indicative,Present,3rd Person,Singular,ducat,ducet,ducit,ducit,He/she/it guide
+Active Indicative,Present,3rd Person,Plural,ducant,ducent,duciunt,duciunt,They guide
+Active Indicative,Imperfect,1st Person,Singular,ducabam,ducebam,ducebam,duciebam,I was guideing
+Active Indicative,Imperfect,1st Person,Plural,ducabamus,ducebamus,ducebamus,duciebamus,We were guideing
+Active Indicative,Imperfect,2nd Person,Singular,ducabas,ducebas,ducebas,duciebas,You were guideing
+Active Indicative,Imperfect,2nd Person,Plural,ducabatis,ducebatis,ducebatis,duciebatis,You (pl.) were guideing
+Active Indicative,Imperfect,3rd Person,Singular,ducabat,ducebat,ducebat,duciebat,He/she/it was guideing
+Active Indicative,Imperfect,3rd Person,Plural,ducabant,ducebant,ducebant,duciebant,They were guideing
+Active Indicative,Future,1st Person,Singular,ducabo,ducebo,ducam,duciam,I will guide
+Active Indicative,Future,1st Person,Plural,ducabimus,ducebimus,ducemus,duciemus,We will guide
+Active Indicative,Future,2nd Person,Singular,ducabis,ducebis,duces,ducies,You will guide
+Active Indicative,Future,2nd Person,Plural,ducabitis,ducebitis,ducetis,ducietis,You (pl.) will guide
+Active Indicative,Future,3rd Person,Singular,ducabit,ducebit,ducet,duciet,He/she/it will guide
+Active Indicative,Future,3rd Person,Plural,ducabunt,ducebunt,ducent,ducient,They will guide
+Active Indicative,Perfect,1st Person,Singular,ducavi,ducui,duci,duci,I have guideed
+Active Indicative,Perfect,1st Person,Plural,ducavimus,ducuimus,ducimus,ducimus,We have guideed
+Active Indicative,Perfect,2nd Person,Singular,ducavisti,ducuisti,ducisti,ducisti,You have guideed
+Active Indicative,Perfect,2nd Person,Plural,ducavistis,ducuistis,ducistis,ducistis,You (pl.) have guideed
+Active Indicative,Perfect,3rd Person,Singular,ducavit,ducuit,ducit,ducit,He/she/it has guideed
+Active Indicative,Perfect,3rd Person,Plural,ducaverunt,ducuerunt,ducerunt,ducerunt,They have guideed
+Active Indicative,Pluperfect,1st Person,Singular,ducaveram,ducueram,duceram,duceram,I had guideed
+Active Indicative,Pluperfect,1st Person,Plural,ducaveramus,ducueramus,duceramus,duceramus,We had guideed
+Active Indicative,Pluperfect,2nd Person,Singular,ducaveras,ducueras,duceras,duceras,You had guideed
+Active Indicative,Pluperfect,2nd Person,Plural,ducaveratis,ducueratis,duceratis,duceratis,You (pl.) had guideed
+Active Indicative,Pluperfect,3rd Person,Singular,ducaverat,ducuerat,ducerat,ducerat,He/she/it had guideed
+Active Indicative,Pluperfect,3rd Person,Plural,ducaverant,ducuerant,ducerant,ducerant,They had guideed
+Active Indicative,Future Perfect,1st Person,Singular,ducavero,ducueero,ducero,duciero,I will have guideed
+Active Indicative,Future Perfect,1st Person,Plural,ducaverimus,ducuerimus,ducerimus,ducierimus,We will have guideed
+Active Indicative,Future Perfect,2nd Person,Singular,ducaveris,ducueris,duceris,ducieris,You will have guideed
+Active Indicative,Future Perfect,2nd Person,Plural,ducaveritis,ducueritis,duceritis,ducieritis,You (pl.) will have guideed
+Active Indicative,Future Perfect,3rd Person,Singular,ducaverit,ducuerit,ducerit,ducierit,He/she/it will have guideed
+Active Indicative,Future Perfect,3rd Person,Plural,ducaverint,ducuerint,ducerint,ducierint,They will have guideed
+Passive Indicative,Present,1st Person,Singular,ducor,duceor,ducor,ducior,I am being guideed
+Passive Indicative,Present,1st Person,Plural,ducamur,ducemur,ducimur,ducimur,We are being guideed
+Passive Indicative,Present,2nd Person,Singular,ducaris,duceris,duciris,duciris,You are being guideed
+Passive Indicative,Present,2nd Person,Plural,ducamini,ducemini,ducimini,ducimini,You (pl.) are being guideed
+Passive Indicative,Present,3rd Person,Singular,ducatur,ducetur,ducitur,ducitur,He/she/it is being guideed
+Passive Indicative,Present,3rd Person,Plural,ducantur,ducentur,duciuntur,duciuntur,They are being guideed
+Passive Indicative,Imperfect,1st Person,Singular,ducabar,ducebar,ducebar,duciebar,I was guideed
+Passive Indicative,Imperfect,1st Person,Plural,ducabamur,ducebamur,ducebamur,duciebamur,We were guideed
+Passive Indicative,Imperfect,2nd Person,Singular,ducabaris,ducebaris,ducebaris,duciebaris,You were guideed
+Passive Indicative,Imperfect,2nd Person,Plural,ducabamini,ducebamini,ducebamini,duciebamini,You (pl.) were guideed
+Passive Indicative,Imperfect,3rd Person,Singular,ducabatur,ducebatur,ducebatur,duciebatur,He/she/it was guideed
+Passive Indicative,Imperfect,3rd Person,Plural,ducabantur,ducebantur,ducebantur,duciebantur,They were guideed
+Passive Indicative,Future,1st Person,Singular,ducabor,ducebor,ducar,duciar,I will be guideed
+Passive Indicative,Future,1st Person,Plural,ducabimur,ducebimur,ducemur,duciemur,We will be guideed
+Passive Indicative,Future,2nd Person,Singular,ducaberis,duceberis,duceris,ducieris,You will be guideed
+Passive Indicative,Future,2nd Person,Plural,ducabimini,ducebimini,ducemini,duciemini,You (pl.) will be guideed
+Passive Indicative,Future,3rd Person,Singular,ducabitur,ducebitur,ducetur,ducietur,He/she/it will be guideed
+Passive Indicative,Future,3rd Person,Plural,ducabuntur,ducebuntur,ducentur,ducientur,They will be guideed
+Passive Indicative,Perfect,1st Person,Singular,ducatus sum,ducetus sum,ducus sum,ducus sum,I have been guideed
+Passive Indicative,Perfect,1st Person,Plural,ducati sumus,duceti sumus,duci sumus,duci sumus,We have been guideed
+Passive Indicative,Perfect,2nd Person,Singular,ducatus es,ducetus es,ducus es,ducus es,You have been guideed
+Passive Indicative,Perfect,2nd Person,Plural,ducati estis,duceti estis,duci estis,duci estis,You (pl.) have been guideed
+Passive Indicative,Perfect,3rd Person,Singular,ducatus est,ducetus est,ducus est,ducus est,He/she/it has been guideed
+Passive Indicative,Perfect,3rd Person,Plural,ducati sunt,duceti sunt,duci sunt,duci sunt,They have been guideed
+Passive Indicative,Pluperfect,1st Person,Singular,ducatus eram,ducetus eram,ducus eram,ducus eram,I had been guideed
+Passive Indicative,Pluperfect,1st Person,Plural,ducati eramus,duceti eramus,duci eramus,duci eramus,We had been guideed
+Passive Indicative,Pluperfect,2nd Person,Singular,ducatus eras,ducetus eras,ducus eras,ducus eras,You had been guideed
+Passive Indicative,Pluperfect,2nd Person,Plural,ducati eratis,duceti eratis,duci eratis,duci eratis,You (pl.) had been guideed
+Passive Indicative,Pluperfect,3rd Person,Singular,ducatus erat,ducetus erat,ducus erat,ducus erat,He/she/it had been guideed
+Passive Indicative,Pluperfect,3rd Person,Plural,ducati erant,duceti erant,duci erant,duci erant,They had been guideed
+Passive Indicative,Future Perfect,1st Person,Singular,ducatus ero,ducetus ero,ducus ero,ducus ero,I will have been guideed
+Passive Indicative,Future Perfect,1st Person,Plural,ducati erimus,duceti erimus,duci erimus,duci erimus,We will have been guideed
+Passive Indicative,Future Perfect,2nd Person,Singular,ducatus eris,ducetus eris,ducus eris,ducus eris,You will have been guideed
+Passive Indicative,Future Perfect,2nd Person,Plural,ducati eritis,duceti eritis,duci eritis,duci eritis,You (pl.) will have been guideed
+Passive Indicative,Future Perfect,3rd Person,Singular,ducatus erit,ducetus erit,ducus erit,ducus erit,He/she/it will have been guideed
+Passive Indicative,Future Perfect,3rd Person,Plural,ducati erunt,duceti erunt,duci erunt,duci erunt,They will have been guideed
+Active Subjunctive,Present,1st Person,Singular,ducem,ducem,ducam,ducam,I may guide
+Active Subjunctive,Present,1st Person,Plural,ducemus,ducemus,ducamus,ducamus,We may guide
+Active Subjunctive,Present,2nd Person,Singular,duces,duces,ducas,ducas,You may guide
+Active Subjunctive,Present,2nd Person,Plural,ducetis,ducetis,ducatis,ducatis,You (pl.) may guide
+Active Subjunctive,Present,3rd Person,Singular,ducet,ducet,ducat,ducat,He/she/it may guide
+Active Subjunctive,Present,3rd Person,Plural,ducent,ducent,ducant,ducant,They may guide
+Active Subjunctive,Imperfect,1st Person,Singular,ducarem,ducerem,ducerem,ducirem,I should guide
+Active Subjunctive,Imperfect,1st Person,Plural,ducaremus,duceremus,duceremus,duciremus,We should guide
+Active Subjunctive,Imperfect,2nd Person,Singular,ducares,duceres,duceres,ducires,You should guide
+Active Subjunctive,Imperfect,2nd Person,Plural,ducaretis,duceretis,duceretis,duciretis,You (pl.) should guide
+Active Subjunctive,Imperfect,3rd Person,Singular,ducaret,duceret,duceret,duciret,He/she/it should guide
+Active Subjunctive,Imperfect,3rd Person,Plural,ducarent,ducerent,ducerent,ducirent,They should guide
+Active Subjunctive,Perfect,1st Person,Singular,ducerim,ducuerim,ducerim,ducierim,I may have guideed
+Active Subjunctive,Perfect,1st Person,Plural,ducerimus,ducuerimus,ducerimus,ducierimus,We may have guideed
+Active Subjunctive,Perfect,2nd Person,Singular,duceris,ducueris,duceris,ducieris,You may have guideed
+Active Subjunctive,Perfect,2nd Person,Plural,duceritis,ducueritis,duceritis,ducieritis,You (pl.) may have guideed
+Active Subjunctive,Perfect,3rd Person,Singular,ducerit,ducuerit,ducerit,ducierit,He/she/it may have guideed
+Active Subjunctive,Perfect,3rd Person,Plural,ducerint,ducuerint,ducerint,ducierint,They may have guideed
+Active Subjunctive,Pluperfect,1st Person,Singular,ducissem,ducuissem,ducissem,ducissem,I should have guideed
+Active Subjunctive,Pluperfect,1st Person,Plural,ducissemus,ducuissemus,ducissemus,ducissemus,We should have guideed
+Active Subjunctive,Pluperfect,2nd Person,Singular,ducisses,ducuisses,ducisses,ducisses,You would have guideed
+Active Subjunctive,Pluperfect,2nd Person,Plural,ducissetis,ducuissetis,ducissetis,ducissetis,You (pl.) would have guideed
+Active Subjunctive,Pluperfect,3rd Person,Singular,ducisset,ducuisset,ducisset,ducisset,He/she/it would have guideed
+Active Subjunctive,Pluperfect,3rd Person,Plural,ducissent,ducuissent,ducissent,ducissent,They would have guideed
+Passive Subjunctive,Present,1st Person,Singular,ducer,ducer,ducar,ducar,I may be guideed
+Passive Subjunctive,Present,1st Person,Plural,ducemur,ducemur,ducamur,ducamur,We may be guideed
+Passive Subjunctive,Present,2nd Person,Singular,duceris,duceris,ducaris,ducaris,You may be guideed
+Passive Subjunctive,Present,2nd Person,Plural,ducemini,ducemini,ducamini,ducamini,You (pl.) may be guideed
+Passive Subjunctive,Present,3rd Person,Singular,ducetur,ducetur,ducatur,ducatur,He/she/it may be guideed
+Passive Subjunctive,Present,3rd Person,Plural,ducentur,ducentur,ducantur,ducantur,They may be guideed
+Passive Subjunctive,Imperfect,1st Person,Singular,ducarer,ducerer,ducerer,ducirer,I should be guideed
+Passive Subjunctive,Imperfect,1st Person,Plural,ducaremur,duceremur,duceremur,duciremur,We should be guideed
+Passive Subjunctive,Imperfect,2nd Person,Singular,ducareris,ducereris,ducereris,ducireris,You would be guideed
+Passive Subjunctive,Imperfect,2nd Person,Plural,ducaremini,duceremini,duceremini,duciremini,You (pl.) would be guideed
+Passive Subjunctive,Imperfect,3rd Person,Singular,ducaretur,duceretur,duceretur,duciretur,He/she/it would be guideed
+Passive Subjunctive,Imperfect,3rd Person,Plural,ducarentur,ducerentur,ducerentur,ducirentur,They would be guideed
+Passive Subjunctive,Perfect,1st Person,Singular,ducatus sim,ducetus sim,ducus sim,ducus sim,I may have been guideed
+Passive Subjunctive,Perfect,1st Person,Plural,ducati simus,duceti simus,duci simus,duci simus,We may have been guideed
+Passive Subjunctive,Perfect,2nd Person,Singular,ducatus sis,ducetus sis,ducus sis,ducus sis,You may have been guideed
+Passive Subjunctive,Perfect,2nd Person,Plural,ducati sitis,duceti sitis,duci sitis,duci sitis,You (pl.) may have been guideed
+Passive Subjunctive,Perfect,3rd Person,Singular,ducatus sit,ducetus sit,ducus sit,ducus sit,He/she/it may have been guideed
+Passive Subjunctive,Perfect,3rd Person,Plural,ducati sint,duceti sint,duci sint,duci sint,They may have been guideed
+Passive Subjunctive,Pluperfect,1st Person,Singular,ducatus essem,ducetus essem,ducus essem,ducus essem,I should have been guideed
+Passive Subjunctive,Pluperfect,1st Person,Plural,ducati essemus,duceti essemus,duci essemus,duci essemus,We should have been guideed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,ducatus esses,ducetus esses,ducus esses,ducus esses,You would have been guideed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,ducati essetis,duceti essetis,duci essetis,duci essetis,You (pl.) would have been guideed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,ducatus esset,ducetus esset,ducus esset,ducus esset,He/she/it would have been guideed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,ducati essent,duceti essent,duci essent,duci essent,They would have been guideed

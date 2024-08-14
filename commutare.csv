@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,commuto,commuteo,commuto,commutio,I exchange
+Active Indicative,Present,1st Person,Plural,commutamus,commutemus,commutimus,commutimus,We exchange
+Active Indicative,Present,2nd Person,Singular,commutas,commutes,commutis,commutis,You exchange
+Active Indicative,Present,2nd Person,Plural,commutatis,commutetis,commutitis,commutitis,You (pl.) exchange
+Active Indicative,Present,3rd Person,Singular,commutat,commutet,commutit,commutit,He/she/it exchange
+Active Indicative,Present,3rd Person,Plural,commutant,commutent,commutiunt,commutiunt,They exchange
+Active Indicative,Imperfect,1st Person,Singular,commutabam,commutebam,commutebam,commutiebam,I was exchangeing
+Active Indicative,Imperfect,1st Person,Plural,commutabamus,commutebamus,commutebamus,commutiebamus,We were exchangeing
+Active Indicative,Imperfect,2nd Person,Singular,commutabas,commutebas,commutebas,commutiebas,You were exchangeing
+Active Indicative,Imperfect,2nd Person,Plural,commutabatis,commutebatis,commutebatis,commutiebatis,You (pl.) were exchangeing
+Active Indicative,Imperfect,3rd Person,Singular,commutabat,commutebat,commutebat,commutiebat,He/she/it was exchangeing
+Active Indicative,Imperfect,3rd Person,Plural,commutabant,commutebant,commutebant,commutiebant,They were exchangeing
+Active Indicative,Future,1st Person,Singular,commutabo,commutebo,commutam,commutiam,I will exchange
+Active Indicative,Future,1st Person,Plural,commutabimus,commutebimus,commutemus,commutiemus,We will exchange
+Active Indicative,Future,2nd Person,Singular,commutabis,commutebis,commutes,commuties,You will exchange
+Active Indicative,Future,2nd Person,Plural,commutabitis,commutebitis,commutetis,commutietis,You (pl.) will exchange
+Active Indicative,Future,3rd Person,Singular,commutabit,commutebit,commutet,commutiet,He/she/it will exchange
+Active Indicative,Future,3rd Person,Plural,commutabunt,commutebunt,commutent,commutient,They will exchange
+Active Indicative,Perfect,1st Person,Singular,commutavi,commutui,commuti,commuti,I have exchangeed
+Active Indicative,Perfect,1st Person,Plural,commutavimus,commutuimus,commutimus,commutimus,We have exchangeed
+Active Indicative,Perfect,2nd Person,Singular,commutavisti,commutuisti,commutisti,commutisti,You have exchangeed
+Active Indicative,Perfect,2nd Person,Plural,commutavistis,commutuistis,commutistis,commutistis,You (pl.) have exchangeed
+Active Indicative,Perfect,3rd Person,Singular,commutavit,commutuit,commutit,commutit,He/she/it has exchangeed
+Active Indicative,Perfect,3rd Person,Plural,commutaverunt,commutuerunt,commuterunt,commuterunt,They have exchangeed
+Active Indicative,Pluperfect,1st Person,Singular,commutaveram,commutueram,commuteram,commuteram,I had exchangeed
+Active Indicative,Pluperfect,1st Person,Plural,commutaveramus,commutueramus,commuteramus,commuteramus,We had exchangeed
+Active Indicative,Pluperfect,2nd Person,Singular,commutaveras,commutueras,commuteras,commuteras,You had exchangeed
+Active Indicative,Pluperfect,2nd Person,Plural,commutaveratis,commutueratis,commuteratis,commuteratis,You (pl.) had exchangeed
+Active Indicative,Pluperfect,3rd Person,Singular,commutaverat,commutuerat,commuterat,commuterat,He/she/it had exchangeed
+Active Indicative,Pluperfect,3rd Person,Plural,commutaverant,commutuerant,commuterant,commuterant,They had exchangeed
+Active Indicative,Future Perfect,1st Person,Singular,commutavero,commutueero,commutero,commutiero,I will have exchangeed
+Active Indicative,Future Perfect,1st Person,Plural,commutaverimus,commutuerimus,commuterimus,commutierimus,We will have exchangeed
+Active Indicative,Future Perfect,2nd Person,Singular,commutaveris,commutueris,commuteris,commutieris,You will have exchangeed
+Active Indicative,Future Perfect,2nd Person,Plural,commutaveritis,commutueritis,commuteritis,commutieritis,You (pl.) will have exchangeed
+Active Indicative,Future Perfect,3rd Person,Singular,commutaverit,commutuerit,commuterit,commutierit,He/she/it will have exchangeed
+Active Indicative,Future Perfect,3rd Person,Plural,commutaverint,commutuerint,commuterint,commutierint,They will have exchangeed
+Passive Indicative,Present,1st Person,Singular,commutor,commuteor,commutor,commutior,I am being exchangeed
+Passive Indicative,Present,1st Person,Plural,commutamur,commutemur,commutimur,commutimur,We are being exchangeed
+Passive Indicative,Present,2nd Person,Singular,commutaris,commuteris,commutiris,commutiris,You are being exchangeed
+Passive Indicative,Present,2nd Person,Plural,commutamini,commutemini,commutimini,commutimini,You (pl.) are being exchangeed
+Passive Indicative,Present,3rd Person,Singular,commutatur,commutetur,commutitur,commutitur,He/she/it is being exchangeed
+Passive Indicative,Present,3rd Person,Plural,commutantur,commutentur,commutiuntur,commutiuntur,They are being exchangeed
+Passive Indicative,Imperfect,1st Person,Singular,commutabar,commutebar,commutebar,commutiebar,I was exchangeed
+Passive Indicative,Imperfect,1st Person,Plural,commutabamur,commutebamur,commutebamur,commutiebamur,We were exchangeed
+Passive Indicative,Imperfect,2nd Person,Singular,commutabaris,commutebaris,commutebaris,commutiebaris,You were exchangeed
+Passive Indicative,Imperfect,2nd Person,Plural,commutabamini,commutebamini,commutebamini,commutiebamini,You (pl.) were exchangeed
+Passive Indicative,Imperfect,3rd Person,Singular,commutabatur,commutebatur,commutebatur,commutiebatur,He/she/it was exchangeed
+Passive Indicative,Imperfect,3rd Person,Plural,commutabantur,commutebantur,commutebantur,commutiebantur,They were exchangeed
+Passive Indicative,Future,1st Person,Singular,commutabor,commutebor,commutar,commutiar,I will be exchangeed
+Passive Indicative,Future,1st Person,Plural,commutabimur,commutebimur,commutemur,commutiemur,We will be exchangeed
+Passive Indicative,Future,2nd Person,Singular,commutaberis,commuteberis,commuteris,commutieris,You will be exchangeed
+Passive Indicative,Future,2nd Person,Plural,commutabimini,commutebimini,commutemini,commutiemini,You (pl.) will be exchangeed
+Passive Indicative,Future,3rd Person,Singular,commutabitur,commutebitur,commutetur,commutietur,He/she/it will be exchangeed
+Passive Indicative,Future,3rd Person,Plural,commutabuntur,commutebuntur,commutentur,commutientur,They will be exchangeed
+Passive Indicative,Perfect,1st Person,Singular,commutatus sum,commutetus sum,commutus sum,commutus sum,I have been exchangeed
+Passive Indicative,Perfect,1st Person,Plural,commutati sumus,commuteti sumus,commuti sumus,commuti sumus,We have been exchangeed
+Passive Indicative,Perfect,2nd Person,Singular,commutatus es,commutetus es,commutus es,commutus es,You have been exchangeed
+Passive Indicative,Perfect,2nd Person,Plural,commutati estis,commuteti estis,commuti estis,commuti estis,You (pl.) have been exchangeed
+Passive Indicative,Perfect,3rd Person,Singular,commutatus est,commutetus est,commutus est,commutus est,He/she/it has been exchangeed
+Passive Indicative,Perfect,3rd Person,Plural,commutati sunt,commuteti sunt,commuti sunt,commuti sunt,They have been exchangeed
+Passive Indicative,Pluperfect,1st Person,Singular,commutatus eram,commutetus eram,commutus eram,commutus eram,I had been exchangeed
+Passive Indicative,Pluperfect,1st Person,Plural,commutati eramus,commuteti eramus,commuti eramus,commuti eramus,We had been exchangeed
+Passive Indicative,Pluperfect,2nd Person,Singular,commutatus eras,commutetus eras,commutus eras,commutus eras,You had been exchangeed
+Passive Indicative,Pluperfect,2nd Person,Plural,commutati eratis,commuteti eratis,commuti eratis,commuti eratis,You (pl.) had been exchangeed
+Passive Indicative,Pluperfect,3rd Person,Singular,commutatus erat,commutetus erat,commutus erat,commutus erat,He/she/it had been exchangeed
+Passive Indicative,Pluperfect,3rd Person,Plural,commutati erant,commuteti erant,commuti erant,commuti erant,They had been exchangeed
+Passive Indicative,Future Perfect,1st Person,Singular,commutatus ero,commutetus ero,commutus ero,commutus ero,I will have been exchangeed
+Passive Indicative,Future Perfect,1st Person,Plural,commutati erimus,commuteti erimus,commuti erimus,commuti erimus,We will have been exchangeed
+Passive Indicative,Future Perfect,2nd Person,Singular,commutatus eris,commutetus eris,commutus eris,commutus eris,You will have been exchangeed
+Passive Indicative,Future Perfect,2nd Person,Plural,commutati eritis,commuteti eritis,commuti eritis,commuti eritis,You (pl.) will have been exchangeed
+Passive Indicative,Future Perfect,3rd Person,Singular,commutatus erit,commutetus erit,commutus erit,commutus erit,He/she/it will have been exchangeed
+Passive Indicative,Future Perfect,3rd Person,Plural,commutati erunt,commuteti erunt,commuti erunt,commuti erunt,They will have been exchangeed
+Active Subjunctive,Present,1st Person,Singular,commutem,commutem,commutam,commutam,I may exchange
+Active Subjunctive,Present,1st Person,Plural,commutemus,commutemus,commutamus,commutamus,We may exchange
+Active Subjunctive,Present,2nd Person,Singular,commutes,commutes,commutas,commutas,You may exchange
+Active Subjunctive,Present,2nd Person,Plural,commutetis,commutetis,commutatis,commutatis,You (pl.) may exchange
+Active Subjunctive,Present,3rd Person,Singular,commutet,commutet,commutat,commutat,He/she/it may exchange
+Active Subjunctive,Present,3rd Person,Plural,commutent,commutent,commutant,commutant,They may exchange
+Active Subjunctive,Imperfect,1st Person,Singular,commutarem,commuterem,commuterem,commutirem,I should exchange
+Active Subjunctive,Imperfect,1st Person,Plural,commutaremus,commuteremus,commuteremus,commutiremus,We should exchange
+Active Subjunctive,Imperfect,2nd Person,Singular,commutares,commuteres,commuteres,commutires,You should exchange
+Active Subjunctive,Imperfect,2nd Person,Plural,commutaretis,commuteretis,commuteretis,commutiretis,You (pl.) should exchange
+Active Subjunctive,Imperfect,3rd Person,Singular,commutaret,commuteret,commuteret,commutiret,He/she/it should exchange
+Active Subjunctive,Imperfect,3rd Person,Plural,commutarent,commuterent,commuterent,commutirent,They should exchange
+Active Subjunctive,Perfect,1st Person,Singular,commuterim,commutuerim,commuterim,commutierim,I may have exchangeed
+Active Subjunctive,Perfect,1st Person,Plural,commuterimus,commutuerimus,commuterimus,commutierimus,We may have exchangeed
+Active Subjunctive,Perfect,2nd Person,Singular,commuteris,commutueris,commuteris,commutieris,You may have exchangeed
+Active Subjunctive,Perfect,2nd Person,Plural,commuteritis,commutueritis,commuteritis,commutieritis,You (pl.) may have exchangeed
+Active Subjunctive,Perfect,3rd Person,Singular,commuterit,commutuerit,commuterit,commutierit,He/she/it may have exchangeed
+Active Subjunctive,Perfect,3rd Person,Plural,commuterint,commutuerint,commuterint,commutierint,They may have exchangeed
+Active Subjunctive,Pluperfect,1st Person,Singular,commutissem,commutuissem,commutissem,commutissem,I should have exchangeed
+Active Subjunctive,Pluperfect,1st Person,Plural,commutissemus,commutuissemus,commutissemus,commutissemus,We should have exchangeed
+Active Subjunctive,Pluperfect,2nd Person,Singular,commutisses,commutuisses,commutisses,commutisses,You would have exchangeed
+Active Subjunctive,Pluperfect,2nd Person,Plural,commutissetis,commutuissetis,commutissetis,commutissetis,You (pl.) would have exchangeed
+Active Subjunctive,Pluperfect,3rd Person,Singular,commutisset,commutuisset,commutisset,commutisset,He/she/it would have exchangeed
+Active Subjunctive,Pluperfect,3rd Person,Plural,commutissent,commutuissent,commutissent,commutissent,They would have exchangeed
+Passive Subjunctive,Present,1st Person,Singular,commuter,commuter,commutar,commutar,I may be exchangeed
+Passive Subjunctive,Present,1st Person,Plural,commutemur,commutemur,commutamur,commutamur,We may be exchangeed
+Passive Subjunctive,Present,2nd Person,Singular,commuteris,commuteris,commutaris,commutaris,You may be exchangeed
+Passive Subjunctive,Present,2nd Person,Plural,commutemini,commutemini,commutamini,commutamini,You (pl.) may be exchangeed
+Passive Subjunctive,Present,3rd Person,Singular,commutetur,commutetur,commutatur,commutatur,He/she/it may be exchangeed
+Passive Subjunctive,Present,3rd Person,Plural,commutentur,commutentur,commutantur,commutantur,They may be exchangeed
+Passive Subjunctive,Imperfect,1st Person,Singular,commutarer,commuterer,commuterer,commutirer,I should be exchangeed
+Passive Subjunctive,Imperfect,1st Person,Plural,commutaremur,commuteremur,commuteremur,commutiremur,We should be exchangeed
+Passive Subjunctive,Imperfect,2nd Person,Singular,commutareris,commutereris,commutereris,commutireris,You would be exchangeed
+Passive Subjunctive,Imperfect,2nd Person,Plural,commutaremini,commuteremini,commuteremini,commutiremini,You (pl.) would be exchangeed
+Passive Subjunctive,Imperfect,3rd Person,Singular,commutaretur,commuteretur,commuteretur,commutiretur,He/she/it would be exchangeed
+Passive Subjunctive,Imperfect,3rd Person,Plural,commutarentur,commuterentur,commuterentur,commutirentur,They would be exchangeed
+Passive Subjunctive,Perfect,1st Person,Singular,commutatus sim,commutetus sim,commutus sim,commutus sim,I may have been exchangeed
+Passive Subjunctive,Perfect,1st Person,Plural,commutati simus,commuteti simus,commuti simus,commuti simus,We may have been exchangeed
+Passive Subjunctive,Perfect,2nd Person,Singular,commutatus sis,commutetus sis,commutus sis,commutus sis,You may have been exchangeed
+Passive Subjunctive,Perfect,2nd Person,Plural,commutati sitis,commuteti sitis,commuti sitis,commuti sitis,You (pl.) may have been exchangeed
+Passive Subjunctive,Perfect,3rd Person,Singular,commutatus sit,commutetus sit,commutus sit,commutus sit,He/she/it may have been exchangeed
+Passive Subjunctive,Perfect,3rd Person,Plural,commutati sint,commuteti sint,commuti sint,commuti sint,They may have been exchangeed
+Passive Subjunctive,Pluperfect,1st Person,Singular,commutatus essem,commutetus essem,commutus essem,commutus essem,I should have been exchangeed
+Passive Subjunctive,Pluperfect,1st Person,Plural,commutati essemus,commuteti essemus,commuti essemus,commuti essemus,We should have been exchangeed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,commutatus esses,commutetus esses,commutus esses,commutus esses,You would have been exchangeed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,commutati essetis,commuteti essetis,commuti essetis,commuti essetis,You (pl.) would have been exchangeed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,commutatus esset,commutetus esset,commutus esset,commutus esset,He/she/it would have been exchangeed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,commutati essent,commuteti essent,commuti essent,commuti essent,They would have been exchangeed

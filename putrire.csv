@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,putro,putreo,putro,putrio,I rot
+Active Indicative,Present,1st Person,Plural,putramus,putremus,putrimus,putrimus,We rot
+Active Indicative,Present,2nd Person,Singular,putras,putres,putris,putris,You rot
+Active Indicative,Present,2nd Person,Plural,putratis,putretis,putritis,putritis,You (pl.) rot
+Active Indicative,Present,3rd Person,Singular,putrat,putret,putrit,putrit,He/she/it rot
+Active Indicative,Present,3rd Person,Plural,putrant,putrent,putriunt,putriunt,They rot
+Active Indicative,Imperfect,1st Person,Singular,putrabam,putrebam,putrebam,putriebam,I was roting
+Active Indicative,Imperfect,1st Person,Plural,putrabamus,putrebamus,putrebamus,putriebamus,We were roting
+Active Indicative,Imperfect,2nd Person,Singular,putrabas,putrebas,putrebas,putriebas,You were roting
+Active Indicative,Imperfect,2nd Person,Plural,putrabatis,putrebatis,putrebatis,putriebatis,You (pl.) were roting
+Active Indicative,Imperfect,3rd Person,Singular,putrabat,putrebat,putrebat,putriebat,He/she/it was roting
+Active Indicative,Imperfect,3rd Person,Plural,putrabant,putrebant,putrebant,putriebant,They were roting
+Active Indicative,Future,1st Person,Singular,putrabo,putrebo,putram,putriam,I will rot
+Active Indicative,Future,1st Person,Plural,putrabimus,putrebimus,putremus,putriemus,We will rot
+Active Indicative,Future,2nd Person,Singular,putrabis,putrebis,putres,putries,You will rot
+Active Indicative,Future,2nd Person,Plural,putrabitis,putrebitis,putretis,putrietis,You (pl.) will rot
+Active Indicative,Future,3rd Person,Singular,putrabit,putrebit,putret,putriet,He/she/it will rot
+Active Indicative,Future,3rd Person,Plural,putrabunt,putrebunt,putrent,putrient,They will rot
+Active Indicative,Perfect,1st Person,Singular,putravi,putrui,putri,putri,I have roted
+Active Indicative,Perfect,1st Person,Plural,putravimus,putruimus,putrimus,putrimus,We have roted
+Active Indicative,Perfect,2nd Person,Singular,putravisti,putruisti,putristi,putristi,You have roted
+Active Indicative,Perfect,2nd Person,Plural,putravistis,putruistis,putristis,putristis,You (pl.) have roted
+Active Indicative,Perfect,3rd Person,Singular,putravit,putruit,putrit,putrit,He/she/it has roted
+Active Indicative,Perfect,3rd Person,Plural,putraverunt,putruerunt,putrerunt,putrerunt,They have roted
+Active Indicative,Pluperfect,1st Person,Singular,putraveram,putrueram,putreram,putreram,I had roted
+Active Indicative,Pluperfect,1st Person,Plural,putraveramus,putrueramus,putreramus,putreramus,We had roted
+Active Indicative,Pluperfect,2nd Person,Singular,putraveras,putrueras,putreras,putreras,You had roted
+Active Indicative,Pluperfect,2nd Person,Plural,putraveratis,putrueratis,putreratis,putreratis,You (pl.) had roted
+Active Indicative,Pluperfect,3rd Person,Singular,putraverat,putruerat,putrerat,putrerat,He/she/it had roted
+Active Indicative,Pluperfect,3rd Person,Plural,putraverant,putruerant,putrerant,putrerant,They had roted
+Active Indicative,Future Perfect,1st Person,Singular,putravero,putrueero,putrero,putriero,I will have roted
+Active Indicative,Future Perfect,1st Person,Plural,putraverimus,putruerimus,putrerimus,putrierimus,We will have roted
+Active Indicative,Future Perfect,2nd Person,Singular,putraveris,putrueris,putreris,putrieris,You will have roted
+Active Indicative,Future Perfect,2nd Person,Plural,putraveritis,putrueritis,putreritis,putrieritis,You (pl.) will have roted
+Active Indicative,Future Perfect,3rd Person,Singular,putraverit,putruerit,putrerit,putrierit,He/she/it will have roted
+Active Indicative,Future Perfect,3rd Person,Plural,putraverint,putruerint,putrerint,putrierint,They will have roted
+Passive Indicative,Present,1st Person,Singular,putror,putreor,putror,putrior,I am being roted
+Passive Indicative,Present,1st Person,Plural,putramur,putremur,putrimur,putrimur,We are being roted
+Passive Indicative,Present,2nd Person,Singular,putraris,putreris,putriris,putriris,You are being roted
+Passive Indicative,Present,2nd Person,Plural,putramini,putremini,putrimini,putrimini,You (pl.) are being roted
+Passive Indicative,Present,3rd Person,Singular,putratur,putretur,putritur,putritur,He/she/it is being roted
+Passive Indicative,Present,3rd Person,Plural,putrantur,putrentur,putriuntur,putriuntur,They are being roted
+Passive Indicative,Imperfect,1st Person,Singular,putrabar,putrebar,putrebar,putriebar,I was roted
+Passive Indicative,Imperfect,1st Person,Plural,putrabamur,putrebamur,putrebamur,putriebamur,We were roted
+Passive Indicative,Imperfect,2nd Person,Singular,putrabaris,putrebaris,putrebaris,putriebaris,You were roted
+Passive Indicative,Imperfect,2nd Person,Plural,putrabamini,putrebamini,putrebamini,putriebamini,You (pl.) were roted
+Passive Indicative,Imperfect,3rd Person,Singular,putrabatur,putrebatur,putrebatur,putriebatur,He/she/it was roted
+Passive Indicative,Imperfect,3rd Person,Plural,putrabantur,putrebantur,putrebantur,putriebantur,They were roted
+Passive Indicative,Future,1st Person,Singular,putrabor,putrebor,putrar,putriar,I will be roted
+Passive Indicative,Future,1st Person,Plural,putrabimur,putrebimur,putremur,putriemur,We will be roted
+Passive Indicative,Future,2nd Person,Singular,putraberis,putreberis,putreris,putrieris,You will be roted
+Passive Indicative,Future,2nd Person,Plural,putrabimini,putrebimini,putremini,putriemini,You (pl.) will be roted
+Passive Indicative,Future,3rd Person,Singular,putrabitur,putrebitur,putretur,putrietur,He/she/it will be roted
+Passive Indicative,Future,3rd Person,Plural,putrabuntur,putrebuntur,putrentur,putrientur,They will be roted
+Passive Indicative,Perfect,1st Person,Singular,putratus sum,putretus sum,putrus sum,putrus sum,I have been roted
+Passive Indicative,Perfect,1st Person,Plural,putrati sumus,putreti sumus,putri sumus,putri sumus,We have been roted
+Passive Indicative,Perfect,2nd Person,Singular,putratus es,putretus es,putrus es,putrus es,You have been roted
+Passive Indicative,Perfect,2nd Person,Plural,putrati estis,putreti estis,putri estis,putri estis,You (pl.) have been roted
+Passive Indicative,Perfect,3rd Person,Singular,putratus est,putretus est,putrus est,putrus est,He/she/it has been roted
+Passive Indicative,Perfect,3rd Person,Plural,putrati sunt,putreti sunt,putri sunt,putri sunt,They have been roted
+Passive Indicative,Pluperfect,1st Person,Singular,putratus eram,putretus eram,putrus eram,putrus eram,I had been roted
+Passive Indicative,Pluperfect,1st Person,Plural,putrati eramus,putreti eramus,putri eramus,putri eramus,We had been roted
+Passive Indicative,Pluperfect,2nd Person,Singular,putratus eras,putretus eras,putrus eras,putrus eras,You had been roted
+Passive Indicative,Pluperfect,2nd Person,Plural,putrati eratis,putreti eratis,putri eratis,putri eratis,You (pl.) had been roted
+Passive Indicative,Pluperfect,3rd Person,Singular,putratus erat,putretus erat,putrus erat,putrus erat,He/she/it had been roted
+Passive Indicative,Pluperfect,3rd Person,Plural,putrati erant,putreti erant,putri erant,putri erant,They had been roted
+Passive Indicative,Future Perfect,1st Person,Singular,putratus ero,putretus ero,putrus ero,putrus ero,I will have been roted
+Passive Indicative,Future Perfect,1st Person,Plural,putrati erimus,putreti erimus,putri erimus,putri erimus,We will have been roted
+Passive Indicative,Future Perfect,2nd Person,Singular,putratus eris,putretus eris,putrus eris,putrus eris,You will have been roted
+Passive Indicative,Future Perfect,2nd Person,Plural,putrati eritis,putreti eritis,putri eritis,putri eritis,You (pl.) will have been roted
+Passive Indicative,Future Perfect,3rd Person,Singular,putratus erit,putretus erit,putrus erit,putrus erit,He/she/it will have been roted
+Passive Indicative,Future Perfect,3rd Person,Plural,putrati erunt,putreti erunt,putri erunt,putri erunt,They will have been roted
+Active Subjunctive,Present,1st Person,Singular,putrem,putrem,putram,putram,I may rot
+Active Subjunctive,Present,1st Person,Plural,putremus,putremus,putramus,putramus,We may rot
+Active Subjunctive,Present,2nd Person,Singular,putres,putres,putras,putras,You may rot
+Active Subjunctive,Present,2nd Person,Plural,putretis,putretis,putratis,putratis,You (pl.) may rot
+Active Subjunctive,Present,3rd Person,Singular,putret,putret,putrat,putrat,He/she/it may rot
+Active Subjunctive,Present,3rd Person,Plural,putrent,putrent,putrant,putrant,They may rot
+Active Subjunctive,Imperfect,1st Person,Singular,putrarem,putrerem,putrerem,putrirem,I should rot
+Active Subjunctive,Imperfect,1st Person,Plural,putraremus,putreremus,putreremus,putriremus,We should rot
+Active Subjunctive,Imperfect,2nd Person,Singular,putrares,putreres,putreres,putrires,You should rot
+Active Subjunctive,Imperfect,2nd Person,Plural,putraretis,putreretis,putreretis,putriretis,You (pl.) should rot
+Active Subjunctive,Imperfect,3rd Person,Singular,putraret,putreret,putreret,putriret,He/she/it should rot
+Active Subjunctive,Imperfect,3rd Person,Plural,putrarent,putrerent,putrerent,putrirent,They should rot
+Active Subjunctive,Perfect,1st Person,Singular,putrerim,putruerim,putrerim,putrierim,I may have roted
+Active Subjunctive,Perfect,1st Person,Plural,putrerimus,putruerimus,putrerimus,putrierimus,We may have roted
+Active Subjunctive,Perfect,2nd Person,Singular,putreris,putrueris,putreris,putrieris,You may have roted
+Active Subjunctive,Perfect,2nd Person,Plural,putreritis,putrueritis,putreritis,putrieritis,You (pl.) may have roted
+Active Subjunctive,Perfect,3rd Person,Singular,putrerit,putruerit,putrerit,putrierit,He/she/it may have roted
+Active Subjunctive,Perfect,3rd Person,Plural,putrerint,putruerint,putrerint,putrierint,They may have roted
+Active Subjunctive,Pluperfect,1st Person,Singular,putrissem,putruissem,putrissem,putrissem,I should have roted
+Active Subjunctive,Pluperfect,1st Person,Plural,putrissemus,putruissemus,putrissemus,putrissemus,We should have roted
+Active Subjunctive,Pluperfect,2nd Person,Singular,putrisses,putruisses,putrisses,putrisses,You would have roted
+Active Subjunctive,Pluperfect,2nd Person,Plural,putrissetis,putruissetis,putrissetis,putrissetis,You (pl.) would have roted
+Active Subjunctive,Pluperfect,3rd Person,Singular,putrisset,putruisset,putrisset,putrisset,He/she/it would have roted
+Active Subjunctive,Pluperfect,3rd Person,Plural,putrissent,putruissent,putrissent,putrissent,They would have roted
+Passive Subjunctive,Present,1st Person,Singular,putrer,putrer,putrar,putrar,I may be roted
+Passive Subjunctive,Present,1st Person,Plural,putremur,putremur,putramur,putramur,We may be roted
+Passive Subjunctive,Present,2nd Person,Singular,putreris,putreris,putraris,putraris,You may be roted
+Passive Subjunctive,Present,2nd Person,Plural,putremini,putremini,putramini,putramini,You (pl.) may be roted
+Passive Subjunctive,Present,3rd Person,Singular,putretur,putretur,putratur,putratur,He/she/it may be roted
+Passive Subjunctive,Present,3rd Person,Plural,putrentur,putrentur,putrantur,putrantur,They may be roted
+Passive Subjunctive,Imperfect,1st Person,Singular,putrarer,putrerer,putrerer,putrirer,I should be roted
+Passive Subjunctive,Imperfect,1st Person,Plural,putraremur,putreremur,putreremur,putriremur,We should be roted
+Passive Subjunctive,Imperfect,2nd Person,Singular,putrareris,putrereris,putrereris,putrireris,You would be roted
+Passive Subjunctive,Imperfect,2nd Person,Plural,putraremini,putreremini,putreremini,putriremini,You (pl.) would be roted
+Passive Subjunctive,Imperfect,3rd Person,Singular,putraretur,putreretur,putreretur,putriretur,He/she/it would be roted
+Passive Subjunctive,Imperfect,3rd Person,Plural,putrarentur,putrerentur,putrerentur,putrirentur,They would be roted
+Passive Subjunctive,Perfect,1st Person,Singular,putratus sim,putretus sim,putrus sim,putrus sim,I may have been roted
+Passive Subjunctive,Perfect,1st Person,Plural,putrati simus,putreti simus,putri simus,putri simus,We may have been roted
+Passive Subjunctive,Perfect,2nd Person,Singular,putratus sis,putretus sis,putrus sis,putrus sis,You may have been roted
+Passive Subjunctive,Perfect,2nd Person,Plural,putrati sitis,putreti sitis,putri sitis,putri sitis,You (pl.) may have been roted
+Passive Subjunctive,Perfect,3rd Person,Singular,putratus sit,putretus sit,putrus sit,putrus sit,He/she/it may have been roted
+Passive Subjunctive,Perfect,3rd Person,Plural,putrati sint,putreti sint,putri sint,putri sint,They may have been roted
+Passive Subjunctive,Pluperfect,1st Person,Singular,putratus essem,putretus essem,putrus essem,putrus essem,I should have been roted
+Passive Subjunctive,Pluperfect,1st Person,Plural,putrati essemus,putreti essemus,putri essemus,putri essemus,We should have been roted
+Passive Subjunctive,Pluperfect,2nd Person,Singular,putratus esses,putretus esses,putrus esses,putrus esses,You would have been roted
+Passive Subjunctive,Pluperfect,2nd Person,Plural,putrati essetis,putreti essetis,putri essetis,putri essetis,You (pl.) would have been roted
+Passive Subjunctive,Pluperfect,3rd Person,Singular,putratus esset,putretus esset,putrus esset,putrus esset,He/she/it would have been roted
+Passive Subjunctive,Pluperfect,3rd Person,Plural,putrati essent,putreti essent,putri essent,putri essent,They would have been roted

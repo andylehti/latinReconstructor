@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,descendo,descendeo,descendo,descendio,I dismount
+Active Indicative,Present,1st Person,Plural,descendamus,descendemus,descendimus,descendimus,We dismount
+Active Indicative,Present,2nd Person,Singular,descendas,descendes,descendis,descendis,You dismount
+Active Indicative,Present,2nd Person,Plural,descendatis,descendetis,descenditis,descenditis,You (pl.) dismount
+Active Indicative,Present,3rd Person,Singular,descendat,descendet,descendit,descendit,He/she/it dismount
+Active Indicative,Present,3rd Person,Plural,descendant,descendent,descendiunt,descendiunt,They dismount
+Active Indicative,Imperfect,1st Person,Singular,descendabam,descendebam,descendebam,descendiebam,I was dismounting
+Active Indicative,Imperfect,1st Person,Plural,descendabamus,descendebamus,descendebamus,descendiebamus,We were dismounting
+Active Indicative,Imperfect,2nd Person,Singular,descendabas,descendebas,descendebas,descendiebas,You were dismounting
+Active Indicative,Imperfect,2nd Person,Plural,descendabatis,descendebatis,descendebatis,descendiebatis,You (pl.) were dismounting
+Active Indicative,Imperfect,3rd Person,Singular,descendabat,descendebat,descendebat,descendiebat,He/she/it was dismounting
+Active Indicative,Imperfect,3rd Person,Plural,descendabant,descendebant,descendebant,descendiebant,They were dismounting
+Active Indicative,Future,1st Person,Singular,descendabo,descendebo,descendam,descendiam,I will dismount
+Active Indicative,Future,1st Person,Plural,descendabimus,descendebimus,descendemus,descendiemus,We will dismount
+Active Indicative,Future,2nd Person,Singular,descendabis,descendebis,descendes,descendies,You will dismount
+Active Indicative,Future,2nd Person,Plural,descendabitis,descendebitis,descendetis,descendietis,You (pl.) will dismount
+Active Indicative,Future,3rd Person,Singular,descendabit,descendebit,descendet,descendiet,He/she/it will dismount
+Active Indicative,Future,3rd Person,Plural,descendabunt,descendebunt,descendent,descendient,They will dismount
+Active Indicative,Perfect,1st Person,Singular,descendavi,descendui,descendi,descendi,I have dismounted
+Active Indicative,Perfect,1st Person,Plural,descendavimus,descenduimus,descendimus,descendimus,We have dismounted
+Active Indicative,Perfect,2nd Person,Singular,descendavisti,descenduisti,descendisti,descendisti,You have dismounted
+Active Indicative,Perfect,2nd Person,Plural,descendavistis,descenduistis,descendistis,descendistis,You (pl.) have dismounted
+Active Indicative,Perfect,3rd Person,Singular,descendavit,descenduit,descendit,descendit,He/she/it has dismounted
+Active Indicative,Perfect,3rd Person,Plural,descendaverunt,descenduerunt,descenderunt,descenderunt,They have dismounted
+Active Indicative,Pluperfect,1st Person,Singular,descendaveram,descendueram,descenderam,descenderam,I had dismounted
+Active Indicative,Pluperfect,1st Person,Plural,descendaveramus,descendueramus,descenderamus,descenderamus,We had dismounted
+Active Indicative,Pluperfect,2nd Person,Singular,descendaveras,descendueras,descenderas,descenderas,You had dismounted
+Active Indicative,Pluperfect,2nd Person,Plural,descendaveratis,descendueratis,descenderatis,descenderatis,You (pl.) had dismounted
+Active Indicative,Pluperfect,3rd Person,Singular,descendaverat,descenduerat,descenderat,descenderat,He/she/it had dismounted
+Active Indicative,Pluperfect,3rd Person,Plural,descendaverant,descenduerant,descenderant,descenderant,They had dismounted
+Active Indicative,Future Perfect,1st Person,Singular,descendavero,descendueero,descendero,descendiero,I will have dismounted
+Active Indicative,Future Perfect,1st Person,Plural,descendaverimus,descenduerimus,descenderimus,descendierimus,We will have dismounted
+Active Indicative,Future Perfect,2nd Person,Singular,descendaveris,descendueris,descenderis,descendieris,You will have dismounted
+Active Indicative,Future Perfect,2nd Person,Plural,descendaveritis,descendueritis,descenderitis,descendieritis,You (pl.) will have dismounted
+Active Indicative,Future Perfect,3rd Person,Singular,descendaverit,descenduerit,descenderit,descendierit,He/she/it will have dismounted
+Active Indicative,Future Perfect,3rd Person,Plural,descendaverint,descenduerint,descenderint,descendierint,They will have dismounted
+Passive Indicative,Present,1st Person,Singular,descendor,descendeor,descendor,descendior,I am being dismounted
+Passive Indicative,Present,1st Person,Plural,descendamur,descendemur,descendimur,descendimur,We are being dismounted
+Passive Indicative,Present,2nd Person,Singular,descendaris,descenderis,descendiris,descendiris,You are being dismounted
+Passive Indicative,Present,2nd Person,Plural,descendamini,descendemini,descendimini,descendimini,You (pl.) are being dismounted
+Passive Indicative,Present,3rd Person,Singular,descendatur,descendetur,descenditur,descenditur,He/she/it is being dismounted
+Passive Indicative,Present,3rd Person,Plural,descendantur,descendentur,descendiuntur,descendiuntur,They are being dismounted
+Passive Indicative,Imperfect,1st Person,Singular,descendabar,descendebar,descendebar,descendiebar,I was dismounted
+Passive Indicative,Imperfect,1st Person,Plural,descendabamur,descendebamur,descendebamur,descendiebamur,We were dismounted
+Passive Indicative,Imperfect,2nd Person,Singular,descendabaris,descendebaris,descendebaris,descendiebaris,You were dismounted
+Passive Indicative,Imperfect,2nd Person,Plural,descendabamini,descendebamini,descendebamini,descendiebamini,You (pl.) were dismounted
+Passive Indicative,Imperfect,3rd Person,Singular,descendabatur,descendebatur,descendebatur,descendiebatur,He/she/it was dismounted
+Passive Indicative,Imperfect,3rd Person,Plural,descendabantur,descendebantur,descendebantur,descendiebantur,They were dismounted
+Passive Indicative,Future,1st Person,Singular,descendabor,descendebor,descendar,descendiar,I will be dismounted
+Passive Indicative,Future,1st Person,Plural,descendabimur,descendebimur,descendemur,descendiemur,We will be dismounted
+Passive Indicative,Future,2nd Person,Singular,descendaberis,descendeberis,descenderis,descendieris,You will be dismounted
+Passive Indicative,Future,2nd Person,Plural,descendabimini,descendebimini,descendemini,descendiemini,You (pl.) will be dismounted
+Passive Indicative,Future,3rd Person,Singular,descendabitur,descendebitur,descendetur,descendietur,He/she/it will be dismounted
+Passive Indicative,Future,3rd Person,Plural,descendabuntur,descendebuntur,descendentur,descendientur,They will be dismounted
+Passive Indicative,Perfect,1st Person,Singular,descendatus sum,descendetus sum,descendus sum,descendus sum,I have been dismounted
+Passive Indicative,Perfect,1st Person,Plural,descendati sumus,descendeti sumus,descendi sumus,descendi sumus,We have been dismounted
+Passive Indicative,Perfect,2nd Person,Singular,descendatus es,descendetus es,descendus es,descendus es,You have been dismounted
+Passive Indicative,Perfect,2nd Person,Plural,descendati estis,descendeti estis,descendi estis,descendi estis,You (pl.) have been dismounted
+Passive Indicative,Perfect,3rd Person,Singular,descendatus est,descendetus est,descendus est,descendus est,He/she/it has been dismounted
+Passive Indicative,Perfect,3rd Person,Plural,descendati sunt,descendeti sunt,descendi sunt,descendi sunt,They have been dismounted
+Passive Indicative,Pluperfect,1st Person,Singular,descendatus eram,descendetus eram,descendus eram,descendus eram,I had been dismounted
+Passive Indicative,Pluperfect,1st Person,Plural,descendati eramus,descendeti eramus,descendi eramus,descendi eramus,We had been dismounted
+Passive Indicative,Pluperfect,2nd Person,Singular,descendatus eras,descendetus eras,descendus eras,descendus eras,You had been dismounted
+Passive Indicative,Pluperfect,2nd Person,Plural,descendati eratis,descendeti eratis,descendi eratis,descendi eratis,You (pl.) had been dismounted
+Passive Indicative,Pluperfect,3rd Person,Singular,descendatus erat,descendetus erat,descendus erat,descendus erat,He/she/it had been dismounted
+Passive Indicative,Pluperfect,3rd Person,Plural,descendati erant,descendeti erant,descendi erant,descendi erant,They had been dismounted
+Passive Indicative,Future Perfect,1st Person,Singular,descendatus ero,descendetus ero,descendus ero,descendus ero,I will have been dismounted
+Passive Indicative,Future Perfect,1st Person,Plural,descendati erimus,descendeti erimus,descendi erimus,descendi erimus,We will have been dismounted
+Passive Indicative,Future Perfect,2nd Person,Singular,descendatus eris,descendetus eris,descendus eris,descendus eris,You will have been dismounted
+Passive Indicative,Future Perfect,2nd Person,Plural,descendati eritis,descendeti eritis,descendi eritis,descendi eritis,You (pl.) will have been dismounted
+Passive Indicative,Future Perfect,3rd Person,Singular,descendatus erit,descendetus erit,descendus erit,descendus erit,He/she/it will have been dismounted
+Passive Indicative,Future Perfect,3rd Person,Plural,descendati erunt,descendeti erunt,descendi erunt,descendi erunt,They will have been dismounted
+Active Subjunctive,Present,1st Person,Singular,descendem,descendem,descendam,descendam,I may dismount
+Active Subjunctive,Present,1st Person,Plural,descendemus,descendemus,descendamus,descendamus,We may dismount
+Active Subjunctive,Present,2nd Person,Singular,descendes,descendes,descendas,descendas,You may dismount
+Active Subjunctive,Present,2nd Person,Plural,descendetis,descendetis,descendatis,descendatis,You (pl.) may dismount
+Active Subjunctive,Present,3rd Person,Singular,descendet,descendet,descendat,descendat,He/she/it may dismount
+Active Subjunctive,Present,3rd Person,Plural,descendent,descendent,descendant,descendant,They may dismount
+Active Subjunctive,Imperfect,1st Person,Singular,descendarem,descenderem,descenderem,descendirem,I should dismount
+Active Subjunctive,Imperfect,1st Person,Plural,descendaremus,descenderemus,descenderemus,descendiremus,We should dismount
+Active Subjunctive,Imperfect,2nd Person,Singular,descendares,descenderes,descenderes,descendires,You should dismount
+Active Subjunctive,Imperfect,2nd Person,Plural,descendaretis,descenderetis,descenderetis,descendiretis,You (pl.) should dismount
+Active Subjunctive,Imperfect,3rd Person,Singular,descendaret,descenderet,descenderet,descendiret,He/she/it should dismount
+Active Subjunctive,Imperfect,3rd Person,Plural,descendarent,descenderent,descenderent,descendirent,They should dismount
+Active Subjunctive,Perfect,1st Person,Singular,descenderim,descenduerim,descenderim,descendierim,I may have dismounted
+Active Subjunctive,Perfect,1st Person,Plural,descenderimus,descenduerimus,descenderimus,descendierimus,We may have dismounted
+Active Subjunctive,Perfect,2nd Person,Singular,descenderis,descendueris,descenderis,descendieris,You may have dismounted
+Active Subjunctive,Perfect,2nd Person,Plural,descenderitis,descendueritis,descenderitis,descendieritis,You (pl.) may have dismounted
+Active Subjunctive,Perfect,3rd Person,Singular,descenderit,descenduerit,descenderit,descendierit,He/she/it may have dismounted
+Active Subjunctive,Perfect,3rd Person,Plural,descenderint,descenduerint,descenderint,descendierint,They may have dismounted
+Active Subjunctive,Pluperfect,1st Person,Singular,descendissem,descenduissem,descendissem,descendissem,I should have dismounted
+Active Subjunctive,Pluperfect,1st Person,Plural,descendissemus,descenduissemus,descendissemus,descendissemus,We should have dismounted
+Active Subjunctive,Pluperfect,2nd Person,Singular,descendisses,descenduisses,descendisses,descendisses,You would have dismounted
+Active Subjunctive,Pluperfect,2nd Person,Plural,descendissetis,descenduissetis,descendissetis,descendissetis,You (pl.) would have dismounted
+Active Subjunctive,Pluperfect,3rd Person,Singular,descendisset,descenduisset,descendisset,descendisset,He/she/it would have dismounted
+Active Subjunctive,Pluperfect,3rd Person,Plural,descendissent,descenduissent,descendissent,descendissent,They would have dismounted
+Passive Subjunctive,Present,1st Person,Singular,descender,descender,descendar,descendar,I may be dismounted
+Passive Subjunctive,Present,1st Person,Plural,descendemur,descendemur,descendamur,descendamur,We may be dismounted
+Passive Subjunctive,Present,2nd Person,Singular,descenderis,descenderis,descendaris,descendaris,You may be dismounted
+Passive Subjunctive,Present,2nd Person,Plural,descendemini,descendemini,descendamini,descendamini,You (pl.) may be dismounted
+Passive Subjunctive,Present,3rd Person,Singular,descendetur,descendetur,descendatur,descendatur,He/she/it may be dismounted
+Passive Subjunctive,Present,3rd Person,Plural,descendentur,descendentur,descendantur,descendantur,They may be dismounted
+Passive Subjunctive,Imperfect,1st Person,Singular,descendarer,descenderer,descenderer,descendirer,I should be dismounted
+Passive Subjunctive,Imperfect,1st Person,Plural,descendaremur,descenderemur,descenderemur,descendiremur,We should be dismounted
+Passive Subjunctive,Imperfect,2nd Person,Singular,descendareris,descendereris,descendereris,descendireris,You would be dismounted
+Passive Subjunctive,Imperfect,2nd Person,Plural,descendaremini,descenderemini,descenderemini,descendiremini,You (pl.) would be dismounted
+Passive Subjunctive,Imperfect,3rd Person,Singular,descendaretur,descenderetur,descenderetur,descendiretur,He/she/it would be dismounted
+Passive Subjunctive,Imperfect,3rd Person,Plural,descendarentur,descenderentur,descenderentur,descendirentur,They would be dismounted
+Passive Subjunctive,Perfect,1st Person,Singular,descendatus sim,descendetus sim,descendus sim,descendus sim,I may have been dismounted
+Passive Subjunctive,Perfect,1st Person,Plural,descendati simus,descendeti simus,descendi simus,descendi simus,We may have been dismounted
+Passive Subjunctive,Perfect,2nd Person,Singular,descendatus sis,descendetus sis,descendus sis,descendus sis,You may have been dismounted
+Passive Subjunctive,Perfect,2nd Person,Plural,descendati sitis,descendeti sitis,descendi sitis,descendi sitis,You (pl.) may have been dismounted
+Passive Subjunctive,Perfect,3rd Person,Singular,descendatus sit,descendetus sit,descendus sit,descendus sit,He/she/it may have been dismounted
+Passive Subjunctive,Perfect,3rd Person,Plural,descendati sint,descendeti sint,descendi sint,descendi sint,They may have been dismounted
+Passive Subjunctive,Pluperfect,1st Person,Singular,descendatus essem,descendetus essem,descendus essem,descendus essem,I should have been dismounted
+Passive Subjunctive,Pluperfect,1st Person,Plural,descendati essemus,descendeti essemus,descendi essemus,descendi essemus,We should have been dismounted
+Passive Subjunctive,Pluperfect,2nd Person,Singular,descendatus esses,descendetus esses,descendus esses,descendus esses,You would have been dismounted
+Passive Subjunctive,Pluperfect,2nd Person,Plural,descendati essetis,descendeti essetis,descendi essetis,descendi essetis,You (pl.) would have been dismounted
+Passive Subjunctive,Pluperfect,3rd Person,Singular,descendatus esset,descendetus esset,descendus esset,descendus esset,He/she/it would have been dismounted
+Passive Subjunctive,Pluperfect,3rd Person,Plural,descendati essent,descendeti essent,descendi essent,descendi essent,They would have been dismounted

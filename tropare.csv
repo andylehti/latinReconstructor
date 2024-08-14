@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,tropo,tropeo,tropo,tropio,I find
+Active Indicative,Present,1st Person,Plural,tropamus,tropemus,tropimus,tropimus,We find
+Active Indicative,Present,2nd Person,Singular,tropas,tropes,tropis,tropis,You find
+Active Indicative,Present,2nd Person,Plural,tropatis,tropetis,tropitis,tropitis,You (pl.) find
+Active Indicative,Present,3rd Person,Singular,tropat,tropet,tropit,tropit,He/she/it find
+Active Indicative,Present,3rd Person,Plural,tropant,tropent,tropiunt,tropiunt,They find
+Active Indicative,Imperfect,1st Person,Singular,tropabam,tropebam,tropebam,tropiebam,I was finding
+Active Indicative,Imperfect,1st Person,Plural,tropabamus,tropebamus,tropebamus,tropiebamus,We were finding
+Active Indicative,Imperfect,2nd Person,Singular,tropabas,tropebas,tropebas,tropiebas,You were finding
+Active Indicative,Imperfect,2nd Person,Plural,tropabatis,tropebatis,tropebatis,tropiebatis,You (pl.) were finding
+Active Indicative,Imperfect,3rd Person,Singular,tropabat,tropebat,tropebat,tropiebat,He/she/it was finding
+Active Indicative,Imperfect,3rd Person,Plural,tropabant,tropebant,tropebant,tropiebant,They were finding
+Active Indicative,Future,1st Person,Singular,tropabo,tropebo,tropam,tropiam,I will find
+Active Indicative,Future,1st Person,Plural,tropabimus,tropebimus,tropemus,tropiemus,We will find
+Active Indicative,Future,2nd Person,Singular,tropabis,tropebis,tropes,tropies,You will find
+Active Indicative,Future,2nd Person,Plural,tropabitis,tropebitis,tropetis,tropietis,You (pl.) will find
+Active Indicative,Future,3rd Person,Singular,tropabit,tropebit,tropet,tropiet,He/she/it will find
+Active Indicative,Future,3rd Person,Plural,tropabunt,tropebunt,tropent,tropient,They will find
+Active Indicative,Perfect,1st Person,Singular,tropavi,tropui,tropi,tropi,I have finded
+Active Indicative,Perfect,1st Person,Plural,tropavimus,tropuimus,tropimus,tropimus,We have finded
+Active Indicative,Perfect,2nd Person,Singular,tropavisti,tropuisti,tropisti,tropisti,You have finded
+Active Indicative,Perfect,2nd Person,Plural,tropavistis,tropuistis,tropistis,tropistis,You (pl.) have finded
+Active Indicative,Perfect,3rd Person,Singular,tropavit,tropuit,tropit,tropit,He/she/it has finded
+Active Indicative,Perfect,3rd Person,Plural,tropaverunt,tropuerunt,troperunt,troperunt,They have finded
+Active Indicative,Pluperfect,1st Person,Singular,tropaveram,tropueram,troperam,troperam,I had finded
+Active Indicative,Pluperfect,1st Person,Plural,tropaveramus,tropueramus,troperamus,troperamus,We had finded
+Active Indicative,Pluperfect,2nd Person,Singular,tropaveras,tropueras,troperas,troperas,You had finded
+Active Indicative,Pluperfect,2nd Person,Plural,tropaveratis,tropueratis,troperatis,troperatis,You (pl.) had finded
+Active Indicative,Pluperfect,3rd Person,Singular,tropaverat,tropuerat,troperat,troperat,He/she/it had finded
+Active Indicative,Pluperfect,3rd Person,Plural,tropaverant,tropuerant,troperant,troperant,They had finded
+Active Indicative,Future Perfect,1st Person,Singular,tropavero,tropueero,tropero,tropiero,I will have finded
+Active Indicative,Future Perfect,1st Person,Plural,tropaverimus,tropuerimus,troperimus,tropierimus,We will have finded
+Active Indicative,Future Perfect,2nd Person,Singular,tropaveris,tropueris,troperis,tropieris,You will have finded
+Active Indicative,Future Perfect,2nd Person,Plural,tropaveritis,tropueritis,troperitis,tropieritis,You (pl.) will have finded
+Active Indicative,Future Perfect,3rd Person,Singular,tropaverit,tropuerit,troperit,tropierit,He/she/it will have finded
+Active Indicative,Future Perfect,3rd Person,Plural,tropaverint,tropuerint,troperint,tropierint,They will have finded
+Passive Indicative,Present,1st Person,Singular,tropor,tropeor,tropor,tropior,I am being finded
+Passive Indicative,Present,1st Person,Plural,tropamur,tropemur,tropimur,tropimur,We are being finded
+Passive Indicative,Present,2nd Person,Singular,troparis,troperis,tropiris,tropiris,You are being finded
+Passive Indicative,Present,2nd Person,Plural,tropamini,tropemini,tropimini,tropimini,You (pl.) are being finded
+Passive Indicative,Present,3rd Person,Singular,tropatur,tropetur,tropitur,tropitur,He/she/it is being finded
+Passive Indicative,Present,3rd Person,Plural,tropantur,tropentur,tropiuntur,tropiuntur,They are being finded
+Passive Indicative,Imperfect,1st Person,Singular,tropabar,tropebar,tropebar,tropiebar,I was finded
+Passive Indicative,Imperfect,1st Person,Plural,tropabamur,tropebamur,tropebamur,tropiebamur,We were finded
+Passive Indicative,Imperfect,2nd Person,Singular,tropabaris,tropebaris,tropebaris,tropiebaris,You were finded
+Passive Indicative,Imperfect,2nd Person,Plural,tropabamini,tropebamini,tropebamini,tropiebamini,You (pl.) were finded
+Passive Indicative,Imperfect,3rd Person,Singular,tropabatur,tropebatur,tropebatur,tropiebatur,He/she/it was finded
+Passive Indicative,Imperfect,3rd Person,Plural,tropabantur,tropebantur,tropebantur,tropiebantur,They were finded
+Passive Indicative,Future,1st Person,Singular,tropabor,tropebor,tropar,tropiar,I will be finded
+Passive Indicative,Future,1st Person,Plural,tropabimur,tropebimur,tropemur,tropiemur,We will be finded
+Passive Indicative,Future,2nd Person,Singular,tropaberis,tropeberis,troperis,tropieris,You will be finded
+Passive Indicative,Future,2nd Person,Plural,tropabimini,tropebimini,tropemini,tropiemini,You (pl.) will be finded
+Passive Indicative,Future,3rd Person,Singular,tropabitur,tropebitur,tropetur,tropietur,He/she/it will be finded
+Passive Indicative,Future,3rd Person,Plural,tropabuntur,tropebuntur,tropentur,tropientur,They will be finded
+Passive Indicative,Perfect,1st Person,Singular,tropatus sum,tropetus sum,tropus sum,tropus sum,I have been finded
+Passive Indicative,Perfect,1st Person,Plural,tropati sumus,tropeti sumus,tropi sumus,tropi sumus,We have been finded
+Passive Indicative,Perfect,2nd Person,Singular,tropatus es,tropetus es,tropus es,tropus es,You have been finded
+Passive Indicative,Perfect,2nd Person,Plural,tropati estis,tropeti estis,tropi estis,tropi estis,You (pl.) have been finded
+Passive Indicative,Perfect,3rd Person,Singular,tropatus est,tropetus est,tropus est,tropus est,He/she/it has been finded
+Passive Indicative,Perfect,3rd Person,Plural,tropati sunt,tropeti sunt,tropi sunt,tropi sunt,They have been finded
+Passive Indicative,Pluperfect,1st Person,Singular,tropatus eram,tropetus eram,tropus eram,tropus eram,I had been finded
+Passive Indicative,Pluperfect,1st Person,Plural,tropati eramus,tropeti eramus,tropi eramus,tropi eramus,We had been finded
+Passive Indicative,Pluperfect,2nd Person,Singular,tropatus eras,tropetus eras,tropus eras,tropus eras,You had been finded
+Passive Indicative,Pluperfect,2nd Person,Plural,tropati eratis,tropeti eratis,tropi eratis,tropi eratis,You (pl.) had been finded
+Passive Indicative,Pluperfect,3rd Person,Singular,tropatus erat,tropetus erat,tropus erat,tropus erat,He/she/it had been finded
+Passive Indicative,Pluperfect,3rd Person,Plural,tropati erant,tropeti erant,tropi erant,tropi erant,They had been finded
+Passive Indicative,Future Perfect,1st Person,Singular,tropatus ero,tropetus ero,tropus ero,tropus ero,I will have been finded
+Passive Indicative,Future Perfect,1st Person,Plural,tropati erimus,tropeti erimus,tropi erimus,tropi erimus,We will have been finded
+Passive Indicative,Future Perfect,2nd Person,Singular,tropatus eris,tropetus eris,tropus eris,tropus eris,You will have been finded
+Passive Indicative,Future Perfect,2nd Person,Plural,tropati eritis,tropeti eritis,tropi eritis,tropi eritis,You (pl.) will have been finded
+Passive Indicative,Future Perfect,3rd Person,Singular,tropatus erit,tropetus erit,tropus erit,tropus erit,He/she/it will have been finded
+Passive Indicative,Future Perfect,3rd Person,Plural,tropati erunt,tropeti erunt,tropi erunt,tropi erunt,They will have been finded
+Active Subjunctive,Present,1st Person,Singular,tropem,tropem,tropam,tropam,I may find
+Active Subjunctive,Present,1st Person,Plural,tropemus,tropemus,tropamus,tropamus,We may find
+Active Subjunctive,Present,2nd Person,Singular,tropes,tropes,tropas,tropas,You may find
+Active Subjunctive,Present,2nd Person,Plural,tropetis,tropetis,tropatis,tropatis,You (pl.) may find
+Active Subjunctive,Present,3rd Person,Singular,tropet,tropet,tropat,tropat,He/she/it may find
+Active Subjunctive,Present,3rd Person,Plural,tropent,tropent,tropant,tropant,They may find
+Active Subjunctive,Imperfect,1st Person,Singular,troparem,troperem,troperem,tropirem,I should find
+Active Subjunctive,Imperfect,1st Person,Plural,troparemus,troperemus,troperemus,tropiremus,We should find
+Active Subjunctive,Imperfect,2nd Person,Singular,tropares,troperes,troperes,tropires,You should find
+Active Subjunctive,Imperfect,2nd Person,Plural,troparetis,troperetis,troperetis,tropiretis,You (pl.) should find
+Active Subjunctive,Imperfect,3rd Person,Singular,troparet,troperet,troperet,tropiret,He/she/it should find
+Active Subjunctive,Imperfect,3rd Person,Plural,troparent,troperent,troperent,tropirent,They should find
+Active Subjunctive,Perfect,1st Person,Singular,troperim,tropuerim,troperim,tropierim,I may have finded
+Active Subjunctive,Perfect,1st Person,Plural,troperimus,tropuerimus,troperimus,tropierimus,We may have finded
+Active Subjunctive,Perfect,2nd Person,Singular,troperis,tropueris,troperis,tropieris,You may have finded
+Active Subjunctive,Perfect,2nd Person,Plural,troperitis,tropueritis,troperitis,tropieritis,You (pl.) may have finded
+Active Subjunctive,Perfect,3rd Person,Singular,troperit,tropuerit,troperit,tropierit,He/she/it may have finded
+Active Subjunctive,Perfect,3rd Person,Plural,troperint,tropuerint,troperint,tropierint,They may have finded
+Active Subjunctive,Pluperfect,1st Person,Singular,tropissem,tropuissem,tropissem,tropissem,I should have finded
+Active Subjunctive,Pluperfect,1st Person,Plural,tropissemus,tropuissemus,tropissemus,tropissemus,We should have finded
+Active Subjunctive,Pluperfect,2nd Person,Singular,tropisses,tropuisses,tropisses,tropisses,You would have finded
+Active Subjunctive,Pluperfect,2nd Person,Plural,tropissetis,tropuissetis,tropissetis,tropissetis,You (pl.) would have finded
+Active Subjunctive,Pluperfect,3rd Person,Singular,tropisset,tropuisset,tropisset,tropisset,He/she/it would have finded
+Active Subjunctive,Pluperfect,3rd Person,Plural,tropissent,tropuissent,tropissent,tropissent,They would have finded
+Passive Subjunctive,Present,1st Person,Singular,troper,troper,tropar,tropar,I may be finded
+Passive Subjunctive,Present,1st Person,Plural,tropemur,tropemur,tropamur,tropamur,We may be finded
+Passive Subjunctive,Present,2nd Person,Singular,troperis,troperis,troparis,troparis,You may be finded
+Passive Subjunctive,Present,2nd Person,Plural,tropemini,tropemini,tropamini,tropamini,You (pl.) may be finded
+Passive Subjunctive,Present,3rd Person,Singular,tropetur,tropetur,tropatur,tropatur,He/she/it may be finded
+Passive Subjunctive,Present,3rd Person,Plural,tropentur,tropentur,tropantur,tropantur,They may be finded
+Passive Subjunctive,Imperfect,1st Person,Singular,troparer,troperer,troperer,tropirer,I should be finded
+Passive Subjunctive,Imperfect,1st Person,Plural,troparemur,troperemur,troperemur,tropiremur,We should be finded
+Passive Subjunctive,Imperfect,2nd Person,Singular,tropareris,tropereris,tropereris,tropireris,You would be finded
+Passive Subjunctive,Imperfect,2nd Person,Plural,troparemini,troperemini,troperemini,tropiremini,You (pl.) would be finded
+Passive Subjunctive,Imperfect,3rd Person,Singular,troparetur,troperetur,troperetur,tropiretur,He/she/it would be finded
+Passive Subjunctive,Imperfect,3rd Person,Plural,troparentur,troperentur,troperentur,tropirentur,They would be finded
+Passive Subjunctive,Perfect,1st Person,Singular,tropatus sim,tropetus sim,tropus sim,tropus sim,I may have been finded
+Passive Subjunctive,Perfect,1st Person,Plural,tropati simus,tropeti simus,tropi simus,tropi simus,We may have been finded
+Passive Subjunctive,Perfect,2nd Person,Singular,tropatus sis,tropetus sis,tropus sis,tropus sis,You may have been finded
+Passive Subjunctive,Perfect,2nd Person,Plural,tropati sitis,tropeti sitis,tropi sitis,tropi sitis,You (pl.) may have been finded
+Passive Subjunctive,Perfect,3rd Person,Singular,tropatus sit,tropetus sit,tropus sit,tropus sit,He/she/it may have been finded
+Passive Subjunctive,Perfect,3rd Person,Plural,tropati sint,tropeti sint,tropi sint,tropi sint,They may have been finded
+Passive Subjunctive,Pluperfect,1st Person,Singular,tropatus essem,tropetus essem,tropus essem,tropus essem,I should have been finded
+Passive Subjunctive,Pluperfect,1st Person,Plural,tropati essemus,tropeti essemus,tropi essemus,tropi essemus,We should have been finded
+Passive Subjunctive,Pluperfect,2nd Person,Singular,tropatus esses,tropetus esses,tropus esses,tropus esses,You would have been finded
+Passive Subjunctive,Pluperfect,2nd Person,Plural,tropati essetis,tropeti essetis,tropi essetis,tropi essetis,You (pl.) would have been finded
+Passive Subjunctive,Pluperfect,3rd Person,Singular,tropatus esset,tropetus esset,tropus esset,tropus esset,He/she/it would have been finded
+Passive Subjunctive,Pluperfect,3rd Person,Plural,tropati essent,tropeti essent,tropi essent,tropi essent,They would have been finded

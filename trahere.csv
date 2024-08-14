@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,traho,traheo,traho,trahio,I drag
+Active Indicative,Present,1st Person,Plural,trahamus,trahemus,trahimus,trahimus,We drag
+Active Indicative,Present,2nd Person,Singular,trahas,trahes,trahis,trahis,You drag
+Active Indicative,Present,2nd Person,Plural,trahatis,trahetis,trahitis,trahitis,You (pl.) drag
+Active Indicative,Present,3rd Person,Singular,trahat,trahet,trahit,trahit,He/she/it drag
+Active Indicative,Present,3rd Person,Plural,trahant,trahent,trahiunt,trahiunt,They drag
+Active Indicative,Imperfect,1st Person,Singular,trahabam,trahebam,trahebam,trahiebam,I was draging
+Active Indicative,Imperfect,1st Person,Plural,trahabamus,trahebamus,trahebamus,trahiebamus,We were draging
+Active Indicative,Imperfect,2nd Person,Singular,trahabas,trahebas,trahebas,trahiebas,You were draging
+Active Indicative,Imperfect,2nd Person,Plural,trahabatis,trahebatis,trahebatis,trahiebatis,You (pl.) were draging
+Active Indicative,Imperfect,3rd Person,Singular,trahabat,trahebat,trahebat,trahiebat,He/she/it was draging
+Active Indicative,Imperfect,3rd Person,Plural,trahabant,trahebant,trahebant,trahiebant,They were draging
+Active Indicative,Future,1st Person,Singular,trahabo,trahebo,traham,trahiam,I will drag
+Active Indicative,Future,1st Person,Plural,trahabimus,trahebimus,trahemus,trahiemus,We will drag
+Active Indicative,Future,2nd Person,Singular,trahabis,trahebis,trahes,trahies,You will drag
+Active Indicative,Future,2nd Person,Plural,trahabitis,trahebitis,trahetis,trahietis,You (pl.) will drag
+Active Indicative,Future,3rd Person,Singular,trahabit,trahebit,trahet,trahiet,He/she/it will drag
+Active Indicative,Future,3rd Person,Plural,trahabunt,trahebunt,trahent,trahient,They will drag
+Active Indicative,Perfect,1st Person,Singular,trahavi,trahui,trahi,trahi,I have draged
+Active Indicative,Perfect,1st Person,Plural,trahavimus,trahuimus,trahimus,trahimus,We have draged
+Active Indicative,Perfect,2nd Person,Singular,trahavisti,trahuisti,trahisti,trahisti,You have draged
+Active Indicative,Perfect,2nd Person,Plural,trahavistis,trahuistis,trahistis,trahistis,You (pl.) have draged
+Active Indicative,Perfect,3rd Person,Singular,trahavit,trahuit,trahit,trahit,He/she/it has draged
+Active Indicative,Perfect,3rd Person,Plural,trahaverunt,trahuerunt,traherunt,traherunt,They have draged
+Active Indicative,Pluperfect,1st Person,Singular,trahaveram,trahueram,traheram,traheram,I had draged
+Active Indicative,Pluperfect,1st Person,Plural,trahaveramus,trahueramus,traheramus,traheramus,We had draged
+Active Indicative,Pluperfect,2nd Person,Singular,trahaveras,trahueras,traheras,traheras,You had draged
+Active Indicative,Pluperfect,2nd Person,Plural,trahaveratis,trahueratis,traheratis,traheratis,You (pl.) had draged
+Active Indicative,Pluperfect,3rd Person,Singular,trahaverat,trahuerat,traherat,traherat,He/she/it had draged
+Active Indicative,Pluperfect,3rd Person,Plural,trahaverant,trahuerant,traherant,traherant,They had draged
+Active Indicative,Future Perfect,1st Person,Singular,trahavero,trahueero,trahero,trahiero,I will have draged
+Active Indicative,Future Perfect,1st Person,Plural,trahaverimus,trahuerimus,traherimus,trahierimus,We will have draged
+Active Indicative,Future Perfect,2nd Person,Singular,trahaveris,trahueris,traheris,trahieris,You will have draged
+Active Indicative,Future Perfect,2nd Person,Plural,trahaveritis,trahueritis,traheritis,trahieritis,You (pl.) will have draged
+Active Indicative,Future Perfect,3rd Person,Singular,trahaverit,trahuerit,traherit,trahierit,He/she/it will have draged
+Active Indicative,Future Perfect,3rd Person,Plural,trahaverint,trahuerint,traherint,trahierint,They will have draged
+Passive Indicative,Present,1st Person,Singular,trahor,traheor,trahor,trahior,I am being draged
+Passive Indicative,Present,1st Person,Plural,trahamur,trahemur,trahimur,trahimur,We are being draged
+Passive Indicative,Present,2nd Person,Singular,traharis,traheris,trahiris,trahiris,You are being draged
+Passive Indicative,Present,2nd Person,Plural,trahamini,trahemini,trahimini,trahimini,You (pl.) are being draged
+Passive Indicative,Present,3rd Person,Singular,trahatur,trahetur,trahitur,trahitur,He/she/it is being draged
+Passive Indicative,Present,3rd Person,Plural,trahantur,trahentur,trahiuntur,trahiuntur,They are being draged
+Passive Indicative,Imperfect,1st Person,Singular,trahabar,trahebar,trahebar,trahiebar,I was draged
+Passive Indicative,Imperfect,1st Person,Plural,trahabamur,trahebamur,trahebamur,trahiebamur,We were draged
+Passive Indicative,Imperfect,2nd Person,Singular,trahabaris,trahebaris,trahebaris,trahiebaris,You were draged
+Passive Indicative,Imperfect,2nd Person,Plural,trahabamini,trahebamini,trahebamini,trahiebamini,You (pl.) were draged
+Passive Indicative,Imperfect,3rd Person,Singular,trahabatur,trahebatur,trahebatur,trahiebatur,He/she/it was draged
+Passive Indicative,Imperfect,3rd Person,Plural,trahabantur,trahebantur,trahebantur,trahiebantur,They were draged
+Passive Indicative,Future,1st Person,Singular,trahabor,trahebor,trahar,trahiar,I will be draged
+Passive Indicative,Future,1st Person,Plural,trahabimur,trahebimur,trahemur,trahiemur,We will be draged
+Passive Indicative,Future,2nd Person,Singular,trahaberis,traheberis,traheris,trahieris,You will be draged
+Passive Indicative,Future,2nd Person,Plural,trahabimini,trahebimini,trahemini,trahiemini,You (pl.) will be draged
+Passive Indicative,Future,3rd Person,Singular,trahabitur,trahebitur,trahetur,trahietur,He/she/it will be draged
+Passive Indicative,Future,3rd Person,Plural,trahabuntur,trahebuntur,trahentur,trahientur,They will be draged
+Passive Indicative,Perfect,1st Person,Singular,trahatus sum,trahetus sum,trahus sum,trahus sum,I have been draged
+Passive Indicative,Perfect,1st Person,Plural,trahati sumus,traheti sumus,trahi sumus,trahi sumus,We have been draged
+Passive Indicative,Perfect,2nd Person,Singular,trahatus es,trahetus es,trahus es,trahus es,You have been draged
+Passive Indicative,Perfect,2nd Person,Plural,trahati estis,traheti estis,trahi estis,trahi estis,You (pl.) have been draged
+Passive Indicative,Perfect,3rd Person,Singular,trahatus est,trahetus est,trahus est,trahus est,He/she/it has been draged
+Passive Indicative,Perfect,3rd Person,Plural,trahati sunt,traheti sunt,trahi sunt,trahi sunt,They have been draged
+Passive Indicative,Pluperfect,1st Person,Singular,trahatus eram,trahetus eram,trahus eram,trahus eram,I had been draged
+Passive Indicative,Pluperfect,1st Person,Plural,trahati eramus,traheti eramus,trahi eramus,trahi eramus,We had been draged
+Passive Indicative,Pluperfect,2nd Person,Singular,trahatus eras,trahetus eras,trahus eras,trahus eras,You had been draged
+Passive Indicative,Pluperfect,2nd Person,Plural,trahati eratis,traheti eratis,trahi eratis,trahi eratis,You (pl.) had been draged
+Passive Indicative,Pluperfect,3rd Person,Singular,trahatus erat,trahetus erat,trahus erat,trahus erat,He/she/it had been draged
+Passive Indicative,Pluperfect,3rd Person,Plural,trahati erant,traheti erant,trahi erant,trahi erant,They had been draged
+Passive Indicative,Future Perfect,1st Person,Singular,trahatus ero,trahetus ero,trahus ero,trahus ero,I will have been draged
+Passive Indicative,Future Perfect,1st Person,Plural,trahati erimus,traheti erimus,trahi erimus,trahi erimus,We will have been draged
+Passive Indicative,Future Perfect,2nd Person,Singular,trahatus eris,trahetus eris,trahus eris,trahus eris,You will have been draged
+Passive Indicative,Future Perfect,2nd Person,Plural,trahati eritis,traheti eritis,trahi eritis,trahi eritis,You (pl.) will have been draged
+Passive Indicative,Future Perfect,3rd Person,Singular,trahatus erit,trahetus erit,trahus erit,trahus erit,He/she/it will have been draged
+Passive Indicative,Future Perfect,3rd Person,Plural,trahati erunt,traheti erunt,trahi erunt,trahi erunt,They will have been draged
+Active Subjunctive,Present,1st Person,Singular,trahem,trahem,traham,traham,I may drag
+Active Subjunctive,Present,1st Person,Plural,trahemus,trahemus,trahamus,trahamus,We may drag
+Active Subjunctive,Present,2nd Person,Singular,trahes,trahes,trahas,trahas,You may drag
+Active Subjunctive,Present,2nd Person,Plural,trahetis,trahetis,trahatis,trahatis,You (pl.) may drag
+Active Subjunctive,Present,3rd Person,Singular,trahet,trahet,trahat,trahat,He/she/it may drag
+Active Subjunctive,Present,3rd Person,Plural,trahent,trahent,trahant,trahant,They may drag
+Active Subjunctive,Imperfect,1st Person,Singular,traharem,traherem,traherem,trahirem,I should drag
+Active Subjunctive,Imperfect,1st Person,Plural,traharemus,traheremus,traheremus,trahiremus,We should drag
+Active Subjunctive,Imperfect,2nd Person,Singular,trahares,traheres,traheres,trahires,You should drag
+Active Subjunctive,Imperfect,2nd Person,Plural,traharetis,traheretis,traheretis,trahiretis,You (pl.) should drag
+Active Subjunctive,Imperfect,3rd Person,Singular,traharet,traheret,traheret,trahiret,He/she/it should drag
+Active Subjunctive,Imperfect,3rd Person,Plural,traharent,traherent,traherent,trahirent,They should drag
+Active Subjunctive,Perfect,1st Person,Singular,traherim,trahuerim,traherim,trahierim,I may have draged
+Active Subjunctive,Perfect,1st Person,Plural,traherimus,trahuerimus,traherimus,trahierimus,We may have draged
+Active Subjunctive,Perfect,2nd Person,Singular,traheris,trahueris,traheris,trahieris,You may have draged
+Active Subjunctive,Perfect,2nd Person,Plural,traheritis,trahueritis,traheritis,trahieritis,You (pl.) may have draged
+Active Subjunctive,Perfect,3rd Person,Singular,traherit,trahuerit,traherit,trahierit,He/she/it may have draged
+Active Subjunctive,Perfect,3rd Person,Plural,traherint,trahuerint,traherint,trahierint,They may have draged
+Active Subjunctive,Pluperfect,1st Person,Singular,trahissem,trahuissem,trahissem,trahissem,I should have draged
+Active Subjunctive,Pluperfect,1st Person,Plural,trahissemus,trahuissemus,trahissemus,trahissemus,We should have draged
+Active Subjunctive,Pluperfect,2nd Person,Singular,trahisses,trahuisses,trahisses,trahisses,You would have draged
+Active Subjunctive,Pluperfect,2nd Person,Plural,trahissetis,trahuissetis,trahissetis,trahissetis,You (pl.) would have draged
+Active Subjunctive,Pluperfect,3rd Person,Singular,trahisset,trahuisset,trahisset,trahisset,He/she/it would have draged
+Active Subjunctive,Pluperfect,3rd Person,Plural,trahissent,trahuissent,trahissent,trahissent,They would have draged
+Passive Subjunctive,Present,1st Person,Singular,traher,traher,trahar,trahar,I may be draged
+Passive Subjunctive,Present,1st Person,Plural,trahemur,trahemur,trahamur,trahamur,We may be draged
+Passive Subjunctive,Present,2nd Person,Singular,traheris,traheris,traharis,traharis,You may be draged
+Passive Subjunctive,Present,2nd Person,Plural,trahemini,trahemini,trahamini,trahamini,You (pl.) may be draged
+Passive Subjunctive,Present,3rd Person,Singular,trahetur,trahetur,trahatur,trahatur,He/she/it may be draged
+Passive Subjunctive,Present,3rd Person,Plural,trahentur,trahentur,trahantur,trahantur,They may be draged
+Passive Subjunctive,Imperfect,1st Person,Singular,traharer,traherer,traherer,trahirer,I should be draged
+Passive Subjunctive,Imperfect,1st Person,Plural,traharemur,traheremur,traheremur,trahiremur,We should be draged
+Passive Subjunctive,Imperfect,2nd Person,Singular,trahareris,trahereris,trahereris,trahireris,You would be draged
+Passive Subjunctive,Imperfect,2nd Person,Plural,traharemini,traheremini,traheremini,trahiremini,You (pl.) would be draged
+Passive Subjunctive,Imperfect,3rd Person,Singular,traharetur,traheretur,traheretur,trahiretur,He/she/it would be draged
+Passive Subjunctive,Imperfect,3rd Person,Plural,traharentur,traherentur,traherentur,trahirentur,They would be draged
+Passive Subjunctive,Perfect,1st Person,Singular,trahatus sim,trahetus sim,trahus sim,trahus sim,I may have been draged
+Passive Subjunctive,Perfect,1st Person,Plural,trahati simus,traheti simus,trahi simus,trahi simus,We may have been draged
+Passive Subjunctive,Perfect,2nd Person,Singular,trahatus sis,trahetus sis,trahus sis,trahus sis,You may have been draged
+Passive Subjunctive,Perfect,2nd Person,Plural,trahati sitis,traheti sitis,trahi sitis,trahi sitis,You (pl.) may have been draged
+Passive Subjunctive,Perfect,3rd Person,Singular,trahatus sit,trahetus sit,trahus sit,trahus sit,He/she/it may have been draged
+Passive Subjunctive,Perfect,3rd Person,Plural,trahati sint,traheti sint,trahi sint,trahi sint,They may have been draged
+Passive Subjunctive,Pluperfect,1st Person,Singular,trahatus essem,trahetus essem,trahus essem,trahus essem,I should have been draged
+Passive Subjunctive,Pluperfect,1st Person,Plural,trahati essemus,traheti essemus,trahi essemus,trahi essemus,We should have been draged
+Passive Subjunctive,Pluperfect,2nd Person,Singular,trahatus esses,trahetus esses,trahus esses,trahus esses,You would have been draged
+Passive Subjunctive,Pluperfect,2nd Person,Plural,trahati essetis,traheti essetis,trahi essetis,trahi essetis,You (pl.) would have been draged
+Passive Subjunctive,Pluperfect,3rd Person,Singular,trahatus esset,trahetus esset,trahus esset,trahus esset,He/she/it would have been draged
+Passive Subjunctive,Pluperfect,3rd Person,Plural,trahati essent,traheti essent,trahi essent,trahi essent,They would have been draged

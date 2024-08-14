@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,procedo,procedeo,procedo,procedio,I advance
+Active Indicative,Present,1st Person,Plural,procedamus,procedemus,procedimus,procedimus,We advance
+Active Indicative,Present,2nd Person,Singular,procedas,procedes,procedis,procedis,You advance
+Active Indicative,Present,2nd Person,Plural,procedatis,procedetis,proceditis,proceditis,You (pl.) advance
+Active Indicative,Present,3rd Person,Singular,procedat,procedet,procedit,procedit,He/she/it advance
+Active Indicative,Present,3rd Person,Plural,procedant,procedent,procediunt,procediunt,They advance
+Active Indicative,Imperfect,1st Person,Singular,procedabam,procedebam,procedebam,procediebam,I was advanceing
+Active Indicative,Imperfect,1st Person,Plural,procedabamus,procedebamus,procedebamus,procediebamus,We were advanceing
+Active Indicative,Imperfect,2nd Person,Singular,procedabas,procedebas,procedebas,procediebas,You were advanceing
+Active Indicative,Imperfect,2nd Person,Plural,procedabatis,procedebatis,procedebatis,procediebatis,You (pl.) were advanceing
+Active Indicative,Imperfect,3rd Person,Singular,procedabat,procedebat,procedebat,procediebat,He/she/it was advanceing
+Active Indicative,Imperfect,3rd Person,Plural,procedabant,procedebant,procedebant,procediebant,They were advanceing
+Active Indicative,Future,1st Person,Singular,procedabo,procedebo,procedam,procediam,I will advance
+Active Indicative,Future,1st Person,Plural,procedabimus,procedebimus,procedemus,procediemus,We will advance
+Active Indicative,Future,2nd Person,Singular,procedabis,procedebis,procedes,procedies,You will advance
+Active Indicative,Future,2nd Person,Plural,procedabitis,procedebitis,procedetis,procedietis,You (pl.) will advance
+Active Indicative,Future,3rd Person,Singular,procedabit,procedebit,procedet,procediet,He/she/it will advance
+Active Indicative,Future,3rd Person,Plural,procedabunt,procedebunt,procedent,procedient,They will advance
+Active Indicative,Perfect,1st Person,Singular,procedavi,procedui,procedi,procedi,I have advanceed
+Active Indicative,Perfect,1st Person,Plural,procedavimus,proceduimus,procedimus,procedimus,We have advanceed
+Active Indicative,Perfect,2nd Person,Singular,procedavisti,proceduisti,procedisti,procedisti,You have advanceed
+Active Indicative,Perfect,2nd Person,Plural,procedavistis,proceduistis,procedistis,procedistis,You (pl.) have advanceed
+Active Indicative,Perfect,3rd Person,Singular,procedavit,proceduit,procedit,procedit,He/she/it has advanceed
+Active Indicative,Perfect,3rd Person,Plural,procedaverunt,proceduerunt,procederunt,procederunt,They have advanceed
+Active Indicative,Pluperfect,1st Person,Singular,procedaveram,procedueram,procederam,procederam,I had advanceed
+Active Indicative,Pluperfect,1st Person,Plural,procedaveramus,procedueramus,procederamus,procederamus,We had advanceed
+Active Indicative,Pluperfect,2nd Person,Singular,procedaveras,procedueras,procederas,procederas,You had advanceed
+Active Indicative,Pluperfect,2nd Person,Plural,procedaveratis,procedueratis,procederatis,procederatis,You (pl.) had advanceed
+Active Indicative,Pluperfect,3rd Person,Singular,procedaverat,proceduerat,procederat,procederat,He/she/it had advanceed
+Active Indicative,Pluperfect,3rd Person,Plural,procedaverant,proceduerant,procederant,procederant,They had advanceed
+Active Indicative,Future Perfect,1st Person,Singular,procedavero,procedueero,procedero,procediero,I will have advanceed
+Active Indicative,Future Perfect,1st Person,Plural,procedaverimus,proceduerimus,procederimus,procedierimus,We will have advanceed
+Active Indicative,Future Perfect,2nd Person,Singular,procedaveris,procedueris,procederis,procedieris,You will have advanceed
+Active Indicative,Future Perfect,2nd Person,Plural,procedaveritis,procedueritis,procederitis,procedieritis,You (pl.) will have advanceed
+Active Indicative,Future Perfect,3rd Person,Singular,procedaverit,proceduerit,procederit,procedierit,He/she/it will have advanceed
+Active Indicative,Future Perfect,3rd Person,Plural,procedaverint,proceduerint,procederint,procedierint,They will have advanceed
+Passive Indicative,Present,1st Person,Singular,procedor,procedeor,procedor,procedior,I am being advanceed
+Passive Indicative,Present,1st Person,Plural,procedamur,procedemur,procedimur,procedimur,We are being advanceed
+Passive Indicative,Present,2nd Person,Singular,procedaris,procederis,procediris,procediris,You are being advanceed
+Passive Indicative,Present,2nd Person,Plural,procedamini,procedemini,procedimini,procedimini,You (pl.) are being advanceed
+Passive Indicative,Present,3rd Person,Singular,procedatur,procedetur,proceditur,proceditur,He/she/it is being advanceed
+Passive Indicative,Present,3rd Person,Plural,procedantur,procedentur,procediuntur,procediuntur,They are being advanceed
+Passive Indicative,Imperfect,1st Person,Singular,procedabar,procedebar,procedebar,procediebar,I was advanceed
+Passive Indicative,Imperfect,1st Person,Plural,procedabamur,procedebamur,procedebamur,procediebamur,We were advanceed
+Passive Indicative,Imperfect,2nd Person,Singular,procedabaris,procedebaris,procedebaris,procediebaris,You were advanceed
+Passive Indicative,Imperfect,2nd Person,Plural,procedabamini,procedebamini,procedebamini,procediebamini,You (pl.) were advanceed
+Passive Indicative,Imperfect,3rd Person,Singular,procedabatur,procedebatur,procedebatur,procediebatur,He/she/it was advanceed
+Passive Indicative,Imperfect,3rd Person,Plural,procedabantur,procedebantur,procedebantur,procediebantur,They were advanceed
+Passive Indicative,Future,1st Person,Singular,procedabor,procedebor,procedar,procediar,I will be advanceed
+Passive Indicative,Future,1st Person,Plural,procedabimur,procedebimur,procedemur,procediemur,We will be advanceed
+Passive Indicative,Future,2nd Person,Singular,procedaberis,procedeberis,procederis,procedieris,You will be advanceed
+Passive Indicative,Future,2nd Person,Plural,procedabimini,procedebimini,procedemini,procediemini,You (pl.) will be advanceed
+Passive Indicative,Future,3rd Person,Singular,procedabitur,procedebitur,procedetur,procedietur,He/she/it will be advanceed
+Passive Indicative,Future,3rd Person,Plural,procedabuntur,procedebuntur,procedentur,procedientur,They will be advanceed
+Passive Indicative,Perfect,1st Person,Singular,procedatus sum,procedetus sum,procedus sum,procedus sum,I have been advanceed
+Passive Indicative,Perfect,1st Person,Plural,procedati sumus,procedeti sumus,procedi sumus,procedi sumus,We have been advanceed
+Passive Indicative,Perfect,2nd Person,Singular,procedatus es,procedetus es,procedus es,procedus es,You have been advanceed
+Passive Indicative,Perfect,2nd Person,Plural,procedati estis,procedeti estis,procedi estis,procedi estis,You (pl.) have been advanceed
+Passive Indicative,Perfect,3rd Person,Singular,procedatus est,procedetus est,procedus est,procedus est,He/she/it has been advanceed
+Passive Indicative,Perfect,3rd Person,Plural,procedati sunt,procedeti sunt,procedi sunt,procedi sunt,They have been advanceed
+Passive Indicative,Pluperfect,1st Person,Singular,procedatus eram,procedetus eram,procedus eram,procedus eram,I had been advanceed
+Passive Indicative,Pluperfect,1st Person,Plural,procedati eramus,procedeti eramus,procedi eramus,procedi eramus,We had been advanceed
+Passive Indicative,Pluperfect,2nd Person,Singular,procedatus eras,procedetus eras,procedus eras,procedus eras,You had been advanceed
+Passive Indicative,Pluperfect,2nd Person,Plural,procedati eratis,procedeti eratis,procedi eratis,procedi eratis,You (pl.) had been advanceed
+Passive Indicative,Pluperfect,3rd Person,Singular,procedatus erat,procedetus erat,procedus erat,procedus erat,He/she/it had been advanceed
+Passive Indicative,Pluperfect,3rd Person,Plural,procedati erant,procedeti erant,procedi erant,procedi erant,They had been advanceed
+Passive Indicative,Future Perfect,1st Person,Singular,procedatus ero,procedetus ero,procedus ero,procedus ero,I will have been advanceed
+Passive Indicative,Future Perfect,1st Person,Plural,procedati erimus,procedeti erimus,procedi erimus,procedi erimus,We will have been advanceed
+Passive Indicative,Future Perfect,2nd Person,Singular,procedatus eris,procedetus eris,procedus eris,procedus eris,You will have been advanceed
+Passive Indicative,Future Perfect,2nd Person,Plural,procedati eritis,procedeti eritis,procedi eritis,procedi eritis,You (pl.) will have been advanceed
+Passive Indicative,Future Perfect,3rd Person,Singular,procedatus erit,procedetus erit,procedus erit,procedus erit,He/she/it will have been advanceed
+Passive Indicative,Future Perfect,3rd Person,Plural,procedati erunt,procedeti erunt,procedi erunt,procedi erunt,They will have been advanceed
+Active Subjunctive,Present,1st Person,Singular,procedem,procedem,procedam,procedam,I may advance
+Active Subjunctive,Present,1st Person,Plural,procedemus,procedemus,procedamus,procedamus,We may advance
+Active Subjunctive,Present,2nd Person,Singular,procedes,procedes,procedas,procedas,You may advance
+Active Subjunctive,Present,2nd Person,Plural,procedetis,procedetis,procedatis,procedatis,You (pl.) may advance
+Active Subjunctive,Present,3rd Person,Singular,procedet,procedet,procedat,procedat,He/she/it may advance
+Active Subjunctive,Present,3rd Person,Plural,procedent,procedent,procedant,procedant,They may advance
+Active Subjunctive,Imperfect,1st Person,Singular,procedarem,procederem,procederem,procedirem,I should advance
+Active Subjunctive,Imperfect,1st Person,Plural,procedaremus,procederemus,procederemus,procediremus,We should advance
+Active Subjunctive,Imperfect,2nd Person,Singular,procedares,procederes,procederes,procedires,You should advance
+Active Subjunctive,Imperfect,2nd Person,Plural,procedaretis,procederetis,procederetis,procediretis,You (pl.) should advance
+Active Subjunctive,Imperfect,3rd Person,Singular,procedaret,procederet,procederet,procediret,He/she/it should advance
+Active Subjunctive,Imperfect,3rd Person,Plural,procedarent,procederent,procederent,procedirent,They should advance
+Active Subjunctive,Perfect,1st Person,Singular,procederim,proceduerim,procederim,procedierim,I may have advanceed
+Active Subjunctive,Perfect,1st Person,Plural,procederimus,proceduerimus,procederimus,procedierimus,We may have advanceed
+Active Subjunctive,Perfect,2nd Person,Singular,procederis,procedueris,procederis,procedieris,You may have advanceed
+Active Subjunctive,Perfect,2nd Person,Plural,procederitis,procedueritis,procederitis,procedieritis,You (pl.) may have advanceed
+Active Subjunctive,Perfect,3rd Person,Singular,procederit,proceduerit,procederit,procedierit,He/she/it may have advanceed
+Active Subjunctive,Perfect,3rd Person,Plural,procederint,proceduerint,procederint,procedierint,They may have advanceed
+Active Subjunctive,Pluperfect,1st Person,Singular,procedissem,proceduissem,procedissem,procedissem,I should have advanceed
+Active Subjunctive,Pluperfect,1st Person,Plural,procedissemus,proceduissemus,procedissemus,procedissemus,We should have advanceed
+Active Subjunctive,Pluperfect,2nd Person,Singular,procedisses,proceduisses,procedisses,procedisses,You would have advanceed
+Active Subjunctive,Pluperfect,2nd Person,Plural,procedissetis,proceduissetis,procedissetis,procedissetis,You (pl.) would have advanceed
+Active Subjunctive,Pluperfect,3rd Person,Singular,procedisset,proceduisset,procedisset,procedisset,He/she/it would have advanceed
+Active Subjunctive,Pluperfect,3rd Person,Plural,procedissent,proceduissent,procedissent,procedissent,They would have advanceed
+Passive Subjunctive,Present,1st Person,Singular,proceder,proceder,procedar,procedar,I may be advanceed
+Passive Subjunctive,Present,1st Person,Plural,procedemur,procedemur,procedamur,procedamur,We may be advanceed
+Passive Subjunctive,Present,2nd Person,Singular,procederis,procederis,procedaris,procedaris,You may be advanceed
+Passive Subjunctive,Present,2nd Person,Plural,procedemini,procedemini,procedamini,procedamini,You (pl.) may be advanceed
+Passive Subjunctive,Present,3rd Person,Singular,procedetur,procedetur,procedatur,procedatur,He/she/it may be advanceed
+Passive Subjunctive,Present,3rd Person,Plural,procedentur,procedentur,procedantur,procedantur,They may be advanceed
+Passive Subjunctive,Imperfect,1st Person,Singular,procedarer,procederer,procederer,procedirer,I should be advanceed
+Passive Subjunctive,Imperfect,1st Person,Plural,procedaremur,procederemur,procederemur,procediremur,We should be advanceed
+Passive Subjunctive,Imperfect,2nd Person,Singular,procedareris,procedereris,procedereris,procedireris,You would be advanceed
+Passive Subjunctive,Imperfect,2nd Person,Plural,procedaremini,procederemini,procederemini,procediremini,You (pl.) would be advanceed
+Passive Subjunctive,Imperfect,3rd Person,Singular,procedaretur,procederetur,procederetur,procediretur,He/she/it would be advanceed
+Passive Subjunctive,Imperfect,3rd Person,Plural,procedarentur,procederentur,procederentur,procedirentur,They would be advanceed
+Passive Subjunctive,Perfect,1st Person,Singular,procedatus sim,procedetus sim,procedus sim,procedus sim,I may have been advanceed
+Passive Subjunctive,Perfect,1st Person,Plural,procedati simus,procedeti simus,procedi simus,procedi simus,We may have been advanceed
+Passive Subjunctive,Perfect,2nd Person,Singular,procedatus sis,procedetus sis,procedus sis,procedus sis,You may have been advanceed
+Passive Subjunctive,Perfect,2nd Person,Plural,procedati sitis,procedeti sitis,procedi sitis,procedi sitis,You (pl.) may have been advanceed
+Passive Subjunctive,Perfect,3rd Person,Singular,procedatus sit,procedetus sit,procedus sit,procedus sit,He/she/it may have been advanceed
+Passive Subjunctive,Perfect,3rd Person,Plural,procedati sint,procedeti sint,procedi sint,procedi sint,They may have been advanceed
+Passive Subjunctive,Pluperfect,1st Person,Singular,procedatus essem,procedetus essem,procedus essem,procedus essem,I should have been advanceed
+Passive Subjunctive,Pluperfect,1st Person,Plural,procedati essemus,procedeti essemus,procedi essemus,procedi essemus,We should have been advanceed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,procedatus esses,procedetus esses,procedus esses,procedus esses,You would have been advanceed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,procedati essetis,procedeti essetis,procedi essetis,procedi essetis,You (pl.) would have been advanceed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,procedatus esset,procedetus esset,procedus esset,procedus esset,He/she/it would have been advanceed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,procedati essent,procedeti essent,procedi essent,procedi essent,They would have been advanceed

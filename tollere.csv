@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,tollo,tolleo,tollo,tollio,I raise
+Active Indicative,Present,1st Person,Plural,tollamus,tollemus,tollimus,tollimus,We raise
+Active Indicative,Present,2nd Person,Singular,tollas,tolles,tollis,tollis,You raise
+Active Indicative,Present,2nd Person,Plural,tollatis,tolletis,tollitis,tollitis,You (pl.) raise
+Active Indicative,Present,3rd Person,Singular,tollat,tollet,tollit,tollit,He/she/it raise
+Active Indicative,Present,3rd Person,Plural,tollant,tollent,tolliunt,tolliunt,They raise
+Active Indicative,Imperfect,1st Person,Singular,tollabam,tollebam,tollebam,tolliebam,I was raiseing
+Active Indicative,Imperfect,1st Person,Plural,tollabamus,tollebamus,tollebamus,tolliebamus,We were raiseing
+Active Indicative,Imperfect,2nd Person,Singular,tollabas,tollebas,tollebas,tolliebas,You were raiseing
+Active Indicative,Imperfect,2nd Person,Plural,tollabatis,tollebatis,tollebatis,tolliebatis,You (pl.) were raiseing
+Active Indicative,Imperfect,3rd Person,Singular,tollabat,tollebat,tollebat,tolliebat,He/she/it was raiseing
+Active Indicative,Imperfect,3rd Person,Plural,tollabant,tollebant,tollebant,tolliebant,They were raiseing
+Active Indicative,Future,1st Person,Singular,tollabo,tollebo,tollam,tolliam,I will raise
+Active Indicative,Future,1st Person,Plural,tollabimus,tollebimus,tollemus,tolliemus,We will raise
+Active Indicative,Future,2nd Person,Singular,tollabis,tollebis,tolles,tollies,You will raise
+Active Indicative,Future,2nd Person,Plural,tollabitis,tollebitis,tolletis,tollietis,You (pl.) will raise
+Active Indicative,Future,3rd Person,Singular,tollabit,tollebit,tollet,tolliet,He/she/it will raise
+Active Indicative,Future,3rd Person,Plural,tollabunt,tollebunt,tollent,tollient,They will raise
+Active Indicative,Perfect,1st Person,Singular,tollavi,tollui,tolli,tolli,I have raiseed
+Active Indicative,Perfect,1st Person,Plural,tollavimus,tolluimus,tollimus,tollimus,We have raiseed
+Active Indicative,Perfect,2nd Person,Singular,tollavisti,tolluisti,tollisti,tollisti,You have raiseed
+Active Indicative,Perfect,2nd Person,Plural,tollavistis,tolluistis,tollistis,tollistis,You (pl.) have raiseed
+Active Indicative,Perfect,3rd Person,Singular,tollavit,tolluit,tollit,tollit,He/she/it has raiseed
+Active Indicative,Perfect,3rd Person,Plural,tollaverunt,tolluerunt,tollerunt,tollerunt,They have raiseed
+Active Indicative,Pluperfect,1st Person,Singular,tollaveram,tollueram,tolleram,tolleram,I had raiseed
+Active Indicative,Pluperfect,1st Person,Plural,tollaveramus,tollueramus,tolleramus,tolleramus,We had raiseed
+Active Indicative,Pluperfect,2nd Person,Singular,tollaveras,tollueras,tolleras,tolleras,You had raiseed
+Active Indicative,Pluperfect,2nd Person,Plural,tollaveratis,tollueratis,tolleratis,tolleratis,You (pl.) had raiseed
+Active Indicative,Pluperfect,3rd Person,Singular,tollaverat,tolluerat,tollerat,tollerat,He/she/it had raiseed
+Active Indicative,Pluperfect,3rd Person,Plural,tollaverant,tolluerant,tollerant,tollerant,They had raiseed
+Active Indicative,Future Perfect,1st Person,Singular,tollavero,tollueero,tollero,tolliero,I will have raiseed
+Active Indicative,Future Perfect,1st Person,Plural,tollaverimus,tolluerimus,tollerimus,tollierimus,We will have raiseed
+Active Indicative,Future Perfect,2nd Person,Singular,tollaveris,tollueris,tolleris,tollieris,You will have raiseed
+Active Indicative,Future Perfect,2nd Person,Plural,tollaveritis,tollueritis,tolleritis,tollieritis,You (pl.) will have raiseed
+Active Indicative,Future Perfect,3rd Person,Singular,tollaverit,tolluerit,tollerit,tollierit,He/she/it will have raiseed
+Active Indicative,Future Perfect,3rd Person,Plural,tollaverint,tolluerint,tollerint,tollierint,They will have raiseed
+Passive Indicative,Present,1st Person,Singular,tollor,tolleor,tollor,tollior,I am being raiseed
+Passive Indicative,Present,1st Person,Plural,tollamur,tollemur,tollimur,tollimur,We are being raiseed
+Passive Indicative,Present,2nd Person,Singular,tollaris,tolleris,tolliris,tolliris,You are being raiseed
+Passive Indicative,Present,2nd Person,Plural,tollamini,tollemini,tollimini,tollimini,You (pl.) are being raiseed
+Passive Indicative,Present,3rd Person,Singular,tollatur,tolletur,tollitur,tollitur,He/she/it is being raiseed
+Passive Indicative,Present,3rd Person,Plural,tollantur,tollentur,tolliuntur,tolliuntur,They are being raiseed
+Passive Indicative,Imperfect,1st Person,Singular,tollabar,tollebar,tollebar,tolliebar,I was raiseed
+Passive Indicative,Imperfect,1st Person,Plural,tollabamur,tollebamur,tollebamur,tolliebamur,We were raiseed
+Passive Indicative,Imperfect,2nd Person,Singular,tollabaris,tollebaris,tollebaris,tolliebaris,You were raiseed
+Passive Indicative,Imperfect,2nd Person,Plural,tollabamini,tollebamini,tollebamini,tolliebamini,You (pl.) were raiseed
+Passive Indicative,Imperfect,3rd Person,Singular,tollabatur,tollebatur,tollebatur,tolliebatur,He/she/it was raiseed
+Passive Indicative,Imperfect,3rd Person,Plural,tollabantur,tollebantur,tollebantur,tolliebantur,They were raiseed
+Passive Indicative,Future,1st Person,Singular,tollabor,tollebor,tollar,tolliar,I will be raiseed
+Passive Indicative,Future,1st Person,Plural,tollabimur,tollebimur,tollemur,tolliemur,We will be raiseed
+Passive Indicative,Future,2nd Person,Singular,tollaberis,tolleberis,tolleris,tollieris,You will be raiseed
+Passive Indicative,Future,2nd Person,Plural,tollabimini,tollebimini,tollemini,tolliemini,You (pl.) will be raiseed
+Passive Indicative,Future,3rd Person,Singular,tollabitur,tollebitur,tolletur,tollietur,He/she/it will be raiseed
+Passive Indicative,Future,3rd Person,Plural,tollabuntur,tollebuntur,tollentur,tollientur,They will be raiseed
+Passive Indicative,Perfect,1st Person,Singular,tollatus sum,tolletus sum,tollus sum,tollus sum,I have been raiseed
+Passive Indicative,Perfect,1st Person,Plural,tollati sumus,tolleti sumus,tolli sumus,tolli sumus,We have been raiseed
+Passive Indicative,Perfect,2nd Person,Singular,tollatus es,tolletus es,tollus es,tollus es,You have been raiseed
+Passive Indicative,Perfect,2nd Person,Plural,tollati estis,tolleti estis,tolli estis,tolli estis,You (pl.) have been raiseed
+Passive Indicative,Perfect,3rd Person,Singular,tollatus est,tolletus est,tollus est,tollus est,He/she/it has been raiseed
+Passive Indicative,Perfect,3rd Person,Plural,tollati sunt,tolleti sunt,tolli sunt,tolli sunt,They have been raiseed
+Passive Indicative,Pluperfect,1st Person,Singular,tollatus eram,tolletus eram,tollus eram,tollus eram,I had been raiseed
+Passive Indicative,Pluperfect,1st Person,Plural,tollati eramus,tolleti eramus,tolli eramus,tolli eramus,We had been raiseed
+Passive Indicative,Pluperfect,2nd Person,Singular,tollatus eras,tolletus eras,tollus eras,tollus eras,You had been raiseed
+Passive Indicative,Pluperfect,2nd Person,Plural,tollati eratis,tolleti eratis,tolli eratis,tolli eratis,You (pl.) had been raiseed
+Passive Indicative,Pluperfect,3rd Person,Singular,tollatus erat,tolletus erat,tollus erat,tollus erat,He/she/it had been raiseed
+Passive Indicative,Pluperfect,3rd Person,Plural,tollati erant,tolleti erant,tolli erant,tolli erant,They had been raiseed
+Passive Indicative,Future Perfect,1st Person,Singular,tollatus ero,tolletus ero,tollus ero,tollus ero,I will have been raiseed
+Passive Indicative,Future Perfect,1st Person,Plural,tollati erimus,tolleti erimus,tolli erimus,tolli erimus,We will have been raiseed
+Passive Indicative,Future Perfect,2nd Person,Singular,tollatus eris,tolletus eris,tollus eris,tollus eris,You will have been raiseed
+Passive Indicative,Future Perfect,2nd Person,Plural,tollati eritis,tolleti eritis,tolli eritis,tolli eritis,You (pl.) will have been raiseed
+Passive Indicative,Future Perfect,3rd Person,Singular,tollatus erit,tolletus erit,tollus erit,tollus erit,He/she/it will have been raiseed
+Passive Indicative,Future Perfect,3rd Person,Plural,tollati erunt,tolleti erunt,tolli erunt,tolli erunt,They will have been raiseed
+Active Subjunctive,Present,1st Person,Singular,tollem,tollem,tollam,tollam,I may raise
+Active Subjunctive,Present,1st Person,Plural,tollemus,tollemus,tollamus,tollamus,We may raise
+Active Subjunctive,Present,2nd Person,Singular,tolles,tolles,tollas,tollas,You may raise
+Active Subjunctive,Present,2nd Person,Plural,tolletis,tolletis,tollatis,tollatis,You (pl.) may raise
+Active Subjunctive,Present,3rd Person,Singular,tollet,tollet,tollat,tollat,He/she/it may raise
+Active Subjunctive,Present,3rd Person,Plural,tollent,tollent,tollant,tollant,They may raise
+Active Subjunctive,Imperfect,1st Person,Singular,tollarem,tollerem,tollerem,tollirem,I should raise
+Active Subjunctive,Imperfect,1st Person,Plural,tollaremus,tolleremus,tolleremus,tolliremus,We should raise
+Active Subjunctive,Imperfect,2nd Person,Singular,tollares,tolleres,tolleres,tollires,You should raise
+Active Subjunctive,Imperfect,2nd Person,Plural,tollaretis,tolleretis,tolleretis,tolliretis,You (pl.) should raise
+Active Subjunctive,Imperfect,3rd Person,Singular,tollaret,tolleret,tolleret,tolliret,He/she/it should raise
+Active Subjunctive,Imperfect,3rd Person,Plural,tollarent,tollerent,tollerent,tollirent,They should raise
+Active Subjunctive,Perfect,1st Person,Singular,tollerim,tolluerim,tollerim,tollierim,I may have raiseed
+Active Subjunctive,Perfect,1st Person,Plural,tollerimus,tolluerimus,tollerimus,tollierimus,We may have raiseed
+Active Subjunctive,Perfect,2nd Person,Singular,tolleris,tollueris,tolleris,tollieris,You may have raiseed
+Active Subjunctive,Perfect,2nd Person,Plural,tolleritis,tollueritis,tolleritis,tollieritis,You (pl.) may have raiseed
+Active Subjunctive,Perfect,3rd Person,Singular,tollerit,tolluerit,tollerit,tollierit,He/she/it may have raiseed
+Active Subjunctive,Perfect,3rd Person,Plural,tollerint,tolluerint,tollerint,tollierint,They may have raiseed
+Active Subjunctive,Pluperfect,1st Person,Singular,tollissem,tolluissem,tollissem,tollissem,I should have raiseed
+Active Subjunctive,Pluperfect,1st Person,Plural,tollissemus,tolluissemus,tollissemus,tollissemus,We should have raiseed
+Active Subjunctive,Pluperfect,2nd Person,Singular,tollisses,tolluisses,tollisses,tollisses,You would have raiseed
+Active Subjunctive,Pluperfect,2nd Person,Plural,tollissetis,tolluissetis,tollissetis,tollissetis,You (pl.) would have raiseed
+Active Subjunctive,Pluperfect,3rd Person,Singular,tollisset,tolluisset,tollisset,tollisset,He/she/it would have raiseed
+Active Subjunctive,Pluperfect,3rd Person,Plural,tollissent,tolluissent,tollissent,tollissent,They would have raiseed
+Passive Subjunctive,Present,1st Person,Singular,toller,toller,tollar,tollar,I may be raiseed
+Passive Subjunctive,Present,1st Person,Plural,tollemur,tollemur,tollamur,tollamur,We may be raiseed
+Passive Subjunctive,Present,2nd Person,Singular,tolleris,tolleris,tollaris,tollaris,You may be raiseed
+Passive Subjunctive,Present,2nd Person,Plural,tollemini,tollemini,tollamini,tollamini,You (pl.) may be raiseed
+Passive Subjunctive,Present,3rd Person,Singular,tolletur,tolletur,tollatur,tollatur,He/she/it may be raiseed
+Passive Subjunctive,Present,3rd Person,Plural,tollentur,tollentur,tollantur,tollantur,They may be raiseed
+Passive Subjunctive,Imperfect,1st Person,Singular,tollarer,tollerer,tollerer,tollirer,I should be raiseed
+Passive Subjunctive,Imperfect,1st Person,Plural,tollaremur,tolleremur,tolleremur,tolliremur,We should be raiseed
+Passive Subjunctive,Imperfect,2nd Person,Singular,tollareris,tollereris,tollereris,tollireris,You would be raiseed
+Passive Subjunctive,Imperfect,2nd Person,Plural,tollaremini,tolleremini,tolleremini,tolliremini,You (pl.) would be raiseed
+Passive Subjunctive,Imperfect,3rd Person,Singular,tollaretur,tolleretur,tolleretur,tolliretur,He/she/it would be raiseed
+Passive Subjunctive,Imperfect,3rd Person,Plural,tollarentur,tollerentur,tollerentur,tollirentur,They would be raiseed
+Passive Subjunctive,Perfect,1st Person,Singular,tollatus sim,tolletus sim,tollus sim,tollus sim,I may have been raiseed
+Passive Subjunctive,Perfect,1st Person,Plural,tollati simus,tolleti simus,tolli simus,tolli simus,We may have been raiseed
+Passive Subjunctive,Perfect,2nd Person,Singular,tollatus sis,tolletus sis,tollus sis,tollus sis,You may have been raiseed
+Passive Subjunctive,Perfect,2nd Person,Plural,tollati sitis,tolleti sitis,tolli sitis,tolli sitis,You (pl.) may have been raiseed
+Passive Subjunctive,Perfect,3rd Person,Singular,tollatus sit,tolletus sit,tollus sit,tollus sit,He/she/it may have been raiseed
+Passive Subjunctive,Perfect,3rd Person,Plural,tollati sint,tolleti sint,tolli sint,tolli sint,They may have been raiseed
+Passive Subjunctive,Pluperfect,1st Person,Singular,tollatus essem,tolletus essem,tollus essem,tollus essem,I should have been raiseed
+Passive Subjunctive,Pluperfect,1st Person,Plural,tollati essemus,tolleti essemus,tolli essemus,tolli essemus,We should have been raiseed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,tollatus esses,tolletus esses,tollus esses,tollus esses,You would have been raiseed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,tollati essetis,tolleti essetis,tolli essetis,tolli essetis,You (pl.) would have been raiseed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,tollatus esset,tolletus esset,tollus esset,tollus esset,He/she/it would have been raiseed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,tollati essent,tolleti essent,tolli essent,tolli essent,They would have been raiseed

@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,inclavo,inclaveo,inclavo,inclavio,I lock
+Active Indicative,Present,1st Person,Plural,inclavamus,inclavemus,inclavimus,inclavimus,We lock
+Active Indicative,Present,2nd Person,Singular,inclavas,inclaves,inclavis,inclavis,You lock
+Active Indicative,Present,2nd Person,Plural,inclavatis,inclavetis,inclavitis,inclavitis,You (pl.) lock
+Active Indicative,Present,3rd Person,Singular,inclavat,inclavet,inclavit,inclavit,He/she/it lock
+Active Indicative,Present,3rd Person,Plural,inclavant,inclavent,inclaviunt,inclaviunt,They lock
+Active Indicative,Imperfect,1st Person,Singular,inclavabam,inclavebam,inclavebam,inclaviebam,I was locking
+Active Indicative,Imperfect,1st Person,Plural,inclavabamus,inclavebamus,inclavebamus,inclaviebamus,We were locking
+Active Indicative,Imperfect,2nd Person,Singular,inclavabas,inclavebas,inclavebas,inclaviebas,You were locking
+Active Indicative,Imperfect,2nd Person,Plural,inclavabatis,inclavebatis,inclavebatis,inclaviebatis,You (pl.) were locking
+Active Indicative,Imperfect,3rd Person,Singular,inclavabat,inclavebat,inclavebat,inclaviebat,He/she/it was locking
+Active Indicative,Imperfect,3rd Person,Plural,inclavabant,inclavebant,inclavebant,inclaviebant,They were locking
+Active Indicative,Future,1st Person,Singular,inclavabo,inclavebo,inclavam,inclaviam,I will lock
+Active Indicative,Future,1st Person,Plural,inclavabimus,inclavebimus,inclavemus,inclaviemus,We will lock
+Active Indicative,Future,2nd Person,Singular,inclavabis,inclavebis,inclaves,inclavies,You will lock
+Active Indicative,Future,2nd Person,Plural,inclavabitis,inclavebitis,inclavetis,inclavietis,You (pl.) will lock
+Active Indicative,Future,3rd Person,Singular,inclavabit,inclavebit,inclavet,inclaviet,He/she/it will lock
+Active Indicative,Future,3rd Person,Plural,inclavabunt,inclavebunt,inclavent,inclavient,They will lock
+Active Indicative,Perfect,1st Person,Singular,inclavavi,inclavui,inclavi,inclavi,I have locked
+Active Indicative,Perfect,1st Person,Plural,inclavavimus,inclavuimus,inclavimus,inclavimus,We have locked
+Active Indicative,Perfect,2nd Person,Singular,inclavavisti,inclavuisti,inclavisti,inclavisti,You have locked
+Active Indicative,Perfect,2nd Person,Plural,inclavavistis,inclavuistis,inclavistis,inclavistis,You (pl.) have locked
+Active Indicative,Perfect,3rd Person,Singular,inclavavit,inclavuit,inclavit,inclavit,He/she/it has locked
+Active Indicative,Perfect,3rd Person,Plural,inclavaverunt,inclavuerunt,inclaverunt,inclaverunt,They have locked
+Active Indicative,Pluperfect,1st Person,Singular,inclavaveram,inclavueram,inclaveram,inclaveram,I had locked
+Active Indicative,Pluperfect,1st Person,Plural,inclavaveramus,inclavueramus,inclaveramus,inclaveramus,We had locked
+Active Indicative,Pluperfect,2nd Person,Singular,inclavaveras,inclavueras,inclaveras,inclaveras,You had locked
+Active Indicative,Pluperfect,2nd Person,Plural,inclavaveratis,inclavueratis,inclaveratis,inclaveratis,You (pl.) had locked
+Active Indicative,Pluperfect,3rd Person,Singular,inclavaverat,inclavuerat,inclaverat,inclaverat,He/she/it had locked
+Active Indicative,Pluperfect,3rd Person,Plural,inclavaverant,inclavuerant,inclaverant,inclaverant,They had locked
+Active Indicative,Future Perfect,1st Person,Singular,inclavavero,inclavueero,inclavero,inclaviero,I will have locked
+Active Indicative,Future Perfect,1st Person,Plural,inclavaverimus,inclavuerimus,inclaverimus,inclavierimus,We will have locked
+Active Indicative,Future Perfect,2nd Person,Singular,inclavaveris,inclavueris,inclaveris,inclavieris,You will have locked
+Active Indicative,Future Perfect,2nd Person,Plural,inclavaveritis,inclavueritis,inclaveritis,inclavieritis,You (pl.) will have locked
+Active Indicative,Future Perfect,3rd Person,Singular,inclavaverit,inclavuerit,inclaverit,inclavierit,He/she/it will have locked
+Active Indicative,Future Perfect,3rd Person,Plural,inclavaverint,inclavuerint,inclaverint,inclavierint,They will have locked
+Passive Indicative,Present,1st Person,Singular,inclavor,inclaveor,inclavor,inclavior,I am being locked
+Passive Indicative,Present,1st Person,Plural,inclavamur,inclavemur,inclavimur,inclavimur,We are being locked
+Passive Indicative,Present,2nd Person,Singular,inclavaris,inclaveris,inclaviris,inclaviris,You are being locked
+Passive Indicative,Present,2nd Person,Plural,inclavamini,inclavemini,inclavimini,inclavimini,You (pl.) are being locked
+Passive Indicative,Present,3rd Person,Singular,inclavatur,inclavetur,inclavitur,inclavitur,He/she/it is being locked
+Passive Indicative,Present,3rd Person,Plural,inclavantur,inclaventur,inclaviuntur,inclaviuntur,They are being locked
+Passive Indicative,Imperfect,1st Person,Singular,inclavabar,inclavebar,inclavebar,inclaviebar,I was locked
+Passive Indicative,Imperfect,1st Person,Plural,inclavabamur,inclavebamur,inclavebamur,inclaviebamur,We were locked
+Passive Indicative,Imperfect,2nd Person,Singular,inclavabaris,inclavebaris,inclavebaris,inclaviebaris,You were locked
+Passive Indicative,Imperfect,2nd Person,Plural,inclavabamini,inclavebamini,inclavebamini,inclaviebamini,You (pl.) were locked
+Passive Indicative,Imperfect,3rd Person,Singular,inclavabatur,inclavebatur,inclavebatur,inclaviebatur,He/she/it was locked
+Passive Indicative,Imperfect,3rd Person,Plural,inclavabantur,inclavebantur,inclavebantur,inclaviebantur,They were locked
+Passive Indicative,Future,1st Person,Singular,inclavabor,inclavebor,inclavar,inclaviar,I will be locked
+Passive Indicative,Future,1st Person,Plural,inclavabimur,inclavebimur,inclavemur,inclaviemur,We will be locked
+Passive Indicative,Future,2nd Person,Singular,inclavaberis,inclaveberis,inclaveris,inclavieris,You will be locked
+Passive Indicative,Future,2nd Person,Plural,inclavabimini,inclavebimini,inclavemini,inclaviemini,You (pl.) will be locked
+Passive Indicative,Future,3rd Person,Singular,inclavabitur,inclavebitur,inclavetur,inclavietur,He/she/it will be locked
+Passive Indicative,Future,3rd Person,Plural,inclavabuntur,inclavebuntur,inclaventur,inclavientur,They will be locked
+Passive Indicative,Perfect,1st Person,Singular,inclavatus sum,inclavetus sum,inclavus sum,inclavus sum,I have been locked
+Passive Indicative,Perfect,1st Person,Plural,inclavati sumus,inclaveti sumus,inclavi sumus,inclavi sumus,We have been locked
+Passive Indicative,Perfect,2nd Person,Singular,inclavatus es,inclavetus es,inclavus es,inclavus es,You have been locked
+Passive Indicative,Perfect,2nd Person,Plural,inclavati estis,inclaveti estis,inclavi estis,inclavi estis,You (pl.) have been locked
+Passive Indicative,Perfect,3rd Person,Singular,inclavatus est,inclavetus est,inclavus est,inclavus est,He/she/it has been locked
+Passive Indicative,Perfect,3rd Person,Plural,inclavati sunt,inclaveti sunt,inclavi sunt,inclavi sunt,They have been locked
+Passive Indicative,Pluperfect,1st Person,Singular,inclavatus eram,inclavetus eram,inclavus eram,inclavus eram,I had been locked
+Passive Indicative,Pluperfect,1st Person,Plural,inclavati eramus,inclaveti eramus,inclavi eramus,inclavi eramus,We had been locked
+Passive Indicative,Pluperfect,2nd Person,Singular,inclavatus eras,inclavetus eras,inclavus eras,inclavus eras,You had been locked
+Passive Indicative,Pluperfect,2nd Person,Plural,inclavati eratis,inclaveti eratis,inclavi eratis,inclavi eratis,You (pl.) had been locked
+Passive Indicative,Pluperfect,3rd Person,Singular,inclavatus erat,inclavetus erat,inclavus erat,inclavus erat,He/she/it had been locked
+Passive Indicative,Pluperfect,3rd Person,Plural,inclavati erant,inclaveti erant,inclavi erant,inclavi erant,They had been locked
+Passive Indicative,Future Perfect,1st Person,Singular,inclavatus ero,inclavetus ero,inclavus ero,inclavus ero,I will have been locked
+Passive Indicative,Future Perfect,1st Person,Plural,inclavati erimus,inclaveti erimus,inclavi erimus,inclavi erimus,We will have been locked
+Passive Indicative,Future Perfect,2nd Person,Singular,inclavatus eris,inclavetus eris,inclavus eris,inclavus eris,You will have been locked
+Passive Indicative,Future Perfect,2nd Person,Plural,inclavati eritis,inclaveti eritis,inclavi eritis,inclavi eritis,You (pl.) will have been locked
+Passive Indicative,Future Perfect,3rd Person,Singular,inclavatus erit,inclavetus erit,inclavus erit,inclavus erit,He/she/it will have been locked
+Passive Indicative,Future Perfect,3rd Person,Plural,inclavati erunt,inclaveti erunt,inclavi erunt,inclavi erunt,They will have been locked
+Active Subjunctive,Present,1st Person,Singular,inclavem,inclavem,inclavam,inclavam,I may lock
+Active Subjunctive,Present,1st Person,Plural,inclavemus,inclavemus,inclavamus,inclavamus,We may lock
+Active Subjunctive,Present,2nd Person,Singular,inclaves,inclaves,inclavas,inclavas,You may lock
+Active Subjunctive,Present,2nd Person,Plural,inclavetis,inclavetis,inclavatis,inclavatis,You (pl.) may lock
+Active Subjunctive,Present,3rd Person,Singular,inclavet,inclavet,inclavat,inclavat,He/she/it may lock
+Active Subjunctive,Present,3rd Person,Plural,inclavent,inclavent,inclavant,inclavant,They may lock
+Active Subjunctive,Imperfect,1st Person,Singular,inclavarem,inclaverem,inclaverem,inclavirem,I should lock
+Active Subjunctive,Imperfect,1st Person,Plural,inclavaremus,inclaveremus,inclaveremus,inclaviremus,We should lock
+Active Subjunctive,Imperfect,2nd Person,Singular,inclavares,inclaveres,inclaveres,inclavires,You should lock
+Active Subjunctive,Imperfect,2nd Person,Plural,inclavaretis,inclaveretis,inclaveretis,inclaviretis,You (pl.) should lock
+Active Subjunctive,Imperfect,3rd Person,Singular,inclavaret,inclaveret,inclaveret,inclaviret,He/she/it should lock
+Active Subjunctive,Imperfect,3rd Person,Plural,inclavarent,inclaverent,inclaverent,inclavirent,They should lock
+Active Subjunctive,Perfect,1st Person,Singular,inclaverim,inclavuerim,inclaverim,inclavierim,I may have locked
+Active Subjunctive,Perfect,1st Person,Plural,inclaverimus,inclavuerimus,inclaverimus,inclavierimus,We may have locked
+Active Subjunctive,Perfect,2nd Person,Singular,inclaveris,inclavueris,inclaveris,inclavieris,You may have locked
+Active Subjunctive,Perfect,2nd Person,Plural,inclaveritis,inclavueritis,inclaveritis,inclavieritis,You (pl.) may have locked
+Active Subjunctive,Perfect,3rd Person,Singular,inclaverit,inclavuerit,inclaverit,inclavierit,He/she/it may have locked
+Active Subjunctive,Perfect,3rd Person,Plural,inclaverint,inclavuerint,inclaverint,inclavierint,They may have locked
+Active Subjunctive,Pluperfect,1st Person,Singular,inclavissem,inclavuissem,inclavissem,inclavissem,I should have locked
+Active Subjunctive,Pluperfect,1st Person,Plural,inclavissemus,inclavuissemus,inclavissemus,inclavissemus,We should have locked
+Active Subjunctive,Pluperfect,2nd Person,Singular,inclavisses,inclavuisses,inclavisses,inclavisses,You would have locked
+Active Subjunctive,Pluperfect,2nd Person,Plural,inclavissetis,inclavuissetis,inclavissetis,inclavissetis,You (pl.) would have locked
+Active Subjunctive,Pluperfect,3rd Person,Singular,inclavisset,inclavuisset,inclavisset,inclavisset,He/she/it would have locked
+Active Subjunctive,Pluperfect,3rd Person,Plural,inclavissent,inclavuissent,inclavissent,inclavissent,They would have locked
+Passive Subjunctive,Present,1st Person,Singular,inclaver,inclaver,inclavar,inclavar,I may be locked
+Passive Subjunctive,Present,1st Person,Plural,inclavemur,inclavemur,inclavamur,inclavamur,We may be locked
+Passive Subjunctive,Present,2nd Person,Singular,inclaveris,inclaveris,inclavaris,inclavaris,You may be locked
+Passive Subjunctive,Present,2nd Person,Plural,inclavemini,inclavemini,inclavamini,inclavamini,You (pl.) may be locked
+Passive Subjunctive,Present,3rd Person,Singular,inclavetur,inclavetur,inclavatur,inclavatur,He/she/it may be locked
+Passive Subjunctive,Present,3rd Person,Plural,inclaventur,inclaventur,inclavantur,inclavantur,They may be locked
+Passive Subjunctive,Imperfect,1st Person,Singular,inclavarer,inclaverer,inclaverer,inclavirer,I should be locked
+Passive Subjunctive,Imperfect,1st Person,Plural,inclavaremur,inclaveremur,inclaveremur,inclaviremur,We should be locked
+Passive Subjunctive,Imperfect,2nd Person,Singular,inclavareris,inclavereris,inclavereris,inclavireris,You would be locked
+Passive Subjunctive,Imperfect,2nd Person,Plural,inclavaremini,inclaveremini,inclaveremini,inclaviremini,You (pl.) would be locked
+Passive Subjunctive,Imperfect,3rd Person,Singular,inclavaretur,inclaveretur,inclaveretur,inclaviretur,He/she/it would be locked
+Passive Subjunctive,Imperfect,3rd Person,Plural,inclavarentur,inclaverentur,inclaverentur,inclavirentur,They would be locked
+Passive Subjunctive,Perfect,1st Person,Singular,inclavatus sim,inclavetus sim,inclavus sim,inclavus sim,I may have been locked
+Passive Subjunctive,Perfect,1st Person,Plural,inclavati simus,inclaveti simus,inclavi simus,inclavi simus,We may have been locked
+Passive Subjunctive,Perfect,2nd Person,Singular,inclavatus sis,inclavetus sis,inclavus sis,inclavus sis,You may have been locked
+Passive Subjunctive,Perfect,2nd Person,Plural,inclavati sitis,inclaveti sitis,inclavi sitis,inclavi sitis,You (pl.) may have been locked
+Passive Subjunctive,Perfect,3rd Person,Singular,inclavatus sit,inclavetus sit,inclavus sit,inclavus sit,He/she/it may have been locked
+Passive Subjunctive,Perfect,3rd Person,Plural,inclavati sint,inclaveti sint,inclavi sint,inclavi sint,They may have been locked
+Passive Subjunctive,Pluperfect,1st Person,Singular,inclavatus essem,inclavetus essem,inclavus essem,inclavus essem,I should have been locked
+Passive Subjunctive,Pluperfect,1st Person,Plural,inclavati essemus,inclaveti essemus,inclavi essemus,inclavi essemus,We should have been locked
+Passive Subjunctive,Pluperfect,2nd Person,Singular,inclavatus esses,inclavetus esses,inclavus esses,inclavus esses,You would have been locked
+Passive Subjunctive,Pluperfect,2nd Person,Plural,inclavati essetis,inclaveti essetis,inclavi essetis,inclavi essetis,You (pl.) would have been locked
+Passive Subjunctive,Pluperfect,3rd Person,Singular,inclavatus esset,inclavetus esset,inclavus esset,inclavus esset,He/she/it would have been locked
+Passive Subjunctive,Pluperfect,3rd Person,Plural,inclavati essent,inclaveti essent,inclavi essent,inclavi essent,They would have been locked

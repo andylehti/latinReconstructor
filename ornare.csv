@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,orno,orneo,orno,ornio,I embellish
+Active Indicative,Present,1st Person,Plural,ornamus,ornemus,ornimus,ornimus,We embellish
+Active Indicative,Present,2nd Person,Singular,ornas,ornes,ornis,ornis,You embellish
+Active Indicative,Present,2nd Person,Plural,ornatis,ornetis,ornitis,ornitis,You (pl.) embellish
+Active Indicative,Present,3rd Person,Singular,ornat,ornet,ornit,ornit,He/she/it embellish
+Active Indicative,Present,3rd Person,Plural,ornant,ornent,orniunt,orniunt,They embellish
+Active Indicative,Imperfect,1st Person,Singular,ornabam,ornebam,ornebam,orniebam,I was embellishing
+Active Indicative,Imperfect,1st Person,Plural,ornabamus,ornebamus,ornebamus,orniebamus,We were embellishing
+Active Indicative,Imperfect,2nd Person,Singular,ornabas,ornebas,ornebas,orniebas,You were embellishing
+Active Indicative,Imperfect,2nd Person,Plural,ornabatis,ornebatis,ornebatis,orniebatis,You (pl.) were embellishing
+Active Indicative,Imperfect,3rd Person,Singular,ornabat,ornebat,ornebat,orniebat,He/she/it was embellishing
+Active Indicative,Imperfect,3rd Person,Plural,ornabant,ornebant,ornebant,orniebant,They were embellishing
+Active Indicative,Future,1st Person,Singular,ornabo,ornebo,ornam,orniam,I will embellish
+Active Indicative,Future,1st Person,Plural,ornabimus,ornebimus,ornemus,orniemus,We will embellish
+Active Indicative,Future,2nd Person,Singular,ornabis,ornebis,ornes,ornies,You will embellish
+Active Indicative,Future,2nd Person,Plural,ornabitis,ornebitis,ornetis,ornietis,You (pl.) will embellish
+Active Indicative,Future,3rd Person,Singular,ornabit,ornebit,ornet,orniet,He/she/it will embellish
+Active Indicative,Future,3rd Person,Plural,ornabunt,ornebunt,ornent,ornient,They will embellish
+Active Indicative,Perfect,1st Person,Singular,ornavi,ornui,orni,orni,I have embellished
+Active Indicative,Perfect,1st Person,Plural,ornavimus,ornuimus,ornimus,ornimus,We have embellished
+Active Indicative,Perfect,2nd Person,Singular,ornavisti,ornuisti,ornisti,ornisti,You have embellished
+Active Indicative,Perfect,2nd Person,Plural,ornavistis,ornuistis,ornistis,ornistis,You (pl.) have embellished
+Active Indicative,Perfect,3rd Person,Singular,ornavit,ornuit,ornit,ornit,He/she/it has embellished
+Active Indicative,Perfect,3rd Person,Plural,ornaverunt,ornuerunt,ornerunt,ornerunt,They have embellished
+Active Indicative,Pluperfect,1st Person,Singular,ornaveram,ornueram,orneram,orneram,I had embellished
+Active Indicative,Pluperfect,1st Person,Plural,ornaveramus,ornueramus,orneramus,orneramus,We had embellished
+Active Indicative,Pluperfect,2nd Person,Singular,ornaveras,ornueras,orneras,orneras,You had embellished
+Active Indicative,Pluperfect,2nd Person,Plural,ornaveratis,ornueratis,orneratis,orneratis,You (pl.) had embellished
+Active Indicative,Pluperfect,3rd Person,Singular,ornaverat,ornuerat,ornerat,ornerat,He/she/it had embellished
+Active Indicative,Pluperfect,3rd Person,Plural,ornaverant,ornuerant,ornerant,ornerant,They had embellished
+Active Indicative,Future Perfect,1st Person,Singular,ornavero,ornueero,ornero,orniero,I will have embellished
+Active Indicative,Future Perfect,1st Person,Plural,ornaverimus,ornuerimus,ornerimus,ornierimus,We will have embellished
+Active Indicative,Future Perfect,2nd Person,Singular,ornaveris,ornueris,orneris,ornieris,You will have embellished
+Active Indicative,Future Perfect,2nd Person,Plural,ornaveritis,ornueritis,orneritis,ornieritis,You (pl.) will have embellished
+Active Indicative,Future Perfect,3rd Person,Singular,ornaverit,ornuerit,ornerit,ornierit,He/she/it will have embellished
+Active Indicative,Future Perfect,3rd Person,Plural,ornaverint,ornuerint,ornerint,ornierint,They will have embellished
+Passive Indicative,Present,1st Person,Singular,ornor,orneor,ornor,ornior,I am being embellished
+Passive Indicative,Present,1st Person,Plural,ornamur,ornemur,ornimur,ornimur,We are being embellished
+Passive Indicative,Present,2nd Person,Singular,ornaris,orneris,orniris,orniris,You are being embellished
+Passive Indicative,Present,2nd Person,Plural,ornamini,ornemini,ornimini,ornimini,You (pl.) are being embellished
+Passive Indicative,Present,3rd Person,Singular,ornatur,ornetur,ornitur,ornitur,He/she/it is being embellished
+Passive Indicative,Present,3rd Person,Plural,ornantur,ornentur,orniuntur,orniuntur,They are being embellished
+Passive Indicative,Imperfect,1st Person,Singular,ornabar,ornebar,ornebar,orniebar,I was embellished
+Passive Indicative,Imperfect,1st Person,Plural,ornabamur,ornebamur,ornebamur,orniebamur,We were embellished
+Passive Indicative,Imperfect,2nd Person,Singular,ornabaris,ornebaris,ornebaris,orniebaris,You were embellished
+Passive Indicative,Imperfect,2nd Person,Plural,ornabamini,ornebamini,ornebamini,orniebamini,You (pl.) were embellished
+Passive Indicative,Imperfect,3rd Person,Singular,ornabatur,ornebatur,ornebatur,orniebatur,He/she/it was embellished
+Passive Indicative,Imperfect,3rd Person,Plural,ornabantur,ornebantur,ornebantur,orniebantur,They were embellished
+Passive Indicative,Future,1st Person,Singular,ornabor,ornebor,ornar,orniar,I will be embellished
+Passive Indicative,Future,1st Person,Plural,ornabimur,ornebimur,ornemur,orniemur,We will be embellished
+Passive Indicative,Future,2nd Person,Singular,ornaberis,orneberis,orneris,ornieris,You will be embellished
+Passive Indicative,Future,2nd Person,Plural,ornabimini,ornebimini,ornemini,orniemini,You (pl.) will be embellished
+Passive Indicative,Future,3rd Person,Singular,ornabitur,ornebitur,ornetur,ornietur,He/she/it will be embellished
+Passive Indicative,Future,3rd Person,Plural,ornabuntur,ornebuntur,ornentur,ornientur,They will be embellished
+Passive Indicative,Perfect,1st Person,Singular,ornatus sum,ornetus sum,ornus sum,ornus sum,I have been embellished
+Passive Indicative,Perfect,1st Person,Plural,ornati sumus,orneti sumus,orni sumus,orni sumus,We have been embellished
+Passive Indicative,Perfect,2nd Person,Singular,ornatus es,ornetus es,ornus es,ornus es,You have been embellished
+Passive Indicative,Perfect,2nd Person,Plural,ornati estis,orneti estis,orni estis,orni estis,You (pl.) have been embellished
+Passive Indicative,Perfect,3rd Person,Singular,ornatus est,ornetus est,ornus est,ornus est,He/she/it has been embellished
+Passive Indicative,Perfect,3rd Person,Plural,ornati sunt,orneti sunt,orni sunt,orni sunt,They have been embellished
+Passive Indicative,Pluperfect,1st Person,Singular,ornatus eram,ornetus eram,ornus eram,ornus eram,I had been embellished
+Passive Indicative,Pluperfect,1st Person,Plural,ornati eramus,orneti eramus,orni eramus,orni eramus,We had been embellished
+Passive Indicative,Pluperfect,2nd Person,Singular,ornatus eras,ornetus eras,ornus eras,ornus eras,You had been embellished
+Passive Indicative,Pluperfect,2nd Person,Plural,ornati eratis,orneti eratis,orni eratis,orni eratis,You (pl.) had been embellished
+Passive Indicative,Pluperfect,3rd Person,Singular,ornatus erat,ornetus erat,ornus erat,ornus erat,He/she/it had been embellished
+Passive Indicative,Pluperfect,3rd Person,Plural,ornati erant,orneti erant,orni erant,orni erant,They had been embellished
+Passive Indicative,Future Perfect,1st Person,Singular,ornatus ero,ornetus ero,ornus ero,ornus ero,I will have been embellished
+Passive Indicative,Future Perfect,1st Person,Plural,ornati erimus,orneti erimus,orni erimus,orni erimus,We will have been embellished
+Passive Indicative,Future Perfect,2nd Person,Singular,ornatus eris,ornetus eris,ornus eris,ornus eris,You will have been embellished
+Passive Indicative,Future Perfect,2nd Person,Plural,ornati eritis,orneti eritis,orni eritis,orni eritis,You (pl.) will have been embellished
+Passive Indicative,Future Perfect,3rd Person,Singular,ornatus erit,ornetus erit,ornus erit,ornus erit,He/she/it will have been embellished
+Passive Indicative,Future Perfect,3rd Person,Plural,ornati erunt,orneti erunt,orni erunt,orni erunt,They will have been embellished
+Active Subjunctive,Present,1st Person,Singular,ornem,ornem,ornam,ornam,I may embellish
+Active Subjunctive,Present,1st Person,Plural,ornemus,ornemus,ornamus,ornamus,We may embellish
+Active Subjunctive,Present,2nd Person,Singular,ornes,ornes,ornas,ornas,You may embellish
+Active Subjunctive,Present,2nd Person,Plural,ornetis,ornetis,ornatis,ornatis,You (pl.) may embellish
+Active Subjunctive,Present,3rd Person,Singular,ornet,ornet,ornat,ornat,He/she/it may embellish
+Active Subjunctive,Present,3rd Person,Plural,ornent,ornent,ornant,ornant,They may embellish
+Active Subjunctive,Imperfect,1st Person,Singular,ornarem,ornerem,ornerem,ornirem,I should embellish
+Active Subjunctive,Imperfect,1st Person,Plural,ornaremus,orneremus,orneremus,orniremus,We should embellish
+Active Subjunctive,Imperfect,2nd Person,Singular,ornares,orneres,orneres,ornires,You should embellish
+Active Subjunctive,Imperfect,2nd Person,Plural,ornaretis,orneretis,orneretis,orniretis,You (pl.) should embellish
+Active Subjunctive,Imperfect,3rd Person,Singular,ornaret,orneret,orneret,orniret,He/she/it should embellish
+Active Subjunctive,Imperfect,3rd Person,Plural,ornarent,ornerent,ornerent,ornirent,They should embellish
+Active Subjunctive,Perfect,1st Person,Singular,ornerim,ornuerim,ornerim,ornierim,I may have embellished
+Active Subjunctive,Perfect,1st Person,Plural,ornerimus,ornuerimus,ornerimus,ornierimus,We may have embellished
+Active Subjunctive,Perfect,2nd Person,Singular,orneris,ornueris,orneris,ornieris,You may have embellished
+Active Subjunctive,Perfect,2nd Person,Plural,orneritis,ornueritis,orneritis,ornieritis,You (pl.) may have embellished
+Active Subjunctive,Perfect,3rd Person,Singular,ornerit,ornuerit,ornerit,ornierit,He/she/it may have embellished
+Active Subjunctive,Perfect,3rd Person,Plural,ornerint,ornuerint,ornerint,ornierint,They may have embellished
+Active Subjunctive,Pluperfect,1st Person,Singular,ornissem,ornuissem,ornissem,ornissem,I should have embellished
+Active Subjunctive,Pluperfect,1st Person,Plural,ornissemus,ornuissemus,ornissemus,ornissemus,We should have embellished
+Active Subjunctive,Pluperfect,2nd Person,Singular,ornisses,ornuisses,ornisses,ornisses,You would have embellished
+Active Subjunctive,Pluperfect,2nd Person,Plural,ornissetis,ornuissetis,ornissetis,ornissetis,You (pl.) would have embellished
+Active Subjunctive,Pluperfect,3rd Person,Singular,ornisset,ornuisset,ornisset,ornisset,He/she/it would have embellished
+Active Subjunctive,Pluperfect,3rd Person,Plural,ornissent,ornuissent,ornissent,ornissent,They would have embellished
+Passive Subjunctive,Present,1st Person,Singular,orner,orner,ornar,ornar,I may be embellished
+Passive Subjunctive,Present,1st Person,Plural,ornemur,ornemur,ornamur,ornamur,We may be embellished
+Passive Subjunctive,Present,2nd Person,Singular,orneris,orneris,ornaris,ornaris,You may be embellished
+Passive Subjunctive,Present,2nd Person,Plural,ornemini,ornemini,ornamini,ornamini,You (pl.) may be embellished
+Passive Subjunctive,Present,3rd Person,Singular,ornetur,ornetur,ornatur,ornatur,He/she/it may be embellished
+Passive Subjunctive,Present,3rd Person,Plural,ornentur,ornentur,ornantur,ornantur,They may be embellished
+Passive Subjunctive,Imperfect,1st Person,Singular,ornarer,ornerer,ornerer,ornirer,I should be embellished
+Passive Subjunctive,Imperfect,1st Person,Plural,ornaremur,orneremur,orneremur,orniremur,We should be embellished
+Passive Subjunctive,Imperfect,2nd Person,Singular,ornareris,ornereris,ornereris,ornireris,You would be embellished
+Passive Subjunctive,Imperfect,2nd Person,Plural,ornaremini,orneremini,orneremini,orniremini,You (pl.) would be embellished
+Passive Subjunctive,Imperfect,3rd Person,Singular,ornaretur,orneretur,orneretur,orniretur,He/she/it would be embellished
+Passive Subjunctive,Imperfect,3rd Person,Plural,ornarentur,ornerentur,ornerentur,ornirentur,They would be embellished
+Passive Subjunctive,Perfect,1st Person,Singular,ornatus sim,ornetus sim,ornus sim,ornus sim,I may have been embellished
+Passive Subjunctive,Perfect,1st Person,Plural,ornati simus,orneti simus,orni simus,orni simus,We may have been embellished
+Passive Subjunctive,Perfect,2nd Person,Singular,ornatus sis,ornetus sis,ornus sis,ornus sis,You may have been embellished
+Passive Subjunctive,Perfect,2nd Person,Plural,ornati sitis,orneti sitis,orni sitis,orni sitis,You (pl.) may have been embellished
+Passive Subjunctive,Perfect,3rd Person,Singular,ornatus sit,ornetus sit,ornus sit,ornus sit,He/she/it may have been embellished
+Passive Subjunctive,Perfect,3rd Person,Plural,ornati sint,orneti sint,orni sint,orni sint,They may have been embellished
+Passive Subjunctive,Pluperfect,1st Person,Singular,ornatus essem,ornetus essem,ornus essem,ornus essem,I should have been embellished
+Passive Subjunctive,Pluperfect,1st Person,Plural,ornati essemus,orneti essemus,orni essemus,orni essemus,We should have been embellished
+Passive Subjunctive,Pluperfect,2nd Person,Singular,ornatus esses,ornetus esses,ornus esses,ornus esses,You would have been embellished
+Passive Subjunctive,Pluperfect,2nd Person,Plural,ornati essetis,orneti essetis,orni essetis,orni essetis,You (pl.) would have been embellished
+Passive Subjunctive,Pluperfect,3rd Person,Singular,ornatus esset,ornetus esset,ornus esset,ornus esset,He/she/it would have been embellished
+Passive Subjunctive,Pluperfect,3rd Person,Plural,ornati essent,orneti essent,orni essent,orni essent,They would have been embellished

@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,tripalio,tripalieo,tripalio,tripalio,I torture
+Active Indicative,Present,1st Person,Plural,tripaliamus,tripaliemus,tripalimus,tripalimus,We torture
+Active Indicative,Present,2nd Person,Singular,tripalias,tripalies,tripalis,tripalis,You torture
+Active Indicative,Present,2nd Person,Plural,tripaliatis,tripalietis,tripalitis,tripalitis,You (pl.) torture
+Active Indicative,Present,3rd Person,Singular,tripaliat,tripaliet,tripalit,tripalit,He/she/it torture
+Active Indicative,Present,3rd Person,Plural,tripaliant,tripalient,tripaliunt,tripaliunt,They torture
+Active Indicative,Imperfect,1st Person,Singular,tripaliabam,tripaliebam,tripaliebam,tripaliebam,I was tortureing
+Active Indicative,Imperfect,1st Person,Plural,tripaliabamus,tripaliebamus,tripaliebamus,tripaliebamus,We were tortureing
+Active Indicative,Imperfect,2nd Person,Singular,tripaliabas,tripaliebas,tripaliebas,tripaliebas,You were tortureing
+Active Indicative,Imperfect,2nd Person,Plural,tripaliabatis,tripaliebatis,tripaliebatis,tripaliebatis,You (pl.) were tortureing
+Active Indicative,Imperfect,3rd Person,Singular,tripaliabat,tripaliebat,tripaliebat,tripaliebat,He/she/it was tortureing
+Active Indicative,Imperfect,3rd Person,Plural,tripaliabant,tripaliebant,tripaliebant,tripaliebant,They were tortureing
+Active Indicative,Future,1st Person,Singular,tripaliabo,tripaliebo,tripaliam,tripaliam,I will torture
+Active Indicative,Future,1st Person,Plural,tripaliabimus,tripaliebimus,tripaliemus,tripaliemus,We will torture
+Active Indicative,Future,2nd Person,Singular,tripaliabis,tripaliebis,tripalies,tripalies,You will torture
+Active Indicative,Future,2nd Person,Plural,tripaliabitis,tripaliebitis,tripalietis,tripalietis,You (pl.) will torture
+Active Indicative,Future,3rd Person,Singular,tripaliabit,tripaliebit,tripaliet,tripaliet,He/she/it will torture
+Active Indicative,Future,3rd Person,Plural,tripaliabunt,tripaliebunt,tripalient,tripalient,They will torture
+Active Indicative,Perfect,1st Person,Singular,tripaliavi,tripaliui,tripali,tripali,I have tortureed
+Active Indicative,Perfect,1st Person,Plural,tripaliavimus,tripaliuimus,tripalimus,tripalimus,We have tortureed
+Active Indicative,Perfect,2nd Person,Singular,tripaliavisti,tripaliuisti,tripalisti,tripalisti,You have tortureed
+Active Indicative,Perfect,2nd Person,Plural,tripaliavistis,tripaliuistis,tripalistis,tripalistis,You (pl.) have tortureed
+Active Indicative,Perfect,3rd Person,Singular,tripaliavit,tripaliuit,tripalit,tripalit,He/she/it has tortureed
+Active Indicative,Perfect,3rd Person,Plural,tripaliaverunt,tripaliuerunt,tripalierunt,tripalierunt,They have tortureed
+Active Indicative,Pluperfect,1st Person,Singular,tripaliaveram,tripaliueram,tripalieram,tripalieram,I had tortureed
+Active Indicative,Pluperfect,1st Person,Plural,tripaliaveramus,tripaliueramus,tripalieramus,tripalieramus,We had tortureed
+Active Indicative,Pluperfect,2nd Person,Singular,tripaliaveras,tripaliueras,tripalieras,tripalieras,You had tortureed
+Active Indicative,Pluperfect,2nd Person,Plural,tripaliaveratis,tripaliueratis,tripalieratis,tripalieratis,You (pl.) had tortureed
+Active Indicative,Pluperfect,3rd Person,Singular,tripaliaverat,tripaliuerat,tripalierat,tripalierat,He/she/it had tortureed
+Active Indicative,Pluperfect,3rd Person,Plural,tripaliaverant,tripaliuerant,tripalierant,tripalierant,They had tortureed
+Active Indicative,Future Perfect,1st Person,Singular,tripaliavero,tripaliueero,tripaliero,tripaliero,I will have tortureed
+Active Indicative,Future Perfect,1st Person,Plural,tripaliaverimus,tripaliuerimus,tripalierimus,tripalierimus,We will have tortureed
+Active Indicative,Future Perfect,2nd Person,Singular,tripaliaveris,tripaliueris,tripalieris,tripalieris,You will have tortureed
+Active Indicative,Future Perfect,2nd Person,Plural,tripaliaveritis,tripaliueritis,tripalieritis,tripalieritis,You (pl.) will have tortureed
+Active Indicative,Future Perfect,3rd Person,Singular,tripaliaverit,tripaliuerit,tripalierit,tripalierit,He/she/it will have tortureed
+Active Indicative,Future Perfect,3rd Person,Plural,tripaliaverint,tripaliuerint,tripalierint,tripalierint,They will have tortureed
+Passive Indicative,Present,1st Person,Singular,tripalior,tripalieor,tripalior,tripalior,I am being tortureed
+Passive Indicative,Present,1st Person,Plural,tripaliamur,tripaliemur,tripalimur,tripalimur,We are being tortureed
+Passive Indicative,Present,2nd Person,Singular,tripaliaris,tripalieris,tripaliris,tripaliris,You are being tortureed
+Passive Indicative,Present,2nd Person,Plural,tripaliamini,tripaliemini,tripalimini,tripalimini,You (pl.) are being tortureed
+Passive Indicative,Present,3rd Person,Singular,tripaliatur,tripalietur,tripalitur,tripalitur,He/she/it is being tortureed
+Passive Indicative,Present,3rd Person,Plural,tripaliantur,tripalientur,tripaliuntur,tripaliuntur,They are being tortureed
+Passive Indicative,Imperfect,1st Person,Singular,tripaliabar,tripaliebar,tripaliebar,tripaliebar,I was tortureed
+Passive Indicative,Imperfect,1st Person,Plural,tripaliabamur,tripaliebamur,tripaliebamur,tripaliebamur,We were tortureed
+Passive Indicative,Imperfect,2nd Person,Singular,tripaliabaris,tripaliebaris,tripaliebaris,tripaliebaris,You were tortureed
+Passive Indicative,Imperfect,2nd Person,Plural,tripaliabamini,tripaliebamini,tripaliebamini,tripaliebamini,You (pl.) were tortureed
+Passive Indicative,Imperfect,3rd Person,Singular,tripaliabatur,tripaliebatur,tripaliebatur,tripaliebatur,He/she/it was tortureed
+Passive Indicative,Imperfect,3rd Person,Plural,tripaliabantur,tripaliebantur,tripaliebantur,tripaliebantur,They were tortureed
+Passive Indicative,Future,1st Person,Singular,tripaliabor,tripaliebor,tripaliar,tripaliar,I will be tortureed
+Passive Indicative,Future,1st Person,Plural,tripaliabimur,tripaliebimur,tripaliemur,tripaliemur,We will be tortureed
+Passive Indicative,Future,2nd Person,Singular,tripaliaberis,tripalieberis,tripalieris,tripalieris,You will be tortureed
+Passive Indicative,Future,2nd Person,Plural,tripaliabimini,tripaliebimini,tripaliemini,tripaliemini,You (pl.) will be tortureed
+Passive Indicative,Future,3rd Person,Singular,tripaliabitur,tripaliebitur,tripalietur,tripalietur,He/she/it will be tortureed
+Passive Indicative,Future,3rd Person,Plural,tripaliabuntur,tripaliebuntur,tripalientur,tripalientur,They will be tortureed
+Passive Indicative,Perfect,1st Person,Singular,tripaliatus sum,tripalietus sum,tripalius sum,tripalius sum,I have been tortureed
+Passive Indicative,Perfect,1st Person,Plural,tripaliati sumus,tripalieti sumus,tripali sumus,tripali sumus,We have been tortureed
+Passive Indicative,Perfect,2nd Person,Singular,tripaliatus es,tripalietus es,tripalius es,tripalius es,You have been tortureed
+Passive Indicative,Perfect,2nd Person,Plural,tripaliati estis,tripalieti estis,tripali estis,tripali estis,You (pl.) have been tortureed
+Passive Indicative,Perfect,3rd Person,Singular,tripaliatus est,tripalietus est,tripalius est,tripalius est,He/she/it has been tortureed
+Passive Indicative,Perfect,3rd Person,Plural,tripaliati sunt,tripalieti sunt,tripali sunt,tripali sunt,They have been tortureed
+Passive Indicative,Pluperfect,1st Person,Singular,tripaliatus eram,tripalietus eram,tripalius eram,tripalius eram,I had been tortureed
+Passive Indicative,Pluperfect,1st Person,Plural,tripaliati eramus,tripalieti eramus,tripali eramus,tripali eramus,We had been tortureed
+Passive Indicative,Pluperfect,2nd Person,Singular,tripaliatus eras,tripalietus eras,tripalius eras,tripalius eras,You had been tortureed
+Passive Indicative,Pluperfect,2nd Person,Plural,tripaliati eratis,tripalieti eratis,tripali eratis,tripali eratis,You (pl.) had been tortureed
+Passive Indicative,Pluperfect,3rd Person,Singular,tripaliatus erat,tripalietus erat,tripalius erat,tripalius erat,He/she/it had been tortureed
+Passive Indicative,Pluperfect,3rd Person,Plural,tripaliati erant,tripalieti erant,tripali erant,tripali erant,They had been tortureed
+Passive Indicative,Future Perfect,1st Person,Singular,tripaliatus ero,tripalietus ero,tripalius ero,tripalius ero,I will have been tortureed
+Passive Indicative,Future Perfect,1st Person,Plural,tripaliati erimus,tripalieti erimus,tripali erimus,tripali erimus,We will have been tortureed
+Passive Indicative,Future Perfect,2nd Person,Singular,tripaliatus eris,tripalietus eris,tripalius eris,tripalius eris,You will have been tortureed
+Passive Indicative,Future Perfect,2nd Person,Plural,tripaliati eritis,tripalieti eritis,tripali eritis,tripali eritis,You (pl.) will have been tortureed
+Passive Indicative,Future Perfect,3rd Person,Singular,tripaliatus erit,tripalietus erit,tripalius erit,tripalius erit,He/she/it will have been tortureed
+Passive Indicative,Future Perfect,3rd Person,Plural,tripaliati erunt,tripalieti erunt,tripali erunt,tripali erunt,They will have been tortureed
+Active Subjunctive,Present,1st Person,Singular,tripaliem,tripaliem,tripaliam,tripaliam,I may torture
+Active Subjunctive,Present,1st Person,Plural,tripaliemus,tripaliemus,tripaliamus,tripaliamus,We may torture
+Active Subjunctive,Present,2nd Person,Singular,tripalies,tripalies,tripalias,tripalias,You may torture
+Active Subjunctive,Present,2nd Person,Plural,tripalietis,tripalietis,tripaliatis,tripaliatis,You (pl.) may torture
+Active Subjunctive,Present,3rd Person,Singular,tripaliet,tripaliet,tripaliat,tripaliat,He/she/it may torture
+Active Subjunctive,Present,3rd Person,Plural,tripalient,tripalient,tripaliant,tripaliant,They may torture
+Active Subjunctive,Imperfect,1st Person,Singular,tripaliarem,tripalierem,tripalierem,tripalirem,I should torture
+Active Subjunctive,Imperfect,1st Person,Plural,tripaliaremus,tripalieremus,tripalieremus,tripaliremus,We should torture
+Active Subjunctive,Imperfect,2nd Person,Singular,tripaliares,tripalieres,tripalieres,tripalires,You should torture
+Active Subjunctive,Imperfect,2nd Person,Plural,tripaliaretis,tripalieretis,tripalieretis,tripaliretis,You (pl.) should torture
+Active Subjunctive,Imperfect,3rd Person,Singular,tripaliaret,tripalieret,tripalieret,tripaliret,He/she/it should torture
+Active Subjunctive,Imperfect,3rd Person,Plural,tripaliarent,tripalierent,tripalierent,tripalirent,They should torture
+Active Subjunctive,Perfect,1st Person,Singular,tripalierim,tripaliuerim,tripalierim,tripalierim,I may have tortureed
+Active Subjunctive,Perfect,1st Person,Plural,tripalierimus,tripaliuerimus,tripalierimus,tripalierimus,We may have tortureed
+Active Subjunctive,Perfect,2nd Person,Singular,tripalieris,tripaliueris,tripalieris,tripalieris,You may have tortureed
+Active Subjunctive,Perfect,2nd Person,Plural,tripalieritis,tripaliueritis,tripalieritis,tripalieritis,You (pl.) may have tortureed
+Active Subjunctive,Perfect,3rd Person,Singular,tripalierit,tripaliuerit,tripalierit,tripalierit,He/she/it may have tortureed
+Active Subjunctive,Perfect,3rd Person,Plural,tripalierint,tripaliuerint,tripalierint,tripalierint,They may have tortureed
+Active Subjunctive,Pluperfect,1st Person,Singular,tripalissem,tripaliuissem,tripalissem,tripalissem,I should have tortureed
+Active Subjunctive,Pluperfect,1st Person,Plural,tripalissemus,tripaliuissemus,tripalissemus,tripalissemus,We should have tortureed
+Active Subjunctive,Pluperfect,2nd Person,Singular,tripalisses,tripaliuisses,tripalisses,tripalisses,You would have tortureed
+Active Subjunctive,Pluperfect,2nd Person,Plural,tripalissetis,tripaliuissetis,tripalissetis,tripalissetis,You (pl.) would have tortureed
+Active Subjunctive,Pluperfect,3rd Person,Singular,tripalisset,tripaliuisset,tripalisset,tripalisset,He/she/it would have tortureed
+Active Subjunctive,Pluperfect,3rd Person,Plural,tripalissent,tripaliuissent,tripalissent,tripalissent,They would have tortureed
+Passive Subjunctive,Present,1st Person,Singular,tripalier,tripalier,tripaliar,tripaliar,I may be tortureed
+Passive Subjunctive,Present,1st Person,Plural,tripaliemur,tripaliemur,tripaliamur,tripaliamur,We may be tortureed
+Passive Subjunctive,Present,2nd Person,Singular,tripalieris,tripalieris,tripaliaris,tripaliaris,You may be tortureed
+Passive Subjunctive,Present,2nd Person,Plural,tripaliemini,tripaliemini,tripaliamini,tripaliamini,You (pl.) may be tortureed
+Passive Subjunctive,Present,3rd Person,Singular,tripalietur,tripalietur,tripaliatur,tripaliatur,He/she/it may be tortureed
+Passive Subjunctive,Present,3rd Person,Plural,tripalientur,tripalientur,tripaliantur,tripaliantur,They may be tortureed
+Passive Subjunctive,Imperfect,1st Person,Singular,tripaliarer,tripalierer,tripalierer,tripalirer,I should be tortureed
+Passive Subjunctive,Imperfect,1st Person,Plural,tripaliaremur,tripalieremur,tripalieremur,tripaliremur,We should be tortureed
+Passive Subjunctive,Imperfect,2nd Person,Singular,tripaliareris,tripaliereris,tripaliereris,tripalireris,You would be tortureed
+Passive Subjunctive,Imperfect,2nd Person,Plural,tripaliaremini,tripalieremini,tripalieremini,tripaliremini,You (pl.) would be tortureed
+Passive Subjunctive,Imperfect,3rd Person,Singular,tripaliaretur,tripalieretur,tripalieretur,tripaliretur,He/she/it would be tortureed
+Passive Subjunctive,Imperfect,3rd Person,Plural,tripaliarentur,tripalierentur,tripalierentur,tripalirentur,They would be tortureed
+Passive Subjunctive,Perfect,1st Person,Singular,tripaliatus sim,tripalietus sim,tripalius sim,tripalius sim,I may have been tortureed
+Passive Subjunctive,Perfect,1st Person,Plural,tripaliati simus,tripalieti simus,tripali simus,tripali simus,We may have been tortureed
+Passive Subjunctive,Perfect,2nd Person,Singular,tripaliatus sis,tripalietus sis,tripalius sis,tripalius sis,You may have been tortureed
+Passive Subjunctive,Perfect,2nd Person,Plural,tripaliati sitis,tripalieti sitis,tripali sitis,tripali sitis,You (pl.) may have been tortureed
+Passive Subjunctive,Perfect,3rd Person,Singular,tripaliatus sit,tripalietus sit,tripalius sit,tripalius sit,He/she/it may have been tortureed
+Passive Subjunctive,Perfect,3rd Person,Plural,tripaliati sint,tripalieti sint,tripali sint,tripali sint,They may have been tortureed
+Passive Subjunctive,Pluperfect,1st Person,Singular,tripaliatus essem,tripalietus essem,tripalius essem,tripalius essem,I should have been tortureed
+Passive Subjunctive,Pluperfect,1st Person,Plural,tripaliati essemus,tripalieti essemus,tripali essemus,tripali essemus,We should have been tortureed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,tripaliatus esses,tripalietus esses,tripalius esses,tripalius esses,You would have been tortureed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,tripaliati essetis,tripalieti essetis,tripali essetis,tripali essetis,You (pl.) would have been tortureed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,tripaliatus esset,tripalietus esset,tripalius esset,tripalius esset,He/she/it would have been tortureed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,tripaliati essent,tripalieti essent,tripali essent,tripali essent,They would have been tortureed

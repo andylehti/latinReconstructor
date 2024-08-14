@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,mugo,mugeo,mugo,mugio,I bellow
+Active Indicative,Present,1st Person,Plural,mugamus,mugemus,mugimus,mugimus,We bellow
+Active Indicative,Present,2nd Person,Singular,mugas,muges,mugis,mugis,You bellow
+Active Indicative,Present,2nd Person,Plural,mugatis,mugetis,mugitis,mugitis,You (pl.) bellow
+Active Indicative,Present,3rd Person,Singular,mugat,muget,mugit,mugit,He/she/it bellow
+Active Indicative,Present,3rd Person,Plural,mugant,mugent,mugiunt,mugiunt,They bellow
+Active Indicative,Imperfect,1st Person,Singular,mugabam,mugebam,mugebam,mugiebam,I was bellowing
+Active Indicative,Imperfect,1st Person,Plural,mugabamus,mugebamus,mugebamus,mugiebamus,We were bellowing
+Active Indicative,Imperfect,2nd Person,Singular,mugabas,mugebas,mugebas,mugiebas,You were bellowing
+Active Indicative,Imperfect,2nd Person,Plural,mugabatis,mugebatis,mugebatis,mugiebatis,You (pl.) were bellowing
+Active Indicative,Imperfect,3rd Person,Singular,mugabat,mugebat,mugebat,mugiebat,He/she/it was bellowing
+Active Indicative,Imperfect,3rd Person,Plural,mugabant,mugebant,mugebant,mugiebant,They were bellowing
+Active Indicative,Future,1st Person,Singular,mugabo,mugebo,mugam,mugiam,I will bellow
+Active Indicative,Future,1st Person,Plural,mugabimus,mugebimus,mugemus,mugiemus,We will bellow
+Active Indicative,Future,2nd Person,Singular,mugabis,mugebis,muges,mugies,You will bellow
+Active Indicative,Future,2nd Person,Plural,mugabitis,mugebitis,mugetis,mugietis,You (pl.) will bellow
+Active Indicative,Future,3rd Person,Singular,mugabit,mugebit,muget,mugiet,He/she/it will bellow
+Active Indicative,Future,3rd Person,Plural,mugabunt,mugebunt,mugent,mugient,They will bellow
+Active Indicative,Perfect,1st Person,Singular,mugavi,mugui,mugi,mugi,I have bellowed
+Active Indicative,Perfect,1st Person,Plural,mugavimus,muguimus,mugimus,mugimus,We have bellowed
+Active Indicative,Perfect,2nd Person,Singular,mugavisti,muguisti,mugisti,mugisti,You have bellowed
+Active Indicative,Perfect,2nd Person,Plural,mugavistis,muguistis,mugistis,mugistis,You (pl.) have bellowed
+Active Indicative,Perfect,3rd Person,Singular,mugavit,muguit,mugit,mugit,He/she/it has bellowed
+Active Indicative,Perfect,3rd Person,Plural,mugaverunt,muguerunt,mugerunt,mugerunt,They have bellowed
+Active Indicative,Pluperfect,1st Person,Singular,mugaveram,mugueram,mugeram,mugeram,I had bellowed
+Active Indicative,Pluperfect,1st Person,Plural,mugaveramus,mugueramus,mugeramus,mugeramus,We had bellowed
+Active Indicative,Pluperfect,2nd Person,Singular,mugaveras,mugueras,mugeras,mugeras,You had bellowed
+Active Indicative,Pluperfect,2nd Person,Plural,mugaveratis,mugueratis,mugeratis,mugeratis,You (pl.) had bellowed
+Active Indicative,Pluperfect,3rd Person,Singular,mugaverat,muguerat,mugerat,mugerat,He/she/it had bellowed
+Active Indicative,Pluperfect,3rd Person,Plural,mugaverant,muguerant,mugerant,mugerant,They had bellowed
+Active Indicative,Future Perfect,1st Person,Singular,mugavero,mugueero,mugero,mugiero,I will have bellowed
+Active Indicative,Future Perfect,1st Person,Plural,mugaverimus,muguerimus,mugerimus,mugierimus,We will have bellowed
+Active Indicative,Future Perfect,2nd Person,Singular,mugaveris,mugueris,mugeris,mugieris,You will have bellowed
+Active Indicative,Future Perfect,2nd Person,Plural,mugaveritis,mugueritis,mugeritis,mugieritis,You (pl.) will have bellowed
+Active Indicative,Future Perfect,3rd Person,Singular,mugaverit,muguerit,mugerit,mugierit,He/she/it will have bellowed
+Active Indicative,Future Perfect,3rd Person,Plural,mugaverint,muguerint,mugerint,mugierint,They will have bellowed
+Passive Indicative,Present,1st Person,Singular,mugor,mugeor,mugor,mugior,I am being bellowed
+Passive Indicative,Present,1st Person,Plural,mugamur,mugemur,mugimur,mugimur,We are being bellowed
+Passive Indicative,Present,2nd Person,Singular,mugaris,mugeris,mugiris,mugiris,You are being bellowed
+Passive Indicative,Present,2nd Person,Plural,mugamini,mugemini,mugimini,mugimini,You (pl.) are being bellowed
+Passive Indicative,Present,3rd Person,Singular,mugatur,mugetur,mugitur,mugitur,He/she/it is being bellowed
+Passive Indicative,Present,3rd Person,Plural,mugantur,mugentur,mugiuntur,mugiuntur,They are being bellowed
+Passive Indicative,Imperfect,1st Person,Singular,mugabar,mugebar,mugebar,mugiebar,I was bellowed
+Passive Indicative,Imperfect,1st Person,Plural,mugabamur,mugebamur,mugebamur,mugiebamur,We were bellowed
+Passive Indicative,Imperfect,2nd Person,Singular,mugabaris,mugebaris,mugebaris,mugiebaris,You were bellowed
+Passive Indicative,Imperfect,2nd Person,Plural,mugabamini,mugebamini,mugebamini,mugiebamini,You (pl.) were bellowed
+Passive Indicative,Imperfect,3rd Person,Singular,mugabatur,mugebatur,mugebatur,mugiebatur,He/she/it was bellowed
+Passive Indicative,Imperfect,3rd Person,Plural,mugabantur,mugebantur,mugebantur,mugiebantur,They were bellowed
+Passive Indicative,Future,1st Person,Singular,mugabor,mugebor,mugar,mugiar,I will be bellowed
+Passive Indicative,Future,1st Person,Plural,mugabimur,mugebimur,mugemur,mugiemur,We will be bellowed
+Passive Indicative,Future,2nd Person,Singular,mugaberis,mugeberis,mugeris,mugieris,You will be bellowed
+Passive Indicative,Future,2nd Person,Plural,mugabimini,mugebimini,mugemini,mugiemini,You (pl.) will be bellowed
+Passive Indicative,Future,3rd Person,Singular,mugabitur,mugebitur,mugetur,mugietur,He/she/it will be bellowed
+Passive Indicative,Future,3rd Person,Plural,mugabuntur,mugebuntur,mugentur,mugientur,They will be bellowed
+Passive Indicative,Perfect,1st Person,Singular,mugatus sum,mugetus sum,mugus sum,mugus sum,I have been bellowed
+Passive Indicative,Perfect,1st Person,Plural,mugati sumus,mugeti sumus,mugi sumus,mugi sumus,We have been bellowed
+Passive Indicative,Perfect,2nd Person,Singular,mugatus es,mugetus es,mugus es,mugus es,You have been bellowed
+Passive Indicative,Perfect,2nd Person,Plural,mugati estis,mugeti estis,mugi estis,mugi estis,You (pl.) have been bellowed
+Passive Indicative,Perfect,3rd Person,Singular,mugatus est,mugetus est,mugus est,mugus est,He/she/it has been bellowed
+Passive Indicative,Perfect,3rd Person,Plural,mugati sunt,mugeti sunt,mugi sunt,mugi sunt,They have been bellowed
+Passive Indicative,Pluperfect,1st Person,Singular,mugatus eram,mugetus eram,mugus eram,mugus eram,I had been bellowed
+Passive Indicative,Pluperfect,1st Person,Plural,mugati eramus,mugeti eramus,mugi eramus,mugi eramus,We had been bellowed
+Passive Indicative,Pluperfect,2nd Person,Singular,mugatus eras,mugetus eras,mugus eras,mugus eras,You had been bellowed
+Passive Indicative,Pluperfect,2nd Person,Plural,mugati eratis,mugeti eratis,mugi eratis,mugi eratis,You (pl.) had been bellowed
+Passive Indicative,Pluperfect,3rd Person,Singular,mugatus erat,mugetus erat,mugus erat,mugus erat,He/she/it had been bellowed
+Passive Indicative,Pluperfect,3rd Person,Plural,mugati erant,mugeti erant,mugi erant,mugi erant,They had been bellowed
+Passive Indicative,Future Perfect,1st Person,Singular,mugatus ero,mugetus ero,mugus ero,mugus ero,I will have been bellowed
+Passive Indicative,Future Perfect,1st Person,Plural,mugati erimus,mugeti erimus,mugi erimus,mugi erimus,We will have been bellowed
+Passive Indicative,Future Perfect,2nd Person,Singular,mugatus eris,mugetus eris,mugus eris,mugus eris,You will have been bellowed
+Passive Indicative,Future Perfect,2nd Person,Plural,mugati eritis,mugeti eritis,mugi eritis,mugi eritis,You (pl.) will have been bellowed
+Passive Indicative,Future Perfect,3rd Person,Singular,mugatus erit,mugetus erit,mugus erit,mugus erit,He/she/it will have been bellowed
+Passive Indicative,Future Perfect,3rd Person,Plural,mugati erunt,mugeti erunt,mugi erunt,mugi erunt,They will have been bellowed
+Active Subjunctive,Present,1st Person,Singular,mugem,mugem,mugam,mugam,I may bellow
+Active Subjunctive,Present,1st Person,Plural,mugemus,mugemus,mugamus,mugamus,We may bellow
+Active Subjunctive,Present,2nd Person,Singular,muges,muges,mugas,mugas,You may bellow
+Active Subjunctive,Present,2nd Person,Plural,mugetis,mugetis,mugatis,mugatis,You (pl.) may bellow
+Active Subjunctive,Present,3rd Person,Singular,muget,muget,mugat,mugat,He/she/it may bellow
+Active Subjunctive,Present,3rd Person,Plural,mugent,mugent,mugant,mugant,They may bellow
+Active Subjunctive,Imperfect,1st Person,Singular,mugarem,mugerem,mugerem,mugirem,I should bellow
+Active Subjunctive,Imperfect,1st Person,Plural,mugaremus,mugeremus,mugeremus,mugiremus,We should bellow
+Active Subjunctive,Imperfect,2nd Person,Singular,mugares,mugeres,mugeres,mugires,You should bellow
+Active Subjunctive,Imperfect,2nd Person,Plural,mugaretis,mugeretis,mugeretis,mugiretis,You (pl.) should bellow
+Active Subjunctive,Imperfect,3rd Person,Singular,mugaret,mugeret,mugeret,mugiret,He/she/it should bellow
+Active Subjunctive,Imperfect,3rd Person,Plural,mugarent,mugerent,mugerent,mugirent,They should bellow
+Active Subjunctive,Perfect,1st Person,Singular,mugerim,muguerim,mugerim,mugierim,I may have bellowed
+Active Subjunctive,Perfect,1st Person,Plural,mugerimus,muguerimus,mugerimus,mugierimus,We may have bellowed
+Active Subjunctive,Perfect,2nd Person,Singular,mugeris,mugueris,mugeris,mugieris,You may have bellowed
+Active Subjunctive,Perfect,2nd Person,Plural,mugeritis,mugueritis,mugeritis,mugieritis,You (pl.) may have bellowed
+Active Subjunctive,Perfect,3rd Person,Singular,mugerit,muguerit,mugerit,mugierit,He/she/it may have bellowed
+Active Subjunctive,Perfect,3rd Person,Plural,mugerint,muguerint,mugerint,mugierint,They may have bellowed
+Active Subjunctive,Pluperfect,1st Person,Singular,mugissem,muguissem,mugissem,mugissem,I should have bellowed
+Active Subjunctive,Pluperfect,1st Person,Plural,mugissemus,muguissemus,mugissemus,mugissemus,We should have bellowed
+Active Subjunctive,Pluperfect,2nd Person,Singular,mugisses,muguisses,mugisses,mugisses,You would have bellowed
+Active Subjunctive,Pluperfect,2nd Person,Plural,mugissetis,muguissetis,mugissetis,mugissetis,You (pl.) would have bellowed
+Active Subjunctive,Pluperfect,3rd Person,Singular,mugisset,muguisset,mugisset,mugisset,He/she/it would have bellowed
+Active Subjunctive,Pluperfect,3rd Person,Plural,mugissent,muguissent,mugissent,mugissent,They would have bellowed
+Passive Subjunctive,Present,1st Person,Singular,muger,muger,mugar,mugar,I may be bellowed
+Passive Subjunctive,Present,1st Person,Plural,mugemur,mugemur,mugamur,mugamur,We may be bellowed
+Passive Subjunctive,Present,2nd Person,Singular,mugeris,mugeris,mugaris,mugaris,You may be bellowed
+Passive Subjunctive,Present,2nd Person,Plural,mugemini,mugemini,mugamini,mugamini,You (pl.) may be bellowed
+Passive Subjunctive,Present,3rd Person,Singular,mugetur,mugetur,mugatur,mugatur,He/she/it may be bellowed
+Passive Subjunctive,Present,3rd Person,Plural,mugentur,mugentur,mugantur,mugantur,They may be bellowed
+Passive Subjunctive,Imperfect,1st Person,Singular,mugarer,mugerer,mugerer,mugirer,I should be bellowed
+Passive Subjunctive,Imperfect,1st Person,Plural,mugaremur,mugeremur,mugeremur,mugiremur,We should be bellowed
+Passive Subjunctive,Imperfect,2nd Person,Singular,mugareris,mugereris,mugereris,mugireris,You would be bellowed
+Passive Subjunctive,Imperfect,2nd Person,Plural,mugaremini,mugeremini,mugeremini,mugiremini,You (pl.) would be bellowed
+Passive Subjunctive,Imperfect,3rd Person,Singular,mugaretur,mugeretur,mugeretur,mugiretur,He/she/it would be bellowed
+Passive Subjunctive,Imperfect,3rd Person,Plural,mugarentur,mugerentur,mugerentur,mugirentur,They would be bellowed
+Passive Subjunctive,Perfect,1st Person,Singular,mugatus sim,mugetus sim,mugus sim,mugus sim,I may have been bellowed
+Passive Subjunctive,Perfect,1st Person,Plural,mugati simus,mugeti simus,mugi simus,mugi simus,We may have been bellowed
+Passive Subjunctive,Perfect,2nd Person,Singular,mugatus sis,mugetus sis,mugus sis,mugus sis,You may have been bellowed
+Passive Subjunctive,Perfect,2nd Person,Plural,mugati sitis,mugeti sitis,mugi sitis,mugi sitis,You (pl.) may have been bellowed
+Passive Subjunctive,Perfect,3rd Person,Singular,mugatus sit,mugetus sit,mugus sit,mugus sit,He/she/it may have been bellowed
+Passive Subjunctive,Perfect,3rd Person,Plural,mugati sint,mugeti sint,mugi sint,mugi sint,They may have been bellowed
+Passive Subjunctive,Pluperfect,1st Person,Singular,mugatus essem,mugetus essem,mugus essem,mugus essem,I should have been bellowed
+Passive Subjunctive,Pluperfect,1st Person,Plural,mugati essemus,mugeti essemus,mugi essemus,mugi essemus,We should have been bellowed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,mugatus esses,mugetus esses,mugus esses,mugus esses,You would have been bellowed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,mugati essetis,mugeti essetis,mugi essetis,mugi essetis,You (pl.) would have been bellowed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,mugatus esset,mugetus esset,mugus esset,mugus esset,He/she/it would have been bellowed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,mugati essent,mugeti essent,mugi essent,mugi essent,They would have been bellowed

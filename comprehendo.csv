@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,comprehendo,comprehendeo,comprehendo,comprehendio,I grasp
+Active Indicative,Present,1st Person,Plural,comprehendamus,comprehendemus,comprehendimus,comprehendimus,We grasp
+Active Indicative,Present,2nd Person,Singular,comprehendas,comprehendes,comprehendis,comprehendis,You grasp
+Active Indicative,Present,2nd Person,Plural,comprehendatis,comprehendetis,comprehenditis,comprehenditis,You (pl.) grasp
+Active Indicative,Present,3rd Person,Singular,comprehendat,comprehendet,comprehendit,comprehendit,He/she/it grasp
+Active Indicative,Present,3rd Person,Plural,comprehendant,comprehendent,comprehendiunt,comprehendiunt,They grasp
+Active Indicative,Imperfect,1st Person,Singular,comprehendabam,comprehendebam,comprehendebam,comprehendiebam,I was grasping
+Active Indicative,Imperfect,1st Person,Plural,comprehendabamus,comprehendebamus,comprehendebamus,comprehendiebamus,We were grasping
+Active Indicative,Imperfect,2nd Person,Singular,comprehendabas,comprehendebas,comprehendebas,comprehendiebas,You were grasping
+Active Indicative,Imperfect,2nd Person,Plural,comprehendabatis,comprehendebatis,comprehendebatis,comprehendiebatis,You (pl.) were grasping
+Active Indicative,Imperfect,3rd Person,Singular,comprehendabat,comprehendebat,comprehendebat,comprehendiebat,He/she/it was grasping
+Active Indicative,Imperfect,3rd Person,Plural,comprehendabant,comprehendebant,comprehendebant,comprehendiebant,They were grasping
+Active Indicative,Future,1st Person,Singular,comprehendabo,comprehendebo,comprehendam,comprehendiam,I will grasp
+Active Indicative,Future,1st Person,Plural,comprehendabimus,comprehendebimus,comprehendemus,comprehendiemus,We will grasp
+Active Indicative,Future,2nd Person,Singular,comprehendabis,comprehendebis,comprehendes,comprehendies,You will grasp
+Active Indicative,Future,2nd Person,Plural,comprehendabitis,comprehendebitis,comprehendetis,comprehendietis,You (pl.) will grasp
+Active Indicative,Future,3rd Person,Singular,comprehendabit,comprehendebit,comprehendet,comprehendiet,He/she/it will grasp
+Active Indicative,Future,3rd Person,Plural,comprehendabunt,comprehendebunt,comprehendent,comprehendient,They will grasp
+Active Indicative,Perfect,1st Person,Singular,comprehendavi,comprehendui,comprehendi,comprehendi,I have grasped
+Active Indicative,Perfect,1st Person,Plural,comprehendavimus,comprehenduimus,comprehendimus,comprehendimus,We have grasped
+Active Indicative,Perfect,2nd Person,Singular,comprehendavisti,comprehenduisti,comprehendisti,comprehendisti,You have grasped
+Active Indicative,Perfect,2nd Person,Plural,comprehendavistis,comprehenduistis,comprehendistis,comprehendistis,You (pl.) have grasped
+Active Indicative,Perfect,3rd Person,Singular,comprehendavit,comprehenduit,comprehendit,comprehendit,He/she/it has grasped
+Active Indicative,Perfect,3rd Person,Plural,comprehendaverunt,comprehenduerunt,comprehenderunt,comprehenderunt,They have grasped
+Active Indicative,Pluperfect,1st Person,Singular,comprehendaveram,comprehendueram,comprehenderam,comprehenderam,I had grasped
+Active Indicative,Pluperfect,1st Person,Plural,comprehendaveramus,comprehendueramus,comprehenderamus,comprehenderamus,We had grasped
+Active Indicative,Pluperfect,2nd Person,Singular,comprehendaveras,comprehendueras,comprehenderas,comprehenderas,You had grasped
+Active Indicative,Pluperfect,2nd Person,Plural,comprehendaveratis,comprehendueratis,comprehenderatis,comprehenderatis,You (pl.) had grasped
+Active Indicative,Pluperfect,3rd Person,Singular,comprehendaverat,comprehenduerat,comprehenderat,comprehenderat,He/she/it had grasped
+Active Indicative,Pluperfect,3rd Person,Plural,comprehendaverant,comprehenduerant,comprehenderant,comprehenderant,They had grasped
+Active Indicative,Future Perfect,1st Person,Singular,comprehendavero,comprehendueero,comprehendero,comprehendiero,I will have grasped
+Active Indicative,Future Perfect,1st Person,Plural,comprehendaverimus,comprehenduerimus,comprehenderimus,comprehendierimus,We will have grasped
+Active Indicative,Future Perfect,2nd Person,Singular,comprehendaveris,comprehendueris,comprehenderis,comprehendieris,You will have grasped
+Active Indicative,Future Perfect,2nd Person,Plural,comprehendaveritis,comprehendueritis,comprehenderitis,comprehendieritis,You (pl.) will have grasped
+Active Indicative,Future Perfect,3rd Person,Singular,comprehendaverit,comprehenduerit,comprehenderit,comprehendierit,He/she/it will have grasped
+Active Indicative,Future Perfect,3rd Person,Plural,comprehendaverint,comprehenduerint,comprehenderint,comprehendierint,They will have grasped
+Passive Indicative,Present,1st Person,Singular,comprehendor,comprehendeor,comprehendor,comprehendior,I am being grasped
+Passive Indicative,Present,1st Person,Plural,comprehendamur,comprehendemur,comprehendimur,comprehendimur,We are being grasped
+Passive Indicative,Present,2nd Person,Singular,comprehendaris,comprehenderis,comprehendiris,comprehendiris,You are being grasped
+Passive Indicative,Present,2nd Person,Plural,comprehendamini,comprehendemini,comprehendimini,comprehendimini,You (pl.) are being grasped
+Passive Indicative,Present,3rd Person,Singular,comprehendatur,comprehendetur,comprehenditur,comprehenditur,He/she/it is being grasped
+Passive Indicative,Present,3rd Person,Plural,comprehendantur,comprehendentur,comprehendiuntur,comprehendiuntur,They are being grasped
+Passive Indicative,Imperfect,1st Person,Singular,comprehendabar,comprehendebar,comprehendebar,comprehendiebar,I was grasped
+Passive Indicative,Imperfect,1st Person,Plural,comprehendabamur,comprehendebamur,comprehendebamur,comprehendiebamur,We were grasped
+Passive Indicative,Imperfect,2nd Person,Singular,comprehendabaris,comprehendebaris,comprehendebaris,comprehendiebaris,You were grasped
+Passive Indicative,Imperfect,2nd Person,Plural,comprehendabamini,comprehendebamini,comprehendebamini,comprehendiebamini,You (pl.) were grasped
+Passive Indicative,Imperfect,3rd Person,Singular,comprehendabatur,comprehendebatur,comprehendebatur,comprehendiebatur,He/she/it was grasped
+Passive Indicative,Imperfect,3rd Person,Plural,comprehendabantur,comprehendebantur,comprehendebantur,comprehendiebantur,They were grasped
+Passive Indicative,Future,1st Person,Singular,comprehendabor,comprehendebor,comprehendar,comprehendiar,I will be grasped
+Passive Indicative,Future,1st Person,Plural,comprehendabimur,comprehendebimur,comprehendemur,comprehendiemur,We will be grasped
+Passive Indicative,Future,2nd Person,Singular,comprehendaberis,comprehendeberis,comprehenderis,comprehendieris,You will be grasped
+Passive Indicative,Future,2nd Person,Plural,comprehendabimini,comprehendebimini,comprehendemini,comprehendiemini,You (pl.) will be grasped
+Passive Indicative,Future,3rd Person,Singular,comprehendabitur,comprehendebitur,comprehendetur,comprehendietur,He/she/it will be grasped
+Passive Indicative,Future,3rd Person,Plural,comprehendabuntur,comprehendebuntur,comprehendentur,comprehendientur,They will be grasped
+Passive Indicative,Perfect,1st Person,Singular,comprehendatus sum,comprehendetus sum,comprehendus sum,comprehendus sum,I have been grasped
+Passive Indicative,Perfect,1st Person,Plural,comprehendati sumus,comprehendeti sumus,comprehendi sumus,comprehendi sumus,We have been grasped
+Passive Indicative,Perfect,2nd Person,Singular,comprehendatus es,comprehendetus es,comprehendus es,comprehendus es,You have been grasped
+Passive Indicative,Perfect,2nd Person,Plural,comprehendati estis,comprehendeti estis,comprehendi estis,comprehendi estis,You (pl.) have been grasped
+Passive Indicative,Perfect,3rd Person,Singular,comprehendatus est,comprehendetus est,comprehendus est,comprehendus est,He/she/it has been grasped
+Passive Indicative,Perfect,3rd Person,Plural,comprehendati sunt,comprehendeti sunt,comprehendi sunt,comprehendi sunt,They have been grasped
+Passive Indicative,Pluperfect,1st Person,Singular,comprehendatus eram,comprehendetus eram,comprehendus eram,comprehendus eram,I had been grasped
+Passive Indicative,Pluperfect,1st Person,Plural,comprehendati eramus,comprehendeti eramus,comprehendi eramus,comprehendi eramus,We had been grasped
+Passive Indicative,Pluperfect,2nd Person,Singular,comprehendatus eras,comprehendetus eras,comprehendus eras,comprehendus eras,You had been grasped
+Passive Indicative,Pluperfect,2nd Person,Plural,comprehendati eratis,comprehendeti eratis,comprehendi eratis,comprehendi eratis,You (pl.) had been grasped
+Passive Indicative,Pluperfect,3rd Person,Singular,comprehendatus erat,comprehendetus erat,comprehendus erat,comprehendus erat,He/she/it had been grasped
+Passive Indicative,Pluperfect,3rd Person,Plural,comprehendati erant,comprehendeti erant,comprehendi erant,comprehendi erant,They had been grasped
+Passive Indicative,Future Perfect,1st Person,Singular,comprehendatus ero,comprehendetus ero,comprehendus ero,comprehendus ero,I will have been grasped
+Passive Indicative,Future Perfect,1st Person,Plural,comprehendati erimus,comprehendeti erimus,comprehendi erimus,comprehendi erimus,We will have been grasped
+Passive Indicative,Future Perfect,2nd Person,Singular,comprehendatus eris,comprehendetus eris,comprehendus eris,comprehendus eris,You will have been grasped
+Passive Indicative,Future Perfect,2nd Person,Plural,comprehendati eritis,comprehendeti eritis,comprehendi eritis,comprehendi eritis,You (pl.) will have been grasped
+Passive Indicative,Future Perfect,3rd Person,Singular,comprehendatus erit,comprehendetus erit,comprehendus erit,comprehendus erit,He/she/it will have been grasped
+Passive Indicative,Future Perfect,3rd Person,Plural,comprehendati erunt,comprehendeti erunt,comprehendi erunt,comprehendi erunt,They will have been grasped
+Active Subjunctive,Present,1st Person,Singular,comprehendem,comprehendem,comprehendam,comprehendam,I may grasp
+Active Subjunctive,Present,1st Person,Plural,comprehendemus,comprehendemus,comprehendamus,comprehendamus,We may grasp
+Active Subjunctive,Present,2nd Person,Singular,comprehendes,comprehendes,comprehendas,comprehendas,You may grasp
+Active Subjunctive,Present,2nd Person,Plural,comprehendetis,comprehendetis,comprehendatis,comprehendatis,You (pl.) may grasp
+Active Subjunctive,Present,3rd Person,Singular,comprehendet,comprehendet,comprehendat,comprehendat,He/she/it may grasp
+Active Subjunctive,Present,3rd Person,Plural,comprehendent,comprehendent,comprehendant,comprehendant,They may grasp
+Active Subjunctive,Imperfect,1st Person,Singular,comprehendarem,comprehenderem,comprehenderem,comprehendirem,I should grasp
+Active Subjunctive,Imperfect,1st Person,Plural,comprehendaremus,comprehenderemus,comprehenderemus,comprehendiremus,We should grasp
+Active Subjunctive,Imperfect,2nd Person,Singular,comprehendares,comprehenderes,comprehenderes,comprehendires,You should grasp
+Active Subjunctive,Imperfect,2nd Person,Plural,comprehendaretis,comprehenderetis,comprehenderetis,comprehendiretis,You (pl.) should grasp
+Active Subjunctive,Imperfect,3rd Person,Singular,comprehendaret,comprehenderet,comprehenderet,comprehendiret,He/she/it should grasp
+Active Subjunctive,Imperfect,3rd Person,Plural,comprehendarent,comprehenderent,comprehenderent,comprehendirent,They should grasp
+Active Subjunctive,Perfect,1st Person,Singular,comprehenderim,comprehenduerim,comprehenderim,comprehendierim,I may have grasped
+Active Subjunctive,Perfect,1st Person,Plural,comprehenderimus,comprehenduerimus,comprehenderimus,comprehendierimus,We may have grasped
+Active Subjunctive,Perfect,2nd Person,Singular,comprehenderis,comprehendueris,comprehenderis,comprehendieris,You may have grasped
+Active Subjunctive,Perfect,2nd Person,Plural,comprehenderitis,comprehendueritis,comprehenderitis,comprehendieritis,You (pl.) may have grasped
+Active Subjunctive,Perfect,3rd Person,Singular,comprehenderit,comprehenduerit,comprehenderit,comprehendierit,He/she/it may have grasped
+Active Subjunctive,Perfect,3rd Person,Plural,comprehenderint,comprehenduerint,comprehenderint,comprehendierint,They may have grasped
+Active Subjunctive,Pluperfect,1st Person,Singular,comprehendissem,comprehenduissem,comprehendissem,comprehendissem,I should have grasped
+Active Subjunctive,Pluperfect,1st Person,Plural,comprehendissemus,comprehenduissemus,comprehendissemus,comprehendissemus,We should have grasped
+Active Subjunctive,Pluperfect,2nd Person,Singular,comprehendisses,comprehenduisses,comprehendisses,comprehendisses,You would have grasped
+Active Subjunctive,Pluperfect,2nd Person,Plural,comprehendissetis,comprehenduissetis,comprehendissetis,comprehendissetis,You (pl.) would have grasped
+Active Subjunctive,Pluperfect,3rd Person,Singular,comprehendisset,comprehenduisset,comprehendisset,comprehendisset,He/she/it would have grasped
+Active Subjunctive,Pluperfect,3rd Person,Plural,comprehendissent,comprehenduissent,comprehendissent,comprehendissent,They would have grasped
+Passive Subjunctive,Present,1st Person,Singular,comprehender,comprehender,comprehendar,comprehendar,I may be grasped
+Passive Subjunctive,Present,1st Person,Plural,comprehendemur,comprehendemur,comprehendamur,comprehendamur,We may be grasped
+Passive Subjunctive,Present,2nd Person,Singular,comprehenderis,comprehenderis,comprehendaris,comprehendaris,You may be grasped
+Passive Subjunctive,Present,2nd Person,Plural,comprehendemini,comprehendemini,comprehendamini,comprehendamini,You (pl.) may be grasped
+Passive Subjunctive,Present,3rd Person,Singular,comprehendetur,comprehendetur,comprehendatur,comprehendatur,He/she/it may be grasped
+Passive Subjunctive,Present,3rd Person,Plural,comprehendentur,comprehendentur,comprehendantur,comprehendantur,They may be grasped
+Passive Subjunctive,Imperfect,1st Person,Singular,comprehendarer,comprehenderer,comprehenderer,comprehendirer,I should be grasped
+Passive Subjunctive,Imperfect,1st Person,Plural,comprehendaremur,comprehenderemur,comprehenderemur,comprehendiremur,We should be grasped
+Passive Subjunctive,Imperfect,2nd Person,Singular,comprehendareris,comprehendereris,comprehendereris,comprehendireris,You would be grasped
+Passive Subjunctive,Imperfect,2nd Person,Plural,comprehendaremini,comprehenderemini,comprehenderemini,comprehendiremini,You (pl.) would be grasped
+Passive Subjunctive,Imperfect,3rd Person,Singular,comprehendaretur,comprehenderetur,comprehenderetur,comprehendiretur,He/she/it would be grasped
+Passive Subjunctive,Imperfect,3rd Person,Plural,comprehendarentur,comprehenderentur,comprehenderentur,comprehendirentur,They would be grasped
+Passive Subjunctive,Perfect,1st Person,Singular,comprehendatus sim,comprehendetus sim,comprehendus sim,comprehendus sim,I may have been grasped
+Passive Subjunctive,Perfect,1st Person,Plural,comprehendati simus,comprehendeti simus,comprehendi simus,comprehendi simus,We may have been grasped
+Passive Subjunctive,Perfect,2nd Person,Singular,comprehendatus sis,comprehendetus sis,comprehendus sis,comprehendus sis,You may have been grasped
+Passive Subjunctive,Perfect,2nd Person,Plural,comprehendati sitis,comprehendeti sitis,comprehendi sitis,comprehendi sitis,You (pl.) may have been grasped
+Passive Subjunctive,Perfect,3rd Person,Singular,comprehendatus sit,comprehendetus sit,comprehendus sit,comprehendus sit,He/she/it may have been grasped
+Passive Subjunctive,Perfect,3rd Person,Plural,comprehendati sint,comprehendeti sint,comprehendi sint,comprehendi sint,They may have been grasped
+Passive Subjunctive,Pluperfect,1st Person,Singular,comprehendatus essem,comprehendetus essem,comprehendus essem,comprehendus essem,I should have been grasped
+Passive Subjunctive,Pluperfect,1st Person,Plural,comprehendati essemus,comprehendeti essemus,comprehendi essemus,comprehendi essemus,We should have been grasped
+Passive Subjunctive,Pluperfect,2nd Person,Singular,comprehendatus esses,comprehendetus esses,comprehendus esses,comprehendus esses,You would have been grasped
+Passive Subjunctive,Pluperfect,2nd Person,Plural,comprehendati essetis,comprehendeti essetis,comprehendi essetis,comprehendi essetis,You (pl.) would have been grasped
+Passive Subjunctive,Pluperfect,3rd Person,Singular,comprehendatus esset,comprehendetus esset,comprehendus esset,comprehendus esset,He/she/it would have been grasped
+Passive Subjunctive,Pluperfect,3rd Person,Plural,comprehendati essent,comprehendeti essent,comprehendi essent,comprehendi essent,They would have been grasped

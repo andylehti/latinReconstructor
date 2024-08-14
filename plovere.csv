@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,plovo,ploveo,plovo,plovio,I rain
+Active Indicative,Present,1st Person,Plural,plovamus,plovemus,plovimus,plovimus,We rain
+Active Indicative,Present,2nd Person,Singular,plovas,ploves,plovis,plovis,You rain
+Active Indicative,Present,2nd Person,Plural,plovatis,plovetis,plovitis,plovitis,You (pl.) rain
+Active Indicative,Present,3rd Person,Singular,plovat,plovet,plovit,plovit,He/she/it rain
+Active Indicative,Present,3rd Person,Plural,plovant,plovent,ploviunt,ploviunt,They rain
+Active Indicative,Imperfect,1st Person,Singular,plovabam,plovebam,plovebam,ploviebam,I was raining
+Active Indicative,Imperfect,1st Person,Plural,plovabamus,plovebamus,plovebamus,ploviebamus,We were raining
+Active Indicative,Imperfect,2nd Person,Singular,plovabas,plovebas,plovebas,ploviebas,You were raining
+Active Indicative,Imperfect,2nd Person,Plural,plovabatis,plovebatis,plovebatis,ploviebatis,You (pl.) were raining
+Active Indicative,Imperfect,3rd Person,Singular,plovabat,plovebat,plovebat,ploviebat,He/she/it was raining
+Active Indicative,Imperfect,3rd Person,Plural,plovabant,plovebant,plovebant,ploviebant,They were raining
+Active Indicative,Future,1st Person,Singular,plovabo,plovebo,plovam,ploviam,I will rain
+Active Indicative,Future,1st Person,Plural,plovabimus,plovebimus,plovemus,ploviemus,We will rain
+Active Indicative,Future,2nd Person,Singular,plovabis,plovebis,ploves,plovies,You will rain
+Active Indicative,Future,2nd Person,Plural,plovabitis,plovebitis,plovetis,plovietis,You (pl.) will rain
+Active Indicative,Future,3rd Person,Singular,plovabit,plovebit,plovet,ploviet,He/she/it will rain
+Active Indicative,Future,3rd Person,Plural,plovabunt,plovebunt,plovent,plovient,They will rain
+Active Indicative,Perfect,1st Person,Singular,plovavi,plovui,plovi,plovi,I have rained
+Active Indicative,Perfect,1st Person,Plural,plovavimus,plovuimus,plovimus,plovimus,We have rained
+Active Indicative,Perfect,2nd Person,Singular,plovavisti,plovuisti,plovisti,plovisti,You have rained
+Active Indicative,Perfect,2nd Person,Plural,plovavistis,plovuistis,plovistis,plovistis,You (pl.) have rained
+Active Indicative,Perfect,3rd Person,Singular,plovavit,plovuit,plovit,plovit,He/she/it has rained
+Active Indicative,Perfect,3rd Person,Plural,plovaverunt,plovuerunt,ploverunt,ploverunt,They have rained
+Active Indicative,Pluperfect,1st Person,Singular,plovaveram,plovueram,ploveram,ploveram,I had rained
+Active Indicative,Pluperfect,1st Person,Plural,plovaveramus,plovueramus,ploveramus,ploveramus,We had rained
+Active Indicative,Pluperfect,2nd Person,Singular,plovaveras,plovueras,ploveras,ploveras,You had rained
+Active Indicative,Pluperfect,2nd Person,Plural,plovaveratis,plovueratis,ploveratis,ploveratis,You (pl.) had rained
+Active Indicative,Pluperfect,3rd Person,Singular,plovaverat,plovuerat,ploverat,ploverat,He/she/it had rained
+Active Indicative,Pluperfect,3rd Person,Plural,plovaverant,plovuerant,ploverant,ploverant,They had rained
+Active Indicative,Future Perfect,1st Person,Singular,plovavero,plovueero,plovero,ploviero,I will have rained
+Active Indicative,Future Perfect,1st Person,Plural,plovaverimus,plovuerimus,ploverimus,plovierimus,We will have rained
+Active Indicative,Future Perfect,2nd Person,Singular,plovaveris,plovueris,ploveris,plovieris,You will have rained
+Active Indicative,Future Perfect,2nd Person,Plural,plovaveritis,plovueritis,ploveritis,plovieritis,You (pl.) will have rained
+Active Indicative,Future Perfect,3rd Person,Singular,plovaverit,plovuerit,ploverit,plovierit,He/she/it will have rained
+Active Indicative,Future Perfect,3rd Person,Plural,plovaverint,plovuerint,ploverint,plovierint,They will have rained
+Passive Indicative,Present,1st Person,Singular,plovor,ploveor,plovor,plovior,I am being rained
+Passive Indicative,Present,1st Person,Plural,plovamur,plovemur,plovimur,plovimur,We are being rained
+Passive Indicative,Present,2nd Person,Singular,plovaris,ploveris,ploviris,ploviris,You are being rained
+Passive Indicative,Present,2nd Person,Plural,plovamini,plovemini,plovimini,plovimini,You (pl.) are being rained
+Passive Indicative,Present,3rd Person,Singular,plovatur,plovetur,plovitur,plovitur,He/she/it is being rained
+Passive Indicative,Present,3rd Person,Plural,plovantur,ploventur,ploviuntur,ploviuntur,They are being rained
+Passive Indicative,Imperfect,1st Person,Singular,plovabar,plovebar,plovebar,ploviebar,I was rained
+Passive Indicative,Imperfect,1st Person,Plural,plovabamur,plovebamur,plovebamur,ploviebamur,We were rained
+Passive Indicative,Imperfect,2nd Person,Singular,plovabaris,plovebaris,plovebaris,ploviebaris,You were rained
+Passive Indicative,Imperfect,2nd Person,Plural,plovabamini,plovebamini,plovebamini,ploviebamini,You (pl.) were rained
+Passive Indicative,Imperfect,3rd Person,Singular,plovabatur,plovebatur,plovebatur,ploviebatur,He/she/it was rained
+Passive Indicative,Imperfect,3rd Person,Plural,plovabantur,plovebantur,plovebantur,ploviebantur,They were rained
+Passive Indicative,Future,1st Person,Singular,plovabor,plovebor,plovar,ploviar,I will be rained
+Passive Indicative,Future,1st Person,Plural,plovabimur,plovebimur,plovemur,ploviemur,We will be rained
+Passive Indicative,Future,2nd Person,Singular,plovaberis,ploveberis,ploveris,plovieris,You will be rained
+Passive Indicative,Future,2nd Person,Plural,plovabimini,plovebimini,plovemini,ploviemini,You (pl.) will be rained
+Passive Indicative,Future,3rd Person,Singular,plovabitur,plovebitur,plovetur,plovietur,He/she/it will be rained
+Passive Indicative,Future,3rd Person,Plural,plovabuntur,plovebuntur,ploventur,plovientur,They will be rained
+Passive Indicative,Perfect,1st Person,Singular,plovatus sum,plovetus sum,plovus sum,plovus sum,I have been rained
+Passive Indicative,Perfect,1st Person,Plural,plovati sumus,ploveti sumus,plovi sumus,plovi sumus,We have been rained
+Passive Indicative,Perfect,2nd Person,Singular,plovatus es,plovetus es,plovus es,plovus es,You have been rained
+Passive Indicative,Perfect,2nd Person,Plural,plovati estis,ploveti estis,plovi estis,plovi estis,You (pl.) have been rained
+Passive Indicative,Perfect,3rd Person,Singular,plovatus est,plovetus est,plovus est,plovus est,He/she/it has been rained
+Passive Indicative,Perfect,3rd Person,Plural,plovati sunt,ploveti sunt,plovi sunt,plovi sunt,They have been rained
+Passive Indicative,Pluperfect,1st Person,Singular,plovatus eram,plovetus eram,plovus eram,plovus eram,I had been rained
+Passive Indicative,Pluperfect,1st Person,Plural,plovati eramus,ploveti eramus,plovi eramus,plovi eramus,We had been rained
+Passive Indicative,Pluperfect,2nd Person,Singular,plovatus eras,plovetus eras,plovus eras,plovus eras,You had been rained
+Passive Indicative,Pluperfect,2nd Person,Plural,plovati eratis,ploveti eratis,plovi eratis,plovi eratis,You (pl.) had been rained
+Passive Indicative,Pluperfect,3rd Person,Singular,plovatus erat,plovetus erat,plovus erat,plovus erat,He/she/it had been rained
+Passive Indicative,Pluperfect,3rd Person,Plural,plovati erant,ploveti erant,plovi erant,plovi erant,They had been rained
+Passive Indicative,Future Perfect,1st Person,Singular,plovatus ero,plovetus ero,plovus ero,plovus ero,I will have been rained
+Passive Indicative,Future Perfect,1st Person,Plural,plovati erimus,ploveti erimus,plovi erimus,plovi erimus,We will have been rained
+Passive Indicative,Future Perfect,2nd Person,Singular,plovatus eris,plovetus eris,plovus eris,plovus eris,You will have been rained
+Passive Indicative,Future Perfect,2nd Person,Plural,plovati eritis,ploveti eritis,plovi eritis,plovi eritis,You (pl.) will have been rained
+Passive Indicative,Future Perfect,3rd Person,Singular,plovatus erit,plovetus erit,plovus erit,plovus erit,He/she/it will have been rained
+Passive Indicative,Future Perfect,3rd Person,Plural,plovati erunt,ploveti erunt,plovi erunt,plovi erunt,They will have been rained
+Active Subjunctive,Present,1st Person,Singular,plovem,plovem,plovam,plovam,I may rain
+Active Subjunctive,Present,1st Person,Plural,plovemus,plovemus,plovamus,plovamus,We may rain
+Active Subjunctive,Present,2nd Person,Singular,ploves,ploves,plovas,plovas,You may rain
+Active Subjunctive,Present,2nd Person,Plural,plovetis,plovetis,plovatis,plovatis,You (pl.) may rain
+Active Subjunctive,Present,3rd Person,Singular,plovet,plovet,plovat,plovat,He/she/it may rain
+Active Subjunctive,Present,3rd Person,Plural,plovent,plovent,plovant,plovant,They may rain
+Active Subjunctive,Imperfect,1st Person,Singular,plovarem,ploverem,ploverem,plovirem,I should rain
+Active Subjunctive,Imperfect,1st Person,Plural,plovaremus,ploveremus,ploveremus,ploviremus,We should rain
+Active Subjunctive,Imperfect,2nd Person,Singular,plovares,ploveres,ploveres,plovires,You should rain
+Active Subjunctive,Imperfect,2nd Person,Plural,plovaretis,ploveretis,ploveretis,ploviretis,You (pl.) should rain
+Active Subjunctive,Imperfect,3rd Person,Singular,plovaret,ploveret,ploveret,ploviret,He/she/it should rain
+Active Subjunctive,Imperfect,3rd Person,Plural,plovarent,ploverent,ploverent,plovirent,They should rain
+Active Subjunctive,Perfect,1st Person,Singular,ploverim,plovuerim,ploverim,plovierim,I may have rained
+Active Subjunctive,Perfect,1st Person,Plural,ploverimus,plovuerimus,ploverimus,plovierimus,We may have rained
+Active Subjunctive,Perfect,2nd Person,Singular,ploveris,plovueris,ploveris,plovieris,You may have rained
+Active Subjunctive,Perfect,2nd Person,Plural,ploveritis,plovueritis,ploveritis,plovieritis,You (pl.) may have rained
+Active Subjunctive,Perfect,3rd Person,Singular,ploverit,plovuerit,ploverit,plovierit,He/she/it may have rained
+Active Subjunctive,Perfect,3rd Person,Plural,ploverint,plovuerint,ploverint,plovierint,They may have rained
+Active Subjunctive,Pluperfect,1st Person,Singular,plovissem,plovuissem,plovissem,plovissem,I should have rained
+Active Subjunctive,Pluperfect,1st Person,Plural,plovissemus,plovuissemus,plovissemus,plovissemus,We should have rained
+Active Subjunctive,Pluperfect,2nd Person,Singular,plovisses,plovuisses,plovisses,plovisses,You would have rained
+Active Subjunctive,Pluperfect,2nd Person,Plural,plovissetis,plovuissetis,plovissetis,plovissetis,You (pl.) would have rained
+Active Subjunctive,Pluperfect,3rd Person,Singular,plovisset,plovuisset,plovisset,plovisset,He/she/it would have rained
+Active Subjunctive,Pluperfect,3rd Person,Plural,plovissent,plovuissent,plovissent,plovissent,They would have rained
+Passive Subjunctive,Present,1st Person,Singular,plover,plover,plovar,plovar,I may be rained
+Passive Subjunctive,Present,1st Person,Plural,plovemur,plovemur,plovamur,plovamur,We may be rained
+Passive Subjunctive,Present,2nd Person,Singular,ploveris,ploveris,plovaris,plovaris,You may be rained
+Passive Subjunctive,Present,2nd Person,Plural,plovemini,plovemini,plovamini,plovamini,You (pl.) may be rained
+Passive Subjunctive,Present,3rd Person,Singular,plovetur,plovetur,plovatur,plovatur,He/she/it may be rained
+Passive Subjunctive,Present,3rd Person,Plural,ploventur,ploventur,plovantur,plovantur,They may be rained
+Passive Subjunctive,Imperfect,1st Person,Singular,plovarer,ploverer,ploverer,plovirer,I should be rained
+Passive Subjunctive,Imperfect,1st Person,Plural,plovaremur,ploveremur,ploveremur,ploviremur,We should be rained
+Passive Subjunctive,Imperfect,2nd Person,Singular,plovareris,plovereris,plovereris,plovireris,You would be rained
+Passive Subjunctive,Imperfect,2nd Person,Plural,plovaremini,ploveremini,ploveremini,ploviremini,You (pl.) would be rained
+Passive Subjunctive,Imperfect,3rd Person,Singular,plovaretur,ploveretur,ploveretur,ploviretur,He/she/it would be rained
+Passive Subjunctive,Imperfect,3rd Person,Plural,plovarentur,ploverentur,ploverentur,plovirentur,They would be rained
+Passive Subjunctive,Perfect,1st Person,Singular,plovatus sim,plovetus sim,plovus sim,plovus sim,I may have been rained
+Passive Subjunctive,Perfect,1st Person,Plural,plovati simus,ploveti simus,plovi simus,plovi simus,We may have been rained
+Passive Subjunctive,Perfect,2nd Person,Singular,plovatus sis,plovetus sis,plovus sis,plovus sis,You may have been rained
+Passive Subjunctive,Perfect,2nd Person,Plural,plovati sitis,ploveti sitis,plovi sitis,plovi sitis,You (pl.) may have been rained
+Passive Subjunctive,Perfect,3rd Person,Singular,plovatus sit,plovetus sit,plovus sit,plovus sit,He/she/it may have been rained
+Passive Subjunctive,Perfect,3rd Person,Plural,plovati sint,ploveti sint,plovi sint,plovi sint,They may have been rained
+Passive Subjunctive,Pluperfect,1st Person,Singular,plovatus essem,plovetus essem,plovus essem,plovus essem,I should have been rained
+Passive Subjunctive,Pluperfect,1st Person,Plural,plovati essemus,ploveti essemus,plovi essemus,plovi essemus,We should have been rained
+Passive Subjunctive,Pluperfect,2nd Person,Singular,plovatus esses,plovetus esses,plovus esses,plovus esses,You would have been rained
+Passive Subjunctive,Pluperfect,2nd Person,Plural,plovati essetis,ploveti essetis,plovi essetis,plovi essetis,You (pl.) would have been rained
+Passive Subjunctive,Pluperfect,3rd Person,Singular,plovatus esset,plovetus esset,plovus esset,plovus esset,He/she/it would have been rained
+Passive Subjunctive,Pluperfect,3rd Person,Plural,plovati essent,ploveti essent,plovi essent,plovi essent,They would have been rained

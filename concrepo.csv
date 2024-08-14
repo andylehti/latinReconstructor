@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,concrepo,concrepeo,concrepo,concrepio,I creak
+Active Indicative,Present,1st Person,Plural,concrepamus,concrepemus,concrepimus,concrepimus,We creak
+Active Indicative,Present,2nd Person,Singular,concrepas,concrepes,concrepis,concrepis,You creak
+Active Indicative,Present,2nd Person,Plural,concrepatis,concrepetis,concrepitis,concrepitis,You (pl.) creak
+Active Indicative,Present,3rd Person,Singular,concrepat,concrepet,concrepit,concrepit,He/she/it creak
+Active Indicative,Present,3rd Person,Plural,concrepant,concrepent,concrepiunt,concrepiunt,They creak
+Active Indicative,Imperfect,1st Person,Singular,concrepabam,concrepebam,concrepebam,concrepiebam,I was creaking
+Active Indicative,Imperfect,1st Person,Plural,concrepabamus,concrepebamus,concrepebamus,concrepiebamus,We were creaking
+Active Indicative,Imperfect,2nd Person,Singular,concrepabas,concrepebas,concrepebas,concrepiebas,You were creaking
+Active Indicative,Imperfect,2nd Person,Plural,concrepabatis,concrepebatis,concrepebatis,concrepiebatis,You (pl.) were creaking
+Active Indicative,Imperfect,3rd Person,Singular,concrepabat,concrepebat,concrepebat,concrepiebat,He/she/it was creaking
+Active Indicative,Imperfect,3rd Person,Plural,concrepabant,concrepebant,concrepebant,concrepiebant,They were creaking
+Active Indicative,Future,1st Person,Singular,concrepabo,concrepebo,concrepam,concrepiam,I will creak
+Active Indicative,Future,1st Person,Plural,concrepabimus,concrepebimus,concrepemus,concrepiemus,We will creak
+Active Indicative,Future,2nd Person,Singular,concrepabis,concrepebis,concrepes,concrepies,You will creak
+Active Indicative,Future,2nd Person,Plural,concrepabitis,concrepebitis,concrepetis,concrepietis,You (pl.) will creak
+Active Indicative,Future,3rd Person,Singular,concrepabit,concrepebit,concrepet,concrepiet,He/she/it will creak
+Active Indicative,Future,3rd Person,Plural,concrepabunt,concrepebunt,concrepent,concrepient,They will creak
+Active Indicative,Perfect,1st Person,Singular,concrepavi,concrepui,concrepi,concrepi,I have creaked
+Active Indicative,Perfect,1st Person,Plural,concrepavimus,concrepuimus,concrepimus,concrepimus,We have creaked
+Active Indicative,Perfect,2nd Person,Singular,concrepavisti,concrepuisti,concrepisti,concrepisti,You have creaked
+Active Indicative,Perfect,2nd Person,Plural,concrepavistis,concrepuistis,concrepistis,concrepistis,You (pl.) have creaked
+Active Indicative,Perfect,3rd Person,Singular,concrepavit,concrepuit,concrepit,concrepit,He/she/it has creaked
+Active Indicative,Perfect,3rd Person,Plural,concrepaverunt,concrepuerunt,concreperunt,concreperunt,They have creaked
+Active Indicative,Pluperfect,1st Person,Singular,concrepaveram,concrepueram,concreperam,concreperam,I had creaked
+Active Indicative,Pluperfect,1st Person,Plural,concrepaveramus,concrepueramus,concreperamus,concreperamus,We had creaked
+Active Indicative,Pluperfect,2nd Person,Singular,concrepaveras,concrepueras,concreperas,concreperas,You had creaked
+Active Indicative,Pluperfect,2nd Person,Plural,concrepaveratis,concrepueratis,concreperatis,concreperatis,You (pl.) had creaked
+Active Indicative,Pluperfect,3rd Person,Singular,concrepaverat,concrepuerat,concreperat,concreperat,He/she/it had creaked
+Active Indicative,Pluperfect,3rd Person,Plural,concrepaverant,concrepuerant,concreperant,concreperant,They had creaked
+Active Indicative,Future Perfect,1st Person,Singular,concrepavero,concrepueero,concrepero,concrepiero,I will have creaked
+Active Indicative,Future Perfect,1st Person,Plural,concrepaverimus,concrepuerimus,concreperimus,concrepierimus,We will have creaked
+Active Indicative,Future Perfect,2nd Person,Singular,concrepaveris,concrepueris,concreperis,concrepieris,You will have creaked
+Active Indicative,Future Perfect,2nd Person,Plural,concrepaveritis,concrepueritis,concreperitis,concrepieritis,You (pl.) will have creaked
+Active Indicative,Future Perfect,3rd Person,Singular,concrepaverit,concrepuerit,concreperit,concrepierit,He/she/it will have creaked
+Active Indicative,Future Perfect,3rd Person,Plural,concrepaverint,concrepuerint,concreperint,concrepierint,They will have creaked
+Passive Indicative,Present,1st Person,Singular,concrepor,concrepeor,concrepor,concrepior,I am being creaked
+Passive Indicative,Present,1st Person,Plural,concrepamur,concrepemur,concrepimur,concrepimur,We are being creaked
+Passive Indicative,Present,2nd Person,Singular,concreparis,concreperis,concrepiris,concrepiris,You are being creaked
+Passive Indicative,Present,2nd Person,Plural,concrepamini,concrepemini,concrepimini,concrepimini,You (pl.) are being creaked
+Passive Indicative,Present,3rd Person,Singular,concrepatur,concrepetur,concrepitur,concrepitur,He/she/it is being creaked
+Passive Indicative,Present,3rd Person,Plural,concrepantur,concrepentur,concrepiuntur,concrepiuntur,They are being creaked
+Passive Indicative,Imperfect,1st Person,Singular,concrepabar,concrepebar,concrepebar,concrepiebar,I was creaked
+Passive Indicative,Imperfect,1st Person,Plural,concrepabamur,concrepebamur,concrepebamur,concrepiebamur,We were creaked
+Passive Indicative,Imperfect,2nd Person,Singular,concrepabaris,concrepebaris,concrepebaris,concrepiebaris,You were creaked
+Passive Indicative,Imperfect,2nd Person,Plural,concrepabamini,concrepebamini,concrepebamini,concrepiebamini,You (pl.) were creaked
+Passive Indicative,Imperfect,3rd Person,Singular,concrepabatur,concrepebatur,concrepebatur,concrepiebatur,He/she/it was creaked
+Passive Indicative,Imperfect,3rd Person,Plural,concrepabantur,concrepebantur,concrepebantur,concrepiebantur,They were creaked
+Passive Indicative,Future,1st Person,Singular,concrepabor,concrepebor,concrepar,concrepiar,I will be creaked
+Passive Indicative,Future,1st Person,Plural,concrepabimur,concrepebimur,concrepemur,concrepiemur,We will be creaked
+Passive Indicative,Future,2nd Person,Singular,concrepaberis,concrepeberis,concreperis,concrepieris,You will be creaked
+Passive Indicative,Future,2nd Person,Plural,concrepabimini,concrepebimini,concrepemini,concrepiemini,You (pl.) will be creaked
+Passive Indicative,Future,3rd Person,Singular,concrepabitur,concrepebitur,concrepetur,concrepietur,He/she/it will be creaked
+Passive Indicative,Future,3rd Person,Plural,concrepabuntur,concrepebuntur,concrepentur,concrepientur,They will be creaked
+Passive Indicative,Perfect,1st Person,Singular,concrepatus sum,concrepetus sum,concrepus sum,concrepus sum,I have been creaked
+Passive Indicative,Perfect,1st Person,Plural,concrepati sumus,concrepeti sumus,concrepi sumus,concrepi sumus,We have been creaked
+Passive Indicative,Perfect,2nd Person,Singular,concrepatus es,concrepetus es,concrepus es,concrepus es,You have been creaked
+Passive Indicative,Perfect,2nd Person,Plural,concrepati estis,concrepeti estis,concrepi estis,concrepi estis,You (pl.) have been creaked
+Passive Indicative,Perfect,3rd Person,Singular,concrepatus est,concrepetus est,concrepus est,concrepus est,He/she/it has been creaked
+Passive Indicative,Perfect,3rd Person,Plural,concrepati sunt,concrepeti sunt,concrepi sunt,concrepi sunt,They have been creaked
+Passive Indicative,Pluperfect,1st Person,Singular,concrepatus eram,concrepetus eram,concrepus eram,concrepus eram,I had been creaked
+Passive Indicative,Pluperfect,1st Person,Plural,concrepati eramus,concrepeti eramus,concrepi eramus,concrepi eramus,We had been creaked
+Passive Indicative,Pluperfect,2nd Person,Singular,concrepatus eras,concrepetus eras,concrepus eras,concrepus eras,You had been creaked
+Passive Indicative,Pluperfect,2nd Person,Plural,concrepati eratis,concrepeti eratis,concrepi eratis,concrepi eratis,You (pl.) had been creaked
+Passive Indicative,Pluperfect,3rd Person,Singular,concrepatus erat,concrepetus erat,concrepus erat,concrepus erat,He/she/it had been creaked
+Passive Indicative,Pluperfect,3rd Person,Plural,concrepati erant,concrepeti erant,concrepi erant,concrepi erant,They had been creaked
+Passive Indicative,Future Perfect,1st Person,Singular,concrepatus ero,concrepetus ero,concrepus ero,concrepus ero,I will have been creaked
+Passive Indicative,Future Perfect,1st Person,Plural,concrepati erimus,concrepeti erimus,concrepi erimus,concrepi erimus,We will have been creaked
+Passive Indicative,Future Perfect,2nd Person,Singular,concrepatus eris,concrepetus eris,concrepus eris,concrepus eris,You will have been creaked
+Passive Indicative,Future Perfect,2nd Person,Plural,concrepati eritis,concrepeti eritis,concrepi eritis,concrepi eritis,You (pl.) will have been creaked
+Passive Indicative,Future Perfect,3rd Person,Singular,concrepatus erit,concrepetus erit,concrepus erit,concrepus erit,He/she/it will have been creaked
+Passive Indicative,Future Perfect,3rd Person,Plural,concrepati erunt,concrepeti erunt,concrepi erunt,concrepi erunt,They will have been creaked
+Active Subjunctive,Present,1st Person,Singular,concrepem,concrepem,concrepam,concrepam,I may creak
+Active Subjunctive,Present,1st Person,Plural,concrepemus,concrepemus,concrepamus,concrepamus,We may creak
+Active Subjunctive,Present,2nd Person,Singular,concrepes,concrepes,concrepas,concrepas,You may creak
+Active Subjunctive,Present,2nd Person,Plural,concrepetis,concrepetis,concrepatis,concrepatis,You (pl.) may creak
+Active Subjunctive,Present,3rd Person,Singular,concrepet,concrepet,concrepat,concrepat,He/she/it may creak
+Active Subjunctive,Present,3rd Person,Plural,concrepent,concrepent,concrepant,concrepant,They may creak
+Active Subjunctive,Imperfect,1st Person,Singular,concreparem,concreperem,concreperem,concrepirem,I should creak
+Active Subjunctive,Imperfect,1st Person,Plural,concreparemus,concreperemus,concreperemus,concrepiremus,We should creak
+Active Subjunctive,Imperfect,2nd Person,Singular,concrepares,concreperes,concreperes,concrepires,You should creak
+Active Subjunctive,Imperfect,2nd Person,Plural,concreparetis,concreperetis,concreperetis,concrepiretis,You (pl.) should creak
+Active Subjunctive,Imperfect,3rd Person,Singular,concreparet,concreperet,concreperet,concrepiret,He/she/it should creak
+Active Subjunctive,Imperfect,3rd Person,Plural,concreparent,concreperent,concreperent,concrepirent,They should creak
+Active Subjunctive,Perfect,1st Person,Singular,concreperim,concrepuerim,concreperim,concrepierim,I may have creaked
+Active Subjunctive,Perfect,1st Person,Plural,concreperimus,concrepuerimus,concreperimus,concrepierimus,We may have creaked
+Active Subjunctive,Perfect,2nd Person,Singular,concreperis,concrepueris,concreperis,concrepieris,You may have creaked
+Active Subjunctive,Perfect,2nd Person,Plural,concreperitis,concrepueritis,concreperitis,concrepieritis,You (pl.) may have creaked
+Active Subjunctive,Perfect,3rd Person,Singular,concreperit,concrepuerit,concreperit,concrepierit,He/she/it may have creaked
+Active Subjunctive,Perfect,3rd Person,Plural,concreperint,concrepuerint,concreperint,concrepierint,They may have creaked
+Active Subjunctive,Pluperfect,1st Person,Singular,concrepissem,concrepuissem,concrepissem,concrepissem,I should have creaked
+Active Subjunctive,Pluperfect,1st Person,Plural,concrepissemus,concrepuissemus,concrepissemus,concrepissemus,We should have creaked
+Active Subjunctive,Pluperfect,2nd Person,Singular,concrepisses,concrepuisses,concrepisses,concrepisses,You would have creaked
+Active Subjunctive,Pluperfect,2nd Person,Plural,concrepissetis,concrepuissetis,concrepissetis,concrepissetis,You (pl.) would have creaked
+Active Subjunctive,Pluperfect,3rd Person,Singular,concrepisset,concrepuisset,concrepisset,concrepisset,He/she/it would have creaked
+Active Subjunctive,Pluperfect,3rd Person,Plural,concrepissent,concrepuissent,concrepissent,concrepissent,They would have creaked
+Passive Subjunctive,Present,1st Person,Singular,concreper,concreper,concrepar,concrepar,I may be creaked
+Passive Subjunctive,Present,1st Person,Plural,concrepemur,concrepemur,concrepamur,concrepamur,We may be creaked
+Passive Subjunctive,Present,2nd Person,Singular,concreperis,concreperis,concreparis,concreparis,You may be creaked
+Passive Subjunctive,Present,2nd Person,Plural,concrepemini,concrepemini,concrepamini,concrepamini,You (pl.) may be creaked
+Passive Subjunctive,Present,3rd Person,Singular,concrepetur,concrepetur,concrepatur,concrepatur,He/she/it may be creaked
+Passive Subjunctive,Present,3rd Person,Plural,concrepentur,concrepentur,concrepantur,concrepantur,They may be creaked
+Passive Subjunctive,Imperfect,1st Person,Singular,concreparer,concreperer,concreperer,concrepirer,I should be creaked
+Passive Subjunctive,Imperfect,1st Person,Plural,concreparemur,concreperemur,concreperemur,concrepiremur,We should be creaked
+Passive Subjunctive,Imperfect,2nd Person,Singular,concrepareris,concrepereris,concrepereris,concrepireris,You would be creaked
+Passive Subjunctive,Imperfect,2nd Person,Plural,concreparemini,concreperemini,concreperemini,concrepiremini,You (pl.) would be creaked
+Passive Subjunctive,Imperfect,3rd Person,Singular,concreparetur,concreperetur,concreperetur,concrepiretur,He/she/it would be creaked
+Passive Subjunctive,Imperfect,3rd Person,Plural,concreparentur,concreperentur,concreperentur,concrepirentur,They would be creaked
+Passive Subjunctive,Perfect,1st Person,Singular,concrepatus sim,concrepetus sim,concrepus sim,concrepus sim,I may have been creaked
+Passive Subjunctive,Perfect,1st Person,Plural,concrepati simus,concrepeti simus,concrepi simus,concrepi simus,We may have been creaked
+Passive Subjunctive,Perfect,2nd Person,Singular,concrepatus sis,concrepetus sis,concrepus sis,concrepus sis,You may have been creaked
+Passive Subjunctive,Perfect,2nd Person,Plural,concrepati sitis,concrepeti sitis,concrepi sitis,concrepi sitis,You (pl.) may have been creaked
+Passive Subjunctive,Perfect,3rd Person,Singular,concrepatus sit,concrepetus sit,concrepus sit,concrepus sit,He/she/it may have been creaked
+Passive Subjunctive,Perfect,3rd Person,Plural,concrepati sint,concrepeti sint,concrepi sint,concrepi sint,They may have been creaked
+Passive Subjunctive,Pluperfect,1st Person,Singular,concrepatus essem,concrepetus essem,concrepus essem,concrepus essem,I should have been creaked
+Passive Subjunctive,Pluperfect,1st Person,Plural,concrepati essemus,concrepeti essemus,concrepi essemus,concrepi essemus,We should have been creaked
+Passive Subjunctive,Pluperfect,2nd Person,Singular,concrepatus esses,concrepetus esses,concrepus esses,concrepus esses,You would have been creaked
+Passive Subjunctive,Pluperfect,2nd Person,Plural,concrepati essetis,concrepeti essetis,concrepi essetis,concrepi essetis,You (pl.) would have been creaked
+Passive Subjunctive,Pluperfect,3rd Person,Singular,concrepatus esset,concrepetus esset,concrepus esset,concrepus esset,He/she/it would have been creaked
+Passive Subjunctive,Pluperfect,3rd Person,Plural,concrepati essent,concrepeti essent,concrepi essent,concrepi essent,They would have been creaked

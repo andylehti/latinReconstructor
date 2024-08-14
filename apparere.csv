@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,apparo,appareo,apparo,appario,I appear
+Active Indicative,Present,1st Person,Plural,apparamus,apparemus,apparimus,apparimus,We appear
+Active Indicative,Present,2nd Person,Singular,apparas,appares,apparis,apparis,You appear
+Active Indicative,Present,2nd Person,Plural,apparatis,apparetis,apparitis,apparitis,You (pl.) appear
+Active Indicative,Present,3rd Person,Singular,apparat,apparet,apparit,apparit,He/she/it appear
+Active Indicative,Present,3rd Person,Plural,apparant,apparent,appariunt,appariunt,They appear
+Active Indicative,Imperfect,1st Person,Singular,apparabam,apparebam,apparebam,appariebam,I was appearing
+Active Indicative,Imperfect,1st Person,Plural,apparabamus,apparebamus,apparebamus,appariebamus,We were appearing
+Active Indicative,Imperfect,2nd Person,Singular,apparabas,apparebas,apparebas,appariebas,You were appearing
+Active Indicative,Imperfect,2nd Person,Plural,apparabatis,apparebatis,apparebatis,appariebatis,You (pl.) were appearing
+Active Indicative,Imperfect,3rd Person,Singular,apparabat,apparebat,apparebat,appariebat,He/she/it was appearing
+Active Indicative,Imperfect,3rd Person,Plural,apparabant,apparebant,apparebant,appariebant,They were appearing
+Active Indicative,Future,1st Person,Singular,apparabo,apparebo,apparam,appariam,I will appear
+Active Indicative,Future,1st Person,Plural,apparabimus,apparebimus,apparemus,appariemus,We will appear
+Active Indicative,Future,2nd Person,Singular,apparabis,apparebis,appares,apparies,You will appear
+Active Indicative,Future,2nd Person,Plural,apparabitis,apparebitis,apparetis,apparietis,You (pl.) will appear
+Active Indicative,Future,3rd Person,Singular,apparabit,apparebit,apparet,appariet,He/she/it will appear
+Active Indicative,Future,3rd Person,Plural,apparabunt,apparebunt,apparent,apparient,They will appear
+Active Indicative,Perfect,1st Person,Singular,apparavi,apparui,appari,appari,I have appeared
+Active Indicative,Perfect,1st Person,Plural,apparavimus,apparuimus,apparimus,apparimus,We have appeared
+Active Indicative,Perfect,2nd Person,Singular,apparavisti,apparuisti,apparisti,apparisti,You have appeared
+Active Indicative,Perfect,2nd Person,Plural,apparavistis,apparuistis,apparistis,apparistis,You (pl.) have appeared
+Active Indicative,Perfect,3rd Person,Singular,apparavit,apparuit,apparit,apparit,He/she/it has appeared
+Active Indicative,Perfect,3rd Person,Plural,apparaverunt,apparuerunt,apparerunt,apparerunt,They have appeared
+Active Indicative,Pluperfect,1st Person,Singular,apparaveram,apparueram,appareram,appareram,I had appeared
+Active Indicative,Pluperfect,1st Person,Plural,apparaveramus,apparueramus,appareramus,appareramus,We had appeared
+Active Indicative,Pluperfect,2nd Person,Singular,apparaveras,apparueras,appareras,appareras,You had appeared
+Active Indicative,Pluperfect,2nd Person,Plural,apparaveratis,apparueratis,appareratis,appareratis,You (pl.) had appeared
+Active Indicative,Pluperfect,3rd Person,Singular,apparaverat,apparuerat,apparerat,apparerat,He/she/it had appeared
+Active Indicative,Pluperfect,3rd Person,Plural,apparaverant,apparuerant,apparerant,apparerant,They had appeared
+Active Indicative,Future Perfect,1st Person,Singular,apparavero,apparueero,apparero,appariero,I will have appeared
+Active Indicative,Future Perfect,1st Person,Plural,apparaverimus,apparuerimus,apparerimus,apparierimus,We will have appeared
+Active Indicative,Future Perfect,2nd Person,Singular,apparaveris,apparueris,appareris,apparieris,You will have appeared
+Active Indicative,Future Perfect,2nd Person,Plural,apparaveritis,apparueritis,appareritis,apparieritis,You (pl.) will have appeared
+Active Indicative,Future Perfect,3rd Person,Singular,apparaverit,apparuerit,apparerit,apparierit,He/she/it will have appeared
+Active Indicative,Future Perfect,3rd Person,Plural,apparaverint,apparuerint,apparerint,apparierint,They will have appeared
+Passive Indicative,Present,1st Person,Singular,apparor,appareor,apparor,apparior,I am being appeared
+Passive Indicative,Present,1st Person,Plural,apparamur,apparemur,apparimur,apparimur,We are being appeared
+Passive Indicative,Present,2nd Person,Singular,appararis,appareris,appariris,appariris,You are being appeared
+Passive Indicative,Present,2nd Person,Plural,apparamini,apparemini,apparimini,apparimini,You (pl.) are being appeared
+Passive Indicative,Present,3rd Person,Singular,apparatur,apparetur,apparitur,apparitur,He/she/it is being appeared
+Passive Indicative,Present,3rd Person,Plural,apparantur,apparentur,appariuntur,appariuntur,They are being appeared
+Passive Indicative,Imperfect,1st Person,Singular,apparabar,apparebar,apparebar,appariebar,I was appeared
+Passive Indicative,Imperfect,1st Person,Plural,apparabamur,apparebamur,apparebamur,appariebamur,We were appeared
+Passive Indicative,Imperfect,2nd Person,Singular,apparabaris,apparebaris,apparebaris,appariebaris,You were appeared
+Passive Indicative,Imperfect,2nd Person,Plural,apparabamini,apparebamini,apparebamini,appariebamini,You (pl.) were appeared
+Passive Indicative,Imperfect,3rd Person,Singular,apparabatur,apparebatur,apparebatur,appariebatur,He/she/it was appeared
+Passive Indicative,Imperfect,3rd Person,Plural,apparabantur,apparebantur,apparebantur,appariebantur,They were appeared
+Passive Indicative,Future,1st Person,Singular,apparabor,apparebor,apparar,appariar,I will be appeared
+Passive Indicative,Future,1st Person,Plural,apparabimur,apparebimur,apparemur,appariemur,We will be appeared
+Passive Indicative,Future,2nd Person,Singular,apparaberis,appareberis,appareris,apparieris,You will be appeared
+Passive Indicative,Future,2nd Person,Plural,apparabimini,apparebimini,apparemini,appariemini,You (pl.) will be appeared
+Passive Indicative,Future,3rd Person,Singular,apparabitur,apparebitur,apparetur,apparietur,He/she/it will be appeared
+Passive Indicative,Future,3rd Person,Plural,apparabuntur,apparebuntur,apparentur,apparientur,They will be appeared
+Passive Indicative,Perfect,1st Person,Singular,apparatus sum,apparetus sum,apparus sum,apparus sum,I have been appeared
+Passive Indicative,Perfect,1st Person,Plural,apparati sumus,appareti sumus,appari sumus,appari sumus,We have been appeared
+Passive Indicative,Perfect,2nd Person,Singular,apparatus es,apparetus es,apparus es,apparus es,You have been appeared
+Passive Indicative,Perfect,2nd Person,Plural,apparati estis,appareti estis,appari estis,appari estis,You (pl.) have been appeared
+Passive Indicative,Perfect,3rd Person,Singular,apparatus est,apparetus est,apparus est,apparus est,He/she/it has been appeared
+Passive Indicative,Perfect,3rd Person,Plural,apparati sunt,appareti sunt,appari sunt,appari sunt,They have been appeared
+Passive Indicative,Pluperfect,1st Person,Singular,apparatus eram,apparetus eram,apparus eram,apparus eram,I had been appeared
+Passive Indicative,Pluperfect,1st Person,Plural,apparati eramus,appareti eramus,appari eramus,appari eramus,We had been appeared
+Passive Indicative,Pluperfect,2nd Person,Singular,apparatus eras,apparetus eras,apparus eras,apparus eras,You had been appeared
+Passive Indicative,Pluperfect,2nd Person,Plural,apparati eratis,appareti eratis,appari eratis,appari eratis,You (pl.) had been appeared
+Passive Indicative,Pluperfect,3rd Person,Singular,apparatus erat,apparetus erat,apparus erat,apparus erat,He/she/it had been appeared
+Passive Indicative,Pluperfect,3rd Person,Plural,apparati erant,appareti erant,appari erant,appari erant,They had been appeared
+Passive Indicative,Future Perfect,1st Person,Singular,apparatus ero,apparetus ero,apparus ero,apparus ero,I will have been appeared
+Passive Indicative,Future Perfect,1st Person,Plural,apparati erimus,appareti erimus,appari erimus,appari erimus,We will have been appeared
+Passive Indicative,Future Perfect,2nd Person,Singular,apparatus eris,apparetus eris,apparus eris,apparus eris,You will have been appeared
+Passive Indicative,Future Perfect,2nd Person,Plural,apparati eritis,appareti eritis,appari eritis,appari eritis,You (pl.) will have been appeared
+Passive Indicative,Future Perfect,3rd Person,Singular,apparatus erit,apparetus erit,apparus erit,apparus erit,He/she/it will have been appeared
+Passive Indicative,Future Perfect,3rd Person,Plural,apparati erunt,appareti erunt,appari erunt,appari erunt,They will have been appeared
+Active Subjunctive,Present,1st Person,Singular,apparem,apparem,apparam,apparam,I may appear
+Active Subjunctive,Present,1st Person,Plural,apparemus,apparemus,apparamus,apparamus,We may appear
+Active Subjunctive,Present,2nd Person,Singular,appares,appares,apparas,apparas,You may appear
+Active Subjunctive,Present,2nd Person,Plural,apparetis,apparetis,apparatis,apparatis,You (pl.) may appear
+Active Subjunctive,Present,3rd Person,Singular,apparet,apparet,apparat,apparat,He/she/it may appear
+Active Subjunctive,Present,3rd Person,Plural,apparent,apparent,apparant,apparant,They may appear
+Active Subjunctive,Imperfect,1st Person,Singular,appararem,apparerem,apparerem,apparirem,I should appear
+Active Subjunctive,Imperfect,1st Person,Plural,appararemus,appareremus,appareremus,appariremus,We should appear
+Active Subjunctive,Imperfect,2nd Person,Singular,apparares,appareres,appareres,apparires,You should appear
+Active Subjunctive,Imperfect,2nd Person,Plural,appararetis,appareretis,appareretis,appariretis,You (pl.) should appear
+Active Subjunctive,Imperfect,3rd Person,Singular,appararet,appareret,appareret,appariret,He/she/it should appear
+Active Subjunctive,Imperfect,3rd Person,Plural,appararent,apparerent,apparerent,apparirent,They should appear
+Active Subjunctive,Perfect,1st Person,Singular,apparerim,apparuerim,apparerim,apparierim,I may have appeared
+Active Subjunctive,Perfect,1st Person,Plural,apparerimus,apparuerimus,apparerimus,apparierimus,We may have appeared
+Active Subjunctive,Perfect,2nd Person,Singular,appareris,apparueris,appareris,apparieris,You may have appeared
+Active Subjunctive,Perfect,2nd Person,Plural,appareritis,apparueritis,appareritis,apparieritis,You (pl.) may have appeared
+Active Subjunctive,Perfect,3rd Person,Singular,apparerit,apparuerit,apparerit,apparierit,He/she/it may have appeared
+Active Subjunctive,Perfect,3rd Person,Plural,apparerint,apparuerint,apparerint,apparierint,They may have appeared
+Active Subjunctive,Pluperfect,1st Person,Singular,apparissem,apparuissem,apparissem,apparissem,I should have appeared
+Active Subjunctive,Pluperfect,1st Person,Plural,apparissemus,apparuissemus,apparissemus,apparissemus,We should have appeared
+Active Subjunctive,Pluperfect,2nd Person,Singular,apparisses,apparuisses,apparisses,apparisses,You would have appeared
+Active Subjunctive,Pluperfect,2nd Person,Plural,apparissetis,apparuissetis,apparissetis,apparissetis,You (pl.) would have appeared
+Active Subjunctive,Pluperfect,3rd Person,Singular,apparisset,apparuisset,apparisset,apparisset,He/she/it would have appeared
+Active Subjunctive,Pluperfect,3rd Person,Plural,apparissent,apparuissent,apparissent,apparissent,They would have appeared
+Passive Subjunctive,Present,1st Person,Singular,apparer,apparer,apparar,apparar,I may be appeared
+Passive Subjunctive,Present,1st Person,Plural,apparemur,apparemur,apparamur,apparamur,We may be appeared
+Passive Subjunctive,Present,2nd Person,Singular,appareris,appareris,appararis,appararis,You may be appeared
+Passive Subjunctive,Present,2nd Person,Plural,apparemini,apparemini,apparamini,apparamini,You (pl.) may be appeared
+Passive Subjunctive,Present,3rd Person,Singular,apparetur,apparetur,apparatur,apparatur,He/she/it may be appeared
+Passive Subjunctive,Present,3rd Person,Plural,apparentur,apparentur,apparantur,apparantur,They may be appeared
+Passive Subjunctive,Imperfect,1st Person,Singular,appararer,apparerer,apparerer,apparirer,I should be appeared
+Passive Subjunctive,Imperfect,1st Person,Plural,appararemur,appareremur,appareremur,appariremur,We should be appeared
+Passive Subjunctive,Imperfect,2nd Person,Singular,apparareris,apparereris,apparereris,apparireris,You would be appeared
+Passive Subjunctive,Imperfect,2nd Person,Plural,appararemini,appareremini,appareremini,appariremini,You (pl.) would be appeared
+Passive Subjunctive,Imperfect,3rd Person,Singular,appararetur,appareretur,appareretur,appariretur,He/she/it would be appeared
+Passive Subjunctive,Imperfect,3rd Person,Plural,appararentur,apparerentur,apparerentur,apparirentur,They would be appeared
+Passive Subjunctive,Perfect,1st Person,Singular,apparatus sim,apparetus sim,apparus sim,apparus sim,I may have been appeared
+Passive Subjunctive,Perfect,1st Person,Plural,apparati simus,appareti simus,appari simus,appari simus,We may have been appeared
+Passive Subjunctive,Perfect,2nd Person,Singular,apparatus sis,apparetus sis,apparus sis,apparus sis,You may have been appeared
+Passive Subjunctive,Perfect,2nd Person,Plural,apparati sitis,appareti sitis,appari sitis,appari sitis,You (pl.) may have been appeared
+Passive Subjunctive,Perfect,3rd Person,Singular,apparatus sit,apparetus sit,apparus sit,apparus sit,He/she/it may have been appeared
+Passive Subjunctive,Perfect,3rd Person,Plural,apparati sint,appareti sint,appari sint,appari sint,They may have been appeared
+Passive Subjunctive,Pluperfect,1st Person,Singular,apparatus essem,apparetus essem,apparus essem,apparus essem,I should have been appeared
+Passive Subjunctive,Pluperfect,1st Person,Plural,apparati essemus,appareti essemus,appari essemus,appari essemus,We should have been appeared
+Passive Subjunctive,Pluperfect,2nd Person,Singular,apparatus esses,apparetus esses,apparus esses,apparus esses,You would have been appeared
+Passive Subjunctive,Pluperfect,2nd Person,Plural,apparati essetis,appareti essetis,appari essetis,appari essetis,You (pl.) would have been appeared
+Passive Subjunctive,Pluperfect,3rd Person,Singular,apparatus esset,apparetus esset,apparus esset,apparus esset,He/she/it would have been appeared
+Passive Subjunctive,Pluperfect,3rd Person,Plural,apparati essent,appareti essent,appari essent,appari essent,They would have been appeared

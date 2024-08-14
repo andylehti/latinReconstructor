@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,exferro,exferreo,exferro,exferrio,I unshoe
+Active Indicative,Present,1st Person,Plural,exferramus,exferremus,exferrimus,exferrimus,We unshoe
+Active Indicative,Present,2nd Person,Singular,exferras,exferres,exferris,exferris,You unshoe
+Active Indicative,Present,2nd Person,Plural,exferratis,exferretis,exferritis,exferritis,You (pl.) unshoe
+Active Indicative,Present,3rd Person,Singular,exferrat,exferret,exferrit,exferrit,He/she/it unshoe
+Active Indicative,Present,3rd Person,Plural,exferrant,exferrent,exferriunt,exferriunt,They unshoe
+Active Indicative,Imperfect,1st Person,Singular,exferrabam,exferrebam,exferrebam,exferriebam,I was unshoeing
+Active Indicative,Imperfect,1st Person,Plural,exferrabamus,exferrebamus,exferrebamus,exferriebamus,We were unshoeing
+Active Indicative,Imperfect,2nd Person,Singular,exferrabas,exferrebas,exferrebas,exferriebas,You were unshoeing
+Active Indicative,Imperfect,2nd Person,Plural,exferrabatis,exferrebatis,exferrebatis,exferriebatis,You (pl.) were unshoeing
+Active Indicative,Imperfect,3rd Person,Singular,exferrabat,exferrebat,exferrebat,exferriebat,He/she/it was unshoeing
+Active Indicative,Imperfect,3rd Person,Plural,exferrabant,exferrebant,exferrebant,exferriebant,They were unshoeing
+Active Indicative,Future,1st Person,Singular,exferrabo,exferrebo,exferram,exferriam,I will unshoe
+Active Indicative,Future,1st Person,Plural,exferrabimus,exferrebimus,exferremus,exferriemus,We will unshoe
+Active Indicative,Future,2nd Person,Singular,exferrabis,exferrebis,exferres,exferries,You will unshoe
+Active Indicative,Future,2nd Person,Plural,exferrabitis,exferrebitis,exferretis,exferrietis,You (pl.) will unshoe
+Active Indicative,Future,3rd Person,Singular,exferrabit,exferrebit,exferret,exferriet,He/she/it will unshoe
+Active Indicative,Future,3rd Person,Plural,exferrabunt,exferrebunt,exferrent,exferrient,They will unshoe
+Active Indicative,Perfect,1st Person,Singular,exferravi,exferrui,exferri,exferri,I have unshoeed
+Active Indicative,Perfect,1st Person,Plural,exferravimus,exferruimus,exferrimus,exferrimus,We have unshoeed
+Active Indicative,Perfect,2nd Person,Singular,exferravisti,exferruisti,exferristi,exferristi,You have unshoeed
+Active Indicative,Perfect,2nd Person,Plural,exferravistis,exferruistis,exferristis,exferristis,You (pl.) have unshoeed
+Active Indicative,Perfect,3rd Person,Singular,exferravit,exferruit,exferrit,exferrit,He/she/it has unshoeed
+Active Indicative,Perfect,3rd Person,Plural,exferraverunt,exferruerunt,exferrerunt,exferrerunt,They have unshoeed
+Active Indicative,Pluperfect,1st Person,Singular,exferraveram,exferrueram,exferreram,exferreram,I had unshoeed
+Active Indicative,Pluperfect,1st Person,Plural,exferraveramus,exferrueramus,exferreramus,exferreramus,We had unshoeed
+Active Indicative,Pluperfect,2nd Person,Singular,exferraveras,exferrueras,exferreras,exferreras,You had unshoeed
+Active Indicative,Pluperfect,2nd Person,Plural,exferraveratis,exferrueratis,exferreratis,exferreratis,You (pl.) had unshoeed
+Active Indicative,Pluperfect,3rd Person,Singular,exferraverat,exferruerat,exferrerat,exferrerat,He/she/it had unshoeed
+Active Indicative,Pluperfect,3rd Person,Plural,exferraverant,exferruerant,exferrerant,exferrerant,They had unshoeed
+Active Indicative,Future Perfect,1st Person,Singular,exferravero,exferrueero,exferrero,exferriero,I will have unshoeed
+Active Indicative,Future Perfect,1st Person,Plural,exferraverimus,exferruerimus,exferrerimus,exferrierimus,We will have unshoeed
+Active Indicative,Future Perfect,2nd Person,Singular,exferraveris,exferrueris,exferreris,exferrieris,You will have unshoeed
+Active Indicative,Future Perfect,2nd Person,Plural,exferraveritis,exferrueritis,exferreritis,exferrieritis,You (pl.) will have unshoeed
+Active Indicative,Future Perfect,3rd Person,Singular,exferraverit,exferruerit,exferrerit,exferrierit,He/she/it will have unshoeed
+Active Indicative,Future Perfect,3rd Person,Plural,exferraverint,exferruerint,exferrerint,exferrierint,They will have unshoeed
+Passive Indicative,Present,1st Person,Singular,exferror,exferreor,exferror,exferrior,I am being unshoeed
+Passive Indicative,Present,1st Person,Plural,exferramur,exferremur,exferrimur,exferrimur,We are being unshoeed
+Passive Indicative,Present,2nd Person,Singular,exferraris,exferreris,exferriris,exferriris,You are being unshoeed
+Passive Indicative,Present,2nd Person,Plural,exferramini,exferremini,exferrimini,exferrimini,You (pl.) are being unshoeed
+Passive Indicative,Present,3rd Person,Singular,exferratur,exferretur,exferritur,exferritur,He/she/it is being unshoeed
+Passive Indicative,Present,3rd Person,Plural,exferrantur,exferrentur,exferriuntur,exferriuntur,They are being unshoeed
+Passive Indicative,Imperfect,1st Person,Singular,exferrabar,exferrebar,exferrebar,exferriebar,I was unshoeed
+Passive Indicative,Imperfect,1st Person,Plural,exferrabamur,exferrebamur,exferrebamur,exferriebamur,We were unshoeed
+Passive Indicative,Imperfect,2nd Person,Singular,exferrabaris,exferrebaris,exferrebaris,exferriebaris,You were unshoeed
+Passive Indicative,Imperfect,2nd Person,Plural,exferrabamini,exferrebamini,exferrebamini,exferriebamini,You (pl.) were unshoeed
+Passive Indicative,Imperfect,3rd Person,Singular,exferrabatur,exferrebatur,exferrebatur,exferriebatur,He/she/it was unshoeed
+Passive Indicative,Imperfect,3rd Person,Plural,exferrabantur,exferrebantur,exferrebantur,exferriebantur,They were unshoeed
+Passive Indicative,Future,1st Person,Singular,exferrabor,exferrebor,exferrar,exferriar,I will be unshoeed
+Passive Indicative,Future,1st Person,Plural,exferrabimur,exferrebimur,exferremur,exferriemur,We will be unshoeed
+Passive Indicative,Future,2nd Person,Singular,exferraberis,exferreberis,exferreris,exferrieris,You will be unshoeed
+Passive Indicative,Future,2nd Person,Plural,exferrabimini,exferrebimini,exferremini,exferriemini,You (pl.) will be unshoeed
+Passive Indicative,Future,3rd Person,Singular,exferrabitur,exferrebitur,exferretur,exferrietur,He/she/it will be unshoeed
+Passive Indicative,Future,3rd Person,Plural,exferrabuntur,exferrebuntur,exferrentur,exferrientur,They will be unshoeed
+Passive Indicative,Perfect,1st Person,Singular,exferratus sum,exferretus sum,exferrus sum,exferrus sum,I have been unshoeed
+Passive Indicative,Perfect,1st Person,Plural,exferrati sumus,exferreti sumus,exferri sumus,exferri sumus,We have been unshoeed
+Passive Indicative,Perfect,2nd Person,Singular,exferratus es,exferretus es,exferrus es,exferrus es,You have been unshoeed
+Passive Indicative,Perfect,2nd Person,Plural,exferrati estis,exferreti estis,exferri estis,exferri estis,You (pl.) have been unshoeed
+Passive Indicative,Perfect,3rd Person,Singular,exferratus est,exferretus est,exferrus est,exferrus est,He/she/it has been unshoeed
+Passive Indicative,Perfect,3rd Person,Plural,exferrati sunt,exferreti sunt,exferri sunt,exferri sunt,They have been unshoeed
+Passive Indicative,Pluperfect,1st Person,Singular,exferratus eram,exferretus eram,exferrus eram,exferrus eram,I had been unshoeed
+Passive Indicative,Pluperfect,1st Person,Plural,exferrati eramus,exferreti eramus,exferri eramus,exferri eramus,We had been unshoeed
+Passive Indicative,Pluperfect,2nd Person,Singular,exferratus eras,exferretus eras,exferrus eras,exferrus eras,You had been unshoeed
+Passive Indicative,Pluperfect,2nd Person,Plural,exferrati eratis,exferreti eratis,exferri eratis,exferri eratis,You (pl.) had been unshoeed
+Passive Indicative,Pluperfect,3rd Person,Singular,exferratus erat,exferretus erat,exferrus erat,exferrus erat,He/she/it had been unshoeed
+Passive Indicative,Pluperfect,3rd Person,Plural,exferrati erant,exferreti erant,exferri erant,exferri erant,They had been unshoeed
+Passive Indicative,Future Perfect,1st Person,Singular,exferratus ero,exferretus ero,exferrus ero,exferrus ero,I will have been unshoeed
+Passive Indicative,Future Perfect,1st Person,Plural,exferrati erimus,exferreti erimus,exferri erimus,exferri erimus,We will have been unshoeed
+Passive Indicative,Future Perfect,2nd Person,Singular,exferratus eris,exferretus eris,exferrus eris,exferrus eris,You will have been unshoeed
+Passive Indicative,Future Perfect,2nd Person,Plural,exferrati eritis,exferreti eritis,exferri eritis,exferri eritis,You (pl.) will have been unshoeed
+Passive Indicative,Future Perfect,3rd Person,Singular,exferratus erit,exferretus erit,exferrus erit,exferrus erit,He/she/it will have been unshoeed
+Passive Indicative,Future Perfect,3rd Person,Plural,exferrati erunt,exferreti erunt,exferri erunt,exferri erunt,They will have been unshoeed
+Active Subjunctive,Present,1st Person,Singular,exferrem,exferrem,exferram,exferram,I may unshoe
+Active Subjunctive,Present,1st Person,Plural,exferremus,exferremus,exferramus,exferramus,We may unshoe
+Active Subjunctive,Present,2nd Person,Singular,exferres,exferres,exferras,exferras,You may unshoe
+Active Subjunctive,Present,2nd Person,Plural,exferretis,exferretis,exferratis,exferratis,You (pl.) may unshoe
+Active Subjunctive,Present,3rd Person,Singular,exferret,exferret,exferrat,exferrat,He/she/it may unshoe
+Active Subjunctive,Present,3rd Person,Plural,exferrent,exferrent,exferrant,exferrant,They may unshoe
+Active Subjunctive,Imperfect,1st Person,Singular,exferrarem,exferrerem,exferrerem,exferrirem,I should unshoe
+Active Subjunctive,Imperfect,1st Person,Plural,exferraremus,exferreremus,exferreremus,exferriremus,We should unshoe
+Active Subjunctive,Imperfect,2nd Person,Singular,exferrares,exferreres,exferreres,exferrires,You should unshoe
+Active Subjunctive,Imperfect,2nd Person,Plural,exferraretis,exferreretis,exferreretis,exferriretis,You (pl.) should unshoe
+Active Subjunctive,Imperfect,3rd Person,Singular,exferraret,exferreret,exferreret,exferriret,He/she/it should unshoe
+Active Subjunctive,Imperfect,3rd Person,Plural,exferrarent,exferrerent,exferrerent,exferrirent,They should unshoe
+Active Subjunctive,Perfect,1st Person,Singular,exferrerim,exferruerim,exferrerim,exferrierim,I may have unshoeed
+Active Subjunctive,Perfect,1st Person,Plural,exferrerimus,exferruerimus,exferrerimus,exferrierimus,We may have unshoeed
+Active Subjunctive,Perfect,2nd Person,Singular,exferreris,exferrueris,exferreris,exferrieris,You may have unshoeed
+Active Subjunctive,Perfect,2nd Person,Plural,exferreritis,exferrueritis,exferreritis,exferrieritis,You (pl.) may have unshoeed
+Active Subjunctive,Perfect,3rd Person,Singular,exferrerit,exferruerit,exferrerit,exferrierit,He/she/it may have unshoeed
+Active Subjunctive,Perfect,3rd Person,Plural,exferrerint,exferruerint,exferrerint,exferrierint,They may have unshoeed
+Active Subjunctive,Pluperfect,1st Person,Singular,exferrissem,exferruissem,exferrissem,exferrissem,I should have unshoeed
+Active Subjunctive,Pluperfect,1st Person,Plural,exferrissemus,exferruissemus,exferrissemus,exferrissemus,We should have unshoeed
+Active Subjunctive,Pluperfect,2nd Person,Singular,exferrisses,exferruisses,exferrisses,exferrisses,You would have unshoeed
+Active Subjunctive,Pluperfect,2nd Person,Plural,exferrissetis,exferruissetis,exferrissetis,exferrissetis,You (pl.) would have unshoeed
+Active Subjunctive,Pluperfect,3rd Person,Singular,exferrisset,exferruisset,exferrisset,exferrisset,He/she/it would have unshoeed
+Active Subjunctive,Pluperfect,3rd Person,Plural,exferrissent,exferruissent,exferrissent,exferrissent,They would have unshoeed
+Passive Subjunctive,Present,1st Person,Singular,exferrer,exferrer,exferrar,exferrar,I may be unshoeed
+Passive Subjunctive,Present,1st Person,Plural,exferremur,exferremur,exferramur,exferramur,We may be unshoeed
+Passive Subjunctive,Present,2nd Person,Singular,exferreris,exferreris,exferraris,exferraris,You may be unshoeed
+Passive Subjunctive,Present,2nd Person,Plural,exferremini,exferremini,exferramini,exferramini,You (pl.) may be unshoeed
+Passive Subjunctive,Present,3rd Person,Singular,exferretur,exferretur,exferratur,exferratur,He/she/it may be unshoeed
+Passive Subjunctive,Present,3rd Person,Plural,exferrentur,exferrentur,exferrantur,exferrantur,They may be unshoeed
+Passive Subjunctive,Imperfect,1st Person,Singular,exferrarer,exferrerer,exferrerer,exferrirer,I should be unshoeed
+Passive Subjunctive,Imperfect,1st Person,Plural,exferraremur,exferreremur,exferreremur,exferriremur,We should be unshoeed
+Passive Subjunctive,Imperfect,2nd Person,Singular,exferrareris,exferrereris,exferrereris,exferrireris,You would be unshoeed
+Passive Subjunctive,Imperfect,2nd Person,Plural,exferraremini,exferreremini,exferreremini,exferriremini,You (pl.) would be unshoeed
+Passive Subjunctive,Imperfect,3rd Person,Singular,exferraretur,exferreretur,exferreretur,exferriretur,He/she/it would be unshoeed
+Passive Subjunctive,Imperfect,3rd Person,Plural,exferrarentur,exferrerentur,exferrerentur,exferrirentur,They would be unshoeed
+Passive Subjunctive,Perfect,1st Person,Singular,exferratus sim,exferretus sim,exferrus sim,exferrus sim,I may have been unshoeed
+Passive Subjunctive,Perfect,1st Person,Plural,exferrati simus,exferreti simus,exferri simus,exferri simus,We may have been unshoeed
+Passive Subjunctive,Perfect,2nd Person,Singular,exferratus sis,exferretus sis,exferrus sis,exferrus sis,You may have been unshoeed
+Passive Subjunctive,Perfect,2nd Person,Plural,exferrati sitis,exferreti sitis,exferri sitis,exferri sitis,You (pl.) may have been unshoeed
+Passive Subjunctive,Perfect,3rd Person,Singular,exferratus sit,exferretus sit,exferrus sit,exferrus sit,He/she/it may have been unshoeed
+Passive Subjunctive,Perfect,3rd Person,Plural,exferrati sint,exferreti sint,exferri sint,exferri sint,They may have been unshoeed
+Passive Subjunctive,Pluperfect,1st Person,Singular,exferratus essem,exferretus essem,exferrus essem,exferrus essem,I should have been unshoeed
+Passive Subjunctive,Pluperfect,1st Person,Plural,exferrati essemus,exferreti essemus,exferri essemus,exferri essemus,We should have been unshoeed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,exferratus esses,exferretus esses,exferrus esses,exferrus esses,You would have been unshoeed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,exferrati essetis,exferreti essetis,exferri essetis,exferri essetis,You (pl.) would have been unshoeed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,exferratus esset,exferretus esset,exferrus esset,exferrus esset,He/she/it would have been unshoeed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,exferrati essent,exferreti essent,exferri essent,exferri essent,They would have been unshoeed

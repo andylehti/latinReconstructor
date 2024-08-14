@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,evolo,evoleo,evolo,evolio,I fly out
+Active Indicative,Present,1st Person,Plural,evolamus,evolemus,evolimus,evolimus,We fly out
+Active Indicative,Present,2nd Person,Singular,evolas,evoles,evolis,evolis,You fly out
+Active Indicative,Present,2nd Person,Plural,evolatis,evoletis,evolitis,evolitis,You (pl.) fly out
+Active Indicative,Present,3rd Person,Singular,evolat,evolet,evolit,evolit,He/she/it fly out
+Active Indicative,Present,3rd Person,Plural,evolant,evolent,evoliunt,evoliunt,They fly out
+Active Indicative,Imperfect,1st Person,Singular,evolabam,evolebam,evolebam,evoliebam,I was fly outing
+Active Indicative,Imperfect,1st Person,Plural,evolabamus,evolebamus,evolebamus,evoliebamus,We were fly outing
+Active Indicative,Imperfect,2nd Person,Singular,evolabas,evolebas,evolebas,evoliebas,You were fly outing
+Active Indicative,Imperfect,2nd Person,Plural,evolabatis,evolebatis,evolebatis,evoliebatis,You (pl.) were fly outing
+Active Indicative,Imperfect,3rd Person,Singular,evolabat,evolebat,evolebat,evoliebat,He/she/it was fly outing
+Active Indicative,Imperfect,3rd Person,Plural,evolabant,evolebant,evolebant,evoliebant,They were fly outing
+Active Indicative,Future,1st Person,Singular,evolabo,evolebo,evolam,evoliam,I will fly out
+Active Indicative,Future,1st Person,Plural,evolabimus,evolebimus,evolemus,evoliemus,We will fly out
+Active Indicative,Future,2nd Person,Singular,evolabis,evolebis,evoles,evolies,You will fly out
+Active Indicative,Future,2nd Person,Plural,evolabitis,evolebitis,evoletis,evolietis,You (pl.) will fly out
+Active Indicative,Future,3rd Person,Singular,evolabit,evolebit,evolet,evoliet,He/she/it will fly out
+Active Indicative,Future,3rd Person,Plural,evolabunt,evolebunt,evolent,evolient,They will fly out
+Active Indicative,Perfect,1st Person,Singular,evolavi,evolui,evoli,evoli,I have fly outed
+Active Indicative,Perfect,1st Person,Plural,evolavimus,evoluimus,evolimus,evolimus,We have fly outed
+Active Indicative,Perfect,2nd Person,Singular,evolavisti,evoluisti,evolisti,evolisti,You have fly outed
+Active Indicative,Perfect,2nd Person,Plural,evolavistis,evoluistis,evolistis,evolistis,You (pl.) have fly outed
+Active Indicative,Perfect,3rd Person,Singular,evolavit,evoluit,evolit,evolit,He/she/it has fly outed
+Active Indicative,Perfect,3rd Person,Plural,evolaverunt,evoluerunt,evolerunt,evolerunt,They have fly outed
+Active Indicative,Pluperfect,1st Person,Singular,evolaveram,evolueram,evoleram,evoleram,I had fly outed
+Active Indicative,Pluperfect,1st Person,Plural,evolaveramus,evolueramus,evoleramus,evoleramus,We had fly outed
+Active Indicative,Pluperfect,2nd Person,Singular,evolaveras,evolueras,evoleras,evoleras,You had fly outed
+Active Indicative,Pluperfect,2nd Person,Plural,evolaveratis,evolueratis,evoleratis,evoleratis,You (pl.) had fly outed
+Active Indicative,Pluperfect,3rd Person,Singular,evolaverat,evoluerat,evolerat,evolerat,He/she/it had fly outed
+Active Indicative,Pluperfect,3rd Person,Plural,evolaverant,evoluerant,evolerant,evolerant,They had fly outed
+Active Indicative,Future Perfect,1st Person,Singular,evolavero,evolueero,evolero,evoliero,I will have fly outed
+Active Indicative,Future Perfect,1st Person,Plural,evolaverimus,evoluerimus,evolerimus,evolierimus,We will have fly outed
+Active Indicative,Future Perfect,2nd Person,Singular,evolaveris,evolueris,evoleris,evolieris,You will have fly outed
+Active Indicative,Future Perfect,2nd Person,Plural,evolaveritis,evolueritis,evoleritis,evolieritis,You (pl.) will have fly outed
+Active Indicative,Future Perfect,3rd Person,Singular,evolaverit,evoluerit,evolerit,evolierit,He/she/it will have fly outed
+Active Indicative,Future Perfect,3rd Person,Plural,evolaverint,evoluerint,evolerint,evolierint,They will have fly outed
+Passive Indicative,Present,1st Person,Singular,evolor,evoleor,evolor,evolior,I am being fly outed
+Passive Indicative,Present,1st Person,Plural,evolamur,evolemur,evolimur,evolimur,We are being fly outed
+Passive Indicative,Present,2nd Person,Singular,evolaris,evoleris,evoliris,evoliris,You are being fly outed
+Passive Indicative,Present,2nd Person,Plural,evolamini,evolemini,evolimini,evolimini,You (pl.) are being fly outed
+Passive Indicative,Present,3rd Person,Singular,evolatur,evoletur,evolitur,evolitur,He/she/it is being fly outed
+Passive Indicative,Present,3rd Person,Plural,evolantur,evolentur,evoliuntur,evoliuntur,They are being fly outed
+Passive Indicative,Imperfect,1st Person,Singular,evolabar,evolebar,evolebar,evoliebar,I was fly outed
+Passive Indicative,Imperfect,1st Person,Plural,evolabamur,evolebamur,evolebamur,evoliebamur,We were fly outed
+Passive Indicative,Imperfect,2nd Person,Singular,evolabaris,evolebaris,evolebaris,evoliebaris,You were fly outed
+Passive Indicative,Imperfect,2nd Person,Plural,evolabamini,evolebamini,evolebamini,evoliebamini,You (pl.) were fly outed
+Passive Indicative,Imperfect,3rd Person,Singular,evolabatur,evolebatur,evolebatur,evoliebatur,He/she/it was fly outed
+Passive Indicative,Imperfect,3rd Person,Plural,evolabantur,evolebantur,evolebantur,evoliebantur,They were fly outed
+Passive Indicative,Future,1st Person,Singular,evolabor,evolebor,evolar,evoliar,I will be fly outed
+Passive Indicative,Future,1st Person,Plural,evolabimur,evolebimur,evolemur,evoliemur,We will be fly outed
+Passive Indicative,Future,2nd Person,Singular,evolaberis,evoleberis,evoleris,evolieris,You will be fly outed
+Passive Indicative,Future,2nd Person,Plural,evolabimini,evolebimini,evolemini,evoliemini,You (pl.) will be fly outed
+Passive Indicative,Future,3rd Person,Singular,evolabitur,evolebitur,evoletur,evolietur,He/she/it will be fly outed
+Passive Indicative,Future,3rd Person,Plural,evolabuntur,evolebuntur,evolentur,evolientur,They will be fly outed
+Passive Indicative,Perfect,1st Person,Singular,evolatus sum,evoletus sum,evolus sum,evolus sum,I have been fly outed
+Passive Indicative,Perfect,1st Person,Plural,evolati sumus,evoleti sumus,evoli sumus,evoli sumus,We have been fly outed
+Passive Indicative,Perfect,2nd Person,Singular,evolatus es,evoletus es,evolus es,evolus es,You have been fly outed
+Passive Indicative,Perfect,2nd Person,Plural,evolati estis,evoleti estis,evoli estis,evoli estis,You (pl.) have been fly outed
+Passive Indicative,Perfect,3rd Person,Singular,evolatus est,evoletus est,evolus est,evolus est,He/she/it has been fly outed
+Passive Indicative,Perfect,3rd Person,Plural,evolati sunt,evoleti sunt,evoli sunt,evoli sunt,They have been fly outed
+Passive Indicative,Pluperfect,1st Person,Singular,evolatus eram,evoletus eram,evolus eram,evolus eram,I had been fly outed
+Passive Indicative,Pluperfect,1st Person,Plural,evolati eramus,evoleti eramus,evoli eramus,evoli eramus,We had been fly outed
+Passive Indicative,Pluperfect,2nd Person,Singular,evolatus eras,evoletus eras,evolus eras,evolus eras,You had been fly outed
+Passive Indicative,Pluperfect,2nd Person,Plural,evolati eratis,evoleti eratis,evoli eratis,evoli eratis,You (pl.) had been fly outed
+Passive Indicative,Pluperfect,3rd Person,Singular,evolatus erat,evoletus erat,evolus erat,evolus erat,He/she/it had been fly outed
+Passive Indicative,Pluperfect,3rd Person,Plural,evolati erant,evoleti erant,evoli erant,evoli erant,They had been fly outed
+Passive Indicative,Future Perfect,1st Person,Singular,evolatus ero,evoletus ero,evolus ero,evolus ero,I will have been fly outed
+Passive Indicative,Future Perfect,1st Person,Plural,evolati erimus,evoleti erimus,evoli erimus,evoli erimus,We will have been fly outed
+Passive Indicative,Future Perfect,2nd Person,Singular,evolatus eris,evoletus eris,evolus eris,evolus eris,You will have been fly outed
+Passive Indicative,Future Perfect,2nd Person,Plural,evolati eritis,evoleti eritis,evoli eritis,evoli eritis,You (pl.) will have been fly outed
+Passive Indicative,Future Perfect,3rd Person,Singular,evolatus erit,evoletus erit,evolus erit,evolus erit,He/she/it will have been fly outed
+Passive Indicative,Future Perfect,3rd Person,Plural,evolati erunt,evoleti erunt,evoli erunt,evoli erunt,They will have been fly outed
+Active Subjunctive,Present,1st Person,Singular,evolem,evolem,evolam,evolam,I may fly out
+Active Subjunctive,Present,1st Person,Plural,evolemus,evolemus,evolamus,evolamus,We may fly out
+Active Subjunctive,Present,2nd Person,Singular,evoles,evoles,evolas,evolas,You may fly out
+Active Subjunctive,Present,2nd Person,Plural,evoletis,evoletis,evolatis,evolatis,You (pl.) may fly out
+Active Subjunctive,Present,3rd Person,Singular,evolet,evolet,evolat,evolat,He/she/it may fly out
+Active Subjunctive,Present,3rd Person,Plural,evolent,evolent,evolant,evolant,They may fly out
+Active Subjunctive,Imperfect,1st Person,Singular,evolarem,evolerem,evolerem,evolirem,I should fly out
+Active Subjunctive,Imperfect,1st Person,Plural,evolaremus,evoleremus,evoleremus,evoliremus,We should fly out
+Active Subjunctive,Imperfect,2nd Person,Singular,evolares,evoleres,evoleres,evolires,You should fly out
+Active Subjunctive,Imperfect,2nd Person,Plural,evolaretis,evoleretis,evoleretis,evoliretis,You (pl.) should fly out
+Active Subjunctive,Imperfect,3rd Person,Singular,evolaret,evoleret,evoleret,evoliret,He/she/it should fly out
+Active Subjunctive,Imperfect,3rd Person,Plural,evolarent,evolerent,evolerent,evolirent,They should fly out
+Active Subjunctive,Perfect,1st Person,Singular,evolerim,evoluerim,evolerim,evolierim,I may have fly outed
+Active Subjunctive,Perfect,1st Person,Plural,evolerimus,evoluerimus,evolerimus,evolierimus,We may have fly outed
+Active Subjunctive,Perfect,2nd Person,Singular,evoleris,evolueris,evoleris,evolieris,You may have fly outed
+Active Subjunctive,Perfect,2nd Person,Plural,evoleritis,evolueritis,evoleritis,evolieritis,You (pl.) may have fly outed
+Active Subjunctive,Perfect,3rd Person,Singular,evolerit,evoluerit,evolerit,evolierit,He/she/it may have fly outed
+Active Subjunctive,Perfect,3rd Person,Plural,evolerint,evoluerint,evolerint,evolierint,They may have fly outed
+Active Subjunctive,Pluperfect,1st Person,Singular,evolissem,evoluissem,evolissem,evolissem,I should have fly outed
+Active Subjunctive,Pluperfect,1st Person,Plural,evolissemus,evoluissemus,evolissemus,evolissemus,We should have fly outed
+Active Subjunctive,Pluperfect,2nd Person,Singular,evolisses,evoluisses,evolisses,evolisses,You would have fly outed
+Active Subjunctive,Pluperfect,2nd Person,Plural,evolissetis,evoluissetis,evolissetis,evolissetis,You (pl.) would have fly outed
+Active Subjunctive,Pluperfect,3rd Person,Singular,evolisset,evoluisset,evolisset,evolisset,He/she/it would have fly outed
+Active Subjunctive,Pluperfect,3rd Person,Plural,evolissent,evoluissent,evolissent,evolissent,They would have fly outed
+Passive Subjunctive,Present,1st Person,Singular,evoler,evoler,evolar,evolar,I may be fly outed
+Passive Subjunctive,Present,1st Person,Plural,evolemur,evolemur,evolamur,evolamur,We may be fly outed
+Passive Subjunctive,Present,2nd Person,Singular,evoleris,evoleris,evolaris,evolaris,You may be fly outed
+Passive Subjunctive,Present,2nd Person,Plural,evolemini,evolemini,evolamini,evolamini,You (pl.) may be fly outed
+Passive Subjunctive,Present,3rd Person,Singular,evoletur,evoletur,evolatur,evolatur,He/she/it may be fly outed
+Passive Subjunctive,Present,3rd Person,Plural,evolentur,evolentur,evolantur,evolantur,They may be fly outed
+Passive Subjunctive,Imperfect,1st Person,Singular,evolarer,evolerer,evolerer,evolirer,I should be fly outed
+Passive Subjunctive,Imperfect,1st Person,Plural,evolaremur,evoleremur,evoleremur,evoliremur,We should be fly outed
+Passive Subjunctive,Imperfect,2nd Person,Singular,evolareris,evolereris,evolereris,evolireris,You would be fly outed
+Passive Subjunctive,Imperfect,2nd Person,Plural,evolaremini,evoleremini,evoleremini,evoliremini,You (pl.) would be fly outed
+Passive Subjunctive,Imperfect,3rd Person,Singular,evolaretur,evoleretur,evoleretur,evoliretur,He/she/it would be fly outed
+Passive Subjunctive,Imperfect,3rd Person,Plural,evolarentur,evolerentur,evolerentur,evolirentur,They would be fly outed
+Passive Subjunctive,Perfect,1st Person,Singular,evolatus sim,evoletus sim,evolus sim,evolus sim,I may have been fly outed
+Passive Subjunctive,Perfect,1st Person,Plural,evolati simus,evoleti simus,evoli simus,evoli simus,We may have been fly outed
+Passive Subjunctive,Perfect,2nd Person,Singular,evolatus sis,evoletus sis,evolus sis,evolus sis,You may have been fly outed
+Passive Subjunctive,Perfect,2nd Person,Plural,evolati sitis,evoleti sitis,evoli sitis,evoli sitis,You (pl.) may have been fly outed
+Passive Subjunctive,Perfect,3rd Person,Singular,evolatus sit,evoletus sit,evolus sit,evolus sit,He/she/it may have been fly outed
+Passive Subjunctive,Perfect,3rd Person,Plural,evolati sint,evoleti sint,evoli sint,evoli sint,They may have been fly outed
+Passive Subjunctive,Pluperfect,1st Person,Singular,evolatus essem,evoletus essem,evolus essem,evolus essem,I should have been fly outed
+Passive Subjunctive,Pluperfect,1st Person,Plural,evolati essemus,evoleti essemus,evoli essemus,evoli essemus,We should have been fly outed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,evolatus esses,evoletus esses,evolus esses,evolus esses,You would have been fly outed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,evolati essetis,evoleti essetis,evoli essetis,evoli essetis,You (pl.) would have been fly outed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,evolatus esset,evoletus esset,evolus esset,evolus esset,He/she/it would have been fly outed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,evolati essent,evoleti essent,evoli essent,evoli essent,They would have been fly outed

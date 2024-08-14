@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,adopinaturo,adopinatureo,adopinaturo,adopinaturio,I suppose
+Active Indicative,Present,1st Person,Plural,adopinaturamus,adopinaturemus,adopinaturimus,adopinaturimus,We suppose
+Active Indicative,Present,2nd Person,Singular,adopinaturas,adopinatures,adopinaturis,adopinaturis,You suppose
+Active Indicative,Present,2nd Person,Plural,adopinaturatis,adopinaturetis,adopinaturitis,adopinaturitis,You (pl.) suppose
+Active Indicative,Present,3rd Person,Singular,adopinaturat,adopinaturet,adopinaturit,adopinaturit,He/she/it suppose
+Active Indicative,Present,3rd Person,Plural,adopinaturant,adopinaturent,adopinaturiunt,adopinaturiunt,They suppose
+Active Indicative,Imperfect,1st Person,Singular,adopinaturabam,adopinaturebam,adopinaturebam,adopinaturiebam,I was supposeing
+Active Indicative,Imperfect,1st Person,Plural,adopinaturabamus,adopinaturebamus,adopinaturebamus,adopinaturiebamus,We were supposeing
+Active Indicative,Imperfect,2nd Person,Singular,adopinaturabas,adopinaturebas,adopinaturebas,adopinaturiebas,You were supposeing
+Active Indicative,Imperfect,2nd Person,Plural,adopinaturabatis,adopinaturebatis,adopinaturebatis,adopinaturiebatis,You (pl.) were supposeing
+Active Indicative,Imperfect,3rd Person,Singular,adopinaturabat,adopinaturebat,adopinaturebat,adopinaturiebat,He/she/it was supposeing
+Active Indicative,Imperfect,3rd Person,Plural,adopinaturabant,adopinaturebant,adopinaturebant,adopinaturiebant,They were supposeing
+Active Indicative,Future,1st Person,Singular,adopinaturabo,adopinaturebo,adopinaturam,adopinaturiam,I will suppose
+Active Indicative,Future,1st Person,Plural,adopinaturabimus,adopinaturebimus,adopinaturemus,adopinaturiemus,We will suppose
+Active Indicative,Future,2nd Person,Singular,adopinaturabis,adopinaturebis,adopinatures,adopinaturies,You will suppose
+Active Indicative,Future,2nd Person,Plural,adopinaturabitis,adopinaturebitis,adopinaturetis,adopinaturietis,You (pl.) will suppose
+Active Indicative,Future,3rd Person,Singular,adopinaturabit,adopinaturebit,adopinaturet,adopinaturiet,He/she/it will suppose
+Active Indicative,Future,3rd Person,Plural,adopinaturabunt,adopinaturebunt,adopinaturent,adopinaturient,They will suppose
+Active Indicative,Perfect,1st Person,Singular,adopinaturavi,adopinaturui,adopinaturi,adopinaturi,I have supposeed
+Active Indicative,Perfect,1st Person,Plural,adopinaturavimus,adopinaturuimus,adopinaturimus,adopinaturimus,We have supposeed
+Active Indicative,Perfect,2nd Person,Singular,adopinaturavisti,adopinaturuisti,adopinaturisti,adopinaturisti,You have supposeed
+Active Indicative,Perfect,2nd Person,Plural,adopinaturavistis,adopinaturuistis,adopinaturistis,adopinaturistis,You (pl.) have supposeed
+Active Indicative,Perfect,3rd Person,Singular,adopinaturavit,adopinaturuit,adopinaturit,adopinaturit,He/she/it has supposeed
+Active Indicative,Perfect,3rd Person,Plural,adopinaturaverunt,adopinaturuerunt,adopinaturerunt,adopinaturerunt,They have supposeed
+Active Indicative,Pluperfect,1st Person,Singular,adopinaturaveram,adopinaturueram,adopinatureram,adopinatureram,I had supposeed
+Active Indicative,Pluperfect,1st Person,Plural,adopinaturaveramus,adopinaturueramus,adopinatureramus,adopinatureramus,We had supposeed
+Active Indicative,Pluperfect,2nd Person,Singular,adopinaturaveras,adopinaturueras,adopinatureras,adopinatureras,You had supposeed
+Active Indicative,Pluperfect,2nd Person,Plural,adopinaturaveratis,adopinaturueratis,adopinatureratis,adopinatureratis,You (pl.) had supposeed
+Active Indicative,Pluperfect,3rd Person,Singular,adopinaturaverat,adopinaturuerat,adopinaturerat,adopinaturerat,He/she/it had supposeed
+Active Indicative,Pluperfect,3rd Person,Plural,adopinaturaverant,adopinaturuerant,adopinaturerant,adopinaturerant,They had supposeed
+Active Indicative,Future Perfect,1st Person,Singular,adopinaturavero,adopinaturueero,adopinaturero,adopinaturiero,I will have supposeed
+Active Indicative,Future Perfect,1st Person,Plural,adopinaturaverimus,adopinaturuerimus,adopinaturerimus,adopinaturierimus,We will have supposeed
+Active Indicative,Future Perfect,2nd Person,Singular,adopinaturaveris,adopinaturueris,adopinatureris,adopinaturieris,You will have supposeed
+Active Indicative,Future Perfect,2nd Person,Plural,adopinaturaveritis,adopinaturueritis,adopinatureritis,adopinaturieritis,You (pl.) will have supposeed
+Active Indicative,Future Perfect,3rd Person,Singular,adopinaturaverit,adopinaturuerit,adopinaturerit,adopinaturierit,He/she/it will have supposeed
+Active Indicative,Future Perfect,3rd Person,Plural,adopinaturaverint,adopinaturuerint,adopinaturerint,adopinaturierint,They will have supposeed
+Passive Indicative,Present,1st Person,Singular,adopinaturor,adopinatureor,adopinaturor,adopinaturior,I am being supposeed
+Passive Indicative,Present,1st Person,Plural,adopinaturamur,adopinaturemur,adopinaturimur,adopinaturimur,We are being supposeed
+Passive Indicative,Present,2nd Person,Singular,adopinaturaris,adopinatureris,adopinaturiris,adopinaturiris,You are being supposeed
+Passive Indicative,Present,2nd Person,Plural,adopinaturamini,adopinaturemini,adopinaturimini,adopinaturimini,You (pl.) are being supposeed
+Passive Indicative,Present,3rd Person,Singular,adopinaturatur,adopinaturetur,adopinaturitur,adopinaturitur,He/she/it is being supposeed
+Passive Indicative,Present,3rd Person,Plural,adopinaturantur,adopinaturentur,adopinaturiuntur,adopinaturiuntur,They are being supposeed
+Passive Indicative,Imperfect,1st Person,Singular,adopinaturabar,adopinaturebar,adopinaturebar,adopinaturiebar,I was supposeed
+Passive Indicative,Imperfect,1st Person,Plural,adopinaturabamur,adopinaturebamur,adopinaturebamur,adopinaturiebamur,We were supposeed
+Passive Indicative,Imperfect,2nd Person,Singular,adopinaturabaris,adopinaturebaris,adopinaturebaris,adopinaturiebaris,You were supposeed
+Passive Indicative,Imperfect,2nd Person,Plural,adopinaturabamini,adopinaturebamini,adopinaturebamini,adopinaturiebamini,You (pl.) were supposeed
+Passive Indicative,Imperfect,3rd Person,Singular,adopinaturabatur,adopinaturebatur,adopinaturebatur,adopinaturiebatur,He/she/it was supposeed
+Passive Indicative,Imperfect,3rd Person,Plural,adopinaturabantur,adopinaturebantur,adopinaturebantur,adopinaturiebantur,They were supposeed
+Passive Indicative,Future,1st Person,Singular,adopinaturabor,adopinaturebor,adopinaturar,adopinaturiar,I will be supposeed
+Passive Indicative,Future,1st Person,Plural,adopinaturabimur,adopinaturebimur,adopinaturemur,adopinaturiemur,We will be supposeed
+Passive Indicative,Future,2nd Person,Singular,adopinaturaberis,adopinatureberis,adopinatureris,adopinaturieris,You will be supposeed
+Passive Indicative,Future,2nd Person,Plural,adopinaturabimini,adopinaturebimini,adopinaturemini,adopinaturiemini,You (pl.) will be supposeed
+Passive Indicative,Future,3rd Person,Singular,adopinaturabitur,adopinaturebitur,adopinaturetur,adopinaturietur,He/she/it will be supposeed
+Passive Indicative,Future,3rd Person,Plural,adopinaturabuntur,adopinaturebuntur,adopinaturentur,adopinaturientur,They will be supposeed
+Passive Indicative,Perfect,1st Person,Singular,adopinaturatus sum,adopinaturetus sum,adopinaturus sum,adopinaturus sum,I have been supposeed
+Passive Indicative,Perfect,1st Person,Plural,adopinaturati sumus,adopinatureti sumus,adopinaturi sumus,adopinaturi sumus,We have been supposeed
+Passive Indicative,Perfect,2nd Person,Singular,adopinaturatus es,adopinaturetus es,adopinaturus es,adopinaturus es,You have been supposeed
+Passive Indicative,Perfect,2nd Person,Plural,adopinaturati estis,adopinatureti estis,adopinaturi estis,adopinaturi estis,You (pl.) have been supposeed
+Passive Indicative,Perfect,3rd Person,Singular,adopinaturatus est,adopinaturetus est,adopinaturus est,adopinaturus est,He/she/it has been supposeed
+Passive Indicative,Perfect,3rd Person,Plural,adopinaturati sunt,adopinatureti sunt,adopinaturi sunt,adopinaturi sunt,They have been supposeed
+Passive Indicative,Pluperfect,1st Person,Singular,adopinaturatus eram,adopinaturetus eram,adopinaturus eram,adopinaturus eram,I had been supposeed
+Passive Indicative,Pluperfect,1st Person,Plural,adopinaturati eramus,adopinatureti eramus,adopinaturi eramus,adopinaturi eramus,We had been supposeed
+Passive Indicative,Pluperfect,2nd Person,Singular,adopinaturatus eras,adopinaturetus eras,adopinaturus eras,adopinaturus eras,You had been supposeed
+Passive Indicative,Pluperfect,2nd Person,Plural,adopinaturati eratis,adopinatureti eratis,adopinaturi eratis,adopinaturi eratis,You (pl.) had been supposeed
+Passive Indicative,Pluperfect,3rd Person,Singular,adopinaturatus erat,adopinaturetus erat,adopinaturus erat,adopinaturus erat,He/she/it had been supposeed
+Passive Indicative,Pluperfect,3rd Person,Plural,adopinaturati erant,adopinatureti erant,adopinaturi erant,adopinaturi erant,They had been supposeed
+Passive Indicative,Future Perfect,1st Person,Singular,adopinaturatus ero,adopinaturetus ero,adopinaturus ero,adopinaturus ero,I will have been supposeed
+Passive Indicative,Future Perfect,1st Person,Plural,adopinaturati erimus,adopinatureti erimus,adopinaturi erimus,adopinaturi erimus,We will have been supposeed
+Passive Indicative,Future Perfect,2nd Person,Singular,adopinaturatus eris,adopinaturetus eris,adopinaturus eris,adopinaturus eris,You will have been supposeed
+Passive Indicative,Future Perfect,2nd Person,Plural,adopinaturati eritis,adopinatureti eritis,adopinaturi eritis,adopinaturi eritis,You (pl.) will have been supposeed
+Passive Indicative,Future Perfect,3rd Person,Singular,adopinaturatus erit,adopinaturetus erit,adopinaturus erit,adopinaturus erit,He/she/it will have been supposeed
+Passive Indicative,Future Perfect,3rd Person,Plural,adopinaturati erunt,adopinatureti erunt,adopinaturi erunt,adopinaturi erunt,They will have been supposeed
+Active Subjunctive,Present,1st Person,Singular,adopinaturem,adopinaturem,adopinaturam,adopinaturam,I may suppose
+Active Subjunctive,Present,1st Person,Plural,adopinaturemus,adopinaturemus,adopinaturamus,adopinaturamus,We may suppose
+Active Subjunctive,Present,2nd Person,Singular,adopinatures,adopinatures,adopinaturas,adopinaturas,You may suppose
+Active Subjunctive,Present,2nd Person,Plural,adopinaturetis,adopinaturetis,adopinaturatis,adopinaturatis,You (pl.) may suppose
+Active Subjunctive,Present,3rd Person,Singular,adopinaturet,adopinaturet,adopinaturat,adopinaturat,He/she/it may suppose
+Active Subjunctive,Present,3rd Person,Plural,adopinaturent,adopinaturent,adopinaturant,adopinaturant,They may suppose
+Active Subjunctive,Imperfect,1st Person,Singular,adopinaturarem,adopinaturerem,adopinaturerem,adopinaturirem,I should suppose
+Active Subjunctive,Imperfect,1st Person,Plural,adopinaturaremus,adopinatureremus,adopinatureremus,adopinaturiremus,We should suppose
+Active Subjunctive,Imperfect,2nd Person,Singular,adopinaturares,adopinatureres,adopinatureres,adopinaturires,You should suppose
+Active Subjunctive,Imperfect,2nd Person,Plural,adopinaturaretis,adopinatureretis,adopinatureretis,adopinaturiretis,You (pl.) should suppose
+Active Subjunctive,Imperfect,3rd Person,Singular,adopinaturaret,adopinatureret,adopinatureret,adopinaturiret,He/she/it should suppose
+Active Subjunctive,Imperfect,3rd Person,Plural,adopinaturarent,adopinaturerent,adopinaturerent,adopinaturirent,They should suppose
+Active Subjunctive,Perfect,1st Person,Singular,adopinaturerim,adopinaturuerim,adopinaturerim,adopinaturierim,I may have supposeed
+Active Subjunctive,Perfect,1st Person,Plural,adopinaturerimus,adopinaturuerimus,adopinaturerimus,adopinaturierimus,We may have supposeed
+Active Subjunctive,Perfect,2nd Person,Singular,adopinatureris,adopinaturueris,adopinatureris,adopinaturieris,You may have supposeed
+Active Subjunctive,Perfect,2nd Person,Plural,adopinatureritis,adopinaturueritis,adopinatureritis,adopinaturieritis,You (pl.) may have supposeed
+Active Subjunctive,Perfect,3rd Person,Singular,adopinaturerit,adopinaturuerit,adopinaturerit,adopinaturierit,He/she/it may have supposeed
+Active Subjunctive,Perfect,3rd Person,Plural,adopinaturerint,adopinaturuerint,adopinaturerint,adopinaturierint,They may have supposeed
+Active Subjunctive,Pluperfect,1st Person,Singular,adopinaturissem,adopinaturuissem,adopinaturissem,adopinaturissem,I should have supposeed
+Active Subjunctive,Pluperfect,1st Person,Plural,adopinaturissemus,adopinaturuissemus,adopinaturissemus,adopinaturissemus,We should have supposeed
+Active Subjunctive,Pluperfect,2nd Person,Singular,adopinaturisses,adopinaturuisses,adopinaturisses,adopinaturisses,You would have supposeed
+Active Subjunctive,Pluperfect,2nd Person,Plural,adopinaturissetis,adopinaturuissetis,adopinaturissetis,adopinaturissetis,You (pl.) would have supposeed
+Active Subjunctive,Pluperfect,3rd Person,Singular,adopinaturisset,adopinaturuisset,adopinaturisset,adopinaturisset,He/she/it would have supposeed
+Active Subjunctive,Pluperfect,3rd Person,Plural,adopinaturissent,adopinaturuissent,adopinaturissent,adopinaturissent,They would have supposeed
+Passive Subjunctive,Present,1st Person,Singular,adopinaturer,adopinaturer,adopinaturar,adopinaturar,I may be supposeed
+Passive Subjunctive,Present,1st Person,Plural,adopinaturemur,adopinaturemur,adopinaturamur,adopinaturamur,We may be supposeed
+Passive Subjunctive,Present,2nd Person,Singular,adopinatureris,adopinatureris,adopinaturaris,adopinaturaris,You may be supposeed
+Passive Subjunctive,Present,2nd Person,Plural,adopinaturemini,adopinaturemini,adopinaturamini,adopinaturamini,You (pl.) may be supposeed
+Passive Subjunctive,Present,3rd Person,Singular,adopinaturetur,adopinaturetur,adopinaturatur,adopinaturatur,He/she/it may be supposeed
+Passive Subjunctive,Present,3rd Person,Plural,adopinaturentur,adopinaturentur,adopinaturantur,adopinaturantur,They may be supposeed
+Passive Subjunctive,Imperfect,1st Person,Singular,adopinaturarer,adopinaturerer,adopinaturerer,adopinaturirer,I should be supposeed
+Passive Subjunctive,Imperfect,1st Person,Plural,adopinaturaremur,adopinatureremur,adopinatureremur,adopinaturiremur,We should be supposeed
+Passive Subjunctive,Imperfect,2nd Person,Singular,adopinaturareris,adopinaturereris,adopinaturereris,adopinaturireris,You would be supposeed
+Passive Subjunctive,Imperfect,2nd Person,Plural,adopinaturaremini,adopinatureremini,adopinatureremini,adopinaturiremini,You (pl.) would be supposeed
+Passive Subjunctive,Imperfect,3rd Person,Singular,adopinaturaretur,adopinatureretur,adopinatureretur,adopinaturiretur,He/she/it would be supposeed
+Passive Subjunctive,Imperfect,3rd Person,Plural,adopinaturarentur,adopinaturerentur,adopinaturerentur,adopinaturirentur,They would be supposeed
+Passive Subjunctive,Perfect,1st Person,Singular,adopinaturatus sim,adopinaturetus sim,adopinaturus sim,adopinaturus sim,I may have been supposeed
+Passive Subjunctive,Perfect,1st Person,Plural,adopinaturati simus,adopinatureti simus,adopinaturi simus,adopinaturi simus,We may have been supposeed
+Passive Subjunctive,Perfect,2nd Person,Singular,adopinaturatus sis,adopinaturetus sis,adopinaturus sis,adopinaturus sis,You may have been supposeed
+Passive Subjunctive,Perfect,2nd Person,Plural,adopinaturati sitis,adopinatureti sitis,adopinaturi sitis,adopinaturi sitis,You (pl.) may have been supposeed
+Passive Subjunctive,Perfect,3rd Person,Singular,adopinaturatus sit,adopinaturetus sit,adopinaturus sit,adopinaturus sit,He/she/it may have been supposeed
+Passive Subjunctive,Perfect,3rd Person,Plural,adopinaturati sint,adopinatureti sint,adopinaturi sint,adopinaturi sint,They may have been supposeed
+Passive Subjunctive,Pluperfect,1st Person,Singular,adopinaturatus essem,adopinaturetus essem,adopinaturus essem,adopinaturus essem,I should have been supposeed
+Passive Subjunctive,Pluperfect,1st Person,Plural,adopinaturati essemus,adopinatureti essemus,adopinaturi essemus,adopinaturi essemus,We should have been supposeed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,adopinaturatus esses,adopinaturetus esses,adopinaturus esses,adopinaturus esses,You would have been supposeed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,adopinaturati essetis,adopinatureti essetis,adopinaturi essetis,adopinaturi essetis,You (pl.) would have been supposeed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,adopinaturatus esset,adopinaturetus esset,adopinaturus esset,adopinaturus esset,He/she/it would have been supposeed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,adopinaturati essent,adopinatureti essent,adopinaturi essent,adopinaturi essent,They would have been supposeed

@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,exbatto,exbatteo,exbatto,exbattio,I beat
+Active Indicative,Present,1st Person,Plural,exbattamus,exbattemus,exbattimus,exbattimus,We beat
+Active Indicative,Present,2nd Person,Singular,exbattas,exbattes,exbattis,exbattis,You beat
+Active Indicative,Present,2nd Person,Plural,exbattatis,exbattetis,exbattitis,exbattitis,You (pl.) beat
+Active Indicative,Present,3rd Person,Singular,exbattat,exbattet,exbattit,exbattit,He/she/it beat
+Active Indicative,Present,3rd Person,Plural,exbattant,exbattent,exbattiunt,exbattiunt,They beat
+Active Indicative,Imperfect,1st Person,Singular,exbattabam,exbattebam,exbattebam,exbattiebam,I was beating
+Active Indicative,Imperfect,1st Person,Plural,exbattabamus,exbattebamus,exbattebamus,exbattiebamus,We were beating
+Active Indicative,Imperfect,2nd Person,Singular,exbattabas,exbattebas,exbattebas,exbattiebas,You were beating
+Active Indicative,Imperfect,2nd Person,Plural,exbattabatis,exbattebatis,exbattebatis,exbattiebatis,You (pl.) were beating
+Active Indicative,Imperfect,3rd Person,Singular,exbattabat,exbattebat,exbattebat,exbattiebat,He/she/it was beating
+Active Indicative,Imperfect,3rd Person,Plural,exbattabant,exbattebant,exbattebant,exbattiebant,They were beating
+Active Indicative,Future,1st Person,Singular,exbattabo,exbattebo,exbattam,exbattiam,I will beat
+Active Indicative,Future,1st Person,Plural,exbattabimus,exbattebimus,exbattemus,exbattiemus,We will beat
+Active Indicative,Future,2nd Person,Singular,exbattabis,exbattebis,exbattes,exbatties,You will beat
+Active Indicative,Future,2nd Person,Plural,exbattabitis,exbattebitis,exbattetis,exbattietis,You (pl.) will beat
+Active Indicative,Future,3rd Person,Singular,exbattabit,exbattebit,exbattet,exbattiet,He/she/it will beat
+Active Indicative,Future,3rd Person,Plural,exbattabunt,exbattebunt,exbattent,exbattient,They will beat
+Active Indicative,Perfect,1st Person,Singular,exbattavi,exbattui,exbatti,exbatti,I have beated
+Active Indicative,Perfect,1st Person,Plural,exbattavimus,exbattuimus,exbattimus,exbattimus,We have beated
+Active Indicative,Perfect,2nd Person,Singular,exbattavisti,exbattuisti,exbattisti,exbattisti,You have beated
+Active Indicative,Perfect,2nd Person,Plural,exbattavistis,exbattuistis,exbattistis,exbattistis,You (pl.) have beated
+Active Indicative,Perfect,3rd Person,Singular,exbattavit,exbattuit,exbattit,exbattit,He/she/it has beated
+Active Indicative,Perfect,3rd Person,Plural,exbattaverunt,exbattuerunt,exbatterunt,exbatterunt,They have beated
+Active Indicative,Pluperfect,1st Person,Singular,exbattaveram,exbattueram,exbatteram,exbatteram,I had beated
+Active Indicative,Pluperfect,1st Person,Plural,exbattaveramus,exbattueramus,exbatteramus,exbatteramus,We had beated
+Active Indicative,Pluperfect,2nd Person,Singular,exbattaveras,exbattueras,exbatteras,exbatteras,You had beated
+Active Indicative,Pluperfect,2nd Person,Plural,exbattaveratis,exbattueratis,exbatteratis,exbatteratis,You (pl.) had beated
+Active Indicative,Pluperfect,3rd Person,Singular,exbattaverat,exbattuerat,exbatterat,exbatterat,He/she/it had beated
+Active Indicative,Pluperfect,3rd Person,Plural,exbattaverant,exbattuerant,exbatterant,exbatterant,They had beated
+Active Indicative,Future Perfect,1st Person,Singular,exbattavero,exbattueero,exbattero,exbattiero,I will have beated
+Active Indicative,Future Perfect,1st Person,Plural,exbattaverimus,exbattuerimus,exbatterimus,exbattierimus,We will have beated
+Active Indicative,Future Perfect,2nd Person,Singular,exbattaveris,exbattueris,exbatteris,exbattieris,You will have beated
+Active Indicative,Future Perfect,2nd Person,Plural,exbattaveritis,exbattueritis,exbatteritis,exbattieritis,You (pl.) will have beated
+Active Indicative,Future Perfect,3rd Person,Singular,exbattaverit,exbattuerit,exbatterit,exbattierit,He/she/it will have beated
+Active Indicative,Future Perfect,3rd Person,Plural,exbattaverint,exbattuerint,exbatterint,exbattierint,They will have beated
+Passive Indicative,Present,1st Person,Singular,exbattor,exbatteor,exbattor,exbattior,I am being beated
+Passive Indicative,Present,1st Person,Plural,exbattamur,exbattemur,exbattimur,exbattimur,We are being beated
+Passive Indicative,Present,2nd Person,Singular,exbattaris,exbatteris,exbattiris,exbattiris,You are being beated
+Passive Indicative,Present,2nd Person,Plural,exbattamini,exbattemini,exbattimini,exbattimini,You (pl.) are being beated
+Passive Indicative,Present,3rd Person,Singular,exbattatur,exbattetur,exbattitur,exbattitur,He/she/it is being beated
+Passive Indicative,Present,3rd Person,Plural,exbattantur,exbattentur,exbattiuntur,exbattiuntur,They are being beated
+Passive Indicative,Imperfect,1st Person,Singular,exbattabar,exbattebar,exbattebar,exbattiebar,I was beated
+Passive Indicative,Imperfect,1st Person,Plural,exbattabamur,exbattebamur,exbattebamur,exbattiebamur,We were beated
+Passive Indicative,Imperfect,2nd Person,Singular,exbattabaris,exbattebaris,exbattebaris,exbattiebaris,You were beated
+Passive Indicative,Imperfect,2nd Person,Plural,exbattabamini,exbattebamini,exbattebamini,exbattiebamini,You (pl.) were beated
+Passive Indicative,Imperfect,3rd Person,Singular,exbattabatur,exbattebatur,exbattebatur,exbattiebatur,He/she/it was beated
+Passive Indicative,Imperfect,3rd Person,Plural,exbattabantur,exbattebantur,exbattebantur,exbattiebantur,They were beated
+Passive Indicative,Future,1st Person,Singular,exbattabor,exbattebor,exbattar,exbattiar,I will be beated
+Passive Indicative,Future,1st Person,Plural,exbattabimur,exbattebimur,exbattemur,exbattiemur,We will be beated
+Passive Indicative,Future,2nd Person,Singular,exbattaberis,exbatteberis,exbatteris,exbattieris,You will be beated
+Passive Indicative,Future,2nd Person,Plural,exbattabimini,exbattebimini,exbattemini,exbattiemini,You (pl.) will be beated
+Passive Indicative,Future,3rd Person,Singular,exbattabitur,exbattebitur,exbattetur,exbattietur,He/she/it will be beated
+Passive Indicative,Future,3rd Person,Plural,exbattabuntur,exbattebuntur,exbattentur,exbattientur,They will be beated
+Passive Indicative,Perfect,1st Person,Singular,exbattatus sum,exbattetus sum,exbattus sum,exbattus sum,I have been beated
+Passive Indicative,Perfect,1st Person,Plural,exbattati sumus,exbatteti sumus,exbatti sumus,exbatti sumus,We have been beated
+Passive Indicative,Perfect,2nd Person,Singular,exbattatus es,exbattetus es,exbattus es,exbattus es,You have been beated
+Passive Indicative,Perfect,2nd Person,Plural,exbattati estis,exbatteti estis,exbatti estis,exbatti estis,You (pl.) have been beated
+Passive Indicative,Perfect,3rd Person,Singular,exbattatus est,exbattetus est,exbattus est,exbattus est,He/she/it has been beated
+Passive Indicative,Perfect,3rd Person,Plural,exbattati sunt,exbatteti sunt,exbatti sunt,exbatti sunt,They have been beated
+Passive Indicative,Pluperfect,1st Person,Singular,exbattatus eram,exbattetus eram,exbattus eram,exbattus eram,I had been beated
+Passive Indicative,Pluperfect,1st Person,Plural,exbattati eramus,exbatteti eramus,exbatti eramus,exbatti eramus,We had been beated
+Passive Indicative,Pluperfect,2nd Person,Singular,exbattatus eras,exbattetus eras,exbattus eras,exbattus eras,You had been beated
+Passive Indicative,Pluperfect,2nd Person,Plural,exbattati eratis,exbatteti eratis,exbatti eratis,exbatti eratis,You (pl.) had been beated
+Passive Indicative,Pluperfect,3rd Person,Singular,exbattatus erat,exbattetus erat,exbattus erat,exbattus erat,He/she/it had been beated
+Passive Indicative,Pluperfect,3rd Person,Plural,exbattati erant,exbatteti erant,exbatti erant,exbatti erant,They had been beated
+Passive Indicative,Future Perfect,1st Person,Singular,exbattatus ero,exbattetus ero,exbattus ero,exbattus ero,I will have been beated
+Passive Indicative,Future Perfect,1st Person,Plural,exbattati erimus,exbatteti erimus,exbatti erimus,exbatti erimus,We will have been beated
+Passive Indicative,Future Perfect,2nd Person,Singular,exbattatus eris,exbattetus eris,exbattus eris,exbattus eris,You will have been beated
+Passive Indicative,Future Perfect,2nd Person,Plural,exbattati eritis,exbatteti eritis,exbatti eritis,exbatti eritis,You (pl.) will have been beated
+Passive Indicative,Future Perfect,3rd Person,Singular,exbattatus erit,exbattetus erit,exbattus erit,exbattus erit,He/she/it will have been beated
+Passive Indicative,Future Perfect,3rd Person,Plural,exbattati erunt,exbatteti erunt,exbatti erunt,exbatti erunt,They will have been beated
+Active Subjunctive,Present,1st Person,Singular,exbattem,exbattem,exbattam,exbattam,I may beat
+Active Subjunctive,Present,1st Person,Plural,exbattemus,exbattemus,exbattamus,exbattamus,We may beat
+Active Subjunctive,Present,2nd Person,Singular,exbattes,exbattes,exbattas,exbattas,You may beat
+Active Subjunctive,Present,2nd Person,Plural,exbattetis,exbattetis,exbattatis,exbattatis,You (pl.) may beat
+Active Subjunctive,Present,3rd Person,Singular,exbattet,exbattet,exbattat,exbattat,He/she/it may beat
+Active Subjunctive,Present,3rd Person,Plural,exbattent,exbattent,exbattant,exbattant,They may beat
+Active Subjunctive,Imperfect,1st Person,Singular,exbattarem,exbatterem,exbatterem,exbattirem,I should beat
+Active Subjunctive,Imperfect,1st Person,Plural,exbattaremus,exbatteremus,exbatteremus,exbattiremus,We should beat
+Active Subjunctive,Imperfect,2nd Person,Singular,exbattares,exbatteres,exbatteres,exbattires,You should beat
+Active Subjunctive,Imperfect,2nd Person,Plural,exbattaretis,exbatteretis,exbatteretis,exbattiretis,You (pl.) should beat
+Active Subjunctive,Imperfect,3rd Person,Singular,exbattaret,exbatteret,exbatteret,exbattiret,He/she/it should beat
+Active Subjunctive,Imperfect,3rd Person,Plural,exbattarent,exbatterent,exbatterent,exbattirent,They should beat
+Active Subjunctive,Perfect,1st Person,Singular,exbatterim,exbattuerim,exbatterim,exbattierim,I may have beated
+Active Subjunctive,Perfect,1st Person,Plural,exbatterimus,exbattuerimus,exbatterimus,exbattierimus,We may have beated
+Active Subjunctive,Perfect,2nd Person,Singular,exbatteris,exbattueris,exbatteris,exbattieris,You may have beated
+Active Subjunctive,Perfect,2nd Person,Plural,exbatteritis,exbattueritis,exbatteritis,exbattieritis,You (pl.) may have beated
+Active Subjunctive,Perfect,3rd Person,Singular,exbatterit,exbattuerit,exbatterit,exbattierit,He/she/it may have beated
+Active Subjunctive,Perfect,3rd Person,Plural,exbatterint,exbattuerint,exbatterint,exbattierint,They may have beated
+Active Subjunctive,Pluperfect,1st Person,Singular,exbattissem,exbattuissem,exbattissem,exbattissem,I should have beated
+Active Subjunctive,Pluperfect,1st Person,Plural,exbattissemus,exbattuissemus,exbattissemus,exbattissemus,We should have beated
+Active Subjunctive,Pluperfect,2nd Person,Singular,exbattisses,exbattuisses,exbattisses,exbattisses,You would have beated
+Active Subjunctive,Pluperfect,2nd Person,Plural,exbattissetis,exbattuissetis,exbattissetis,exbattissetis,You (pl.) would have beated
+Active Subjunctive,Pluperfect,3rd Person,Singular,exbattisset,exbattuisset,exbattisset,exbattisset,He/she/it would have beated
+Active Subjunctive,Pluperfect,3rd Person,Plural,exbattissent,exbattuissent,exbattissent,exbattissent,They would have beated
+Passive Subjunctive,Present,1st Person,Singular,exbatter,exbatter,exbattar,exbattar,I may be beated
+Passive Subjunctive,Present,1st Person,Plural,exbattemur,exbattemur,exbattamur,exbattamur,We may be beated
+Passive Subjunctive,Present,2nd Person,Singular,exbatteris,exbatteris,exbattaris,exbattaris,You may be beated
+Passive Subjunctive,Present,2nd Person,Plural,exbattemini,exbattemini,exbattamini,exbattamini,You (pl.) may be beated
+Passive Subjunctive,Present,3rd Person,Singular,exbattetur,exbattetur,exbattatur,exbattatur,He/she/it may be beated
+Passive Subjunctive,Present,3rd Person,Plural,exbattentur,exbattentur,exbattantur,exbattantur,They may be beated
+Passive Subjunctive,Imperfect,1st Person,Singular,exbattarer,exbatterer,exbatterer,exbattirer,I should be beated
+Passive Subjunctive,Imperfect,1st Person,Plural,exbattaremur,exbatteremur,exbatteremur,exbattiremur,We should be beated
+Passive Subjunctive,Imperfect,2nd Person,Singular,exbattareris,exbattereris,exbattereris,exbattireris,You would be beated
+Passive Subjunctive,Imperfect,2nd Person,Plural,exbattaremini,exbatteremini,exbatteremini,exbattiremini,You (pl.) would be beated
+Passive Subjunctive,Imperfect,3rd Person,Singular,exbattaretur,exbatteretur,exbatteretur,exbattiretur,He/she/it would be beated
+Passive Subjunctive,Imperfect,3rd Person,Plural,exbattarentur,exbatterentur,exbatterentur,exbattirentur,They would be beated
+Passive Subjunctive,Perfect,1st Person,Singular,exbattatus sim,exbattetus sim,exbattus sim,exbattus sim,I may have been beated
+Passive Subjunctive,Perfect,1st Person,Plural,exbattati simus,exbatteti simus,exbatti simus,exbatti simus,We may have been beated
+Passive Subjunctive,Perfect,2nd Person,Singular,exbattatus sis,exbattetus sis,exbattus sis,exbattus sis,You may have been beated
+Passive Subjunctive,Perfect,2nd Person,Plural,exbattati sitis,exbatteti sitis,exbatti sitis,exbatti sitis,You (pl.) may have been beated
+Passive Subjunctive,Perfect,3rd Person,Singular,exbattatus sit,exbattetus sit,exbattus sit,exbattus sit,He/she/it may have been beated
+Passive Subjunctive,Perfect,3rd Person,Plural,exbattati sint,exbatteti sint,exbatti sint,exbatti sint,They may have been beated
+Passive Subjunctive,Pluperfect,1st Person,Singular,exbattatus essem,exbattetus essem,exbattus essem,exbattus essem,I should have been beated
+Passive Subjunctive,Pluperfect,1st Person,Plural,exbattati essemus,exbatteti essemus,exbatti essemus,exbatti essemus,We should have been beated
+Passive Subjunctive,Pluperfect,2nd Person,Singular,exbattatus esses,exbattetus esses,exbattus esses,exbattus esses,You would have been beated
+Passive Subjunctive,Pluperfect,2nd Person,Plural,exbattati essetis,exbatteti essetis,exbatti essetis,exbatti essetis,You (pl.) would have been beated
+Passive Subjunctive,Pluperfect,3rd Person,Singular,exbattatus esset,exbattetus esset,exbattus esset,exbattus esset,He/she/it would have been beated
+Passive Subjunctive,Pluperfect,3rd Person,Plural,exbattati essent,exbatteti essent,exbatti essent,exbatti essent,They would have been beated

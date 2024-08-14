@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,gemo,gemeo,gemo,gemio,I groan
+Active Indicative,Present,1st Person,Plural,gemamus,gememus,gemimus,gemimus,We groan
+Active Indicative,Present,2nd Person,Singular,gemas,gemes,gemis,gemis,You groan
+Active Indicative,Present,2nd Person,Plural,gematis,gemetis,gemitis,gemitis,You (pl.) groan
+Active Indicative,Present,3rd Person,Singular,gemat,gemet,gemit,gemit,He/she/it groan
+Active Indicative,Present,3rd Person,Plural,gemant,gement,gemiunt,gemiunt,They groan
+Active Indicative,Imperfect,1st Person,Singular,gemabam,gemebam,gemebam,gemiebam,I was groaning
+Active Indicative,Imperfect,1st Person,Plural,gemabamus,gemebamus,gemebamus,gemiebamus,We were groaning
+Active Indicative,Imperfect,2nd Person,Singular,gemabas,gemebas,gemebas,gemiebas,You were groaning
+Active Indicative,Imperfect,2nd Person,Plural,gemabatis,gemebatis,gemebatis,gemiebatis,You (pl.) were groaning
+Active Indicative,Imperfect,3rd Person,Singular,gemabat,gemebat,gemebat,gemiebat,He/she/it was groaning
+Active Indicative,Imperfect,3rd Person,Plural,gemabant,gemebant,gemebant,gemiebant,They were groaning
+Active Indicative,Future,1st Person,Singular,gemabo,gemebo,gemam,gemiam,I will groan
+Active Indicative,Future,1st Person,Plural,gemabimus,gemebimus,gememus,gemiemus,We will groan
+Active Indicative,Future,2nd Person,Singular,gemabis,gemebis,gemes,gemies,You will groan
+Active Indicative,Future,2nd Person,Plural,gemabitis,gemebitis,gemetis,gemietis,You (pl.) will groan
+Active Indicative,Future,3rd Person,Singular,gemabit,gemebit,gemet,gemiet,He/she/it will groan
+Active Indicative,Future,3rd Person,Plural,gemabunt,gemebunt,gement,gemient,They will groan
+Active Indicative,Perfect,1st Person,Singular,gemavi,gemui,gemi,gemi,I have groaned
+Active Indicative,Perfect,1st Person,Plural,gemavimus,gemuimus,gemimus,gemimus,We have groaned
+Active Indicative,Perfect,2nd Person,Singular,gemavisti,gemuisti,gemisti,gemisti,You have groaned
+Active Indicative,Perfect,2nd Person,Plural,gemavistis,gemuistis,gemistis,gemistis,You (pl.) have groaned
+Active Indicative,Perfect,3rd Person,Singular,gemavit,gemuit,gemit,gemit,He/she/it has groaned
+Active Indicative,Perfect,3rd Person,Plural,gemaverunt,gemuerunt,gemerunt,gemerunt,They have groaned
+Active Indicative,Pluperfect,1st Person,Singular,gemaveram,gemueram,gemeram,gemeram,I had groaned
+Active Indicative,Pluperfect,1st Person,Plural,gemaveramus,gemueramus,gemeramus,gemeramus,We had groaned
+Active Indicative,Pluperfect,2nd Person,Singular,gemaveras,gemueras,gemeras,gemeras,You had groaned
+Active Indicative,Pluperfect,2nd Person,Plural,gemaveratis,gemueratis,gemeratis,gemeratis,You (pl.) had groaned
+Active Indicative,Pluperfect,3rd Person,Singular,gemaverat,gemuerat,gemerat,gemerat,He/she/it had groaned
+Active Indicative,Pluperfect,3rd Person,Plural,gemaverant,gemuerant,gemerant,gemerant,They had groaned
+Active Indicative,Future Perfect,1st Person,Singular,gemavero,gemueero,gemero,gemiero,I will have groaned
+Active Indicative,Future Perfect,1st Person,Plural,gemaverimus,gemuerimus,gemerimus,gemierimus,We will have groaned
+Active Indicative,Future Perfect,2nd Person,Singular,gemaveris,gemueris,gemeris,gemieris,You will have groaned
+Active Indicative,Future Perfect,2nd Person,Plural,gemaveritis,gemueritis,gemeritis,gemieritis,You (pl.) will have groaned
+Active Indicative,Future Perfect,3rd Person,Singular,gemaverit,gemuerit,gemerit,gemierit,He/she/it will have groaned
+Active Indicative,Future Perfect,3rd Person,Plural,gemaverint,gemuerint,gemerint,gemierint,They will have groaned
+Passive Indicative,Present,1st Person,Singular,gemor,gemeor,gemor,gemior,I am being groaned
+Passive Indicative,Present,1st Person,Plural,gemamur,gememur,gemimur,gemimur,We are being groaned
+Passive Indicative,Present,2nd Person,Singular,gemaris,gemeris,gemiris,gemiris,You are being groaned
+Passive Indicative,Present,2nd Person,Plural,gemamini,gememini,gemimini,gemimini,You (pl.) are being groaned
+Passive Indicative,Present,3rd Person,Singular,gematur,gemetur,gemitur,gemitur,He/she/it is being groaned
+Passive Indicative,Present,3rd Person,Plural,gemantur,gementur,gemiuntur,gemiuntur,They are being groaned
+Passive Indicative,Imperfect,1st Person,Singular,gemabar,gemebar,gemebar,gemiebar,I was groaned
+Passive Indicative,Imperfect,1st Person,Plural,gemabamur,gemebamur,gemebamur,gemiebamur,We were groaned
+Passive Indicative,Imperfect,2nd Person,Singular,gemabaris,gemebaris,gemebaris,gemiebaris,You were groaned
+Passive Indicative,Imperfect,2nd Person,Plural,gemabamini,gemebamini,gemebamini,gemiebamini,You (pl.) were groaned
+Passive Indicative,Imperfect,3rd Person,Singular,gemabatur,gemebatur,gemebatur,gemiebatur,He/she/it was groaned
+Passive Indicative,Imperfect,3rd Person,Plural,gemabantur,gemebantur,gemebantur,gemiebantur,They were groaned
+Passive Indicative,Future,1st Person,Singular,gemabor,gemebor,gemar,gemiar,I will be groaned
+Passive Indicative,Future,1st Person,Plural,gemabimur,gemebimur,gememur,gemiemur,We will be groaned
+Passive Indicative,Future,2nd Person,Singular,gemaberis,gemeberis,gemeris,gemieris,You will be groaned
+Passive Indicative,Future,2nd Person,Plural,gemabimini,gemebimini,gememini,gemiemini,You (pl.) will be groaned
+Passive Indicative,Future,3rd Person,Singular,gemabitur,gemebitur,gemetur,gemietur,He/she/it will be groaned
+Passive Indicative,Future,3rd Person,Plural,gemabuntur,gemebuntur,gementur,gemientur,They will be groaned
+Passive Indicative,Perfect,1st Person,Singular,gematus sum,gemetus sum,gemus sum,gemus sum,I have been groaned
+Passive Indicative,Perfect,1st Person,Plural,gemati sumus,gemeti sumus,gemi sumus,gemi sumus,We have been groaned
+Passive Indicative,Perfect,2nd Person,Singular,gematus es,gemetus es,gemus es,gemus es,You have been groaned
+Passive Indicative,Perfect,2nd Person,Plural,gemati estis,gemeti estis,gemi estis,gemi estis,You (pl.) have been groaned
+Passive Indicative,Perfect,3rd Person,Singular,gematus est,gemetus est,gemus est,gemus est,He/she/it has been groaned
+Passive Indicative,Perfect,3rd Person,Plural,gemati sunt,gemeti sunt,gemi sunt,gemi sunt,They have been groaned
+Passive Indicative,Pluperfect,1st Person,Singular,gematus eram,gemetus eram,gemus eram,gemus eram,I had been groaned
+Passive Indicative,Pluperfect,1st Person,Plural,gemati eramus,gemeti eramus,gemi eramus,gemi eramus,We had been groaned
+Passive Indicative,Pluperfect,2nd Person,Singular,gematus eras,gemetus eras,gemus eras,gemus eras,You had been groaned
+Passive Indicative,Pluperfect,2nd Person,Plural,gemati eratis,gemeti eratis,gemi eratis,gemi eratis,You (pl.) had been groaned
+Passive Indicative,Pluperfect,3rd Person,Singular,gematus erat,gemetus erat,gemus erat,gemus erat,He/she/it had been groaned
+Passive Indicative,Pluperfect,3rd Person,Plural,gemati erant,gemeti erant,gemi erant,gemi erant,They had been groaned
+Passive Indicative,Future Perfect,1st Person,Singular,gematus ero,gemetus ero,gemus ero,gemus ero,I will have been groaned
+Passive Indicative,Future Perfect,1st Person,Plural,gemati erimus,gemeti erimus,gemi erimus,gemi erimus,We will have been groaned
+Passive Indicative,Future Perfect,2nd Person,Singular,gematus eris,gemetus eris,gemus eris,gemus eris,You will have been groaned
+Passive Indicative,Future Perfect,2nd Person,Plural,gemati eritis,gemeti eritis,gemi eritis,gemi eritis,You (pl.) will have been groaned
+Passive Indicative,Future Perfect,3rd Person,Singular,gematus erit,gemetus erit,gemus erit,gemus erit,He/she/it will have been groaned
+Passive Indicative,Future Perfect,3rd Person,Plural,gemati erunt,gemeti erunt,gemi erunt,gemi erunt,They will have been groaned
+Active Subjunctive,Present,1st Person,Singular,gemem,gemem,gemam,gemam,I may groan
+Active Subjunctive,Present,1st Person,Plural,gememus,gememus,gemamus,gemamus,We may groan
+Active Subjunctive,Present,2nd Person,Singular,gemes,gemes,gemas,gemas,You may groan
+Active Subjunctive,Present,2nd Person,Plural,gemetis,gemetis,gematis,gematis,You (pl.) may groan
+Active Subjunctive,Present,3rd Person,Singular,gemet,gemet,gemat,gemat,He/she/it may groan
+Active Subjunctive,Present,3rd Person,Plural,gement,gement,gemant,gemant,They may groan
+Active Subjunctive,Imperfect,1st Person,Singular,gemarem,gemerem,gemerem,gemirem,I should groan
+Active Subjunctive,Imperfect,1st Person,Plural,gemaremus,gemeremus,gemeremus,gemiremus,We should groan
+Active Subjunctive,Imperfect,2nd Person,Singular,gemares,gemeres,gemeres,gemires,You should groan
+Active Subjunctive,Imperfect,2nd Person,Plural,gemaretis,gemeretis,gemeretis,gemiretis,You (pl.) should groan
+Active Subjunctive,Imperfect,3rd Person,Singular,gemaret,gemeret,gemeret,gemiret,He/she/it should groan
+Active Subjunctive,Imperfect,3rd Person,Plural,gemarent,gemerent,gemerent,gemirent,They should groan
+Active Subjunctive,Perfect,1st Person,Singular,gemerim,gemuerim,gemerim,gemierim,I may have groaned
+Active Subjunctive,Perfect,1st Person,Plural,gemerimus,gemuerimus,gemerimus,gemierimus,We may have groaned
+Active Subjunctive,Perfect,2nd Person,Singular,gemeris,gemueris,gemeris,gemieris,You may have groaned
+Active Subjunctive,Perfect,2nd Person,Plural,gemeritis,gemueritis,gemeritis,gemieritis,You (pl.) may have groaned
+Active Subjunctive,Perfect,3rd Person,Singular,gemerit,gemuerit,gemerit,gemierit,He/she/it may have groaned
+Active Subjunctive,Perfect,3rd Person,Plural,gemerint,gemuerint,gemerint,gemierint,They may have groaned
+Active Subjunctive,Pluperfect,1st Person,Singular,gemissem,gemuissem,gemissem,gemissem,I should have groaned
+Active Subjunctive,Pluperfect,1st Person,Plural,gemissemus,gemuissemus,gemissemus,gemissemus,We should have groaned
+Active Subjunctive,Pluperfect,2nd Person,Singular,gemisses,gemuisses,gemisses,gemisses,You would have groaned
+Active Subjunctive,Pluperfect,2nd Person,Plural,gemissetis,gemuissetis,gemissetis,gemissetis,You (pl.) would have groaned
+Active Subjunctive,Pluperfect,3rd Person,Singular,gemisset,gemuisset,gemisset,gemisset,He/she/it would have groaned
+Active Subjunctive,Pluperfect,3rd Person,Plural,gemissent,gemuissent,gemissent,gemissent,They would have groaned
+Passive Subjunctive,Present,1st Person,Singular,gemer,gemer,gemar,gemar,I may be groaned
+Passive Subjunctive,Present,1st Person,Plural,gememur,gememur,gemamur,gemamur,We may be groaned
+Passive Subjunctive,Present,2nd Person,Singular,gemeris,gemeris,gemaris,gemaris,You may be groaned
+Passive Subjunctive,Present,2nd Person,Plural,gememini,gememini,gemamini,gemamini,You (pl.) may be groaned
+Passive Subjunctive,Present,3rd Person,Singular,gemetur,gemetur,gematur,gematur,He/she/it may be groaned
+Passive Subjunctive,Present,3rd Person,Plural,gementur,gementur,gemantur,gemantur,They may be groaned
+Passive Subjunctive,Imperfect,1st Person,Singular,gemarer,gemerer,gemerer,gemirer,I should be groaned
+Passive Subjunctive,Imperfect,1st Person,Plural,gemaremur,gemeremur,gemeremur,gemiremur,We should be groaned
+Passive Subjunctive,Imperfect,2nd Person,Singular,gemareris,gemereris,gemereris,gemireris,You would be groaned
+Passive Subjunctive,Imperfect,2nd Person,Plural,gemaremini,gemeremini,gemeremini,gemiremini,You (pl.) would be groaned
+Passive Subjunctive,Imperfect,3rd Person,Singular,gemaretur,gemeretur,gemeretur,gemiretur,He/she/it would be groaned
+Passive Subjunctive,Imperfect,3rd Person,Plural,gemarentur,gemerentur,gemerentur,gemirentur,They would be groaned
+Passive Subjunctive,Perfect,1st Person,Singular,gematus sim,gemetus sim,gemus sim,gemus sim,I may have been groaned
+Passive Subjunctive,Perfect,1st Person,Plural,gemati simus,gemeti simus,gemi simus,gemi simus,We may have been groaned
+Passive Subjunctive,Perfect,2nd Person,Singular,gematus sis,gemetus sis,gemus sis,gemus sis,You may have been groaned
+Passive Subjunctive,Perfect,2nd Person,Plural,gemati sitis,gemeti sitis,gemi sitis,gemi sitis,You (pl.) may have been groaned
+Passive Subjunctive,Perfect,3rd Person,Singular,gematus sit,gemetus sit,gemus sit,gemus sit,He/she/it may have been groaned
+Passive Subjunctive,Perfect,3rd Person,Plural,gemati sint,gemeti sint,gemi sint,gemi sint,They may have been groaned
+Passive Subjunctive,Pluperfect,1st Person,Singular,gematus essem,gemetus essem,gemus essem,gemus essem,I should have been groaned
+Passive Subjunctive,Pluperfect,1st Person,Plural,gemati essemus,gemeti essemus,gemi essemus,gemi essemus,We should have been groaned
+Passive Subjunctive,Pluperfect,2nd Person,Singular,gematus esses,gemetus esses,gemus esses,gemus esses,You would have been groaned
+Passive Subjunctive,Pluperfect,2nd Person,Plural,gemati essetis,gemeti essetis,gemi essetis,gemi essetis,You (pl.) would have been groaned
+Passive Subjunctive,Pluperfect,3rd Person,Singular,gematus esset,gemetus esset,gemus esset,gemus esset,He/she/it would have been groaned
+Passive Subjunctive,Pluperfect,3rd Person,Plural,gemati essent,gemeti essent,gemi essent,gemi essent,They would have been groaned

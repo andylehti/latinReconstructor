@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,spiro,spireo,spiro,spirio,I breathe
+Active Indicative,Present,1st Person,Plural,spiramus,spiremus,spirimus,spirimus,We breathe
+Active Indicative,Present,2nd Person,Singular,spiras,spires,spiris,spiris,You breathe
+Active Indicative,Present,2nd Person,Plural,spiratis,spiretis,spiritis,spiritis,You (pl.) breathe
+Active Indicative,Present,3rd Person,Singular,spirat,spiret,spirit,spirit,He/she/it breathe
+Active Indicative,Present,3rd Person,Plural,spirant,spirent,spiriunt,spiriunt,They breathe
+Active Indicative,Imperfect,1st Person,Singular,spirabam,spirebam,spirebam,spiriebam,I was breatheing
+Active Indicative,Imperfect,1st Person,Plural,spirabamus,spirebamus,spirebamus,spiriebamus,We were breatheing
+Active Indicative,Imperfect,2nd Person,Singular,spirabas,spirebas,spirebas,spiriebas,You were breatheing
+Active Indicative,Imperfect,2nd Person,Plural,spirabatis,spirebatis,spirebatis,spiriebatis,You (pl.) were breatheing
+Active Indicative,Imperfect,3rd Person,Singular,spirabat,spirebat,spirebat,spiriebat,He/she/it was breatheing
+Active Indicative,Imperfect,3rd Person,Plural,spirabant,spirebant,spirebant,spiriebant,They were breatheing
+Active Indicative,Future,1st Person,Singular,spirabo,spirebo,spiram,spiriam,I will breathe
+Active Indicative,Future,1st Person,Plural,spirabimus,spirebimus,spiremus,spiriemus,We will breathe
+Active Indicative,Future,2nd Person,Singular,spirabis,spirebis,spires,spiries,You will breathe
+Active Indicative,Future,2nd Person,Plural,spirabitis,spirebitis,spiretis,spirietis,You (pl.) will breathe
+Active Indicative,Future,3rd Person,Singular,spirabit,spirebit,spiret,spiriet,He/she/it will breathe
+Active Indicative,Future,3rd Person,Plural,spirabunt,spirebunt,spirent,spirient,They will breathe
+Active Indicative,Perfect,1st Person,Singular,spiravi,spirui,spiri,spiri,I have breatheed
+Active Indicative,Perfect,1st Person,Plural,spiravimus,spiruimus,spirimus,spirimus,We have breatheed
+Active Indicative,Perfect,2nd Person,Singular,spiravisti,spiruisti,spiristi,spiristi,You have breatheed
+Active Indicative,Perfect,2nd Person,Plural,spiravistis,spiruistis,spiristis,spiristis,You (pl.) have breatheed
+Active Indicative,Perfect,3rd Person,Singular,spiravit,spiruit,spirit,spirit,He/she/it has breatheed
+Active Indicative,Perfect,3rd Person,Plural,spiraverunt,spiruerunt,spirerunt,spirerunt,They have breatheed
+Active Indicative,Pluperfect,1st Person,Singular,spiraveram,spirueram,spireram,spireram,I had breatheed
+Active Indicative,Pluperfect,1st Person,Plural,spiraveramus,spirueramus,spireramus,spireramus,We had breatheed
+Active Indicative,Pluperfect,2nd Person,Singular,spiraveras,spirueras,spireras,spireras,You had breatheed
+Active Indicative,Pluperfect,2nd Person,Plural,spiraveratis,spirueratis,spireratis,spireratis,You (pl.) had breatheed
+Active Indicative,Pluperfect,3rd Person,Singular,spiraverat,spiruerat,spirerat,spirerat,He/she/it had breatheed
+Active Indicative,Pluperfect,3rd Person,Plural,spiraverant,spiruerant,spirerant,spirerant,They had breatheed
+Active Indicative,Future Perfect,1st Person,Singular,spiravero,spirueero,spirero,spiriero,I will have breatheed
+Active Indicative,Future Perfect,1st Person,Plural,spiraverimus,spiruerimus,spirerimus,spirierimus,We will have breatheed
+Active Indicative,Future Perfect,2nd Person,Singular,spiraveris,spirueris,spireris,spirieris,You will have breatheed
+Active Indicative,Future Perfect,2nd Person,Plural,spiraveritis,spirueritis,spireritis,spirieritis,You (pl.) will have breatheed
+Active Indicative,Future Perfect,3rd Person,Singular,spiraverit,spiruerit,spirerit,spirierit,He/she/it will have breatheed
+Active Indicative,Future Perfect,3rd Person,Plural,spiraverint,spiruerint,spirerint,spirierint,They will have breatheed
+Passive Indicative,Present,1st Person,Singular,spiror,spireor,spiror,spirior,I am being breatheed
+Passive Indicative,Present,1st Person,Plural,spiramur,spiremur,spirimur,spirimur,We are being breatheed
+Passive Indicative,Present,2nd Person,Singular,spiraris,spireris,spiriris,spiriris,You are being breatheed
+Passive Indicative,Present,2nd Person,Plural,spiramini,spiremini,spirimini,spirimini,You (pl.) are being breatheed
+Passive Indicative,Present,3rd Person,Singular,spiratur,spiretur,spiritur,spiritur,He/she/it is being breatheed
+Passive Indicative,Present,3rd Person,Plural,spirantur,spirentur,spiriuntur,spiriuntur,They are being breatheed
+Passive Indicative,Imperfect,1st Person,Singular,spirabar,spirebar,spirebar,spiriebar,I was breatheed
+Passive Indicative,Imperfect,1st Person,Plural,spirabamur,spirebamur,spirebamur,spiriebamur,We were breatheed
+Passive Indicative,Imperfect,2nd Person,Singular,spirabaris,spirebaris,spirebaris,spiriebaris,You were breatheed
+Passive Indicative,Imperfect,2nd Person,Plural,spirabamini,spirebamini,spirebamini,spiriebamini,You (pl.) were breatheed
+Passive Indicative,Imperfect,3rd Person,Singular,spirabatur,spirebatur,spirebatur,spiriebatur,He/she/it was breatheed
+Passive Indicative,Imperfect,3rd Person,Plural,spirabantur,spirebantur,spirebantur,spiriebantur,They were breatheed
+Passive Indicative,Future,1st Person,Singular,spirabor,spirebor,spirar,spiriar,I will be breatheed
+Passive Indicative,Future,1st Person,Plural,spirabimur,spirebimur,spiremur,spiriemur,We will be breatheed
+Passive Indicative,Future,2nd Person,Singular,spiraberis,spireberis,spireris,spirieris,You will be breatheed
+Passive Indicative,Future,2nd Person,Plural,spirabimini,spirebimini,spiremini,spiriemini,You (pl.) will be breatheed
+Passive Indicative,Future,3rd Person,Singular,spirabitur,spirebitur,spiretur,spirietur,He/she/it will be breatheed
+Passive Indicative,Future,3rd Person,Plural,spirabuntur,spirebuntur,spirentur,spirientur,They will be breatheed
+Passive Indicative,Perfect,1st Person,Singular,spiratus sum,spiretus sum,spirus sum,spirus sum,I have been breatheed
+Passive Indicative,Perfect,1st Person,Plural,spirati sumus,spireti sumus,spiri sumus,spiri sumus,We have been breatheed
+Passive Indicative,Perfect,2nd Person,Singular,spiratus es,spiretus es,spirus es,spirus es,You have been breatheed
+Passive Indicative,Perfect,2nd Person,Plural,spirati estis,spireti estis,spiri estis,spiri estis,You (pl.) have been breatheed
+Passive Indicative,Perfect,3rd Person,Singular,spiratus est,spiretus est,spirus est,spirus est,He/she/it has been breatheed
+Passive Indicative,Perfect,3rd Person,Plural,spirati sunt,spireti sunt,spiri sunt,spiri sunt,They have been breatheed
+Passive Indicative,Pluperfect,1st Person,Singular,spiratus eram,spiretus eram,spirus eram,spirus eram,I had been breatheed
+Passive Indicative,Pluperfect,1st Person,Plural,spirati eramus,spireti eramus,spiri eramus,spiri eramus,We had been breatheed
+Passive Indicative,Pluperfect,2nd Person,Singular,spiratus eras,spiretus eras,spirus eras,spirus eras,You had been breatheed
+Passive Indicative,Pluperfect,2nd Person,Plural,spirati eratis,spireti eratis,spiri eratis,spiri eratis,You (pl.) had been breatheed
+Passive Indicative,Pluperfect,3rd Person,Singular,spiratus erat,spiretus erat,spirus erat,spirus erat,He/she/it had been breatheed
+Passive Indicative,Pluperfect,3rd Person,Plural,spirati erant,spireti erant,spiri erant,spiri erant,They had been breatheed
+Passive Indicative,Future Perfect,1st Person,Singular,spiratus ero,spiretus ero,spirus ero,spirus ero,I will have been breatheed
+Passive Indicative,Future Perfect,1st Person,Plural,spirati erimus,spireti erimus,spiri erimus,spiri erimus,We will have been breatheed
+Passive Indicative,Future Perfect,2nd Person,Singular,spiratus eris,spiretus eris,spirus eris,spirus eris,You will have been breatheed
+Passive Indicative,Future Perfect,2nd Person,Plural,spirati eritis,spireti eritis,spiri eritis,spiri eritis,You (pl.) will have been breatheed
+Passive Indicative,Future Perfect,3rd Person,Singular,spiratus erit,spiretus erit,spirus erit,spirus erit,He/she/it will have been breatheed
+Passive Indicative,Future Perfect,3rd Person,Plural,spirati erunt,spireti erunt,spiri erunt,spiri erunt,They will have been breatheed
+Active Subjunctive,Present,1st Person,Singular,spirem,spirem,spiram,spiram,I may breathe
+Active Subjunctive,Present,1st Person,Plural,spiremus,spiremus,spiramus,spiramus,We may breathe
+Active Subjunctive,Present,2nd Person,Singular,spires,spires,spiras,spiras,You may breathe
+Active Subjunctive,Present,2nd Person,Plural,spiretis,spiretis,spiratis,spiratis,You (pl.) may breathe
+Active Subjunctive,Present,3rd Person,Singular,spiret,spiret,spirat,spirat,He/she/it may breathe
+Active Subjunctive,Present,3rd Person,Plural,spirent,spirent,spirant,spirant,They may breathe
+Active Subjunctive,Imperfect,1st Person,Singular,spirarem,spirerem,spirerem,spirirem,I should breathe
+Active Subjunctive,Imperfect,1st Person,Plural,spiraremus,spireremus,spireremus,spiriremus,We should breathe
+Active Subjunctive,Imperfect,2nd Person,Singular,spirares,spireres,spireres,spirires,You should breathe
+Active Subjunctive,Imperfect,2nd Person,Plural,spiraretis,spireretis,spireretis,spiriretis,You (pl.) should breathe
+Active Subjunctive,Imperfect,3rd Person,Singular,spiraret,spireret,spireret,spiriret,He/she/it should breathe
+Active Subjunctive,Imperfect,3rd Person,Plural,spirarent,spirerent,spirerent,spirirent,They should breathe
+Active Subjunctive,Perfect,1st Person,Singular,spirerim,spiruerim,spirerim,spirierim,I may have breatheed
+Active Subjunctive,Perfect,1st Person,Plural,spirerimus,spiruerimus,spirerimus,spirierimus,We may have breatheed
+Active Subjunctive,Perfect,2nd Person,Singular,spireris,spirueris,spireris,spirieris,You may have breatheed
+Active Subjunctive,Perfect,2nd Person,Plural,spireritis,spirueritis,spireritis,spirieritis,You (pl.) may have breatheed
+Active Subjunctive,Perfect,3rd Person,Singular,spirerit,spiruerit,spirerit,spirierit,He/she/it may have breatheed
+Active Subjunctive,Perfect,3rd Person,Plural,spirerint,spiruerint,spirerint,spirierint,They may have breatheed
+Active Subjunctive,Pluperfect,1st Person,Singular,spirissem,spiruissem,spirissem,spirissem,I should have breatheed
+Active Subjunctive,Pluperfect,1st Person,Plural,spirissemus,spiruissemus,spirissemus,spirissemus,We should have breatheed
+Active Subjunctive,Pluperfect,2nd Person,Singular,spirisses,spiruisses,spirisses,spirisses,You would have breatheed
+Active Subjunctive,Pluperfect,2nd Person,Plural,spirissetis,spiruissetis,spirissetis,spirissetis,You (pl.) would have breatheed
+Active Subjunctive,Pluperfect,3rd Person,Singular,spirisset,spiruisset,spirisset,spirisset,He/she/it would have breatheed
+Active Subjunctive,Pluperfect,3rd Person,Plural,spirissent,spiruissent,spirissent,spirissent,They would have breatheed
+Passive Subjunctive,Present,1st Person,Singular,spirer,spirer,spirar,spirar,I may be breatheed
+Passive Subjunctive,Present,1st Person,Plural,spiremur,spiremur,spiramur,spiramur,We may be breatheed
+Passive Subjunctive,Present,2nd Person,Singular,spireris,spireris,spiraris,spiraris,You may be breatheed
+Passive Subjunctive,Present,2nd Person,Plural,spiremini,spiremini,spiramini,spiramini,You (pl.) may be breatheed
+Passive Subjunctive,Present,3rd Person,Singular,spiretur,spiretur,spiratur,spiratur,He/she/it may be breatheed
+Passive Subjunctive,Present,3rd Person,Plural,spirentur,spirentur,spirantur,spirantur,They may be breatheed
+Passive Subjunctive,Imperfect,1st Person,Singular,spirarer,spirerer,spirerer,spirirer,I should be breatheed
+Passive Subjunctive,Imperfect,1st Person,Plural,spiraremur,spireremur,spireremur,spiriremur,We should be breatheed
+Passive Subjunctive,Imperfect,2nd Person,Singular,spirareris,spirereris,spirereris,spirireris,You would be breatheed
+Passive Subjunctive,Imperfect,2nd Person,Plural,spiraremini,spireremini,spireremini,spiriremini,You (pl.) would be breatheed
+Passive Subjunctive,Imperfect,3rd Person,Singular,spiraretur,spireretur,spireretur,spiriretur,He/she/it would be breatheed
+Passive Subjunctive,Imperfect,3rd Person,Plural,spirarentur,spirerentur,spirerentur,spirirentur,They would be breatheed
+Passive Subjunctive,Perfect,1st Person,Singular,spiratus sim,spiretus sim,spirus sim,spirus sim,I may have been breatheed
+Passive Subjunctive,Perfect,1st Person,Plural,spirati simus,spireti simus,spiri simus,spiri simus,We may have been breatheed
+Passive Subjunctive,Perfect,2nd Person,Singular,spiratus sis,spiretus sis,spirus sis,spirus sis,You may have been breatheed
+Passive Subjunctive,Perfect,2nd Person,Plural,spirati sitis,spireti sitis,spiri sitis,spiri sitis,You (pl.) may have been breatheed
+Passive Subjunctive,Perfect,3rd Person,Singular,spiratus sit,spiretus sit,spirus sit,spirus sit,He/she/it may have been breatheed
+Passive Subjunctive,Perfect,3rd Person,Plural,spirati sint,spireti sint,spiri sint,spiri sint,They may have been breatheed
+Passive Subjunctive,Pluperfect,1st Person,Singular,spiratus essem,spiretus essem,spirus essem,spirus essem,I should have been breatheed
+Passive Subjunctive,Pluperfect,1st Person,Plural,spirati essemus,spireti essemus,spiri essemus,spiri essemus,We should have been breatheed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,spiratus esses,spiretus esses,spirus esses,spirus esses,You would have been breatheed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,spirati essetis,spireti essetis,spiri essetis,spiri essetis,You (pl.) would have been breatheed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,spiratus esset,spiretus esset,spirus esset,spirus esset,He/she/it would have been breatheed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,spirati essent,spireti essent,spiri essent,spiri essent,They would have been breatheed

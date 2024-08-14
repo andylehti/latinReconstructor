@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,accapo,accapeo,accapo,accapio,I finish
+Active Indicative,Present,1st Person,Plural,accapamus,accapemus,accapimus,accapimus,We finish
+Active Indicative,Present,2nd Person,Singular,accapas,accapes,accapis,accapis,You finish
+Active Indicative,Present,2nd Person,Plural,accapatis,accapetis,accapitis,accapitis,You (pl.) finish
+Active Indicative,Present,3rd Person,Singular,accapat,accapet,accapit,accapit,He/she/it finish
+Active Indicative,Present,3rd Person,Plural,accapant,accapent,accapiunt,accapiunt,They finish
+Active Indicative,Imperfect,1st Person,Singular,accapabam,accapebam,accapebam,accapiebam,I was finishing
+Active Indicative,Imperfect,1st Person,Plural,accapabamus,accapebamus,accapebamus,accapiebamus,We were finishing
+Active Indicative,Imperfect,2nd Person,Singular,accapabas,accapebas,accapebas,accapiebas,You were finishing
+Active Indicative,Imperfect,2nd Person,Plural,accapabatis,accapebatis,accapebatis,accapiebatis,You (pl.) were finishing
+Active Indicative,Imperfect,3rd Person,Singular,accapabat,accapebat,accapebat,accapiebat,He/she/it was finishing
+Active Indicative,Imperfect,3rd Person,Plural,accapabant,accapebant,accapebant,accapiebant,They were finishing
+Active Indicative,Future,1st Person,Singular,accapabo,accapebo,accapam,accapiam,I will finish
+Active Indicative,Future,1st Person,Plural,accapabimus,accapebimus,accapemus,accapiemus,We will finish
+Active Indicative,Future,2nd Person,Singular,accapabis,accapebis,accapes,accapies,You will finish
+Active Indicative,Future,2nd Person,Plural,accapabitis,accapebitis,accapetis,accapietis,You (pl.) will finish
+Active Indicative,Future,3rd Person,Singular,accapabit,accapebit,accapet,accapiet,He/she/it will finish
+Active Indicative,Future,3rd Person,Plural,accapabunt,accapebunt,accapent,accapient,They will finish
+Active Indicative,Perfect,1st Person,Singular,accapavi,accapui,accapi,accapi,I have finished
+Active Indicative,Perfect,1st Person,Plural,accapavimus,accapuimus,accapimus,accapimus,We have finished
+Active Indicative,Perfect,2nd Person,Singular,accapavisti,accapuisti,accapisti,accapisti,You have finished
+Active Indicative,Perfect,2nd Person,Plural,accapavistis,accapuistis,accapistis,accapistis,You (pl.) have finished
+Active Indicative,Perfect,3rd Person,Singular,accapavit,accapuit,accapit,accapit,He/she/it has finished
+Active Indicative,Perfect,3rd Person,Plural,accapaverunt,accapuerunt,accaperunt,accaperunt,They have finished
+Active Indicative,Pluperfect,1st Person,Singular,accapaveram,accapueram,accaperam,accaperam,I had finished
+Active Indicative,Pluperfect,1st Person,Plural,accapaveramus,accapueramus,accaperamus,accaperamus,We had finished
+Active Indicative,Pluperfect,2nd Person,Singular,accapaveras,accapueras,accaperas,accaperas,You had finished
+Active Indicative,Pluperfect,2nd Person,Plural,accapaveratis,accapueratis,accaperatis,accaperatis,You (pl.) had finished
+Active Indicative,Pluperfect,3rd Person,Singular,accapaverat,accapuerat,accaperat,accaperat,He/she/it had finished
+Active Indicative,Pluperfect,3rd Person,Plural,accapaverant,accapuerant,accaperant,accaperant,They had finished
+Active Indicative,Future Perfect,1st Person,Singular,accapavero,accapueero,accapero,accapiero,I will have finished
+Active Indicative,Future Perfect,1st Person,Plural,accapaverimus,accapuerimus,accaperimus,accapierimus,We will have finished
+Active Indicative,Future Perfect,2nd Person,Singular,accapaveris,accapueris,accaperis,accapieris,You will have finished
+Active Indicative,Future Perfect,2nd Person,Plural,accapaveritis,accapueritis,accaperitis,accapieritis,You (pl.) will have finished
+Active Indicative,Future Perfect,3rd Person,Singular,accapaverit,accapuerit,accaperit,accapierit,He/she/it will have finished
+Active Indicative,Future Perfect,3rd Person,Plural,accapaverint,accapuerint,accaperint,accapierint,They will have finished
+Passive Indicative,Present,1st Person,Singular,accapor,accapeor,accapor,accapior,I am being finished
+Passive Indicative,Present,1st Person,Plural,accapamur,accapemur,accapimur,accapimur,We are being finished
+Passive Indicative,Present,2nd Person,Singular,accaparis,accaperis,accapiris,accapiris,You are being finished
+Passive Indicative,Present,2nd Person,Plural,accapamini,accapemini,accapimini,accapimini,You (pl.) are being finished
+Passive Indicative,Present,3rd Person,Singular,accapatur,accapetur,accapitur,accapitur,He/she/it is being finished
+Passive Indicative,Present,3rd Person,Plural,accapantur,accapentur,accapiuntur,accapiuntur,They are being finished
+Passive Indicative,Imperfect,1st Person,Singular,accapabar,accapebar,accapebar,accapiebar,I was finished
+Passive Indicative,Imperfect,1st Person,Plural,accapabamur,accapebamur,accapebamur,accapiebamur,We were finished
+Passive Indicative,Imperfect,2nd Person,Singular,accapabaris,accapebaris,accapebaris,accapiebaris,You were finished
+Passive Indicative,Imperfect,2nd Person,Plural,accapabamini,accapebamini,accapebamini,accapiebamini,You (pl.) were finished
+Passive Indicative,Imperfect,3rd Person,Singular,accapabatur,accapebatur,accapebatur,accapiebatur,He/she/it was finished
+Passive Indicative,Imperfect,3rd Person,Plural,accapabantur,accapebantur,accapebantur,accapiebantur,They were finished
+Passive Indicative,Future,1st Person,Singular,accapabor,accapebor,accapar,accapiar,I will be finished
+Passive Indicative,Future,1st Person,Plural,accapabimur,accapebimur,accapemur,accapiemur,We will be finished
+Passive Indicative,Future,2nd Person,Singular,accapaberis,accapeberis,accaperis,accapieris,You will be finished
+Passive Indicative,Future,2nd Person,Plural,accapabimini,accapebimini,accapemini,accapiemini,You (pl.) will be finished
+Passive Indicative,Future,3rd Person,Singular,accapabitur,accapebitur,accapetur,accapietur,He/she/it will be finished
+Passive Indicative,Future,3rd Person,Plural,accapabuntur,accapebuntur,accapentur,accapientur,They will be finished
+Passive Indicative,Perfect,1st Person,Singular,accapatus sum,accapetus sum,accapus sum,accapus sum,I have been finished
+Passive Indicative,Perfect,1st Person,Plural,accapati sumus,accapeti sumus,accapi sumus,accapi sumus,We have been finished
+Passive Indicative,Perfect,2nd Person,Singular,accapatus es,accapetus es,accapus es,accapus es,You have been finished
+Passive Indicative,Perfect,2nd Person,Plural,accapati estis,accapeti estis,accapi estis,accapi estis,You (pl.) have been finished
+Passive Indicative,Perfect,3rd Person,Singular,accapatus est,accapetus est,accapus est,accapus est,He/she/it has been finished
+Passive Indicative,Perfect,3rd Person,Plural,accapati sunt,accapeti sunt,accapi sunt,accapi sunt,They have been finished
+Passive Indicative,Pluperfect,1st Person,Singular,accapatus eram,accapetus eram,accapus eram,accapus eram,I had been finished
+Passive Indicative,Pluperfect,1st Person,Plural,accapati eramus,accapeti eramus,accapi eramus,accapi eramus,We had been finished
+Passive Indicative,Pluperfect,2nd Person,Singular,accapatus eras,accapetus eras,accapus eras,accapus eras,You had been finished
+Passive Indicative,Pluperfect,2nd Person,Plural,accapati eratis,accapeti eratis,accapi eratis,accapi eratis,You (pl.) had been finished
+Passive Indicative,Pluperfect,3rd Person,Singular,accapatus erat,accapetus erat,accapus erat,accapus erat,He/she/it had been finished
+Passive Indicative,Pluperfect,3rd Person,Plural,accapati erant,accapeti erant,accapi erant,accapi erant,They had been finished
+Passive Indicative,Future Perfect,1st Person,Singular,accapatus ero,accapetus ero,accapus ero,accapus ero,I will have been finished
+Passive Indicative,Future Perfect,1st Person,Plural,accapati erimus,accapeti erimus,accapi erimus,accapi erimus,We will have been finished
+Passive Indicative,Future Perfect,2nd Person,Singular,accapatus eris,accapetus eris,accapus eris,accapus eris,You will have been finished
+Passive Indicative,Future Perfect,2nd Person,Plural,accapati eritis,accapeti eritis,accapi eritis,accapi eritis,You (pl.) will have been finished
+Passive Indicative,Future Perfect,3rd Person,Singular,accapatus erit,accapetus erit,accapus erit,accapus erit,He/she/it will have been finished
+Passive Indicative,Future Perfect,3rd Person,Plural,accapati erunt,accapeti erunt,accapi erunt,accapi erunt,They will have been finished
+Active Subjunctive,Present,1st Person,Singular,accapem,accapem,accapam,accapam,I may finish
+Active Subjunctive,Present,1st Person,Plural,accapemus,accapemus,accapamus,accapamus,We may finish
+Active Subjunctive,Present,2nd Person,Singular,accapes,accapes,accapas,accapas,You may finish
+Active Subjunctive,Present,2nd Person,Plural,accapetis,accapetis,accapatis,accapatis,You (pl.) may finish
+Active Subjunctive,Present,3rd Person,Singular,accapet,accapet,accapat,accapat,He/she/it may finish
+Active Subjunctive,Present,3rd Person,Plural,accapent,accapent,accapant,accapant,They may finish
+Active Subjunctive,Imperfect,1st Person,Singular,accaparem,accaperem,accaperem,accapirem,I should finish
+Active Subjunctive,Imperfect,1st Person,Plural,accaparemus,accaperemus,accaperemus,accapiremus,We should finish
+Active Subjunctive,Imperfect,2nd Person,Singular,accapares,accaperes,accaperes,accapires,You should finish
+Active Subjunctive,Imperfect,2nd Person,Plural,accaparetis,accaperetis,accaperetis,accapiretis,You (pl.) should finish
+Active Subjunctive,Imperfect,3rd Person,Singular,accaparet,accaperet,accaperet,accapiret,He/she/it should finish
+Active Subjunctive,Imperfect,3rd Person,Plural,accaparent,accaperent,accaperent,accapirent,They should finish
+Active Subjunctive,Perfect,1st Person,Singular,accaperim,accapuerim,accaperim,accapierim,I may have finished
+Active Subjunctive,Perfect,1st Person,Plural,accaperimus,accapuerimus,accaperimus,accapierimus,We may have finished
+Active Subjunctive,Perfect,2nd Person,Singular,accaperis,accapueris,accaperis,accapieris,You may have finished
+Active Subjunctive,Perfect,2nd Person,Plural,accaperitis,accapueritis,accaperitis,accapieritis,You (pl.) may have finished
+Active Subjunctive,Perfect,3rd Person,Singular,accaperit,accapuerit,accaperit,accapierit,He/she/it may have finished
+Active Subjunctive,Perfect,3rd Person,Plural,accaperint,accapuerint,accaperint,accapierint,They may have finished
+Active Subjunctive,Pluperfect,1st Person,Singular,accapissem,accapuissem,accapissem,accapissem,I should have finished
+Active Subjunctive,Pluperfect,1st Person,Plural,accapissemus,accapuissemus,accapissemus,accapissemus,We should have finished
+Active Subjunctive,Pluperfect,2nd Person,Singular,accapisses,accapuisses,accapisses,accapisses,You would have finished
+Active Subjunctive,Pluperfect,2nd Person,Plural,accapissetis,accapuissetis,accapissetis,accapissetis,You (pl.) would have finished
+Active Subjunctive,Pluperfect,3rd Person,Singular,accapisset,accapuisset,accapisset,accapisset,He/she/it would have finished
+Active Subjunctive,Pluperfect,3rd Person,Plural,accapissent,accapuissent,accapissent,accapissent,They would have finished
+Passive Subjunctive,Present,1st Person,Singular,accaper,accaper,accapar,accapar,I may be finished
+Passive Subjunctive,Present,1st Person,Plural,accapemur,accapemur,accapamur,accapamur,We may be finished
+Passive Subjunctive,Present,2nd Person,Singular,accaperis,accaperis,accaparis,accaparis,You may be finished
+Passive Subjunctive,Present,2nd Person,Plural,accapemini,accapemini,accapamini,accapamini,You (pl.) may be finished
+Passive Subjunctive,Present,3rd Person,Singular,accapetur,accapetur,accapatur,accapatur,He/she/it may be finished
+Passive Subjunctive,Present,3rd Person,Plural,accapentur,accapentur,accapantur,accapantur,They may be finished
+Passive Subjunctive,Imperfect,1st Person,Singular,accaparer,accaperer,accaperer,accapirer,I should be finished
+Passive Subjunctive,Imperfect,1st Person,Plural,accaparemur,accaperemur,accaperemur,accapiremur,We should be finished
+Passive Subjunctive,Imperfect,2nd Person,Singular,accapareris,accapereris,accapereris,accapireris,You would be finished
+Passive Subjunctive,Imperfect,2nd Person,Plural,accaparemini,accaperemini,accaperemini,accapiremini,You (pl.) would be finished
+Passive Subjunctive,Imperfect,3rd Person,Singular,accaparetur,accaperetur,accaperetur,accapiretur,He/she/it would be finished
+Passive Subjunctive,Imperfect,3rd Person,Plural,accaparentur,accaperentur,accaperentur,accapirentur,They would be finished
+Passive Subjunctive,Perfect,1st Person,Singular,accapatus sim,accapetus sim,accapus sim,accapus sim,I may have been finished
+Passive Subjunctive,Perfect,1st Person,Plural,accapati simus,accapeti simus,accapi simus,accapi simus,We may have been finished
+Passive Subjunctive,Perfect,2nd Person,Singular,accapatus sis,accapetus sis,accapus sis,accapus sis,You may have been finished
+Passive Subjunctive,Perfect,2nd Person,Plural,accapati sitis,accapeti sitis,accapi sitis,accapi sitis,You (pl.) may have been finished
+Passive Subjunctive,Perfect,3rd Person,Singular,accapatus sit,accapetus sit,accapus sit,accapus sit,He/she/it may have been finished
+Passive Subjunctive,Perfect,3rd Person,Plural,accapati sint,accapeti sint,accapi sint,accapi sint,They may have been finished
+Passive Subjunctive,Pluperfect,1st Person,Singular,accapatus essem,accapetus essem,accapus essem,accapus essem,I should have been finished
+Passive Subjunctive,Pluperfect,1st Person,Plural,accapati essemus,accapeti essemus,accapi essemus,accapi essemus,We should have been finished
+Passive Subjunctive,Pluperfect,2nd Person,Singular,accapatus esses,accapetus esses,accapus esses,accapus esses,You would have been finished
+Passive Subjunctive,Pluperfect,2nd Person,Plural,accapati essetis,accapeti essetis,accapi essetis,accapi essetis,You (pl.) would have been finished
+Passive Subjunctive,Pluperfect,3rd Person,Singular,accapatus esset,accapetus esset,accapus esset,accapus esset,He/she/it would have been finished
+Passive Subjunctive,Pluperfect,3rd Person,Plural,accapati essent,accapeti essent,accapi essent,accapi essent,They would have been finished

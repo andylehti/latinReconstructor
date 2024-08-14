@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,libero,libereo,libero,liberio,I rescue
+Active Indicative,Present,1st Person,Plural,liberamus,liberemus,liberimus,liberimus,We rescue
+Active Indicative,Present,2nd Person,Singular,liberas,liberes,liberis,liberis,You rescue
+Active Indicative,Present,2nd Person,Plural,liberatis,liberetis,liberitis,liberitis,You (pl.) rescue
+Active Indicative,Present,3rd Person,Singular,liberat,liberet,liberit,liberit,He/she/it rescue
+Active Indicative,Present,3rd Person,Plural,liberant,liberent,liberiunt,liberiunt,They rescue
+Active Indicative,Imperfect,1st Person,Singular,liberabam,liberebam,liberebam,liberiebam,I was rescueing
+Active Indicative,Imperfect,1st Person,Plural,liberabamus,liberebamus,liberebamus,liberiebamus,We were rescueing
+Active Indicative,Imperfect,2nd Person,Singular,liberabas,liberebas,liberebas,liberiebas,You were rescueing
+Active Indicative,Imperfect,2nd Person,Plural,liberabatis,liberebatis,liberebatis,liberiebatis,You (pl.) were rescueing
+Active Indicative,Imperfect,3rd Person,Singular,liberabat,liberebat,liberebat,liberiebat,He/she/it was rescueing
+Active Indicative,Imperfect,3rd Person,Plural,liberabant,liberebant,liberebant,liberiebant,They were rescueing
+Active Indicative,Future,1st Person,Singular,liberabo,liberebo,liberam,liberiam,I will rescue
+Active Indicative,Future,1st Person,Plural,liberabimus,liberebimus,liberemus,liberiemus,We will rescue
+Active Indicative,Future,2nd Person,Singular,liberabis,liberebis,liberes,liberies,You will rescue
+Active Indicative,Future,2nd Person,Plural,liberabitis,liberebitis,liberetis,liberietis,You (pl.) will rescue
+Active Indicative,Future,3rd Person,Singular,liberabit,liberebit,liberet,liberiet,He/she/it will rescue
+Active Indicative,Future,3rd Person,Plural,liberabunt,liberebunt,liberent,liberient,They will rescue
+Active Indicative,Perfect,1st Person,Singular,liberavi,liberui,liberi,liberi,I have rescueed
+Active Indicative,Perfect,1st Person,Plural,liberavimus,liberuimus,liberimus,liberimus,We have rescueed
+Active Indicative,Perfect,2nd Person,Singular,liberavisti,liberuisti,liberisti,liberisti,You have rescueed
+Active Indicative,Perfect,2nd Person,Plural,liberavistis,liberuistis,liberistis,liberistis,You (pl.) have rescueed
+Active Indicative,Perfect,3rd Person,Singular,liberavit,liberuit,liberit,liberit,He/she/it has rescueed
+Active Indicative,Perfect,3rd Person,Plural,liberaverunt,liberuerunt,libererunt,libererunt,They have rescueed
+Active Indicative,Pluperfect,1st Person,Singular,liberaveram,liberueram,libereram,libereram,I had rescueed
+Active Indicative,Pluperfect,1st Person,Plural,liberaveramus,liberueramus,libereramus,libereramus,We had rescueed
+Active Indicative,Pluperfect,2nd Person,Singular,liberaveras,liberueras,libereras,libereras,You had rescueed
+Active Indicative,Pluperfect,2nd Person,Plural,liberaveratis,liberueratis,libereratis,libereratis,You (pl.) had rescueed
+Active Indicative,Pluperfect,3rd Person,Singular,liberaverat,liberuerat,libererat,libererat,He/she/it had rescueed
+Active Indicative,Pluperfect,3rd Person,Plural,liberaverant,liberuerant,libererant,libererant,They had rescueed
+Active Indicative,Future Perfect,1st Person,Singular,liberavero,liberueero,liberero,liberiero,I will have rescueed
+Active Indicative,Future Perfect,1st Person,Plural,liberaverimus,liberuerimus,libererimus,liberierimus,We will have rescueed
+Active Indicative,Future Perfect,2nd Person,Singular,liberaveris,liberueris,libereris,liberieris,You will have rescueed
+Active Indicative,Future Perfect,2nd Person,Plural,liberaveritis,liberueritis,libereritis,liberieritis,You (pl.) will have rescueed
+Active Indicative,Future Perfect,3rd Person,Singular,liberaverit,liberuerit,libererit,liberierit,He/she/it will have rescueed
+Active Indicative,Future Perfect,3rd Person,Plural,liberaverint,liberuerint,libererint,liberierint,They will have rescueed
+Passive Indicative,Present,1st Person,Singular,liberor,libereor,liberor,liberior,I am being rescueed
+Passive Indicative,Present,1st Person,Plural,liberamur,liberemur,liberimur,liberimur,We are being rescueed
+Passive Indicative,Present,2nd Person,Singular,liberaris,libereris,liberiris,liberiris,You are being rescueed
+Passive Indicative,Present,2nd Person,Plural,liberamini,liberemini,liberimini,liberimini,You (pl.) are being rescueed
+Passive Indicative,Present,3rd Person,Singular,liberatur,liberetur,liberitur,liberitur,He/she/it is being rescueed
+Passive Indicative,Present,3rd Person,Plural,liberantur,liberentur,liberiuntur,liberiuntur,They are being rescueed
+Passive Indicative,Imperfect,1st Person,Singular,liberabar,liberebar,liberebar,liberiebar,I was rescueed
+Passive Indicative,Imperfect,1st Person,Plural,liberabamur,liberebamur,liberebamur,liberiebamur,We were rescueed
+Passive Indicative,Imperfect,2nd Person,Singular,liberabaris,liberebaris,liberebaris,liberiebaris,You were rescueed
+Passive Indicative,Imperfect,2nd Person,Plural,liberabamini,liberebamini,liberebamini,liberiebamini,You (pl.) were rescueed
+Passive Indicative,Imperfect,3rd Person,Singular,liberabatur,liberebatur,liberebatur,liberiebatur,He/she/it was rescueed
+Passive Indicative,Imperfect,3rd Person,Plural,liberabantur,liberebantur,liberebantur,liberiebantur,They were rescueed
+Passive Indicative,Future,1st Person,Singular,liberabor,liberebor,liberar,liberiar,I will be rescueed
+Passive Indicative,Future,1st Person,Plural,liberabimur,liberebimur,liberemur,liberiemur,We will be rescueed
+Passive Indicative,Future,2nd Person,Singular,liberaberis,libereberis,libereris,liberieris,You will be rescueed
+Passive Indicative,Future,2nd Person,Plural,liberabimini,liberebimini,liberemini,liberiemini,You (pl.) will be rescueed
+Passive Indicative,Future,3rd Person,Singular,liberabitur,liberebitur,liberetur,liberietur,He/she/it will be rescueed
+Passive Indicative,Future,3rd Person,Plural,liberabuntur,liberebuntur,liberentur,liberientur,They will be rescueed
+Passive Indicative,Perfect,1st Person,Singular,liberatus sum,liberetus sum,liberus sum,liberus sum,I have been rescueed
+Passive Indicative,Perfect,1st Person,Plural,liberati sumus,libereti sumus,liberi sumus,liberi sumus,We have been rescueed
+Passive Indicative,Perfect,2nd Person,Singular,liberatus es,liberetus es,liberus es,liberus es,You have been rescueed
+Passive Indicative,Perfect,2nd Person,Plural,liberati estis,libereti estis,liberi estis,liberi estis,You (pl.) have been rescueed
+Passive Indicative,Perfect,3rd Person,Singular,liberatus est,liberetus est,liberus est,liberus est,He/she/it has been rescueed
+Passive Indicative,Perfect,3rd Person,Plural,liberati sunt,libereti sunt,liberi sunt,liberi sunt,They have been rescueed
+Passive Indicative,Pluperfect,1st Person,Singular,liberatus eram,liberetus eram,liberus eram,liberus eram,I had been rescueed
+Passive Indicative,Pluperfect,1st Person,Plural,liberati eramus,libereti eramus,liberi eramus,liberi eramus,We had been rescueed
+Passive Indicative,Pluperfect,2nd Person,Singular,liberatus eras,liberetus eras,liberus eras,liberus eras,You had been rescueed
+Passive Indicative,Pluperfect,2nd Person,Plural,liberati eratis,libereti eratis,liberi eratis,liberi eratis,You (pl.) had been rescueed
+Passive Indicative,Pluperfect,3rd Person,Singular,liberatus erat,liberetus erat,liberus erat,liberus erat,He/she/it had been rescueed
+Passive Indicative,Pluperfect,3rd Person,Plural,liberati erant,libereti erant,liberi erant,liberi erant,They had been rescueed
+Passive Indicative,Future Perfect,1st Person,Singular,liberatus ero,liberetus ero,liberus ero,liberus ero,I will have been rescueed
+Passive Indicative,Future Perfect,1st Person,Plural,liberati erimus,libereti erimus,liberi erimus,liberi erimus,We will have been rescueed
+Passive Indicative,Future Perfect,2nd Person,Singular,liberatus eris,liberetus eris,liberus eris,liberus eris,You will have been rescueed
+Passive Indicative,Future Perfect,2nd Person,Plural,liberati eritis,libereti eritis,liberi eritis,liberi eritis,You (pl.) will have been rescueed
+Passive Indicative,Future Perfect,3rd Person,Singular,liberatus erit,liberetus erit,liberus erit,liberus erit,He/she/it will have been rescueed
+Passive Indicative,Future Perfect,3rd Person,Plural,liberati erunt,libereti erunt,liberi erunt,liberi erunt,They will have been rescueed
+Active Subjunctive,Present,1st Person,Singular,liberem,liberem,liberam,liberam,I may rescue
+Active Subjunctive,Present,1st Person,Plural,liberemus,liberemus,liberamus,liberamus,We may rescue
+Active Subjunctive,Present,2nd Person,Singular,liberes,liberes,liberas,liberas,You may rescue
+Active Subjunctive,Present,2nd Person,Plural,liberetis,liberetis,liberatis,liberatis,You (pl.) may rescue
+Active Subjunctive,Present,3rd Person,Singular,liberet,liberet,liberat,liberat,He/she/it may rescue
+Active Subjunctive,Present,3rd Person,Plural,liberent,liberent,liberant,liberant,They may rescue
+Active Subjunctive,Imperfect,1st Person,Singular,liberarem,libererem,libererem,liberirem,I should rescue
+Active Subjunctive,Imperfect,1st Person,Plural,liberaremus,libereremus,libereremus,liberiremus,We should rescue
+Active Subjunctive,Imperfect,2nd Person,Singular,liberares,libereres,libereres,liberires,You should rescue
+Active Subjunctive,Imperfect,2nd Person,Plural,liberaretis,libereretis,libereretis,liberiretis,You (pl.) should rescue
+Active Subjunctive,Imperfect,3rd Person,Singular,liberaret,libereret,libereret,liberiret,He/she/it should rescue
+Active Subjunctive,Imperfect,3rd Person,Plural,liberarent,libererent,libererent,liberirent,They should rescue
+Active Subjunctive,Perfect,1st Person,Singular,libererim,liberuerim,libererim,liberierim,I may have rescueed
+Active Subjunctive,Perfect,1st Person,Plural,libererimus,liberuerimus,libererimus,liberierimus,We may have rescueed
+Active Subjunctive,Perfect,2nd Person,Singular,libereris,liberueris,libereris,liberieris,You may have rescueed
+Active Subjunctive,Perfect,2nd Person,Plural,libereritis,liberueritis,libereritis,liberieritis,You (pl.) may have rescueed
+Active Subjunctive,Perfect,3rd Person,Singular,libererit,liberuerit,libererit,liberierit,He/she/it may have rescueed
+Active Subjunctive,Perfect,3rd Person,Plural,libererint,liberuerint,libererint,liberierint,They may have rescueed
+Active Subjunctive,Pluperfect,1st Person,Singular,liberissem,liberuissem,liberissem,liberissem,I should have rescueed
+Active Subjunctive,Pluperfect,1st Person,Plural,liberissemus,liberuissemus,liberissemus,liberissemus,We should have rescueed
+Active Subjunctive,Pluperfect,2nd Person,Singular,liberisses,liberuisses,liberisses,liberisses,You would have rescueed
+Active Subjunctive,Pluperfect,2nd Person,Plural,liberissetis,liberuissetis,liberissetis,liberissetis,You (pl.) would have rescueed
+Active Subjunctive,Pluperfect,3rd Person,Singular,liberisset,liberuisset,liberisset,liberisset,He/she/it would have rescueed
+Active Subjunctive,Pluperfect,3rd Person,Plural,liberissent,liberuissent,liberissent,liberissent,They would have rescueed
+Passive Subjunctive,Present,1st Person,Singular,liberer,liberer,liberar,liberar,I may be rescueed
+Passive Subjunctive,Present,1st Person,Plural,liberemur,liberemur,liberamur,liberamur,We may be rescueed
+Passive Subjunctive,Present,2nd Person,Singular,libereris,libereris,liberaris,liberaris,You may be rescueed
+Passive Subjunctive,Present,2nd Person,Plural,liberemini,liberemini,liberamini,liberamini,You (pl.) may be rescueed
+Passive Subjunctive,Present,3rd Person,Singular,liberetur,liberetur,liberatur,liberatur,He/she/it may be rescueed
+Passive Subjunctive,Present,3rd Person,Plural,liberentur,liberentur,liberantur,liberantur,They may be rescueed
+Passive Subjunctive,Imperfect,1st Person,Singular,liberarer,libererer,libererer,liberirer,I should be rescueed
+Passive Subjunctive,Imperfect,1st Person,Plural,liberaremur,libereremur,libereremur,liberiremur,We should be rescueed
+Passive Subjunctive,Imperfect,2nd Person,Singular,liberareris,liberereris,liberereris,liberireris,You would be rescueed
+Passive Subjunctive,Imperfect,2nd Person,Plural,liberaremini,libereremini,libereremini,liberiremini,You (pl.) would be rescueed
+Passive Subjunctive,Imperfect,3rd Person,Singular,liberaretur,libereretur,libereretur,liberiretur,He/she/it would be rescueed
+Passive Subjunctive,Imperfect,3rd Person,Plural,liberarentur,libererentur,libererentur,liberirentur,They would be rescueed
+Passive Subjunctive,Perfect,1st Person,Singular,liberatus sim,liberetus sim,liberus sim,liberus sim,I may have been rescueed
+Passive Subjunctive,Perfect,1st Person,Plural,liberati simus,libereti simus,liberi simus,liberi simus,We may have been rescueed
+Passive Subjunctive,Perfect,2nd Person,Singular,liberatus sis,liberetus sis,liberus sis,liberus sis,You may have been rescueed
+Passive Subjunctive,Perfect,2nd Person,Plural,liberati sitis,libereti sitis,liberi sitis,liberi sitis,You (pl.) may have been rescueed
+Passive Subjunctive,Perfect,3rd Person,Singular,liberatus sit,liberetus sit,liberus sit,liberus sit,He/she/it may have been rescueed
+Passive Subjunctive,Perfect,3rd Person,Plural,liberati sint,libereti sint,liberi sint,liberi sint,They may have been rescueed
+Passive Subjunctive,Pluperfect,1st Person,Singular,liberatus essem,liberetus essem,liberus essem,liberus essem,I should have been rescueed
+Passive Subjunctive,Pluperfect,1st Person,Plural,liberati essemus,libereti essemus,liberi essemus,liberi essemus,We should have been rescueed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,liberatus esses,liberetus esses,liberus esses,liberus esses,You would have been rescueed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,liberati essetis,libereti essetis,liberi essetis,liberi essetis,You (pl.) would have been rescueed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,liberatus esset,liberetus esset,liberus esset,liberus esset,He/she/it would have been rescueed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,liberati essent,libereti essent,liberi essent,liberi essent,They would have been rescueed

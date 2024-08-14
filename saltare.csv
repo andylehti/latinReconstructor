@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,salto,salteo,salto,saltio,I dance
+Active Indicative,Present,1st Person,Plural,saltamus,saltemus,saltimus,saltimus,We dance
+Active Indicative,Present,2nd Person,Singular,saltas,saltes,saltis,saltis,You dance
+Active Indicative,Present,2nd Person,Plural,saltatis,saltetis,saltitis,saltitis,You (pl.) dance
+Active Indicative,Present,3rd Person,Singular,saltat,saltet,saltit,saltit,He/she/it dance
+Active Indicative,Present,3rd Person,Plural,saltant,saltent,saltiunt,saltiunt,They dance
+Active Indicative,Imperfect,1st Person,Singular,saltabam,saltebam,saltebam,saltiebam,I was danceing
+Active Indicative,Imperfect,1st Person,Plural,saltabamus,saltebamus,saltebamus,saltiebamus,We were danceing
+Active Indicative,Imperfect,2nd Person,Singular,saltabas,saltebas,saltebas,saltiebas,You were danceing
+Active Indicative,Imperfect,2nd Person,Plural,saltabatis,saltebatis,saltebatis,saltiebatis,You (pl.) were danceing
+Active Indicative,Imperfect,3rd Person,Singular,saltabat,saltebat,saltebat,saltiebat,He/she/it was danceing
+Active Indicative,Imperfect,3rd Person,Plural,saltabant,saltebant,saltebant,saltiebant,They were danceing
+Active Indicative,Future,1st Person,Singular,saltabo,saltebo,saltam,saltiam,I will dance
+Active Indicative,Future,1st Person,Plural,saltabimus,saltebimus,saltemus,saltiemus,We will dance
+Active Indicative,Future,2nd Person,Singular,saltabis,saltebis,saltes,salties,You will dance
+Active Indicative,Future,2nd Person,Plural,saltabitis,saltebitis,saltetis,saltietis,You (pl.) will dance
+Active Indicative,Future,3rd Person,Singular,saltabit,saltebit,saltet,saltiet,He/she/it will dance
+Active Indicative,Future,3rd Person,Plural,saltabunt,saltebunt,saltent,saltient,They will dance
+Active Indicative,Perfect,1st Person,Singular,saltavi,saltui,salti,salti,I have danceed
+Active Indicative,Perfect,1st Person,Plural,saltavimus,saltuimus,saltimus,saltimus,We have danceed
+Active Indicative,Perfect,2nd Person,Singular,saltavisti,saltuisti,saltisti,saltisti,You have danceed
+Active Indicative,Perfect,2nd Person,Plural,saltavistis,saltuistis,saltistis,saltistis,You (pl.) have danceed
+Active Indicative,Perfect,3rd Person,Singular,saltavit,saltuit,saltit,saltit,He/she/it has danceed
+Active Indicative,Perfect,3rd Person,Plural,saltaverunt,saltuerunt,salterunt,salterunt,They have danceed
+Active Indicative,Pluperfect,1st Person,Singular,saltaveram,saltueram,salteram,salteram,I had danceed
+Active Indicative,Pluperfect,1st Person,Plural,saltaveramus,saltueramus,salteramus,salteramus,We had danceed
+Active Indicative,Pluperfect,2nd Person,Singular,saltaveras,saltueras,salteras,salteras,You had danceed
+Active Indicative,Pluperfect,2nd Person,Plural,saltaveratis,saltueratis,salteratis,salteratis,You (pl.) had danceed
+Active Indicative,Pluperfect,3rd Person,Singular,saltaverat,saltuerat,salterat,salterat,He/she/it had danceed
+Active Indicative,Pluperfect,3rd Person,Plural,saltaverant,saltuerant,salterant,salterant,They had danceed
+Active Indicative,Future Perfect,1st Person,Singular,saltavero,saltueero,saltero,saltiero,I will have danceed
+Active Indicative,Future Perfect,1st Person,Plural,saltaverimus,saltuerimus,salterimus,saltierimus,We will have danceed
+Active Indicative,Future Perfect,2nd Person,Singular,saltaveris,saltueris,salteris,saltieris,You will have danceed
+Active Indicative,Future Perfect,2nd Person,Plural,saltaveritis,saltueritis,salteritis,saltieritis,You (pl.) will have danceed
+Active Indicative,Future Perfect,3rd Person,Singular,saltaverit,saltuerit,salterit,saltierit,He/she/it will have danceed
+Active Indicative,Future Perfect,3rd Person,Plural,saltaverint,saltuerint,salterint,saltierint,They will have danceed
+Passive Indicative,Present,1st Person,Singular,saltor,salteor,saltor,saltior,I am being danceed
+Passive Indicative,Present,1st Person,Plural,saltamur,saltemur,saltimur,saltimur,We are being danceed
+Passive Indicative,Present,2nd Person,Singular,saltaris,salteris,saltiris,saltiris,You are being danceed
+Passive Indicative,Present,2nd Person,Plural,saltamini,saltemini,saltimini,saltimini,You (pl.) are being danceed
+Passive Indicative,Present,3rd Person,Singular,saltatur,saltetur,saltitur,saltitur,He/she/it is being danceed
+Passive Indicative,Present,3rd Person,Plural,saltantur,saltentur,saltiuntur,saltiuntur,They are being danceed
+Passive Indicative,Imperfect,1st Person,Singular,saltabar,saltebar,saltebar,saltiebar,I was danceed
+Passive Indicative,Imperfect,1st Person,Plural,saltabamur,saltebamur,saltebamur,saltiebamur,We were danceed
+Passive Indicative,Imperfect,2nd Person,Singular,saltabaris,saltebaris,saltebaris,saltiebaris,You were danceed
+Passive Indicative,Imperfect,2nd Person,Plural,saltabamini,saltebamini,saltebamini,saltiebamini,You (pl.) were danceed
+Passive Indicative,Imperfect,3rd Person,Singular,saltabatur,saltebatur,saltebatur,saltiebatur,He/she/it was danceed
+Passive Indicative,Imperfect,3rd Person,Plural,saltabantur,saltebantur,saltebantur,saltiebantur,They were danceed
+Passive Indicative,Future,1st Person,Singular,saltabor,saltebor,saltar,saltiar,I will be danceed
+Passive Indicative,Future,1st Person,Plural,saltabimur,saltebimur,saltemur,saltiemur,We will be danceed
+Passive Indicative,Future,2nd Person,Singular,saltaberis,salteberis,salteris,saltieris,You will be danceed
+Passive Indicative,Future,2nd Person,Plural,saltabimini,saltebimini,saltemini,saltiemini,You (pl.) will be danceed
+Passive Indicative,Future,3rd Person,Singular,saltabitur,saltebitur,saltetur,saltietur,He/she/it will be danceed
+Passive Indicative,Future,3rd Person,Plural,saltabuntur,saltebuntur,saltentur,saltientur,They will be danceed
+Passive Indicative,Perfect,1st Person,Singular,saltatus sum,saltetus sum,saltus sum,saltus sum,I have been danceed
+Passive Indicative,Perfect,1st Person,Plural,saltati sumus,salteti sumus,salti sumus,salti sumus,We have been danceed
+Passive Indicative,Perfect,2nd Person,Singular,saltatus es,saltetus es,saltus es,saltus es,You have been danceed
+Passive Indicative,Perfect,2nd Person,Plural,saltati estis,salteti estis,salti estis,salti estis,You (pl.) have been danceed
+Passive Indicative,Perfect,3rd Person,Singular,saltatus est,saltetus est,saltus est,saltus est,He/she/it has been danceed
+Passive Indicative,Perfect,3rd Person,Plural,saltati sunt,salteti sunt,salti sunt,salti sunt,They have been danceed
+Passive Indicative,Pluperfect,1st Person,Singular,saltatus eram,saltetus eram,saltus eram,saltus eram,I had been danceed
+Passive Indicative,Pluperfect,1st Person,Plural,saltati eramus,salteti eramus,salti eramus,salti eramus,We had been danceed
+Passive Indicative,Pluperfect,2nd Person,Singular,saltatus eras,saltetus eras,saltus eras,saltus eras,You had been danceed
+Passive Indicative,Pluperfect,2nd Person,Plural,saltati eratis,salteti eratis,salti eratis,salti eratis,You (pl.) had been danceed
+Passive Indicative,Pluperfect,3rd Person,Singular,saltatus erat,saltetus erat,saltus erat,saltus erat,He/she/it had been danceed
+Passive Indicative,Pluperfect,3rd Person,Plural,saltati erant,salteti erant,salti erant,salti erant,They had been danceed
+Passive Indicative,Future Perfect,1st Person,Singular,saltatus ero,saltetus ero,saltus ero,saltus ero,I will have been danceed
+Passive Indicative,Future Perfect,1st Person,Plural,saltati erimus,salteti erimus,salti erimus,salti erimus,We will have been danceed
+Passive Indicative,Future Perfect,2nd Person,Singular,saltatus eris,saltetus eris,saltus eris,saltus eris,You will have been danceed
+Passive Indicative,Future Perfect,2nd Person,Plural,saltati eritis,salteti eritis,salti eritis,salti eritis,You (pl.) will have been danceed
+Passive Indicative,Future Perfect,3rd Person,Singular,saltatus erit,saltetus erit,saltus erit,saltus erit,He/she/it will have been danceed
+Passive Indicative,Future Perfect,3rd Person,Plural,saltati erunt,salteti erunt,salti erunt,salti erunt,They will have been danceed
+Active Subjunctive,Present,1st Person,Singular,saltem,saltem,saltam,saltam,I may dance
+Active Subjunctive,Present,1st Person,Plural,saltemus,saltemus,saltamus,saltamus,We may dance
+Active Subjunctive,Present,2nd Person,Singular,saltes,saltes,saltas,saltas,You may dance
+Active Subjunctive,Present,2nd Person,Plural,saltetis,saltetis,saltatis,saltatis,You (pl.) may dance
+Active Subjunctive,Present,3rd Person,Singular,saltet,saltet,saltat,saltat,He/she/it may dance
+Active Subjunctive,Present,3rd Person,Plural,saltent,saltent,saltant,saltant,They may dance
+Active Subjunctive,Imperfect,1st Person,Singular,saltarem,salterem,salterem,saltirem,I should dance
+Active Subjunctive,Imperfect,1st Person,Plural,saltaremus,salteremus,salteremus,saltiremus,We should dance
+Active Subjunctive,Imperfect,2nd Person,Singular,saltares,salteres,salteres,saltires,You should dance
+Active Subjunctive,Imperfect,2nd Person,Plural,saltaretis,salteretis,salteretis,saltiretis,You (pl.) should dance
+Active Subjunctive,Imperfect,3rd Person,Singular,saltaret,salteret,salteret,saltiret,He/she/it should dance
+Active Subjunctive,Imperfect,3rd Person,Plural,saltarent,salterent,salterent,saltirent,They should dance
+Active Subjunctive,Perfect,1st Person,Singular,salterim,saltuerim,salterim,saltierim,I may have danceed
+Active Subjunctive,Perfect,1st Person,Plural,salterimus,saltuerimus,salterimus,saltierimus,We may have danceed
+Active Subjunctive,Perfect,2nd Person,Singular,salteris,saltueris,salteris,saltieris,You may have danceed
+Active Subjunctive,Perfect,2nd Person,Plural,salteritis,saltueritis,salteritis,saltieritis,You (pl.) may have danceed
+Active Subjunctive,Perfect,3rd Person,Singular,salterit,saltuerit,salterit,saltierit,He/she/it may have danceed
+Active Subjunctive,Perfect,3rd Person,Plural,salterint,saltuerint,salterint,saltierint,They may have danceed
+Active Subjunctive,Pluperfect,1st Person,Singular,saltissem,saltuissem,saltissem,saltissem,I should have danceed
+Active Subjunctive,Pluperfect,1st Person,Plural,saltissemus,saltuissemus,saltissemus,saltissemus,We should have danceed
+Active Subjunctive,Pluperfect,2nd Person,Singular,saltisses,saltuisses,saltisses,saltisses,You would have danceed
+Active Subjunctive,Pluperfect,2nd Person,Plural,saltissetis,saltuissetis,saltissetis,saltissetis,You (pl.) would have danceed
+Active Subjunctive,Pluperfect,3rd Person,Singular,saltisset,saltuisset,saltisset,saltisset,He/she/it would have danceed
+Active Subjunctive,Pluperfect,3rd Person,Plural,saltissent,saltuissent,saltissent,saltissent,They would have danceed
+Passive Subjunctive,Present,1st Person,Singular,salter,salter,saltar,saltar,I may be danceed
+Passive Subjunctive,Present,1st Person,Plural,saltemur,saltemur,saltamur,saltamur,We may be danceed
+Passive Subjunctive,Present,2nd Person,Singular,salteris,salteris,saltaris,saltaris,You may be danceed
+Passive Subjunctive,Present,2nd Person,Plural,saltemini,saltemini,saltamini,saltamini,You (pl.) may be danceed
+Passive Subjunctive,Present,3rd Person,Singular,saltetur,saltetur,saltatur,saltatur,He/she/it may be danceed
+Passive Subjunctive,Present,3rd Person,Plural,saltentur,saltentur,saltantur,saltantur,They may be danceed
+Passive Subjunctive,Imperfect,1st Person,Singular,saltarer,salterer,salterer,saltirer,I should be danceed
+Passive Subjunctive,Imperfect,1st Person,Plural,saltaremur,salteremur,salteremur,saltiremur,We should be danceed
+Passive Subjunctive,Imperfect,2nd Person,Singular,saltareris,saltereris,saltereris,saltireris,You would be danceed
+Passive Subjunctive,Imperfect,2nd Person,Plural,saltaremini,salteremini,salteremini,saltiremini,You (pl.) would be danceed
+Passive Subjunctive,Imperfect,3rd Person,Singular,saltaretur,salteretur,salteretur,saltiretur,He/she/it would be danceed
+Passive Subjunctive,Imperfect,3rd Person,Plural,saltarentur,salterentur,salterentur,saltirentur,They would be danceed
+Passive Subjunctive,Perfect,1st Person,Singular,saltatus sim,saltetus sim,saltus sim,saltus sim,I may have been danceed
+Passive Subjunctive,Perfect,1st Person,Plural,saltati simus,salteti simus,salti simus,salti simus,We may have been danceed
+Passive Subjunctive,Perfect,2nd Person,Singular,saltatus sis,saltetus sis,saltus sis,saltus sis,You may have been danceed
+Passive Subjunctive,Perfect,2nd Person,Plural,saltati sitis,salteti sitis,salti sitis,salti sitis,You (pl.) may have been danceed
+Passive Subjunctive,Perfect,3rd Person,Singular,saltatus sit,saltetus sit,saltus sit,saltus sit,He/she/it may have been danceed
+Passive Subjunctive,Perfect,3rd Person,Plural,saltati sint,salteti sint,salti sint,salti sint,They may have been danceed
+Passive Subjunctive,Pluperfect,1st Person,Singular,saltatus essem,saltetus essem,saltus essem,saltus essem,I should have been danceed
+Passive Subjunctive,Pluperfect,1st Person,Plural,saltati essemus,salteti essemus,salti essemus,salti essemus,We should have been danceed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,saltatus esses,saltetus esses,saltus esses,saltus esses,You would have been danceed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,saltati essetis,salteti essetis,salti essetis,salti essetis,You (pl.) would have been danceed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,saltatus esset,saltetus esset,saltus esset,saltus esset,He/she/it would have been danceed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,saltati essent,salteti essent,salti essent,salti essent,They would have been danceed

@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,muto,muteo,muto,mutio,I transform
+Active Indicative,Present,1st Person,Plural,mutamus,mutemus,mutimus,mutimus,We transform
+Active Indicative,Present,2nd Person,Singular,mutas,mutes,mutis,mutis,You transform
+Active Indicative,Present,2nd Person,Plural,mutatis,mutetis,mutitis,mutitis,You (pl.) transform
+Active Indicative,Present,3rd Person,Singular,mutat,mutet,mutit,mutit,He/she/it transform
+Active Indicative,Present,3rd Person,Plural,mutant,mutent,mutiunt,mutiunt,They transform
+Active Indicative,Imperfect,1st Person,Singular,mutabam,mutebam,mutebam,mutiebam,I was transforming
+Active Indicative,Imperfect,1st Person,Plural,mutabamus,mutebamus,mutebamus,mutiebamus,We were transforming
+Active Indicative,Imperfect,2nd Person,Singular,mutabas,mutebas,mutebas,mutiebas,You were transforming
+Active Indicative,Imperfect,2nd Person,Plural,mutabatis,mutebatis,mutebatis,mutiebatis,You (pl.) were transforming
+Active Indicative,Imperfect,3rd Person,Singular,mutabat,mutebat,mutebat,mutiebat,He/she/it was transforming
+Active Indicative,Imperfect,3rd Person,Plural,mutabant,mutebant,mutebant,mutiebant,They were transforming
+Active Indicative,Future,1st Person,Singular,mutabo,mutebo,mutam,mutiam,I will transform
+Active Indicative,Future,1st Person,Plural,mutabimus,mutebimus,mutemus,mutiemus,We will transform
+Active Indicative,Future,2nd Person,Singular,mutabis,mutebis,mutes,muties,You will transform
+Active Indicative,Future,2nd Person,Plural,mutabitis,mutebitis,mutetis,mutietis,You (pl.) will transform
+Active Indicative,Future,3rd Person,Singular,mutabit,mutebit,mutet,mutiet,He/she/it will transform
+Active Indicative,Future,3rd Person,Plural,mutabunt,mutebunt,mutent,mutient,They will transform
+Active Indicative,Perfect,1st Person,Singular,mutavi,mutui,muti,muti,I have transformed
+Active Indicative,Perfect,1st Person,Plural,mutavimus,mutuimus,mutimus,mutimus,We have transformed
+Active Indicative,Perfect,2nd Person,Singular,mutavisti,mutuisti,mutisti,mutisti,You have transformed
+Active Indicative,Perfect,2nd Person,Plural,mutavistis,mutuistis,mutistis,mutistis,You (pl.) have transformed
+Active Indicative,Perfect,3rd Person,Singular,mutavit,mutuit,mutit,mutit,He/she/it has transformed
+Active Indicative,Perfect,3rd Person,Plural,mutaverunt,mutuerunt,muterunt,muterunt,They have transformed
+Active Indicative,Pluperfect,1st Person,Singular,mutaveram,mutueram,muteram,muteram,I had transformed
+Active Indicative,Pluperfect,1st Person,Plural,mutaveramus,mutueramus,muteramus,muteramus,We had transformed
+Active Indicative,Pluperfect,2nd Person,Singular,mutaveras,mutueras,muteras,muteras,You had transformed
+Active Indicative,Pluperfect,2nd Person,Plural,mutaveratis,mutueratis,muteratis,muteratis,You (pl.) had transformed
+Active Indicative,Pluperfect,3rd Person,Singular,mutaverat,mutuerat,muterat,muterat,He/she/it had transformed
+Active Indicative,Pluperfect,3rd Person,Plural,mutaverant,mutuerant,muterant,muterant,They had transformed
+Active Indicative,Future Perfect,1st Person,Singular,mutavero,mutueero,mutero,mutiero,I will have transformed
+Active Indicative,Future Perfect,1st Person,Plural,mutaverimus,mutuerimus,muterimus,mutierimus,We will have transformed
+Active Indicative,Future Perfect,2nd Person,Singular,mutaveris,mutueris,muteris,mutieris,You will have transformed
+Active Indicative,Future Perfect,2nd Person,Plural,mutaveritis,mutueritis,muteritis,mutieritis,You (pl.) will have transformed
+Active Indicative,Future Perfect,3rd Person,Singular,mutaverit,mutuerit,muterit,mutierit,He/she/it will have transformed
+Active Indicative,Future Perfect,3rd Person,Plural,mutaverint,mutuerint,muterint,mutierint,They will have transformed
+Passive Indicative,Present,1st Person,Singular,mutor,muteor,mutor,mutior,I am being transformed
+Passive Indicative,Present,1st Person,Plural,mutamur,mutemur,mutimur,mutimur,We are being transformed
+Passive Indicative,Present,2nd Person,Singular,mutaris,muteris,mutiris,mutiris,You are being transformed
+Passive Indicative,Present,2nd Person,Plural,mutamini,mutemini,mutimini,mutimini,You (pl.) are being transformed
+Passive Indicative,Present,3rd Person,Singular,mutatur,mutetur,mutitur,mutitur,He/she/it is being transformed
+Passive Indicative,Present,3rd Person,Plural,mutantur,mutentur,mutiuntur,mutiuntur,They are being transformed
+Passive Indicative,Imperfect,1st Person,Singular,mutabar,mutebar,mutebar,mutiebar,I was transformed
+Passive Indicative,Imperfect,1st Person,Plural,mutabamur,mutebamur,mutebamur,mutiebamur,We were transformed
+Passive Indicative,Imperfect,2nd Person,Singular,mutabaris,mutebaris,mutebaris,mutiebaris,You were transformed
+Passive Indicative,Imperfect,2nd Person,Plural,mutabamini,mutebamini,mutebamini,mutiebamini,You (pl.) were transformed
+Passive Indicative,Imperfect,3rd Person,Singular,mutabatur,mutebatur,mutebatur,mutiebatur,He/she/it was transformed
+Passive Indicative,Imperfect,3rd Person,Plural,mutabantur,mutebantur,mutebantur,mutiebantur,They were transformed
+Passive Indicative,Future,1st Person,Singular,mutabor,mutebor,mutar,mutiar,I will be transformed
+Passive Indicative,Future,1st Person,Plural,mutabimur,mutebimur,mutemur,mutiemur,We will be transformed
+Passive Indicative,Future,2nd Person,Singular,mutaberis,muteberis,muteris,mutieris,You will be transformed
+Passive Indicative,Future,2nd Person,Plural,mutabimini,mutebimini,mutemini,mutiemini,You (pl.) will be transformed
+Passive Indicative,Future,3rd Person,Singular,mutabitur,mutebitur,mutetur,mutietur,He/she/it will be transformed
+Passive Indicative,Future,3rd Person,Plural,mutabuntur,mutebuntur,mutentur,mutientur,They will be transformed
+Passive Indicative,Perfect,1st Person,Singular,mutatus sum,mutetus sum,mutus sum,mutus sum,I have been transformed
+Passive Indicative,Perfect,1st Person,Plural,mutati sumus,muteti sumus,muti sumus,muti sumus,We have been transformed
+Passive Indicative,Perfect,2nd Person,Singular,mutatus es,mutetus es,mutus es,mutus es,You have been transformed
+Passive Indicative,Perfect,2nd Person,Plural,mutati estis,muteti estis,muti estis,muti estis,You (pl.) have been transformed
+Passive Indicative,Perfect,3rd Person,Singular,mutatus est,mutetus est,mutus est,mutus est,He/she/it has been transformed
+Passive Indicative,Perfect,3rd Person,Plural,mutati sunt,muteti sunt,muti sunt,muti sunt,They have been transformed
+Passive Indicative,Pluperfect,1st Person,Singular,mutatus eram,mutetus eram,mutus eram,mutus eram,I had been transformed
+Passive Indicative,Pluperfect,1st Person,Plural,mutati eramus,muteti eramus,muti eramus,muti eramus,We had been transformed
+Passive Indicative,Pluperfect,2nd Person,Singular,mutatus eras,mutetus eras,mutus eras,mutus eras,You had been transformed
+Passive Indicative,Pluperfect,2nd Person,Plural,mutati eratis,muteti eratis,muti eratis,muti eratis,You (pl.) had been transformed
+Passive Indicative,Pluperfect,3rd Person,Singular,mutatus erat,mutetus erat,mutus erat,mutus erat,He/she/it had been transformed
+Passive Indicative,Pluperfect,3rd Person,Plural,mutati erant,muteti erant,muti erant,muti erant,They had been transformed
+Passive Indicative,Future Perfect,1st Person,Singular,mutatus ero,mutetus ero,mutus ero,mutus ero,I will have been transformed
+Passive Indicative,Future Perfect,1st Person,Plural,mutati erimus,muteti erimus,muti erimus,muti erimus,We will have been transformed
+Passive Indicative,Future Perfect,2nd Person,Singular,mutatus eris,mutetus eris,mutus eris,mutus eris,You will have been transformed
+Passive Indicative,Future Perfect,2nd Person,Plural,mutati eritis,muteti eritis,muti eritis,muti eritis,You (pl.) will have been transformed
+Passive Indicative,Future Perfect,3rd Person,Singular,mutatus erit,mutetus erit,mutus erit,mutus erit,He/she/it will have been transformed
+Passive Indicative,Future Perfect,3rd Person,Plural,mutati erunt,muteti erunt,muti erunt,muti erunt,They will have been transformed
+Active Subjunctive,Present,1st Person,Singular,mutem,mutem,mutam,mutam,I may transform
+Active Subjunctive,Present,1st Person,Plural,mutemus,mutemus,mutamus,mutamus,We may transform
+Active Subjunctive,Present,2nd Person,Singular,mutes,mutes,mutas,mutas,You may transform
+Active Subjunctive,Present,2nd Person,Plural,mutetis,mutetis,mutatis,mutatis,You (pl.) may transform
+Active Subjunctive,Present,3rd Person,Singular,mutet,mutet,mutat,mutat,He/she/it may transform
+Active Subjunctive,Present,3rd Person,Plural,mutent,mutent,mutant,mutant,They may transform
+Active Subjunctive,Imperfect,1st Person,Singular,mutarem,muterem,muterem,mutirem,I should transform
+Active Subjunctive,Imperfect,1st Person,Plural,mutaremus,muteremus,muteremus,mutiremus,We should transform
+Active Subjunctive,Imperfect,2nd Person,Singular,mutares,muteres,muteres,mutires,You should transform
+Active Subjunctive,Imperfect,2nd Person,Plural,mutaretis,muteretis,muteretis,mutiretis,You (pl.) should transform
+Active Subjunctive,Imperfect,3rd Person,Singular,mutaret,muteret,muteret,mutiret,He/she/it should transform
+Active Subjunctive,Imperfect,3rd Person,Plural,mutarent,muterent,muterent,mutirent,They should transform
+Active Subjunctive,Perfect,1st Person,Singular,muterim,mutuerim,muterim,mutierim,I may have transformed
+Active Subjunctive,Perfect,1st Person,Plural,muterimus,mutuerimus,muterimus,mutierimus,We may have transformed
+Active Subjunctive,Perfect,2nd Person,Singular,muteris,mutueris,muteris,mutieris,You may have transformed
+Active Subjunctive,Perfect,2nd Person,Plural,muteritis,mutueritis,muteritis,mutieritis,You (pl.) may have transformed
+Active Subjunctive,Perfect,3rd Person,Singular,muterit,mutuerit,muterit,mutierit,He/she/it may have transformed
+Active Subjunctive,Perfect,3rd Person,Plural,muterint,mutuerint,muterint,mutierint,They may have transformed
+Active Subjunctive,Pluperfect,1st Person,Singular,mutissem,mutuissem,mutissem,mutissem,I should have transformed
+Active Subjunctive,Pluperfect,1st Person,Plural,mutissemus,mutuissemus,mutissemus,mutissemus,We should have transformed
+Active Subjunctive,Pluperfect,2nd Person,Singular,mutisses,mutuisses,mutisses,mutisses,You would have transformed
+Active Subjunctive,Pluperfect,2nd Person,Plural,mutissetis,mutuissetis,mutissetis,mutissetis,You (pl.) would have transformed
+Active Subjunctive,Pluperfect,3rd Person,Singular,mutisset,mutuisset,mutisset,mutisset,He/she/it would have transformed
+Active Subjunctive,Pluperfect,3rd Person,Plural,mutissent,mutuissent,mutissent,mutissent,They would have transformed
+Passive Subjunctive,Present,1st Person,Singular,muter,muter,mutar,mutar,I may be transformed
+Passive Subjunctive,Present,1st Person,Plural,mutemur,mutemur,mutamur,mutamur,We may be transformed
+Passive Subjunctive,Present,2nd Person,Singular,muteris,muteris,mutaris,mutaris,You may be transformed
+Passive Subjunctive,Present,2nd Person,Plural,mutemini,mutemini,mutamini,mutamini,You (pl.) may be transformed
+Passive Subjunctive,Present,3rd Person,Singular,mutetur,mutetur,mutatur,mutatur,He/she/it may be transformed
+Passive Subjunctive,Present,3rd Person,Plural,mutentur,mutentur,mutantur,mutantur,They may be transformed
+Passive Subjunctive,Imperfect,1st Person,Singular,mutarer,muterer,muterer,mutirer,I should be transformed
+Passive Subjunctive,Imperfect,1st Person,Plural,mutaremur,muteremur,muteremur,mutiremur,We should be transformed
+Passive Subjunctive,Imperfect,2nd Person,Singular,mutareris,mutereris,mutereris,mutireris,You would be transformed
+Passive Subjunctive,Imperfect,2nd Person,Plural,mutaremini,muteremini,muteremini,mutiremini,You (pl.) would be transformed
+Passive Subjunctive,Imperfect,3rd Person,Singular,mutaretur,muteretur,muteretur,mutiretur,He/she/it would be transformed
+Passive Subjunctive,Imperfect,3rd Person,Plural,mutarentur,muterentur,muterentur,mutirentur,They would be transformed
+Passive Subjunctive,Perfect,1st Person,Singular,mutatus sim,mutetus sim,mutus sim,mutus sim,I may have been transformed
+Passive Subjunctive,Perfect,1st Person,Plural,mutati simus,muteti simus,muti simus,muti simus,We may have been transformed
+Passive Subjunctive,Perfect,2nd Person,Singular,mutatus sis,mutetus sis,mutus sis,mutus sis,You may have been transformed
+Passive Subjunctive,Perfect,2nd Person,Plural,mutati sitis,muteti sitis,muti sitis,muti sitis,You (pl.) may have been transformed
+Passive Subjunctive,Perfect,3rd Person,Singular,mutatus sit,mutetus sit,mutus sit,mutus sit,He/she/it may have been transformed
+Passive Subjunctive,Perfect,3rd Person,Plural,mutati sint,muteti sint,muti sint,muti sint,They may have been transformed
+Passive Subjunctive,Pluperfect,1st Person,Singular,mutatus essem,mutetus essem,mutus essem,mutus essem,I should have been transformed
+Passive Subjunctive,Pluperfect,1st Person,Plural,mutati essemus,muteti essemus,muti essemus,muti essemus,We should have been transformed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,mutatus esses,mutetus esses,mutus esses,mutus esses,You would have been transformed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,mutati essetis,muteti essetis,muti essetis,muti essetis,You (pl.) would have been transformed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,mutatus esset,mutetus esset,mutus esset,mutus esset,He/she/it would have been transformed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,mutati essent,muteti essent,muti essent,muti essent,They would have been transformed

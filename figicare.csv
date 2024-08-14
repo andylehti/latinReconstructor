@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,figico,figiceo,figico,figicio,I insert
+Active Indicative,Present,1st Person,Plural,figicamus,figicemus,figicimus,figicimus,We insert
+Active Indicative,Present,2nd Person,Singular,figicas,figices,figicis,figicis,You insert
+Active Indicative,Present,2nd Person,Plural,figicatis,figicetis,figicitis,figicitis,You (pl.) insert
+Active Indicative,Present,3rd Person,Singular,figicat,figicet,figicit,figicit,He/she/it insert
+Active Indicative,Present,3rd Person,Plural,figicant,figicent,figiciunt,figiciunt,They insert
+Active Indicative,Imperfect,1st Person,Singular,figicabam,figicebam,figicebam,figiciebam,I was inserting
+Active Indicative,Imperfect,1st Person,Plural,figicabamus,figicebamus,figicebamus,figiciebamus,We were inserting
+Active Indicative,Imperfect,2nd Person,Singular,figicabas,figicebas,figicebas,figiciebas,You were inserting
+Active Indicative,Imperfect,2nd Person,Plural,figicabatis,figicebatis,figicebatis,figiciebatis,You (pl.) were inserting
+Active Indicative,Imperfect,3rd Person,Singular,figicabat,figicebat,figicebat,figiciebat,He/she/it was inserting
+Active Indicative,Imperfect,3rd Person,Plural,figicabant,figicebant,figicebant,figiciebant,They were inserting
+Active Indicative,Future,1st Person,Singular,figicabo,figicebo,figicam,figiciam,I will insert
+Active Indicative,Future,1st Person,Plural,figicabimus,figicebimus,figicemus,figiciemus,We will insert
+Active Indicative,Future,2nd Person,Singular,figicabis,figicebis,figices,figicies,You will insert
+Active Indicative,Future,2nd Person,Plural,figicabitis,figicebitis,figicetis,figicietis,You (pl.) will insert
+Active Indicative,Future,3rd Person,Singular,figicabit,figicebit,figicet,figiciet,He/she/it will insert
+Active Indicative,Future,3rd Person,Plural,figicabunt,figicebunt,figicent,figicient,They will insert
+Active Indicative,Perfect,1st Person,Singular,figicavi,figicui,figici,figici,I have inserted
+Active Indicative,Perfect,1st Person,Plural,figicavimus,figicuimus,figicimus,figicimus,We have inserted
+Active Indicative,Perfect,2nd Person,Singular,figicavisti,figicuisti,figicisti,figicisti,You have inserted
+Active Indicative,Perfect,2nd Person,Plural,figicavistis,figicuistis,figicistis,figicistis,You (pl.) have inserted
+Active Indicative,Perfect,3rd Person,Singular,figicavit,figicuit,figicit,figicit,He/she/it has inserted
+Active Indicative,Perfect,3rd Person,Plural,figicaverunt,figicuerunt,figicerunt,figicerunt,They have inserted
+Active Indicative,Pluperfect,1st Person,Singular,figicaveram,figicueram,figiceram,figiceram,I had inserted
+Active Indicative,Pluperfect,1st Person,Plural,figicaveramus,figicueramus,figiceramus,figiceramus,We had inserted
+Active Indicative,Pluperfect,2nd Person,Singular,figicaveras,figicueras,figiceras,figiceras,You had inserted
+Active Indicative,Pluperfect,2nd Person,Plural,figicaveratis,figicueratis,figiceratis,figiceratis,You (pl.) had inserted
+Active Indicative,Pluperfect,3rd Person,Singular,figicaverat,figicuerat,figicerat,figicerat,He/she/it had inserted
+Active Indicative,Pluperfect,3rd Person,Plural,figicaverant,figicuerant,figicerant,figicerant,They had inserted
+Active Indicative,Future Perfect,1st Person,Singular,figicavero,figicueero,figicero,figiciero,I will have inserted
+Active Indicative,Future Perfect,1st Person,Plural,figicaverimus,figicuerimus,figicerimus,figicierimus,We will have inserted
+Active Indicative,Future Perfect,2nd Person,Singular,figicaveris,figicueris,figiceris,figicieris,You will have inserted
+Active Indicative,Future Perfect,2nd Person,Plural,figicaveritis,figicueritis,figiceritis,figicieritis,You (pl.) will have inserted
+Active Indicative,Future Perfect,3rd Person,Singular,figicaverit,figicuerit,figicerit,figicierit,He/she/it will have inserted
+Active Indicative,Future Perfect,3rd Person,Plural,figicaverint,figicuerint,figicerint,figicierint,They will have inserted
+Passive Indicative,Present,1st Person,Singular,figicor,figiceor,figicor,figicior,I am being inserted
+Passive Indicative,Present,1st Person,Plural,figicamur,figicemur,figicimur,figicimur,We are being inserted
+Passive Indicative,Present,2nd Person,Singular,figicaris,figiceris,figiciris,figiciris,You are being inserted
+Passive Indicative,Present,2nd Person,Plural,figicamini,figicemini,figicimini,figicimini,You (pl.) are being inserted
+Passive Indicative,Present,3rd Person,Singular,figicatur,figicetur,figicitur,figicitur,He/she/it is being inserted
+Passive Indicative,Present,3rd Person,Plural,figicantur,figicentur,figiciuntur,figiciuntur,They are being inserted
+Passive Indicative,Imperfect,1st Person,Singular,figicabar,figicebar,figicebar,figiciebar,I was inserted
+Passive Indicative,Imperfect,1st Person,Plural,figicabamur,figicebamur,figicebamur,figiciebamur,We were inserted
+Passive Indicative,Imperfect,2nd Person,Singular,figicabaris,figicebaris,figicebaris,figiciebaris,You were inserted
+Passive Indicative,Imperfect,2nd Person,Plural,figicabamini,figicebamini,figicebamini,figiciebamini,You (pl.) were inserted
+Passive Indicative,Imperfect,3rd Person,Singular,figicabatur,figicebatur,figicebatur,figiciebatur,He/she/it was inserted
+Passive Indicative,Imperfect,3rd Person,Plural,figicabantur,figicebantur,figicebantur,figiciebantur,They were inserted
+Passive Indicative,Future,1st Person,Singular,figicabor,figicebor,figicar,figiciar,I will be inserted
+Passive Indicative,Future,1st Person,Plural,figicabimur,figicebimur,figicemur,figiciemur,We will be inserted
+Passive Indicative,Future,2nd Person,Singular,figicaberis,figiceberis,figiceris,figicieris,You will be inserted
+Passive Indicative,Future,2nd Person,Plural,figicabimini,figicebimini,figicemini,figiciemini,You (pl.) will be inserted
+Passive Indicative,Future,3rd Person,Singular,figicabitur,figicebitur,figicetur,figicietur,He/she/it will be inserted
+Passive Indicative,Future,3rd Person,Plural,figicabuntur,figicebuntur,figicentur,figicientur,They will be inserted
+Passive Indicative,Perfect,1st Person,Singular,figicatus sum,figicetus sum,figicus sum,figicus sum,I have been inserted
+Passive Indicative,Perfect,1st Person,Plural,figicati sumus,figiceti sumus,figici sumus,figici sumus,We have been inserted
+Passive Indicative,Perfect,2nd Person,Singular,figicatus es,figicetus es,figicus es,figicus es,You have been inserted
+Passive Indicative,Perfect,2nd Person,Plural,figicati estis,figiceti estis,figici estis,figici estis,You (pl.) have been inserted
+Passive Indicative,Perfect,3rd Person,Singular,figicatus est,figicetus est,figicus est,figicus est,He/she/it has been inserted
+Passive Indicative,Perfect,3rd Person,Plural,figicati sunt,figiceti sunt,figici sunt,figici sunt,They have been inserted
+Passive Indicative,Pluperfect,1st Person,Singular,figicatus eram,figicetus eram,figicus eram,figicus eram,I had been inserted
+Passive Indicative,Pluperfect,1st Person,Plural,figicati eramus,figiceti eramus,figici eramus,figici eramus,We had been inserted
+Passive Indicative,Pluperfect,2nd Person,Singular,figicatus eras,figicetus eras,figicus eras,figicus eras,You had been inserted
+Passive Indicative,Pluperfect,2nd Person,Plural,figicati eratis,figiceti eratis,figici eratis,figici eratis,You (pl.) had been inserted
+Passive Indicative,Pluperfect,3rd Person,Singular,figicatus erat,figicetus erat,figicus erat,figicus erat,He/she/it had been inserted
+Passive Indicative,Pluperfect,3rd Person,Plural,figicati erant,figiceti erant,figici erant,figici erant,They had been inserted
+Passive Indicative,Future Perfect,1st Person,Singular,figicatus ero,figicetus ero,figicus ero,figicus ero,I will have been inserted
+Passive Indicative,Future Perfect,1st Person,Plural,figicati erimus,figiceti erimus,figici erimus,figici erimus,We will have been inserted
+Passive Indicative,Future Perfect,2nd Person,Singular,figicatus eris,figicetus eris,figicus eris,figicus eris,You will have been inserted
+Passive Indicative,Future Perfect,2nd Person,Plural,figicati eritis,figiceti eritis,figici eritis,figici eritis,You (pl.) will have been inserted
+Passive Indicative,Future Perfect,3rd Person,Singular,figicatus erit,figicetus erit,figicus erit,figicus erit,He/she/it will have been inserted
+Passive Indicative,Future Perfect,3rd Person,Plural,figicati erunt,figiceti erunt,figici erunt,figici erunt,They will have been inserted
+Active Subjunctive,Present,1st Person,Singular,figicem,figicem,figicam,figicam,I may insert
+Active Subjunctive,Present,1st Person,Plural,figicemus,figicemus,figicamus,figicamus,We may insert
+Active Subjunctive,Present,2nd Person,Singular,figices,figices,figicas,figicas,You may insert
+Active Subjunctive,Present,2nd Person,Plural,figicetis,figicetis,figicatis,figicatis,You (pl.) may insert
+Active Subjunctive,Present,3rd Person,Singular,figicet,figicet,figicat,figicat,He/she/it may insert
+Active Subjunctive,Present,3rd Person,Plural,figicent,figicent,figicant,figicant,They may insert
+Active Subjunctive,Imperfect,1st Person,Singular,figicarem,figicerem,figicerem,figicirem,I should insert
+Active Subjunctive,Imperfect,1st Person,Plural,figicaremus,figiceremus,figiceremus,figiciremus,We should insert
+Active Subjunctive,Imperfect,2nd Person,Singular,figicares,figiceres,figiceres,figicires,You should insert
+Active Subjunctive,Imperfect,2nd Person,Plural,figicaretis,figiceretis,figiceretis,figiciretis,You (pl.) should insert
+Active Subjunctive,Imperfect,3rd Person,Singular,figicaret,figiceret,figiceret,figiciret,He/she/it should insert
+Active Subjunctive,Imperfect,3rd Person,Plural,figicarent,figicerent,figicerent,figicirent,They should insert
+Active Subjunctive,Perfect,1st Person,Singular,figicerim,figicuerim,figicerim,figicierim,I may have inserted
+Active Subjunctive,Perfect,1st Person,Plural,figicerimus,figicuerimus,figicerimus,figicierimus,We may have inserted
+Active Subjunctive,Perfect,2nd Person,Singular,figiceris,figicueris,figiceris,figicieris,You may have inserted
+Active Subjunctive,Perfect,2nd Person,Plural,figiceritis,figicueritis,figiceritis,figicieritis,You (pl.) may have inserted
+Active Subjunctive,Perfect,3rd Person,Singular,figicerit,figicuerit,figicerit,figicierit,He/she/it may have inserted
+Active Subjunctive,Perfect,3rd Person,Plural,figicerint,figicuerint,figicerint,figicierint,They may have inserted
+Active Subjunctive,Pluperfect,1st Person,Singular,figicissem,figicuissem,figicissem,figicissem,I should have inserted
+Active Subjunctive,Pluperfect,1st Person,Plural,figicissemus,figicuissemus,figicissemus,figicissemus,We should have inserted
+Active Subjunctive,Pluperfect,2nd Person,Singular,figicisses,figicuisses,figicisses,figicisses,You would have inserted
+Active Subjunctive,Pluperfect,2nd Person,Plural,figicissetis,figicuissetis,figicissetis,figicissetis,You (pl.) would have inserted
+Active Subjunctive,Pluperfect,3rd Person,Singular,figicisset,figicuisset,figicisset,figicisset,He/she/it would have inserted
+Active Subjunctive,Pluperfect,3rd Person,Plural,figicissent,figicuissent,figicissent,figicissent,They would have inserted
+Passive Subjunctive,Present,1st Person,Singular,figicer,figicer,figicar,figicar,I may be inserted
+Passive Subjunctive,Present,1st Person,Plural,figicemur,figicemur,figicamur,figicamur,We may be inserted
+Passive Subjunctive,Present,2nd Person,Singular,figiceris,figiceris,figicaris,figicaris,You may be inserted
+Passive Subjunctive,Present,2nd Person,Plural,figicemini,figicemini,figicamini,figicamini,You (pl.) may be inserted
+Passive Subjunctive,Present,3rd Person,Singular,figicetur,figicetur,figicatur,figicatur,He/she/it may be inserted
+Passive Subjunctive,Present,3rd Person,Plural,figicentur,figicentur,figicantur,figicantur,They may be inserted
+Passive Subjunctive,Imperfect,1st Person,Singular,figicarer,figicerer,figicerer,figicirer,I should be inserted
+Passive Subjunctive,Imperfect,1st Person,Plural,figicaremur,figiceremur,figiceremur,figiciremur,We should be inserted
+Passive Subjunctive,Imperfect,2nd Person,Singular,figicareris,figicereris,figicereris,figicireris,You would be inserted
+Passive Subjunctive,Imperfect,2nd Person,Plural,figicaremini,figiceremini,figiceremini,figiciremini,You (pl.) would be inserted
+Passive Subjunctive,Imperfect,3rd Person,Singular,figicaretur,figiceretur,figiceretur,figiciretur,He/she/it would be inserted
+Passive Subjunctive,Imperfect,3rd Person,Plural,figicarentur,figicerentur,figicerentur,figicirentur,They would be inserted
+Passive Subjunctive,Perfect,1st Person,Singular,figicatus sim,figicetus sim,figicus sim,figicus sim,I may have been inserted
+Passive Subjunctive,Perfect,1st Person,Plural,figicati simus,figiceti simus,figici simus,figici simus,We may have been inserted
+Passive Subjunctive,Perfect,2nd Person,Singular,figicatus sis,figicetus sis,figicus sis,figicus sis,You may have been inserted
+Passive Subjunctive,Perfect,2nd Person,Plural,figicati sitis,figiceti sitis,figici sitis,figici sitis,You (pl.) may have been inserted
+Passive Subjunctive,Perfect,3rd Person,Singular,figicatus sit,figicetus sit,figicus sit,figicus sit,He/she/it may have been inserted
+Passive Subjunctive,Perfect,3rd Person,Plural,figicati sint,figiceti sint,figici sint,figici sint,They may have been inserted
+Passive Subjunctive,Pluperfect,1st Person,Singular,figicatus essem,figicetus essem,figicus essem,figicus essem,I should have been inserted
+Passive Subjunctive,Pluperfect,1st Person,Plural,figicati essemus,figiceti essemus,figici essemus,figici essemus,We should have been inserted
+Passive Subjunctive,Pluperfect,2nd Person,Singular,figicatus esses,figicetus esses,figicus esses,figicus esses,You would have been inserted
+Passive Subjunctive,Pluperfect,2nd Person,Plural,figicati essetis,figiceti essetis,figici essetis,figici essetis,You (pl.) would have been inserted
+Passive Subjunctive,Pluperfect,3rd Person,Singular,figicatus esset,figicetus esset,figicus esset,figicus esset,He/she/it would have been inserted
+Passive Subjunctive,Pluperfect,3rd Person,Plural,figicati essent,figiceti essent,figici essent,figici essent,They would have been inserted

@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,accolligo,accolligeo,accolligo,accolligio,I gather
+Active Indicative,Present,1st Person,Plural,accolligamus,accolligemus,accolligimus,accolligimus,We gather
+Active Indicative,Present,2nd Person,Singular,accolligas,accolliges,accolligis,accolligis,You gather
+Active Indicative,Present,2nd Person,Plural,accolligatis,accolligetis,accolligitis,accolligitis,You (pl.) gather
+Active Indicative,Present,3rd Person,Singular,accolligat,accolliget,accolligit,accolligit,He/she/it gather
+Active Indicative,Present,3rd Person,Plural,accolligant,accolligent,accolligiunt,accolligiunt,They gather
+Active Indicative,Imperfect,1st Person,Singular,accolligabam,accolligebam,accolligebam,accolligiebam,I was gathering
+Active Indicative,Imperfect,1st Person,Plural,accolligabamus,accolligebamus,accolligebamus,accolligiebamus,We were gathering
+Active Indicative,Imperfect,2nd Person,Singular,accolligabas,accolligebas,accolligebas,accolligiebas,You were gathering
+Active Indicative,Imperfect,2nd Person,Plural,accolligabatis,accolligebatis,accolligebatis,accolligiebatis,You (pl.) were gathering
+Active Indicative,Imperfect,3rd Person,Singular,accolligabat,accolligebat,accolligebat,accolligiebat,He/she/it was gathering
+Active Indicative,Imperfect,3rd Person,Plural,accolligabant,accolligebant,accolligebant,accolligiebant,They were gathering
+Active Indicative,Future,1st Person,Singular,accolligabo,accolligebo,accolligam,accolligiam,I will gather
+Active Indicative,Future,1st Person,Plural,accolligabimus,accolligebimus,accolligemus,accolligiemus,We will gather
+Active Indicative,Future,2nd Person,Singular,accolligabis,accolligebis,accolliges,accolligies,You will gather
+Active Indicative,Future,2nd Person,Plural,accolligabitis,accolligebitis,accolligetis,accolligietis,You (pl.) will gather
+Active Indicative,Future,3rd Person,Singular,accolligabit,accolligebit,accolliget,accolligiet,He/she/it will gather
+Active Indicative,Future,3rd Person,Plural,accolligabunt,accolligebunt,accolligent,accolligient,They will gather
+Active Indicative,Perfect,1st Person,Singular,accolligavi,accolligui,accolligi,accolligi,I have gathered
+Active Indicative,Perfect,1st Person,Plural,accolligavimus,accolliguimus,accolligimus,accolligimus,We have gathered
+Active Indicative,Perfect,2nd Person,Singular,accolligavisti,accolliguisti,accolligisti,accolligisti,You have gathered
+Active Indicative,Perfect,2nd Person,Plural,accolligavistis,accolliguistis,accolligistis,accolligistis,You (pl.) have gathered
+Active Indicative,Perfect,3rd Person,Singular,accolligavit,accolliguit,accolligit,accolligit,He/she/it has gathered
+Active Indicative,Perfect,3rd Person,Plural,accolligaverunt,accolliguerunt,accolligerunt,accolligerunt,They have gathered
+Active Indicative,Pluperfect,1st Person,Singular,accolligaveram,accolligueram,accolligeram,accolligeram,I had gathered
+Active Indicative,Pluperfect,1st Person,Plural,accolligaveramus,accolligueramus,accolligeramus,accolligeramus,We had gathered
+Active Indicative,Pluperfect,2nd Person,Singular,accolligaveras,accolligueras,accolligeras,accolligeras,You had gathered
+Active Indicative,Pluperfect,2nd Person,Plural,accolligaveratis,accolligueratis,accolligeratis,accolligeratis,You (pl.) had gathered
+Active Indicative,Pluperfect,3rd Person,Singular,accolligaverat,accolliguerat,accolligerat,accolligerat,He/she/it had gathered
+Active Indicative,Pluperfect,3rd Person,Plural,accolligaverant,accolliguerant,accolligerant,accolligerant,They had gathered
+Active Indicative,Future Perfect,1st Person,Singular,accolligavero,accolligueero,accolligero,accolligiero,I will have gathered
+Active Indicative,Future Perfect,1st Person,Plural,accolligaverimus,accolliguerimus,accolligerimus,accolligierimus,We will have gathered
+Active Indicative,Future Perfect,2nd Person,Singular,accolligaveris,accolligueris,accolligeris,accolligieris,You will have gathered
+Active Indicative,Future Perfect,2nd Person,Plural,accolligaveritis,accolligueritis,accolligeritis,accolligieritis,You (pl.) will have gathered
+Active Indicative,Future Perfect,3rd Person,Singular,accolligaverit,accolliguerit,accolligerit,accolligierit,He/she/it will have gathered
+Active Indicative,Future Perfect,3rd Person,Plural,accolligaverint,accolliguerint,accolligerint,accolligierint,They will have gathered
+Passive Indicative,Present,1st Person,Singular,accolligor,accolligeor,accolligor,accolligior,I am being gathered
+Passive Indicative,Present,1st Person,Plural,accolligamur,accolligemur,accolligimur,accolligimur,We are being gathered
+Passive Indicative,Present,2nd Person,Singular,accolligaris,accolligeris,accolligiris,accolligiris,You are being gathered
+Passive Indicative,Present,2nd Person,Plural,accolligamini,accolligemini,accolligimini,accolligimini,You (pl.) are being gathered
+Passive Indicative,Present,3rd Person,Singular,accolligatur,accolligetur,accolligitur,accolligitur,He/she/it is being gathered
+Passive Indicative,Present,3rd Person,Plural,accolligantur,accolligentur,accolligiuntur,accolligiuntur,They are being gathered
+Passive Indicative,Imperfect,1st Person,Singular,accolligabar,accolligebar,accolligebar,accolligiebar,I was gathered
+Passive Indicative,Imperfect,1st Person,Plural,accolligabamur,accolligebamur,accolligebamur,accolligiebamur,We were gathered
+Passive Indicative,Imperfect,2nd Person,Singular,accolligabaris,accolligebaris,accolligebaris,accolligiebaris,You were gathered
+Passive Indicative,Imperfect,2nd Person,Plural,accolligabamini,accolligebamini,accolligebamini,accolligiebamini,You (pl.) were gathered
+Passive Indicative,Imperfect,3rd Person,Singular,accolligabatur,accolligebatur,accolligebatur,accolligiebatur,He/she/it was gathered
+Passive Indicative,Imperfect,3rd Person,Plural,accolligabantur,accolligebantur,accolligebantur,accolligiebantur,They were gathered
+Passive Indicative,Future,1st Person,Singular,accolligabor,accolligebor,accolligar,accolligiar,I will be gathered
+Passive Indicative,Future,1st Person,Plural,accolligabimur,accolligebimur,accolligemur,accolligiemur,We will be gathered
+Passive Indicative,Future,2nd Person,Singular,accolligaberis,accolligeberis,accolligeris,accolligieris,You will be gathered
+Passive Indicative,Future,2nd Person,Plural,accolligabimini,accolligebimini,accolligemini,accolligiemini,You (pl.) will be gathered
+Passive Indicative,Future,3rd Person,Singular,accolligabitur,accolligebitur,accolligetur,accolligietur,He/she/it will be gathered
+Passive Indicative,Future,3rd Person,Plural,accolligabuntur,accolligebuntur,accolligentur,accolligientur,They will be gathered
+Passive Indicative,Perfect,1st Person,Singular,accolligatus sum,accolligetus sum,accolligus sum,accolligus sum,I have been gathered
+Passive Indicative,Perfect,1st Person,Plural,accolligati sumus,accolligeti sumus,accolligi sumus,accolligi sumus,We have been gathered
+Passive Indicative,Perfect,2nd Person,Singular,accolligatus es,accolligetus es,accolligus es,accolligus es,You have been gathered
+Passive Indicative,Perfect,2nd Person,Plural,accolligati estis,accolligeti estis,accolligi estis,accolligi estis,You (pl.) have been gathered
+Passive Indicative,Perfect,3rd Person,Singular,accolligatus est,accolligetus est,accolligus est,accolligus est,He/she/it has been gathered
+Passive Indicative,Perfect,3rd Person,Plural,accolligati sunt,accolligeti sunt,accolligi sunt,accolligi sunt,They have been gathered
+Passive Indicative,Pluperfect,1st Person,Singular,accolligatus eram,accolligetus eram,accolligus eram,accolligus eram,I had been gathered
+Passive Indicative,Pluperfect,1st Person,Plural,accolligati eramus,accolligeti eramus,accolligi eramus,accolligi eramus,We had been gathered
+Passive Indicative,Pluperfect,2nd Person,Singular,accolligatus eras,accolligetus eras,accolligus eras,accolligus eras,You had been gathered
+Passive Indicative,Pluperfect,2nd Person,Plural,accolligati eratis,accolligeti eratis,accolligi eratis,accolligi eratis,You (pl.) had been gathered
+Passive Indicative,Pluperfect,3rd Person,Singular,accolligatus erat,accolligetus erat,accolligus erat,accolligus erat,He/she/it had been gathered
+Passive Indicative,Pluperfect,3rd Person,Plural,accolligati erant,accolligeti erant,accolligi erant,accolligi erant,They had been gathered
+Passive Indicative,Future Perfect,1st Person,Singular,accolligatus ero,accolligetus ero,accolligus ero,accolligus ero,I will have been gathered
+Passive Indicative,Future Perfect,1st Person,Plural,accolligati erimus,accolligeti erimus,accolligi erimus,accolligi erimus,We will have been gathered
+Passive Indicative,Future Perfect,2nd Person,Singular,accolligatus eris,accolligetus eris,accolligus eris,accolligus eris,You will have been gathered
+Passive Indicative,Future Perfect,2nd Person,Plural,accolligati eritis,accolligeti eritis,accolligi eritis,accolligi eritis,You (pl.) will have been gathered
+Passive Indicative,Future Perfect,3rd Person,Singular,accolligatus erit,accolligetus erit,accolligus erit,accolligus erit,He/she/it will have been gathered
+Passive Indicative,Future Perfect,3rd Person,Plural,accolligati erunt,accolligeti erunt,accolligi erunt,accolligi erunt,They will have been gathered
+Active Subjunctive,Present,1st Person,Singular,accolligem,accolligem,accolligam,accolligam,I may gather
+Active Subjunctive,Present,1st Person,Plural,accolligemus,accolligemus,accolligamus,accolligamus,We may gather
+Active Subjunctive,Present,2nd Person,Singular,accolliges,accolliges,accolligas,accolligas,You may gather
+Active Subjunctive,Present,2nd Person,Plural,accolligetis,accolligetis,accolligatis,accolligatis,You (pl.) may gather
+Active Subjunctive,Present,3rd Person,Singular,accolliget,accolliget,accolligat,accolligat,He/she/it may gather
+Active Subjunctive,Present,3rd Person,Plural,accolligent,accolligent,accolligant,accolligant,They may gather
+Active Subjunctive,Imperfect,1st Person,Singular,accolligarem,accolligerem,accolligerem,accolligirem,I should gather
+Active Subjunctive,Imperfect,1st Person,Plural,accolligaremus,accolligeremus,accolligeremus,accolligiremus,We should gather
+Active Subjunctive,Imperfect,2nd Person,Singular,accolligares,accolligeres,accolligeres,accolligires,You should gather
+Active Subjunctive,Imperfect,2nd Person,Plural,accolligaretis,accolligeretis,accolligeretis,accolligiretis,You (pl.) should gather
+Active Subjunctive,Imperfect,3rd Person,Singular,accolligaret,accolligeret,accolligeret,accolligiret,He/she/it should gather
+Active Subjunctive,Imperfect,3rd Person,Plural,accolligarent,accolligerent,accolligerent,accolligirent,They should gather
+Active Subjunctive,Perfect,1st Person,Singular,accolligerim,accolliguerim,accolligerim,accolligierim,I may have gathered
+Active Subjunctive,Perfect,1st Person,Plural,accolligerimus,accolliguerimus,accolligerimus,accolligierimus,We may have gathered
+Active Subjunctive,Perfect,2nd Person,Singular,accolligeris,accolligueris,accolligeris,accolligieris,You may have gathered
+Active Subjunctive,Perfect,2nd Person,Plural,accolligeritis,accolligueritis,accolligeritis,accolligieritis,You (pl.) may have gathered
+Active Subjunctive,Perfect,3rd Person,Singular,accolligerit,accolliguerit,accolligerit,accolligierit,He/she/it may have gathered
+Active Subjunctive,Perfect,3rd Person,Plural,accolligerint,accolliguerint,accolligerint,accolligierint,They may have gathered
+Active Subjunctive,Pluperfect,1st Person,Singular,accolligissem,accolliguissem,accolligissem,accolligissem,I should have gathered
+Active Subjunctive,Pluperfect,1st Person,Plural,accolligissemus,accolliguissemus,accolligissemus,accolligissemus,We should have gathered
+Active Subjunctive,Pluperfect,2nd Person,Singular,accolligisses,accolliguisses,accolligisses,accolligisses,You would have gathered
+Active Subjunctive,Pluperfect,2nd Person,Plural,accolligissetis,accolliguissetis,accolligissetis,accolligissetis,You (pl.) would have gathered
+Active Subjunctive,Pluperfect,3rd Person,Singular,accolligisset,accolliguisset,accolligisset,accolligisset,He/she/it would have gathered
+Active Subjunctive,Pluperfect,3rd Person,Plural,accolligissent,accolliguissent,accolligissent,accolligissent,They would have gathered
+Passive Subjunctive,Present,1st Person,Singular,accolliger,accolliger,accolligar,accolligar,I may be gathered
+Passive Subjunctive,Present,1st Person,Plural,accolligemur,accolligemur,accolligamur,accolligamur,We may be gathered
+Passive Subjunctive,Present,2nd Person,Singular,accolligeris,accolligeris,accolligaris,accolligaris,You may be gathered
+Passive Subjunctive,Present,2nd Person,Plural,accolligemini,accolligemini,accolligamini,accolligamini,You (pl.) may be gathered
+Passive Subjunctive,Present,3rd Person,Singular,accolligetur,accolligetur,accolligatur,accolligatur,He/she/it may be gathered
+Passive Subjunctive,Present,3rd Person,Plural,accolligentur,accolligentur,accolligantur,accolligantur,They may be gathered
+Passive Subjunctive,Imperfect,1st Person,Singular,accolligarer,accolligerer,accolligerer,accolligirer,I should be gathered
+Passive Subjunctive,Imperfect,1st Person,Plural,accolligaremur,accolligeremur,accolligeremur,accolligiremur,We should be gathered
+Passive Subjunctive,Imperfect,2nd Person,Singular,accolligareris,accolligereris,accolligereris,accolligireris,You would be gathered
+Passive Subjunctive,Imperfect,2nd Person,Plural,accolligaremini,accolligeremini,accolligeremini,accolligiremini,You (pl.) would be gathered
+Passive Subjunctive,Imperfect,3rd Person,Singular,accolligaretur,accolligeretur,accolligeretur,accolligiretur,He/she/it would be gathered
+Passive Subjunctive,Imperfect,3rd Person,Plural,accolligarentur,accolligerentur,accolligerentur,accolligirentur,They would be gathered
+Passive Subjunctive,Perfect,1st Person,Singular,accolligatus sim,accolligetus sim,accolligus sim,accolligus sim,I may have been gathered
+Passive Subjunctive,Perfect,1st Person,Plural,accolligati simus,accolligeti simus,accolligi simus,accolligi simus,We may have been gathered
+Passive Subjunctive,Perfect,2nd Person,Singular,accolligatus sis,accolligetus sis,accolligus sis,accolligus sis,You may have been gathered
+Passive Subjunctive,Perfect,2nd Person,Plural,accolligati sitis,accolligeti sitis,accolligi sitis,accolligi sitis,You (pl.) may have been gathered
+Passive Subjunctive,Perfect,3rd Person,Singular,accolligatus sit,accolligetus sit,accolligus sit,accolligus sit,He/she/it may have been gathered
+Passive Subjunctive,Perfect,3rd Person,Plural,accolligati sint,accolligeti sint,accolligi sint,accolligi sint,They may have been gathered
+Passive Subjunctive,Pluperfect,1st Person,Singular,accolligatus essem,accolligetus essem,accolligus essem,accolligus essem,I should have been gathered
+Passive Subjunctive,Pluperfect,1st Person,Plural,accolligati essemus,accolligeti essemus,accolligi essemus,accolligi essemus,We should have been gathered
+Passive Subjunctive,Pluperfect,2nd Person,Singular,accolligatus esses,accolligetus esses,accolligus esses,accolligus esses,You would have been gathered
+Passive Subjunctive,Pluperfect,2nd Person,Plural,accolligati essetis,accolligeti essetis,accolligi essetis,accolligi essetis,You (pl.) would have been gathered
+Passive Subjunctive,Pluperfect,3rd Person,Singular,accolligatus esset,accolligetus esset,accolligus esset,accolligus esset,He/she/it would have been gathered
+Passive Subjunctive,Pluperfect,3rd Person,Plural,accolligati essent,accolligeti essent,accolligi essent,accolligi essent,They would have been gathered

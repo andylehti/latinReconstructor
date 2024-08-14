@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,bassio,bassieo,bassio,bassio,I lower
+Active Indicative,Present,1st Person,Plural,bassiamus,bassiemus,bassimus,bassimus,We lower
+Active Indicative,Present,2nd Person,Singular,bassias,bassies,bassis,bassis,You lower
+Active Indicative,Present,2nd Person,Plural,bassiatis,bassietis,bassitis,bassitis,You (pl.) lower
+Active Indicative,Present,3rd Person,Singular,bassiat,bassiet,bassit,bassit,He/she/it lower
+Active Indicative,Present,3rd Person,Plural,bassiant,bassient,bassiunt,bassiunt,They lower
+Active Indicative,Imperfect,1st Person,Singular,bassiabam,bassiebam,bassiebam,bassiebam,I was lowering
+Active Indicative,Imperfect,1st Person,Plural,bassiabamus,bassiebamus,bassiebamus,bassiebamus,We were lowering
+Active Indicative,Imperfect,2nd Person,Singular,bassiabas,bassiebas,bassiebas,bassiebas,You were lowering
+Active Indicative,Imperfect,2nd Person,Plural,bassiabatis,bassiebatis,bassiebatis,bassiebatis,You (pl.) were lowering
+Active Indicative,Imperfect,3rd Person,Singular,bassiabat,bassiebat,bassiebat,bassiebat,He/she/it was lowering
+Active Indicative,Imperfect,3rd Person,Plural,bassiabant,bassiebant,bassiebant,bassiebant,They were lowering
+Active Indicative,Future,1st Person,Singular,bassiabo,bassiebo,bassiam,bassiam,I will lower
+Active Indicative,Future,1st Person,Plural,bassiabimus,bassiebimus,bassiemus,bassiemus,We will lower
+Active Indicative,Future,2nd Person,Singular,bassiabis,bassiebis,bassies,bassies,You will lower
+Active Indicative,Future,2nd Person,Plural,bassiabitis,bassiebitis,bassietis,bassietis,You (pl.) will lower
+Active Indicative,Future,3rd Person,Singular,bassiabit,bassiebit,bassiet,bassiet,He/she/it will lower
+Active Indicative,Future,3rd Person,Plural,bassiabunt,bassiebunt,bassient,bassient,They will lower
+Active Indicative,Perfect,1st Person,Singular,bassiavi,bassiui,bassi,bassi,I have lowered
+Active Indicative,Perfect,1st Person,Plural,bassiavimus,bassiuimus,bassimus,bassimus,We have lowered
+Active Indicative,Perfect,2nd Person,Singular,bassiavisti,bassiuisti,bassisti,bassisti,You have lowered
+Active Indicative,Perfect,2nd Person,Plural,bassiavistis,bassiuistis,bassistis,bassistis,You (pl.) have lowered
+Active Indicative,Perfect,3rd Person,Singular,bassiavit,bassiuit,bassit,bassit,He/she/it has lowered
+Active Indicative,Perfect,3rd Person,Plural,bassiaverunt,bassiuerunt,bassierunt,bassierunt,They have lowered
+Active Indicative,Pluperfect,1st Person,Singular,bassiaveram,bassiueram,bassieram,bassieram,I had lowered
+Active Indicative,Pluperfect,1st Person,Plural,bassiaveramus,bassiueramus,bassieramus,bassieramus,We had lowered
+Active Indicative,Pluperfect,2nd Person,Singular,bassiaveras,bassiueras,bassieras,bassieras,You had lowered
+Active Indicative,Pluperfect,2nd Person,Plural,bassiaveratis,bassiueratis,bassieratis,bassieratis,You (pl.) had lowered
+Active Indicative,Pluperfect,3rd Person,Singular,bassiaverat,bassiuerat,bassierat,bassierat,He/she/it had lowered
+Active Indicative,Pluperfect,3rd Person,Plural,bassiaverant,bassiuerant,bassierant,bassierant,They had lowered
+Active Indicative,Future Perfect,1st Person,Singular,bassiavero,bassiueero,bassiero,bassiero,I will have lowered
+Active Indicative,Future Perfect,1st Person,Plural,bassiaverimus,bassiuerimus,bassierimus,bassierimus,We will have lowered
+Active Indicative,Future Perfect,2nd Person,Singular,bassiaveris,bassiueris,bassieris,bassieris,You will have lowered
+Active Indicative,Future Perfect,2nd Person,Plural,bassiaveritis,bassiueritis,bassieritis,bassieritis,You (pl.) will have lowered
+Active Indicative,Future Perfect,3rd Person,Singular,bassiaverit,bassiuerit,bassierit,bassierit,He/she/it will have lowered
+Active Indicative,Future Perfect,3rd Person,Plural,bassiaverint,bassiuerint,bassierint,bassierint,They will have lowered
+Passive Indicative,Present,1st Person,Singular,bassior,bassieor,bassior,bassior,I am being lowered
+Passive Indicative,Present,1st Person,Plural,bassiamur,bassiemur,bassimur,bassimur,We are being lowered
+Passive Indicative,Present,2nd Person,Singular,bassiaris,bassieris,bassiris,bassiris,You are being lowered
+Passive Indicative,Present,2nd Person,Plural,bassiamini,bassiemini,bassimini,bassimini,You (pl.) are being lowered
+Passive Indicative,Present,3rd Person,Singular,bassiatur,bassietur,bassitur,bassitur,He/she/it is being lowered
+Passive Indicative,Present,3rd Person,Plural,bassiantur,bassientur,bassiuntur,bassiuntur,They are being lowered
+Passive Indicative,Imperfect,1st Person,Singular,bassiabar,bassiebar,bassiebar,bassiebar,I was lowered
+Passive Indicative,Imperfect,1st Person,Plural,bassiabamur,bassiebamur,bassiebamur,bassiebamur,We were lowered
+Passive Indicative,Imperfect,2nd Person,Singular,bassiabaris,bassiebaris,bassiebaris,bassiebaris,You were lowered
+Passive Indicative,Imperfect,2nd Person,Plural,bassiabamini,bassiebamini,bassiebamini,bassiebamini,You (pl.) were lowered
+Passive Indicative,Imperfect,3rd Person,Singular,bassiabatur,bassiebatur,bassiebatur,bassiebatur,He/she/it was lowered
+Passive Indicative,Imperfect,3rd Person,Plural,bassiabantur,bassiebantur,bassiebantur,bassiebantur,They were lowered
+Passive Indicative,Future,1st Person,Singular,bassiabor,bassiebor,bassiar,bassiar,I will be lowered
+Passive Indicative,Future,1st Person,Plural,bassiabimur,bassiebimur,bassiemur,bassiemur,We will be lowered
+Passive Indicative,Future,2nd Person,Singular,bassiaberis,bassieberis,bassieris,bassieris,You will be lowered
+Passive Indicative,Future,2nd Person,Plural,bassiabimini,bassiebimini,bassiemini,bassiemini,You (pl.) will be lowered
+Passive Indicative,Future,3rd Person,Singular,bassiabitur,bassiebitur,bassietur,bassietur,He/she/it will be lowered
+Passive Indicative,Future,3rd Person,Plural,bassiabuntur,bassiebuntur,bassientur,bassientur,They will be lowered
+Passive Indicative,Perfect,1st Person,Singular,bassiatus sum,bassietus sum,bassius sum,bassius sum,I have been lowered
+Passive Indicative,Perfect,1st Person,Plural,bassiati sumus,bassieti sumus,bassi sumus,bassi sumus,We have been lowered
+Passive Indicative,Perfect,2nd Person,Singular,bassiatus es,bassietus es,bassius es,bassius es,You have been lowered
+Passive Indicative,Perfect,2nd Person,Plural,bassiati estis,bassieti estis,bassi estis,bassi estis,You (pl.) have been lowered
+Passive Indicative,Perfect,3rd Person,Singular,bassiatus est,bassietus est,bassius est,bassius est,He/she/it has been lowered
+Passive Indicative,Perfect,3rd Person,Plural,bassiati sunt,bassieti sunt,bassi sunt,bassi sunt,They have been lowered
+Passive Indicative,Pluperfect,1st Person,Singular,bassiatus eram,bassietus eram,bassius eram,bassius eram,I had been lowered
+Passive Indicative,Pluperfect,1st Person,Plural,bassiati eramus,bassieti eramus,bassi eramus,bassi eramus,We had been lowered
+Passive Indicative,Pluperfect,2nd Person,Singular,bassiatus eras,bassietus eras,bassius eras,bassius eras,You had been lowered
+Passive Indicative,Pluperfect,2nd Person,Plural,bassiati eratis,bassieti eratis,bassi eratis,bassi eratis,You (pl.) had been lowered
+Passive Indicative,Pluperfect,3rd Person,Singular,bassiatus erat,bassietus erat,bassius erat,bassius erat,He/she/it had been lowered
+Passive Indicative,Pluperfect,3rd Person,Plural,bassiati erant,bassieti erant,bassi erant,bassi erant,They had been lowered
+Passive Indicative,Future Perfect,1st Person,Singular,bassiatus ero,bassietus ero,bassius ero,bassius ero,I will have been lowered
+Passive Indicative,Future Perfect,1st Person,Plural,bassiati erimus,bassieti erimus,bassi erimus,bassi erimus,We will have been lowered
+Passive Indicative,Future Perfect,2nd Person,Singular,bassiatus eris,bassietus eris,bassius eris,bassius eris,You will have been lowered
+Passive Indicative,Future Perfect,2nd Person,Plural,bassiati eritis,bassieti eritis,bassi eritis,bassi eritis,You (pl.) will have been lowered
+Passive Indicative,Future Perfect,3rd Person,Singular,bassiatus erit,bassietus erit,bassius erit,bassius erit,He/she/it will have been lowered
+Passive Indicative,Future Perfect,3rd Person,Plural,bassiati erunt,bassieti erunt,bassi erunt,bassi erunt,They will have been lowered
+Active Subjunctive,Present,1st Person,Singular,bassiem,bassiem,bassiam,bassiam,I may lower
+Active Subjunctive,Present,1st Person,Plural,bassiemus,bassiemus,bassiamus,bassiamus,We may lower
+Active Subjunctive,Present,2nd Person,Singular,bassies,bassies,bassias,bassias,You may lower
+Active Subjunctive,Present,2nd Person,Plural,bassietis,bassietis,bassiatis,bassiatis,You (pl.) may lower
+Active Subjunctive,Present,3rd Person,Singular,bassiet,bassiet,bassiat,bassiat,He/she/it may lower
+Active Subjunctive,Present,3rd Person,Plural,bassient,bassient,bassiant,bassiant,They may lower
+Active Subjunctive,Imperfect,1st Person,Singular,bassiarem,bassierem,bassierem,bassirem,I should lower
+Active Subjunctive,Imperfect,1st Person,Plural,bassiaremus,bassieremus,bassieremus,bassiremus,We should lower
+Active Subjunctive,Imperfect,2nd Person,Singular,bassiares,bassieres,bassieres,bassires,You should lower
+Active Subjunctive,Imperfect,2nd Person,Plural,bassiaretis,bassieretis,bassieretis,bassiretis,You (pl.) should lower
+Active Subjunctive,Imperfect,3rd Person,Singular,bassiaret,bassieret,bassieret,bassiret,He/she/it should lower
+Active Subjunctive,Imperfect,3rd Person,Plural,bassiarent,bassierent,bassierent,bassirent,They should lower
+Active Subjunctive,Perfect,1st Person,Singular,bassierim,bassiuerim,bassierim,bassierim,I may have lowered
+Active Subjunctive,Perfect,1st Person,Plural,bassierimus,bassiuerimus,bassierimus,bassierimus,We may have lowered
+Active Subjunctive,Perfect,2nd Person,Singular,bassieris,bassiueris,bassieris,bassieris,You may have lowered
+Active Subjunctive,Perfect,2nd Person,Plural,bassieritis,bassiueritis,bassieritis,bassieritis,You (pl.) may have lowered
+Active Subjunctive,Perfect,3rd Person,Singular,bassierit,bassiuerit,bassierit,bassierit,He/she/it may have lowered
+Active Subjunctive,Perfect,3rd Person,Plural,bassierint,bassiuerint,bassierint,bassierint,They may have lowered
+Active Subjunctive,Pluperfect,1st Person,Singular,bassissem,bassiuissem,bassissem,bassissem,I should have lowered
+Active Subjunctive,Pluperfect,1st Person,Plural,bassissemus,bassiuissemus,bassissemus,bassissemus,We should have lowered
+Active Subjunctive,Pluperfect,2nd Person,Singular,bassisses,bassiuisses,bassisses,bassisses,You would have lowered
+Active Subjunctive,Pluperfect,2nd Person,Plural,bassissetis,bassiuissetis,bassissetis,bassissetis,You (pl.) would have lowered
+Active Subjunctive,Pluperfect,3rd Person,Singular,bassisset,bassiuisset,bassisset,bassisset,He/she/it would have lowered
+Active Subjunctive,Pluperfect,3rd Person,Plural,bassissent,bassiuissent,bassissent,bassissent,They would have lowered
+Passive Subjunctive,Present,1st Person,Singular,bassier,bassier,bassiar,bassiar,I may be lowered
+Passive Subjunctive,Present,1st Person,Plural,bassiemur,bassiemur,bassiamur,bassiamur,We may be lowered
+Passive Subjunctive,Present,2nd Person,Singular,bassieris,bassieris,bassiaris,bassiaris,You may be lowered
+Passive Subjunctive,Present,2nd Person,Plural,bassiemini,bassiemini,bassiamini,bassiamini,You (pl.) may be lowered
+Passive Subjunctive,Present,3rd Person,Singular,bassietur,bassietur,bassiatur,bassiatur,He/she/it may be lowered
+Passive Subjunctive,Present,3rd Person,Plural,bassientur,bassientur,bassiantur,bassiantur,They may be lowered
+Passive Subjunctive,Imperfect,1st Person,Singular,bassiarer,bassierer,bassierer,bassirer,I should be lowered
+Passive Subjunctive,Imperfect,1st Person,Plural,bassiaremur,bassieremur,bassieremur,bassiremur,We should be lowered
+Passive Subjunctive,Imperfect,2nd Person,Singular,bassiareris,bassiereris,bassiereris,bassireris,You would be lowered
+Passive Subjunctive,Imperfect,2nd Person,Plural,bassiaremini,bassieremini,bassieremini,bassiremini,You (pl.) would be lowered
+Passive Subjunctive,Imperfect,3rd Person,Singular,bassiaretur,bassieretur,bassieretur,bassiretur,He/she/it would be lowered
+Passive Subjunctive,Imperfect,3rd Person,Plural,bassiarentur,bassierentur,bassierentur,bassirentur,They would be lowered
+Passive Subjunctive,Perfect,1st Person,Singular,bassiatus sim,bassietus sim,bassius sim,bassius sim,I may have been lowered
+Passive Subjunctive,Perfect,1st Person,Plural,bassiati simus,bassieti simus,bassi simus,bassi simus,We may have been lowered
+Passive Subjunctive,Perfect,2nd Person,Singular,bassiatus sis,bassietus sis,bassius sis,bassius sis,You may have been lowered
+Passive Subjunctive,Perfect,2nd Person,Plural,bassiati sitis,bassieti sitis,bassi sitis,bassi sitis,You (pl.) may have been lowered
+Passive Subjunctive,Perfect,3rd Person,Singular,bassiatus sit,bassietus sit,bassius sit,bassius sit,He/she/it may have been lowered
+Passive Subjunctive,Perfect,3rd Person,Plural,bassiati sint,bassieti sint,bassi sint,bassi sint,They may have been lowered
+Passive Subjunctive,Pluperfect,1st Person,Singular,bassiatus essem,bassietus essem,bassius essem,bassius essem,I should have been lowered
+Passive Subjunctive,Pluperfect,1st Person,Plural,bassiati essemus,bassieti essemus,bassi essemus,bassi essemus,We should have been lowered
+Passive Subjunctive,Pluperfect,2nd Person,Singular,bassiatus esses,bassietus esses,bassius esses,bassius esses,You would have been lowered
+Passive Subjunctive,Pluperfect,2nd Person,Plural,bassiati essetis,bassieti essetis,bassi essetis,bassi essetis,You (pl.) would have been lowered
+Passive Subjunctive,Pluperfect,3rd Person,Singular,bassiatus esset,bassietus esset,bassius esset,bassius esset,He/she/it would have been lowered
+Passive Subjunctive,Pluperfect,3rd Person,Plural,bassiati essent,bassieti essent,bassi essent,bassi essent,They would have been lowered

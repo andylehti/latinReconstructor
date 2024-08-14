@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,arresto,arresteo,arresto,arrestio,I stop
+Active Indicative,Present,1st Person,Plural,arrestamus,arrestemus,arrestimus,arrestimus,We stop
+Active Indicative,Present,2nd Person,Singular,arrestas,arrestes,arrestis,arrestis,You stop
+Active Indicative,Present,2nd Person,Plural,arrestatis,arrestetis,arrestitis,arrestitis,You (pl.) stop
+Active Indicative,Present,3rd Person,Singular,arrestat,arrestet,arrestit,arrestit,He/she/it stop
+Active Indicative,Present,3rd Person,Plural,arrestant,arrestent,arrestiunt,arrestiunt,They stop
+Active Indicative,Imperfect,1st Person,Singular,arrestabam,arrestebam,arrestebam,arrestiebam,I was stoping
+Active Indicative,Imperfect,1st Person,Plural,arrestabamus,arrestebamus,arrestebamus,arrestiebamus,We were stoping
+Active Indicative,Imperfect,2nd Person,Singular,arrestabas,arrestebas,arrestebas,arrestiebas,You were stoping
+Active Indicative,Imperfect,2nd Person,Plural,arrestabatis,arrestebatis,arrestebatis,arrestiebatis,You (pl.) were stoping
+Active Indicative,Imperfect,3rd Person,Singular,arrestabat,arrestebat,arrestebat,arrestiebat,He/she/it was stoping
+Active Indicative,Imperfect,3rd Person,Plural,arrestabant,arrestebant,arrestebant,arrestiebant,They were stoping
+Active Indicative,Future,1st Person,Singular,arrestabo,arrestebo,arrestam,arrestiam,I will stop
+Active Indicative,Future,1st Person,Plural,arrestabimus,arrestebimus,arrestemus,arrestiemus,We will stop
+Active Indicative,Future,2nd Person,Singular,arrestabis,arrestebis,arrestes,arresties,You will stop
+Active Indicative,Future,2nd Person,Plural,arrestabitis,arrestebitis,arrestetis,arrestietis,You (pl.) will stop
+Active Indicative,Future,3rd Person,Singular,arrestabit,arrestebit,arrestet,arrestiet,He/she/it will stop
+Active Indicative,Future,3rd Person,Plural,arrestabunt,arrestebunt,arrestent,arrestient,They will stop
+Active Indicative,Perfect,1st Person,Singular,arrestavi,arrestui,arresti,arresti,I have stoped
+Active Indicative,Perfect,1st Person,Plural,arrestavimus,arrestuimus,arrestimus,arrestimus,We have stoped
+Active Indicative,Perfect,2nd Person,Singular,arrestavisti,arrestuisti,arrestisti,arrestisti,You have stoped
+Active Indicative,Perfect,2nd Person,Plural,arrestavistis,arrestuistis,arrestistis,arrestistis,You (pl.) have stoped
+Active Indicative,Perfect,3rd Person,Singular,arrestavit,arrestuit,arrestit,arrestit,He/she/it has stoped
+Active Indicative,Perfect,3rd Person,Plural,arrestaverunt,arrestuerunt,arresterunt,arresterunt,They have stoped
+Active Indicative,Pluperfect,1st Person,Singular,arrestaveram,arrestueram,arresteram,arresteram,I had stoped
+Active Indicative,Pluperfect,1st Person,Plural,arrestaveramus,arrestueramus,arresteramus,arresteramus,We had stoped
+Active Indicative,Pluperfect,2nd Person,Singular,arrestaveras,arrestueras,arresteras,arresteras,You had stoped
+Active Indicative,Pluperfect,2nd Person,Plural,arrestaveratis,arrestueratis,arresteratis,arresteratis,You (pl.) had stoped
+Active Indicative,Pluperfect,3rd Person,Singular,arrestaverat,arrestuerat,arresterat,arresterat,He/she/it had stoped
+Active Indicative,Pluperfect,3rd Person,Plural,arrestaverant,arrestuerant,arresterant,arresterant,They had stoped
+Active Indicative,Future Perfect,1st Person,Singular,arrestavero,arrestueero,arrestero,arrestiero,I will have stoped
+Active Indicative,Future Perfect,1st Person,Plural,arrestaverimus,arrestuerimus,arresterimus,arrestierimus,We will have stoped
+Active Indicative,Future Perfect,2nd Person,Singular,arrestaveris,arrestueris,arresteris,arrestieris,You will have stoped
+Active Indicative,Future Perfect,2nd Person,Plural,arrestaveritis,arrestueritis,arresteritis,arrestieritis,You (pl.) will have stoped
+Active Indicative,Future Perfect,3rd Person,Singular,arrestaverit,arrestuerit,arresterit,arrestierit,He/she/it will have stoped
+Active Indicative,Future Perfect,3rd Person,Plural,arrestaverint,arrestuerint,arresterint,arrestierint,They will have stoped
+Passive Indicative,Present,1st Person,Singular,arrestor,arresteor,arrestor,arrestior,I am being stoped
+Passive Indicative,Present,1st Person,Plural,arrestamur,arrestemur,arrestimur,arrestimur,We are being stoped
+Passive Indicative,Present,2nd Person,Singular,arrestaris,arresteris,arrestiris,arrestiris,You are being stoped
+Passive Indicative,Present,2nd Person,Plural,arrestamini,arrestemini,arrestimini,arrestimini,You (pl.) are being stoped
+Passive Indicative,Present,3rd Person,Singular,arrestatur,arrestetur,arrestitur,arrestitur,He/she/it is being stoped
+Passive Indicative,Present,3rd Person,Plural,arrestantur,arrestentur,arrestiuntur,arrestiuntur,They are being stoped
+Passive Indicative,Imperfect,1st Person,Singular,arrestabar,arrestebar,arrestebar,arrestiebar,I was stoped
+Passive Indicative,Imperfect,1st Person,Plural,arrestabamur,arrestebamur,arrestebamur,arrestiebamur,We were stoped
+Passive Indicative,Imperfect,2nd Person,Singular,arrestabaris,arrestebaris,arrestebaris,arrestiebaris,You were stoped
+Passive Indicative,Imperfect,2nd Person,Plural,arrestabamini,arrestebamini,arrestebamini,arrestiebamini,You (pl.) were stoped
+Passive Indicative,Imperfect,3rd Person,Singular,arrestabatur,arrestebatur,arrestebatur,arrestiebatur,He/she/it was stoped
+Passive Indicative,Imperfect,3rd Person,Plural,arrestabantur,arrestebantur,arrestebantur,arrestiebantur,They were stoped
+Passive Indicative,Future,1st Person,Singular,arrestabor,arrestebor,arrestar,arrestiar,I will be stoped
+Passive Indicative,Future,1st Person,Plural,arrestabimur,arrestebimur,arrestemur,arrestiemur,We will be stoped
+Passive Indicative,Future,2nd Person,Singular,arrestaberis,arresteberis,arresteris,arrestieris,You will be stoped
+Passive Indicative,Future,2nd Person,Plural,arrestabimini,arrestebimini,arrestemini,arrestiemini,You (pl.) will be stoped
+Passive Indicative,Future,3rd Person,Singular,arrestabitur,arrestebitur,arrestetur,arrestietur,He/she/it will be stoped
+Passive Indicative,Future,3rd Person,Plural,arrestabuntur,arrestebuntur,arrestentur,arrestientur,They will be stoped
+Passive Indicative,Perfect,1st Person,Singular,arrestatus sum,arrestetus sum,arrestus sum,arrestus sum,I have been stoped
+Passive Indicative,Perfect,1st Person,Plural,arrestati sumus,arresteti sumus,arresti sumus,arresti sumus,We have been stoped
+Passive Indicative,Perfect,2nd Person,Singular,arrestatus es,arrestetus es,arrestus es,arrestus es,You have been stoped
+Passive Indicative,Perfect,2nd Person,Plural,arrestati estis,arresteti estis,arresti estis,arresti estis,You (pl.) have been stoped
+Passive Indicative,Perfect,3rd Person,Singular,arrestatus est,arrestetus est,arrestus est,arrestus est,He/she/it has been stoped
+Passive Indicative,Perfect,3rd Person,Plural,arrestati sunt,arresteti sunt,arresti sunt,arresti sunt,They have been stoped
+Passive Indicative,Pluperfect,1st Person,Singular,arrestatus eram,arrestetus eram,arrestus eram,arrestus eram,I had been stoped
+Passive Indicative,Pluperfect,1st Person,Plural,arrestati eramus,arresteti eramus,arresti eramus,arresti eramus,We had been stoped
+Passive Indicative,Pluperfect,2nd Person,Singular,arrestatus eras,arrestetus eras,arrestus eras,arrestus eras,You had been stoped
+Passive Indicative,Pluperfect,2nd Person,Plural,arrestati eratis,arresteti eratis,arresti eratis,arresti eratis,You (pl.) had been stoped
+Passive Indicative,Pluperfect,3rd Person,Singular,arrestatus erat,arrestetus erat,arrestus erat,arrestus erat,He/she/it had been stoped
+Passive Indicative,Pluperfect,3rd Person,Plural,arrestati erant,arresteti erant,arresti erant,arresti erant,They had been stoped
+Passive Indicative,Future Perfect,1st Person,Singular,arrestatus ero,arrestetus ero,arrestus ero,arrestus ero,I will have been stoped
+Passive Indicative,Future Perfect,1st Person,Plural,arrestati erimus,arresteti erimus,arresti erimus,arresti erimus,We will have been stoped
+Passive Indicative,Future Perfect,2nd Person,Singular,arrestatus eris,arrestetus eris,arrestus eris,arrestus eris,You will have been stoped
+Passive Indicative,Future Perfect,2nd Person,Plural,arrestati eritis,arresteti eritis,arresti eritis,arresti eritis,You (pl.) will have been stoped
+Passive Indicative,Future Perfect,3rd Person,Singular,arrestatus erit,arrestetus erit,arrestus erit,arrestus erit,He/she/it will have been stoped
+Passive Indicative,Future Perfect,3rd Person,Plural,arrestati erunt,arresteti erunt,arresti erunt,arresti erunt,They will have been stoped
+Active Subjunctive,Present,1st Person,Singular,arrestem,arrestem,arrestam,arrestam,I may stop
+Active Subjunctive,Present,1st Person,Plural,arrestemus,arrestemus,arrestamus,arrestamus,We may stop
+Active Subjunctive,Present,2nd Person,Singular,arrestes,arrestes,arrestas,arrestas,You may stop
+Active Subjunctive,Present,2nd Person,Plural,arrestetis,arrestetis,arrestatis,arrestatis,You (pl.) may stop
+Active Subjunctive,Present,3rd Person,Singular,arrestet,arrestet,arrestat,arrestat,He/she/it may stop
+Active Subjunctive,Present,3rd Person,Plural,arrestent,arrestent,arrestant,arrestant,They may stop
+Active Subjunctive,Imperfect,1st Person,Singular,arrestarem,arresterem,arresterem,arrestirem,I should stop
+Active Subjunctive,Imperfect,1st Person,Plural,arrestaremus,arresteremus,arresteremus,arrestiremus,We should stop
+Active Subjunctive,Imperfect,2nd Person,Singular,arrestares,arresteres,arresteres,arrestires,You should stop
+Active Subjunctive,Imperfect,2nd Person,Plural,arrestaretis,arresteretis,arresteretis,arrestiretis,You (pl.) should stop
+Active Subjunctive,Imperfect,3rd Person,Singular,arrestaret,arresteret,arresteret,arrestiret,He/she/it should stop
+Active Subjunctive,Imperfect,3rd Person,Plural,arrestarent,arresterent,arresterent,arrestirent,They should stop
+Active Subjunctive,Perfect,1st Person,Singular,arresterim,arrestuerim,arresterim,arrestierim,I may have stoped
+Active Subjunctive,Perfect,1st Person,Plural,arresterimus,arrestuerimus,arresterimus,arrestierimus,We may have stoped
+Active Subjunctive,Perfect,2nd Person,Singular,arresteris,arrestueris,arresteris,arrestieris,You may have stoped
+Active Subjunctive,Perfect,2nd Person,Plural,arresteritis,arrestueritis,arresteritis,arrestieritis,You (pl.) may have stoped
+Active Subjunctive,Perfect,3rd Person,Singular,arresterit,arrestuerit,arresterit,arrestierit,He/she/it may have stoped
+Active Subjunctive,Perfect,3rd Person,Plural,arresterint,arrestuerint,arresterint,arrestierint,They may have stoped
+Active Subjunctive,Pluperfect,1st Person,Singular,arrestissem,arrestuissem,arrestissem,arrestissem,I should have stoped
+Active Subjunctive,Pluperfect,1st Person,Plural,arrestissemus,arrestuissemus,arrestissemus,arrestissemus,We should have stoped
+Active Subjunctive,Pluperfect,2nd Person,Singular,arrestisses,arrestuisses,arrestisses,arrestisses,You would have stoped
+Active Subjunctive,Pluperfect,2nd Person,Plural,arrestissetis,arrestuissetis,arrestissetis,arrestissetis,You (pl.) would have stoped
+Active Subjunctive,Pluperfect,3rd Person,Singular,arrestisset,arrestuisset,arrestisset,arrestisset,He/she/it would have stoped
+Active Subjunctive,Pluperfect,3rd Person,Plural,arrestissent,arrestuissent,arrestissent,arrestissent,They would have stoped
+Passive Subjunctive,Present,1st Person,Singular,arrester,arrester,arrestar,arrestar,I may be stoped
+Passive Subjunctive,Present,1st Person,Plural,arrestemur,arrestemur,arrestamur,arrestamur,We may be stoped
+Passive Subjunctive,Present,2nd Person,Singular,arresteris,arresteris,arrestaris,arrestaris,You may be stoped
+Passive Subjunctive,Present,2nd Person,Plural,arrestemini,arrestemini,arrestamini,arrestamini,You (pl.) may be stoped
+Passive Subjunctive,Present,3rd Person,Singular,arrestetur,arrestetur,arrestatur,arrestatur,He/she/it may be stoped
+Passive Subjunctive,Present,3rd Person,Plural,arrestentur,arrestentur,arrestantur,arrestantur,They may be stoped
+Passive Subjunctive,Imperfect,1st Person,Singular,arrestarer,arresterer,arresterer,arrestirer,I should be stoped
+Passive Subjunctive,Imperfect,1st Person,Plural,arrestaremur,arresteremur,arresteremur,arrestiremur,We should be stoped
+Passive Subjunctive,Imperfect,2nd Person,Singular,arrestareris,arrestereris,arrestereris,arrestireris,You would be stoped
+Passive Subjunctive,Imperfect,2nd Person,Plural,arrestaremini,arresteremini,arresteremini,arrestiremini,You (pl.) would be stoped
+Passive Subjunctive,Imperfect,3rd Person,Singular,arrestaretur,arresteretur,arresteretur,arrestiretur,He/she/it would be stoped
+Passive Subjunctive,Imperfect,3rd Person,Plural,arrestarentur,arresterentur,arresterentur,arrestirentur,They would be stoped
+Passive Subjunctive,Perfect,1st Person,Singular,arrestatus sim,arrestetus sim,arrestus sim,arrestus sim,I may have been stoped
+Passive Subjunctive,Perfect,1st Person,Plural,arrestati simus,arresteti simus,arresti simus,arresti simus,We may have been stoped
+Passive Subjunctive,Perfect,2nd Person,Singular,arrestatus sis,arrestetus sis,arrestus sis,arrestus sis,You may have been stoped
+Passive Subjunctive,Perfect,2nd Person,Plural,arrestati sitis,arresteti sitis,arresti sitis,arresti sitis,You (pl.) may have been stoped
+Passive Subjunctive,Perfect,3rd Person,Singular,arrestatus sit,arrestetus sit,arrestus sit,arrestus sit,He/she/it may have been stoped
+Passive Subjunctive,Perfect,3rd Person,Plural,arrestati sint,arresteti sint,arresti sint,arresti sint,They may have been stoped
+Passive Subjunctive,Pluperfect,1st Person,Singular,arrestatus essem,arrestetus essem,arrestus essem,arrestus essem,I should have been stoped
+Passive Subjunctive,Pluperfect,1st Person,Plural,arrestati essemus,arresteti essemus,arresti essemus,arresti essemus,We should have been stoped
+Passive Subjunctive,Pluperfect,2nd Person,Singular,arrestatus esses,arrestetus esses,arrestus esses,arrestus esses,You would have been stoped
+Passive Subjunctive,Pluperfect,2nd Person,Plural,arrestati essetis,arresteti essetis,arresti essetis,arresti essetis,You (pl.) would have been stoped
+Passive Subjunctive,Pluperfect,3rd Person,Singular,arrestatus esset,arrestetus esset,arrestus esset,arrestus esset,He/she/it would have been stoped
+Passive Subjunctive,Pluperfect,3rd Person,Plural,arrestati essent,arresteti essent,arresti essent,arresti essent,They would have been stoped

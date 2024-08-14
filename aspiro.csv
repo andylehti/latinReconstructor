@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,aspiro,aspireo,aspiro,aspirio,I breathe
+Active Indicative,Present,1st Person,Plural,aspiramus,aspiremus,aspirimus,aspirimus,We breathe
+Active Indicative,Present,2nd Person,Singular,aspiras,aspires,aspiris,aspiris,You breathe
+Active Indicative,Present,2nd Person,Plural,aspiratis,aspiretis,aspiritis,aspiritis,You (pl.) breathe
+Active Indicative,Present,3rd Person,Singular,aspirat,aspiret,aspirit,aspirit,He/she/it breathe
+Active Indicative,Present,3rd Person,Plural,aspirant,aspirent,aspiriunt,aspiriunt,They breathe
+Active Indicative,Imperfect,1st Person,Singular,aspirabam,aspirebam,aspirebam,aspiriebam,I was breatheing
+Active Indicative,Imperfect,1st Person,Plural,aspirabamus,aspirebamus,aspirebamus,aspiriebamus,We were breatheing
+Active Indicative,Imperfect,2nd Person,Singular,aspirabas,aspirebas,aspirebas,aspiriebas,You were breatheing
+Active Indicative,Imperfect,2nd Person,Plural,aspirabatis,aspirebatis,aspirebatis,aspiriebatis,You (pl.) were breatheing
+Active Indicative,Imperfect,3rd Person,Singular,aspirabat,aspirebat,aspirebat,aspiriebat,He/she/it was breatheing
+Active Indicative,Imperfect,3rd Person,Plural,aspirabant,aspirebant,aspirebant,aspiriebant,They were breatheing
+Active Indicative,Future,1st Person,Singular,aspirabo,aspirebo,aspiram,aspiriam,I will breathe
+Active Indicative,Future,1st Person,Plural,aspirabimus,aspirebimus,aspiremus,aspiriemus,We will breathe
+Active Indicative,Future,2nd Person,Singular,aspirabis,aspirebis,aspires,aspiries,You will breathe
+Active Indicative,Future,2nd Person,Plural,aspirabitis,aspirebitis,aspiretis,aspirietis,You (pl.) will breathe
+Active Indicative,Future,3rd Person,Singular,aspirabit,aspirebit,aspiret,aspiriet,He/she/it will breathe
+Active Indicative,Future,3rd Person,Plural,aspirabunt,aspirebunt,aspirent,aspirient,They will breathe
+Active Indicative,Perfect,1st Person,Singular,aspiravi,aspirui,aspiri,aspiri,I have breatheed
+Active Indicative,Perfect,1st Person,Plural,aspiravimus,aspiruimus,aspirimus,aspirimus,We have breatheed
+Active Indicative,Perfect,2nd Person,Singular,aspiravisti,aspiruisti,aspiristi,aspiristi,You have breatheed
+Active Indicative,Perfect,2nd Person,Plural,aspiravistis,aspiruistis,aspiristis,aspiristis,You (pl.) have breatheed
+Active Indicative,Perfect,3rd Person,Singular,aspiravit,aspiruit,aspirit,aspirit,He/she/it has breatheed
+Active Indicative,Perfect,3rd Person,Plural,aspiraverunt,aspiruerunt,aspirerunt,aspirerunt,They have breatheed
+Active Indicative,Pluperfect,1st Person,Singular,aspiraveram,aspirueram,aspireram,aspireram,I had breatheed
+Active Indicative,Pluperfect,1st Person,Plural,aspiraveramus,aspirueramus,aspireramus,aspireramus,We had breatheed
+Active Indicative,Pluperfect,2nd Person,Singular,aspiraveras,aspirueras,aspireras,aspireras,You had breatheed
+Active Indicative,Pluperfect,2nd Person,Plural,aspiraveratis,aspirueratis,aspireratis,aspireratis,You (pl.) had breatheed
+Active Indicative,Pluperfect,3rd Person,Singular,aspiraverat,aspiruerat,aspirerat,aspirerat,He/she/it had breatheed
+Active Indicative,Pluperfect,3rd Person,Plural,aspiraverant,aspiruerant,aspirerant,aspirerant,They had breatheed
+Active Indicative,Future Perfect,1st Person,Singular,aspiravero,aspirueero,aspirero,aspiriero,I will have breatheed
+Active Indicative,Future Perfect,1st Person,Plural,aspiraverimus,aspiruerimus,aspirerimus,aspirierimus,We will have breatheed
+Active Indicative,Future Perfect,2nd Person,Singular,aspiraveris,aspirueris,aspireris,aspirieris,You will have breatheed
+Active Indicative,Future Perfect,2nd Person,Plural,aspiraveritis,aspirueritis,aspireritis,aspirieritis,You (pl.) will have breatheed
+Active Indicative,Future Perfect,3rd Person,Singular,aspiraverit,aspiruerit,aspirerit,aspirierit,He/she/it will have breatheed
+Active Indicative,Future Perfect,3rd Person,Plural,aspiraverint,aspiruerint,aspirerint,aspirierint,They will have breatheed
+Passive Indicative,Present,1st Person,Singular,aspiror,aspireor,aspiror,aspirior,I am being breatheed
+Passive Indicative,Present,1st Person,Plural,aspiramur,aspiremur,aspirimur,aspirimur,We are being breatheed
+Passive Indicative,Present,2nd Person,Singular,aspiraris,aspireris,aspiriris,aspiriris,You are being breatheed
+Passive Indicative,Present,2nd Person,Plural,aspiramini,aspiremini,aspirimini,aspirimini,You (pl.) are being breatheed
+Passive Indicative,Present,3rd Person,Singular,aspiratur,aspiretur,aspiritur,aspiritur,He/she/it is being breatheed
+Passive Indicative,Present,3rd Person,Plural,aspirantur,aspirentur,aspiriuntur,aspiriuntur,They are being breatheed
+Passive Indicative,Imperfect,1st Person,Singular,aspirabar,aspirebar,aspirebar,aspiriebar,I was breatheed
+Passive Indicative,Imperfect,1st Person,Plural,aspirabamur,aspirebamur,aspirebamur,aspiriebamur,We were breatheed
+Passive Indicative,Imperfect,2nd Person,Singular,aspirabaris,aspirebaris,aspirebaris,aspiriebaris,You were breatheed
+Passive Indicative,Imperfect,2nd Person,Plural,aspirabamini,aspirebamini,aspirebamini,aspiriebamini,You (pl.) were breatheed
+Passive Indicative,Imperfect,3rd Person,Singular,aspirabatur,aspirebatur,aspirebatur,aspiriebatur,He/she/it was breatheed
+Passive Indicative,Imperfect,3rd Person,Plural,aspirabantur,aspirebantur,aspirebantur,aspiriebantur,They were breatheed
+Passive Indicative,Future,1st Person,Singular,aspirabor,aspirebor,aspirar,aspiriar,I will be breatheed
+Passive Indicative,Future,1st Person,Plural,aspirabimur,aspirebimur,aspiremur,aspiriemur,We will be breatheed
+Passive Indicative,Future,2nd Person,Singular,aspiraberis,aspireberis,aspireris,aspirieris,You will be breatheed
+Passive Indicative,Future,2nd Person,Plural,aspirabimini,aspirebimini,aspiremini,aspiriemini,You (pl.) will be breatheed
+Passive Indicative,Future,3rd Person,Singular,aspirabitur,aspirebitur,aspiretur,aspirietur,He/she/it will be breatheed
+Passive Indicative,Future,3rd Person,Plural,aspirabuntur,aspirebuntur,aspirentur,aspirientur,They will be breatheed
+Passive Indicative,Perfect,1st Person,Singular,aspiratus sum,aspiretus sum,aspirus sum,aspirus sum,I have been breatheed
+Passive Indicative,Perfect,1st Person,Plural,aspirati sumus,aspireti sumus,aspiri sumus,aspiri sumus,We have been breatheed
+Passive Indicative,Perfect,2nd Person,Singular,aspiratus es,aspiretus es,aspirus es,aspirus es,You have been breatheed
+Passive Indicative,Perfect,2nd Person,Plural,aspirati estis,aspireti estis,aspiri estis,aspiri estis,You (pl.) have been breatheed
+Passive Indicative,Perfect,3rd Person,Singular,aspiratus est,aspiretus est,aspirus est,aspirus est,He/she/it has been breatheed
+Passive Indicative,Perfect,3rd Person,Plural,aspirati sunt,aspireti sunt,aspiri sunt,aspiri sunt,They have been breatheed
+Passive Indicative,Pluperfect,1st Person,Singular,aspiratus eram,aspiretus eram,aspirus eram,aspirus eram,I had been breatheed
+Passive Indicative,Pluperfect,1st Person,Plural,aspirati eramus,aspireti eramus,aspiri eramus,aspiri eramus,We had been breatheed
+Passive Indicative,Pluperfect,2nd Person,Singular,aspiratus eras,aspiretus eras,aspirus eras,aspirus eras,You had been breatheed
+Passive Indicative,Pluperfect,2nd Person,Plural,aspirati eratis,aspireti eratis,aspiri eratis,aspiri eratis,You (pl.) had been breatheed
+Passive Indicative,Pluperfect,3rd Person,Singular,aspiratus erat,aspiretus erat,aspirus erat,aspirus erat,He/she/it had been breatheed
+Passive Indicative,Pluperfect,3rd Person,Plural,aspirati erant,aspireti erant,aspiri erant,aspiri erant,They had been breatheed
+Passive Indicative,Future Perfect,1st Person,Singular,aspiratus ero,aspiretus ero,aspirus ero,aspirus ero,I will have been breatheed
+Passive Indicative,Future Perfect,1st Person,Plural,aspirati erimus,aspireti erimus,aspiri erimus,aspiri erimus,We will have been breatheed
+Passive Indicative,Future Perfect,2nd Person,Singular,aspiratus eris,aspiretus eris,aspirus eris,aspirus eris,You will have been breatheed
+Passive Indicative,Future Perfect,2nd Person,Plural,aspirati eritis,aspireti eritis,aspiri eritis,aspiri eritis,You (pl.) will have been breatheed
+Passive Indicative,Future Perfect,3rd Person,Singular,aspiratus erit,aspiretus erit,aspirus erit,aspirus erit,He/she/it will have been breatheed
+Passive Indicative,Future Perfect,3rd Person,Plural,aspirati erunt,aspireti erunt,aspiri erunt,aspiri erunt,They will have been breatheed
+Active Subjunctive,Present,1st Person,Singular,aspirem,aspirem,aspiram,aspiram,I may breathe
+Active Subjunctive,Present,1st Person,Plural,aspiremus,aspiremus,aspiramus,aspiramus,We may breathe
+Active Subjunctive,Present,2nd Person,Singular,aspires,aspires,aspiras,aspiras,You may breathe
+Active Subjunctive,Present,2nd Person,Plural,aspiretis,aspiretis,aspiratis,aspiratis,You (pl.) may breathe
+Active Subjunctive,Present,3rd Person,Singular,aspiret,aspiret,aspirat,aspirat,He/she/it may breathe
+Active Subjunctive,Present,3rd Person,Plural,aspirent,aspirent,aspirant,aspirant,They may breathe
+Active Subjunctive,Imperfect,1st Person,Singular,aspirarem,aspirerem,aspirerem,aspirirem,I should breathe
+Active Subjunctive,Imperfect,1st Person,Plural,aspiraremus,aspireremus,aspireremus,aspiriremus,We should breathe
+Active Subjunctive,Imperfect,2nd Person,Singular,aspirares,aspireres,aspireres,aspirires,You should breathe
+Active Subjunctive,Imperfect,2nd Person,Plural,aspiraretis,aspireretis,aspireretis,aspiriretis,You (pl.) should breathe
+Active Subjunctive,Imperfect,3rd Person,Singular,aspiraret,aspireret,aspireret,aspiriret,He/she/it should breathe
+Active Subjunctive,Imperfect,3rd Person,Plural,aspirarent,aspirerent,aspirerent,aspirirent,They should breathe
+Active Subjunctive,Perfect,1st Person,Singular,aspirerim,aspiruerim,aspirerim,aspirierim,I may have breatheed
+Active Subjunctive,Perfect,1st Person,Plural,aspirerimus,aspiruerimus,aspirerimus,aspirierimus,We may have breatheed
+Active Subjunctive,Perfect,2nd Person,Singular,aspireris,aspirueris,aspireris,aspirieris,You may have breatheed
+Active Subjunctive,Perfect,2nd Person,Plural,aspireritis,aspirueritis,aspireritis,aspirieritis,You (pl.) may have breatheed
+Active Subjunctive,Perfect,3rd Person,Singular,aspirerit,aspiruerit,aspirerit,aspirierit,He/she/it may have breatheed
+Active Subjunctive,Perfect,3rd Person,Plural,aspirerint,aspiruerint,aspirerint,aspirierint,They may have breatheed
+Active Subjunctive,Pluperfect,1st Person,Singular,aspirissem,aspiruissem,aspirissem,aspirissem,I should have breatheed
+Active Subjunctive,Pluperfect,1st Person,Plural,aspirissemus,aspiruissemus,aspirissemus,aspirissemus,We should have breatheed
+Active Subjunctive,Pluperfect,2nd Person,Singular,aspirisses,aspiruisses,aspirisses,aspirisses,You would have breatheed
+Active Subjunctive,Pluperfect,2nd Person,Plural,aspirissetis,aspiruissetis,aspirissetis,aspirissetis,You (pl.) would have breatheed
+Active Subjunctive,Pluperfect,3rd Person,Singular,aspirisset,aspiruisset,aspirisset,aspirisset,He/she/it would have breatheed
+Active Subjunctive,Pluperfect,3rd Person,Plural,aspirissent,aspiruissent,aspirissent,aspirissent,They would have breatheed
+Passive Subjunctive,Present,1st Person,Singular,aspirer,aspirer,aspirar,aspirar,I may be breatheed
+Passive Subjunctive,Present,1st Person,Plural,aspiremur,aspiremur,aspiramur,aspiramur,We may be breatheed
+Passive Subjunctive,Present,2nd Person,Singular,aspireris,aspireris,aspiraris,aspiraris,You may be breatheed
+Passive Subjunctive,Present,2nd Person,Plural,aspiremini,aspiremini,aspiramini,aspiramini,You (pl.) may be breatheed
+Passive Subjunctive,Present,3rd Person,Singular,aspiretur,aspiretur,aspiratur,aspiratur,He/she/it may be breatheed
+Passive Subjunctive,Present,3rd Person,Plural,aspirentur,aspirentur,aspirantur,aspirantur,They may be breatheed
+Passive Subjunctive,Imperfect,1st Person,Singular,aspirarer,aspirerer,aspirerer,aspirirer,I should be breatheed
+Passive Subjunctive,Imperfect,1st Person,Plural,aspiraremur,aspireremur,aspireremur,aspiriremur,We should be breatheed
+Passive Subjunctive,Imperfect,2nd Person,Singular,aspirareris,aspirereris,aspirereris,aspirireris,You would be breatheed
+Passive Subjunctive,Imperfect,2nd Person,Plural,aspiraremini,aspireremini,aspireremini,aspiriremini,You (pl.) would be breatheed
+Passive Subjunctive,Imperfect,3rd Person,Singular,aspiraretur,aspireretur,aspireretur,aspiriretur,He/she/it would be breatheed
+Passive Subjunctive,Imperfect,3rd Person,Plural,aspirarentur,aspirerentur,aspirerentur,aspirirentur,They would be breatheed
+Passive Subjunctive,Perfect,1st Person,Singular,aspiratus sim,aspiretus sim,aspirus sim,aspirus sim,I may have been breatheed
+Passive Subjunctive,Perfect,1st Person,Plural,aspirati simus,aspireti simus,aspiri simus,aspiri simus,We may have been breatheed
+Passive Subjunctive,Perfect,2nd Person,Singular,aspiratus sis,aspiretus sis,aspirus sis,aspirus sis,You may have been breatheed
+Passive Subjunctive,Perfect,2nd Person,Plural,aspirati sitis,aspireti sitis,aspiri sitis,aspiri sitis,You (pl.) may have been breatheed
+Passive Subjunctive,Perfect,3rd Person,Singular,aspiratus sit,aspiretus sit,aspirus sit,aspirus sit,He/she/it may have been breatheed
+Passive Subjunctive,Perfect,3rd Person,Plural,aspirati sint,aspireti sint,aspiri sint,aspiri sint,They may have been breatheed
+Passive Subjunctive,Pluperfect,1st Person,Singular,aspiratus essem,aspiretus essem,aspirus essem,aspirus essem,I should have been breatheed
+Passive Subjunctive,Pluperfect,1st Person,Plural,aspirati essemus,aspireti essemus,aspiri essemus,aspiri essemus,We should have been breatheed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,aspiratus esses,aspiretus esses,aspirus esses,aspirus esses,You would have been breatheed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,aspirati essetis,aspireti essetis,aspiri essetis,aspiri essetis,You (pl.) would have been breatheed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,aspiratus esset,aspiretus esset,aspirus esset,aspirus esset,He/she/it would have been breatheed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,aspirati essent,aspireti essent,aspiri essent,aspiri essent,They would have been breatheed

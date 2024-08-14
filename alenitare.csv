@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,alenito,aleniteo,alenito,alenitio,I breathe
+Active Indicative,Present,1st Person,Plural,alenitamus,alenitemus,alenitimus,alenitimus,We breathe
+Active Indicative,Present,2nd Person,Singular,alenitas,alenites,alenitis,alenitis,You breathe
+Active Indicative,Present,2nd Person,Plural,alenitatis,alenitetis,alenititis,alenititis,You (pl.) breathe
+Active Indicative,Present,3rd Person,Singular,alenitat,alenitet,alenitit,alenitit,He/she/it breathe
+Active Indicative,Present,3rd Person,Plural,alenitant,alenitent,alenitiunt,alenitiunt,They breathe
+Active Indicative,Imperfect,1st Person,Singular,alenitabam,alenitebam,alenitebam,alenitiebam,I was breatheing
+Active Indicative,Imperfect,1st Person,Plural,alenitabamus,alenitebamus,alenitebamus,alenitiebamus,We were breatheing
+Active Indicative,Imperfect,2nd Person,Singular,alenitabas,alenitebas,alenitebas,alenitiebas,You were breatheing
+Active Indicative,Imperfect,2nd Person,Plural,alenitabatis,alenitebatis,alenitebatis,alenitiebatis,You (pl.) were breatheing
+Active Indicative,Imperfect,3rd Person,Singular,alenitabat,alenitebat,alenitebat,alenitiebat,He/she/it was breatheing
+Active Indicative,Imperfect,3rd Person,Plural,alenitabant,alenitebant,alenitebant,alenitiebant,They were breatheing
+Active Indicative,Future,1st Person,Singular,alenitabo,alenitebo,alenitam,alenitiam,I will breathe
+Active Indicative,Future,1st Person,Plural,alenitabimus,alenitebimus,alenitemus,alenitiemus,We will breathe
+Active Indicative,Future,2nd Person,Singular,alenitabis,alenitebis,alenites,alenities,You will breathe
+Active Indicative,Future,2nd Person,Plural,alenitabitis,alenitebitis,alenitetis,alenitietis,You (pl.) will breathe
+Active Indicative,Future,3rd Person,Singular,alenitabit,alenitebit,alenitet,alenitiet,He/she/it will breathe
+Active Indicative,Future,3rd Person,Plural,alenitabunt,alenitebunt,alenitent,alenitient,They will breathe
+Active Indicative,Perfect,1st Person,Singular,alenitavi,alenitui,aleniti,aleniti,I have breatheed
+Active Indicative,Perfect,1st Person,Plural,alenitavimus,alenituimus,alenitimus,alenitimus,We have breatheed
+Active Indicative,Perfect,2nd Person,Singular,alenitavisti,alenituisti,alenitisti,alenitisti,You have breatheed
+Active Indicative,Perfect,2nd Person,Plural,alenitavistis,alenituistis,alenitistis,alenitistis,You (pl.) have breatheed
+Active Indicative,Perfect,3rd Person,Singular,alenitavit,alenituit,alenitit,alenitit,He/she/it has breatheed
+Active Indicative,Perfect,3rd Person,Plural,alenitaverunt,alenituerunt,aleniterunt,aleniterunt,They have breatheed
+Active Indicative,Pluperfect,1st Person,Singular,alenitaveram,alenitueram,aleniteram,aleniteram,I had breatheed
+Active Indicative,Pluperfect,1st Person,Plural,alenitaveramus,alenitueramus,aleniteramus,aleniteramus,We had breatheed
+Active Indicative,Pluperfect,2nd Person,Singular,alenitaveras,alenitueras,aleniteras,aleniteras,You had breatheed
+Active Indicative,Pluperfect,2nd Person,Plural,alenitaveratis,alenitueratis,aleniteratis,aleniteratis,You (pl.) had breatheed
+Active Indicative,Pluperfect,3rd Person,Singular,alenitaverat,alenituerat,aleniterat,aleniterat,He/she/it had breatheed
+Active Indicative,Pluperfect,3rd Person,Plural,alenitaverant,alenituerant,aleniterant,aleniterant,They had breatheed
+Active Indicative,Future Perfect,1st Person,Singular,alenitavero,alenitueero,alenitero,alenitiero,I will have breatheed
+Active Indicative,Future Perfect,1st Person,Plural,alenitaverimus,alenituerimus,aleniterimus,alenitierimus,We will have breatheed
+Active Indicative,Future Perfect,2nd Person,Singular,alenitaveris,alenitueris,aleniteris,alenitieris,You will have breatheed
+Active Indicative,Future Perfect,2nd Person,Plural,alenitaveritis,alenitueritis,aleniteritis,alenitieritis,You (pl.) will have breatheed
+Active Indicative,Future Perfect,3rd Person,Singular,alenitaverit,alenituerit,aleniterit,alenitierit,He/she/it will have breatheed
+Active Indicative,Future Perfect,3rd Person,Plural,alenitaverint,alenituerint,aleniterint,alenitierint,They will have breatheed
+Passive Indicative,Present,1st Person,Singular,alenitor,aleniteor,alenitor,alenitior,I am being breatheed
+Passive Indicative,Present,1st Person,Plural,alenitamur,alenitemur,alenitimur,alenitimur,We are being breatheed
+Passive Indicative,Present,2nd Person,Singular,alenitaris,aleniteris,alenitiris,alenitiris,You are being breatheed
+Passive Indicative,Present,2nd Person,Plural,alenitamini,alenitemini,alenitimini,alenitimini,You (pl.) are being breatheed
+Passive Indicative,Present,3rd Person,Singular,alenitatur,alenitetur,alenititur,alenititur,He/she/it is being breatheed
+Passive Indicative,Present,3rd Person,Plural,alenitantur,alenitentur,alenitiuntur,alenitiuntur,They are being breatheed
+Passive Indicative,Imperfect,1st Person,Singular,alenitabar,alenitebar,alenitebar,alenitiebar,I was breatheed
+Passive Indicative,Imperfect,1st Person,Plural,alenitabamur,alenitebamur,alenitebamur,alenitiebamur,We were breatheed
+Passive Indicative,Imperfect,2nd Person,Singular,alenitabaris,alenitebaris,alenitebaris,alenitiebaris,You were breatheed
+Passive Indicative,Imperfect,2nd Person,Plural,alenitabamini,alenitebamini,alenitebamini,alenitiebamini,You (pl.) were breatheed
+Passive Indicative,Imperfect,3rd Person,Singular,alenitabatur,alenitebatur,alenitebatur,alenitiebatur,He/she/it was breatheed
+Passive Indicative,Imperfect,3rd Person,Plural,alenitabantur,alenitebantur,alenitebantur,alenitiebantur,They were breatheed
+Passive Indicative,Future,1st Person,Singular,alenitabor,alenitebor,alenitar,alenitiar,I will be breatheed
+Passive Indicative,Future,1st Person,Plural,alenitabimur,alenitebimur,alenitemur,alenitiemur,We will be breatheed
+Passive Indicative,Future,2nd Person,Singular,alenitaberis,aleniteberis,aleniteris,alenitieris,You will be breatheed
+Passive Indicative,Future,2nd Person,Plural,alenitabimini,alenitebimini,alenitemini,alenitiemini,You (pl.) will be breatheed
+Passive Indicative,Future,3rd Person,Singular,alenitabitur,alenitebitur,alenitetur,alenitietur,He/she/it will be breatheed
+Passive Indicative,Future,3rd Person,Plural,alenitabuntur,alenitebuntur,alenitentur,alenitientur,They will be breatheed
+Passive Indicative,Perfect,1st Person,Singular,alenitatus sum,alenitetus sum,alenitus sum,alenitus sum,I have been breatheed
+Passive Indicative,Perfect,1st Person,Plural,alenitati sumus,aleniteti sumus,aleniti sumus,aleniti sumus,We have been breatheed
+Passive Indicative,Perfect,2nd Person,Singular,alenitatus es,alenitetus es,alenitus es,alenitus es,You have been breatheed
+Passive Indicative,Perfect,2nd Person,Plural,alenitati estis,aleniteti estis,aleniti estis,aleniti estis,You (pl.) have been breatheed
+Passive Indicative,Perfect,3rd Person,Singular,alenitatus est,alenitetus est,alenitus est,alenitus est,He/she/it has been breatheed
+Passive Indicative,Perfect,3rd Person,Plural,alenitati sunt,aleniteti sunt,aleniti sunt,aleniti sunt,They have been breatheed
+Passive Indicative,Pluperfect,1st Person,Singular,alenitatus eram,alenitetus eram,alenitus eram,alenitus eram,I had been breatheed
+Passive Indicative,Pluperfect,1st Person,Plural,alenitati eramus,aleniteti eramus,aleniti eramus,aleniti eramus,We had been breatheed
+Passive Indicative,Pluperfect,2nd Person,Singular,alenitatus eras,alenitetus eras,alenitus eras,alenitus eras,You had been breatheed
+Passive Indicative,Pluperfect,2nd Person,Plural,alenitati eratis,aleniteti eratis,aleniti eratis,aleniti eratis,You (pl.) had been breatheed
+Passive Indicative,Pluperfect,3rd Person,Singular,alenitatus erat,alenitetus erat,alenitus erat,alenitus erat,He/she/it had been breatheed
+Passive Indicative,Pluperfect,3rd Person,Plural,alenitati erant,aleniteti erant,aleniti erant,aleniti erant,They had been breatheed
+Passive Indicative,Future Perfect,1st Person,Singular,alenitatus ero,alenitetus ero,alenitus ero,alenitus ero,I will have been breatheed
+Passive Indicative,Future Perfect,1st Person,Plural,alenitati erimus,aleniteti erimus,aleniti erimus,aleniti erimus,We will have been breatheed
+Passive Indicative,Future Perfect,2nd Person,Singular,alenitatus eris,alenitetus eris,alenitus eris,alenitus eris,You will have been breatheed
+Passive Indicative,Future Perfect,2nd Person,Plural,alenitati eritis,aleniteti eritis,aleniti eritis,aleniti eritis,You (pl.) will have been breatheed
+Passive Indicative,Future Perfect,3rd Person,Singular,alenitatus erit,alenitetus erit,alenitus erit,alenitus erit,He/she/it will have been breatheed
+Passive Indicative,Future Perfect,3rd Person,Plural,alenitati erunt,aleniteti erunt,aleniti erunt,aleniti erunt,They will have been breatheed
+Active Subjunctive,Present,1st Person,Singular,alenitem,alenitem,alenitam,alenitam,I may breathe
+Active Subjunctive,Present,1st Person,Plural,alenitemus,alenitemus,alenitamus,alenitamus,We may breathe
+Active Subjunctive,Present,2nd Person,Singular,alenites,alenites,alenitas,alenitas,You may breathe
+Active Subjunctive,Present,2nd Person,Plural,alenitetis,alenitetis,alenitatis,alenitatis,You (pl.) may breathe
+Active Subjunctive,Present,3rd Person,Singular,alenitet,alenitet,alenitat,alenitat,He/she/it may breathe
+Active Subjunctive,Present,3rd Person,Plural,alenitent,alenitent,alenitant,alenitant,They may breathe
+Active Subjunctive,Imperfect,1st Person,Singular,alenitarem,aleniterem,aleniterem,alenitirem,I should breathe
+Active Subjunctive,Imperfect,1st Person,Plural,alenitaremus,aleniteremus,aleniteremus,alenitiremus,We should breathe
+Active Subjunctive,Imperfect,2nd Person,Singular,alenitares,aleniteres,aleniteres,alenitires,You should breathe
+Active Subjunctive,Imperfect,2nd Person,Plural,alenitaretis,aleniteretis,aleniteretis,alenitiretis,You (pl.) should breathe
+Active Subjunctive,Imperfect,3rd Person,Singular,alenitaret,aleniteret,aleniteret,alenitiret,He/she/it should breathe
+Active Subjunctive,Imperfect,3rd Person,Plural,alenitarent,aleniterent,aleniterent,alenitirent,They should breathe
+Active Subjunctive,Perfect,1st Person,Singular,aleniterim,alenituerim,aleniterim,alenitierim,I may have breatheed
+Active Subjunctive,Perfect,1st Person,Plural,aleniterimus,alenituerimus,aleniterimus,alenitierimus,We may have breatheed
+Active Subjunctive,Perfect,2nd Person,Singular,aleniteris,alenitueris,aleniteris,alenitieris,You may have breatheed
+Active Subjunctive,Perfect,2nd Person,Plural,aleniteritis,alenitueritis,aleniteritis,alenitieritis,You (pl.) may have breatheed
+Active Subjunctive,Perfect,3rd Person,Singular,aleniterit,alenituerit,aleniterit,alenitierit,He/she/it may have breatheed
+Active Subjunctive,Perfect,3rd Person,Plural,aleniterint,alenituerint,aleniterint,alenitierint,They may have breatheed
+Active Subjunctive,Pluperfect,1st Person,Singular,alenitissem,alenituissem,alenitissem,alenitissem,I should have breatheed
+Active Subjunctive,Pluperfect,1st Person,Plural,alenitissemus,alenituissemus,alenitissemus,alenitissemus,We should have breatheed
+Active Subjunctive,Pluperfect,2nd Person,Singular,alenitisses,alenituisses,alenitisses,alenitisses,You would have breatheed
+Active Subjunctive,Pluperfect,2nd Person,Plural,alenitissetis,alenituissetis,alenitissetis,alenitissetis,You (pl.) would have breatheed
+Active Subjunctive,Pluperfect,3rd Person,Singular,alenitisset,alenituisset,alenitisset,alenitisset,He/she/it would have breatheed
+Active Subjunctive,Pluperfect,3rd Person,Plural,alenitissent,alenituissent,alenitissent,alenitissent,They would have breatheed
+Passive Subjunctive,Present,1st Person,Singular,aleniter,aleniter,alenitar,alenitar,I may be breatheed
+Passive Subjunctive,Present,1st Person,Plural,alenitemur,alenitemur,alenitamur,alenitamur,We may be breatheed
+Passive Subjunctive,Present,2nd Person,Singular,aleniteris,aleniteris,alenitaris,alenitaris,You may be breatheed
+Passive Subjunctive,Present,2nd Person,Plural,alenitemini,alenitemini,alenitamini,alenitamini,You (pl.) may be breatheed
+Passive Subjunctive,Present,3rd Person,Singular,alenitetur,alenitetur,alenitatur,alenitatur,He/she/it may be breatheed
+Passive Subjunctive,Present,3rd Person,Plural,alenitentur,alenitentur,alenitantur,alenitantur,They may be breatheed
+Passive Subjunctive,Imperfect,1st Person,Singular,alenitarer,aleniterer,aleniterer,alenitirer,I should be breatheed
+Passive Subjunctive,Imperfect,1st Person,Plural,alenitaremur,aleniteremur,aleniteremur,alenitiremur,We should be breatheed
+Passive Subjunctive,Imperfect,2nd Person,Singular,alenitareris,alenitereris,alenitereris,alenitireris,You would be breatheed
+Passive Subjunctive,Imperfect,2nd Person,Plural,alenitaremini,aleniteremini,aleniteremini,alenitiremini,You (pl.) would be breatheed
+Passive Subjunctive,Imperfect,3rd Person,Singular,alenitaretur,aleniteretur,aleniteretur,alenitiretur,He/she/it would be breatheed
+Passive Subjunctive,Imperfect,3rd Person,Plural,alenitarentur,aleniterentur,aleniterentur,alenitirentur,They would be breatheed
+Passive Subjunctive,Perfect,1st Person,Singular,alenitatus sim,alenitetus sim,alenitus sim,alenitus sim,I may have been breatheed
+Passive Subjunctive,Perfect,1st Person,Plural,alenitati simus,aleniteti simus,aleniti simus,aleniti simus,We may have been breatheed
+Passive Subjunctive,Perfect,2nd Person,Singular,alenitatus sis,alenitetus sis,alenitus sis,alenitus sis,You may have been breatheed
+Passive Subjunctive,Perfect,2nd Person,Plural,alenitati sitis,aleniteti sitis,aleniti sitis,aleniti sitis,You (pl.) may have been breatheed
+Passive Subjunctive,Perfect,3rd Person,Singular,alenitatus sit,alenitetus sit,alenitus sit,alenitus sit,He/she/it may have been breatheed
+Passive Subjunctive,Perfect,3rd Person,Plural,alenitati sint,aleniteti sint,aleniti sint,aleniti sint,They may have been breatheed
+Passive Subjunctive,Pluperfect,1st Person,Singular,alenitatus essem,alenitetus essem,alenitus essem,alenitus essem,I should have been breatheed
+Passive Subjunctive,Pluperfect,1st Person,Plural,alenitati essemus,aleniteti essemus,aleniti essemus,aleniti essemus,We should have been breatheed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,alenitatus esses,alenitetus esses,alenitus esses,alenitus esses,You would have been breatheed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,alenitati essetis,aleniteti essetis,aleniti essetis,aleniti essetis,You (pl.) would have been breatheed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,alenitatus esset,alenitetus esset,alenitus esset,alenitus esset,He/she/it would have been breatheed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,alenitati essent,aleniteti essent,aleniti essent,aleniti essent,They would have been breatheed

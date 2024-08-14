@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,cammino,cammineo,cammino,camminio,I walk
+Active Indicative,Present,1st Person,Plural,camminamus,camminemus,camminimus,camminimus,We walk
+Active Indicative,Present,2nd Person,Singular,camminas,cammines,camminis,camminis,You walk
+Active Indicative,Present,2nd Person,Plural,camminatis,camminetis,camminitis,camminitis,You (pl.) walk
+Active Indicative,Present,3rd Person,Singular,camminat,camminet,camminit,camminit,He/she/it walk
+Active Indicative,Present,3rd Person,Plural,camminant,camminent,camminiunt,camminiunt,They walk
+Active Indicative,Imperfect,1st Person,Singular,camminabam,camminebam,camminebam,camminiebam,I was walking
+Active Indicative,Imperfect,1st Person,Plural,camminabamus,camminebamus,camminebamus,camminiebamus,We were walking
+Active Indicative,Imperfect,2nd Person,Singular,camminabas,camminebas,camminebas,camminiebas,You were walking
+Active Indicative,Imperfect,2nd Person,Plural,camminabatis,camminebatis,camminebatis,camminiebatis,You (pl.) were walking
+Active Indicative,Imperfect,3rd Person,Singular,camminabat,camminebat,camminebat,camminiebat,He/she/it was walking
+Active Indicative,Imperfect,3rd Person,Plural,camminabant,camminebant,camminebant,camminiebant,They were walking
+Active Indicative,Future,1st Person,Singular,camminabo,camminebo,camminam,camminiam,I will walk
+Active Indicative,Future,1st Person,Plural,camminabimus,camminebimus,camminemus,camminiemus,We will walk
+Active Indicative,Future,2nd Person,Singular,camminabis,camminebis,cammines,camminies,You will walk
+Active Indicative,Future,2nd Person,Plural,camminabitis,camminebitis,camminetis,camminietis,You (pl.) will walk
+Active Indicative,Future,3rd Person,Singular,camminabit,camminebit,camminet,camminiet,He/she/it will walk
+Active Indicative,Future,3rd Person,Plural,camminabunt,camminebunt,camminent,camminient,They will walk
+Active Indicative,Perfect,1st Person,Singular,camminavi,camminui,cammini,cammini,I have walked
+Active Indicative,Perfect,1st Person,Plural,camminavimus,camminuimus,camminimus,camminimus,We have walked
+Active Indicative,Perfect,2nd Person,Singular,camminavisti,camminuisti,camministi,camministi,You have walked
+Active Indicative,Perfect,2nd Person,Plural,camminavistis,camminuistis,camministis,camministis,You (pl.) have walked
+Active Indicative,Perfect,3rd Person,Singular,camminavit,camminuit,camminit,camminit,He/she/it has walked
+Active Indicative,Perfect,3rd Person,Plural,camminaverunt,camminuerunt,camminerunt,camminerunt,They have walked
+Active Indicative,Pluperfect,1st Person,Singular,camminaveram,camminueram,cammineram,cammineram,I had walked
+Active Indicative,Pluperfect,1st Person,Plural,camminaveramus,camminueramus,cammineramus,cammineramus,We had walked
+Active Indicative,Pluperfect,2nd Person,Singular,camminaveras,camminueras,cammineras,cammineras,You had walked
+Active Indicative,Pluperfect,2nd Person,Plural,camminaveratis,camminueratis,cammineratis,cammineratis,You (pl.) had walked
+Active Indicative,Pluperfect,3rd Person,Singular,camminaverat,camminuerat,camminerat,camminerat,He/she/it had walked
+Active Indicative,Pluperfect,3rd Person,Plural,camminaverant,camminuerant,camminerant,camminerant,They had walked
+Active Indicative,Future Perfect,1st Person,Singular,camminavero,camminueero,camminero,camminiero,I will have walked
+Active Indicative,Future Perfect,1st Person,Plural,camminaverimus,camminuerimus,camminerimus,camminierimus,We will have walked
+Active Indicative,Future Perfect,2nd Person,Singular,camminaveris,camminueris,cammineris,camminieris,You will have walked
+Active Indicative,Future Perfect,2nd Person,Plural,camminaveritis,camminueritis,cammineritis,camminieritis,You (pl.) will have walked
+Active Indicative,Future Perfect,3rd Person,Singular,camminaverit,camminuerit,camminerit,camminierit,He/she/it will have walked
+Active Indicative,Future Perfect,3rd Person,Plural,camminaverint,camminuerint,camminerint,camminierint,They will have walked
+Passive Indicative,Present,1st Person,Singular,camminor,cammineor,camminor,camminior,I am being walked
+Passive Indicative,Present,1st Person,Plural,camminamur,camminemur,camminimur,camminimur,We are being walked
+Passive Indicative,Present,2nd Person,Singular,camminaris,cammineris,camminiris,camminiris,You are being walked
+Passive Indicative,Present,2nd Person,Plural,camminamini,camminemini,camminimini,camminimini,You (pl.) are being walked
+Passive Indicative,Present,3rd Person,Singular,camminatur,camminetur,camminitur,camminitur,He/she/it is being walked
+Passive Indicative,Present,3rd Person,Plural,camminantur,camminentur,camminiuntur,camminiuntur,They are being walked
+Passive Indicative,Imperfect,1st Person,Singular,camminabar,camminebar,camminebar,camminiebar,I was walked
+Passive Indicative,Imperfect,1st Person,Plural,camminabamur,camminebamur,camminebamur,camminiebamur,We were walked
+Passive Indicative,Imperfect,2nd Person,Singular,camminabaris,camminebaris,camminebaris,camminiebaris,You were walked
+Passive Indicative,Imperfect,2nd Person,Plural,camminabamini,camminebamini,camminebamini,camminiebamini,You (pl.) were walked
+Passive Indicative,Imperfect,3rd Person,Singular,camminabatur,camminebatur,camminebatur,camminiebatur,He/she/it was walked
+Passive Indicative,Imperfect,3rd Person,Plural,camminabantur,camminebantur,camminebantur,camminiebantur,They were walked
+Passive Indicative,Future,1st Person,Singular,camminabor,camminebor,camminar,camminiar,I will be walked
+Passive Indicative,Future,1st Person,Plural,camminabimur,camminebimur,camminemur,camminiemur,We will be walked
+Passive Indicative,Future,2nd Person,Singular,camminaberis,cammineberis,cammineris,camminieris,You will be walked
+Passive Indicative,Future,2nd Person,Plural,camminabimini,camminebimini,camminemini,camminiemini,You (pl.) will be walked
+Passive Indicative,Future,3rd Person,Singular,camminabitur,camminebitur,camminetur,camminietur,He/she/it will be walked
+Passive Indicative,Future,3rd Person,Plural,camminabuntur,camminebuntur,camminentur,camminientur,They will be walked
+Passive Indicative,Perfect,1st Person,Singular,camminatus sum,camminetus sum,camminus sum,camminus sum,I have been walked
+Passive Indicative,Perfect,1st Person,Plural,camminati sumus,cammineti sumus,cammini sumus,cammini sumus,We have been walked
+Passive Indicative,Perfect,2nd Person,Singular,camminatus es,camminetus es,camminus es,camminus es,You have been walked
+Passive Indicative,Perfect,2nd Person,Plural,camminati estis,cammineti estis,cammini estis,cammini estis,You (pl.) have been walked
+Passive Indicative,Perfect,3rd Person,Singular,camminatus est,camminetus est,camminus est,camminus est,He/she/it has been walked
+Passive Indicative,Perfect,3rd Person,Plural,camminati sunt,cammineti sunt,cammini sunt,cammini sunt,They have been walked
+Passive Indicative,Pluperfect,1st Person,Singular,camminatus eram,camminetus eram,camminus eram,camminus eram,I had been walked
+Passive Indicative,Pluperfect,1st Person,Plural,camminati eramus,cammineti eramus,cammini eramus,cammini eramus,We had been walked
+Passive Indicative,Pluperfect,2nd Person,Singular,camminatus eras,camminetus eras,camminus eras,camminus eras,You had been walked
+Passive Indicative,Pluperfect,2nd Person,Plural,camminati eratis,cammineti eratis,cammini eratis,cammini eratis,You (pl.) had been walked
+Passive Indicative,Pluperfect,3rd Person,Singular,camminatus erat,camminetus erat,camminus erat,camminus erat,He/she/it had been walked
+Passive Indicative,Pluperfect,3rd Person,Plural,camminati erant,cammineti erant,cammini erant,cammini erant,They had been walked
+Passive Indicative,Future Perfect,1st Person,Singular,camminatus ero,camminetus ero,camminus ero,camminus ero,I will have been walked
+Passive Indicative,Future Perfect,1st Person,Plural,camminati erimus,cammineti erimus,cammini erimus,cammini erimus,We will have been walked
+Passive Indicative,Future Perfect,2nd Person,Singular,camminatus eris,camminetus eris,camminus eris,camminus eris,You will have been walked
+Passive Indicative,Future Perfect,2nd Person,Plural,camminati eritis,cammineti eritis,cammini eritis,cammini eritis,You (pl.) will have been walked
+Passive Indicative,Future Perfect,3rd Person,Singular,camminatus erit,camminetus erit,camminus erit,camminus erit,He/she/it will have been walked
+Passive Indicative,Future Perfect,3rd Person,Plural,camminati erunt,cammineti erunt,cammini erunt,cammini erunt,They will have been walked
+Active Subjunctive,Present,1st Person,Singular,camminem,camminem,camminam,camminam,I may walk
+Active Subjunctive,Present,1st Person,Plural,camminemus,camminemus,camminamus,camminamus,We may walk
+Active Subjunctive,Present,2nd Person,Singular,cammines,cammines,camminas,camminas,You may walk
+Active Subjunctive,Present,2nd Person,Plural,camminetis,camminetis,camminatis,camminatis,You (pl.) may walk
+Active Subjunctive,Present,3rd Person,Singular,camminet,camminet,camminat,camminat,He/she/it may walk
+Active Subjunctive,Present,3rd Person,Plural,camminent,camminent,camminant,camminant,They may walk
+Active Subjunctive,Imperfect,1st Person,Singular,camminarem,camminerem,camminerem,camminirem,I should walk
+Active Subjunctive,Imperfect,1st Person,Plural,camminaremus,cammineremus,cammineremus,camminiremus,We should walk
+Active Subjunctive,Imperfect,2nd Person,Singular,camminares,cammineres,cammineres,camminires,You should walk
+Active Subjunctive,Imperfect,2nd Person,Plural,camminaretis,cammineretis,cammineretis,camminiretis,You (pl.) should walk
+Active Subjunctive,Imperfect,3rd Person,Singular,camminaret,cammineret,cammineret,camminiret,He/she/it should walk
+Active Subjunctive,Imperfect,3rd Person,Plural,camminarent,camminerent,camminerent,camminirent,They should walk
+Active Subjunctive,Perfect,1st Person,Singular,camminerim,camminuerim,camminerim,camminierim,I may have walked
+Active Subjunctive,Perfect,1st Person,Plural,camminerimus,camminuerimus,camminerimus,camminierimus,We may have walked
+Active Subjunctive,Perfect,2nd Person,Singular,cammineris,camminueris,cammineris,camminieris,You may have walked
+Active Subjunctive,Perfect,2nd Person,Plural,cammineritis,camminueritis,cammineritis,camminieritis,You (pl.) may have walked
+Active Subjunctive,Perfect,3rd Person,Singular,camminerit,camminuerit,camminerit,camminierit,He/she/it may have walked
+Active Subjunctive,Perfect,3rd Person,Plural,camminerint,camminuerint,camminerint,camminierint,They may have walked
+Active Subjunctive,Pluperfect,1st Person,Singular,camminissem,camminuissem,camminissem,camminissem,I should have walked
+Active Subjunctive,Pluperfect,1st Person,Plural,camminissemus,camminuissemus,camminissemus,camminissemus,We should have walked
+Active Subjunctive,Pluperfect,2nd Person,Singular,camminisses,camminuisses,camminisses,camminisses,You would have walked
+Active Subjunctive,Pluperfect,2nd Person,Plural,camminissetis,camminuissetis,camminissetis,camminissetis,You (pl.) would have walked
+Active Subjunctive,Pluperfect,3rd Person,Singular,camminisset,camminuisset,camminisset,camminisset,He/she/it would have walked
+Active Subjunctive,Pluperfect,3rd Person,Plural,camminissent,camminuissent,camminissent,camminissent,They would have walked
+Passive Subjunctive,Present,1st Person,Singular,camminer,camminer,camminar,camminar,I may be walked
+Passive Subjunctive,Present,1st Person,Plural,camminemur,camminemur,camminamur,camminamur,We may be walked
+Passive Subjunctive,Present,2nd Person,Singular,cammineris,cammineris,camminaris,camminaris,You may be walked
+Passive Subjunctive,Present,2nd Person,Plural,camminemini,camminemini,camminamini,camminamini,You (pl.) may be walked
+Passive Subjunctive,Present,3rd Person,Singular,camminetur,camminetur,camminatur,camminatur,He/she/it may be walked
+Passive Subjunctive,Present,3rd Person,Plural,camminentur,camminentur,camminantur,camminantur,They may be walked
+Passive Subjunctive,Imperfect,1st Person,Singular,camminarer,camminerer,camminerer,camminirer,I should be walked
+Passive Subjunctive,Imperfect,1st Person,Plural,camminaremur,cammineremur,cammineremur,camminiremur,We should be walked
+Passive Subjunctive,Imperfect,2nd Person,Singular,camminareris,camminereris,camminereris,camminireris,You would be walked
+Passive Subjunctive,Imperfect,2nd Person,Plural,camminaremini,cammineremini,cammineremini,camminiremini,You (pl.) would be walked
+Passive Subjunctive,Imperfect,3rd Person,Singular,camminaretur,cammineretur,cammineretur,camminiretur,He/she/it would be walked
+Passive Subjunctive,Imperfect,3rd Person,Plural,camminarentur,camminerentur,camminerentur,camminirentur,They would be walked
+Passive Subjunctive,Perfect,1st Person,Singular,camminatus sim,camminetus sim,camminus sim,camminus sim,I may have been walked
+Passive Subjunctive,Perfect,1st Person,Plural,camminati simus,cammineti simus,cammini simus,cammini simus,We may have been walked
+Passive Subjunctive,Perfect,2nd Person,Singular,camminatus sis,camminetus sis,camminus sis,camminus sis,You may have been walked
+Passive Subjunctive,Perfect,2nd Person,Plural,camminati sitis,cammineti sitis,cammini sitis,cammini sitis,You (pl.) may have been walked
+Passive Subjunctive,Perfect,3rd Person,Singular,camminatus sit,camminetus sit,camminus sit,camminus sit,He/she/it may have been walked
+Passive Subjunctive,Perfect,3rd Person,Plural,camminati sint,cammineti sint,cammini sint,cammini sint,They may have been walked
+Passive Subjunctive,Pluperfect,1st Person,Singular,camminatus essem,camminetus essem,camminus essem,camminus essem,I should have been walked
+Passive Subjunctive,Pluperfect,1st Person,Plural,camminati essemus,cammineti essemus,cammini essemus,cammini essemus,We should have been walked
+Passive Subjunctive,Pluperfect,2nd Person,Singular,camminatus esses,camminetus esses,camminus esses,camminus esses,You would have been walked
+Passive Subjunctive,Pluperfect,2nd Person,Plural,camminati essetis,cammineti essetis,cammini essetis,cammini essetis,You (pl.) would have been walked
+Passive Subjunctive,Pluperfect,3rd Person,Singular,camminatus esset,camminetus esset,camminus esset,camminus esset,He/she/it would have been walked
+Passive Subjunctive,Pluperfect,3rd Person,Plural,camminati essent,cammineti essent,cammini essent,cammini essent,They would have been walked

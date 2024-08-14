@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,abbello,abbelleo,abbello,abbellio,I embellish
+Active Indicative,Present,1st Person,Plural,abbellamus,abbellemus,abbellimus,abbellimus,We embellish
+Active Indicative,Present,2nd Person,Singular,abbellas,abbelles,abbellis,abbellis,You embellish
+Active Indicative,Present,2nd Person,Plural,abbellatis,abbelletis,abbellitis,abbellitis,You (pl.) embellish
+Active Indicative,Present,3rd Person,Singular,abbellat,abbellet,abbellit,abbellit,He/she/it embellish
+Active Indicative,Present,3rd Person,Plural,abbellant,abbellent,abbelliunt,abbelliunt,They embellish
+Active Indicative,Imperfect,1st Person,Singular,abbellabam,abbellebam,abbellebam,abbelliebam,I was embellishing
+Active Indicative,Imperfect,1st Person,Plural,abbellabamus,abbellebamus,abbellebamus,abbelliebamus,We were embellishing
+Active Indicative,Imperfect,2nd Person,Singular,abbellabas,abbellebas,abbellebas,abbelliebas,You were embellishing
+Active Indicative,Imperfect,2nd Person,Plural,abbellabatis,abbellebatis,abbellebatis,abbelliebatis,You (pl.) were embellishing
+Active Indicative,Imperfect,3rd Person,Singular,abbellabat,abbellebat,abbellebat,abbelliebat,He/she/it was embellishing
+Active Indicative,Imperfect,3rd Person,Plural,abbellabant,abbellebant,abbellebant,abbelliebant,They were embellishing
+Active Indicative,Future,1st Person,Singular,abbellabo,abbellebo,abbellam,abbelliam,I will embellish
+Active Indicative,Future,1st Person,Plural,abbellabimus,abbellebimus,abbellemus,abbelliemus,We will embellish
+Active Indicative,Future,2nd Person,Singular,abbellabis,abbellebis,abbelles,abbellies,You will embellish
+Active Indicative,Future,2nd Person,Plural,abbellabitis,abbellebitis,abbelletis,abbellietis,You (pl.) will embellish
+Active Indicative,Future,3rd Person,Singular,abbellabit,abbellebit,abbellet,abbelliet,He/she/it will embellish
+Active Indicative,Future,3rd Person,Plural,abbellabunt,abbellebunt,abbellent,abbellient,They will embellish
+Active Indicative,Perfect,1st Person,Singular,abbellavi,abbellui,abbelli,abbelli,I have embellished
+Active Indicative,Perfect,1st Person,Plural,abbellavimus,abbelluimus,abbellimus,abbellimus,We have embellished
+Active Indicative,Perfect,2nd Person,Singular,abbellavisti,abbelluisti,abbellisti,abbellisti,You have embellished
+Active Indicative,Perfect,2nd Person,Plural,abbellavistis,abbelluistis,abbellistis,abbellistis,You (pl.) have embellished
+Active Indicative,Perfect,3rd Person,Singular,abbellavit,abbelluit,abbellit,abbellit,He/she/it has embellished
+Active Indicative,Perfect,3rd Person,Plural,abbellaverunt,abbelluerunt,abbellerunt,abbellerunt,They have embellished
+Active Indicative,Pluperfect,1st Person,Singular,abbellaveram,abbellueram,abbelleram,abbelleram,I had embellished
+Active Indicative,Pluperfect,1st Person,Plural,abbellaveramus,abbellueramus,abbelleramus,abbelleramus,We had embellished
+Active Indicative,Pluperfect,2nd Person,Singular,abbellaveras,abbellueras,abbelleras,abbelleras,You had embellished
+Active Indicative,Pluperfect,2nd Person,Plural,abbellaveratis,abbellueratis,abbelleratis,abbelleratis,You (pl.) had embellished
+Active Indicative,Pluperfect,3rd Person,Singular,abbellaverat,abbelluerat,abbellerat,abbellerat,He/she/it had embellished
+Active Indicative,Pluperfect,3rd Person,Plural,abbellaverant,abbelluerant,abbellerant,abbellerant,They had embellished
+Active Indicative,Future Perfect,1st Person,Singular,abbellavero,abbellueero,abbellero,abbelliero,I will have embellished
+Active Indicative,Future Perfect,1st Person,Plural,abbellaverimus,abbelluerimus,abbellerimus,abbellierimus,We will have embellished
+Active Indicative,Future Perfect,2nd Person,Singular,abbellaveris,abbellueris,abbelleris,abbellieris,You will have embellished
+Active Indicative,Future Perfect,2nd Person,Plural,abbellaveritis,abbellueritis,abbelleritis,abbellieritis,You (pl.) will have embellished
+Active Indicative,Future Perfect,3rd Person,Singular,abbellaverit,abbelluerit,abbellerit,abbellierit,He/she/it will have embellished
+Active Indicative,Future Perfect,3rd Person,Plural,abbellaverint,abbelluerint,abbellerint,abbellierint,They will have embellished
+Passive Indicative,Present,1st Person,Singular,abbellor,abbelleor,abbellor,abbellior,I am being embellished
+Passive Indicative,Present,1st Person,Plural,abbellamur,abbellemur,abbellimur,abbellimur,We are being embellished
+Passive Indicative,Present,2nd Person,Singular,abbellaris,abbelleris,abbelliris,abbelliris,You are being embellished
+Passive Indicative,Present,2nd Person,Plural,abbellamini,abbellemini,abbellimini,abbellimini,You (pl.) are being embellished
+Passive Indicative,Present,3rd Person,Singular,abbellatur,abbelletur,abbellitur,abbellitur,He/she/it is being embellished
+Passive Indicative,Present,3rd Person,Plural,abbellantur,abbellentur,abbelliuntur,abbelliuntur,They are being embellished
+Passive Indicative,Imperfect,1st Person,Singular,abbellabar,abbellebar,abbellebar,abbelliebar,I was embellished
+Passive Indicative,Imperfect,1st Person,Plural,abbellabamur,abbellebamur,abbellebamur,abbelliebamur,We were embellished
+Passive Indicative,Imperfect,2nd Person,Singular,abbellabaris,abbellebaris,abbellebaris,abbelliebaris,You were embellished
+Passive Indicative,Imperfect,2nd Person,Plural,abbellabamini,abbellebamini,abbellebamini,abbelliebamini,You (pl.) were embellished
+Passive Indicative,Imperfect,3rd Person,Singular,abbellabatur,abbellebatur,abbellebatur,abbelliebatur,He/she/it was embellished
+Passive Indicative,Imperfect,3rd Person,Plural,abbellabantur,abbellebantur,abbellebantur,abbelliebantur,They were embellished
+Passive Indicative,Future,1st Person,Singular,abbellabor,abbellebor,abbellar,abbelliar,I will be embellished
+Passive Indicative,Future,1st Person,Plural,abbellabimur,abbellebimur,abbellemur,abbelliemur,We will be embellished
+Passive Indicative,Future,2nd Person,Singular,abbellaberis,abbelleberis,abbelleris,abbellieris,You will be embellished
+Passive Indicative,Future,2nd Person,Plural,abbellabimini,abbellebimini,abbellemini,abbelliemini,You (pl.) will be embellished
+Passive Indicative,Future,3rd Person,Singular,abbellabitur,abbellebitur,abbelletur,abbellietur,He/she/it will be embellished
+Passive Indicative,Future,3rd Person,Plural,abbellabuntur,abbellebuntur,abbellentur,abbellientur,They will be embellished
+Passive Indicative,Perfect,1st Person,Singular,abbellatus sum,abbelletus sum,abbellus sum,abbellus sum,I have been embellished
+Passive Indicative,Perfect,1st Person,Plural,abbellati sumus,abbelleti sumus,abbelli sumus,abbelli sumus,We have been embellished
+Passive Indicative,Perfect,2nd Person,Singular,abbellatus es,abbelletus es,abbellus es,abbellus es,You have been embellished
+Passive Indicative,Perfect,2nd Person,Plural,abbellati estis,abbelleti estis,abbelli estis,abbelli estis,You (pl.) have been embellished
+Passive Indicative,Perfect,3rd Person,Singular,abbellatus est,abbelletus est,abbellus est,abbellus est,He/she/it has been embellished
+Passive Indicative,Perfect,3rd Person,Plural,abbellati sunt,abbelleti sunt,abbelli sunt,abbelli sunt,They have been embellished
+Passive Indicative,Pluperfect,1st Person,Singular,abbellatus eram,abbelletus eram,abbellus eram,abbellus eram,I had been embellished
+Passive Indicative,Pluperfect,1st Person,Plural,abbellati eramus,abbelleti eramus,abbelli eramus,abbelli eramus,We had been embellished
+Passive Indicative,Pluperfect,2nd Person,Singular,abbellatus eras,abbelletus eras,abbellus eras,abbellus eras,You had been embellished
+Passive Indicative,Pluperfect,2nd Person,Plural,abbellati eratis,abbelleti eratis,abbelli eratis,abbelli eratis,You (pl.) had been embellished
+Passive Indicative,Pluperfect,3rd Person,Singular,abbellatus erat,abbelletus erat,abbellus erat,abbellus erat,He/she/it had been embellished
+Passive Indicative,Pluperfect,3rd Person,Plural,abbellati erant,abbelleti erant,abbelli erant,abbelli erant,They had been embellished
+Passive Indicative,Future Perfect,1st Person,Singular,abbellatus ero,abbelletus ero,abbellus ero,abbellus ero,I will have been embellished
+Passive Indicative,Future Perfect,1st Person,Plural,abbellati erimus,abbelleti erimus,abbelli erimus,abbelli erimus,We will have been embellished
+Passive Indicative,Future Perfect,2nd Person,Singular,abbellatus eris,abbelletus eris,abbellus eris,abbellus eris,You will have been embellished
+Passive Indicative,Future Perfect,2nd Person,Plural,abbellati eritis,abbelleti eritis,abbelli eritis,abbelli eritis,You (pl.) will have been embellished
+Passive Indicative,Future Perfect,3rd Person,Singular,abbellatus erit,abbelletus erit,abbellus erit,abbellus erit,He/she/it will have been embellished
+Passive Indicative,Future Perfect,3rd Person,Plural,abbellati erunt,abbelleti erunt,abbelli erunt,abbelli erunt,They will have been embellished
+Active Subjunctive,Present,1st Person,Singular,abbellem,abbellem,abbellam,abbellam,I may embellish
+Active Subjunctive,Present,1st Person,Plural,abbellemus,abbellemus,abbellamus,abbellamus,We may embellish
+Active Subjunctive,Present,2nd Person,Singular,abbelles,abbelles,abbellas,abbellas,You may embellish
+Active Subjunctive,Present,2nd Person,Plural,abbelletis,abbelletis,abbellatis,abbellatis,You (pl.) may embellish
+Active Subjunctive,Present,3rd Person,Singular,abbellet,abbellet,abbellat,abbellat,He/she/it may embellish
+Active Subjunctive,Present,3rd Person,Plural,abbellent,abbellent,abbellant,abbellant,They may embellish
+Active Subjunctive,Imperfect,1st Person,Singular,abbellarem,abbellerem,abbellerem,abbellirem,I should embellish
+Active Subjunctive,Imperfect,1st Person,Plural,abbellaremus,abbelleremus,abbelleremus,abbelliremus,We should embellish
+Active Subjunctive,Imperfect,2nd Person,Singular,abbellares,abbelleres,abbelleres,abbellires,You should embellish
+Active Subjunctive,Imperfect,2nd Person,Plural,abbellaretis,abbelleretis,abbelleretis,abbelliretis,You (pl.) should embellish
+Active Subjunctive,Imperfect,3rd Person,Singular,abbellaret,abbelleret,abbelleret,abbelliret,He/she/it should embellish
+Active Subjunctive,Imperfect,3rd Person,Plural,abbellarent,abbellerent,abbellerent,abbellirent,They should embellish
+Active Subjunctive,Perfect,1st Person,Singular,abbellerim,abbelluerim,abbellerim,abbellierim,I may have embellished
+Active Subjunctive,Perfect,1st Person,Plural,abbellerimus,abbelluerimus,abbellerimus,abbellierimus,We may have embellished
+Active Subjunctive,Perfect,2nd Person,Singular,abbelleris,abbellueris,abbelleris,abbellieris,You may have embellished
+Active Subjunctive,Perfect,2nd Person,Plural,abbelleritis,abbellueritis,abbelleritis,abbellieritis,You (pl.) may have embellished
+Active Subjunctive,Perfect,3rd Person,Singular,abbellerit,abbelluerit,abbellerit,abbellierit,He/she/it may have embellished
+Active Subjunctive,Perfect,3rd Person,Plural,abbellerint,abbelluerint,abbellerint,abbellierint,They may have embellished
+Active Subjunctive,Pluperfect,1st Person,Singular,abbellissem,abbelluissem,abbellissem,abbellissem,I should have embellished
+Active Subjunctive,Pluperfect,1st Person,Plural,abbellissemus,abbelluissemus,abbellissemus,abbellissemus,We should have embellished
+Active Subjunctive,Pluperfect,2nd Person,Singular,abbellisses,abbelluisses,abbellisses,abbellisses,You would have embellished
+Active Subjunctive,Pluperfect,2nd Person,Plural,abbellissetis,abbelluissetis,abbellissetis,abbellissetis,You (pl.) would have embellished
+Active Subjunctive,Pluperfect,3rd Person,Singular,abbellisset,abbelluisset,abbellisset,abbellisset,He/she/it would have embellished
+Active Subjunctive,Pluperfect,3rd Person,Plural,abbellissent,abbelluissent,abbellissent,abbellissent,They would have embellished
+Passive Subjunctive,Present,1st Person,Singular,abbeller,abbeller,abbellar,abbellar,I may be embellished
+Passive Subjunctive,Present,1st Person,Plural,abbellemur,abbellemur,abbellamur,abbellamur,We may be embellished
+Passive Subjunctive,Present,2nd Person,Singular,abbelleris,abbelleris,abbellaris,abbellaris,You may be embellished
+Passive Subjunctive,Present,2nd Person,Plural,abbellemini,abbellemini,abbellamini,abbellamini,You (pl.) may be embellished
+Passive Subjunctive,Present,3rd Person,Singular,abbelletur,abbelletur,abbellatur,abbellatur,He/she/it may be embellished
+Passive Subjunctive,Present,3rd Person,Plural,abbellentur,abbellentur,abbellantur,abbellantur,They may be embellished
+Passive Subjunctive,Imperfect,1st Person,Singular,abbellarer,abbellerer,abbellerer,abbellirer,I should be embellished
+Passive Subjunctive,Imperfect,1st Person,Plural,abbellaremur,abbelleremur,abbelleremur,abbelliremur,We should be embellished
+Passive Subjunctive,Imperfect,2nd Person,Singular,abbellareris,abbellereris,abbellereris,abbellireris,You would be embellished
+Passive Subjunctive,Imperfect,2nd Person,Plural,abbellaremini,abbelleremini,abbelleremini,abbelliremini,You (pl.) would be embellished
+Passive Subjunctive,Imperfect,3rd Person,Singular,abbellaretur,abbelleretur,abbelleretur,abbelliretur,He/she/it would be embellished
+Passive Subjunctive,Imperfect,3rd Person,Plural,abbellarentur,abbellerentur,abbellerentur,abbellirentur,They would be embellished
+Passive Subjunctive,Perfect,1st Person,Singular,abbellatus sim,abbelletus sim,abbellus sim,abbellus sim,I may have been embellished
+Passive Subjunctive,Perfect,1st Person,Plural,abbellati simus,abbelleti simus,abbelli simus,abbelli simus,We may have been embellished
+Passive Subjunctive,Perfect,2nd Person,Singular,abbellatus sis,abbelletus sis,abbellus sis,abbellus sis,You may have been embellished
+Passive Subjunctive,Perfect,2nd Person,Plural,abbellati sitis,abbelleti sitis,abbelli sitis,abbelli sitis,You (pl.) may have been embellished
+Passive Subjunctive,Perfect,3rd Person,Singular,abbellatus sit,abbelletus sit,abbellus sit,abbellus sit,He/she/it may have been embellished
+Passive Subjunctive,Perfect,3rd Person,Plural,abbellati sint,abbelleti sint,abbelli sint,abbelli sint,They may have been embellished
+Passive Subjunctive,Pluperfect,1st Person,Singular,abbellatus essem,abbelletus essem,abbellus essem,abbellus essem,I should have been embellished
+Passive Subjunctive,Pluperfect,1st Person,Plural,abbellati essemus,abbelleti essemus,abbelli essemus,abbelli essemus,We should have been embellished
+Passive Subjunctive,Pluperfect,2nd Person,Singular,abbellatus esses,abbelletus esses,abbellus esses,abbellus esses,You would have been embellished
+Passive Subjunctive,Pluperfect,2nd Person,Plural,abbellati essetis,abbelleti essetis,abbelli essetis,abbelli essetis,You (pl.) would have been embellished
+Passive Subjunctive,Pluperfect,3rd Person,Singular,abbellatus esset,abbelletus esset,abbellus esset,abbellus esset,He/she/it would have been embellished
+Passive Subjunctive,Pluperfect,3rd Person,Plural,abbellati essent,abbelleti essent,abbelli essent,abbelli essent,They would have been embellished

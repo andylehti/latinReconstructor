@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,extuto,extuteo,extuto,extutio,I extinguish
+Active Indicative,Present,1st Person,Plural,extutamus,extutemus,extutimus,extutimus,We extinguish
+Active Indicative,Present,2nd Person,Singular,extutas,extutes,extutis,extutis,You extinguish
+Active Indicative,Present,2nd Person,Plural,extutatis,extutetis,extutitis,extutitis,You (pl.) extinguish
+Active Indicative,Present,3rd Person,Singular,extutat,extutet,extutit,extutit,He/she/it extinguish
+Active Indicative,Present,3rd Person,Plural,extutant,extutent,extutiunt,extutiunt,They extinguish
+Active Indicative,Imperfect,1st Person,Singular,extutabam,extutebam,extutebam,extutiebam,I was extinguishing
+Active Indicative,Imperfect,1st Person,Plural,extutabamus,extutebamus,extutebamus,extutiebamus,We were extinguishing
+Active Indicative,Imperfect,2nd Person,Singular,extutabas,extutebas,extutebas,extutiebas,You were extinguishing
+Active Indicative,Imperfect,2nd Person,Plural,extutabatis,extutebatis,extutebatis,extutiebatis,You (pl.) were extinguishing
+Active Indicative,Imperfect,3rd Person,Singular,extutabat,extutebat,extutebat,extutiebat,He/she/it was extinguishing
+Active Indicative,Imperfect,3rd Person,Plural,extutabant,extutebant,extutebant,extutiebant,They were extinguishing
+Active Indicative,Future,1st Person,Singular,extutabo,extutebo,extutam,extutiam,I will extinguish
+Active Indicative,Future,1st Person,Plural,extutabimus,extutebimus,extutemus,extutiemus,We will extinguish
+Active Indicative,Future,2nd Person,Singular,extutabis,extutebis,extutes,extuties,You will extinguish
+Active Indicative,Future,2nd Person,Plural,extutabitis,extutebitis,extutetis,extutietis,You (pl.) will extinguish
+Active Indicative,Future,3rd Person,Singular,extutabit,extutebit,extutet,extutiet,He/she/it will extinguish
+Active Indicative,Future,3rd Person,Plural,extutabunt,extutebunt,extutent,extutient,They will extinguish
+Active Indicative,Perfect,1st Person,Singular,extutavi,extutui,extuti,extuti,I have extinguished
+Active Indicative,Perfect,1st Person,Plural,extutavimus,extutuimus,extutimus,extutimus,We have extinguished
+Active Indicative,Perfect,2nd Person,Singular,extutavisti,extutuisti,extutisti,extutisti,You have extinguished
+Active Indicative,Perfect,2nd Person,Plural,extutavistis,extutuistis,extutistis,extutistis,You (pl.) have extinguished
+Active Indicative,Perfect,3rd Person,Singular,extutavit,extutuit,extutit,extutit,He/she/it has extinguished
+Active Indicative,Perfect,3rd Person,Plural,extutaverunt,extutuerunt,extuterunt,extuterunt,They have extinguished
+Active Indicative,Pluperfect,1st Person,Singular,extutaveram,extutueram,extuteram,extuteram,I had extinguished
+Active Indicative,Pluperfect,1st Person,Plural,extutaveramus,extutueramus,extuteramus,extuteramus,We had extinguished
+Active Indicative,Pluperfect,2nd Person,Singular,extutaveras,extutueras,extuteras,extuteras,You had extinguished
+Active Indicative,Pluperfect,2nd Person,Plural,extutaveratis,extutueratis,extuteratis,extuteratis,You (pl.) had extinguished
+Active Indicative,Pluperfect,3rd Person,Singular,extutaverat,extutuerat,extuterat,extuterat,He/she/it had extinguished
+Active Indicative,Pluperfect,3rd Person,Plural,extutaverant,extutuerant,extuterant,extuterant,They had extinguished
+Active Indicative,Future Perfect,1st Person,Singular,extutavero,extutueero,extutero,extutiero,I will have extinguished
+Active Indicative,Future Perfect,1st Person,Plural,extutaverimus,extutuerimus,extuterimus,extutierimus,We will have extinguished
+Active Indicative,Future Perfect,2nd Person,Singular,extutaveris,extutueris,extuteris,extutieris,You will have extinguished
+Active Indicative,Future Perfect,2nd Person,Plural,extutaveritis,extutueritis,extuteritis,extutieritis,You (pl.) will have extinguished
+Active Indicative,Future Perfect,3rd Person,Singular,extutaverit,extutuerit,extuterit,extutierit,He/she/it will have extinguished
+Active Indicative,Future Perfect,3rd Person,Plural,extutaverint,extutuerint,extuterint,extutierint,They will have extinguished
+Passive Indicative,Present,1st Person,Singular,extutor,extuteor,extutor,extutior,I am being extinguished
+Passive Indicative,Present,1st Person,Plural,extutamur,extutemur,extutimur,extutimur,We are being extinguished
+Passive Indicative,Present,2nd Person,Singular,extutaris,extuteris,extutiris,extutiris,You are being extinguished
+Passive Indicative,Present,2nd Person,Plural,extutamini,extutemini,extutimini,extutimini,You (pl.) are being extinguished
+Passive Indicative,Present,3rd Person,Singular,extutatur,extutetur,extutitur,extutitur,He/she/it is being extinguished
+Passive Indicative,Present,3rd Person,Plural,extutantur,extutentur,extutiuntur,extutiuntur,They are being extinguished
+Passive Indicative,Imperfect,1st Person,Singular,extutabar,extutebar,extutebar,extutiebar,I was extinguished
+Passive Indicative,Imperfect,1st Person,Plural,extutabamur,extutebamur,extutebamur,extutiebamur,We were extinguished
+Passive Indicative,Imperfect,2nd Person,Singular,extutabaris,extutebaris,extutebaris,extutiebaris,You were extinguished
+Passive Indicative,Imperfect,2nd Person,Plural,extutabamini,extutebamini,extutebamini,extutiebamini,You (pl.) were extinguished
+Passive Indicative,Imperfect,3rd Person,Singular,extutabatur,extutebatur,extutebatur,extutiebatur,He/she/it was extinguished
+Passive Indicative,Imperfect,3rd Person,Plural,extutabantur,extutebantur,extutebantur,extutiebantur,They were extinguished
+Passive Indicative,Future,1st Person,Singular,extutabor,extutebor,extutar,extutiar,I will be extinguished
+Passive Indicative,Future,1st Person,Plural,extutabimur,extutebimur,extutemur,extutiemur,We will be extinguished
+Passive Indicative,Future,2nd Person,Singular,extutaberis,extuteberis,extuteris,extutieris,You will be extinguished
+Passive Indicative,Future,2nd Person,Plural,extutabimini,extutebimini,extutemini,extutiemini,You (pl.) will be extinguished
+Passive Indicative,Future,3rd Person,Singular,extutabitur,extutebitur,extutetur,extutietur,He/she/it will be extinguished
+Passive Indicative,Future,3rd Person,Plural,extutabuntur,extutebuntur,extutentur,extutientur,They will be extinguished
+Passive Indicative,Perfect,1st Person,Singular,extutatus sum,extutetus sum,extutus sum,extutus sum,I have been extinguished
+Passive Indicative,Perfect,1st Person,Plural,extutati sumus,extuteti sumus,extuti sumus,extuti sumus,We have been extinguished
+Passive Indicative,Perfect,2nd Person,Singular,extutatus es,extutetus es,extutus es,extutus es,You have been extinguished
+Passive Indicative,Perfect,2nd Person,Plural,extutati estis,extuteti estis,extuti estis,extuti estis,You (pl.) have been extinguished
+Passive Indicative,Perfect,3rd Person,Singular,extutatus est,extutetus est,extutus est,extutus est,He/she/it has been extinguished
+Passive Indicative,Perfect,3rd Person,Plural,extutati sunt,extuteti sunt,extuti sunt,extuti sunt,They have been extinguished
+Passive Indicative,Pluperfect,1st Person,Singular,extutatus eram,extutetus eram,extutus eram,extutus eram,I had been extinguished
+Passive Indicative,Pluperfect,1st Person,Plural,extutati eramus,extuteti eramus,extuti eramus,extuti eramus,We had been extinguished
+Passive Indicative,Pluperfect,2nd Person,Singular,extutatus eras,extutetus eras,extutus eras,extutus eras,You had been extinguished
+Passive Indicative,Pluperfect,2nd Person,Plural,extutati eratis,extuteti eratis,extuti eratis,extuti eratis,You (pl.) had been extinguished
+Passive Indicative,Pluperfect,3rd Person,Singular,extutatus erat,extutetus erat,extutus erat,extutus erat,He/she/it had been extinguished
+Passive Indicative,Pluperfect,3rd Person,Plural,extutati erant,extuteti erant,extuti erant,extuti erant,They had been extinguished
+Passive Indicative,Future Perfect,1st Person,Singular,extutatus ero,extutetus ero,extutus ero,extutus ero,I will have been extinguished
+Passive Indicative,Future Perfect,1st Person,Plural,extutati erimus,extuteti erimus,extuti erimus,extuti erimus,We will have been extinguished
+Passive Indicative,Future Perfect,2nd Person,Singular,extutatus eris,extutetus eris,extutus eris,extutus eris,You will have been extinguished
+Passive Indicative,Future Perfect,2nd Person,Plural,extutati eritis,extuteti eritis,extuti eritis,extuti eritis,You (pl.) will have been extinguished
+Passive Indicative,Future Perfect,3rd Person,Singular,extutatus erit,extutetus erit,extutus erit,extutus erit,He/she/it will have been extinguished
+Passive Indicative,Future Perfect,3rd Person,Plural,extutati erunt,extuteti erunt,extuti erunt,extuti erunt,They will have been extinguished
+Active Subjunctive,Present,1st Person,Singular,extutem,extutem,extutam,extutam,I may extinguish
+Active Subjunctive,Present,1st Person,Plural,extutemus,extutemus,extutamus,extutamus,We may extinguish
+Active Subjunctive,Present,2nd Person,Singular,extutes,extutes,extutas,extutas,You may extinguish
+Active Subjunctive,Present,2nd Person,Plural,extutetis,extutetis,extutatis,extutatis,You (pl.) may extinguish
+Active Subjunctive,Present,3rd Person,Singular,extutet,extutet,extutat,extutat,He/she/it may extinguish
+Active Subjunctive,Present,3rd Person,Plural,extutent,extutent,extutant,extutant,They may extinguish
+Active Subjunctive,Imperfect,1st Person,Singular,extutarem,extuterem,extuterem,extutirem,I should extinguish
+Active Subjunctive,Imperfect,1st Person,Plural,extutaremus,extuteremus,extuteremus,extutiremus,We should extinguish
+Active Subjunctive,Imperfect,2nd Person,Singular,extutares,extuteres,extuteres,extutires,You should extinguish
+Active Subjunctive,Imperfect,2nd Person,Plural,extutaretis,extuteretis,extuteretis,extutiretis,You (pl.) should extinguish
+Active Subjunctive,Imperfect,3rd Person,Singular,extutaret,extuteret,extuteret,extutiret,He/she/it should extinguish
+Active Subjunctive,Imperfect,3rd Person,Plural,extutarent,extuterent,extuterent,extutirent,They should extinguish
+Active Subjunctive,Perfect,1st Person,Singular,extuterim,extutuerim,extuterim,extutierim,I may have extinguished
+Active Subjunctive,Perfect,1st Person,Plural,extuterimus,extutuerimus,extuterimus,extutierimus,We may have extinguished
+Active Subjunctive,Perfect,2nd Person,Singular,extuteris,extutueris,extuteris,extutieris,You may have extinguished
+Active Subjunctive,Perfect,2nd Person,Plural,extuteritis,extutueritis,extuteritis,extutieritis,You (pl.) may have extinguished
+Active Subjunctive,Perfect,3rd Person,Singular,extuterit,extutuerit,extuterit,extutierit,He/she/it may have extinguished
+Active Subjunctive,Perfect,3rd Person,Plural,extuterint,extutuerint,extuterint,extutierint,They may have extinguished
+Active Subjunctive,Pluperfect,1st Person,Singular,extutissem,extutuissem,extutissem,extutissem,I should have extinguished
+Active Subjunctive,Pluperfect,1st Person,Plural,extutissemus,extutuissemus,extutissemus,extutissemus,We should have extinguished
+Active Subjunctive,Pluperfect,2nd Person,Singular,extutisses,extutuisses,extutisses,extutisses,You would have extinguished
+Active Subjunctive,Pluperfect,2nd Person,Plural,extutissetis,extutuissetis,extutissetis,extutissetis,You (pl.) would have extinguished
+Active Subjunctive,Pluperfect,3rd Person,Singular,extutisset,extutuisset,extutisset,extutisset,He/she/it would have extinguished
+Active Subjunctive,Pluperfect,3rd Person,Plural,extutissent,extutuissent,extutissent,extutissent,They would have extinguished
+Passive Subjunctive,Present,1st Person,Singular,extuter,extuter,extutar,extutar,I may be extinguished
+Passive Subjunctive,Present,1st Person,Plural,extutemur,extutemur,extutamur,extutamur,We may be extinguished
+Passive Subjunctive,Present,2nd Person,Singular,extuteris,extuteris,extutaris,extutaris,You may be extinguished
+Passive Subjunctive,Present,2nd Person,Plural,extutemini,extutemini,extutamini,extutamini,You (pl.) may be extinguished
+Passive Subjunctive,Present,3rd Person,Singular,extutetur,extutetur,extutatur,extutatur,He/she/it may be extinguished
+Passive Subjunctive,Present,3rd Person,Plural,extutentur,extutentur,extutantur,extutantur,They may be extinguished
+Passive Subjunctive,Imperfect,1st Person,Singular,extutarer,extuterer,extuterer,extutirer,I should be extinguished
+Passive Subjunctive,Imperfect,1st Person,Plural,extutaremur,extuteremur,extuteremur,extutiremur,We should be extinguished
+Passive Subjunctive,Imperfect,2nd Person,Singular,extutareris,extutereris,extutereris,extutireris,You would be extinguished
+Passive Subjunctive,Imperfect,2nd Person,Plural,extutaremini,extuteremini,extuteremini,extutiremini,You (pl.) would be extinguished
+Passive Subjunctive,Imperfect,3rd Person,Singular,extutaretur,extuteretur,extuteretur,extutiretur,He/she/it would be extinguished
+Passive Subjunctive,Imperfect,3rd Person,Plural,extutarentur,extuterentur,extuterentur,extutirentur,They would be extinguished
+Passive Subjunctive,Perfect,1st Person,Singular,extutatus sim,extutetus sim,extutus sim,extutus sim,I may have been extinguished
+Passive Subjunctive,Perfect,1st Person,Plural,extutati simus,extuteti simus,extuti simus,extuti simus,We may have been extinguished
+Passive Subjunctive,Perfect,2nd Person,Singular,extutatus sis,extutetus sis,extutus sis,extutus sis,You may have been extinguished
+Passive Subjunctive,Perfect,2nd Person,Plural,extutati sitis,extuteti sitis,extuti sitis,extuti sitis,You (pl.) may have been extinguished
+Passive Subjunctive,Perfect,3rd Person,Singular,extutatus sit,extutetus sit,extutus sit,extutus sit,He/she/it may have been extinguished
+Passive Subjunctive,Perfect,3rd Person,Plural,extutati sint,extuteti sint,extuti sint,extuti sint,They may have been extinguished
+Passive Subjunctive,Pluperfect,1st Person,Singular,extutatus essem,extutetus essem,extutus essem,extutus essem,I should have been extinguished
+Passive Subjunctive,Pluperfect,1st Person,Plural,extutati essemus,extuteti essemus,extuti essemus,extuti essemus,We should have been extinguished
+Passive Subjunctive,Pluperfect,2nd Person,Singular,extutatus esses,extutetus esses,extutus esses,extutus esses,You would have been extinguished
+Passive Subjunctive,Pluperfect,2nd Person,Plural,extutati essetis,extuteti essetis,extuti essetis,extuti essetis,You (pl.) would have been extinguished
+Passive Subjunctive,Pluperfect,3rd Person,Singular,extutatus esset,extutetus esset,extutus esset,extutus esset,He/she/it would have been extinguished
+Passive Subjunctive,Pluperfect,3rd Person,Plural,extutati essent,extuteti essent,extuti essent,extuti essent,They would have been extinguished

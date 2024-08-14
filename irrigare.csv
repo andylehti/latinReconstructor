@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,irrigo,irrigeo,irrigo,irrigio,I moisten
+Active Indicative,Present,1st Person,Plural,irrigamus,irrigemus,irrigimus,irrigimus,We moisten
+Active Indicative,Present,2nd Person,Singular,irrigas,irriges,irrigis,irrigis,You moisten
+Active Indicative,Present,2nd Person,Plural,irrigatis,irrigetis,irrigitis,irrigitis,You (pl.) moisten
+Active Indicative,Present,3rd Person,Singular,irrigat,irriget,irrigit,irrigit,He/she/it moisten
+Active Indicative,Present,3rd Person,Plural,irrigant,irrigent,irrigiunt,irrigiunt,They moisten
+Active Indicative,Imperfect,1st Person,Singular,irrigabam,irrigebam,irrigebam,irrigiebam,I was moistening
+Active Indicative,Imperfect,1st Person,Plural,irrigabamus,irrigebamus,irrigebamus,irrigiebamus,We were moistening
+Active Indicative,Imperfect,2nd Person,Singular,irrigabas,irrigebas,irrigebas,irrigiebas,You were moistening
+Active Indicative,Imperfect,2nd Person,Plural,irrigabatis,irrigebatis,irrigebatis,irrigiebatis,You (pl.) were moistening
+Active Indicative,Imperfect,3rd Person,Singular,irrigabat,irrigebat,irrigebat,irrigiebat,He/she/it was moistening
+Active Indicative,Imperfect,3rd Person,Plural,irrigabant,irrigebant,irrigebant,irrigiebant,They were moistening
+Active Indicative,Future,1st Person,Singular,irrigabo,irrigebo,irrigam,irrigiam,I will moisten
+Active Indicative,Future,1st Person,Plural,irrigabimus,irrigebimus,irrigemus,irrigiemus,We will moisten
+Active Indicative,Future,2nd Person,Singular,irrigabis,irrigebis,irriges,irrigies,You will moisten
+Active Indicative,Future,2nd Person,Plural,irrigabitis,irrigebitis,irrigetis,irrigietis,You (pl.) will moisten
+Active Indicative,Future,3rd Person,Singular,irrigabit,irrigebit,irriget,irrigiet,He/she/it will moisten
+Active Indicative,Future,3rd Person,Plural,irrigabunt,irrigebunt,irrigent,irrigient,They will moisten
+Active Indicative,Perfect,1st Person,Singular,irrigavi,irrigui,irrigi,irrigi,I have moistened
+Active Indicative,Perfect,1st Person,Plural,irrigavimus,irriguimus,irrigimus,irrigimus,We have moistened
+Active Indicative,Perfect,2nd Person,Singular,irrigavisti,irriguisti,irrigisti,irrigisti,You have moistened
+Active Indicative,Perfect,2nd Person,Plural,irrigavistis,irriguistis,irrigistis,irrigistis,You (pl.) have moistened
+Active Indicative,Perfect,3rd Person,Singular,irrigavit,irriguit,irrigit,irrigit,He/she/it has moistened
+Active Indicative,Perfect,3rd Person,Plural,irrigaverunt,irriguerunt,irrigerunt,irrigerunt,They have moistened
+Active Indicative,Pluperfect,1st Person,Singular,irrigaveram,irrigueram,irrigeram,irrigeram,I had moistened
+Active Indicative,Pluperfect,1st Person,Plural,irrigaveramus,irrigueramus,irrigeramus,irrigeramus,We had moistened
+Active Indicative,Pluperfect,2nd Person,Singular,irrigaveras,irrigueras,irrigeras,irrigeras,You had moistened
+Active Indicative,Pluperfect,2nd Person,Plural,irrigaveratis,irrigueratis,irrigeratis,irrigeratis,You (pl.) had moistened
+Active Indicative,Pluperfect,3rd Person,Singular,irrigaverat,irriguerat,irrigerat,irrigerat,He/she/it had moistened
+Active Indicative,Pluperfect,3rd Person,Plural,irrigaverant,irriguerant,irrigerant,irrigerant,They had moistened
+Active Indicative,Future Perfect,1st Person,Singular,irrigavero,irrigueero,irrigero,irrigiero,I will have moistened
+Active Indicative,Future Perfect,1st Person,Plural,irrigaverimus,irriguerimus,irrigerimus,irrigierimus,We will have moistened
+Active Indicative,Future Perfect,2nd Person,Singular,irrigaveris,irrigueris,irrigeris,irrigieris,You will have moistened
+Active Indicative,Future Perfect,2nd Person,Plural,irrigaveritis,irrigueritis,irrigeritis,irrigieritis,You (pl.) will have moistened
+Active Indicative,Future Perfect,3rd Person,Singular,irrigaverit,irriguerit,irrigerit,irrigierit,He/she/it will have moistened
+Active Indicative,Future Perfect,3rd Person,Plural,irrigaverint,irriguerint,irrigerint,irrigierint,They will have moistened
+Passive Indicative,Present,1st Person,Singular,irrigor,irrigeor,irrigor,irrigior,I am being moistened
+Passive Indicative,Present,1st Person,Plural,irrigamur,irrigemur,irrigimur,irrigimur,We are being moistened
+Passive Indicative,Present,2nd Person,Singular,irrigaris,irrigeris,irrigiris,irrigiris,You are being moistened
+Passive Indicative,Present,2nd Person,Plural,irrigamini,irrigemini,irrigimini,irrigimini,You (pl.) are being moistened
+Passive Indicative,Present,3rd Person,Singular,irrigatur,irrigetur,irrigitur,irrigitur,He/she/it is being moistened
+Passive Indicative,Present,3rd Person,Plural,irrigantur,irrigentur,irrigiuntur,irrigiuntur,They are being moistened
+Passive Indicative,Imperfect,1st Person,Singular,irrigabar,irrigebar,irrigebar,irrigiebar,I was moistened
+Passive Indicative,Imperfect,1st Person,Plural,irrigabamur,irrigebamur,irrigebamur,irrigiebamur,We were moistened
+Passive Indicative,Imperfect,2nd Person,Singular,irrigabaris,irrigebaris,irrigebaris,irrigiebaris,You were moistened
+Passive Indicative,Imperfect,2nd Person,Plural,irrigabamini,irrigebamini,irrigebamini,irrigiebamini,You (pl.) were moistened
+Passive Indicative,Imperfect,3rd Person,Singular,irrigabatur,irrigebatur,irrigebatur,irrigiebatur,He/she/it was moistened
+Passive Indicative,Imperfect,3rd Person,Plural,irrigabantur,irrigebantur,irrigebantur,irrigiebantur,They were moistened
+Passive Indicative,Future,1st Person,Singular,irrigabor,irrigebor,irrigar,irrigiar,I will be moistened
+Passive Indicative,Future,1st Person,Plural,irrigabimur,irrigebimur,irrigemur,irrigiemur,We will be moistened
+Passive Indicative,Future,2nd Person,Singular,irrigaberis,irrigeberis,irrigeris,irrigieris,You will be moistened
+Passive Indicative,Future,2nd Person,Plural,irrigabimini,irrigebimini,irrigemini,irrigiemini,You (pl.) will be moistened
+Passive Indicative,Future,3rd Person,Singular,irrigabitur,irrigebitur,irrigetur,irrigietur,He/she/it will be moistened
+Passive Indicative,Future,3rd Person,Plural,irrigabuntur,irrigebuntur,irrigentur,irrigientur,They will be moistened
+Passive Indicative,Perfect,1st Person,Singular,irrigatus sum,irrigetus sum,irrigus sum,irrigus sum,I have been moistened
+Passive Indicative,Perfect,1st Person,Plural,irrigati sumus,irrigeti sumus,irrigi sumus,irrigi sumus,We have been moistened
+Passive Indicative,Perfect,2nd Person,Singular,irrigatus es,irrigetus es,irrigus es,irrigus es,You have been moistened
+Passive Indicative,Perfect,2nd Person,Plural,irrigati estis,irrigeti estis,irrigi estis,irrigi estis,You (pl.) have been moistened
+Passive Indicative,Perfect,3rd Person,Singular,irrigatus est,irrigetus est,irrigus est,irrigus est,He/she/it has been moistened
+Passive Indicative,Perfect,3rd Person,Plural,irrigati sunt,irrigeti sunt,irrigi sunt,irrigi sunt,They have been moistened
+Passive Indicative,Pluperfect,1st Person,Singular,irrigatus eram,irrigetus eram,irrigus eram,irrigus eram,I had been moistened
+Passive Indicative,Pluperfect,1st Person,Plural,irrigati eramus,irrigeti eramus,irrigi eramus,irrigi eramus,We had been moistened
+Passive Indicative,Pluperfect,2nd Person,Singular,irrigatus eras,irrigetus eras,irrigus eras,irrigus eras,You had been moistened
+Passive Indicative,Pluperfect,2nd Person,Plural,irrigati eratis,irrigeti eratis,irrigi eratis,irrigi eratis,You (pl.) had been moistened
+Passive Indicative,Pluperfect,3rd Person,Singular,irrigatus erat,irrigetus erat,irrigus erat,irrigus erat,He/she/it had been moistened
+Passive Indicative,Pluperfect,3rd Person,Plural,irrigati erant,irrigeti erant,irrigi erant,irrigi erant,They had been moistened
+Passive Indicative,Future Perfect,1st Person,Singular,irrigatus ero,irrigetus ero,irrigus ero,irrigus ero,I will have been moistened
+Passive Indicative,Future Perfect,1st Person,Plural,irrigati erimus,irrigeti erimus,irrigi erimus,irrigi erimus,We will have been moistened
+Passive Indicative,Future Perfect,2nd Person,Singular,irrigatus eris,irrigetus eris,irrigus eris,irrigus eris,You will have been moistened
+Passive Indicative,Future Perfect,2nd Person,Plural,irrigati eritis,irrigeti eritis,irrigi eritis,irrigi eritis,You (pl.) will have been moistened
+Passive Indicative,Future Perfect,3rd Person,Singular,irrigatus erit,irrigetus erit,irrigus erit,irrigus erit,He/she/it will have been moistened
+Passive Indicative,Future Perfect,3rd Person,Plural,irrigati erunt,irrigeti erunt,irrigi erunt,irrigi erunt,They will have been moistened
+Active Subjunctive,Present,1st Person,Singular,irrigem,irrigem,irrigam,irrigam,I may moisten
+Active Subjunctive,Present,1st Person,Plural,irrigemus,irrigemus,irrigamus,irrigamus,We may moisten
+Active Subjunctive,Present,2nd Person,Singular,irriges,irriges,irrigas,irrigas,You may moisten
+Active Subjunctive,Present,2nd Person,Plural,irrigetis,irrigetis,irrigatis,irrigatis,You (pl.) may moisten
+Active Subjunctive,Present,3rd Person,Singular,irriget,irriget,irrigat,irrigat,He/she/it may moisten
+Active Subjunctive,Present,3rd Person,Plural,irrigent,irrigent,irrigant,irrigant,They may moisten
+Active Subjunctive,Imperfect,1st Person,Singular,irrigarem,irrigerem,irrigerem,irrigirem,I should moisten
+Active Subjunctive,Imperfect,1st Person,Plural,irrigaremus,irrigeremus,irrigeremus,irrigiremus,We should moisten
+Active Subjunctive,Imperfect,2nd Person,Singular,irrigares,irrigeres,irrigeres,irrigires,You should moisten
+Active Subjunctive,Imperfect,2nd Person,Plural,irrigaretis,irrigeretis,irrigeretis,irrigiretis,You (pl.) should moisten
+Active Subjunctive,Imperfect,3rd Person,Singular,irrigaret,irrigeret,irrigeret,irrigiret,He/she/it should moisten
+Active Subjunctive,Imperfect,3rd Person,Plural,irrigarent,irrigerent,irrigerent,irrigirent,They should moisten
+Active Subjunctive,Perfect,1st Person,Singular,irrigerim,irriguerim,irrigerim,irrigierim,I may have moistened
+Active Subjunctive,Perfect,1st Person,Plural,irrigerimus,irriguerimus,irrigerimus,irrigierimus,We may have moistened
+Active Subjunctive,Perfect,2nd Person,Singular,irrigeris,irrigueris,irrigeris,irrigieris,You may have moistened
+Active Subjunctive,Perfect,2nd Person,Plural,irrigeritis,irrigueritis,irrigeritis,irrigieritis,You (pl.) may have moistened
+Active Subjunctive,Perfect,3rd Person,Singular,irrigerit,irriguerit,irrigerit,irrigierit,He/she/it may have moistened
+Active Subjunctive,Perfect,3rd Person,Plural,irrigerint,irriguerint,irrigerint,irrigierint,They may have moistened
+Active Subjunctive,Pluperfect,1st Person,Singular,irrigissem,irriguissem,irrigissem,irrigissem,I should have moistened
+Active Subjunctive,Pluperfect,1st Person,Plural,irrigissemus,irriguissemus,irrigissemus,irrigissemus,We should have moistened
+Active Subjunctive,Pluperfect,2nd Person,Singular,irrigisses,irriguisses,irrigisses,irrigisses,You would have moistened
+Active Subjunctive,Pluperfect,2nd Person,Plural,irrigissetis,irriguissetis,irrigissetis,irrigissetis,You (pl.) would have moistened
+Active Subjunctive,Pluperfect,3rd Person,Singular,irrigisset,irriguisset,irrigisset,irrigisset,He/she/it would have moistened
+Active Subjunctive,Pluperfect,3rd Person,Plural,irrigissent,irriguissent,irrigissent,irrigissent,They would have moistened
+Passive Subjunctive,Present,1st Person,Singular,irriger,irriger,irrigar,irrigar,I may be moistened
+Passive Subjunctive,Present,1st Person,Plural,irrigemur,irrigemur,irrigamur,irrigamur,We may be moistened
+Passive Subjunctive,Present,2nd Person,Singular,irrigeris,irrigeris,irrigaris,irrigaris,You may be moistened
+Passive Subjunctive,Present,2nd Person,Plural,irrigemini,irrigemini,irrigamini,irrigamini,You (pl.) may be moistened
+Passive Subjunctive,Present,3rd Person,Singular,irrigetur,irrigetur,irrigatur,irrigatur,He/she/it may be moistened
+Passive Subjunctive,Present,3rd Person,Plural,irrigentur,irrigentur,irrigantur,irrigantur,They may be moistened
+Passive Subjunctive,Imperfect,1st Person,Singular,irrigarer,irrigerer,irrigerer,irrigirer,I should be moistened
+Passive Subjunctive,Imperfect,1st Person,Plural,irrigaremur,irrigeremur,irrigeremur,irrigiremur,We should be moistened
+Passive Subjunctive,Imperfect,2nd Person,Singular,irrigareris,irrigereris,irrigereris,irrigireris,You would be moistened
+Passive Subjunctive,Imperfect,2nd Person,Plural,irrigaremini,irrigeremini,irrigeremini,irrigiremini,You (pl.) would be moistened
+Passive Subjunctive,Imperfect,3rd Person,Singular,irrigaretur,irrigeretur,irrigeretur,irrigiretur,He/she/it would be moistened
+Passive Subjunctive,Imperfect,3rd Person,Plural,irrigarentur,irrigerentur,irrigerentur,irrigirentur,They would be moistened
+Passive Subjunctive,Perfect,1st Person,Singular,irrigatus sim,irrigetus sim,irrigus sim,irrigus sim,I may have been moistened
+Passive Subjunctive,Perfect,1st Person,Plural,irrigati simus,irrigeti simus,irrigi simus,irrigi simus,We may have been moistened
+Passive Subjunctive,Perfect,2nd Person,Singular,irrigatus sis,irrigetus sis,irrigus sis,irrigus sis,You may have been moistened
+Passive Subjunctive,Perfect,2nd Person,Plural,irrigati sitis,irrigeti sitis,irrigi sitis,irrigi sitis,You (pl.) may have been moistened
+Passive Subjunctive,Perfect,3rd Person,Singular,irrigatus sit,irrigetus sit,irrigus sit,irrigus sit,He/she/it may have been moistened
+Passive Subjunctive,Perfect,3rd Person,Plural,irrigati sint,irrigeti sint,irrigi sint,irrigi sint,They may have been moistened
+Passive Subjunctive,Pluperfect,1st Person,Singular,irrigatus essem,irrigetus essem,irrigus essem,irrigus essem,I should have been moistened
+Passive Subjunctive,Pluperfect,1st Person,Plural,irrigati essemus,irrigeti essemus,irrigi essemus,irrigi essemus,We should have been moistened
+Passive Subjunctive,Pluperfect,2nd Person,Singular,irrigatus esses,irrigetus esses,irrigus esses,irrigus esses,You would have been moistened
+Passive Subjunctive,Pluperfect,2nd Person,Plural,irrigati essetis,irrigeti essetis,irrigi essetis,irrigi essetis,You (pl.) would have been moistened
+Passive Subjunctive,Pluperfect,3rd Person,Singular,irrigatus esset,irrigetus esset,irrigus esset,irrigus esset,He/she/it would have been moistened
+Passive Subjunctive,Pluperfect,3rd Person,Plural,irrigati essent,irrigeti essent,irrigi essent,irrigi essent,They would have been moistened

@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,adbassio,adbassieo,adbassio,adbassio,I lower
+Active Indicative,Present,1st Person,Plural,adbassiamus,adbassiemus,adbassimus,adbassimus,We lower
+Active Indicative,Present,2nd Person,Singular,adbassias,adbassies,adbassis,adbassis,You lower
+Active Indicative,Present,2nd Person,Plural,adbassiatis,adbassietis,adbassitis,adbassitis,You (pl.) lower
+Active Indicative,Present,3rd Person,Singular,adbassiat,adbassiet,adbassit,adbassit,He/she/it lower
+Active Indicative,Present,3rd Person,Plural,adbassiant,adbassient,adbassiunt,adbassiunt,They lower
+Active Indicative,Imperfect,1st Person,Singular,adbassiabam,adbassiebam,adbassiebam,adbassiebam,I was lowering
+Active Indicative,Imperfect,1st Person,Plural,adbassiabamus,adbassiebamus,adbassiebamus,adbassiebamus,We were lowering
+Active Indicative,Imperfect,2nd Person,Singular,adbassiabas,adbassiebas,adbassiebas,adbassiebas,You were lowering
+Active Indicative,Imperfect,2nd Person,Plural,adbassiabatis,adbassiebatis,adbassiebatis,adbassiebatis,You (pl.) were lowering
+Active Indicative,Imperfect,3rd Person,Singular,adbassiabat,adbassiebat,adbassiebat,adbassiebat,He/she/it was lowering
+Active Indicative,Imperfect,3rd Person,Plural,adbassiabant,adbassiebant,adbassiebant,adbassiebant,They were lowering
+Active Indicative,Future,1st Person,Singular,adbassiabo,adbassiebo,adbassiam,adbassiam,I will lower
+Active Indicative,Future,1st Person,Plural,adbassiabimus,adbassiebimus,adbassiemus,adbassiemus,We will lower
+Active Indicative,Future,2nd Person,Singular,adbassiabis,adbassiebis,adbassies,adbassies,You will lower
+Active Indicative,Future,2nd Person,Plural,adbassiabitis,adbassiebitis,adbassietis,adbassietis,You (pl.) will lower
+Active Indicative,Future,3rd Person,Singular,adbassiabit,adbassiebit,adbassiet,adbassiet,He/she/it will lower
+Active Indicative,Future,3rd Person,Plural,adbassiabunt,adbassiebunt,adbassient,adbassient,They will lower
+Active Indicative,Perfect,1st Person,Singular,adbassiavi,adbassiui,adbassi,adbassi,I have lowered
+Active Indicative,Perfect,1st Person,Plural,adbassiavimus,adbassiuimus,adbassimus,adbassimus,We have lowered
+Active Indicative,Perfect,2nd Person,Singular,adbassiavisti,adbassiuisti,adbassisti,adbassisti,You have lowered
+Active Indicative,Perfect,2nd Person,Plural,adbassiavistis,adbassiuistis,adbassistis,adbassistis,You (pl.) have lowered
+Active Indicative,Perfect,3rd Person,Singular,adbassiavit,adbassiuit,adbassit,adbassit,He/she/it has lowered
+Active Indicative,Perfect,3rd Person,Plural,adbassiaverunt,adbassiuerunt,adbassierunt,adbassierunt,They have lowered
+Active Indicative,Pluperfect,1st Person,Singular,adbassiaveram,adbassiueram,adbassieram,adbassieram,I had lowered
+Active Indicative,Pluperfect,1st Person,Plural,adbassiaveramus,adbassiueramus,adbassieramus,adbassieramus,We had lowered
+Active Indicative,Pluperfect,2nd Person,Singular,adbassiaveras,adbassiueras,adbassieras,adbassieras,You had lowered
+Active Indicative,Pluperfect,2nd Person,Plural,adbassiaveratis,adbassiueratis,adbassieratis,adbassieratis,You (pl.) had lowered
+Active Indicative,Pluperfect,3rd Person,Singular,adbassiaverat,adbassiuerat,adbassierat,adbassierat,He/she/it had lowered
+Active Indicative,Pluperfect,3rd Person,Plural,adbassiaverant,adbassiuerant,adbassierant,adbassierant,They had lowered
+Active Indicative,Future Perfect,1st Person,Singular,adbassiavero,adbassiueero,adbassiero,adbassiero,I will have lowered
+Active Indicative,Future Perfect,1st Person,Plural,adbassiaverimus,adbassiuerimus,adbassierimus,adbassierimus,We will have lowered
+Active Indicative,Future Perfect,2nd Person,Singular,adbassiaveris,adbassiueris,adbassieris,adbassieris,You will have lowered
+Active Indicative,Future Perfect,2nd Person,Plural,adbassiaveritis,adbassiueritis,adbassieritis,adbassieritis,You (pl.) will have lowered
+Active Indicative,Future Perfect,3rd Person,Singular,adbassiaverit,adbassiuerit,adbassierit,adbassierit,He/she/it will have lowered
+Active Indicative,Future Perfect,3rd Person,Plural,adbassiaverint,adbassiuerint,adbassierint,adbassierint,They will have lowered
+Passive Indicative,Present,1st Person,Singular,adbassior,adbassieor,adbassior,adbassior,I am being lowered
+Passive Indicative,Present,1st Person,Plural,adbassiamur,adbassiemur,adbassimur,adbassimur,We are being lowered
+Passive Indicative,Present,2nd Person,Singular,adbassiaris,adbassieris,adbassiris,adbassiris,You are being lowered
+Passive Indicative,Present,2nd Person,Plural,adbassiamini,adbassiemini,adbassimini,adbassimini,You (pl.) are being lowered
+Passive Indicative,Present,3rd Person,Singular,adbassiatur,adbassietur,adbassitur,adbassitur,He/she/it is being lowered
+Passive Indicative,Present,3rd Person,Plural,adbassiantur,adbassientur,adbassiuntur,adbassiuntur,They are being lowered
+Passive Indicative,Imperfect,1st Person,Singular,adbassiabar,adbassiebar,adbassiebar,adbassiebar,I was lowered
+Passive Indicative,Imperfect,1st Person,Plural,adbassiabamur,adbassiebamur,adbassiebamur,adbassiebamur,We were lowered
+Passive Indicative,Imperfect,2nd Person,Singular,adbassiabaris,adbassiebaris,adbassiebaris,adbassiebaris,You were lowered
+Passive Indicative,Imperfect,2nd Person,Plural,adbassiabamini,adbassiebamini,adbassiebamini,adbassiebamini,You (pl.) were lowered
+Passive Indicative,Imperfect,3rd Person,Singular,adbassiabatur,adbassiebatur,adbassiebatur,adbassiebatur,He/she/it was lowered
+Passive Indicative,Imperfect,3rd Person,Plural,adbassiabantur,adbassiebantur,adbassiebantur,adbassiebantur,They were lowered
+Passive Indicative,Future,1st Person,Singular,adbassiabor,adbassiebor,adbassiar,adbassiar,I will be lowered
+Passive Indicative,Future,1st Person,Plural,adbassiabimur,adbassiebimur,adbassiemur,adbassiemur,We will be lowered
+Passive Indicative,Future,2nd Person,Singular,adbassiaberis,adbassieberis,adbassieris,adbassieris,You will be lowered
+Passive Indicative,Future,2nd Person,Plural,adbassiabimini,adbassiebimini,adbassiemini,adbassiemini,You (pl.) will be lowered
+Passive Indicative,Future,3rd Person,Singular,adbassiabitur,adbassiebitur,adbassietur,adbassietur,He/she/it will be lowered
+Passive Indicative,Future,3rd Person,Plural,adbassiabuntur,adbassiebuntur,adbassientur,adbassientur,They will be lowered
+Passive Indicative,Perfect,1st Person,Singular,adbassiatus sum,adbassietus sum,adbassius sum,adbassius sum,I have been lowered
+Passive Indicative,Perfect,1st Person,Plural,adbassiati sumus,adbassieti sumus,adbassi sumus,adbassi sumus,We have been lowered
+Passive Indicative,Perfect,2nd Person,Singular,adbassiatus es,adbassietus es,adbassius es,adbassius es,You have been lowered
+Passive Indicative,Perfect,2nd Person,Plural,adbassiati estis,adbassieti estis,adbassi estis,adbassi estis,You (pl.) have been lowered
+Passive Indicative,Perfect,3rd Person,Singular,adbassiatus est,adbassietus est,adbassius est,adbassius est,He/she/it has been lowered
+Passive Indicative,Perfect,3rd Person,Plural,adbassiati sunt,adbassieti sunt,adbassi sunt,adbassi sunt,They have been lowered
+Passive Indicative,Pluperfect,1st Person,Singular,adbassiatus eram,adbassietus eram,adbassius eram,adbassius eram,I had been lowered
+Passive Indicative,Pluperfect,1st Person,Plural,adbassiati eramus,adbassieti eramus,adbassi eramus,adbassi eramus,We had been lowered
+Passive Indicative,Pluperfect,2nd Person,Singular,adbassiatus eras,adbassietus eras,adbassius eras,adbassius eras,You had been lowered
+Passive Indicative,Pluperfect,2nd Person,Plural,adbassiati eratis,adbassieti eratis,adbassi eratis,adbassi eratis,You (pl.) had been lowered
+Passive Indicative,Pluperfect,3rd Person,Singular,adbassiatus erat,adbassietus erat,adbassius erat,adbassius erat,He/she/it had been lowered
+Passive Indicative,Pluperfect,3rd Person,Plural,adbassiati erant,adbassieti erant,adbassi erant,adbassi erant,They had been lowered
+Passive Indicative,Future Perfect,1st Person,Singular,adbassiatus ero,adbassietus ero,adbassius ero,adbassius ero,I will have been lowered
+Passive Indicative,Future Perfect,1st Person,Plural,adbassiati erimus,adbassieti erimus,adbassi erimus,adbassi erimus,We will have been lowered
+Passive Indicative,Future Perfect,2nd Person,Singular,adbassiatus eris,adbassietus eris,adbassius eris,adbassius eris,You will have been lowered
+Passive Indicative,Future Perfect,2nd Person,Plural,adbassiati eritis,adbassieti eritis,adbassi eritis,adbassi eritis,You (pl.) will have been lowered
+Passive Indicative,Future Perfect,3rd Person,Singular,adbassiatus erit,adbassietus erit,adbassius erit,adbassius erit,He/she/it will have been lowered
+Passive Indicative,Future Perfect,3rd Person,Plural,adbassiati erunt,adbassieti erunt,adbassi erunt,adbassi erunt,They will have been lowered
+Active Subjunctive,Present,1st Person,Singular,adbassiem,adbassiem,adbassiam,adbassiam,I may lower
+Active Subjunctive,Present,1st Person,Plural,adbassiemus,adbassiemus,adbassiamus,adbassiamus,We may lower
+Active Subjunctive,Present,2nd Person,Singular,adbassies,adbassies,adbassias,adbassias,You may lower
+Active Subjunctive,Present,2nd Person,Plural,adbassietis,adbassietis,adbassiatis,adbassiatis,You (pl.) may lower
+Active Subjunctive,Present,3rd Person,Singular,adbassiet,adbassiet,adbassiat,adbassiat,He/she/it may lower
+Active Subjunctive,Present,3rd Person,Plural,adbassient,adbassient,adbassiant,adbassiant,They may lower
+Active Subjunctive,Imperfect,1st Person,Singular,adbassiarem,adbassierem,adbassierem,adbassirem,I should lower
+Active Subjunctive,Imperfect,1st Person,Plural,adbassiaremus,adbassieremus,adbassieremus,adbassiremus,We should lower
+Active Subjunctive,Imperfect,2nd Person,Singular,adbassiares,adbassieres,adbassieres,adbassires,You should lower
+Active Subjunctive,Imperfect,2nd Person,Plural,adbassiaretis,adbassieretis,adbassieretis,adbassiretis,You (pl.) should lower
+Active Subjunctive,Imperfect,3rd Person,Singular,adbassiaret,adbassieret,adbassieret,adbassiret,He/she/it should lower
+Active Subjunctive,Imperfect,3rd Person,Plural,adbassiarent,adbassierent,adbassierent,adbassirent,They should lower
+Active Subjunctive,Perfect,1st Person,Singular,adbassierim,adbassiuerim,adbassierim,adbassierim,I may have lowered
+Active Subjunctive,Perfect,1st Person,Plural,adbassierimus,adbassiuerimus,adbassierimus,adbassierimus,We may have lowered
+Active Subjunctive,Perfect,2nd Person,Singular,adbassieris,adbassiueris,adbassieris,adbassieris,You may have lowered
+Active Subjunctive,Perfect,2nd Person,Plural,adbassieritis,adbassiueritis,adbassieritis,adbassieritis,You (pl.) may have lowered
+Active Subjunctive,Perfect,3rd Person,Singular,adbassierit,adbassiuerit,adbassierit,adbassierit,He/she/it may have lowered
+Active Subjunctive,Perfect,3rd Person,Plural,adbassierint,adbassiuerint,adbassierint,adbassierint,They may have lowered
+Active Subjunctive,Pluperfect,1st Person,Singular,adbassissem,adbassiuissem,adbassissem,adbassissem,I should have lowered
+Active Subjunctive,Pluperfect,1st Person,Plural,adbassissemus,adbassiuissemus,adbassissemus,adbassissemus,We should have lowered
+Active Subjunctive,Pluperfect,2nd Person,Singular,adbassisses,adbassiuisses,adbassisses,adbassisses,You would have lowered
+Active Subjunctive,Pluperfect,2nd Person,Plural,adbassissetis,adbassiuissetis,adbassissetis,adbassissetis,You (pl.) would have lowered
+Active Subjunctive,Pluperfect,3rd Person,Singular,adbassisset,adbassiuisset,adbassisset,adbassisset,He/she/it would have lowered
+Active Subjunctive,Pluperfect,3rd Person,Plural,adbassissent,adbassiuissent,adbassissent,adbassissent,They would have lowered
+Passive Subjunctive,Present,1st Person,Singular,adbassier,adbassier,adbassiar,adbassiar,I may be lowered
+Passive Subjunctive,Present,1st Person,Plural,adbassiemur,adbassiemur,adbassiamur,adbassiamur,We may be lowered
+Passive Subjunctive,Present,2nd Person,Singular,adbassieris,adbassieris,adbassiaris,adbassiaris,You may be lowered
+Passive Subjunctive,Present,2nd Person,Plural,adbassiemini,adbassiemini,adbassiamini,adbassiamini,You (pl.) may be lowered
+Passive Subjunctive,Present,3rd Person,Singular,adbassietur,adbassietur,adbassiatur,adbassiatur,He/she/it may be lowered
+Passive Subjunctive,Present,3rd Person,Plural,adbassientur,adbassientur,adbassiantur,adbassiantur,They may be lowered
+Passive Subjunctive,Imperfect,1st Person,Singular,adbassiarer,adbassierer,adbassierer,adbassirer,I should be lowered
+Passive Subjunctive,Imperfect,1st Person,Plural,adbassiaremur,adbassieremur,adbassieremur,adbassiremur,We should be lowered
+Passive Subjunctive,Imperfect,2nd Person,Singular,adbassiareris,adbassiereris,adbassiereris,adbassireris,You would be lowered
+Passive Subjunctive,Imperfect,2nd Person,Plural,adbassiaremini,adbassieremini,adbassieremini,adbassiremini,You (pl.) would be lowered
+Passive Subjunctive,Imperfect,3rd Person,Singular,adbassiaretur,adbassieretur,adbassieretur,adbassiretur,He/she/it would be lowered
+Passive Subjunctive,Imperfect,3rd Person,Plural,adbassiarentur,adbassierentur,adbassierentur,adbassirentur,They would be lowered
+Passive Subjunctive,Perfect,1st Person,Singular,adbassiatus sim,adbassietus sim,adbassius sim,adbassius sim,I may have been lowered
+Passive Subjunctive,Perfect,1st Person,Plural,adbassiati simus,adbassieti simus,adbassi simus,adbassi simus,We may have been lowered
+Passive Subjunctive,Perfect,2nd Person,Singular,adbassiatus sis,adbassietus sis,adbassius sis,adbassius sis,You may have been lowered
+Passive Subjunctive,Perfect,2nd Person,Plural,adbassiati sitis,adbassieti sitis,adbassi sitis,adbassi sitis,You (pl.) may have been lowered
+Passive Subjunctive,Perfect,3rd Person,Singular,adbassiatus sit,adbassietus sit,adbassius sit,adbassius sit,He/she/it may have been lowered
+Passive Subjunctive,Perfect,3rd Person,Plural,adbassiati sint,adbassieti sint,adbassi sint,adbassi sint,They may have been lowered
+Passive Subjunctive,Pluperfect,1st Person,Singular,adbassiatus essem,adbassietus essem,adbassius essem,adbassius essem,I should have been lowered
+Passive Subjunctive,Pluperfect,1st Person,Plural,adbassiati essemus,adbassieti essemus,adbassi essemus,adbassi essemus,We should have been lowered
+Passive Subjunctive,Pluperfect,2nd Person,Singular,adbassiatus esses,adbassietus esses,adbassius esses,adbassius esses,You would have been lowered
+Passive Subjunctive,Pluperfect,2nd Person,Plural,adbassiati essetis,adbassieti essetis,adbassi essetis,adbassi essetis,You (pl.) would have been lowered
+Passive Subjunctive,Pluperfect,3rd Person,Singular,adbassiatus esset,adbassietus esset,adbassius esset,adbassius esset,He/she/it would have been lowered
+Passive Subjunctive,Pluperfect,3rd Person,Plural,adbassiati essent,adbassieti essent,adbassi essent,adbassi essent,They would have been lowered

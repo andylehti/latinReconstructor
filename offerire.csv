@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,offero,offereo,offero,offerio,I offer
+Active Indicative,Present,1st Person,Plural,offeramus,offeremus,offerimus,offerimus,We offer
+Active Indicative,Present,2nd Person,Singular,offeras,offeres,offeris,offeris,You offer
+Active Indicative,Present,2nd Person,Plural,offeratis,offeretis,offeritis,offeritis,You (pl.) offer
+Active Indicative,Present,3rd Person,Singular,offerat,offeret,offerit,offerit,He/she/it offer
+Active Indicative,Present,3rd Person,Plural,offerant,offerent,offeriunt,offeriunt,They offer
+Active Indicative,Imperfect,1st Person,Singular,offerabam,offerebam,offerebam,offeriebam,I was offering
+Active Indicative,Imperfect,1st Person,Plural,offerabamus,offerebamus,offerebamus,offeriebamus,We were offering
+Active Indicative,Imperfect,2nd Person,Singular,offerabas,offerebas,offerebas,offeriebas,You were offering
+Active Indicative,Imperfect,2nd Person,Plural,offerabatis,offerebatis,offerebatis,offeriebatis,You (pl.) were offering
+Active Indicative,Imperfect,3rd Person,Singular,offerabat,offerebat,offerebat,offeriebat,He/she/it was offering
+Active Indicative,Imperfect,3rd Person,Plural,offerabant,offerebant,offerebant,offeriebant,They were offering
+Active Indicative,Future,1st Person,Singular,offerabo,offerebo,offeram,offeriam,I will offer
+Active Indicative,Future,1st Person,Plural,offerabimus,offerebimus,offeremus,offeriemus,We will offer
+Active Indicative,Future,2nd Person,Singular,offerabis,offerebis,offeres,offeries,You will offer
+Active Indicative,Future,2nd Person,Plural,offerabitis,offerebitis,offeretis,offerietis,You (pl.) will offer
+Active Indicative,Future,3rd Person,Singular,offerabit,offerebit,offeret,offeriet,He/she/it will offer
+Active Indicative,Future,3rd Person,Plural,offerabunt,offerebunt,offerent,offerient,They will offer
+Active Indicative,Perfect,1st Person,Singular,offeravi,offerui,offeri,offeri,I have offered
+Active Indicative,Perfect,1st Person,Plural,offeravimus,offeruimus,offerimus,offerimus,We have offered
+Active Indicative,Perfect,2nd Person,Singular,offeravisti,offeruisti,offeristi,offeristi,You have offered
+Active Indicative,Perfect,2nd Person,Plural,offeravistis,offeruistis,offeristis,offeristis,You (pl.) have offered
+Active Indicative,Perfect,3rd Person,Singular,offeravit,offeruit,offerit,offerit,He/she/it has offered
+Active Indicative,Perfect,3rd Person,Plural,offeraverunt,offeruerunt,offererunt,offererunt,They have offered
+Active Indicative,Pluperfect,1st Person,Singular,offeraveram,offerueram,offereram,offereram,I had offered
+Active Indicative,Pluperfect,1st Person,Plural,offeraveramus,offerueramus,offereramus,offereramus,We had offered
+Active Indicative,Pluperfect,2nd Person,Singular,offeraveras,offerueras,offereras,offereras,You had offered
+Active Indicative,Pluperfect,2nd Person,Plural,offeraveratis,offerueratis,offereratis,offereratis,You (pl.) had offered
+Active Indicative,Pluperfect,3rd Person,Singular,offeraverat,offeruerat,offererat,offererat,He/she/it had offered
+Active Indicative,Pluperfect,3rd Person,Plural,offeraverant,offeruerant,offererant,offererant,They had offered
+Active Indicative,Future Perfect,1st Person,Singular,offeravero,offerueero,offerero,offeriero,I will have offered
+Active Indicative,Future Perfect,1st Person,Plural,offeraverimus,offeruerimus,offererimus,offerierimus,We will have offered
+Active Indicative,Future Perfect,2nd Person,Singular,offeraveris,offerueris,offereris,offerieris,You will have offered
+Active Indicative,Future Perfect,2nd Person,Plural,offeraveritis,offerueritis,offereritis,offerieritis,You (pl.) will have offered
+Active Indicative,Future Perfect,3rd Person,Singular,offeraverit,offeruerit,offererit,offerierit,He/she/it will have offered
+Active Indicative,Future Perfect,3rd Person,Plural,offeraverint,offeruerint,offererint,offerierint,They will have offered
+Passive Indicative,Present,1st Person,Singular,offeror,offereor,offeror,offerior,I am being offered
+Passive Indicative,Present,1st Person,Plural,offeramur,offeremur,offerimur,offerimur,We are being offered
+Passive Indicative,Present,2nd Person,Singular,offeraris,offereris,offeriris,offeriris,You are being offered
+Passive Indicative,Present,2nd Person,Plural,offeramini,offeremini,offerimini,offerimini,You (pl.) are being offered
+Passive Indicative,Present,3rd Person,Singular,offeratur,offeretur,offeritur,offeritur,He/she/it is being offered
+Passive Indicative,Present,3rd Person,Plural,offerantur,offerentur,offeriuntur,offeriuntur,They are being offered
+Passive Indicative,Imperfect,1st Person,Singular,offerabar,offerebar,offerebar,offeriebar,I was offered
+Passive Indicative,Imperfect,1st Person,Plural,offerabamur,offerebamur,offerebamur,offeriebamur,We were offered
+Passive Indicative,Imperfect,2nd Person,Singular,offerabaris,offerebaris,offerebaris,offeriebaris,You were offered
+Passive Indicative,Imperfect,2nd Person,Plural,offerabamini,offerebamini,offerebamini,offeriebamini,You (pl.) were offered
+Passive Indicative,Imperfect,3rd Person,Singular,offerabatur,offerebatur,offerebatur,offeriebatur,He/she/it was offered
+Passive Indicative,Imperfect,3rd Person,Plural,offerabantur,offerebantur,offerebantur,offeriebantur,They were offered
+Passive Indicative,Future,1st Person,Singular,offerabor,offerebor,offerar,offeriar,I will be offered
+Passive Indicative,Future,1st Person,Plural,offerabimur,offerebimur,offeremur,offeriemur,We will be offered
+Passive Indicative,Future,2nd Person,Singular,offeraberis,offereberis,offereris,offerieris,You will be offered
+Passive Indicative,Future,2nd Person,Plural,offerabimini,offerebimini,offeremini,offeriemini,You (pl.) will be offered
+Passive Indicative,Future,3rd Person,Singular,offerabitur,offerebitur,offeretur,offerietur,He/she/it will be offered
+Passive Indicative,Future,3rd Person,Plural,offerabuntur,offerebuntur,offerentur,offerientur,They will be offered
+Passive Indicative,Perfect,1st Person,Singular,offeratus sum,offeretus sum,offerus sum,offerus sum,I have been offered
+Passive Indicative,Perfect,1st Person,Plural,offerati sumus,offereti sumus,offeri sumus,offeri sumus,We have been offered
+Passive Indicative,Perfect,2nd Person,Singular,offeratus es,offeretus es,offerus es,offerus es,You have been offered
+Passive Indicative,Perfect,2nd Person,Plural,offerati estis,offereti estis,offeri estis,offeri estis,You (pl.) have been offered
+Passive Indicative,Perfect,3rd Person,Singular,offeratus est,offeretus est,offerus est,offerus est,He/she/it has been offered
+Passive Indicative,Perfect,3rd Person,Plural,offerati sunt,offereti sunt,offeri sunt,offeri sunt,They have been offered
+Passive Indicative,Pluperfect,1st Person,Singular,offeratus eram,offeretus eram,offerus eram,offerus eram,I had been offered
+Passive Indicative,Pluperfect,1st Person,Plural,offerati eramus,offereti eramus,offeri eramus,offeri eramus,We had been offered
+Passive Indicative,Pluperfect,2nd Person,Singular,offeratus eras,offeretus eras,offerus eras,offerus eras,You had been offered
+Passive Indicative,Pluperfect,2nd Person,Plural,offerati eratis,offereti eratis,offeri eratis,offeri eratis,You (pl.) had been offered
+Passive Indicative,Pluperfect,3rd Person,Singular,offeratus erat,offeretus erat,offerus erat,offerus erat,He/she/it had been offered
+Passive Indicative,Pluperfect,3rd Person,Plural,offerati erant,offereti erant,offeri erant,offeri erant,They had been offered
+Passive Indicative,Future Perfect,1st Person,Singular,offeratus ero,offeretus ero,offerus ero,offerus ero,I will have been offered
+Passive Indicative,Future Perfect,1st Person,Plural,offerati erimus,offereti erimus,offeri erimus,offeri erimus,We will have been offered
+Passive Indicative,Future Perfect,2nd Person,Singular,offeratus eris,offeretus eris,offerus eris,offerus eris,You will have been offered
+Passive Indicative,Future Perfect,2nd Person,Plural,offerati eritis,offereti eritis,offeri eritis,offeri eritis,You (pl.) will have been offered
+Passive Indicative,Future Perfect,3rd Person,Singular,offeratus erit,offeretus erit,offerus erit,offerus erit,He/she/it will have been offered
+Passive Indicative,Future Perfect,3rd Person,Plural,offerati erunt,offereti erunt,offeri erunt,offeri erunt,They will have been offered
+Active Subjunctive,Present,1st Person,Singular,offerem,offerem,offeram,offeram,I may offer
+Active Subjunctive,Present,1st Person,Plural,offeremus,offeremus,offeramus,offeramus,We may offer
+Active Subjunctive,Present,2nd Person,Singular,offeres,offeres,offeras,offeras,You may offer
+Active Subjunctive,Present,2nd Person,Plural,offeretis,offeretis,offeratis,offeratis,You (pl.) may offer
+Active Subjunctive,Present,3rd Person,Singular,offeret,offeret,offerat,offerat,He/she/it may offer
+Active Subjunctive,Present,3rd Person,Plural,offerent,offerent,offerant,offerant,They may offer
+Active Subjunctive,Imperfect,1st Person,Singular,offerarem,offererem,offererem,offerirem,I should offer
+Active Subjunctive,Imperfect,1st Person,Plural,offeraremus,offereremus,offereremus,offeriremus,We should offer
+Active Subjunctive,Imperfect,2nd Person,Singular,offerares,offereres,offereres,offerires,You should offer
+Active Subjunctive,Imperfect,2nd Person,Plural,offeraretis,offereretis,offereretis,offeriretis,You (pl.) should offer
+Active Subjunctive,Imperfect,3rd Person,Singular,offeraret,offereret,offereret,offeriret,He/she/it should offer
+Active Subjunctive,Imperfect,3rd Person,Plural,offerarent,offererent,offererent,offerirent,They should offer
+Active Subjunctive,Perfect,1st Person,Singular,offererim,offeruerim,offererim,offerierim,I may have offered
+Active Subjunctive,Perfect,1st Person,Plural,offererimus,offeruerimus,offererimus,offerierimus,We may have offered
+Active Subjunctive,Perfect,2nd Person,Singular,offereris,offerueris,offereris,offerieris,You may have offered
+Active Subjunctive,Perfect,2nd Person,Plural,offereritis,offerueritis,offereritis,offerieritis,You (pl.) may have offered
+Active Subjunctive,Perfect,3rd Person,Singular,offererit,offeruerit,offererit,offerierit,He/she/it may have offered
+Active Subjunctive,Perfect,3rd Person,Plural,offererint,offeruerint,offererint,offerierint,They may have offered
+Active Subjunctive,Pluperfect,1st Person,Singular,offerissem,offeruissem,offerissem,offerissem,I should have offered
+Active Subjunctive,Pluperfect,1st Person,Plural,offerissemus,offeruissemus,offerissemus,offerissemus,We should have offered
+Active Subjunctive,Pluperfect,2nd Person,Singular,offerisses,offeruisses,offerisses,offerisses,You would have offered
+Active Subjunctive,Pluperfect,2nd Person,Plural,offerissetis,offeruissetis,offerissetis,offerissetis,You (pl.) would have offered
+Active Subjunctive,Pluperfect,3rd Person,Singular,offerisset,offeruisset,offerisset,offerisset,He/she/it would have offered
+Active Subjunctive,Pluperfect,3rd Person,Plural,offerissent,offeruissent,offerissent,offerissent,They would have offered
+Passive Subjunctive,Present,1st Person,Singular,offerer,offerer,offerar,offerar,I may be offered
+Passive Subjunctive,Present,1st Person,Plural,offeremur,offeremur,offeramur,offeramur,We may be offered
+Passive Subjunctive,Present,2nd Person,Singular,offereris,offereris,offeraris,offeraris,You may be offered
+Passive Subjunctive,Present,2nd Person,Plural,offeremini,offeremini,offeramini,offeramini,You (pl.) may be offered
+Passive Subjunctive,Present,3rd Person,Singular,offeretur,offeretur,offeratur,offeratur,He/she/it may be offered
+Passive Subjunctive,Present,3rd Person,Plural,offerentur,offerentur,offerantur,offerantur,They may be offered
+Passive Subjunctive,Imperfect,1st Person,Singular,offerarer,offererer,offererer,offerirer,I should be offered
+Passive Subjunctive,Imperfect,1st Person,Plural,offeraremur,offereremur,offereremur,offeriremur,We should be offered
+Passive Subjunctive,Imperfect,2nd Person,Singular,offerareris,offerereris,offerereris,offerireris,You would be offered
+Passive Subjunctive,Imperfect,2nd Person,Plural,offeraremini,offereremini,offereremini,offeriremini,You (pl.) would be offered
+Passive Subjunctive,Imperfect,3rd Person,Singular,offeraretur,offereretur,offereretur,offeriretur,He/she/it would be offered
+Passive Subjunctive,Imperfect,3rd Person,Plural,offerarentur,offererentur,offererentur,offerirentur,They would be offered
+Passive Subjunctive,Perfect,1st Person,Singular,offeratus sim,offeretus sim,offerus sim,offerus sim,I may have been offered
+Passive Subjunctive,Perfect,1st Person,Plural,offerati simus,offereti simus,offeri simus,offeri simus,We may have been offered
+Passive Subjunctive,Perfect,2nd Person,Singular,offeratus sis,offeretus sis,offerus sis,offerus sis,You may have been offered
+Passive Subjunctive,Perfect,2nd Person,Plural,offerati sitis,offereti sitis,offeri sitis,offeri sitis,You (pl.) may have been offered
+Passive Subjunctive,Perfect,3rd Person,Singular,offeratus sit,offeretus sit,offerus sit,offerus sit,He/she/it may have been offered
+Passive Subjunctive,Perfect,3rd Person,Plural,offerati sint,offereti sint,offeri sint,offeri sint,They may have been offered
+Passive Subjunctive,Pluperfect,1st Person,Singular,offeratus essem,offeretus essem,offerus essem,offerus essem,I should have been offered
+Passive Subjunctive,Pluperfect,1st Person,Plural,offerati essemus,offereti essemus,offeri essemus,offeri essemus,We should have been offered
+Passive Subjunctive,Pluperfect,2nd Person,Singular,offeratus esses,offeretus esses,offerus esses,offerus esses,You would have been offered
+Passive Subjunctive,Pluperfect,2nd Person,Plural,offerati essetis,offereti essetis,offeri essetis,offeri essetis,You (pl.) would have been offered
+Passive Subjunctive,Pluperfect,3rd Person,Singular,offeratus esset,offeretus esset,offerus esset,offerus esset,He/she/it would have been offered
+Passive Subjunctive,Pluperfect,3rd Person,Plural,offerati essent,offereti essent,offeri essent,offeri essent,They would have been offered

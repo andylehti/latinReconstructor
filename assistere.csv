@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,assisto,assisteo,assisto,assistio,I attend
+Active Indicative,Present,1st Person,Plural,assistamus,assistemus,assistimus,assistimus,We attend
+Active Indicative,Present,2nd Person,Singular,assistas,assistes,assistis,assistis,You attend
+Active Indicative,Present,2nd Person,Plural,assistatis,assistetis,assistitis,assistitis,You (pl.) attend
+Active Indicative,Present,3rd Person,Singular,assistat,assistet,assistit,assistit,He/she/it attend
+Active Indicative,Present,3rd Person,Plural,assistant,assistent,assistiunt,assistiunt,They attend
+Active Indicative,Imperfect,1st Person,Singular,assistabam,assistebam,assistebam,assistiebam,I was attending
+Active Indicative,Imperfect,1st Person,Plural,assistabamus,assistebamus,assistebamus,assistiebamus,We were attending
+Active Indicative,Imperfect,2nd Person,Singular,assistabas,assistebas,assistebas,assistiebas,You were attending
+Active Indicative,Imperfect,2nd Person,Plural,assistabatis,assistebatis,assistebatis,assistiebatis,You (pl.) were attending
+Active Indicative,Imperfect,3rd Person,Singular,assistabat,assistebat,assistebat,assistiebat,He/she/it was attending
+Active Indicative,Imperfect,3rd Person,Plural,assistabant,assistebant,assistebant,assistiebant,They were attending
+Active Indicative,Future,1st Person,Singular,assistabo,assistebo,assistam,assistiam,I will attend
+Active Indicative,Future,1st Person,Plural,assistabimus,assistebimus,assistemus,assistiemus,We will attend
+Active Indicative,Future,2nd Person,Singular,assistabis,assistebis,assistes,assisties,You will attend
+Active Indicative,Future,2nd Person,Plural,assistabitis,assistebitis,assistetis,assistietis,You (pl.) will attend
+Active Indicative,Future,3rd Person,Singular,assistabit,assistebit,assistet,assistiet,He/she/it will attend
+Active Indicative,Future,3rd Person,Plural,assistabunt,assistebunt,assistent,assistient,They will attend
+Active Indicative,Perfect,1st Person,Singular,assistavi,assistui,assisti,assisti,I have attended
+Active Indicative,Perfect,1st Person,Plural,assistavimus,assistuimus,assistimus,assistimus,We have attended
+Active Indicative,Perfect,2nd Person,Singular,assistavisti,assistuisti,assististi,assististi,You have attended
+Active Indicative,Perfect,2nd Person,Plural,assistavistis,assistuistis,assististis,assististis,You (pl.) have attended
+Active Indicative,Perfect,3rd Person,Singular,assistavit,assistuit,assistit,assistit,He/she/it has attended
+Active Indicative,Perfect,3rd Person,Plural,assistaverunt,assistuerunt,assisterunt,assisterunt,They have attended
+Active Indicative,Pluperfect,1st Person,Singular,assistaveram,assistueram,assisteram,assisteram,I had attended
+Active Indicative,Pluperfect,1st Person,Plural,assistaveramus,assistueramus,assisteramus,assisteramus,We had attended
+Active Indicative,Pluperfect,2nd Person,Singular,assistaveras,assistueras,assisteras,assisteras,You had attended
+Active Indicative,Pluperfect,2nd Person,Plural,assistaveratis,assistueratis,assisteratis,assisteratis,You (pl.) had attended
+Active Indicative,Pluperfect,3rd Person,Singular,assistaverat,assistuerat,assisterat,assisterat,He/she/it had attended
+Active Indicative,Pluperfect,3rd Person,Plural,assistaverant,assistuerant,assisterant,assisterant,They had attended
+Active Indicative,Future Perfect,1st Person,Singular,assistavero,assistueero,assistero,assistiero,I will have attended
+Active Indicative,Future Perfect,1st Person,Plural,assistaverimus,assistuerimus,assisterimus,assistierimus,We will have attended
+Active Indicative,Future Perfect,2nd Person,Singular,assistaveris,assistueris,assisteris,assistieris,You will have attended
+Active Indicative,Future Perfect,2nd Person,Plural,assistaveritis,assistueritis,assisteritis,assistieritis,You (pl.) will have attended
+Active Indicative,Future Perfect,3rd Person,Singular,assistaverit,assistuerit,assisterit,assistierit,He/she/it will have attended
+Active Indicative,Future Perfect,3rd Person,Plural,assistaverint,assistuerint,assisterint,assistierint,They will have attended
+Passive Indicative,Present,1st Person,Singular,assistor,assisteor,assistor,assistior,I am being attended
+Passive Indicative,Present,1st Person,Plural,assistamur,assistemur,assistimur,assistimur,We are being attended
+Passive Indicative,Present,2nd Person,Singular,assistaris,assisteris,assistiris,assistiris,You are being attended
+Passive Indicative,Present,2nd Person,Plural,assistamini,assistemini,assistimini,assistimini,You (pl.) are being attended
+Passive Indicative,Present,3rd Person,Singular,assistatur,assistetur,assistitur,assistitur,He/she/it is being attended
+Passive Indicative,Present,3rd Person,Plural,assistantur,assistentur,assistiuntur,assistiuntur,They are being attended
+Passive Indicative,Imperfect,1st Person,Singular,assistabar,assistebar,assistebar,assistiebar,I was attended
+Passive Indicative,Imperfect,1st Person,Plural,assistabamur,assistebamur,assistebamur,assistiebamur,We were attended
+Passive Indicative,Imperfect,2nd Person,Singular,assistabaris,assistebaris,assistebaris,assistiebaris,You were attended
+Passive Indicative,Imperfect,2nd Person,Plural,assistabamini,assistebamini,assistebamini,assistiebamini,You (pl.) were attended
+Passive Indicative,Imperfect,3rd Person,Singular,assistabatur,assistebatur,assistebatur,assistiebatur,He/she/it was attended
+Passive Indicative,Imperfect,3rd Person,Plural,assistabantur,assistebantur,assistebantur,assistiebantur,They were attended
+Passive Indicative,Future,1st Person,Singular,assistabor,assistebor,assistar,assistiar,I will be attended
+Passive Indicative,Future,1st Person,Plural,assistabimur,assistebimur,assistemur,assistiemur,We will be attended
+Passive Indicative,Future,2nd Person,Singular,assistaberis,assisteberis,assisteris,assistieris,You will be attended
+Passive Indicative,Future,2nd Person,Plural,assistabimini,assistebimini,assistemini,assistiemini,You (pl.) will be attended
+Passive Indicative,Future,3rd Person,Singular,assistabitur,assistebitur,assistetur,assistietur,He/she/it will be attended
+Passive Indicative,Future,3rd Person,Plural,assistabuntur,assistebuntur,assistentur,assistientur,They will be attended
+Passive Indicative,Perfect,1st Person,Singular,assistatus sum,assistetus sum,assistus sum,assistus sum,I have been attended
+Passive Indicative,Perfect,1st Person,Plural,assistati sumus,assisteti sumus,assisti sumus,assisti sumus,We have been attended
+Passive Indicative,Perfect,2nd Person,Singular,assistatus es,assistetus es,assistus es,assistus es,You have been attended
+Passive Indicative,Perfect,2nd Person,Plural,assistati estis,assisteti estis,assisti estis,assisti estis,You (pl.) have been attended
+Passive Indicative,Perfect,3rd Person,Singular,assistatus est,assistetus est,assistus est,assistus est,He/she/it has been attended
+Passive Indicative,Perfect,3rd Person,Plural,assistati sunt,assisteti sunt,assisti sunt,assisti sunt,They have been attended
+Passive Indicative,Pluperfect,1st Person,Singular,assistatus eram,assistetus eram,assistus eram,assistus eram,I had been attended
+Passive Indicative,Pluperfect,1st Person,Plural,assistati eramus,assisteti eramus,assisti eramus,assisti eramus,We had been attended
+Passive Indicative,Pluperfect,2nd Person,Singular,assistatus eras,assistetus eras,assistus eras,assistus eras,You had been attended
+Passive Indicative,Pluperfect,2nd Person,Plural,assistati eratis,assisteti eratis,assisti eratis,assisti eratis,You (pl.) had been attended
+Passive Indicative,Pluperfect,3rd Person,Singular,assistatus erat,assistetus erat,assistus erat,assistus erat,He/she/it had been attended
+Passive Indicative,Pluperfect,3rd Person,Plural,assistati erant,assisteti erant,assisti erant,assisti erant,They had been attended
+Passive Indicative,Future Perfect,1st Person,Singular,assistatus ero,assistetus ero,assistus ero,assistus ero,I will have been attended
+Passive Indicative,Future Perfect,1st Person,Plural,assistati erimus,assisteti erimus,assisti erimus,assisti erimus,We will have been attended
+Passive Indicative,Future Perfect,2nd Person,Singular,assistatus eris,assistetus eris,assistus eris,assistus eris,You will have been attended
+Passive Indicative,Future Perfect,2nd Person,Plural,assistati eritis,assisteti eritis,assisti eritis,assisti eritis,You (pl.) will have been attended
+Passive Indicative,Future Perfect,3rd Person,Singular,assistatus erit,assistetus erit,assistus erit,assistus erit,He/she/it will have been attended
+Passive Indicative,Future Perfect,3rd Person,Plural,assistati erunt,assisteti erunt,assisti erunt,assisti erunt,They will have been attended
+Active Subjunctive,Present,1st Person,Singular,assistem,assistem,assistam,assistam,I may attend
+Active Subjunctive,Present,1st Person,Plural,assistemus,assistemus,assistamus,assistamus,We may attend
+Active Subjunctive,Present,2nd Person,Singular,assistes,assistes,assistas,assistas,You may attend
+Active Subjunctive,Present,2nd Person,Plural,assistetis,assistetis,assistatis,assistatis,You (pl.) may attend
+Active Subjunctive,Present,3rd Person,Singular,assistet,assistet,assistat,assistat,He/she/it may attend
+Active Subjunctive,Present,3rd Person,Plural,assistent,assistent,assistant,assistant,They may attend
+Active Subjunctive,Imperfect,1st Person,Singular,assistarem,assisterem,assisterem,assistirem,I should attend
+Active Subjunctive,Imperfect,1st Person,Plural,assistaremus,assisteremus,assisteremus,assistiremus,We should attend
+Active Subjunctive,Imperfect,2nd Person,Singular,assistares,assisteres,assisteres,assistires,You should attend
+Active Subjunctive,Imperfect,2nd Person,Plural,assistaretis,assisteretis,assisteretis,assistiretis,You (pl.) should attend
+Active Subjunctive,Imperfect,3rd Person,Singular,assistaret,assisteret,assisteret,assistiret,He/she/it should attend
+Active Subjunctive,Imperfect,3rd Person,Plural,assistarent,assisterent,assisterent,assistirent,They should attend
+Active Subjunctive,Perfect,1st Person,Singular,assisterim,assistuerim,assisterim,assistierim,I may have attended
+Active Subjunctive,Perfect,1st Person,Plural,assisterimus,assistuerimus,assisterimus,assistierimus,We may have attended
+Active Subjunctive,Perfect,2nd Person,Singular,assisteris,assistueris,assisteris,assistieris,You may have attended
+Active Subjunctive,Perfect,2nd Person,Plural,assisteritis,assistueritis,assisteritis,assistieritis,You (pl.) may have attended
+Active Subjunctive,Perfect,3rd Person,Singular,assisterit,assistuerit,assisterit,assistierit,He/she/it may have attended
+Active Subjunctive,Perfect,3rd Person,Plural,assisterint,assistuerint,assisterint,assistierint,They may have attended
+Active Subjunctive,Pluperfect,1st Person,Singular,assistissem,assistuissem,assistissem,assistissem,I should have attended
+Active Subjunctive,Pluperfect,1st Person,Plural,assistissemus,assistuissemus,assistissemus,assistissemus,We should have attended
+Active Subjunctive,Pluperfect,2nd Person,Singular,assistisses,assistuisses,assistisses,assistisses,You would have attended
+Active Subjunctive,Pluperfect,2nd Person,Plural,assistissetis,assistuissetis,assistissetis,assistissetis,You (pl.) would have attended
+Active Subjunctive,Pluperfect,3rd Person,Singular,assistisset,assistuisset,assistisset,assistisset,He/she/it would have attended
+Active Subjunctive,Pluperfect,3rd Person,Plural,assistissent,assistuissent,assistissent,assistissent,They would have attended
+Passive Subjunctive,Present,1st Person,Singular,assister,assister,assistar,assistar,I may be attended
+Passive Subjunctive,Present,1st Person,Plural,assistemur,assistemur,assistamur,assistamur,We may be attended
+Passive Subjunctive,Present,2nd Person,Singular,assisteris,assisteris,assistaris,assistaris,You may be attended
+Passive Subjunctive,Present,2nd Person,Plural,assistemini,assistemini,assistamini,assistamini,You (pl.) may be attended
+Passive Subjunctive,Present,3rd Person,Singular,assistetur,assistetur,assistatur,assistatur,He/she/it may be attended
+Passive Subjunctive,Present,3rd Person,Plural,assistentur,assistentur,assistantur,assistantur,They may be attended
+Passive Subjunctive,Imperfect,1st Person,Singular,assistarer,assisterer,assisterer,assistirer,I should be attended
+Passive Subjunctive,Imperfect,1st Person,Plural,assistaremur,assisteremur,assisteremur,assistiremur,We should be attended
+Passive Subjunctive,Imperfect,2nd Person,Singular,assistareris,assistereris,assistereris,assistireris,You would be attended
+Passive Subjunctive,Imperfect,2nd Person,Plural,assistaremini,assisteremini,assisteremini,assistiremini,You (pl.) would be attended
+Passive Subjunctive,Imperfect,3rd Person,Singular,assistaretur,assisteretur,assisteretur,assistiretur,He/she/it would be attended
+Passive Subjunctive,Imperfect,3rd Person,Plural,assistarentur,assisterentur,assisterentur,assistirentur,They would be attended
+Passive Subjunctive,Perfect,1st Person,Singular,assistatus sim,assistetus sim,assistus sim,assistus sim,I may have been attended
+Passive Subjunctive,Perfect,1st Person,Plural,assistati simus,assisteti simus,assisti simus,assisti simus,We may have been attended
+Passive Subjunctive,Perfect,2nd Person,Singular,assistatus sis,assistetus sis,assistus sis,assistus sis,You may have been attended
+Passive Subjunctive,Perfect,2nd Person,Plural,assistati sitis,assisteti sitis,assisti sitis,assisti sitis,You (pl.) may have been attended
+Passive Subjunctive,Perfect,3rd Person,Singular,assistatus sit,assistetus sit,assistus sit,assistus sit,He/she/it may have been attended
+Passive Subjunctive,Perfect,3rd Person,Plural,assistati sint,assisteti sint,assisti sint,assisti sint,They may have been attended
+Passive Subjunctive,Pluperfect,1st Person,Singular,assistatus essem,assistetus essem,assistus essem,assistus essem,I should have been attended
+Passive Subjunctive,Pluperfect,1st Person,Plural,assistati essemus,assisteti essemus,assisti essemus,assisti essemus,We should have been attended
+Passive Subjunctive,Pluperfect,2nd Person,Singular,assistatus esses,assistetus esses,assistus esses,assistus esses,You would have been attended
+Passive Subjunctive,Pluperfect,2nd Person,Plural,assistati essetis,assisteti essetis,assisti essetis,assisti essetis,You (pl.) would have been attended
+Passive Subjunctive,Pluperfect,3rd Person,Singular,assistatus esset,assistetus esset,assistus esset,assistus esset,He/she/it would have been attended
+Passive Subjunctive,Pluperfect,3rd Person,Plural,assistati essent,assisteti essent,assisti essent,assisti essent,They would have been attended

@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,cupero,cupereo,cupero,cuperio,I seize
+Active Indicative,Present,1st Person,Plural,cuperamus,cuperemus,cuperimus,cuperimus,We seize
+Active Indicative,Present,2nd Person,Singular,cuperas,cuperes,cuperis,cuperis,You seize
+Active Indicative,Present,2nd Person,Plural,cuperatis,cuperetis,cuperitis,cuperitis,You (pl.) seize
+Active Indicative,Present,3rd Person,Singular,cuperat,cuperet,cuperit,cuperit,He/she/it seize
+Active Indicative,Present,3rd Person,Plural,cuperant,cuperent,cuperiunt,cuperiunt,They seize
+Active Indicative,Imperfect,1st Person,Singular,cuperabam,cuperebam,cuperebam,cuperiebam,I was seizeing
+Active Indicative,Imperfect,1st Person,Plural,cuperabamus,cuperebamus,cuperebamus,cuperiebamus,We were seizeing
+Active Indicative,Imperfect,2nd Person,Singular,cuperabas,cuperebas,cuperebas,cuperiebas,You were seizeing
+Active Indicative,Imperfect,2nd Person,Plural,cuperabatis,cuperebatis,cuperebatis,cuperiebatis,You (pl.) were seizeing
+Active Indicative,Imperfect,3rd Person,Singular,cuperabat,cuperebat,cuperebat,cuperiebat,He/she/it was seizeing
+Active Indicative,Imperfect,3rd Person,Plural,cuperabant,cuperebant,cuperebant,cuperiebant,They were seizeing
+Active Indicative,Future,1st Person,Singular,cuperabo,cuperebo,cuperam,cuperiam,I will seize
+Active Indicative,Future,1st Person,Plural,cuperabimus,cuperebimus,cuperemus,cuperiemus,We will seize
+Active Indicative,Future,2nd Person,Singular,cuperabis,cuperebis,cuperes,cuperies,You will seize
+Active Indicative,Future,2nd Person,Plural,cuperabitis,cuperebitis,cuperetis,cuperietis,You (pl.) will seize
+Active Indicative,Future,3rd Person,Singular,cuperabit,cuperebit,cuperet,cuperiet,He/she/it will seize
+Active Indicative,Future,3rd Person,Plural,cuperabunt,cuperebunt,cuperent,cuperient,They will seize
+Active Indicative,Perfect,1st Person,Singular,cuperavi,cuperui,cuperi,cuperi,I have seizeed
+Active Indicative,Perfect,1st Person,Plural,cuperavimus,cuperuimus,cuperimus,cuperimus,We have seizeed
+Active Indicative,Perfect,2nd Person,Singular,cuperavisti,cuperuisti,cuperisti,cuperisti,You have seizeed
+Active Indicative,Perfect,2nd Person,Plural,cuperavistis,cuperuistis,cuperistis,cuperistis,You (pl.) have seizeed
+Active Indicative,Perfect,3rd Person,Singular,cuperavit,cuperuit,cuperit,cuperit,He/she/it has seizeed
+Active Indicative,Perfect,3rd Person,Plural,cuperaverunt,cuperuerunt,cupererunt,cupererunt,They have seizeed
+Active Indicative,Pluperfect,1st Person,Singular,cuperaveram,cuperueram,cupereram,cupereram,I had seizeed
+Active Indicative,Pluperfect,1st Person,Plural,cuperaveramus,cuperueramus,cupereramus,cupereramus,We had seizeed
+Active Indicative,Pluperfect,2nd Person,Singular,cuperaveras,cuperueras,cupereras,cupereras,You had seizeed
+Active Indicative,Pluperfect,2nd Person,Plural,cuperaveratis,cuperueratis,cupereratis,cupereratis,You (pl.) had seizeed
+Active Indicative,Pluperfect,3rd Person,Singular,cuperaverat,cuperuerat,cupererat,cupererat,He/she/it had seizeed
+Active Indicative,Pluperfect,3rd Person,Plural,cuperaverant,cuperuerant,cupererant,cupererant,They had seizeed
+Active Indicative,Future Perfect,1st Person,Singular,cuperavero,cuperueero,cuperero,cuperiero,I will have seizeed
+Active Indicative,Future Perfect,1st Person,Plural,cuperaverimus,cuperuerimus,cupererimus,cuperierimus,We will have seizeed
+Active Indicative,Future Perfect,2nd Person,Singular,cuperaveris,cuperueris,cupereris,cuperieris,You will have seizeed
+Active Indicative,Future Perfect,2nd Person,Plural,cuperaveritis,cuperueritis,cupereritis,cuperieritis,You (pl.) will have seizeed
+Active Indicative,Future Perfect,3rd Person,Singular,cuperaverit,cuperuerit,cupererit,cuperierit,He/she/it will have seizeed
+Active Indicative,Future Perfect,3rd Person,Plural,cuperaverint,cuperuerint,cupererint,cuperierint,They will have seizeed
+Passive Indicative,Present,1st Person,Singular,cuperor,cupereor,cuperor,cuperior,I am being seizeed
+Passive Indicative,Present,1st Person,Plural,cuperamur,cuperemur,cuperimur,cuperimur,We are being seizeed
+Passive Indicative,Present,2nd Person,Singular,cuperaris,cupereris,cuperiris,cuperiris,You are being seizeed
+Passive Indicative,Present,2nd Person,Plural,cuperamini,cuperemini,cuperimini,cuperimini,You (pl.) are being seizeed
+Passive Indicative,Present,3rd Person,Singular,cuperatur,cuperetur,cuperitur,cuperitur,He/she/it is being seizeed
+Passive Indicative,Present,3rd Person,Plural,cuperantur,cuperentur,cuperiuntur,cuperiuntur,They are being seizeed
+Passive Indicative,Imperfect,1st Person,Singular,cuperabar,cuperebar,cuperebar,cuperiebar,I was seizeed
+Passive Indicative,Imperfect,1st Person,Plural,cuperabamur,cuperebamur,cuperebamur,cuperiebamur,We were seizeed
+Passive Indicative,Imperfect,2nd Person,Singular,cuperabaris,cuperebaris,cuperebaris,cuperiebaris,You were seizeed
+Passive Indicative,Imperfect,2nd Person,Plural,cuperabamini,cuperebamini,cuperebamini,cuperiebamini,You (pl.) were seizeed
+Passive Indicative,Imperfect,3rd Person,Singular,cuperabatur,cuperebatur,cuperebatur,cuperiebatur,He/she/it was seizeed
+Passive Indicative,Imperfect,3rd Person,Plural,cuperabantur,cuperebantur,cuperebantur,cuperiebantur,They were seizeed
+Passive Indicative,Future,1st Person,Singular,cuperabor,cuperebor,cuperar,cuperiar,I will be seizeed
+Passive Indicative,Future,1st Person,Plural,cuperabimur,cuperebimur,cuperemur,cuperiemur,We will be seizeed
+Passive Indicative,Future,2nd Person,Singular,cuperaberis,cupereberis,cupereris,cuperieris,You will be seizeed
+Passive Indicative,Future,2nd Person,Plural,cuperabimini,cuperebimini,cuperemini,cuperiemini,You (pl.) will be seizeed
+Passive Indicative,Future,3rd Person,Singular,cuperabitur,cuperebitur,cuperetur,cuperietur,He/she/it will be seizeed
+Passive Indicative,Future,3rd Person,Plural,cuperabuntur,cuperebuntur,cuperentur,cuperientur,They will be seizeed
+Passive Indicative,Perfect,1st Person,Singular,cuperatus sum,cuperetus sum,cuperus sum,cuperus sum,I have been seizeed
+Passive Indicative,Perfect,1st Person,Plural,cuperati sumus,cupereti sumus,cuperi sumus,cuperi sumus,We have been seizeed
+Passive Indicative,Perfect,2nd Person,Singular,cuperatus es,cuperetus es,cuperus es,cuperus es,You have been seizeed
+Passive Indicative,Perfect,2nd Person,Plural,cuperati estis,cupereti estis,cuperi estis,cuperi estis,You (pl.) have been seizeed
+Passive Indicative,Perfect,3rd Person,Singular,cuperatus est,cuperetus est,cuperus est,cuperus est,He/she/it has been seizeed
+Passive Indicative,Perfect,3rd Person,Plural,cuperati sunt,cupereti sunt,cuperi sunt,cuperi sunt,They have been seizeed
+Passive Indicative,Pluperfect,1st Person,Singular,cuperatus eram,cuperetus eram,cuperus eram,cuperus eram,I had been seizeed
+Passive Indicative,Pluperfect,1st Person,Plural,cuperati eramus,cupereti eramus,cuperi eramus,cuperi eramus,We had been seizeed
+Passive Indicative,Pluperfect,2nd Person,Singular,cuperatus eras,cuperetus eras,cuperus eras,cuperus eras,You had been seizeed
+Passive Indicative,Pluperfect,2nd Person,Plural,cuperati eratis,cupereti eratis,cuperi eratis,cuperi eratis,You (pl.) had been seizeed
+Passive Indicative,Pluperfect,3rd Person,Singular,cuperatus erat,cuperetus erat,cuperus erat,cuperus erat,He/she/it had been seizeed
+Passive Indicative,Pluperfect,3rd Person,Plural,cuperati erant,cupereti erant,cuperi erant,cuperi erant,They had been seizeed
+Passive Indicative,Future Perfect,1st Person,Singular,cuperatus ero,cuperetus ero,cuperus ero,cuperus ero,I will have been seizeed
+Passive Indicative,Future Perfect,1st Person,Plural,cuperati erimus,cupereti erimus,cuperi erimus,cuperi erimus,We will have been seizeed
+Passive Indicative,Future Perfect,2nd Person,Singular,cuperatus eris,cuperetus eris,cuperus eris,cuperus eris,You will have been seizeed
+Passive Indicative,Future Perfect,2nd Person,Plural,cuperati eritis,cupereti eritis,cuperi eritis,cuperi eritis,You (pl.) will have been seizeed
+Passive Indicative,Future Perfect,3rd Person,Singular,cuperatus erit,cuperetus erit,cuperus erit,cuperus erit,He/she/it will have been seizeed
+Passive Indicative,Future Perfect,3rd Person,Plural,cuperati erunt,cupereti erunt,cuperi erunt,cuperi erunt,They will have been seizeed
+Active Subjunctive,Present,1st Person,Singular,cuperem,cuperem,cuperam,cuperam,I may seize
+Active Subjunctive,Present,1st Person,Plural,cuperemus,cuperemus,cuperamus,cuperamus,We may seize
+Active Subjunctive,Present,2nd Person,Singular,cuperes,cuperes,cuperas,cuperas,You may seize
+Active Subjunctive,Present,2nd Person,Plural,cuperetis,cuperetis,cuperatis,cuperatis,You (pl.) may seize
+Active Subjunctive,Present,3rd Person,Singular,cuperet,cuperet,cuperat,cuperat,He/she/it may seize
+Active Subjunctive,Present,3rd Person,Plural,cuperent,cuperent,cuperant,cuperant,They may seize
+Active Subjunctive,Imperfect,1st Person,Singular,cuperarem,cupererem,cupererem,cuperirem,I should seize
+Active Subjunctive,Imperfect,1st Person,Plural,cuperaremus,cupereremus,cupereremus,cuperiremus,We should seize
+Active Subjunctive,Imperfect,2nd Person,Singular,cuperares,cupereres,cupereres,cuperires,You should seize
+Active Subjunctive,Imperfect,2nd Person,Plural,cuperaretis,cupereretis,cupereretis,cuperiretis,You (pl.) should seize
+Active Subjunctive,Imperfect,3rd Person,Singular,cuperaret,cupereret,cupereret,cuperiret,He/she/it should seize
+Active Subjunctive,Imperfect,3rd Person,Plural,cuperarent,cupererent,cupererent,cuperirent,They should seize
+Active Subjunctive,Perfect,1st Person,Singular,cupererim,cuperuerim,cupererim,cuperierim,I may have seizeed
+Active Subjunctive,Perfect,1st Person,Plural,cupererimus,cuperuerimus,cupererimus,cuperierimus,We may have seizeed
+Active Subjunctive,Perfect,2nd Person,Singular,cupereris,cuperueris,cupereris,cuperieris,You may have seizeed
+Active Subjunctive,Perfect,2nd Person,Plural,cupereritis,cuperueritis,cupereritis,cuperieritis,You (pl.) may have seizeed
+Active Subjunctive,Perfect,3rd Person,Singular,cupererit,cuperuerit,cupererit,cuperierit,He/she/it may have seizeed
+Active Subjunctive,Perfect,3rd Person,Plural,cupererint,cuperuerint,cupererint,cuperierint,They may have seizeed
+Active Subjunctive,Pluperfect,1st Person,Singular,cuperissem,cuperuissem,cuperissem,cuperissem,I should have seizeed
+Active Subjunctive,Pluperfect,1st Person,Plural,cuperissemus,cuperuissemus,cuperissemus,cuperissemus,We should have seizeed
+Active Subjunctive,Pluperfect,2nd Person,Singular,cuperisses,cuperuisses,cuperisses,cuperisses,You would have seizeed
+Active Subjunctive,Pluperfect,2nd Person,Plural,cuperissetis,cuperuissetis,cuperissetis,cuperissetis,You (pl.) would have seizeed
+Active Subjunctive,Pluperfect,3rd Person,Singular,cuperisset,cuperuisset,cuperisset,cuperisset,He/she/it would have seizeed
+Active Subjunctive,Pluperfect,3rd Person,Plural,cuperissent,cuperuissent,cuperissent,cuperissent,They would have seizeed
+Passive Subjunctive,Present,1st Person,Singular,cuperer,cuperer,cuperar,cuperar,I may be seizeed
+Passive Subjunctive,Present,1st Person,Plural,cuperemur,cuperemur,cuperamur,cuperamur,We may be seizeed
+Passive Subjunctive,Present,2nd Person,Singular,cupereris,cupereris,cuperaris,cuperaris,You may be seizeed
+Passive Subjunctive,Present,2nd Person,Plural,cuperemini,cuperemini,cuperamini,cuperamini,You (pl.) may be seizeed
+Passive Subjunctive,Present,3rd Person,Singular,cuperetur,cuperetur,cuperatur,cuperatur,He/she/it may be seizeed
+Passive Subjunctive,Present,3rd Person,Plural,cuperentur,cuperentur,cuperantur,cuperantur,They may be seizeed
+Passive Subjunctive,Imperfect,1st Person,Singular,cuperarer,cupererer,cupererer,cuperirer,I should be seizeed
+Passive Subjunctive,Imperfect,1st Person,Plural,cuperaremur,cupereremur,cupereremur,cuperiremur,We should be seizeed
+Passive Subjunctive,Imperfect,2nd Person,Singular,cuperareris,cuperereris,cuperereris,cuperireris,You would be seizeed
+Passive Subjunctive,Imperfect,2nd Person,Plural,cuperaremini,cupereremini,cupereremini,cuperiremini,You (pl.) would be seizeed
+Passive Subjunctive,Imperfect,3rd Person,Singular,cuperaretur,cupereretur,cupereretur,cuperiretur,He/she/it would be seizeed
+Passive Subjunctive,Imperfect,3rd Person,Plural,cuperarentur,cupererentur,cupererentur,cuperirentur,They would be seizeed
+Passive Subjunctive,Perfect,1st Person,Singular,cuperatus sim,cuperetus sim,cuperus sim,cuperus sim,I may have been seizeed
+Passive Subjunctive,Perfect,1st Person,Plural,cuperati simus,cupereti simus,cuperi simus,cuperi simus,We may have been seizeed
+Passive Subjunctive,Perfect,2nd Person,Singular,cuperatus sis,cuperetus sis,cuperus sis,cuperus sis,You may have been seizeed
+Passive Subjunctive,Perfect,2nd Person,Plural,cuperati sitis,cupereti sitis,cuperi sitis,cuperi sitis,You (pl.) may have been seizeed
+Passive Subjunctive,Perfect,3rd Person,Singular,cuperatus sit,cuperetus sit,cuperus sit,cuperus sit,He/she/it may have been seizeed
+Passive Subjunctive,Perfect,3rd Person,Plural,cuperati sint,cupereti sint,cuperi sint,cuperi sint,They may have been seizeed
+Passive Subjunctive,Pluperfect,1st Person,Singular,cuperatus essem,cuperetus essem,cuperus essem,cuperus essem,I should have been seizeed
+Passive Subjunctive,Pluperfect,1st Person,Plural,cuperati essemus,cupereti essemus,cuperi essemus,cuperi essemus,We should have been seizeed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,cuperatus esses,cuperetus esses,cuperus esses,cuperus esses,You would have been seizeed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,cuperati essetis,cupereti essetis,cuperi essetis,cuperi essetis,You (pl.) would have been seizeed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,cuperatus esset,cuperetus esset,cuperus esset,cuperus esset,He/she/it would have been seizeed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,cuperati essent,cupereti essent,cuperi essent,cuperi essent,They would have been seizeed

@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,feno,feneo,feno,fenio,I make hay
+Active Indicative,Present,1st Person,Plural,fenamus,fenemus,fenimus,fenimus,We make hay
+Active Indicative,Present,2nd Person,Singular,fenas,fenes,fenis,fenis,You make hay
+Active Indicative,Present,2nd Person,Plural,fenatis,fenetis,fenitis,fenitis,You (pl.) make hay
+Active Indicative,Present,3rd Person,Singular,fenat,fenet,fenit,fenit,He/she/it make hay
+Active Indicative,Present,3rd Person,Plural,fenant,fenent,feniunt,feniunt,They make hay
+Active Indicative,Imperfect,1st Person,Singular,fenabam,fenebam,fenebam,feniebam,I was make haying
+Active Indicative,Imperfect,1st Person,Plural,fenabamus,fenebamus,fenebamus,feniebamus,We were make haying
+Active Indicative,Imperfect,2nd Person,Singular,fenabas,fenebas,fenebas,feniebas,You were make haying
+Active Indicative,Imperfect,2nd Person,Plural,fenabatis,fenebatis,fenebatis,feniebatis,You (pl.) were make haying
+Active Indicative,Imperfect,3rd Person,Singular,fenabat,fenebat,fenebat,feniebat,He/she/it was make haying
+Active Indicative,Imperfect,3rd Person,Plural,fenabant,fenebant,fenebant,feniebant,They were make haying
+Active Indicative,Future,1st Person,Singular,fenabo,fenebo,fenam,feniam,I will make hay
+Active Indicative,Future,1st Person,Plural,fenabimus,fenebimus,fenemus,feniemus,We will make hay
+Active Indicative,Future,2nd Person,Singular,fenabis,fenebis,fenes,fenies,You will make hay
+Active Indicative,Future,2nd Person,Plural,fenabitis,fenebitis,fenetis,fenietis,You (pl.) will make hay
+Active Indicative,Future,3rd Person,Singular,fenabit,fenebit,fenet,feniet,He/she/it will make hay
+Active Indicative,Future,3rd Person,Plural,fenabunt,fenebunt,fenent,fenient,They will make hay
+Active Indicative,Perfect,1st Person,Singular,fenavi,fenui,feni,feni,I have make hayed
+Active Indicative,Perfect,1st Person,Plural,fenavimus,fenuimus,fenimus,fenimus,We have make hayed
+Active Indicative,Perfect,2nd Person,Singular,fenavisti,fenuisti,fenisti,fenisti,You have make hayed
+Active Indicative,Perfect,2nd Person,Plural,fenavistis,fenuistis,fenistis,fenistis,You (pl.) have make hayed
+Active Indicative,Perfect,3rd Person,Singular,fenavit,fenuit,fenit,fenit,He/she/it has make hayed
+Active Indicative,Perfect,3rd Person,Plural,fenaverunt,fenuerunt,fenerunt,fenerunt,They have make hayed
+Active Indicative,Pluperfect,1st Person,Singular,fenaveram,fenueram,feneram,feneram,I had make hayed
+Active Indicative,Pluperfect,1st Person,Plural,fenaveramus,fenueramus,feneramus,feneramus,We had make hayed
+Active Indicative,Pluperfect,2nd Person,Singular,fenaveras,fenueras,feneras,feneras,You had make hayed
+Active Indicative,Pluperfect,2nd Person,Plural,fenaveratis,fenueratis,feneratis,feneratis,You (pl.) had make hayed
+Active Indicative,Pluperfect,3rd Person,Singular,fenaverat,fenuerat,fenerat,fenerat,He/she/it had make hayed
+Active Indicative,Pluperfect,3rd Person,Plural,fenaverant,fenuerant,fenerant,fenerant,They had make hayed
+Active Indicative,Future Perfect,1st Person,Singular,fenavero,fenueero,fenero,feniero,I will have make hayed
+Active Indicative,Future Perfect,1st Person,Plural,fenaverimus,fenuerimus,fenerimus,fenierimus,We will have make hayed
+Active Indicative,Future Perfect,2nd Person,Singular,fenaveris,fenueris,feneris,fenieris,You will have make hayed
+Active Indicative,Future Perfect,2nd Person,Plural,fenaveritis,fenueritis,feneritis,fenieritis,You (pl.) will have make hayed
+Active Indicative,Future Perfect,3rd Person,Singular,fenaverit,fenuerit,fenerit,fenierit,He/she/it will have make hayed
+Active Indicative,Future Perfect,3rd Person,Plural,fenaverint,fenuerint,fenerint,fenierint,They will have make hayed
+Passive Indicative,Present,1st Person,Singular,fenor,feneor,fenor,fenior,I am being make hayed
+Passive Indicative,Present,1st Person,Plural,fenamur,fenemur,fenimur,fenimur,We are being make hayed
+Passive Indicative,Present,2nd Person,Singular,fenaris,feneris,feniris,feniris,You are being make hayed
+Passive Indicative,Present,2nd Person,Plural,fenamini,fenemini,fenimini,fenimini,You (pl.) are being make hayed
+Passive Indicative,Present,3rd Person,Singular,fenatur,fenetur,fenitur,fenitur,He/she/it is being make hayed
+Passive Indicative,Present,3rd Person,Plural,fenantur,fenentur,feniuntur,feniuntur,They are being make hayed
+Passive Indicative,Imperfect,1st Person,Singular,fenabar,fenebar,fenebar,feniebar,I was make hayed
+Passive Indicative,Imperfect,1st Person,Plural,fenabamur,fenebamur,fenebamur,feniebamur,We were make hayed
+Passive Indicative,Imperfect,2nd Person,Singular,fenabaris,fenebaris,fenebaris,feniebaris,You were make hayed
+Passive Indicative,Imperfect,2nd Person,Plural,fenabamini,fenebamini,fenebamini,feniebamini,You (pl.) were make hayed
+Passive Indicative,Imperfect,3rd Person,Singular,fenabatur,fenebatur,fenebatur,feniebatur,He/she/it was make hayed
+Passive Indicative,Imperfect,3rd Person,Plural,fenabantur,fenebantur,fenebantur,feniebantur,They were make hayed
+Passive Indicative,Future,1st Person,Singular,fenabor,fenebor,fenar,feniar,I will be make hayed
+Passive Indicative,Future,1st Person,Plural,fenabimur,fenebimur,fenemur,feniemur,We will be make hayed
+Passive Indicative,Future,2nd Person,Singular,fenaberis,feneberis,feneris,fenieris,You will be make hayed
+Passive Indicative,Future,2nd Person,Plural,fenabimini,fenebimini,fenemini,feniemini,You (pl.) will be make hayed
+Passive Indicative,Future,3rd Person,Singular,fenabitur,fenebitur,fenetur,fenietur,He/she/it will be make hayed
+Passive Indicative,Future,3rd Person,Plural,fenabuntur,fenebuntur,fenentur,fenientur,They will be make hayed
+Passive Indicative,Perfect,1st Person,Singular,fenatus sum,fenetus sum,fenus sum,fenus sum,I have been make hayed
+Passive Indicative,Perfect,1st Person,Plural,fenati sumus,feneti sumus,feni sumus,feni sumus,We have been make hayed
+Passive Indicative,Perfect,2nd Person,Singular,fenatus es,fenetus es,fenus es,fenus es,You have been make hayed
+Passive Indicative,Perfect,2nd Person,Plural,fenati estis,feneti estis,feni estis,feni estis,You (pl.) have been make hayed
+Passive Indicative,Perfect,3rd Person,Singular,fenatus est,fenetus est,fenus est,fenus est,He/she/it has been make hayed
+Passive Indicative,Perfect,3rd Person,Plural,fenati sunt,feneti sunt,feni sunt,feni sunt,They have been make hayed
+Passive Indicative,Pluperfect,1st Person,Singular,fenatus eram,fenetus eram,fenus eram,fenus eram,I had been make hayed
+Passive Indicative,Pluperfect,1st Person,Plural,fenati eramus,feneti eramus,feni eramus,feni eramus,We had been make hayed
+Passive Indicative,Pluperfect,2nd Person,Singular,fenatus eras,fenetus eras,fenus eras,fenus eras,You had been make hayed
+Passive Indicative,Pluperfect,2nd Person,Plural,fenati eratis,feneti eratis,feni eratis,feni eratis,You (pl.) had been make hayed
+Passive Indicative,Pluperfect,3rd Person,Singular,fenatus erat,fenetus erat,fenus erat,fenus erat,He/she/it had been make hayed
+Passive Indicative,Pluperfect,3rd Person,Plural,fenati erant,feneti erant,feni erant,feni erant,They had been make hayed
+Passive Indicative,Future Perfect,1st Person,Singular,fenatus ero,fenetus ero,fenus ero,fenus ero,I will have been make hayed
+Passive Indicative,Future Perfect,1st Person,Plural,fenati erimus,feneti erimus,feni erimus,feni erimus,We will have been make hayed
+Passive Indicative,Future Perfect,2nd Person,Singular,fenatus eris,fenetus eris,fenus eris,fenus eris,You will have been make hayed
+Passive Indicative,Future Perfect,2nd Person,Plural,fenati eritis,feneti eritis,feni eritis,feni eritis,You (pl.) will have been make hayed
+Passive Indicative,Future Perfect,3rd Person,Singular,fenatus erit,fenetus erit,fenus erit,fenus erit,He/she/it will have been make hayed
+Passive Indicative,Future Perfect,3rd Person,Plural,fenati erunt,feneti erunt,feni erunt,feni erunt,They will have been make hayed
+Active Subjunctive,Present,1st Person,Singular,fenem,fenem,fenam,fenam,I may make hay
+Active Subjunctive,Present,1st Person,Plural,fenemus,fenemus,fenamus,fenamus,We may make hay
+Active Subjunctive,Present,2nd Person,Singular,fenes,fenes,fenas,fenas,You may make hay
+Active Subjunctive,Present,2nd Person,Plural,fenetis,fenetis,fenatis,fenatis,You (pl.) may make hay
+Active Subjunctive,Present,3rd Person,Singular,fenet,fenet,fenat,fenat,He/she/it may make hay
+Active Subjunctive,Present,3rd Person,Plural,fenent,fenent,fenant,fenant,They may make hay
+Active Subjunctive,Imperfect,1st Person,Singular,fenarem,fenerem,fenerem,fenirem,I should make hay
+Active Subjunctive,Imperfect,1st Person,Plural,fenaremus,feneremus,feneremus,feniremus,We should make hay
+Active Subjunctive,Imperfect,2nd Person,Singular,fenares,feneres,feneres,fenires,You should make hay
+Active Subjunctive,Imperfect,2nd Person,Plural,fenaretis,feneretis,feneretis,feniretis,You (pl.) should make hay
+Active Subjunctive,Imperfect,3rd Person,Singular,fenaret,feneret,feneret,feniret,He/she/it should make hay
+Active Subjunctive,Imperfect,3rd Person,Plural,fenarent,fenerent,fenerent,fenirent,They should make hay
+Active Subjunctive,Perfect,1st Person,Singular,fenerim,fenuerim,fenerim,fenierim,I may have make hayed
+Active Subjunctive,Perfect,1st Person,Plural,fenerimus,fenuerimus,fenerimus,fenierimus,We may have make hayed
+Active Subjunctive,Perfect,2nd Person,Singular,feneris,fenueris,feneris,fenieris,You may have make hayed
+Active Subjunctive,Perfect,2nd Person,Plural,feneritis,fenueritis,feneritis,fenieritis,You (pl.) may have make hayed
+Active Subjunctive,Perfect,3rd Person,Singular,fenerit,fenuerit,fenerit,fenierit,He/she/it may have make hayed
+Active Subjunctive,Perfect,3rd Person,Plural,fenerint,fenuerint,fenerint,fenierint,They may have make hayed
+Active Subjunctive,Pluperfect,1st Person,Singular,fenissem,fenuissem,fenissem,fenissem,I should have make hayed
+Active Subjunctive,Pluperfect,1st Person,Plural,fenissemus,fenuissemus,fenissemus,fenissemus,We should have make hayed
+Active Subjunctive,Pluperfect,2nd Person,Singular,fenisses,fenuisses,fenisses,fenisses,You would have make hayed
+Active Subjunctive,Pluperfect,2nd Person,Plural,fenissetis,fenuissetis,fenissetis,fenissetis,You (pl.) would have make hayed
+Active Subjunctive,Pluperfect,3rd Person,Singular,fenisset,fenuisset,fenisset,fenisset,He/she/it would have make hayed
+Active Subjunctive,Pluperfect,3rd Person,Plural,fenissent,fenuissent,fenissent,fenissent,They would have make hayed
+Passive Subjunctive,Present,1st Person,Singular,fener,fener,fenar,fenar,I may be make hayed
+Passive Subjunctive,Present,1st Person,Plural,fenemur,fenemur,fenamur,fenamur,We may be make hayed
+Passive Subjunctive,Present,2nd Person,Singular,feneris,feneris,fenaris,fenaris,You may be make hayed
+Passive Subjunctive,Present,2nd Person,Plural,fenemini,fenemini,fenamini,fenamini,You (pl.) may be make hayed
+Passive Subjunctive,Present,3rd Person,Singular,fenetur,fenetur,fenatur,fenatur,He/she/it may be make hayed
+Passive Subjunctive,Present,3rd Person,Plural,fenentur,fenentur,fenantur,fenantur,They may be make hayed
+Passive Subjunctive,Imperfect,1st Person,Singular,fenarer,fenerer,fenerer,fenirer,I should be make hayed
+Passive Subjunctive,Imperfect,1st Person,Plural,fenaremur,feneremur,feneremur,feniremur,We should be make hayed
+Passive Subjunctive,Imperfect,2nd Person,Singular,fenareris,fenereris,fenereris,fenireris,You would be make hayed
+Passive Subjunctive,Imperfect,2nd Person,Plural,fenaremini,feneremini,feneremini,feniremini,You (pl.) would be make hayed
+Passive Subjunctive,Imperfect,3rd Person,Singular,fenaretur,feneretur,feneretur,feniretur,He/she/it would be make hayed
+Passive Subjunctive,Imperfect,3rd Person,Plural,fenarentur,fenerentur,fenerentur,fenirentur,They would be make hayed
+Passive Subjunctive,Perfect,1st Person,Singular,fenatus sim,fenetus sim,fenus sim,fenus sim,I may have been make hayed
+Passive Subjunctive,Perfect,1st Person,Plural,fenati simus,feneti simus,feni simus,feni simus,We may have been make hayed
+Passive Subjunctive,Perfect,2nd Person,Singular,fenatus sis,fenetus sis,fenus sis,fenus sis,You may have been make hayed
+Passive Subjunctive,Perfect,2nd Person,Plural,fenati sitis,feneti sitis,feni sitis,feni sitis,You (pl.) may have been make hayed
+Passive Subjunctive,Perfect,3rd Person,Singular,fenatus sit,fenetus sit,fenus sit,fenus sit,He/she/it may have been make hayed
+Passive Subjunctive,Perfect,3rd Person,Plural,fenati sint,feneti sint,feni sint,feni sint,They may have been make hayed
+Passive Subjunctive,Pluperfect,1st Person,Singular,fenatus essem,fenetus essem,fenus essem,fenus essem,I should have been make hayed
+Passive Subjunctive,Pluperfect,1st Person,Plural,fenati essemus,feneti essemus,feni essemus,feni essemus,We should have been make hayed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,fenatus esses,fenetus esses,fenus esses,fenus esses,You would have been make hayed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,fenati essetis,feneti essetis,feni essetis,feni essetis,You (pl.) would have been make hayed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,fenatus esset,fenetus esset,fenus esset,fenus esset,He/she/it would have been make hayed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,fenati essent,feneti essent,feni essent,feni essent,They would have been make hayed

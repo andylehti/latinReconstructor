@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,accommodo,accommodeo,accommodo,accommodio,I fit
+Active Indicative,Present,1st Person,Plural,accommodamus,accommodemus,accommodimus,accommodimus,We fit
+Active Indicative,Present,2nd Person,Singular,accommodas,accommodes,accommodis,accommodis,You fit
+Active Indicative,Present,2nd Person,Plural,accommodatis,accommodetis,accommoditis,accommoditis,You (pl.) fit
+Active Indicative,Present,3rd Person,Singular,accommodat,accommodet,accommodit,accommodit,He/she/it fit
+Active Indicative,Present,3rd Person,Plural,accommodant,accommodent,accommodiunt,accommodiunt,They fit
+Active Indicative,Imperfect,1st Person,Singular,accommodabam,accommodebam,accommodebam,accommodiebam,I was fiting
+Active Indicative,Imperfect,1st Person,Plural,accommodabamus,accommodebamus,accommodebamus,accommodiebamus,We were fiting
+Active Indicative,Imperfect,2nd Person,Singular,accommodabas,accommodebas,accommodebas,accommodiebas,You were fiting
+Active Indicative,Imperfect,2nd Person,Plural,accommodabatis,accommodebatis,accommodebatis,accommodiebatis,You (pl.) were fiting
+Active Indicative,Imperfect,3rd Person,Singular,accommodabat,accommodebat,accommodebat,accommodiebat,He/she/it was fiting
+Active Indicative,Imperfect,3rd Person,Plural,accommodabant,accommodebant,accommodebant,accommodiebant,They were fiting
+Active Indicative,Future,1st Person,Singular,accommodabo,accommodebo,accommodam,accommodiam,I will fit
+Active Indicative,Future,1st Person,Plural,accommodabimus,accommodebimus,accommodemus,accommodiemus,We will fit
+Active Indicative,Future,2nd Person,Singular,accommodabis,accommodebis,accommodes,accommodies,You will fit
+Active Indicative,Future,2nd Person,Plural,accommodabitis,accommodebitis,accommodetis,accommodietis,You (pl.) will fit
+Active Indicative,Future,3rd Person,Singular,accommodabit,accommodebit,accommodet,accommodiet,He/she/it will fit
+Active Indicative,Future,3rd Person,Plural,accommodabunt,accommodebunt,accommodent,accommodient,They will fit
+Active Indicative,Perfect,1st Person,Singular,accommodavi,accommodui,accommodi,accommodi,I have fited
+Active Indicative,Perfect,1st Person,Plural,accommodavimus,accommoduimus,accommodimus,accommodimus,We have fited
+Active Indicative,Perfect,2nd Person,Singular,accommodavisti,accommoduisti,accommodisti,accommodisti,You have fited
+Active Indicative,Perfect,2nd Person,Plural,accommodavistis,accommoduistis,accommodistis,accommodistis,You (pl.) have fited
+Active Indicative,Perfect,3rd Person,Singular,accommodavit,accommoduit,accommodit,accommodit,He/she/it has fited
+Active Indicative,Perfect,3rd Person,Plural,accommodaverunt,accommoduerunt,accommoderunt,accommoderunt,They have fited
+Active Indicative,Pluperfect,1st Person,Singular,accommodaveram,accommodueram,accommoderam,accommoderam,I had fited
+Active Indicative,Pluperfect,1st Person,Plural,accommodaveramus,accommodueramus,accommoderamus,accommoderamus,We had fited
+Active Indicative,Pluperfect,2nd Person,Singular,accommodaveras,accommodueras,accommoderas,accommoderas,You had fited
+Active Indicative,Pluperfect,2nd Person,Plural,accommodaveratis,accommodueratis,accommoderatis,accommoderatis,You (pl.) had fited
+Active Indicative,Pluperfect,3rd Person,Singular,accommodaverat,accommoduerat,accommoderat,accommoderat,He/she/it had fited
+Active Indicative,Pluperfect,3rd Person,Plural,accommodaverant,accommoduerant,accommoderant,accommoderant,They had fited
+Active Indicative,Future Perfect,1st Person,Singular,accommodavero,accommodueero,accommodero,accommodiero,I will have fited
+Active Indicative,Future Perfect,1st Person,Plural,accommodaverimus,accommoduerimus,accommoderimus,accommodierimus,We will have fited
+Active Indicative,Future Perfect,2nd Person,Singular,accommodaveris,accommodueris,accommoderis,accommodieris,You will have fited
+Active Indicative,Future Perfect,2nd Person,Plural,accommodaveritis,accommodueritis,accommoderitis,accommodieritis,You (pl.) will have fited
+Active Indicative,Future Perfect,3rd Person,Singular,accommodaverit,accommoduerit,accommoderit,accommodierit,He/she/it will have fited
+Active Indicative,Future Perfect,3rd Person,Plural,accommodaverint,accommoduerint,accommoderint,accommodierint,They will have fited
+Passive Indicative,Present,1st Person,Singular,accommodor,accommodeor,accommodor,accommodior,I am being fited
+Passive Indicative,Present,1st Person,Plural,accommodamur,accommodemur,accommodimur,accommodimur,We are being fited
+Passive Indicative,Present,2nd Person,Singular,accommodaris,accommoderis,accommodiris,accommodiris,You are being fited
+Passive Indicative,Present,2nd Person,Plural,accommodamini,accommodemini,accommodimini,accommodimini,You (pl.) are being fited
+Passive Indicative,Present,3rd Person,Singular,accommodatur,accommodetur,accommoditur,accommoditur,He/she/it is being fited
+Passive Indicative,Present,3rd Person,Plural,accommodantur,accommodentur,accommodiuntur,accommodiuntur,They are being fited
+Passive Indicative,Imperfect,1st Person,Singular,accommodabar,accommodebar,accommodebar,accommodiebar,I was fited
+Passive Indicative,Imperfect,1st Person,Plural,accommodabamur,accommodebamur,accommodebamur,accommodiebamur,We were fited
+Passive Indicative,Imperfect,2nd Person,Singular,accommodabaris,accommodebaris,accommodebaris,accommodiebaris,You were fited
+Passive Indicative,Imperfect,2nd Person,Plural,accommodabamini,accommodebamini,accommodebamini,accommodiebamini,You (pl.) were fited
+Passive Indicative,Imperfect,3rd Person,Singular,accommodabatur,accommodebatur,accommodebatur,accommodiebatur,He/she/it was fited
+Passive Indicative,Imperfect,3rd Person,Plural,accommodabantur,accommodebantur,accommodebantur,accommodiebantur,They were fited
+Passive Indicative,Future,1st Person,Singular,accommodabor,accommodebor,accommodar,accommodiar,I will be fited
+Passive Indicative,Future,1st Person,Plural,accommodabimur,accommodebimur,accommodemur,accommodiemur,We will be fited
+Passive Indicative,Future,2nd Person,Singular,accommodaberis,accommodeberis,accommoderis,accommodieris,You will be fited
+Passive Indicative,Future,2nd Person,Plural,accommodabimini,accommodebimini,accommodemini,accommodiemini,You (pl.) will be fited
+Passive Indicative,Future,3rd Person,Singular,accommodabitur,accommodebitur,accommodetur,accommodietur,He/she/it will be fited
+Passive Indicative,Future,3rd Person,Plural,accommodabuntur,accommodebuntur,accommodentur,accommodientur,They will be fited
+Passive Indicative,Perfect,1st Person,Singular,accommodatus sum,accommodetus sum,accommodus sum,accommodus sum,I have been fited
+Passive Indicative,Perfect,1st Person,Plural,accommodati sumus,accommodeti sumus,accommodi sumus,accommodi sumus,We have been fited
+Passive Indicative,Perfect,2nd Person,Singular,accommodatus es,accommodetus es,accommodus es,accommodus es,You have been fited
+Passive Indicative,Perfect,2nd Person,Plural,accommodati estis,accommodeti estis,accommodi estis,accommodi estis,You (pl.) have been fited
+Passive Indicative,Perfect,3rd Person,Singular,accommodatus est,accommodetus est,accommodus est,accommodus est,He/she/it has been fited
+Passive Indicative,Perfect,3rd Person,Plural,accommodati sunt,accommodeti sunt,accommodi sunt,accommodi sunt,They have been fited
+Passive Indicative,Pluperfect,1st Person,Singular,accommodatus eram,accommodetus eram,accommodus eram,accommodus eram,I had been fited
+Passive Indicative,Pluperfect,1st Person,Plural,accommodati eramus,accommodeti eramus,accommodi eramus,accommodi eramus,We had been fited
+Passive Indicative,Pluperfect,2nd Person,Singular,accommodatus eras,accommodetus eras,accommodus eras,accommodus eras,You had been fited
+Passive Indicative,Pluperfect,2nd Person,Plural,accommodati eratis,accommodeti eratis,accommodi eratis,accommodi eratis,You (pl.) had been fited
+Passive Indicative,Pluperfect,3rd Person,Singular,accommodatus erat,accommodetus erat,accommodus erat,accommodus erat,He/she/it had been fited
+Passive Indicative,Pluperfect,3rd Person,Plural,accommodati erant,accommodeti erant,accommodi erant,accommodi erant,They had been fited
+Passive Indicative,Future Perfect,1st Person,Singular,accommodatus ero,accommodetus ero,accommodus ero,accommodus ero,I will have been fited
+Passive Indicative,Future Perfect,1st Person,Plural,accommodati erimus,accommodeti erimus,accommodi erimus,accommodi erimus,We will have been fited
+Passive Indicative,Future Perfect,2nd Person,Singular,accommodatus eris,accommodetus eris,accommodus eris,accommodus eris,You will have been fited
+Passive Indicative,Future Perfect,2nd Person,Plural,accommodati eritis,accommodeti eritis,accommodi eritis,accommodi eritis,You (pl.) will have been fited
+Passive Indicative,Future Perfect,3rd Person,Singular,accommodatus erit,accommodetus erit,accommodus erit,accommodus erit,He/she/it will have been fited
+Passive Indicative,Future Perfect,3rd Person,Plural,accommodati erunt,accommodeti erunt,accommodi erunt,accommodi erunt,They will have been fited
+Active Subjunctive,Present,1st Person,Singular,accommodem,accommodem,accommodam,accommodam,I may fit
+Active Subjunctive,Present,1st Person,Plural,accommodemus,accommodemus,accommodamus,accommodamus,We may fit
+Active Subjunctive,Present,2nd Person,Singular,accommodes,accommodes,accommodas,accommodas,You may fit
+Active Subjunctive,Present,2nd Person,Plural,accommodetis,accommodetis,accommodatis,accommodatis,You (pl.) may fit
+Active Subjunctive,Present,3rd Person,Singular,accommodet,accommodet,accommodat,accommodat,He/she/it may fit
+Active Subjunctive,Present,3rd Person,Plural,accommodent,accommodent,accommodant,accommodant,They may fit
+Active Subjunctive,Imperfect,1st Person,Singular,accommodarem,accommoderem,accommoderem,accommodirem,I should fit
+Active Subjunctive,Imperfect,1st Person,Plural,accommodaremus,accommoderemus,accommoderemus,accommodiremus,We should fit
+Active Subjunctive,Imperfect,2nd Person,Singular,accommodares,accommoderes,accommoderes,accommodires,You should fit
+Active Subjunctive,Imperfect,2nd Person,Plural,accommodaretis,accommoderetis,accommoderetis,accommodiretis,You (pl.) should fit
+Active Subjunctive,Imperfect,3rd Person,Singular,accommodaret,accommoderet,accommoderet,accommodiret,He/she/it should fit
+Active Subjunctive,Imperfect,3rd Person,Plural,accommodarent,accommoderent,accommoderent,accommodirent,They should fit
+Active Subjunctive,Perfect,1st Person,Singular,accommoderim,accommoduerim,accommoderim,accommodierim,I may have fited
+Active Subjunctive,Perfect,1st Person,Plural,accommoderimus,accommoduerimus,accommoderimus,accommodierimus,We may have fited
+Active Subjunctive,Perfect,2nd Person,Singular,accommoderis,accommodueris,accommoderis,accommodieris,You may have fited
+Active Subjunctive,Perfect,2nd Person,Plural,accommoderitis,accommodueritis,accommoderitis,accommodieritis,You (pl.) may have fited
+Active Subjunctive,Perfect,3rd Person,Singular,accommoderit,accommoduerit,accommoderit,accommodierit,He/she/it may have fited
+Active Subjunctive,Perfect,3rd Person,Plural,accommoderint,accommoduerint,accommoderint,accommodierint,They may have fited
+Active Subjunctive,Pluperfect,1st Person,Singular,accommodissem,accommoduissem,accommodissem,accommodissem,I should have fited
+Active Subjunctive,Pluperfect,1st Person,Plural,accommodissemus,accommoduissemus,accommodissemus,accommodissemus,We should have fited
+Active Subjunctive,Pluperfect,2nd Person,Singular,accommodisses,accommoduisses,accommodisses,accommodisses,You would have fited
+Active Subjunctive,Pluperfect,2nd Person,Plural,accommodissetis,accommoduissetis,accommodissetis,accommodissetis,You (pl.) would have fited
+Active Subjunctive,Pluperfect,3rd Person,Singular,accommodisset,accommoduisset,accommodisset,accommodisset,He/she/it would have fited
+Active Subjunctive,Pluperfect,3rd Person,Plural,accommodissent,accommoduissent,accommodissent,accommodissent,They would have fited
+Passive Subjunctive,Present,1st Person,Singular,accommoder,accommoder,accommodar,accommodar,I may be fited
+Passive Subjunctive,Present,1st Person,Plural,accommodemur,accommodemur,accommodamur,accommodamur,We may be fited
+Passive Subjunctive,Present,2nd Person,Singular,accommoderis,accommoderis,accommodaris,accommodaris,You may be fited
+Passive Subjunctive,Present,2nd Person,Plural,accommodemini,accommodemini,accommodamini,accommodamini,You (pl.) may be fited
+Passive Subjunctive,Present,3rd Person,Singular,accommodetur,accommodetur,accommodatur,accommodatur,He/she/it may be fited
+Passive Subjunctive,Present,3rd Person,Plural,accommodentur,accommodentur,accommodantur,accommodantur,They may be fited
+Passive Subjunctive,Imperfect,1st Person,Singular,accommodarer,accommoderer,accommoderer,accommodirer,I should be fited
+Passive Subjunctive,Imperfect,1st Person,Plural,accommodaremur,accommoderemur,accommoderemur,accommodiremur,We should be fited
+Passive Subjunctive,Imperfect,2nd Person,Singular,accommodareris,accommodereris,accommodereris,accommodireris,You would be fited
+Passive Subjunctive,Imperfect,2nd Person,Plural,accommodaremini,accommoderemini,accommoderemini,accommodiremini,You (pl.) would be fited
+Passive Subjunctive,Imperfect,3rd Person,Singular,accommodaretur,accommoderetur,accommoderetur,accommodiretur,He/she/it would be fited
+Passive Subjunctive,Imperfect,3rd Person,Plural,accommodarentur,accommoderentur,accommoderentur,accommodirentur,They would be fited
+Passive Subjunctive,Perfect,1st Person,Singular,accommodatus sim,accommodetus sim,accommodus sim,accommodus sim,I may have been fited
+Passive Subjunctive,Perfect,1st Person,Plural,accommodati simus,accommodeti simus,accommodi simus,accommodi simus,We may have been fited
+Passive Subjunctive,Perfect,2nd Person,Singular,accommodatus sis,accommodetus sis,accommodus sis,accommodus sis,You may have been fited
+Passive Subjunctive,Perfect,2nd Person,Plural,accommodati sitis,accommodeti sitis,accommodi sitis,accommodi sitis,You (pl.) may have been fited
+Passive Subjunctive,Perfect,3rd Person,Singular,accommodatus sit,accommodetus sit,accommodus sit,accommodus sit,He/she/it may have been fited
+Passive Subjunctive,Perfect,3rd Person,Plural,accommodati sint,accommodeti sint,accommodi sint,accommodi sint,They may have been fited
+Passive Subjunctive,Pluperfect,1st Person,Singular,accommodatus essem,accommodetus essem,accommodus essem,accommodus essem,I should have been fited
+Passive Subjunctive,Pluperfect,1st Person,Plural,accommodati essemus,accommodeti essemus,accommodi essemus,accommodi essemus,We should have been fited
+Passive Subjunctive,Pluperfect,2nd Person,Singular,accommodatus esses,accommodetus esses,accommodus esses,accommodus esses,You would have been fited
+Passive Subjunctive,Pluperfect,2nd Person,Plural,accommodati essetis,accommodeti essetis,accommodi essetis,accommodi essetis,You (pl.) would have been fited
+Passive Subjunctive,Pluperfect,3rd Person,Singular,accommodatus esset,accommodetus esset,accommodus esset,accommodus esset,He/she/it would have been fited
+Passive Subjunctive,Pluperfect,3rd Person,Plural,accommodati essent,accommodeti essent,accommodi essent,accommodi essent,They would have been fited

@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,crito,criteo,crito,critio,I cry out
+Active Indicative,Present,1st Person,Plural,critamus,critemus,critimus,critimus,We cry out
+Active Indicative,Present,2nd Person,Singular,critas,crites,critis,critis,You cry out
+Active Indicative,Present,2nd Person,Plural,critatis,critetis,crititis,crititis,You (pl.) cry out
+Active Indicative,Present,3rd Person,Singular,critat,critet,critit,critit,He/she/it cry out
+Active Indicative,Present,3rd Person,Plural,critant,critent,critiunt,critiunt,They cry out
+Active Indicative,Imperfect,1st Person,Singular,critabam,critebam,critebam,critiebam,I was cry outing
+Active Indicative,Imperfect,1st Person,Plural,critabamus,critebamus,critebamus,critiebamus,We were cry outing
+Active Indicative,Imperfect,2nd Person,Singular,critabas,critebas,critebas,critiebas,You were cry outing
+Active Indicative,Imperfect,2nd Person,Plural,critabatis,critebatis,critebatis,critiebatis,You (pl.) were cry outing
+Active Indicative,Imperfect,3rd Person,Singular,critabat,critebat,critebat,critiebat,He/she/it was cry outing
+Active Indicative,Imperfect,3rd Person,Plural,critabant,critebant,critebant,critiebant,They were cry outing
+Active Indicative,Future,1st Person,Singular,critabo,critebo,critam,critiam,I will cry out
+Active Indicative,Future,1st Person,Plural,critabimus,critebimus,critemus,critiemus,We will cry out
+Active Indicative,Future,2nd Person,Singular,critabis,critebis,crites,crities,You will cry out
+Active Indicative,Future,2nd Person,Plural,critabitis,critebitis,critetis,critietis,You (pl.) will cry out
+Active Indicative,Future,3rd Person,Singular,critabit,critebit,critet,critiet,He/she/it will cry out
+Active Indicative,Future,3rd Person,Plural,critabunt,critebunt,critent,critient,They will cry out
+Active Indicative,Perfect,1st Person,Singular,critavi,critui,criti,criti,I have cry outed
+Active Indicative,Perfect,1st Person,Plural,critavimus,crituimus,critimus,critimus,We have cry outed
+Active Indicative,Perfect,2nd Person,Singular,critavisti,crituisti,critisti,critisti,You have cry outed
+Active Indicative,Perfect,2nd Person,Plural,critavistis,crituistis,critistis,critistis,You (pl.) have cry outed
+Active Indicative,Perfect,3rd Person,Singular,critavit,crituit,critit,critit,He/she/it has cry outed
+Active Indicative,Perfect,3rd Person,Plural,critaverunt,crituerunt,criterunt,criterunt,They have cry outed
+Active Indicative,Pluperfect,1st Person,Singular,critaveram,critueram,criteram,criteram,I had cry outed
+Active Indicative,Pluperfect,1st Person,Plural,critaveramus,critueramus,criteramus,criteramus,We had cry outed
+Active Indicative,Pluperfect,2nd Person,Singular,critaveras,critueras,criteras,criteras,You had cry outed
+Active Indicative,Pluperfect,2nd Person,Plural,critaveratis,critueratis,criteratis,criteratis,You (pl.) had cry outed
+Active Indicative,Pluperfect,3rd Person,Singular,critaverat,crituerat,criterat,criterat,He/she/it had cry outed
+Active Indicative,Pluperfect,3rd Person,Plural,critaverant,crituerant,criterant,criterant,They had cry outed
+Active Indicative,Future Perfect,1st Person,Singular,critavero,critueero,critero,critiero,I will have cry outed
+Active Indicative,Future Perfect,1st Person,Plural,critaverimus,crituerimus,criterimus,critierimus,We will have cry outed
+Active Indicative,Future Perfect,2nd Person,Singular,critaveris,critueris,criteris,critieris,You will have cry outed
+Active Indicative,Future Perfect,2nd Person,Plural,critaveritis,critueritis,criteritis,critieritis,You (pl.) will have cry outed
+Active Indicative,Future Perfect,3rd Person,Singular,critaverit,crituerit,criterit,critierit,He/she/it will have cry outed
+Active Indicative,Future Perfect,3rd Person,Plural,critaverint,crituerint,criterint,critierint,They will have cry outed
+Passive Indicative,Present,1st Person,Singular,critor,criteor,critor,critior,I am being cry outed
+Passive Indicative,Present,1st Person,Plural,critamur,critemur,critimur,critimur,We are being cry outed
+Passive Indicative,Present,2nd Person,Singular,critaris,criteris,critiris,critiris,You are being cry outed
+Passive Indicative,Present,2nd Person,Plural,critamini,critemini,critimini,critimini,You (pl.) are being cry outed
+Passive Indicative,Present,3rd Person,Singular,critatur,critetur,crititur,crititur,He/she/it is being cry outed
+Passive Indicative,Present,3rd Person,Plural,critantur,critentur,critiuntur,critiuntur,They are being cry outed
+Passive Indicative,Imperfect,1st Person,Singular,critabar,critebar,critebar,critiebar,I was cry outed
+Passive Indicative,Imperfect,1st Person,Plural,critabamur,critebamur,critebamur,critiebamur,We were cry outed
+Passive Indicative,Imperfect,2nd Person,Singular,critabaris,critebaris,critebaris,critiebaris,You were cry outed
+Passive Indicative,Imperfect,2nd Person,Plural,critabamini,critebamini,critebamini,critiebamini,You (pl.) were cry outed
+Passive Indicative,Imperfect,3rd Person,Singular,critabatur,critebatur,critebatur,critiebatur,He/she/it was cry outed
+Passive Indicative,Imperfect,3rd Person,Plural,critabantur,critebantur,critebantur,critiebantur,They were cry outed
+Passive Indicative,Future,1st Person,Singular,critabor,critebor,critar,critiar,I will be cry outed
+Passive Indicative,Future,1st Person,Plural,critabimur,critebimur,critemur,critiemur,We will be cry outed
+Passive Indicative,Future,2nd Person,Singular,critaberis,criteberis,criteris,critieris,You will be cry outed
+Passive Indicative,Future,2nd Person,Plural,critabimini,critebimini,critemini,critiemini,You (pl.) will be cry outed
+Passive Indicative,Future,3rd Person,Singular,critabitur,critebitur,critetur,critietur,He/she/it will be cry outed
+Passive Indicative,Future,3rd Person,Plural,critabuntur,critebuntur,critentur,critientur,They will be cry outed
+Passive Indicative,Perfect,1st Person,Singular,critatus sum,critetus sum,critus sum,critus sum,I have been cry outed
+Passive Indicative,Perfect,1st Person,Plural,critati sumus,criteti sumus,criti sumus,criti sumus,We have been cry outed
+Passive Indicative,Perfect,2nd Person,Singular,critatus es,critetus es,critus es,critus es,You have been cry outed
+Passive Indicative,Perfect,2nd Person,Plural,critati estis,criteti estis,criti estis,criti estis,You (pl.) have been cry outed
+Passive Indicative,Perfect,3rd Person,Singular,critatus est,critetus est,critus est,critus est,He/she/it has been cry outed
+Passive Indicative,Perfect,3rd Person,Plural,critati sunt,criteti sunt,criti sunt,criti sunt,They have been cry outed
+Passive Indicative,Pluperfect,1st Person,Singular,critatus eram,critetus eram,critus eram,critus eram,I had been cry outed
+Passive Indicative,Pluperfect,1st Person,Plural,critati eramus,criteti eramus,criti eramus,criti eramus,We had been cry outed
+Passive Indicative,Pluperfect,2nd Person,Singular,critatus eras,critetus eras,critus eras,critus eras,You had been cry outed
+Passive Indicative,Pluperfect,2nd Person,Plural,critati eratis,criteti eratis,criti eratis,criti eratis,You (pl.) had been cry outed
+Passive Indicative,Pluperfect,3rd Person,Singular,critatus erat,critetus erat,critus erat,critus erat,He/she/it had been cry outed
+Passive Indicative,Pluperfect,3rd Person,Plural,critati erant,criteti erant,criti erant,criti erant,They had been cry outed
+Passive Indicative,Future Perfect,1st Person,Singular,critatus ero,critetus ero,critus ero,critus ero,I will have been cry outed
+Passive Indicative,Future Perfect,1st Person,Plural,critati erimus,criteti erimus,criti erimus,criti erimus,We will have been cry outed
+Passive Indicative,Future Perfect,2nd Person,Singular,critatus eris,critetus eris,critus eris,critus eris,You will have been cry outed
+Passive Indicative,Future Perfect,2nd Person,Plural,critati eritis,criteti eritis,criti eritis,criti eritis,You (pl.) will have been cry outed
+Passive Indicative,Future Perfect,3rd Person,Singular,critatus erit,critetus erit,critus erit,critus erit,He/she/it will have been cry outed
+Passive Indicative,Future Perfect,3rd Person,Plural,critati erunt,criteti erunt,criti erunt,criti erunt,They will have been cry outed
+Active Subjunctive,Present,1st Person,Singular,critem,critem,critam,critam,I may cry out
+Active Subjunctive,Present,1st Person,Plural,critemus,critemus,critamus,critamus,We may cry out
+Active Subjunctive,Present,2nd Person,Singular,crites,crites,critas,critas,You may cry out
+Active Subjunctive,Present,2nd Person,Plural,critetis,critetis,critatis,critatis,You (pl.) may cry out
+Active Subjunctive,Present,3rd Person,Singular,critet,critet,critat,critat,He/she/it may cry out
+Active Subjunctive,Present,3rd Person,Plural,critent,critent,critant,critant,They may cry out
+Active Subjunctive,Imperfect,1st Person,Singular,critarem,criterem,criterem,critirem,I should cry out
+Active Subjunctive,Imperfect,1st Person,Plural,critaremus,criteremus,criteremus,critiremus,We should cry out
+Active Subjunctive,Imperfect,2nd Person,Singular,critares,criteres,criteres,critires,You should cry out
+Active Subjunctive,Imperfect,2nd Person,Plural,critaretis,criteretis,criteretis,critiretis,You (pl.) should cry out
+Active Subjunctive,Imperfect,3rd Person,Singular,critaret,criteret,criteret,critiret,He/she/it should cry out
+Active Subjunctive,Imperfect,3rd Person,Plural,critarent,criterent,criterent,critirent,They should cry out
+Active Subjunctive,Perfect,1st Person,Singular,criterim,crituerim,criterim,critierim,I may have cry outed
+Active Subjunctive,Perfect,1st Person,Plural,criterimus,crituerimus,criterimus,critierimus,We may have cry outed
+Active Subjunctive,Perfect,2nd Person,Singular,criteris,critueris,criteris,critieris,You may have cry outed
+Active Subjunctive,Perfect,2nd Person,Plural,criteritis,critueritis,criteritis,critieritis,You (pl.) may have cry outed
+Active Subjunctive,Perfect,3rd Person,Singular,criterit,crituerit,criterit,critierit,He/she/it may have cry outed
+Active Subjunctive,Perfect,3rd Person,Plural,criterint,crituerint,criterint,critierint,They may have cry outed
+Active Subjunctive,Pluperfect,1st Person,Singular,critissem,crituissem,critissem,critissem,I should have cry outed
+Active Subjunctive,Pluperfect,1st Person,Plural,critissemus,crituissemus,critissemus,critissemus,We should have cry outed
+Active Subjunctive,Pluperfect,2nd Person,Singular,critisses,crituisses,critisses,critisses,You would have cry outed
+Active Subjunctive,Pluperfect,2nd Person,Plural,critissetis,crituissetis,critissetis,critissetis,You (pl.) would have cry outed
+Active Subjunctive,Pluperfect,3rd Person,Singular,critisset,crituisset,critisset,critisset,He/she/it would have cry outed
+Active Subjunctive,Pluperfect,3rd Person,Plural,critissent,crituissent,critissent,critissent,They would have cry outed
+Passive Subjunctive,Present,1st Person,Singular,criter,criter,critar,critar,I may be cry outed
+Passive Subjunctive,Present,1st Person,Plural,critemur,critemur,critamur,critamur,We may be cry outed
+Passive Subjunctive,Present,2nd Person,Singular,criteris,criteris,critaris,critaris,You may be cry outed
+Passive Subjunctive,Present,2nd Person,Plural,critemini,critemini,critamini,critamini,You (pl.) may be cry outed
+Passive Subjunctive,Present,3rd Person,Singular,critetur,critetur,critatur,critatur,He/she/it may be cry outed
+Passive Subjunctive,Present,3rd Person,Plural,critentur,critentur,critantur,critantur,They may be cry outed
+Passive Subjunctive,Imperfect,1st Person,Singular,critarer,criterer,criterer,critirer,I should be cry outed
+Passive Subjunctive,Imperfect,1st Person,Plural,critaremur,criteremur,criteremur,critiremur,We should be cry outed
+Passive Subjunctive,Imperfect,2nd Person,Singular,critareris,critereris,critereris,critireris,You would be cry outed
+Passive Subjunctive,Imperfect,2nd Person,Plural,critaremini,criteremini,criteremini,critiremini,You (pl.) would be cry outed
+Passive Subjunctive,Imperfect,3rd Person,Singular,critaretur,criteretur,criteretur,critiretur,He/she/it would be cry outed
+Passive Subjunctive,Imperfect,3rd Person,Plural,critarentur,criterentur,criterentur,critirentur,They would be cry outed
+Passive Subjunctive,Perfect,1st Person,Singular,critatus sim,critetus sim,critus sim,critus sim,I may have been cry outed
+Passive Subjunctive,Perfect,1st Person,Plural,critati simus,criteti simus,criti simus,criti simus,We may have been cry outed
+Passive Subjunctive,Perfect,2nd Person,Singular,critatus sis,critetus sis,critus sis,critus sis,You may have been cry outed
+Passive Subjunctive,Perfect,2nd Person,Plural,critati sitis,criteti sitis,criti sitis,criti sitis,You (pl.) may have been cry outed
+Passive Subjunctive,Perfect,3rd Person,Singular,critatus sit,critetus sit,critus sit,critus sit,He/she/it may have been cry outed
+Passive Subjunctive,Perfect,3rd Person,Plural,critati sint,criteti sint,criti sint,criti sint,They may have been cry outed
+Passive Subjunctive,Pluperfect,1st Person,Singular,critatus essem,critetus essem,critus essem,critus essem,I should have been cry outed
+Passive Subjunctive,Pluperfect,1st Person,Plural,critati essemus,criteti essemus,criti essemus,criti essemus,We should have been cry outed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,critatus esses,critetus esses,critus esses,critus esses,You would have been cry outed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,critati essetis,criteti essetis,criti essetis,criti essetis,You (pl.) would have been cry outed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,critatus esset,critetus esset,critus esset,critus esset,He/she/it would have been cry outed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,critati essent,criteti essent,criti essent,criti essent,They would have been cry outed

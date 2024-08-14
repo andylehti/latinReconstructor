@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,voro,voreo,voro,vorio,I devour
+Active Indicative,Present,1st Person,Plural,voramus,voremus,vorimus,vorimus,We devour
+Active Indicative,Present,2nd Person,Singular,voras,vores,voris,voris,You devour
+Active Indicative,Present,2nd Person,Plural,voratis,voretis,voritis,voritis,You (pl.) devour
+Active Indicative,Present,3rd Person,Singular,vorat,voret,vorit,vorit,He/she/it devour
+Active Indicative,Present,3rd Person,Plural,vorant,vorent,voriunt,voriunt,They devour
+Active Indicative,Imperfect,1st Person,Singular,vorabam,vorebam,vorebam,voriebam,I was devouring
+Active Indicative,Imperfect,1st Person,Plural,vorabamus,vorebamus,vorebamus,voriebamus,We were devouring
+Active Indicative,Imperfect,2nd Person,Singular,vorabas,vorebas,vorebas,voriebas,You were devouring
+Active Indicative,Imperfect,2nd Person,Plural,vorabatis,vorebatis,vorebatis,voriebatis,You (pl.) were devouring
+Active Indicative,Imperfect,3rd Person,Singular,vorabat,vorebat,vorebat,voriebat,He/she/it was devouring
+Active Indicative,Imperfect,3rd Person,Plural,vorabant,vorebant,vorebant,voriebant,They were devouring
+Active Indicative,Future,1st Person,Singular,vorabo,vorebo,voram,voriam,I will devour
+Active Indicative,Future,1st Person,Plural,vorabimus,vorebimus,voremus,voriemus,We will devour
+Active Indicative,Future,2nd Person,Singular,vorabis,vorebis,vores,vories,You will devour
+Active Indicative,Future,2nd Person,Plural,vorabitis,vorebitis,voretis,vorietis,You (pl.) will devour
+Active Indicative,Future,3rd Person,Singular,vorabit,vorebit,voret,voriet,He/she/it will devour
+Active Indicative,Future,3rd Person,Plural,vorabunt,vorebunt,vorent,vorient,They will devour
+Active Indicative,Perfect,1st Person,Singular,voravi,vorui,vori,vori,I have devoured
+Active Indicative,Perfect,1st Person,Plural,voravimus,voruimus,vorimus,vorimus,We have devoured
+Active Indicative,Perfect,2nd Person,Singular,voravisti,voruisti,voristi,voristi,You have devoured
+Active Indicative,Perfect,2nd Person,Plural,voravistis,voruistis,voristis,voristis,You (pl.) have devoured
+Active Indicative,Perfect,3rd Person,Singular,voravit,voruit,vorit,vorit,He/she/it has devoured
+Active Indicative,Perfect,3rd Person,Plural,voraverunt,voruerunt,vorerunt,vorerunt,They have devoured
+Active Indicative,Pluperfect,1st Person,Singular,voraveram,vorueram,voreram,voreram,I had devoured
+Active Indicative,Pluperfect,1st Person,Plural,voraveramus,vorueramus,voreramus,voreramus,We had devoured
+Active Indicative,Pluperfect,2nd Person,Singular,voraveras,vorueras,voreras,voreras,You had devoured
+Active Indicative,Pluperfect,2nd Person,Plural,voraveratis,vorueratis,voreratis,voreratis,You (pl.) had devoured
+Active Indicative,Pluperfect,3rd Person,Singular,voraverat,voruerat,vorerat,vorerat,He/she/it had devoured
+Active Indicative,Pluperfect,3rd Person,Plural,voraverant,voruerant,vorerant,vorerant,They had devoured
+Active Indicative,Future Perfect,1st Person,Singular,voravero,vorueero,vorero,voriero,I will have devoured
+Active Indicative,Future Perfect,1st Person,Plural,voraverimus,voruerimus,vorerimus,vorierimus,We will have devoured
+Active Indicative,Future Perfect,2nd Person,Singular,voraveris,vorueris,voreris,vorieris,You will have devoured
+Active Indicative,Future Perfect,2nd Person,Plural,voraveritis,vorueritis,voreritis,vorieritis,You (pl.) will have devoured
+Active Indicative,Future Perfect,3rd Person,Singular,voraverit,voruerit,vorerit,vorierit,He/she/it will have devoured
+Active Indicative,Future Perfect,3rd Person,Plural,voraverint,voruerint,vorerint,vorierint,They will have devoured
+Passive Indicative,Present,1st Person,Singular,voror,voreor,voror,vorior,I am being devoured
+Passive Indicative,Present,1st Person,Plural,voramur,voremur,vorimur,vorimur,We are being devoured
+Passive Indicative,Present,2nd Person,Singular,voraris,voreris,voriris,voriris,You are being devoured
+Passive Indicative,Present,2nd Person,Plural,voramini,voremini,vorimini,vorimini,You (pl.) are being devoured
+Passive Indicative,Present,3rd Person,Singular,voratur,voretur,voritur,voritur,He/she/it is being devoured
+Passive Indicative,Present,3rd Person,Plural,vorantur,vorentur,voriuntur,voriuntur,They are being devoured
+Passive Indicative,Imperfect,1st Person,Singular,vorabar,vorebar,vorebar,voriebar,I was devoured
+Passive Indicative,Imperfect,1st Person,Plural,vorabamur,vorebamur,vorebamur,voriebamur,We were devoured
+Passive Indicative,Imperfect,2nd Person,Singular,vorabaris,vorebaris,vorebaris,voriebaris,You were devoured
+Passive Indicative,Imperfect,2nd Person,Plural,vorabamini,vorebamini,vorebamini,voriebamini,You (pl.) were devoured
+Passive Indicative,Imperfect,3rd Person,Singular,vorabatur,vorebatur,vorebatur,voriebatur,He/she/it was devoured
+Passive Indicative,Imperfect,3rd Person,Plural,vorabantur,vorebantur,vorebantur,voriebantur,They were devoured
+Passive Indicative,Future,1st Person,Singular,vorabor,vorebor,vorar,voriar,I will be devoured
+Passive Indicative,Future,1st Person,Plural,vorabimur,vorebimur,voremur,voriemur,We will be devoured
+Passive Indicative,Future,2nd Person,Singular,voraberis,voreberis,voreris,vorieris,You will be devoured
+Passive Indicative,Future,2nd Person,Plural,vorabimini,vorebimini,voremini,voriemini,You (pl.) will be devoured
+Passive Indicative,Future,3rd Person,Singular,vorabitur,vorebitur,voretur,vorietur,He/she/it will be devoured
+Passive Indicative,Future,3rd Person,Plural,vorabuntur,vorebuntur,vorentur,vorientur,They will be devoured
+Passive Indicative,Perfect,1st Person,Singular,voratus sum,voretus sum,vorus sum,vorus sum,I have been devoured
+Passive Indicative,Perfect,1st Person,Plural,vorati sumus,voreti sumus,vori sumus,vori sumus,We have been devoured
+Passive Indicative,Perfect,2nd Person,Singular,voratus es,voretus es,vorus es,vorus es,You have been devoured
+Passive Indicative,Perfect,2nd Person,Plural,vorati estis,voreti estis,vori estis,vori estis,You (pl.) have been devoured
+Passive Indicative,Perfect,3rd Person,Singular,voratus est,voretus est,vorus est,vorus est,He/she/it has been devoured
+Passive Indicative,Perfect,3rd Person,Plural,vorati sunt,voreti sunt,vori sunt,vori sunt,They have been devoured
+Passive Indicative,Pluperfect,1st Person,Singular,voratus eram,voretus eram,vorus eram,vorus eram,I had been devoured
+Passive Indicative,Pluperfect,1st Person,Plural,vorati eramus,voreti eramus,vori eramus,vori eramus,We had been devoured
+Passive Indicative,Pluperfect,2nd Person,Singular,voratus eras,voretus eras,vorus eras,vorus eras,You had been devoured
+Passive Indicative,Pluperfect,2nd Person,Plural,vorati eratis,voreti eratis,vori eratis,vori eratis,You (pl.) had been devoured
+Passive Indicative,Pluperfect,3rd Person,Singular,voratus erat,voretus erat,vorus erat,vorus erat,He/she/it had been devoured
+Passive Indicative,Pluperfect,3rd Person,Plural,vorati erant,voreti erant,vori erant,vori erant,They had been devoured
+Passive Indicative,Future Perfect,1st Person,Singular,voratus ero,voretus ero,vorus ero,vorus ero,I will have been devoured
+Passive Indicative,Future Perfect,1st Person,Plural,vorati erimus,voreti erimus,vori erimus,vori erimus,We will have been devoured
+Passive Indicative,Future Perfect,2nd Person,Singular,voratus eris,voretus eris,vorus eris,vorus eris,You will have been devoured
+Passive Indicative,Future Perfect,2nd Person,Plural,vorati eritis,voreti eritis,vori eritis,vori eritis,You (pl.) will have been devoured
+Passive Indicative,Future Perfect,3rd Person,Singular,voratus erit,voretus erit,vorus erit,vorus erit,He/she/it will have been devoured
+Passive Indicative,Future Perfect,3rd Person,Plural,vorati erunt,voreti erunt,vori erunt,vori erunt,They will have been devoured
+Active Subjunctive,Present,1st Person,Singular,vorem,vorem,voram,voram,I may devour
+Active Subjunctive,Present,1st Person,Plural,voremus,voremus,voramus,voramus,We may devour
+Active Subjunctive,Present,2nd Person,Singular,vores,vores,voras,voras,You may devour
+Active Subjunctive,Present,2nd Person,Plural,voretis,voretis,voratis,voratis,You (pl.) may devour
+Active Subjunctive,Present,3rd Person,Singular,voret,voret,vorat,vorat,He/she/it may devour
+Active Subjunctive,Present,3rd Person,Plural,vorent,vorent,vorant,vorant,They may devour
+Active Subjunctive,Imperfect,1st Person,Singular,vorarem,vorerem,vorerem,vorirem,I should devour
+Active Subjunctive,Imperfect,1st Person,Plural,voraremus,voreremus,voreremus,voriremus,We should devour
+Active Subjunctive,Imperfect,2nd Person,Singular,vorares,voreres,voreres,vorires,You should devour
+Active Subjunctive,Imperfect,2nd Person,Plural,voraretis,voreretis,voreretis,voriretis,You (pl.) should devour
+Active Subjunctive,Imperfect,3rd Person,Singular,voraret,voreret,voreret,voriret,He/she/it should devour
+Active Subjunctive,Imperfect,3rd Person,Plural,vorarent,vorerent,vorerent,vorirent,They should devour
+Active Subjunctive,Perfect,1st Person,Singular,vorerim,voruerim,vorerim,vorierim,I may have devoured
+Active Subjunctive,Perfect,1st Person,Plural,vorerimus,voruerimus,vorerimus,vorierimus,We may have devoured
+Active Subjunctive,Perfect,2nd Person,Singular,voreris,vorueris,voreris,vorieris,You may have devoured
+Active Subjunctive,Perfect,2nd Person,Plural,voreritis,vorueritis,voreritis,vorieritis,You (pl.) may have devoured
+Active Subjunctive,Perfect,3rd Person,Singular,vorerit,voruerit,vorerit,vorierit,He/she/it may have devoured
+Active Subjunctive,Perfect,3rd Person,Plural,vorerint,voruerint,vorerint,vorierint,They may have devoured
+Active Subjunctive,Pluperfect,1st Person,Singular,vorissem,voruissem,vorissem,vorissem,I should have devoured
+Active Subjunctive,Pluperfect,1st Person,Plural,vorissemus,voruissemus,vorissemus,vorissemus,We should have devoured
+Active Subjunctive,Pluperfect,2nd Person,Singular,vorisses,voruisses,vorisses,vorisses,You would have devoured
+Active Subjunctive,Pluperfect,2nd Person,Plural,vorissetis,voruissetis,vorissetis,vorissetis,You (pl.) would have devoured
+Active Subjunctive,Pluperfect,3rd Person,Singular,vorisset,voruisset,vorisset,vorisset,He/she/it would have devoured
+Active Subjunctive,Pluperfect,3rd Person,Plural,vorissent,voruissent,vorissent,vorissent,They would have devoured
+Passive Subjunctive,Present,1st Person,Singular,vorer,vorer,vorar,vorar,I may be devoured
+Passive Subjunctive,Present,1st Person,Plural,voremur,voremur,voramur,voramur,We may be devoured
+Passive Subjunctive,Present,2nd Person,Singular,voreris,voreris,voraris,voraris,You may be devoured
+Passive Subjunctive,Present,2nd Person,Plural,voremini,voremini,voramini,voramini,You (pl.) may be devoured
+Passive Subjunctive,Present,3rd Person,Singular,voretur,voretur,voratur,voratur,He/she/it may be devoured
+Passive Subjunctive,Present,3rd Person,Plural,vorentur,vorentur,vorantur,vorantur,They may be devoured
+Passive Subjunctive,Imperfect,1st Person,Singular,vorarer,vorerer,vorerer,vorirer,I should be devoured
+Passive Subjunctive,Imperfect,1st Person,Plural,voraremur,voreremur,voreremur,voriremur,We should be devoured
+Passive Subjunctive,Imperfect,2nd Person,Singular,vorareris,vorereris,vorereris,vorireris,You would be devoured
+Passive Subjunctive,Imperfect,2nd Person,Plural,voraremini,voreremini,voreremini,voriremini,You (pl.) would be devoured
+Passive Subjunctive,Imperfect,3rd Person,Singular,voraretur,voreretur,voreretur,voriretur,He/she/it would be devoured
+Passive Subjunctive,Imperfect,3rd Person,Plural,vorarentur,vorerentur,vorerentur,vorirentur,They would be devoured
+Passive Subjunctive,Perfect,1st Person,Singular,voratus sim,voretus sim,vorus sim,vorus sim,I may have been devoured
+Passive Subjunctive,Perfect,1st Person,Plural,vorati simus,voreti simus,vori simus,vori simus,We may have been devoured
+Passive Subjunctive,Perfect,2nd Person,Singular,voratus sis,voretus sis,vorus sis,vorus sis,You may have been devoured
+Passive Subjunctive,Perfect,2nd Person,Plural,vorati sitis,voreti sitis,vori sitis,vori sitis,You (pl.) may have been devoured
+Passive Subjunctive,Perfect,3rd Person,Singular,voratus sit,voretus sit,vorus sit,vorus sit,He/she/it may have been devoured
+Passive Subjunctive,Perfect,3rd Person,Plural,vorati sint,voreti sint,vori sint,vori sint,They may have been devoured
+Passive Subjunctive,Pluperfect,1st Person,Singular,voratus essem,voretus essem,vorus essem,vorus essem,I should have been devoured
+Passive Subjunctive,Pluperfect,1st Person,Plural,vorati essemus,voreti essemus,vori essemus,vori essemus,We should have been devoured
+Passive Subjunctive,Pluperfect,2nd Person,Singular,voratus esses,voretus esses,vorus esses,vorus esses,You would have been devoured
+Passive Subjunctive,Pluperfect,2nd Person,Plural,vorati essetis,voreti essetis,vori essetis,vori essetis,You (pl.) would have been devoured
+Passive Subjunctive,Pluperfect,3rd Person,Singular,voratus esset,voretus esset,vorus esset,vorus esset,He/she/it would have been devoured
+Passive Subjunctive,Pluperfect,3rd Person,Plural,vorati essent,voreti essent,vori essent,vori essent,They would have been devoured

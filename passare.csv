@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,passo,passeo,passo,passio,I go through
+Active Indicative,Present,1st Person,Plural,passamus,passemus,passimus,passimus,We go through
+Active Indicative,Present,2nd Person,Singular,passas,passes,passis,passis,You go through
+Active Indicative,Present,2nd Person,Plural,passatis,passetis,passitis,passitis,You (pl.) go through
+Active Indicative,Present,3rd Person,Singular,passat,passet,passit,passit,He/she/it go through
+Active Indicative,Present,3rd Person,Plural,passant,passent,passiunt,passiunt,They go through
+Active Indicative,Imperfect,1st Person,Singular,passabam,passebam,passebam,passiebam,I was go throughing
+Active Indicative,Imperfect,1st Person,Plural,passabamus,passebamus,passebamus,passiebamus,We were go throughing
+Active Indicative,Imperfect,2nd Person,Singular,passabas,passebas,passebas,passiebas,You were go throughing
+Active Indicative,Imperfect,2nd Person,Plural,passabatis,passebatis,passebatis,passiebatis,You (pl.) were go throughing
+Active Indicative,Imperfect,3rd Person,Singular,passabat,passebat,passebat,passiebat,He/she/it was go throughing
+Active Indicative,Imperfect,3rd Person,Plural,passabant,passebant,passebant,passiebant,They were go throughing
+Active Indicative,Future,1st Person,Singular,passabo,passebo,passam,passiam,I will go through
+Active Indicative,Future,1st Person,Plural,passabimus,passebimus,passemus,passiemus,We will go through
+Active Indicative,Future,2nd Person,Singular,passabis,passebis,passes,passies,You will go through
+Active Indicative,Future,2nd Person,Plural,passabitis,passebitis,passetis,passietis,You (pl.) will go through
+Active Indicative,Future,3rd Person,Singular,passabit,passebit,passet,passiet,He/she/it will go through
+Active Indicative,Future,3rd Person,Plural,passabunt,passebunt,passent,passient,They will go through
+Active Indicative,Perfect,1st Person,Singular,passavi,passui,passi,passi,I have go throughed
+Active Indicative,Perfect,1st Person,Plural,passavimus,passuimus,passimus,passimus,We have go throughed
+Active Indicative,Perfect,2nd Person,Singular,passavisti,passuisti,passisti,passisti,You have go throughed
+Active Indicative,Perfect,2nd Person,Plural,passavistis,passuistis,passistis,passistis,You (pl.) have go throughed
+Active Indicative,Perfect,3rd Person,Singular,passavit,passuit,passit,passit,He/she/it has go throughed
+Active Indicative,Perfect,3rd Person,Plural,passaverunt,passuerunt,passerunt,passerunt,They have go throughed
+Active Indicative,Pluperfect,1st Person,Singular,passaveram,passueram,passeram,passeram,I had go throughed
+Active Indicative,Pluperfect,1st Person,Plural,passaveramus,passueramus,passeramus,passeramus,We had go throughed
+Active Indicative,Pluperfect,2nd Person,Singular,passaveras,passueras,passeras,passeras,You had go throughed
+Active Indicative,Pluperfect,2nd Person,Plural,passaveratis,passueratis,passeratis,passeratis,You (pl.) had go throughed
+Active Indicative,Pluperfect,3rd Person,Singular,passaverat,passuerat,passerat,passerat,He/she/it had go throughed
+Active Indicative,Pluperfect,3rd Person,Plural,passaverant,passuerant,passerant,passerant,They had go throughed
+Active Indicative,Future Perfect,1st Person,Singular,passavero,passueero,passero,passiero,I will have go throughed
+Active Indicative,Future Perfect,1st Person,Plural,passaverimus,passuerimus,passerimus,passierimus,We will have go throughed
+Active Indicative,Future Perfect,2nd Person,Singular,passaveris,passueris,passeris,passieris,You will have go throughed
+Active Indicative,Future Perfect,2nd Person,Plural,passaveritis,passueritis,passeritis,passieritis,You (pl.) will have go throughed
+Active Indicative,Future Perfect,3rd Person,Singular,passaverit,passuerit,passerit,passierit,He/she/it will have go throughed
+Active Indicative,Future Perfect,3rd Person,Plural,passaverint,passuerint,passerint,passierint,They will have go throughed
+Passive Indicative,Present,1st Person,Singular,passor,passeor,passor,passior,I am being go throughed
+Passive Indicative,Present,1st Person,Plural,passamur,passemur,passimur,passimur,We are being go throughed
+Passive Indicative,Present,2nd Person,Singular,passaris,passeris,passiris,passiris,You are being go throughed
+Passive Indicative,Present,2nd Person,Plural,passamini,passemini,passimini,passimini,You (pl.) are being go throughed
+Passive Indicative,Present,3rd Person,Singular,passatur,passetur,passitur,passitur,He/she/it is being go throughed
+Passive Indicative,Present,3rd Person,Plural,passantur,passentur,passiuntur,passiuntur,They are being go throughed
+Passive Indicative,Imperfect,1st Person,Singular,passabar,passebar,passebar,passiebar,I was go throughed
+Passive Indicative,Imperfect,1st Person,Plural,passabamur,passebamur,passebamur,passiebamur,We were go throughed
+Passive Indicative,Imperfect,2nd Person,Singular,passabaris,passebaris,passebaris,passiebaris,You were go throughed
+Passive Indicative,Imperfect,2nd Person,Plural,passabamini,passebamini,passebamini,passiebamini,You (pl.) were go throughed
+Passive Indicative,Imperfect,3rd Person,Singular,passabatur,passebatur,passebatur,passiebatur,He/she/it was go throughed
+Passive Indicative,Imperfect,3rd Person,Plural,passabantur,passebantur,passebantur,passiebantur,They were go throughed
+Passive Indicative,Future,1st Person,Singular,passabor,passebor,passar,passiar,I will be go throughed
+Passive Indicative,Future,1st Person,Plural,passabimur,passebimur,passemur,passiemur,We will be go throughed
+Passive Indicative,Future,2nd Person,Singular,passaberis,passeberis,passeris,passieris,You will be go throughed
+Passive Indicative,Future,2nd Person,Plural,passabimini,passebimini,passemini,passiemini,You (pl.) will be go throughed
+Passive Indicative,Future,3rd Person,Singular,passabitur,passebitur,passetur,passietur,He/she/it will be go throughed
+Passive Indicative,Future,3rd Person,Plural,passabuntur,passebuntur,passentur,passientur,They will be go throughed
+Passive Indicative,Perfect,1st Person,Singular,passatus sum,passetus sum,passus sum,passus sum,I have been go throughed
+Passive Indicative,Perfect,1st Person,Plural,passati sumus,passeti sumus,passi sumus,passi sumus,We have been go throughed
+Passive Indicative,Perfect,2nd Person,Singular,passatus es,passetus es,passus es,passus es,You have been go throughed
+Passive Indicative,Perfect,2nd Person,Plural,passati estis,passeti estis,passi estis,passi estis,You (pl.) have been go throughed
+Passive Indicative,Perfect,3rd Person,Singular,passatus est,passetus est,passus est,passus est,He/she/it has been go throughed
+Passive Indicative,Perfect,3rd Person,Plural,passati sunt,passeti sunt,passi sunt,passi sunt,They have been go throughed
+Passive Indicative,Pluperfect,1st Person,Singular,passatus eram,passetus eram,passus eram,passus eram,I had been go throughed
+Passive Indicative,Pluperfect,1st Person,Plural,passati eramus,passeti eramus,passi eramus,passi eramus,We had been go throughed
+Passive Indicative,Pluperfect,2nd Person,Singular,passatus eras,passetus eras,passus eras,passus eras,You had been go throughed
+Passive Indicative,Pluperfect,2nd Person,Plural,passati eratis,passeti eratis,passi eratis,passi eratis,You (pl.) had been go throughed
+Passive Indicative,Pluperfect,3rd Person,Singular,passatus erat,passetus erat,passus erat,passus erat,He/she/it had been go throughed
+Passive Indicative,Pluperfect,3rd Person,Plural,passati erant,passeti erant,passi erant,passi erant,They had been go throughed
+Passive Indicative,Future Perfect,1st Person,Singular,passatus ero,passetus ero,passus ero,passus ero,I will have been go throughed
+Passive Indicative,Future Perfect,1st Person,Plural,passati erimus,passeti erimus,passi erimus,passi erimus,We will have been go throughed
+Passive Indicative,Future Perfect,2nd Person,Singular,passatus eris,passetus eris,passus eris,passus eris,You will have been go throughed
+Passive Indicative,Future Perfect,2nd Person,Plural,passati eritis,passeti eritis,passi eritis,passi eritis,You (pl.) will have been go throughed
+Passive Indicative,Future Perfect,3rd Person,Singular,passatus erit,passetus erit,passus erit,passus erit,He/she/it will have been go throughed
+Passive Indicative,Future Perfect,3rd Person,Plural,passati erunt,passeti erunt,passi erunt,passi erunt,They will have been go throughed
+Active Subjunctive,Present,1st Person,Singular,passem,passem,passam,passam,I may go through
+Active Subjunctive,Present,1st Person,Plural,passemus,passemus,passamus,passamus,We may go through
+Active Subjunctive,Present,2nd Person,Singular,passes,passes,passas,passas,You may go through
+Active Subjunctive,Present,2nd Person,Plural,passetis,passetis,passatis,passatis,You (pl.) may go through
+Active Subjunctive,Present,3rd Person,Singular,passet,passet,passat,passat,He/she/it may go through
+Active Subjunctive,Present,3rd Person,Plural,passent,passent,passant,passant,They may go through
+Active Subjunctive,Imperfect,1st Person,Singular,passarem,passerem,passerem,passirem,I should go through
+Active Subjunctive,Imperfect,1st Person,Plural,passaremus,passeremus,passeremus,passiremus,We should go through
+Active Subjunctive,Imperfect,2nd Person,Singular,passares,passeres,passeres,passires,You should go through
+Active Subjunctive,Imperfect,2nd Person,Plural,passaretis,passeretis,passeretis,passiretis,You (pl.) should go through
+Active Subjunctive,Imperfect,3rd Person,Singular,passaret,passeret,passeret,passiret,He/she/it should go through
+Active Subjunctive,Imperfect,3rd Person,Plural,passarent,passerent,passerent,passirent,They should go through
+Active Subjunctive,Perfect,1st Person,Singular,passerim,passuerim,passerim,passierim,I may have go throughed
+Active Subjunctive,Perfect,1st Person,Plural,passerimus,passuerimus,passerimus,passierimus,We may have go throughed
+Active Subjunctive,Perfect,2nd Person,Singular,passeris,passueris,passeris,passieris,You may have go throughed
+Active Subjunctive,Perfect,2nd Person,Plural,passeritis,passueritis,passeritis,passieritis,You (pl.) may have go throughed
+Active Subjunctive,Perfect,3rd Person,Singular,passerit,passuerit,passerit,passierit,He/she/it may have go throughed
+Active Subjunctive,Perfect,3rd Person,Plural,passerint,passuerint,passerint,passierint,They may have go throughed
+Active Subjunctive,Pluperfect,1st Person,Singular,passissem,passuissem,passissem,passissem,I should have go throughed
+Active Subjunctive,Pluperfect,1st Person,Plural,passissemus,passuissemus,passissemus,passissemus,We should have go throughed
+Active Subjunctive,Pluperfect,2nd Person,Singular,passisses,passuisses,passisses,passisses,You would have go throughed
+Active Subjunctive,Pluperfect,2nd Person,Plural,passissetis,passuissetis,passissetis,passissetis,You (pl.) would have go throughed
+Active Subjunctive,Pluperfect,3rd Person,Singular,passisset,passuisset,passisset,passisset,He/she/it would have go throughed
+Active Subjunctive,Pluperfect,3rd Person,Plural,passissent,passuissent,passissent,passissent,They would have go throughed
+Passive Subjunctive,Present,1st Person,Singular,passer,passer,passar,passar,I may be go throughed
+Passive Subjunctive,Present,1st Person,Plural,passemur,passemur,passamur,passamur,We may be go throughed
+Passive Subjunctive,Present,2nd Person,Singular,passeris,passeris,passaris,passaris,You may be go throughed
+Passive Subjunctive,Present,2nd Person,Plural,passemini,passemini,passamini,passamini,You (pl.) may be go throughed
+Passive Subjunctive,Present,3rd Person,Singular,passetur,passetur,passatur,passatur,He/she/it may be go throughed
+Passive Subjunctive,Present,3rd Person,Plural,passentur,passentur,passantur,passantur,They may be go throughed
+Passive Subjunctive,Imperfect,1st Person,Singular,passarer,passerer,passerer,passirer,I should be go throughed
+Passive Subjunctive,Imperfect,1st Person,Plural,passaremur,passeremur,passeremur,passiremur,We should be go throughed
+Passive Subjunctive,Imperfect,2nd Person,Singular,passareris,passereris,passereris,passireris,You would be go throughed
+Passive Subjunctive,Imperfect,2nd Person,Plural,passaremini,passeremini,passeremini,passiremini,You (pl.) would be go throughed
+Passive Subjunctive,Imperfect,3rd Person,Singular,passaretur,passeretur,passeretur,passiretur,He/she/it would be go throughed
+Passive Subjunctive,Imperfect,3rd Person,Plural,passarentur,passerentur,passerentur,passirentur,They would be go throughed
+Passive Subjunctive,Perfect,1st Person,Singular,passatus sim,passetus sim,passus sim,passus sim,I may have been go throughed
+Passive Subjunctive,Perfect,1st Person,Plural,passati simus,passeti simus,passi simus,passi simus,We may have been go throughed
+Passive Subjunctive,Perfect,2nd Person,Singular,passatus sis,passetus sis,passus sis,passus sis,You may have been go throughed
+Passive Subjunctive,Perfect,2nd Person,Plural,passati sitis,passeti sitis,passi sitis,passi sitis,You (pl.) may have been go throughed
+Passive Subjunctive,Perfect,3rd Person,Singular,passatus sit,passetus sit,passus sit,passus sit,He/she/it may have been go throughed
+Passive Subjunctive,Perfect,3rd Person,Plural,passati sint,passeti sint,passi sint,passi sint,They may have been go throughed
+Passive Subjunctive,Pluperfect,1st Person,Singular,passatus essem,passetus essem,passus essem,passus essem,I should have been go throughed
+Passive Subjunctive,Pluperfect,1st Person,Plural,passati essemus,passeti essemus,passi essemus,passi essemus,We should have been go throughed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,passatus esses,passetus esses,passus esses,passus esses,You would have been go throughed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,passati essetis,passeti essetis,passi essetis,passi essetis,You (pl.) would have been go throughed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,passatus esset,passetus esset,passus esset,passus esset,He/she/it would have been go throughed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,passati essent,passeti essent,passi essent,passi essent,They would have been go throughed

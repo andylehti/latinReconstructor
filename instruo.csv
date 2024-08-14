@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,instruo,instrueo,instruo,instruio,I build
+Active Indicative,Present,1st Person,Plural,instruamus,instruemus,instruimus,instruimus,We build
+Active Indicative,Present,2nd Person,Singular,instruas,instrues,instruis,instruis,You build
+Active Indicative,Present,2nd Person,Plural,instruatis,instruetis,instruitis,instruitis,You (pl.) build
+Active Indicative,Present,3rd Person,Singular,instruat,instruet,instruit,instruit,He/she/it build
+Active Indicative,Present,3rd Person,Plural,instruant,instruent,instruiunt,instruiunt,They build
+Active Indicative,Imperfect,1st Person,Singular,instruabam,instruebam,instruebam,instruiebam,I was building
+Active Indicative,Imperfect,1st Person,Plural,instruabamus,instruebamus,instruebamus,instruiebamus,We were building
+Active Indicative,Imperfect,2nd Person,Singular,instruabas,instruebas,instruebas,instruiebas,You were building
+Active Indicative,Imperfect,2nd Person,Plural,instruabatis,instruebatis,instruebatis,instruiebatis,You (pl.) were building
+Active Indicative,Imperfect,3rd Person,Singular,instruabat,instruebat,instruebat,instruiebat,He/she/it was building
+Active Indicative,Imperfect,3rd Person,Plural,instruabant,instruebant,instruebant,instruiebant,They were building
+Active Indicative,Future,1st Person,Singular,instruabo,instruebo,instruam,instruiam,I will build
+Active Indicative,Future,1st Person,Plural,instruabimus,instruebimus,instruemus,instruiemus,We will build
+Active Indicative,Future,2nd Person,Singular,instruabis,instruebis,instrues,instruies,You will build
+Active Indicative,Future,2nd Person,Plural,instruabitis,instruebitis,instruetis,instruietis,You (pl.) will build
+Active Indicative,Future,3rd Person,Singular,instruabit,instruebit,instruet,instruiet,He/she/it will build
+Active Indicative,Future,3rd Person,Plural,instruabunt,instruebunt,instruent,instruient,They will build
+Active Indicative,Perfect,1st Person,Singular,instruavi,instrui,instrui,instrui,I have builded
+Active Indicative,Perfect,1st Person,Plural,instruavimus,instruimus,instruimus,instruimus,We have builded
+Active Indicative,Perfect,2nd Person,Singular,instruavisti,instruisti,instruisti,instruisti,You have builded
+Active Indicative,Perfect,2nd Person,Plural,instruavistis,instruistis,instruistis,instruistis,You (pl.) have builded
+Active Indicative,Perfect,3rd Person,Singular,instruavit,instruit,instruit,instruit,He/she/it has builded
+Active Indicative,Perfect,3rd Person,Plural,instruaverunt,instruerunt,instruerunt,instruerunt,They have builded
+Active Indicative,Pluperfect,1st Person,Singular,instruaveram,instrueram,instrueram,instrueram,I had builded
+Active Indicative,Pluperfect,1st Person,Plural,instruaveramus,instrueramus,instrueramus,instrueramus,We had builded
+Active Indicative,Pluperfect,2nd Person,Singular,instruaveras,instrueras,instrueras,instrueras,You had builded
+Active Indicative,Pluperfect,2nd Person,Plural,instruaveratis,instrueratis,instrueratis,instrueratis,You (pl.) had builded
+Active Indicative,Pluperfect,3rd Person,Singular,instruaverat,instruerat,instruerat,instruerat,He/she/it had builded
+Active Indicative,Pluperfect,3rd Person,Plural,instruaverant,instruerant,instruerant,instruerant,They had builded
+Active Indicative,Future Perfect,1st Person,Singular,instruavero,instrueero,instruero,instruiero,I will have builded
+Active Indicative,Future Perfect,1st Person,Plural,instruaverimus,instruerimus,instruerimus,instruierimus,We will have builded
+Active Indicative,Future Perfect,2nd Person,Singular,instruaveris,instrueris,instrueris,instruieris,You will have builded
+Active Indicative,Future Perfect,2nd Person,Plural,instruaveritis,instrueritis,instrueritis,instruieritis,You (pl.) will have builded
+Active Indicative,Future Perfect,3rd Person,Singular,instruaverit,instruerit,instruerit,instruierit,He/she/it will have builded
+Active Indicative,Future Perfect,3rd Person,Plural,instruaverint,instruerint,instruerint,instruierint,They will have builded
+Passive Indicative,Present,1st Person,Singular,instruor,instrueor,instruor,instruior,I am being builded
+Passive Indicative,Present,1st Person,Plural,instruamur,instruemur,instruimur,instruimur,We are being builded
+Passive Indicative,Present,2nd Person,Singular,instruaris,instrueris,instruiris,instruiris,You are being builded
+Passive Indicative,Present,2nd Person,Plural,instruamini,instruemini,instruimini,instruimini,You (pl.) are being builded
+Passive Indicative,Present,3rd Person,Singular,instruatur,instruetur,instruitur,instruitur,He/she/it is being builded
+Passive Indicative,Present,3rd Person,Plural,instruantur,instruentur,instruiuntur,instruiuntur,They are being builded
+Passive Indicative,Imperfect,1st Person,Singular,instruabar,instruebar,instruebar,instruiebar,I was builded
+Passive Indicative,Imperfect,1st Person,Plural,instruabamur,instruebamur,instruebamur,instruiebamur,We were builded
+Passive Indicative,Imperfect,2nd Person,Singular,instruabaris,instruebaris,instruebaris,instruiebaris,You were builded
+Passive Indicative,Imperfect,2nd Person,Plural,instruabamini,instruebamini,instruebamini,instruiebamini,You (pl.) were builded
+Passive Indicative,Imperfect,3rd Person,Singular,instruabatur,instruebatur,instruebatur,instruiebatur,He/she/it was builded
+Passive Indicative,Imperfect,3rd Person,Plural,instruabantur,instruebantur,instruebantur,instruiebantur,They were builded
+Passive Indicative,Future,1st Person,Singular,instruabor,instruebor,instruar,instruiar,I will be builded
+Passive Indicative,Future,1st Person,Plural,instruabimur,instruebimur,instruemur,instruiemur,We will be builded
+Passive Indicative,Future,2nd Person,Singular,instruaberis,instrueberis,instrueris,instruieris,You will be builded
+Passive Indicative,Future,2nd Person,Plural,instruabimini,instruebimini,instruemini,instruiemini,You (pl.) will be builded
+Passive Indicative,Future,3rd Person,Singular,instruabitur,instruebitur,instruetur,instruietur,He/she/it will be builded
+Passive Indicative,Future,3rd Person,Plural,instruabuntur,instruebuntur,instruentur,instruientur,They will be builded
+Passive Indicative,Perfect,1st Person,Singular,instruatus sum,instruetus sum,instrus sum,instrus sum,I have been builded
+Passive Indicative,Perfect,1st Person,Plural,instruati sumus,instrueti sumus,instrui sumus,instrui sumus,We have been builded
+Passive Indicative,Perfect,2nd Person,Singular,instruatus es,instruetus es,instrus es,instrus es,You have been builded
+Passive Indicative,Perfect,2nd Person,Plural,instruati estis,instrueti estis,instrui estis,instrui estis,You (pl.) have been builded
+Passive Indicative,Perfect,3rd Person,Singular,instruatus est,instruetus est,instrus est,instrus est,He/she/it has been builded
+Passive Indicative,Perfect,3rd Person,Plural,instruati sunt,instrueti sunt,instrui sunt,instrui sunt,They have been builded
+Passive Indicative,Pluperfect,1st Person,Singular,instruatus eram,instruetus eram,instrus eram,instrus eram,I had been builded
+Passive Indicative,Pluperfect,1st Person,Plural,instruati eramus,instrueti eramus,instrui eramus,instrui eramus,We had been builded
+Passive Indicative,Pluperfect,2nd Person,Singular,instruatus eras,instruetus eras,instrus eras,instrus eras,You had been builded
+Passive Indicative,Pluperfect,2nd Person,Plural,instruati eratis,instrueti eratis,instrui eratis,instrui eratis,You (pl.) had been builded
+Passive Indicative,Pluperfect,3rd Person,Singular,instruatus erat,instruetus erat,instrus erat,instrus erat,He/she/it had been builded
+Passive Indicative,Pluperfect,3rd Person,Plural,instruati erant,instrueti erant,instrui erant,instrui erant,They had been builded
+Passive Indicative,Future Perfect,1st Person,Singular,instruatus ero,instruetus ero,instrus ero,instrus ero,I will have been builded
+Passive Indicative,Future Perfect,1st Person,Plural,instruati erimus,instrueti erimus,instrui erimus,instrui erimus,We will have been builded
+Passive Indicative,Future Perfect,2nd Person,Singular,instruatus eris,instruetus eris,instrus eris,instrus eris,You will have been builded
+Passive Indicative,Future Perfect,2nd Person,Plural,instruati eritis,instrueti eritis,instrui eritis,instrui eritis,You (pl.) will have been builded
+Passive Indicative,Future Perfect,3rd Person,Singular,instruatus erit,instruetus erit,instrus erit,instrus erit,He/she/it will have been builded
+Passive Indicative,Future Perfect,3rd Person,Plural,instruati erunt,instrueti erunt,instrui erunt,instrui erunt,They will have been builded
+Active Subjunctive,Present,1st Person,Singular,instruem,instruem,instruam,instruam,I may build
+Active Subjunctive,Present,1st Person,Plural,instruemus,instruemus,instruamus,instruamus,We may build
+Active Subjunctive,Present,2nd Person,Singular,instrues,instrues,instruas,instruas,You may build
+Active Subjunctive,Present,2nd Person,Plural,instruetis,instruetis,instruatis,instruatis,You (pl.) may build
+Active Subjunctive,Present,3rd Person,Singular,instruet,instruet,instruat,instruat,He/she/it may build
+Active Subjunctive,Present,3rd Person,Plural,instruent,instruent,instruant,instruant,They may build
+Active Subjunctive,Imperfect,1st Person,Singular,instruarem,instruerem,instruerem,instruirem,I should build
+Active Subjunctive,Imperfect,1st Person,Plural,instruaremus,instrueremus,instrueremus,instruiremus,We should build
+Active Subjunctive,Imperfect,2nd Person,Singular,instruares,instrueres,instrueres,instruires,You should build
+Active Subjunctive,Imperfect,2nd Person,Plural,instruaretis,instrueretis,instrueretis,instruiretis,You (pl.) should build
+Active Subjunctive,Imperfect,3rd Person,Singular,instruaret,instrueret,instrueret,instruiret,He/she/it should build
+Active Subjunctive,Imperfect,3rd Person,Plural,instruarent,instruerent,instruerent,instruirent,They should build
+Active Subjunctive,Perfect,1st Person,Singular,instruerim,instruerim,instruerim,instruierim,I may have builded
+Active Subjunctive,Perfect,1st Person,Plural,instruerimus,instruerimus,instruerimus,instruierimus,We may have builded
+Active Subjunctive,Perfect,2nd Person,Singular,instrueris,instrueris,instrueris,instruieris,You may have builded
+Active Subjunctive,Perfect,2nd Person,Plural,instrueritis,instrueritis,instrueritis,instruieritis,You (pl.) may have builded
+Active Subjunctive,Perfect,3rd Person,Singular,instruerit,instruerit,instruerit,instruierit,He/she/it may have builded
+Active Subjunctive,Perfect,3rd Person,Plural,instruerint,instruerint,instruerint,instruierint,They may have builded
+Active Subjunctive,Pluperfect,1st Person,Singular,instruissem,instruissem,instruissem,instruissem,I should have builded
+Active Subjunctive,Pluperfect,1st Person,Plural,instruissemus,instruissemus,instruissemus,instruissemus,We should have builded
+Active Subjunctive,Pluperfect,2nd Person,Singular,instruisses,instruisses,instruisses,instruisses,You would have builded
+Active Subjunctive,Pluperfect,2nd Person,Plural,instruissetis,instruissetis,instruissetis,instruissetis,You (pl.) would have builded
+Active Subjunctive,Pluperfect,3rd Person,Singular,instruisset,instruisset,instruisset,instruisset,He/she/it would have builded
+Active Subjunctive,Pluperfect,3rd Person,Plural,instruissent,instruissent,instruissent,instruissent,They would have builded
+Passive Subjunctive,Present,1st Person,Singular,instruer,instruer,instruar,instruar,I may be builded
+Passive Subjunctive,Present,1st Person,Plural,instruemur,instruemur,instruamur,instruamur,We may be builded
+Passive Subjunctive,Present,2nd Person,Singular,instrueris,instrueris,instruaris,instruaris,You may be builded
+Passive Subjunctive,Present,2nd Person,Plural,instruemini,instruemini,instruamini,instruamini,You (pl.) may be builded
+Passive Subjunctive,Present,3rd Person,Singular,instruetur,instruetur,instruatur,instruatur,He/she/it may be builded
+Passive Subjunctive,Present,3rd Person,Plural,instruentur,instruentur,instruantur,instruantur,They may be builded
+Passive Subjunctive,Imperfect,1st Person,Singular,instruarer,instruerer,instruerer,instruirer,I should be builded
+Passive Subjunctive,Imperfect,1st Person,Plural,instruaremur,instrueremur,instrueremur,instruiremur,We should be builded
+Passive Subjunctive,Imperfect,2nd Person,Singular,instruareris,instruereris,instruereris,instruireris,You would be builded
+Passive Subjunctive,Imperfect,2nd Person,Plural,instruaremini,instrueremini,instrueremini,instruiremini,You (pl.) would be builded
+Passive Subjunctive,Imperfect,3rd Person,Singular,instruaretur,instrueretur,instrueretur,instruiretur,He/she/it would be builded
+Passive Subjunctive,Imperfect,3rd Person,Plural,instruarentur,instruerentur,instruerentur,instruirentur,They would be builded
+Passive Subjunctive,Perfect,1st Person,Singular,instruatus sim,instruetus sim,instrus sim,instrus sim,I may have been builded
+Passive Subjunctive,Perfect,1st Person,Plural,instruati simus,instrueti simus,instrui simus,instrui simus,We may have been builded
+Passive Subjunctive,Perfect,2nd Person,Singular,instruatus sis,instruetus sis,instrus sis,instrus sis,You may have been builded
+Passive Subjunctive,Perfect,2nd Person,Plural,instruati sitis,instrueti sitis,instrui sitis,instrui sitis,You (pl.) may have been builded
+Passive Subjunctive,Perfect,3rd Person,Singular,instruatus sit,instruetus sit,instrus sit,instrus sit,He/she/it may have been builded
+Passive Subjunctive,Perfect,3rd Person,Plural,instruati sint,instrueti sint,instrui sint,instrui sint,They may have been builded
+Passive Subjunctive,Pluperfect,1st Person,Singular,instruatus essem,instruetus essem,instrus essem,instrus essem,I should have been builded
+Passive Subjunctive,Pluperfect,1st Person,Plural,instruati essemus,instrueti essemus,instrui essemus,instrui essemus,We should have been builded
+Passive Subjunctive,Pluperfect,2nd Person,Singular,instruatus esses,instruetus esses,instrus esses,instrus esses,You would have been builded
+Passive Subjunctive,Pluperfect,2nd Person,Plural,instruati essetis,instrueti essetis,instrui essetis,instrui essetis,You (pl.) would have been builded
+Passive Subjunctive,Pluperfect,3rd Person,Singular,instruatus esset,instruetus esset,instrus esset,instrus esset,He/she/it would have been builded
+Passive Subjunctive,Pluperfect,3rd Person,Plural,instruati essent,instrueti essent,instrui essent,instrui essent,They would have been builded

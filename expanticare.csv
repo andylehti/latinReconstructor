@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,expantico,expanticeo,expantico,expanticio,I burst open
+Active Indicative,Present,1st Person,Plural,expanticamus,expanticemus,expanticimus,expanticimus,We burst open
+Active Indicative,Present,2nd Person,Singular,expanticas,expantices,expanticis,expanticis,You burst open
+Active Indicative,Present,2nd Person,Plural,expanticatis,expanticetis,expanticitis,expanticitis,You (pl.) burst open
+Active Indicative,Present,3rd Person,Singular,expanticat,expanticet,expanticit,expanticit,He/she/it burst open
+Active Indicative,Present,3rd Person,Plural,expanticant,expanticent,expanticiunt,expanticiunt,They burst open
+Active Indicative,Imperfect,1st Person,Singular,expanticabam,expanticebam,expanticebam,expanticiebam,I was burst opening
+Active Indicative,Imperfect,1st Person,Plural,expanticabamus,expanticebamus,expanticebamus,expanticiebamus,We were burst opening
+Active Indicative,Imperfect,2nd Person,Singular,expanticabas,expanticebas,expanticebas,expanticiebas,You were burst opening
+Active Indicative,Imperfect,2nd Person,Plural,expanticabatis,expanticebatis,expanticebatis,expanticiebatis,You (pl.) were burst opening
+Active Indicative,Imperfect,3rd Person,Singular,expanticabat,expanticebat,expanticebat,expanticiebat,He/she/it was burst opening
+Active Indicative,Imperfect,3rd Person,Plural,expanticabant,expanticebant,expanticebant,expanticiebant,They were burst opening
+Active Indicative,Future,1st Person,Singular,expanticabo,expanticebo,expanticam,expanticiam,I will burst open
+Active Indicative,Future,1st Person,Plural,expanticabimus,expanticebimus,expanticemus,expanticiemus,We will burst open
+Active Indicative,Future,2nd Person,Singular,expanticabis,expanticebis,expantices,expanticies,You will burst open
+Active Indicative,Future,2nd Person,Plural,expanticabitis,expanticebitis,expanticetis,expanticietis,You (pl.) will burst open
+Active Indicative,Future,3rd Person,Singular,expanticabit,expanticebit,expanticet,expanticiet,He/she/it will burst open
+Active Indicative,Future,3rd Person,Plural,expanticabunt,expanticebunt,expanticent,expanticient,They will burst open
+Active Indicative,Perfect,1st Person,Singular,expanticavi,expanticui,expantici,expantici,I have burst opened
+Active Indicative,Perfect,1st Person,Plural,expanticavimus,expanticuimus,expanticimus,expanticimus,We have burst opened
+Active Indicative,Perfect,2nd Person,Singular,expanticavisti,expanticuisti,expanticisti,expanticisti,You have burst opened
+Active Indicative,Perfect,2nd Person,Plural,expanticavistis,expanticuistis,expanticistis,expanticistis,You (pl.) have burst opened
+Active Indicative,Perfect,3rd Person,Singular,expanticavit,expanticuit,expanticit,expanticit,He/she/it has burst opened
+Active Indicative,Perfect,3rd Person,Plural,expanticaverunt,expanticuerunt,expanticerunt,expanticerunt,They have burst opened
+Active Indicative,Pluperfect,1st Person,Singular,expanticaveram,expanticueram,expanticeram,expanticeram,I had burst opened
+Active Indicative,Pluperfect,1st Person,Plural,expanticaveramus,expanticueramus,expanticeramus,expanticeramus,We had burst opened
+Active Indicative,Pluperfect,2nd Person,Singular,expanticaveras,expanticueras,expanticeras,expanticeras,You had burst opened
+Active Indicative,Pluperfect,2nd Person,Plural,expanticaveratis,expanticueratis,expanticeratis,expanticeratis,You (pl.) had burst opened
+Active Indicative,Pluperfect,3rd Person,Singular,expanticaverat,expanticuerat,expanticerat,expanticerat,He/she/it had burst opened
+Active Indicative,Pluperfect,3rd Person,Plural,expanticaverant,expanticuerant,expanticerant,expanticerant,They had burst opened
+Active Indicative,Future Perfect,1st Person,Singular,expanticavero,expanticueero,expanticero,expanticiero,I will have burst opened
+Active Indicative,Future Perfect,1st Person,Plural,expanticaverimus,expanticuerimus,expanticerimus,expanticierimus,We will have burst opened
+Active Indicative,Future Perfect,2nd Person,Singular,expanticaveris,expanticueris,expanticeris,expanticieris,You will have burst opened
+Active Indicative,Future Perfect,2nd Person,Plural,expanticaveritis,expanticueritis,expanticeritis,expanticieritis,You (pl.) will have burst opened
+Active Indicative,Future Perfect,3rd Person,Singular,expanticaverit,expanticuerit,expanticerit,expanticierit,He/she/it will have burst opened
+Active Indicative,Future Perfect,3rd Person,Plural,expanticaverint,expanticuerint,expanticerint,expanticierint,They will have burst opened
+Passive Indicative,Present,1st Person,Singular,expanticor,expanticeor,expanticor,expanticior,I am being burst opened
+Passive Indicative,Present,1st Person,Plural,expanticamur,expanticemur,expanticimur,expanticimur,We are being burst opened
+Passive Indicative,Present,2nd Person,Singular,expanticaris,expanticeris,expanticiris,expanticiris,You are being burst opened
+Passive Indicative,Present,2nd Person,Plural,expanticamini,expanticemini,expanticimini,expanticimini,You (pl.) are being burst opened
+Passive Indicative,Present,3rd Person,Singular,expanticatur,expanticetur,expanticitur,expanticitur,He/she/it is being burst opened
+Passive Indicative,Present,3rd Person,Plural,expanticantur,expanticentur,expanticiuntur,expanticiuntur,They are being burst opened
+Passive Indicative,Imperfect,1st Person,Singular,expanticabar,expanticebar,expanticebar,expanticiebar,I was burst opened
+Passive Indicative,Imperfect,1st Person,Plural,expanticabamur,expanticebamur,expanticebamur,expanticiebamur,We were burst opened
+Passive Indicative,Imperfect,2nd Person,Singular,expanticabaris,expanticebaris,expanticebaris,expanticiebaris,You were burst opened
+Passive Indicative,Imperfect,2nd Person,Plural,expanticabamini,expanticebamini,expanticebamini,expanticiebamini,You (pl.) were burst opened
+Passive Indicative,Imperfect,3rd Person,Singular,expanticabatur,expanticebatur,expanticebatur,expanticiebatur,He/she/it was burst opened
+Passive Indicative,Imperfect,3rd Person,Plural,expanticabantur,expanticebantur,expanticebantur,expanticiebantur,They were burst opened
+Passive Indicative,Future,1st Person,Singular,expanticabor,expanticebor,expanticar,expanticiar,I will be burst opened
+Passive Indicative,Future,1st Person,Plural,expanticabimur,expanticebimur,expanticemur,expanticiemur,We will be burst opened
+Passive Indicative,Future,2nd Person,Singular,expanticaberis,expanticeberis,expanticeris,expanticieris,You will be burst opened
+Passive Indicative,Future,2nd Person,Plural,expanticabimini,expanticebimini,expanticemini,expanticiemini,You (pl.) will be burst opened
+Passive Indicative,Future,3rd Person,Singular,expanticabitur,expanticebitur,expanticetur,expanticietur,He/she/it will be burst opened
+Passive Indicative,Future,3rd Person,Plural,expanticabuntur,expanticebuntur,expanticentur,expanticientur,They will be burst opened
+Passive Indicative,Perfect,1st Person,Singular,expanticatus sum,expanticetus sum,expanticus sum,expanticus sum,I have been burst opened
+Passive Indicative,Perfect,1st Person,Plural,expanticati sumus,expanticeti sumus,expantici sumus,expantici sumus,We have been burst opened
+Passive Indicative,Perfect,2nd Person,Singular,expanticatus es,expanticetus es,expanticus es,expanticus es,You have been burst opened
+Passive Indicative,Perfect,2nd Person,Plural,expanticati estis,expanticeti estis,expantici estis,expantici estis,You (pl.) have been burst opened
+Passive Indicative,Perfect,3rd Person,Singular,expanticatus est,expanticetus est,expanticus est,expanticus est,He/she/it has been burst opened
+Passive Indicative,Perfect,3rd Person,Plural,expanticati sunt,expanticeti sunt,expantici sunt,expantici sunt,They have been burst opened
+Passive Indicative,Pluperfect,1st Person,Singular,expanticatus eram,expanticetus eram,expanticus eram,expanticus eram,I had been burst opened
+Passive Indicative,Pluperfect,1st Person,Plural,expanticati eramus,expanticeti eramus,expantici eramus,expantici eramus,We had been burst opened
+Passive Indicative,Pluperfect,2nd Person,Singular,expanticatus eras,expanticetus eras,expanticus eras,expanticus eras,You had been burst opened
+Passive Indicative,Pluperfect,2nd Person,Plural,expanticati eratis,expanticeti eratis,expantici eratis,expantici eratis,You (pl.) had been burst opened
+Passive Indicative,Pluperfect,3rd Person,Singular,expanticatus erat,expanticetus erat,expanticus erat,expanticus erat,He/she/it had been burst opened
+Passive Indicative,Pluperfect,3rd Person,Plural,expanticati erant,expanticeti erant,expantici erant,expantici erant,They had been burst opened
+Passive Indicative,Future Perfect,1st Person,Singular,expanticatus ero,expanticetus ero,expanticus ero,expanticus ero,I will have been burst opened
+Passive Indicative,Future Perfect,1st Person,Plural,expanticati erimus,expanticeti erimus,expantici erimus,expantici erimus,We will have been burst opened
+Passive Indicative,Future Perfect,2nd Person,Singular,expanticatus eris,expanticetus eris,expanticus eris,expanticus eris,You will have been burst opened
+Passive Indicative,Future Perfect,2nd Person,Plural,expanticati eritis,expanticeti eritis,expantici eritis,expantici eritis,You (pl.) will have been burst opened
+Passive Indicative,Future Perfect,3rd Person,Singular,expanticatus erit,expanticetus erit,expanticus erit,expanticus erit,He/she/it will have been burst opened
+Passive Indicative,Future Perfect,3rd Person,Plural,expanticati erunt,expanticeti erunt,expantici erunt,expantici erunt,They will have been burst opened
+Active Subjunctive,Present,1st Person,Singular,expanticem,expanticem,expanticam,expanticam,I may burst open
+Active Subjunctive,Present,1st Person,Plural,expanticemus,expanticemus,expanticamus,expanticamus,We may burst open
+Active Subjunctive,Present,2nd Person,Singular,expantices,expantices,expanticas,expanticas,You may burst open
+Active Subjunctive,Present,2nd Person,Plural,expanticetis,expanticetis,expanticatis,expanticatis,You (pl.) may burst open
+Active Subjunctive,Present,3rd Person,Singular,expanticet,expanticet,expanticat,expanticat,He/she/it may burst open
+Active Subjunctive,Present,3rd Person,Plural,expanticent,expanticent,expanticant,expanticant,They may burst open
+Active Subjunctive,Imperfect,1st Person,Singular,expanticarem,expanticerem,expanticerem,expanticirem,I should burst open
+Active Subjunctive,Imperfect,1st Person,Plural,expanticaremus,expanticeremus,expanticeremus,expanticiremus,We should burst open
+Active Subjunctive,Imperfect,2nd Person,Singular,expanticares,expanticeres,expanticeres,expanticires,You should burst open
+Active Subjunctive,Imperfect,2nd Person,Plural,expanticaretis,expanticeretis,expanticeretis,expanticiretis,You (pl.) should burst open
+Active Subjunctive,Imperfect,3rd Person,Singular,expanticaret,expanticeret,expanticeret,expanticiret,He/she/it should burst open
+Active Subjunctive,Imperfect,3rd Person,Plural,expanticarent,expanticerent,expanticerent,expanticirent,They should burst open
+Active Subjunctive,Perfect,1st Person,Singular,expanticerim,expanticuerim,expanticerim,expanticierim,I may have burst opened
+Active Subjunctive,Perfect,1st Person,Plural,expanticerimus,expanticuerimus,expanticerimus,expanticierimus,We may have burst opened
+Active Subjunctive,Perfect,2nd Person,Singular,expanticeris,expanticueris,expanticeris,expanticieris,You may have burst opened
+Active Subjunctive,Perfect,2nd Person,Plural,expanticeritis,expanticueritis,expanticeritis,expanticieritis,You (pl.) may have burst opened
+Active Subjunctive,Perfect,3rd Person,Singular,expanticerit,expanticuerit,expanticerit,expanticierit,He/she/it may have burst opened
+Active Subjunctive,Perfect,3rd Person,Plural,expanticerint,expanticuerint,expanticerint,expanticierint,They may have burst opened
+Active Subjunctive,Pluperfect,1st Person,Singular,expanticissem,expanticuissem,expanticissem,expanticissem,I should have burst opened
+Active Subjunctive,Pluperfect,1st Person,Plural,expanticissemus,expanticuissemus,expanticissemus,expanticissemus,We should have burst opened
+Active Subjunctive,Pluperfect,2nd Person,Singular,expanticisses,expanticuisses,expanticisses,expanticisses,You would have burst opened
+Active Subjunctive,Pluperfect,2nd Person,Plural,expanticissetis,expanticuissetis,expanticissetis,expanticissetis,You (pl.) would have burst opened
+Active Subjunctive,Pluperfect,3rd Person,Singular,expanticisset,expanticuisset,expanticisset,expanticisset,He/she/it would have burst opened
+Active Subjunctive,Pluperfect,3rd Person,Plural,expanticissent,expanticuissent,expanticissent,expanticissent,They would have burst opened
+Passive Subjunctive,Present,1st Person,Singular,expanticer,expanticer,expanticar,expanticar,I may be burst opened
+Passive Subjunctive,Present,1st Person,Plural,expanticemur,expanticemur,expanticamur,expanticamur,We may be burst opened
+Passive Subjunctive,Present,2nd Person,Singular,expanticeris,expanticeris,expanticaris,expanticaris,You may be burst opened
+Passive Subjunctive,Present,2nd Person,Plural,expanticemini,expanticemini,expanticamini,expanticamini,You (pl.) may be burst opened
+Passive Subjunctive,Present,3rd Person,Singular,expanticetur,expanticetur,expanticatur,expanticatur,He/she/it may be burst opened
+Passive Subjunctive,Present,3rd Person,Plural,expanticentur,expanticentur,expanticantur,expanticantur,They may be burst opened
+Passive Subjunctive,Imperfect,1st Person,Singular,expanticarer,expanticerer,expanticerer,expanticirer,I should be burst opened
+Passive Subjunctive,Imperfect,1st Person,Plural,expanticaremur,expanticeremur,expanticeremur,expanticiremur,We should be burst opened
+Passive Subjunctive,Imperfect,2nd Person,Singular,expanticareris,expanticereris,expanticereris,expanticireris,You would be burst opened
+Passive Subjunctive,Imperfect,2nd Person,Plural,expanticaremini,expanticeremini,expanticeremini,expanticiremini,You (pl.) would be burst opened
+Passive Subjunctive,Imperfect,3rd Person,Singular,expanticaretur,expanticeretur,expanticeretur,expanticiretur,He/she/it would be burst opened
+Passive Subjunctive,Imperfect,3rd Person,Plural,expanticarentur,expanticerentur,expanticerentur,expanticirentur,They would be burst opened
+Passive Subjunctive,Perfect,1st Person,Singular,expanticatus sim,expanticetus sim,expanticus sim,expanticus sim,I may have been burst opened
+Passive Subjunctive,Perfect,1st Person,Plural,expanticati simus,expanticeti simus,expantici simus,expantici simus,We may have been burst opened
+Passive Subjunctive,Perfect,2nd Person,Singular,expanticatus sis,expanticetus sis,expanticus sis,expanticus sis,You may have been burst opened
+Passive Subjunctive,Perfect,2nd Person,Plural,expanticati sitis,expanticeti sitis,expantici sitis,expantici sitis,You (pl.) may have been burst opened
+Passive Subjunctive,Perfect,3rd Person,Singular,expanticatus sit,expanticetus sit,expanticus sit,expanticus sit,He/she/it may have been burst opened
+Passive Subjunctive,Perfect,3rd Person,Plural,expanticati sint,expanticeti sint,expantici sint,expantici sint,They may have been burst opened
+Passive Subjunctive,Pluperfect,1st Person,Singular,expanticatus essem,expanticetus essem,expanticus essem,expanticus essem,I should have been burst opened
+Passive Subjunctive,Pluperfect,1st Person,Plural,expanticati essemus,expanticeti essemus,expantici essemus,expantici essemus,We should have been burst opened
+Passive Subjunctive,Pluperfect,2nd Person,Singular,expanticatus esses,expanticetus esses,expanticus esses,expanticus esses,You would have been burst opened
+Passive Subjunctive,Pluperfect,2nd Person,Plural,expanticati essetis,expanticeti essetis,expantici essetis,expantici essetis,You (pl.) would have been burst opened
+Passive Subjunctive,Pluperfect,3rd Person,Singular,expanticatus esset,expanticetus esset,expanticus esset,expanticus esset,He/she/it would have been burst opened
+Passive Subjunctive,Pluperfect,3rd Person,Plural,expanticati essent,expanticeti essent,expantici essent,expantici essent,They would have been burst opened

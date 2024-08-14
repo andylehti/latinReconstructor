@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,praeparo,praepareo,praeparo,praepario,I prepare
+Active Indicative,Present,1st Person,Plural,praeparamus,praeparemus,praeparimus,praeparimus,We prepare
+Active Indicative,Present,2nd Person,Singular,praeparas,praepares,praeparis,praeparis,You prepare
+Active Indicative,Present,2nd Person,Plural,praeparatis,praeparetis,praeparitis,praeparitis,You (pl.) prepare
+Active Indicative,Present,3rd Person,Singular,praeparat,praeparet,praeparit,praeparit,He/she/it prepare
+Active Indicative,Present,3rd Person,Plural,praeparant,praeparent,praepariunt,praepariunt,They prepare
+Active Indicative,Imperfect,1st Person,Singular,praeparabam,praeparebam,praeparebam,praepariebam,I was prepareing
+Active Indicative,Imperfect,1st Person,Plural,praeparabamus,praeparebamus,praeparebamus,praepariebamus,We were prepareing
+Active Indicative,Imperfect,2nd Person,Singular,praeparabas,praeparebas,praeparebas,praepariebas,You were prepareing
+Active Indicative,Imperfect,2nd Person,Plural,praeparabatis,praeparebatis,praeparebatis,praepariebatis,You (pl.) were prepareing
+Active Indicative,Imperfect,3rd Person,Singular,praeparabat,praeparebat,praeparebat,praepariebat,He/she/it was prepareing
+Active Indicative,Imperfect,3rd Person,Plural,praeparabant,praeparebant,praeparebant,praepariebant,They were prepareing
+Active Indicative,Future,1st Person,Singular,praeparabo,praeparebo,praeparam,praepariam,I will prepare
+Active Indicative,Future,1st Person,Plural,praeparabimus,praeparebimus,praeparemus,praepariemus,We will prepare
+Active Indicative,Future,2nd Person,Singular,praeparabis,praeparebis,praepares,praeparies,You will prepare
+Active Indicative,Future,2nd Person,Plural,praeparabitis,praeparebitis,praeparetis,praeparietis,You (pl.) will prepare
+Active Indicative,Future,3rd Person,Singular,praeparabit,praeparebit,praeparet,praepariet,He/she/it will prepare
+Active Indicative,Future,3rd Person,Plural,praeparabunt,praeparebunt,praeparent,praeparient,They will prepare
+Active Indicative,Perfect,1st Person,Singular,praeparavi,praeparui,praepari,praepari,I have prepareed
+Active Indicative,Perfect,1st Person,Plural,praeparavimus,praeparuimus,praeparimus,praeparimus,We have prepareed
+Active Indicative,Perfect,2nd Person,Singular,praeparavisti,praeparuisti,praeparisti,praeparisti,You have prepareed
+Active Indicative,Perfect,2nd Person,Plural,praeparavistis,praeparuistis,praeparistis,praeparistis,You (pl.) have prepareed
+Active Indicative,Perfect,3rd Person,Singular,praeparavit,praeparuit,praeparit,praeparit,He/she/it has prepareed
+Active Indicative,Perfect,3rd Person,Plural,praeparaverunt,praeparuerunt,praeparerunt,praeparerunt,They have prepareed
+Active Indicative,Pluperfect,1st Person,Singular,praeparaveram,praeparueram,praepareram,praepareram,I had prepareed
+Active Indicative,Pluperfect,1st Person,Plural,praeparaveramus,praeparueramus,praepareramus,praepareramus,We had prepareed
+Active Indicative,Pluperfect,2nd Person,Singular,praeparaveras,praeparueras,praepareras,praepareras,You had prepareed
+Active Indicative,Pluperfect,2nd Person,Plural,praeparaveratis,praeparueratis,praepareratis,praepareratis,You (pl.) had prepareed
+Active Indicative,Pluperfect,3rd Person,Singular,praeparaverat,praeparuerat,praeparerat,praeparerat,He/she/it had prepareed
+Active Indicative,Pluperfect,3rd Person,Plural,praeparaverant,praeparuerant,praeparerant,praeparerant,They had prepareed
+Active Indicative,Future Perfect,1st Person,Singular,praeparavero,praeparueero,praeparero,praepariero,I will have prepareed
+Active Indicative,Future Perfect,1st Person,Plural,praeparaverimus,praeparuerimus,praeparerimus,praeparierimus,We will have prepareed
+Active Indicative,Future Perfect,2nd Person,Singular,praeparaveris,praeparueris,praepareris,praeparieris,You will have prepareed
+Active Indicative,Future Perfect,2nd Person,Plural,praeparaveritis,praeparueritis,praepareritis,praeparieritis,You (pl.) will have prepareed
+Active Indicative,Future Perfect,3rd Person,Singular,praeparaverit,praeparuerit,praeparerit,praeparierit,He/she/it will have prepareed
+Active Indicative,Future Perfect,3rd Person,Plural,praeparaverint,praeparuerint,praeparerint,praeparierint,They will have prepareed
+Passive Indicative,Present,1st Person,Singular,praeparor,praepareor,praeparor,praeparior,I am being prepareed
+Passive Indicative,Present,1st Person,Plural,praeparamur,praeparemur,praeparimur,praeparimur,We are being prepareed
+Passive Indicative,Present,2nd Person,Singular,praepararis,praepareris,praepariris,praepariris,You are being prepareed
+Passive Indicative,Present,2nd Person,Plural,praeparamini,praeparemini,praeparimini,praeparimini,You (pl.) are being prepareed
+Passive Indicative,Present,3rd Person,Singular,praeparatur,praeparetur,praeparitur,praeparitur,He/she/it is being prepareed
+Passive Indicative,Present,3rd Person,Plural,praeparantur,praeparentur,praepariuntur,praepariuntur,They are being prepareed
+Passive Indicative,Imperfect,1st Person,Singular,praeparabar,praeparebar,praeparebar,praepariebar,I was prepareed
+Passive Indicative,Imperfect,1st Person,Plural,praeparabamur,praeparebamur,praeparebamur,praepariebamur,We were prepareed
+Passive Indicative,Imperfect,2nd Person,Singular,praeparabaris,praeparebaris,praeparebaris,praepariebaris,You were prepareed
+Passive Indicative,Imperfect,2nd Person,Plural,praeparabamini,praeparebamini,praeparebamini,praepariebamini,You (pl.) were prepareed
+Passive Indicative,Imperfect,3rd Person,Singular,praeparabatur,praeparebatur,praeparebatur,praepariebatur,He/she/it was prepareed
+Passive Indicative,Imperfect,3rd Person,Plural,praeparabantur,praeparebantur,praeparebantur,praepariebantur,They were prepareed
+Passive Indicative,Future,1st Person,Singular,praeparabor,praeparebor,praeparar,praepariar,I will be prepareed
+Passive Indicative,Future,1st Person,Plural,praeparabimur,praeparebimur,praeparemur,praepariemur,We will be prepareed
+Passive Indicative,Future,2nd Person,Singular,praeparaberis,praepareberis,praepareris,praeparieris,You will be prepareed
+Passive Indicative,Future,2nd Person,Plural,praeparabimini,praeparebimini,praeparemini,praepariemini,You (pl.) will be prepareed
+Passive Indicative,Future,3rd Person,Singular,praeparabitur,praeparebitur,praeparetur,praeparietur,He/she/it will be prepareed
+Passive Indicative,Future,3rd Person,Plural,praeparabuntur,praeparebuntur,praeparentur,praeparientur,They will be prepareed
+Passive Indicative,Perfect,1st Person,Singular,praeparatus sum,praeparetus sum,praeparus sum,praeparus sum,I have been prepareed
+Passive Indicative,Perfect,1st Person,Plural,praeparati sumus,praepareti sumus,praepari sumus,praepari sumus,We have been prepareed
+Passive Indicative,Perfect,2nd Person,Singular,praeparatus es,praeparetus es,praeparus es,praeparus es,You have been prepareed
+Passive Indicative,Perfect,2nd Person,Plural,praeparati estis,praepareti estis,praepari estis,praepari estis,You (pl.) have been prepareed
+Passive Indicative,Perfect,3rd Person,Singular,praeparatus est,praeparetus est,praeparus est,praeparus est,He/she/it has been prepareed
+Passive Indicative,Perfect,3rd Person,Plural,praeparati sunt,praepareti sunt,praepari sunt,praepari sunt,They have been prepareed
+Passive Indicative,Pluperfect,1st Person,Singular,praeparatus eram,praeparetus eram,praeparus eram,praeparus eram,I had been prepareed
+Passive Indicative,Pluperfect,1st Person,Plural,praeparati eramus,praepareti eramus,praepari eramus,praepari eramus,We had been prepareed
+Passive Indicative,Pluperfect,2nd Person,Singular,praeparatus eras,praeparetus eras,praeparus eras,praeparus eras,You had been prepareed
+Passive Indicative,Pluperfect,2nd Person,Plural,praeparati eratis,praepareti eratis,praepari eratis,praepari eratis,You (pl.) had been prepareed
+Passive Indicative,Pluperfect,3rd Person,Singular,praeparatus erat,praeparetus erat,praeparus erat,praeparus erat,He/she/it had been prepareed
+Passive Indicative,Pluperfect,3rd Person,Plural,praeparati erant,praepareti erant,praepari erant,praepari erant,They had been prepareed
+Passive Indicative,Future Perfect,1st Person,Singular,praeparatus ero,praeparetus ero,praeparus ero,praeparus ero,I will have been prepareed
+Passive Indicative,Future Perfect,1st Person,Plural,praeparati erimus,praepareti erimus,praepari erimus,praepari erimus,We will have been prepareed
+Passive Indicative,Future Perfect,2nd Person,Singular,praeparatus eris,praeparetus eris,praeparus eris,praeparus eris,You will have been prepareed
+Passive Indicative,Future Perfect,2nd Person,Plural,praeparati eritis,praepareti eritis,praepari eritis,praepari eritis,You (pl.) will have been prepareed
+Passive Indicative,Future Perfect,3rd Person,Singular,praeparatus erit,praeparetus erit,praeparus erit,praeparus erit,He/she/it will have been prepareed
+Passive Indicative,Future Perfect,3rd Person,Plural,praeparati erunt,praepareti erunt,praepari erunt,praepari erunt,They will have been prepareed
+Active Subjunctive,Present,1st Person,Singular,praeparem,praeparem,praeparam,praeparam,I may prepare
+Active Subjunctive,Present,1st Person,Plural,praeparemus,praeparemus,praeparamus,praeparamus,We may prepare
+Active Subjunctive,Present,2nd Person,Singular,praepares,praepares,praeparas,praeparas,You may prepare
+Active Subjunctive,Present,2nd Person,Plural,praeparetis,praeparetis,praeparatis,praeparatis,You (pl.) may prepare
+Active Subjunctive,Present,3rd Person,Singular,praeparet,praeparet,praeparat,praeparat,He/she/it may prepare
+Active Subjunctive,Present,3rd Person,Plural,praeparent,praeparent,praeparant,praeparant,They may prepare
+Active Subjunctive,Imperfect,1st Person,Singular,praepararem,praeparerem,praeparerem,praeparirem,I should prepare
+Active Subjunctive,Imperfect,1st Person,Plural,praepararemus,praepareremus,praepareremus,praepariremus,We should prepare
+Active Subjunctive,Imperfect,2nd Person,Singular,praeparares,praepareres,praepareres,praeparires,You should prepare
+Active Subjunctive,Imperfect,2nd Person,Plural,praepararetis,praepareretis,praepareretis,praepariretis,You (pl.) should prepare
+Active Subjunctive,Imperfect,3rd Person,Singular,praepararet,praepareret,praepareret,praepariret,He/she/it should prepare
+Active Subjunctive,Imperfect,3rd Person,Plural,praepararent,praeparerent,praeparerent,praeparirent,They should prepare
+Active Subjunctive,Perfect,1st Person,Singular,praeparerim,praeparuerim,praeparerim,praeparierim,I may have prepareed
+Active Subjunctive,Perfect,1st Person,Plural,praeparerimus,praeparuerimus,praeparerimus,praeparierimus,We may have prepareed
+Active Subjunctive,Perfect,2nd Person,Singular,praepareris,praeparueris,praepareris,praeparieris,You may have prepareed
+Active Subjunctive,Perfect,2nd Person,Plural,praepareritis,praeparueritis,praepareritis,praeparieritis,You (pl.) may have prepareed
+Active Subjunctive,Perfect,3rd Person,Singular,praeparerit,praeparuerit,praeparerit,praeparierit,He/she/it may have prepareed
+Active Subjunctive,Perfect,3rd Person,Plural,praeparerint,praeparuerint,praeparerint,praeparierint,They may have prepareed
+Active Subjunctive,Pluperfect,1st Person,Singular,praeparissem,praeparuissem,praeparissem,praeparissem,I should have prepareed
+Active Subjunctive,Pluperfect,1st Person,Plural,praeparissemus,praeparuissemus,praeparissemus,praeparissemus,We should have prepareed
+Active Subjunctive,Pluperfect,2nd Person,Singular,praeparisses,praeparuisses,praeparisses,praeparisses,You would have prepareed
+Active Subjunctive,Pluperfect,2nd Person,Plural,praeparissetis,praeparuissetis,praeparissetis,praeparissetis,You (pl.) would have prepareed
+Active Subjunctive,Pluperfect,3rd Person,Singular,praeparisset,praeparuisset,praeparisset,praeparisset,He/she/it would have prepareed
+Active Subjunctive,Pluperfect,3rd Person,Plural,praeparissent,praeparuissent,praeparissent,praeparissent,They would have prepareed
+Passive Subjunctive,Present,1st Person,Singular,praeparer,praeparer,praeparar,praeparar,I may be prepareed
+Passive Subjunctive,Present,1st Person,Plural,praeparemur,praeparemur,praeparamur,praeparamur,We may be prepareed
+Passive Subjunctive,Present,2nd Person,Singular,praepareris,praepareris,praepararis,praepararis,You may be prepareed
+Passive Subjunctive,Present,2nd Person,Plural,praeparemini,praeparemini,praeparamini,praeparamini,You (pl.) may be prepareed
+Passive Subjunctive,Present,3rd Person,Singular,praeparetur,praeparetur,praeparatur,praeparatur,He/she/it may be prepareed
+Passive Subjunctive,Present,3rd Person,Plural,praeparentur,praeparentur,praeparantur,praeparantur,They may be prepareed
+Passive Subjunctive,Imperfect,1st Person,Singular,praepararer,praeparerer,praeparerer,praeparirer,I should be prepareed
+Passive Subjunctive,Imperfect,1st Person,Plural,praepararemur,praepareremur,praepareremur,praepariremur,We should be prepareed
+Passive Subjunctive,Imperfect,2nd Person,Singular,praeparareris,praeparereris,praeparereris,praeparireris,You would be prepareed
+Passive Subjunctive,Imperfect,2nd Person,Plural,praepararemini,praepareremini,praepareremini,praepariremini,You (pl.) would be prepareed
+Passive Subjunctive,Imperfect,3rd Person,Singular,praepararetur,praepareretur,praepareretur,praepariretur,He/she/it would be prepareed
+Passive Subjunctive,Imperfect,3rd Person,Plural,praepararentur,praeparerentur,praeparerentur,praeparirentur,They would be prepareed
+Passive Subjunctive,Perfect,1st Person,Singular,praeparatus sim,praeparetus sim,praeparus sim,praeparus sim,I may have been prepareed
+Passive Subjunctive,Perfect,1st Person,Plural,praeparati simus,praepareti simus,praepari simus,praepari simus,We may have been prepareed
+Passive Subjunctive,Perfect,2nd Person,Singular,praeparatus sis,praeparetus sis,praeparus sis,praeparus sis,You may have been prepareed
+Passive Subjunctive,Perfect,2nd Person,Plural,praeparati sitis,praepareti sitis,praepari sitis,praepari sitis,You (pl.) may have been prepareed
+Passive Subjunctive,Perfect,3rd Person,Singular,praeparatus sit,praeparetus sit,praeparus sit,praeparus sit,He/she/it may have been prepareed
+Passive Subjunctive,Perfect,3rd Person,Plural,praeparati sint,praepareti sint,praepari sint,praepari sint,They may have been prepareed
+Passive Subjunctive,Pluperfect,1st Person,Singular,praeparatus essem,praeparetus essem,praeparus essem,praeparus essem,I should have been prepareed
+Passive Subjunctive,Pluperfect,1st Person,Plural,praeparati essemus,praepareti essemus,praepari essemus,praepari essemus,We should have been prepareed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,praeparatus esses,praeparetus esses,praeparus esses,praeparus esses,You would have been prepareed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,praeparati essetis,praepareti essetis,praepari essetis,praepari essetis,You (pl.) would have been prepareed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,praeparatus esset,praeparetus esset,praeparus esset,praeparus esset,He/she/it would have been prepareed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,praeparati essent,praepareti essent,praepari essent,praepari essent,They would have been prepareed

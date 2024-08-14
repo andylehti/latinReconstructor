@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,appariculo,appariculeo,appariculo,appariculio,I prepare
+Active Indicative,Present,1st Person,Plural,appariculamus,appariculemus,appariculimus,appariculimus,We prepare
+Active Indicative,Present,2nd Person,Singular,appariculas,apparicules,appariculis,appariculis,You prepare
+Active Indicative,Present,2nd Person,Plural,appariculatis,appariculetis,appariculitis,appariculitis,You (pl.) prepare
+Active Indicative,Present,3rd Person,Singular,appariculat,appariculet,appariculit,appariculit,He/she/it prepare
+Active Indicative,Present,3rd Person,Plural,appariculant,appariculent,appariculiunt,appariculiunt,They prepare
+Active Indicative,Imperfect,1st Person,Singular,appariculabam,appariculebam,appariculebam,appariculiebam,I was prepareing
+Active Indicative,Imperfect,1st Person,Plural,appariculabamus,appariculebamus,appariculebamus,appariculiebamus,We were prepareing
+Active Indicative,Imperfect,2nd Person,Singular,appariculabas,appariculebas,appariculebas,appariculiebas,You were prepareing
+Active Indicative,Imperfect,2nd Person,Plural,appariculabatis,appariculebatis,appariculebatis,appariculiebatis,You (pl.) were prepareing
+Active Indicative,Imperfect,3rd Person,Singular,appariculabat,appariculebat,appariculebat,appariculiebat,He/she/it was prepareing
+Active Indicative,Imperfect,3rd Person,Plural,appariculabant,appariculebant,appariculebant,appariculiebant,They were prepareing
+Active Indicative,Future,1st Person,Singular,appariculabo,appariculebo,appariculam,appariculiam,I will prepare
+Active Indicative,Future,1st Person,Plural,appariculabimus,appariculebimus,appariculemus,appariculiemus,We will prepare
+Active Indicative,Future,2nd Person,Singular,appariculabis,appariculebis,apparicules,appariculies,You will prepare
+Active Indicative,Future,2nd Person,Plural,appariculabitis,appariculebitis,appariculetis,appariculietis,You (pl.) will prepare
+Active Indicative,Future,3rd Person,Singular,appariculabit,appariculebit,appariculet,appariculiet,He/she/it will prepare
+Active Indicative,Future,3rd Person,Plural,appariculabunt,appariculebunt,appariculent,appariculient,They will prepare
+Active Indicative,Perfect,1st Person,Singular,appariculavi,apparicului,appariculi,appariculi,I have prepareed
+Active Indicative,Perfect,1st Person,Plural,appariculavimus,appariculuimus,appariculimus,appariculimus,We have prepareed
+Active Indicative,Perfect,2nd Person,Singular,appariculavisti,appariculuisti,appariculisti,appariculisti,You have prepareed
+Active Indicative,Perfect,2nd Person,Plural,appariculavistis,appariculuistis,appariculistis,appariculistis,You (pl.) have prepareed
+Active Indicative,Perfect,3rd Person,Singular,appariculavit,appariculuit,appariculit,appariculit,He/she/it has prepareed
+Active Indicative,Perfect,3rd Person,Plural,appariculaverunt,appariculuerunt,appariculerunt,appariculerunt,They have prepareed
+Active Indicative,Pluperfect,1st Person,Singular,appariculaveram,appariculueram,appariculeram,appariculeram,I had prepareed
+Active Indicative,Pluperfect,1st Person,Plural,appariculaveramus,appariculueramus,appariculeramus,appariculeramus,We had prepareed
+Active Indicative,Pluperfect,2nd Person,Singular,appariculaveras,appariculueras,appariculeras,appariculeras,You had prepareed
+Active Indicative,Pluperfect,2nd Person,Plural,appariculaveratis,appariculueratis,appariculeratis,appariculeratis,You (pl.) had prepareed
+Active Indicative,Pluperfect,3rd Person,Singular,appariculaverat,appariculuerat,appariculerat,appariculerat,He/she/it had prepareed
+Active Indicative,Pluperfect,3rd Person,Plural,appariculaverant,appariculuerant,appariculerant,appariculerant,They had prepareed
+Active Indicative,Future Perfect,1st Person,Singular,appariculavero,appariculueero,appariculero,appariculiero,I will have prepareed
+Active Indicative,Future Perfect,1st Person,Plural,appariculaverimus,appariculuerimus,appariculerimus,appariculierimus,We will have prepareed
+Active Indicative,Future Perfect,2nd Person,Singular,appariculaveris,appariculueris,appariculeris,appariculieris,You will have prepareed
+Active Indicative,Future Perfect,2nd Person,Plural,appariculaveritis,appariculueritis,appariculeritis,appariculieritis,You (pl.) will have prepareed
+Active Indicative,Future Perfect,3rd Person,Singular,appariculaverit,appariculuerit,appariculerit,appariculierit,He/she/it will have prepareed
+Active Indicative,Future Perfect,3rd Person,Plural,appariculaverint,appariculuerint,appariculerint,appariculierint,They will have prepareed
+Passive Indicative,Present,1st Person,Singular,appariculor,appariculeor,appariculor,appariculior,I am being prepareed
+Passive Indicative,Present,1st Person,Plural,appariculamur,appariculemur,appariculimur,appariculimur,We are being prepareed
+Passive Indicative,Present,2nd Person,Singular,apparicularis,appariculeris,appariculiris,appariculiris,You are being prepareed
+Passive Indicative,Present,2nd Person,Plural,appariculamini,appariculemini,appariculimini,appariculimini,You (pl.) are being prepareed
+Passive Indicative,Present,3rd Person,Singular,appariculatur,appariculetur,appariculitur,appariculitur,He/she/it is being prepareed
+Passive Indicative,Present,3rd Person,Plural,appariculantur,appariculentur,appariculiuntur,appariculiuntur,They are being prepareed
+Passive Indicative,Imperfect,1st Person,Singular,appariculabar,appariculebar,appariculebar,appariculiebar,I was prepareed
+Passive Indicative,Imperfect,1st Person,Plural,appariculabamur,appariculebamur,appariculebamur,appariculiebamur,We were prepareed
+Passive Indicative,Imperfect,2nd Person,Singular,appariculabaris,appariculebaris,appariculebaris,appariculiebaris,You were prepareed
+Passive Indicative,Imperfect,2nd Person,Plural,appariculabamini,appariculebamini,appariculebamini,appariculiebamini,You (pl.) were prepareed
+Passive Indicative,Imperfect,3rd Person,Singular,appariculabatur,appariculebatur,appariculebatur,appariculiebatur,He/she/it was prepareed
+Passive Indicative,Imperfect,3rd Person,Plural,appariculabantur,appariculebantur,appariculebantur,appariculiebantur,They were prepareed
+Passive Indicative,Future,1st Person,Singular,appariculabor,appariculebor,apparicular,appariculiar,I will be prepareed
+Passive Indicative,Future,1st Person,Plural,appariculabimur,appariculebimur,appariculemur,appariculiemur,We will be prepareed
+Passive Indicative,Future,2nd Person,Singular,appariculaberis,appariculeberis,appariculeris,appariculieris,You will be prepareed
+Passive Indicative,Future,2nd Person,Plural,appariculabimini,appariculebimini,appariculemini,appariculiemini,You (pl.) will be prepareed
+Passive Indicative,Future,3rd Person,Singular,appariculabitur,appariculebitur,appariculetur,appariculietur,He/she/it will be prepareed
+Passive Indicative,Future,3rd Person,Plural,appariculabuntur,appariculebuntur,appariculentur,appariculientur,They will be prepareed
+Passive Indicative,Perfect,1st Person,Singular,appariculatus sum,appariculetus sum,appariculus sum,appariculus sum,I have been prepareed
+Passive Indicative,Perfect,1st Person,Plural,appariculati sumus,appariculeti sumus,appariculi sumus,appariculi sumus,We have been prepareed
+Passive Indicative,Perfect,2nd Person,Singular,appariculatus es,appariculetus es,appariculus es,appariculus es,You have been prepareed
+Passive Indicative,Perfect,2nd Person,Plural,appariculati estis,appariculeti estis,appariculi estis,appariculi estis,You (pl.) have been prepareed
+Passive Indicative,Perfect,3rd Person,Singular,appariculatus est,appariculetus est,appariculus est,appariculus est,He/she/it has been prepareed
+Passive Indicative,Perfect,3rd Person,Plural,appariculati sunt,appariculeti sunt,appariculi sunt,appariculi sunt,They have been prepareed
+Passive Indicative,Pluperfect,1st Person,Singular,appariculatus eram,appariculetus eram,appariculus eram,appariculus eram,I had been prepareed
+Passive Indicative,Pluperfect,1st Person,Plural,appariculati eramus,appariculeti eramus,appariculi eramus,appariculi eramus,We had been prepareed
+Passive Indicative,Pluperfect,2nd Person,Singular,appariculatus eras,appariculetus eras,appariculus eras,appariculus eras,You had been prepareed
+Passive Indicative,Pluperfect,2nd Person,Plural,appariculati eratis,appariculeti eratis,appariculi eratis,appariculi eratis,You (pl.) had been prepareed
+Passive Indicative,Pluperfect,3rd Person,Singular,appariculatus erat,appariculetus erat,appariculus erat,appariculus erat,He/she/it had been prepareed
+Passive Indicative,Pluperfect,3rd Person,Plural,appariculati erant,appariculeti erant,appariculi erant,appariculi erant,They had been prepareed
+Passive Indicative,Future Perfect,1st Person,Singular,appariculatus ero,appariculetus ero,appariculus ero,appariculus ero,I will have been prepareed
+Passive Indicative,Future Perfect,1st Person,Plural,appariculati erimus,appariculeti erimus,appariculi erimus,appariculi erimus,We will have been prepareed
+Passive Indicative,Future Perfect,2nd Person,Singular,appariculatus eris,appariculetus eris,appariculus eris,appariculus eris,You will have been prepareed
+Passive Indicative,Future Perfect,2nd Person,Plural,appariculati eritis,appariculeti eritis,appariculi eritis,appariculi eritis,You (pl.) will have been prepareed
+Passive Indicative,Future Perfect,3rd Person,Singular,appariculatus erit,appariculetus erit,appariculus erit,appariculus erit,He/she/it will have been prepareed
+Passive Indicative,Future Perfect,3rd Person,Plural,appariculati erunt,appariculeti erunt,appariculi erunt,appariculi erunt,They will have been prepareed
+Active Subjunctive,Present,1st Person,Singular,appariculem,appariculem,appariculam,appariculam,I may prepare
+Active Subjunctive,Present,1st Person,Plural,appariculemus,appariculemus,appariculamus,appariculamus,We may prepare
+Active Subjunctive,Present,2nd Person,Singular,apparicules,apparicules,appariculas,appariculas,You may prepare
+Active Subjunctive,Present,2nd Person,Plural,appariculetis,appariculetis,appariculatis,appariculatis,You (pl.) may prepare
+Active Subjunctive,Present,3rd Person,Singular,appariculet,appariculet,appariculat,appariculat,He/she/it may prepare
+Active Subjunctive,Present,3rd Person,Plural,appariculent,appariculent,appariculant,appariculant,They may prepare
+Active Subjunctive,Imperfect,1st Person,Singular,apparicularem,appariculerem,appariculerem,appariculirem,I should prepare
+Active Subjunctive,Imperfect,1st Person,Plural,apparicularemus,appariculeremus,appariculeremus,appariculiremus,We should prepare
+Active Subjunctive,Imperfect,2nd Person,Singular,appariculares,appariculeres,appariculeres,appariculires,You should prepare
+Active Subjunctive,Imperfect,2nd Person,Plural,apparicularetis,appariculeretis,appariculeretis,appariculiretis,You (pl.) should prepare
+Active Subjunctive,Imperfect,3rd Person,Singular,apparicularet,appariculeret,appariculeret,appariculiret,He/she/it should prepare
+Active Subjunctive,Imperfect,3rd Person,Plural,apparicularent,appariculerent,appariculerent,appariculirent,They should prepare
+Active Subjunctive,Perfect,1st Person,Singular,appariculerim,appariculuerim,appariculerim,appariculierim,I may have prepareed
+Active Subjunctive,Perfect,1st Person,Plural,appariculerimus,appariculuerimus,appariculerimus,appariculierimus,We may have prepareed
+Active Subjunctive,Perfect,2nd Person,Singular,appariculeris,appariculueris,appariculeris,appariculieris,You may have prepareed
+Active Subjunctive,Perfect,2nd Person,Plural,appariculeritis,appariculueritis,appariculeritis,appariculieritis,You (pl.) may have prepareed
+Active Subjunctive,Perfect,3rd Person,Singular,appariculerit,appariculuerit,appariculerit,appariculierit,He/she/it may have prepareed
+Active Subjunctive,Perfect,3rd Person,Plural,appariculerint,appariculuerint,appariculerint,appariculierint,They may have prepareed
+Active Subjunctive,Pluperfect,1st Person,Singular,appariculissem,appariculuissem,appariculissem,appariculissem,I should have prepareed
+Active Subjunctive,Pluperfect,1st Person,Plural,appariculissemus,appariculuissemus,appariculissemus,appariculissemus,We should have prepareed
+Active Subjunctive,Pluperfect,2nd Person,Singular,appariculisses,appariculuisses,appariculisses,appariculisses,You would have prepareed
+Active Subjunctive,Pluperfect,2nd Person,Plural,appariculissetis,appariculuissetis,appariculissetis,appariculissetis,You (pl.) would have prepareed
+Active Subjunctive,Pluperfect,3rd Person,Singular,appariculisset,appariculuisset,appariculisset,appariculisset,He/she/it would have prepareed
+Active Subjunctive,Pluperfect,3rd Person,Plural,appariculissent,appariculuissent,appariculissent,appariculissent,They would have prepareed
+Passive Subjunctive,Present,1st Person,Singular,appariculer,appariculer,apparicular,apparicular,I may be prepareed
+Passive Subjunctive,Present,1st Person,Plural,appariculemur,appariculemur,appariculamur,appariculamur,We may be prepareed
+Passive Subjunctive,Present,2nd Person,Singular,appariculeris,appariculeris,apparicularis,apparicularis,You may be prepareed
+Passive Subjunctive,Present,2nd Person,Plural,appariculemini,appariculemini,appariculamini,appariculamini,You (pl.) may be prepareed
+Passive Subjunctive,Present,3rd Person,Singular,appariculetur,appariculetur,appariculatur,appariculatur,He/she/it may be prepareed
+Passive Subjunctive,Present,3rd Person,Plural,appariculentur,appariculentur,appariculantur,appariculantur,They may be prepareed
+Passive Subjunctive,Imperfect,1st Person,Singular,apparicularer,appariculerer,appariculerer,appariculirer,I should be prepareed
+Passive Subjunctive,Imperfect,1st Person,Plural,apparicularemur,appariculeremur,appariculeremur,appariculiremur,We should be prepareed
+Passive Subjunctive,Imperfect,2nd Person,Singular,appariculareris,appariculereris,appariculereris,appariculireris,You would be prepareed
+Passive Subjunctive,Imperfect,2nd Person,Plural,apparicularemini,appariculeremini,appariculeremini,appariculiremini,You (pl.) would be prepareed
+Passive Subjunctive,Imperfect,3rd Person,Singular,apparicularetur,appariculeretur,appariculeretur,appariculiretur,He/she/it would be prepareed
+Passive Subjunctive,Imperfect,3rd Person,Plural,apparicularentur,appariculerentur,appariculerentur,appariculirentur,They would be prepareed
+Passive Subjunctive,Perfect,1st Person,Singular,appariculatus sim,appariculetus sim,appariculus sim,appariculus sim,I may have been prepareed
+Passive Subjunctive,Perfect,1st Person,Plural,appariculati simus,appariculeti simus,appariculi simus,appariculi simus,We may have been prepareed
+Passive Subjunctive,Perfect,2nd Person,Singular,appariculatus sis,appariculetus sis,appariculus sis,appariculus sis,You may have been prepareed
+Passive Subjunctive,Perfect,2nd Person,Plural,appariculati sitis,appariculeti sitis,appariculi sitis,appariculi sitis,You (pl.) may have been prepareed
+Passive Subjunctive,Perfect,3rd Person,Singular,appariculatus sit,appariculetus sit,appariculus sit,appariculus sit,He/she/it may have been prepareed
+Passive Subjunctive,Perfect,3rd Person,Plural,appariculati sint,appariculeti sint,appariculi sint,appariculi sint,They may have been prepareed
+Passive Subjunctive,Pluperfect,1st Person,Singular,appariculatus essem,appariculetus essem,appariculus essem,appariculus essem,I should have been prepareed
+Passive Subjunctive,Pluperfect,1st Person,Plural,appariculati essemus,appariculeti essemus,appariculi essemus,appariculi essemus,We should have been prepareed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,appariculatus esses,appariculetus esses,appariculus esses,appariculus esses,You would have been prepareed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,appariculati essetis,appariculeti essetis,appariculi essetis,appariculi essetis,You (pl.) would have been prepareed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,appariculatus esset,appariculetus esset,appariculus esset,appariculus esset,He/she/it would have been prepareed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,appariculati essent,appariculeti essent,appariculi essent,appariculi essent,They would have been prepareed

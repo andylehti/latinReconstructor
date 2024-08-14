@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,excappo,excappeo,excappo,excappio,I escape
+Active Indicative,Present,1st Person,Plural,excappamus,excappemus,excappimus,excappimus,We escape
+Active Indicative,Present,2nd Person,Singular,excappas,excappes,excappis,excappis,You escape
+Active Indicative,Present,2nd Person,Plural,excappatis,excappetis,excappitis,excappitis,You (pl.) escape
+Active Indicative,Present,3rd Person,Singular,excappat,excappet,excappit,excappit,He/she/it escape
+Active Indicative,Present,3rd Person,Plural,excappant,excappent,excappiunt,excappiunt,They escape
+Active Indicative,Imperfect,1st Person,Singular,excappabam,excappebam,excappebam,excappiebam,I was escapeing
+Active Indicative,Imperfect,1st Person,Plural,excappabamus,excappebamus,excappebamus,excappiebamus,We were escapeing
+Active Indicative,Imperfect,2nd Person,Singular,excappabas,excappebas,excappebas,excappiebas,You were escapeing
+Active Indicative,Imperfect,2nd Person,Plural,excappabatis,excappebatis,excappebatis,excappiebatis,You (pl.) were escapeing
+Active Indicative,Imperfect,3rd Person,Singular,excappabat,excappebat,excappebat,excappiebat,He/she/it was escapeing
+Active Indicative,Imperfect,3rd Person,Plural,excappabant,excappebant,excappebant,excappiebant,They were escapeing
+Active Indicative,Future,1st Person,Singular,excappabo,excappebo,excappam,excappiam,I will escape
+Active Indicative,Future,1st Person,Plural,excappabimus,excappebimus,excappemus,excappiemus,We will escape
+Active Indicative,Future,2nd Person,Singular,excappabis,excappebis,excappes,excappies,You will escape
+Active Indicative,Future,2nd Person,Plural,excappabitis,excappebitis,excappetis,excappietis,You (pl.) will escape
+Active Indicative,Future,3rd Person,Singular,excappabit,excappebit,excappet,excappiet,He/she/it will escape
+Active Indicative,Future,3rd Person,Plural,excappabunt,excappebunt,excappent,excappient,They will escape
+Active Indicative,Perfect,1st Person,Singular,excappavi,excappui,excappi,excappi,I have escapeed
+Active Indicative,Perfect,1st Person,Plural,excappavimus,excappuimus,excappimus,excappimus,We have escapeed
+Active Indicative,Perfect,2nd Person,Singular,excappavisti,excappuisti,excappisti,excappisti,You have escapeed
+Active Indicative,Perfect,2nd Person,Plural,excappavistis,excappuistis,excappistis,excappistis,You (pl.) have escapeed
+Active Indicative,Perfect,3rd Person,Singular,excappavit,excappuit,excappit,excappit,He/she/it has escapeed
+Active Indicative,Perfect,3rd Person,Plural,excappaverunt,excappuerunt,excapperunt,excapperunt,They have escapeed
+Active Indicative,Pluperfect,1st Person,Singular,excappaveram,excappueram,excapperam,excapperam,I had escapeed
+Active Indicative,Pluperfect,1st Person,Plural,excappaveramus,excappueramus,excapperamus,excapperamus,We had escapeed
+Active Indicative,Pluperfect,2nd Person,Singular,excappaveras,excappueras,excapperas,excapperas,You had escapeed
+Active Indicative,Pluperfect,2nd Person,Plural,excappaveratis,excappueratis,excapperatis,excapperatis,You (pl.) had escapeed
+Active Indicative,Pluperfect,3rd Person,Singular,excappaverat,excappuerat,excapperat,excapperat,He/she/it had escapeed
+Active Indicative,Pluperfect,3rd Person,Plural,excappaverant,excappuerant,excapperant,excapperant,They had escapeed
+Active Indicative,Future Perfect,1st Person,Singular,excappavero,excappueero,excappero,excappiero,I will have escapeed
+Active Indicative,Future Perfect,1st Person,Plural,excappaverimus,excappuerimus,excapperimus,excappierimus,We will have escapeed
+Active Indicative,Future Perfect,2nd Person,Singular,excappaveris,excappueris,excapperis,excappieris,You will have escapeed
+Active Indicative,Future Perfect,2nd Person,Plural,excappaveritis,excappueritis,excapperitis,excappieritis,You (pl.) will have escapeed
+Active Indicative,Future Perfect,3rd Person,Singular,excappaverit,excappuerit,excapperit,excappierit,He/she/it will have escapeed
+Active Indicative,Future Perfect,3rd Person,Plural,excappaverint,excappuerint,excapperint,excappierint,They will have escapeed
+Passive Indicative,Present,1st Person,Singular,excappor,excappeor,excappor,excappior,I am being escapeed
+Passive Indicative,Present,1st Person,Plural,excappamur,excappemur,excappimur,excappimur,We are being escapeed
+Passive Indicative,Present,2nd Person,Singular,excapparis,excapperis,excappiris,excappiris,You are being escapeed
+Passive Indicative,Present,2nd Person,Plural,excappamini,excappemini,excappimini,excappimini,You (pl.) are being escapeed
+Passive Indicative,Present,3rd Person,Singular,excappatur,excappetur,excappitur,excappitur,He/she/it is being escapeed
+Passive Indicative,Present,3rd Person,Plural,excappantur,excappentur,excappiuntur,excappiuntur,They are being escapeed
+Passive Indicative,Imperfect,1st Person,Singular,excappabar,excappebar,excappebar,excappiebar,I was escapeed
+Passive Indicative,Imperfect,1st Person,Plural,excappabamur,excappebamur,excappebamur,excappiebamur,We were escapeed
+Passive Indicative,Imperfect,2nd Person,Singular,excappabaris,excappebaris,excappebaris,excappiebaris,You were escapeed
+Passive Indicative,Imperfect,2nd Person,Plural,excappabamini,excappebamini,excappebamini,excappiebamini,You (pl.) were escapeed
+Passive Indicative,Imperfect,3rd Person,Singular,excappabatur,excappebatur,excappebatur,excappiebatur,He/she/it was escapeed
+Passive Indicative,Imperfect,3rd Person,Plural,excappabantur,excappebantur,excappebantur,excappiebantur,They were escapeed
+Passive Indicative,Future,1st Person,Singular,excappabor,excappebor,excappar,excappiar,I will be escapeed
+Passive Indicative,Future,1st Person,Plural,excappabimur,excappebimur,excappemur,excappiemur,We will be escapeed
+Passive Indicative,Future,2nd Person,Singular,excappaberis,excappeberis,excapperis,excappieris,You will be escapeed
+Passive Indicative,Future,2nd Person,Plural,excappabimini,excappebimini,excappemini,excappiemini,You (pl.) will be escapeed
+Passive Indicative,Future,3rd Person,Singular,excappabitur,excappebitur,excappetur,excappietur,He/she/it will be escapeed
+Passive Indicative,Future,3rd Person,Plural,excappabuntur,excappebuntur,excappentur,excappientur,They will be escapeed
+Passive Indicative,Perfect,1st Person,Singular,excappatus sum,excappetus sum,excappus sum,excappus sum,I have been escapeed
+Passive Indicative,Perfect,1st Person,Plural,excappati sumus,excappeti sumus,excappi sumus,excappi sumus,We have been escapeed
+Passive Indicative,Perfect,2nd Person,Singular,excappatus es,excappetus es,excappus es,excappus es,You have been escapeed
+Passive Indicative,Perfect,2nd Person,Plural,excappati estis,excappeti estis,excappi estis,excappi estis,You (pl.) have been escapeed
+Passive Indicative,Perfect,3rd Person,Singular,excappatus est,excappetus est,excappus est,excappus est,He/she/it has been escapeed
+Passive Indicative,Perfect,3rd Person,Plural,excappati sunt,excappeti sunt,excappi sunt,excappi sunt,They have been escapeed
+Passive Indicative,Pluperfect,1st Person,Singular,excappatus eram,excappetus eram,excappus eram,excappus eram,I had been escapeed
+Passive Indicative,Pluperfect,1st Person,Plural,excappati eramus,excappeti eramus,excappi eramus,excappi eramus,We had been escapeed
+Passive Indicative,Pluperfect,2nd Person,Singular,excappatus eras,excappetus eras,excappus eras,excappus eras,You had been escapeed
+Passive Indicative,Pluperfect,2nd Person,Plural,excappati eratis,excappeti eratis,excappi eratis,excappi eratis,You (pl.) had been escapeed
+Passive Indicative,Pluperfect,3rd Person,Singular,excappatus erat,excappetus erat,excappus erat,excappus erat,He/she/it had been escapeed
+Passive Indicative,Pluperfect,3rd Person,Plural,excappati erant,excappeti erant,excappi erant,excappi erant,They had been escapeed
+Passive Indicative,Future Perfect,1st Person,Singular,excappatus ero,excappetus ero,excappus ero,excappus ero,I will have been escapeed
+Passive Indicative,Future Perfect,1st Person,Plural,excappati erimus,excappeti erimus,excappi erimus,excappi erimus,We will have been escapeed
+Passive Indicative,Future Perfect,2nd Person,Singular,excappatus eris,excappetus eris,excappus eris,excappus eris,You will have been escapeed
+Passive Indicative,Future Perfect,2nd Person,Plural,excappati eritis,excappeti eritis,excappi eritis,excappi eritis,You (pl.) will have been escapeed
+Passive Indicative,Future Perfect,3rd Person,Singular,excappatus erit,excappetus erit,excappus erit,excappus erit,He/she/it will have been escapeed
+Passive Indicative,Future Perfect,3rd Person,Plural,excappati erunt,excappeti erunt,excappi erunt,excappi erunt,They will have been escapeed
+Active Subjunctive,Present,1st Person,Singular,excappem,excappem,excappam,excappam,I may escape
+Active Subjunctive,Present,1st Person,Plural,excappemus,excappemus,excappamus,excappamus,We may escape
+Active Subjunctive,Present,2nd Person,Singular,excappes,excappes,excappas,excappas,You may escape
+Active Subjunctive,Present,2nd Person,Plural,excappetis,excappetis,excappatis,excappatis,You (pl.) may escape
+Active Subjunctive,Present,3rd Person,Singular,excappet,excappet,excappat,excappat,He/she/it may escape
+Active Subjunctive,Present,3rd Person,Plural,excappent,excappent,excappant,excappant,They may escape
+Active Subjunctive,Imperfect,1st Person,Singular,excapparem,excapperem,excapperem,excappirem,I should escape
+Active Subjunctive,Imperfect,1st Person,Plural,excapparemus,excapperemus,excapperemus,excappiremus,We should escape
+Active Subjunctive,Imperfect,2nd Person,Singular,excappares,excapperes,excapperes,excappires,You should escape
+Active Subjunctive,Imperfect,2nd Person,Plural,excapparetis,excapperetis,excapperetis,excappiretis,You (pl.) should escape
+Active Subjunctive,Imperfect,3rd Person,Singular,excapparet,excapperet,excapperet,excappiret,He/she/it should escape
+Active Subjunctive,Imperfect,3rd Person,Plural,excapparent,excapperent,excapperent,excappirent,They should escape
+Active Subjunctive,Perfect,1st Person,Singular,excapperim,excappuerim,excapperim,excappierim,I may have escapeed
+Active Subjunctive,Perfect,1st Person,Plural,excapperimus,excappuerimus,excapperimus,excappierimus,We may have escapeed
+Active Subjunctive,Perfect,2nd Person,Singular,excapperis,excappueris,excapperis,excappieris,You may have escapeed
+Active Subjunctive,Perfect,2nd Person,Plural,excapperitis,excappueritis,excapperitis,excappieritis,You (pl.) may have escapeed
+Active Subjunctive,Perfect,3rd Person,Singular,excapperit,excappuerit,excapperit,excappierit,He/she/it may have escapeed
+Active Subjunctive,Perfect,3rd Person,Plural,excapperint,excappuerint,excapperint,excappierint,They may have escapeed
+Active Subjunctive,Pluperfect,1st Person,Singular,excappissem,excappuissem,excappissem,excappissem,I should have escapeed
+Active Subjunctive,Pluperfect,1st Person,Plural,excappissemus,excappuissemus,excappissemus,excappissemus,We should have escapeed
+Active Subjunctive,Pluperfect,2nd Person,Singular,excappisses,excappuisses,excappisses,excappisses,You would have escapeed
+Active Subjunctive,Pluperfect,2nd Person,Plural,excappissetis,excappuissetis,excappissetis,excappissetis,You (pl.) would have escapeed
+Active Subjunctive,Pluperfect,3rd Person,Singular,excappisset,excappuisset,excappisset,excappisset,He/she/it would have escapeed
+Active Subjunctive,Pluperfect,3rd Person,Plural,excappissent,excappuissent,excappissent,excappissent,They would have escapeed
+Passive Subjunctive,Present,1st Person,Singular,excapper,excapper,excappar,excappar,I may be escapeed
+Passive Subjunctive,Present,1st Person,Plural,excappemur,excappemur,excappamur,excappamur,We may be escapeed
+Passive Subjunctive,Present,2nd Person,Singular,excapperis,excapperis,excapparis,excapparis,You may be escapeed
+Passive Subjunctive,Present,2nd Person,Plural,excappemini,excappemini,excappamini,excappamini,You (pl.) may be escapeed
+Passive Subjunctive,Present,3rd Person,Singular,excappetur,excappetur,excappatur,excappatur,He/she/it may be escapeed
+Passive Subjunctive,Present,3rd Person,Plural,excappentur,excappentur,excappantur,excappantur,They may be escapeed
+Passive Subjunctive,Imperfect,1st Person,Singular,excapparer,excapperer,excapperer,excappirer,I should be escapeed
+Passive Subjunctive,Imperfect,1st Person,Plural,excapparemur,excapperemur,excapperemur,excappiremur,We should be escapeed
+Passive Subjunctive,Imperfect,2nd Person,Singular,excappareris,excappereris,excappereris,excappireris,You would be escapeed
+Passive Subjunctive,Imperfect,2nd Person,Plural,excapparemini,excapperemini,excapperemini,excappiremini,You (pl.) would be escapeed
+Passive Subjunctive,Imperfect,3rd Person,Singular,excapparetur,excapperetur,excapperetur,excappiretur,He/she/it would be escapeed
+Passive Subjunctive,Imperfect,3rd Person,Plural,excapparentur,excapperentur,excapperentur,excappirentur,They would be escapeed
+Passive Subjunctive,Perfect,1st Person,Singular,excappatus sim,excappetus sim,excappus sim,excappus sim,I may have been escapeed
+Passive Subjunctive,Perfect,1st Person,Plural,excappati simus,excappeti simus,excappi simus,excappi simus,We may have been escapeed
+Passive Subjunctive,Perfect,2nd Person,Singular,excappatus sis,excappetus sis,excappus sis,excappus sis,You may have been escapeed
+Passive Subjunctive,Perfect,2nd Person,Plural,excappati sitis,excappeti sitis,excappi sitis,excappi sitis,You (pl.) may have been escapeed
+Passive Subjunctive,Perfect,3rd Person,Singular,excappatus sit,excappetus sit,excappus sit,excappus sit,He/she/it may have been escapeed
+Passive Subjunctive,Perfect,3rd Person,Plural,excappati sint,excappeti sint,excappi sint,excappi sint,They may have been escapeed
+Passive Subjunctive,Pluperfect,1st Person,Singular,excappatus essem,excappetus essem,excappus essem,excappus essem,I should have been escapeed
+Passive Subjunctive,Pluperfect,1st Person,Plural,excappati essemus,excappeti essemus,excappi essemus,excappi essemus,We should have been escapeed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,excappatus esses,excappetus esses,excappus esses,excappus esses,You would have been escapeed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,excappati essetis,excappeti essetis,excappi essetis,excappi essetis,You (pl.) would have been escapeed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,excappatus esset,excappetus esset,excappus esset,excappus esset,He/she/it would have been escapeed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,excappati essent,excappeti essent,excappi essent,excappi essent,They would have been escapeed

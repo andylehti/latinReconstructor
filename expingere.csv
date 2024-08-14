@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,expingo,expingeo,expingo,expingio,I push
+Active Indicative,Present,1st Person,Plural,expingamus,expingemus,expingimus,expingimus,We push
+Active Indicative,Present,2nd Person,Singular,expingas,expinges,expingis,expingis,You push
+Active Indicative,Present,2nd Person,Plural,expingatis,expingetis,expingitis,expingitis,You (pl.) push
+Active Indicative,Present,3rd Person,Singular,expingat,expinget,expingit,expingit,He/she/it push
+Active Indicative,Present,3rd Person,Plural,expingant,expingent,expingiunt,expingiunt,They push
+Active Indicative,Imperfect,1st Person,Singular,expingabam,expingebam,expingebam,expingiebam,I was pushing
+Active Indicative,Imperfect,1st Person,Plural,expingabamus,expingebamus,expingebamus,expingiebamus,We were pushing
+Active Indicative,Imperfect,2nd Person,Singular,expingabas,expingebas,expingebas,expingiebas,You were pushing
+Active Indicative,Imperfect,2nd Person,Plural,expingabatis,expingebatis,expingebatis,expingiebatis,You (pl.) were pushing
+Active Indicative,Imperfect,3rd Person,Singular,expingabat,expingebat,expingebat,expingiebat,He/she/it was pushing
+Active Indicative,Imperfect,3rd Person,Plural,expingabant,expingebant,expingebant,expingiebant,They were pushing
+Active Indicative,Future,1st Person,Singular,expingabo,expingebo,expingam,expingiam,I will push
+Active Indicative,Future,1st Person,Plural,expingabimus,expingebimus,expingemus,expingiemus,We will push
+Active Indicative,Future,2nd Person,Singular,expingabis,expingebis,expinges,expingies,You will push
+Active Indicative,Future,2nd Person,Plural,expingabitis,expingebitis,expingetis,expingietis,You (pl.) will push
+Active Indicative,Future,3rd Person,Singular,expingabit,expingebit,expinget,expingiet,He/she/it will push
+Active Indicative,Future,3rd Person,Plural,expingabunt,expingebunt,expingent,expingient,They will push
+Active Indicative,Perfect,1st Person,Singular,expingavi,expingui,expingi,expingi,I have pushed
+Active Indicative,Perfect,1st Person,Plural,expingavimus,expinguimus,expingimus,expingimus,We have pushed
+Active Indicative,Perfect,2nd Person,Singular,expingavisti,expinguisti,expingisti,expingisti,You have pushed
+Active Indicative,Perfect,2nd Person,Plural,expingavistis,expinguistis,expingistis,expingistis,You (pl.) have pushed
+Active Indicative,Perfect,3rd Person,Singular,expingavit,expinguit,expingit,expingit,He/she/it has pushed
+Active Indicative,Perfect,3rd Person,Plural,expingaverunt,expinguerunt,expingerunt,expingerunt,They have pushed
+Active Indicative,Pluperfect,1st Person,Singular,expingaveram,expingueram,expingeram,expingeram,I had pushed
+Active Indicative,Pluperfect,1st Person,Plural,expingaveramus,expingueramus,expingeramus,expingeramus,We had pushed
+Active Indicative,Pluperfect,2nd Person,Singular,expingaveras,expingueras,expingeras,expingeras,You had pushed
+Active Indicative,Pluperfect,2nd Person,Plural,expingaveratis,expingueratis,expingeratis,expingeratis,You (pl.) had pushed
+Active Indicative,Pluperfect,3rd Person,Singular,expingaverat,expinguerat,expingerat,expingerat,He/she/it had pushed
+Active Indicative,Pluperfect,3rd Person,Plural,expingaverant,expinguerant,expingerant,expingerant,They had pushed
+Active Indicative,Future Perfect,1st Person,Singular,expingavero,expingueero,expingero,expingiero,I will have pushed
+Active Indicative,Future Perfect,1st Person,Plural,expingaverimus,expinguerimus,expingerimus,expingierimus,We will have pushed
+Active Indicative,Future Perfect,2nd Person,Singular,expingaveris,expingueris,expingeris,expingieris,You will have pushed
+Active Indicative,Future Perfect,2nd Person,Plural,expingaveritis,expingueritis,expingeritis,expingieritis,You (pl.) will have pushed
+Active Indicative,Future Perfect,3rd Person,Singular,expingaverit,expinguerit,expingerit,expingierit,He/she/it will have pushed
+Active Indicative,Future Perfect,3rd Person,Plural,expingaverint,expinguerint,expingerint,expingierint,They will have pushed
+Passive Indicative,Present,1st Person,Singular,expingor,expingeor,expingor,expingior,I am being pushed
+Passive Indicative,Present,1st Person,Plural,expingamur,expingemur,expingimur,expingimur,We are being pushed
+Passive Indicative,Present,2nd Person,Singular,expingaris,expingeris,expingiris,expingiris,You are being pushed
+Passive Indicative,Present,2nd Person,Plural,expingamini,expingemini,expingimini,expingimini,You (pl.) are being pushed
+Passive Indicative,Present,3rd Person,Singular,expingatur,expingetur,expingitur,expingitur,He/she/it is being pushed
+Passive Indicative,Present,3rd Person,Plural,expingantur,expingentur,expingiuntur,expingiuntur,They are being pushed
+Passive Indicative,Imperfect,1st Person,Singular,expingabar,expingebar,expingebar,expingiebar,I was pushed
+Passive Indicative,Imperfect,1st Person,Plural,expingabamur,expingebamur,expingebamur,expingiebamur,We were pushed
+Passive Indicative,Imperfect,2nd Person,Singular,expingabaris,expingebaris,expingebaris,expingiebaris,You were pushed
+Passive Indicative,Imperfect,2nd Person,Plural,expingabamini,expingebamini,expingebamini,expingiebamini,You (pl.) were pushed
+Passive Indicative,Imperfect,3rd Person,Singular,expingabatur,expingebatur,expingebatur,expingiebatur,He/she/it was pushed
+Passive Indicative,Imperfect,3rd Person,Plural,expingabantur,expingebantur,expingebantur,expingiebantur,They were pushed
+Passive Indicative,Future,1st Person,Singular,expingabor,expingebor,expingar,expingiar,I will be pushed
+Passive Indicative,Future,1st Person,Plural,expingabimur,expingebimur,expingemur,expingiemur,We will be pushed
+Passive Indicative,Future,2nd Person,Singular,expingaberis,expingeberis,expingeris,expingieris,You will be pushed
+Passive Indicative,Future,2nd Person,Plural,expingabimini,expingebimini,expingemini,expingiemini,You (pl.) will be pushed
+Passive Indicative,Future,3rd Person,Singular,expingabitur,expingebitur,expingetur,expingietur,He/she/it will be pushed
+Passive Indicative,Future,3rd Person,Plural,expingabuntur,expingebuntur,expingentur,expingientur,They will be pushed
+Passive Indicative,Perfect,1st Person,Singular,expingatus sum,expingetus sum,expingus sum,expingus sum,I have been pushed
+Passive Indicative,Perfect,1st Person,Plural,expingati sumus,expingeti sumus,expingi sumus,expingi sumus,We have been pushed
+Passive Indicative,Perfect,2nd Person,Singular,expingatus es,expingetus es,expingus es,expingus es,You have been pushed
+Passive Indicative,Perfect,2nd Person,Plural,expingati estis,expingeti estis,expingi estis,expingi estis,You (pl.) have been pushed
+Passive Indicative,Perfect,3rd Person,Singular,expingatus est,expingetus est,expingus est,expingus est,He/she/it has been pushed
+Passive Indicative,Perfect,3rd Person,Plural,expingati sunt,expingeti sunt,expingi sunt,expingi sunt,They have been pushed
+Passive Indicative,Pluperfect,1st Person,Singular,expingatus eram,expingetus eram,expingus eram,expingus eram,I had been pushed
+Passive Indicative,Pluperfect,1st Person,Plural,expingati eramus,expingeti eramus,expingi eramus,expingi eramus,We had been pushed
+Passive Indicative,Pluperfect,2nd Person,Singular,expingatus eras,expingetus eras,expingus eras,expingus eras,You had been pushed
+Passive Indicative,Pluperfect,2nd Person,Plural,expingati eratis,expingeti eratis,expingi eratis,expingi eratis,You (pl.) had been pushed
+Passive Indicative,Pluperfect,3rd Person,Singular,expingatus erat,expingetus erat,expingus erat,expingus erat,He/she/it had been pushed
+Passive Indicative,Pluperfect,3rd Person,Plural,expingati erant,expingeti erant,expingi erant,expingi erant,They had been pushed
+Passive Indicative,Future Perfect,1st Person,Singular,expingatus ero,expingetus ero,expingus ero,expingus ero,I will have been pushed
+Passive Indicative,Future Perfect,1st Person,Plural,expingati erimus,expingeti erimus,expingi erimus,expingi erimus,We will have been pushed
+Passive Indicative,Future Perfect,2nd Person,Singular,expingatus eris,expingetus eris,expingus eris,expingus eris,You will have been pushed
+Passive Indicative,Future Perfect,2nd Person,Plural,expingati eritis,expingeti eritis,expingi eritis,expingi eritis,You (pl.) will have been pushed
+Passive Indicative,Future Perfect,3rd Person,Singular,expingatus erit,expingetus erit,expingus erit,expingus erit,He/she/it will have been pushed
+Passive Indicative,Future Perfect,3rd Person,Plural,expingati erunt,expingeti erunt,expingi erunt,expingi erunt,They will have been pushed
+Active Subjunctive,Present,1st Person,Singular,expingem,expingem,expingam,expingam,I may push
+Active Subjunctive,Present,1st Person,Plural,expingemus,expingemus,expingamus,expingamus,We may push
+Active Subjunctive,Present,2nd Person,Singular,expinges,expinges,expingas,expingas,You may push
+Active Subjunctive,Present,2nd Person,Plural,expingetis,expingetis,expingatis,expingatis,You (pl.) may push
+Active Subjunctive,Present,3rd Person,Singular,expinget,expinget,expingat,expingat,He/she/it may push
+Active Subjunctive,Present,3rd Person,Plural,expingent,expingent,expingant,expingant,They may push
+Active Subjunctive,Imperfect,1st Person,Singular,expingarem,expingerem,expingerem,expingirem,I should push
+Active Subjunctive,Imperfect,1st Person,Plural,expingaremus,expingeremus,expingeremus,expingiremus,We should push
+Active Subjunctive,Imperfect,2nd Person,Singular,expingares,expingeres,expingeres,expingires,You should push
+Active Subjunctive,Imperfect,2nd Person,Plural,expingaretis,expingeretis,expingeretis,expingiretis,You (pl.) should push
+Active Subjunctive,Imperfect,3rd Person,Singular,expingaret,expingeret,expingeret,expingiret,He/she/it should push
+Active Subjunctive,Imperfect,3rd Person,Plural,expingarent,expingerent,expingerent,expingirent,They should push
+Active Subjunctive,Perfect,1st Person,Singular,expingerim,expinguerim,expingerim,expingierim,I may have pushed
+Active Subjunctive,Perfect,1st Person,Plural,expingerimus,expinguerimus,expingerimus,expingierimus,We may have pushed
+Active Subjunctive,Perfect,2nd Person,Singular,expingeris,expingueris,expingeris,expingieris,You may have pushed
+Active Subjunctive,Perfect,2nd Person,Plural,expingeritis,expingueritis,expingeritis,expingieritis,You (pl.) may have pushed
+Active Subjunctive,Perfect,3rd Person,Singular,expingerit,expinguerit,expingerit,expingierit,He/she/it may have pushed
+Active Subjunctive,Perfect,3rd Person,Plural,expingerint,expinguerint,expingerint,expingierint,They may have pushed
+Active Subjunctive,Pluperfect,1st Person,Singular,expingissem,expinguissem,expingissem,expingissem,I should have pushed
+Active Subjunctive,Pluperfect,1st Person,Plural,expingissemus,expinguissemus,expingissemus,expingissemus,We should have pushed
+Active Subjunctive,Pluperfect,2nd Person,Singular,expingisses,expinguisses,expingisses,expingisses,You would have pushed
+Active Subjunctive,Pluperfect,2nd Person,Plural,expingissetis,expinguissetis,expingissetis,expingissetis,You (pl.) would have pushed
+Active Subjunctive,Pluperfect,3rd Person,Singular,expingisset,expinguisset,expingisset,expingisset,He/she/it would have pushed
+Active Subjunctive,Pluperfect,3rd Person,Plural,expingissent,expinguissent,expingissent,expingissent,They would have pushed
+Passive Subjunctive,Present,1st Person,Singular,expinger,expinger,expingar,expingar,I may be pushed
+Passive Subjunctive,Present,1st Person,Plural,expingemur,expingemur,expingamur,expingamur,We may be pushed
+Passive Subjunctive,Present,2nd Person,Singular,expingeris,expingeris,expingaris,expingaris,You may be pushed
+Passive Subjunctive,Present,2nd Person,Plural,expingemini,expingemini,expingamini,expingamini,You (pl.) may be pushed
+Passive Subjunctive,Present,3rd Person,Singular,expingetur,expingetur,expingatur,expingatur,He/she/it may be pushed
+Passive Subjunctive,Present,3rd Person,Plural,expingentur,expingentur,expingantur,expingantur,They may be pushed
+Passive Subjunctive,Imperfect,1st Person,Singular,expingarer,expingerer,expingerer,expingirer,I should be pushed
+Passive Subjunctive,Imperfect,1st Person,Plural,expingaremur,expingeremur,expingeremur,expingiremur,We should be pushed
+Passive Subjunctive,Imperfect,2nd Person,Singular,expingareris,expingereris,expingereris,expingireris,You would be pushed
+Passive Subjunctive,Imperfect,2nd Person,Plural,expingaremini,expingeremini,expingeremini,expingiremini,You (pl.) would be pushed
+Passive Subjunctive,Imperfect,3rd Person,Singular,expingaretur,expingeretur,expingeretur,expingiretur,He/she/it would be pushed
+Passive Subjunctive,Imperfect,3rd Person,Plural,expingarentur,expingerentur,expingerentur,expingirentur,They would be pushed
+Passive Subjunctive,Perfect,1st Person,Singular,expingatus sim,expingetus sim,expingus sim,expingus sim,I may have been pushed
+Passive Subjunctive,Perfect,1st Person,Plural,expingati simus,expingeti simus,expingi simus,expingi simus,We may have been pushed
+Passive Subjunctive,Perfect,2nd Person,Singular,expingatus sis,expingetus sis,expingus sis,expingus sis,You may have been pushed
+Passive Subjunctive,Perfect,2nd Person,Plural,expingati sitis,expingeti sitis,expingi sitis,expingi sitis,You (pl.) may have been pushed
+Passive Subjunctive,Perfect,3rd Person,Singular,expingatus sit,expingetus sit,expingus sit,expingus sit,He/she/it may have been pushed
+Passive Subjunctive,Perfect,3rd Person,Plural,expingati sint,expingeti sint,expingi sint,expingi sint,They may have been pushed
+Passive Subjunctive,Pluperfect,1st Person,Singular,expingatus essem,expingetus essem,expingus essem,expingus essem,I should have been pushed
+Passive Subjunctive,Pluperfect,1st Person,Plural,expingati essemus,expingeti essemus,expingi essemus,expingi essemus,We should have been pushed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,expingatus esses,expingetus esses,expingus esses,expingus esses,You would have been pushed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,expingati essetis,expingeti essetis,expingi essetis,expingi essetis,You (pl.) would have been pushed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,expingatus esset,expingetus esset,expingus esset,expingus esset,He/she/it would have been pushed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,expingati essent,expingeti essent,expingi essent,expingi essent,They would have been pushed

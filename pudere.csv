@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,pudo,pudeo,pudo,pudio,I shame
+Active Indicative,Present,1st Person,Plural,pudamus,pudemus,pudimus,pudimus,We shame
+Active Indicative,Present,2nd Person,Singular,pudas,pudes,pudis,pudis,You shame
+Active Indicative,Present,2nd Person,Plural,pudatis,pudetis,puditis,puditis,You (pl.) shame
+Active Indicative,Present,3rd Person,Singular,pudat,pudet,pudit,pudit,He/she/it shame
+Active Indicative,Present,3rd Person,Plural,pudant,pudent,pudiunt,pudiunt,They shame
+Active Indicative,Imperfect,1st Person,Singular,pudabam,pudebam,pudebam,pudiebam,I was shameing
+Active Indicative,Imperfect,1st Person,Plural,pudabamus,pudebamus,pudebamus,pudiebamus,We were shameing
+Active Indicative,Imperfect,2nd Person,Singular,pudabas,pudebas,pudebas,pudiebas,You were shameing
+Active Indicative,Imperfect,2nd Person,Plural,pudabatis,pudebatis,pudebatis,pudiebatis,You (pl.) were shameing
+Active Indicative,Imperfect,3rd Person,Singular,pudabat,pudebat,pudebat,pudiebat,He/she/it was shameing
+Active Indicative,Imperfect,3rd Person,Plural,pudabant,pudebant,pudebant,pudiebant,They were shameing
+Active Indicative,Future,1st Person,Singular,pudabo,pudebo,pudam,pudiam,I will shame
+Active Indicative,Future,1st Person,Plural,pudabimus,pudebimus,pudemus,pudiemus,We will shame
+Active Indicative,Future,2nd Person,Singular,pudabis,pudebis,pudes,pudies,You will shame
+Active Indicative,Future,2nd Person,Plural,pudabitis,pudebitis,pudetis,pudietis,You (pl.) will shame
+Active Indicative,Future,3rd Person,Singular,pudabit,pudebit,pudet,pudiet,He/she/it will shame
+Active Indicative,Future,3rd Person,Plural,pudabunt,pudebunt,pudent,pudient,They will shame
+Active Indicative,Perfect,1st Person,Singular,pudavi,pudui,pudi,pudi,I have shameed
+Active Indicative,Perfect,1st Person,Plural,pudavimus,puduimus,pudimus,pudimus,We have shameed
+Active Indicative,Perfect,2nd Person,Singular,pudavisti,puduisti,pudisti,pudisti,You have shameed
+Active Indicative,Perfect,2nd Person,Plural,pudavistis,puduistis,pudistis,pudistis,You (pl.) have shameed
+Active Indicative,Perfect,3rd Person,Singular,pudavit,puduit,pudit,pudit,He/she/it has shameed
+Active Indicative,Perfect,3rd Person,Plural,pudaverunt,puduerunt,puderunt,puderunt,They have shameed
+Active Indicative,Pluperfect,1st Person,Singular,pudaveram,pudueram,puderam,puderam,I had shameed
+Active Indicative,Pluperfect,1st Person,Plural,pudaveramus,pudueramus,puderamus,puderamus,We had shameed
+Active Indicative,Pluperfect,2nd Person,Singular,pudaveras,pudueras,puderas,puderas,You had shameed
+Active Indicative,Pluperfect,2nd Person,Plural,pudaveratis,pudueratis,puderatis,puderatis,You (pl.) had shameed
+Active Indicative,Pluperfect,3rd Person,Singular,pudaverat,puduerat,puderat,puderat,He/she/it had shameed
+Active Indicative,Pluperfect,3rd Person,Plural,pudaverant,puduerant,puderant,puderant,They had shameed
+Active Indicative,Future Perfect,1st Person,Singular,pudavero,pudueero,pudero,pudiero,I will have shameed
+Active Indicative,Future Perfect,1st Person,Plural,pudaverimus,puduerimus,puderimus,pudierimus,We will have shameed
+Active Indicative,Future Perfect,2nd Person,Singular,pudaveris,pudueris,puderis,pudieris,You will have shameed
+Active Indicative,Future Perfect,2nd Person,Plural,pudaveritis,pudueritis,puderitis,pudieritis,You (pl.) will have shameed
+Active Indicative,Future Perfect,3rd Person,Singular,pudaverit,puduerit,puderit,pudierit,He/she/it will have shameed
+Active Indicative,Future Perfect,3rd Person,Plural,pudaverint,puduerint,puderint,pudierint,They will have shameed
+Passive Indicative,Present,1st Person,Singular,pudor,pudeor,pudor,pudior,I am being shameed
+Passive Indicative,Present,1st Person,Plural,pudamur,pudemur,pudimur,pudimur,We are being shameed
+Passive Indicative,Present,2nd Person,Singular,pudaris,puderis,pudiris,pudiris,You are being shameed
+Passive Indicative,Present,2nd Person,Plural,pudamini,pudemini,pudimini,pudimini,You (pl.) are being shameed
+Passive Indicative,Present,3rd Person,Singular,pudatur,pudetur,puditur,puditur,He/she/it is being shameed
+Passive Indicative,Present,3rd Person,Plural,pudantur,pudentur,pudiuntur,pudiuntur,They are being shameed
+Passive Indicative,Imperfect,1st Person,Singular,pudabar,pudebar,pudebar,pudiebar,I was shameed
+Passive Indicative,Imperfect,1st Person,Plural,pudabamur,pudebamur,pudebamur,pudiebamur,We were shameed
+Passive Indicative,Imperfect,2nd Person,Singular,pudabaris,pudebaris,pudebaris,pudiebaris,You were shameed
+Passive Indicative,Imperfect,2nd Person,Plural,pudabamini,pudebamini,pudebamini,pudiebamini,You (pl.) were shameed
+Passive Indicative,Imperfect,3rd Person,Singular,pudabatur,pudebatur,pudebatur,pudiebatur,He/she/it was shameed
+Passive Indicative,Imperfect,3rd Person,Plural,pudabantur,pudebantur,pudebantur,pudiebantur,They were shameed
+Passive Indicative,Future,1st Person,Singular,pudabor,pudebor,pudar,pudiar,I will be shameed
+Passive Indicative,Future,1st Person,Plural,pudabimur,pudebimur,pudemur,pudiemur,We will be shameed
+Passive Indicative,Future,2nd Person,Singular,pudaberis,pudeberis,puderis,pudieris,You will be shameed
+Passive Indicative,Future,2nd Person,Plural,pudabimini,pudebimini,pudemini,pudiemini,You (pl.) will be shameed
+Passive Indicative,Future,3rd Person,Singular,pudabitur,pudebitur,pudetur,pudietur,He/she/it will be shameed
+Passive Indicative,Future,3rd Person,Plural,pudabuntur,pudebuntur,pudentur,pudientur,They will be shameed
+Passive Indicative,Perfect,1st Person,Singular,pudatus sum,pudetus sum,pudus sum,pudus sum,I have been shameed
+Passive Indicative,Perfect,1st Person,Plural,pudati sumus,pudeti sumus,pudi sumus,pudi sumus,We have been shameed
+Passive Indicative,Perfect,2nd Person,Singular,pudatus es,pudetus es,pudus es,pudus es,You have been shameed
+Passive Indicative,Perfect,2nd Person,Plural,pudati estis,pudeti estis,pudi estis,pudi estis,You (pl.) have been shameed
+Passive Indicative,Perfect,3rd Person,Singular,pudatus est,pudetus est,pudus est,pudus est,He/she/it has been shameed
+Passive Indicative,Perfect,3rd Person,Plural,pudati sunt,pudeti sunt,pudi sunt,pudi sunt,They have been shameed
+Passive Indicative,Pluperfect,1st Person,Singular,pudatus eram,pudetus eram,pudus eram,pudus eram,I had been shameed
+Passive Indicative,Pluperfect,1st Person,Plural,pudati eramus,pudeti eramus,pudi eramus,pudi eramus,We had been shameed
+Passive Indicative,Pluperfect,2nd Person,Singular,pudatus eras,pudetus eras,pudus eras,pudus eras,You had been shameed
+Passive Indicative,Pluperfect,2nd Person,Plural,pudati eratis,pudeti eratis,pudi eratis,pudi eratis,You (pl.) had been shameed
+Passive Indicative,Pluperfect,3rd Person,Singular,pudatus erat,pudetus erat,pudus erat,pudus erat,He/she/it had been shameed
+Passive Indicative,Pluperfect,3rd Person,Plural,pudati erant,pudeti erant,pudi erant,pudi erant,They had been shameed
+Passive Indicative,Future Perfect,1st Person,Singular,pudatus ero,pudetus ero,pudus ero,pudus ero,I will have been shameed
+Passive Indicative,Future Perfect,1st Person,Plural,pudati erimus,pudeti erimus,pudi erimus,pudi erimus,We will have been shameed
+Passive Indicative,Future Perfect,2nd Person,Singular,pudatus eris,pudetus eris,pudus eris,pudus eris,You will have been shameed
+Passive Indicative,Future Perfect,2nd Person,Plural,pudati eritis,pudeti eritis,pudi eritis,pudi eritis,You (pl.) will have been shameed
+Passive Indicative,Future Perfect,3rd Person,Singular,pudatus erit,pudetus erit,pudus erit,pudus erit,He/she/it will have been shameed
+Passive Indicative,Future Perfect,3rd Person,Plural,pudati erunt,pudeti erunt,pudi erunt,pudi erunt,They will have been shameed
+Active Subjunctive,Present,1st Person,Singular,pudem,pudem,pudam,pudam,I may shame
+Active Subjunctive,Present,1st Person,Plural,pudemus,pudemus,pudamus,pudamus,We may shame
+Active Subjunctive,Present,2nd Person,Singular,pudes,pudes,pudas,pudas,You may shame
+Active Subjunctive,Present,2nd Person,Plural,pudetis,pudetis,pudatis,pudatis,You (pl.) may shame
+Active Subjunctive,Present,3rd Person,Singular,pudet,pudet,pudat,pudat,He/she/it may shame
+Active Subjunctive,Present,3rd Person,Plural,pudent,pudent,pudant,pudant,They may shame
+Active Subjunctive,Imperfect,1st Person,Singular,pudarem,puderem,puderem,pudirem,I should shame
+Active Subjunctive,Imperfect,1st Person,Plural,pudaremus,puderemus,puderemus,pudiremus,We should shame
+Active Subjunctive,Imperfect,2nd Person,Singular,pudares,puderes,puderes,pudires,You should shame
+Active Subjunctive,Imperfect,2nd Person,Plural,pudaretis,puderetis,puderetis,pudiretis,You (pl.) should shame
+Active Subjunctive,Imperfect,3rd Person,Singular,pudaret,puderet,puderet,pudiret,He/she/it should shame
+Active Subjunctive,Imperfect,3rd Person,Plural,pudarent,puderent,puderent,pudirent,They should shame
+Active Subjunctive,Perfect,1st Person,Singular,puderim,puduerim,puderim,pudierim,I may have shameed
+Active Subjunctive,Perfect,1st Person,Plural,puderimus,puduerimus,puderimus,pudierimus,We may have shameed
+Active Subjunctive,Perfect,2nd Person,Singular,puderis,pudueris,puderis,pudieris,You may have shameed
+Active Subjunctive,Perfect,2nd Person,Plural,puderitis,pudueritis,puderitis,pudieritis,You (pl.) may have shameed
+Active Subjunctive,Perfect,3rd Person,Singular,puderit,puduerit,puderit,pudierit,He/she/it may have shameed
+Active Subjunctive,Perfect,3rd Person,Plural,puderint,puduerint,puderint,pudierint,They may have shameed
+Active Subjunctive,Pluperfect,1st Person,Singular,pudissem,puduissem,pudissem,pudissem,I should have shameed
+Active Subjunctive,Pluperfect,1st Person,Plural,pudissemus,puduissemus,pudissemus,pudissemus,We should have shameed
+Active Subjunctive,Pluperfect,2nd Person,Singular,pudisses,puduisses,pudisses,pudisses,You would have shameed
+Active Subjunctive,Pluperfect,2nd Person,Plural,pudissetis,puduissetis,pudissetis,pudissetis,You (pl.) would have shameed
+Active Subjunctive,Pluperfect,3rd Person,Singular,pudisset,puduisset,pudisset,pudisset,He/she/it would have shameed
+Active Subjunctive,Pluperfect,3rd Person,Plural,pudissent,puduissent,pudissent,pudissent,They would have shameed
+Passive Subjunctive,Present,1st Person,Singular,puder,puder,pudar,pudar,I may be shameed
+Passive Subjunctive,Present,1st Person,Plural,pudemur,pudemur,pudamur,pudamur,We may be shameed
+Passive Subjunctive,Present,2nd Person,Singular,puderis,puderis,pudaris,pudaris,You may be shameed
+Passive Subjunctive,Present,2nd Person,Plural,pudemini,pudemini,pudamini,pudamini,You (pl.) may be shameed
+Passive Subjunctive,Present,3rd Person,Singular,pudetur,pudetur,pudatur,pudatur,He/she/it may be shameed
+Passive Subjunctive,Present,3rd Person,Plural,pudentur,pudentur,pudantur,pudantur,They may be shameed
+Passive Subjunctive,Imperfect,1st Person,Singular,pudarer,puderer,puderer,pudirer,I should be shameed
+Passive Subjunctive,Imperfect,1st Person,Plural,pudaremur,puderemur,puderemur,pudiremur,We should be shameed
+Passive Subjunctive,Imperfect,2nd Person,Singular,pudareris,pudereris,pudereris,pudireris,You would be shameed
+Passive Subjunctive,Imperfect,2nd Person,Plural,pudaremini,puderemini,puderemini,pudiremini,You (pl.) would be shameed
+Passive Subjunctive,Imperfect,3rd Person,Singular,pudaretur,puderetur,puderetur,pudiretur,He/she/it would be shameed
+Passive Subjunctive,Imperfect,3rd Person,Plural,pudarentur,puderentur,puderentur,pudirentur,They would be shameed
+Passive Subjunctive,Perfect,1st Person,Singular,pudatus sim,pudetus sim,pudus sim,pudus sim,I may have been shameed
+Passive Subjunctive,Perfect,1st Person,Plural,pudati simus,pudeti simus,pudi simus,pudi simus,We may have been shameed
+Passive Subjunctive,Perfect,2nd Person,Singular,pudatus sis,pudetus sis,pudus sis,pudus sis,You may have been shameed
+Passive Subjunctive,Perfect,2nd Person,Plural,pudati sitis,pudeti sitis,pudi sitis,pudi sitis,You (pl.) may have been shameed
+Passive Subjunctive,Perfect,3rd Person,Singular,pudatus sit,pudetus sit,pudus sit,pudus sit,He/she/it may have been shameed
+Passive Subjunctive,Perfect,3rd Person,Plural,pudati sint,pudeti sint,pudi sint,pudi sint,They may have been shameed
+Passive Subjunctive,Pluperfect,1st Person,Singular,pudatus essem,pudetus essem,pudus essem,pudus essem,I should have been shameed
+Passive Subjunctive,Pluperfect,1st Person,Plural,pudati essemus,pudeti essemus,pudi essemus,pudi essemus,We should have been shameed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,pudatus esses,pudetus esses,pudus esses,pudus esses,You would have been shameed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,pudati essetis,pudeti essetis,pudi essetis,pudi essetis,You (pl.) would have been shameed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,pudatus esset,pudetus esset,pudus esset,pudus esset,He/she/it would have been shameed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,pudati essent,pudeti essent,pudi essent,pudi essent,They would have been shameed

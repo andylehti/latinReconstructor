@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,contigo,contigeo,contigo,contigio,I happen
+Active Indicative,Present,1st Person,Plural,contigamus,contigemus,contigimus,contigimus,We happen
+Active Indicative,Present,2nd Person,Singular,contigas,contiges,contigis,contigis,You happen
+Active Indicative,Present,2nd Person,Plural,contigatis,contigetis,contigitis,contigitis,You (pl.) happen
+Active Indicative,Present,3rd Person,Singular,contigat,contiget,contigit,contigit,He/she/it happen
+Active Indicative,Present,3rd Person,Plural,contigant,contigent,contigiunt,contigiunt,They happen
+Active Indicative,Imperfect,1st Person,Singular,contigabam,contigebam,contigebam,contigiebam,I was happening
+Active Indicative,Imperfect,1st Person,Plural,contigabamus,contigebamus,contigebamus,contigiebamus,We were happening
+Active Indicative,Imperfect,2nd Person,Singular,contigabas,contigebas,contigebas,contigiebas,You were happening
+Active Indicative,Imperfect,2nd Person,Plural,contigabatis,contigebatis,contigebatis,contigiebatis,You (pl.) were happening
+Active Indicative,Imperfect,3rd Person,Singular,contigabat,contigebat,contigebat,contigiebat,He/she/it was happening
+Active Indicative,Imperfect,3rd Person,Plural,contigabant,contigebant,contigebant,contigiebant,They were happening
+Active Indicative,Future,1st Person,Singular,contigabo,contigebo,contigam,contigiam,I will happen
+Active Indicative,Future,1st Person,Plural,contigabimus,contigebimus,contigemus,contigiemus,We will happen
+Active Indicative,Future,2nd Person,Singular,contigabis,contigebis,contiges,contigies,You will happen
+Active Indicative,Future,2nd Person,Plural,contigabitis,contigebitis,contigetis,contigietis,You (pl.) will happen
+Active Indicative,Future,3rd Person,Singular,contigabit,contigebit,contiget,contigiet,He/she/it will happen
+Active Indicative,Future,3rd Person,Plural,contigabunt,contigebunt,contigent,contigient,They will happen
+Active Indicative,Perfect,1st Person,Singular,contigavi,contigui,contigi,contigi,I have happened
+Active Indicative,Perfect,1st Person,Plural,contigavimus,contiguimus,contigimus,contigimus,We have happened
+Active Indicative,Perfect,2nd Person,Singular,contigavisti,contiguisti,contigisti,contigisti,You have happened
+Active Indicative,Perfect,2nd Person,Plural,contigavistis,contiguistis,contigistis,contigistis,You (pl.) have happened
+Active Indicative,Perfect,3rd Person,Singular,contigavit,contiguit,contigit,contigit,He/she/it has happened
+Active Indicative,Perfect,3rd Person,Plural,contigaverunt,contiguerunt,contigerunt,contigerunt,They have happened
+Active Indicative,Pluperfect,1st Person,Singular,contigaveram,contigueram,contigeram,contigeram,I had happened
+Active Indicative,Pluperfect,1st Person,Plural,contigaveramus,contigueramus,contigeramus,contigeramus,We had happened
+Active Indicative,Pluperfect,2nd Person,Singular,contigaveras,contigueras,contigeras,contigeras,You had happened
+Active Indicative,Pluperfect,2nd Person,Plural,contigaveratis,contigueratis,contigeratis,contigeratis,You (pl.) had happened
+Active Indicative,Pluperfect,3rd Person,Singular,contigaverat,contiguerat,contigerat,contigerat,He/she/it had happened
+Active Indicative,Pluperfect,3rd Person,Plural,contigaverant,contiguerant,contigerant,contigerant,They had happened
+Active Indicative,Future Perfect,1st Person,Singular,contigavero,contigueero,contigero,contigiero,I will have happened
+Active Indicative,Future Perfect,1st Person,Plural,contigaverimus,contiguerimus,contigerimus,contigierimus,We will have happened
+Active Indicative,Future Perfect,2nd Person,Singular,contigaveris,contigueris,contigeris,contigieris,You will have happened
+Active Indicative,Future Perfect,2nd Person,Plural,contigaveritis,contigueritis,contigeritis,contigieritis,You (pl.) will have happened
+Active Indicative,Future Perfect,3rd Person,Singular,contigaverit,contiguerit,contigerit,contigierit,He/she/it will have happened
+Active Indicative,Future Perfect,3rd Person,Plural,contigaverint,contiguerint,contigerint,contigierint,They will have happened
+Passive Indicative,Present,1st Person,Singular,contigor,contigeor,contigor,contigior,I am being happened
+Passive Indicative,Present,1st Person,Plural,contigamur,contigemur,contigimur,contigimur,We are being happened
+Passive Indicative,Present,2nd Person,Singular,contigaris,contigeris,contigiris,contigiris,You are being happened
+Passive Indicative,Present,2nd Person,Plural,contigamini,contigemini,contigimini,contigimini,You (pl.) are being happened
+Passive Indicative,Present,3rd Person,Singular,contigatur,contigetur,contigitur,contigitur,He/she/it is being happened
+Passive Indicative,Present,3rd Person,Plural,contigantur,contigentur,contigiuntur,contigiuntur,They are being happened
+Passive Indicative,Imperfect,1st Person,Singular,contigabar,contigebar,contigebar,contigiebar,I was happened
+Passive Indicative,Imperfect,1st Person,Plural,contigabamur,contigebamur,contigebamur,contigiebamur,We were happened
+Passive Indicative,Imperfect,2nd Person,Singular,contigabaris,contigebaris,contigebaris,contigiebaris,You were happened
+Passive Indicative,Imperfect,2nd Person,Plural,contigabamini,contigebamini,contigebamini,contigiebamini,You (pl.) were happened
+Passive Indicative,Imperfect,3rd Person,Singular,contigabatur,contigebatur,contigebatur,contigiebatur,He/she/it was happened
+Passive Indicative,Imperfect,3rd Person,Plural,contigabantur,contigebantur,contigebantur,contigiebantur,They were happened
+Passive Indicative,Future,1st Person,Singular,contigabor,contigebor,contigar,contigiar,I will be happened
+Passive Indicative,Future,1st Person,Plural,contigabimur,contigebimur,contigemur,contigiemur,We will be happened
+Passive Indicative,Future,2nd Person,Singular,contigaberis,contigeberis,contigeris,contigieris,You will be happened
+Passive Indicative,Future,2nd Person,Plural,contigabimini,contigebimini,contigemini,contigiemini,You (pl.) will be happened
+Passive Indicative,Future,3rd Person,Singular,contigabitur,contigebitur,contigetur,contigietur,He/she/it will be happened
+Passive Indicative,Future,3rd Person,Plural,contigabuntur,contigebuntur,contigentur,contigientur,They will be happened
+Passive Indicative,Perfect,1st Person,Singular,contigatus sum,contigetus sum,contigus sum,contigus sum,I have been happened
+Passive Indicative,Perfect,1st Person,Plural,contigati sumus,contigeti sumus,contigi sumus,contigi sumus,We have been happened
+Passive Indicative,Perfect,2nd Person,Singular,contigatus es,contigetus es,contigus es,contigus es,You have been happened
+Passive Indicative,Perfect,2nd Person,Plural,contigati estis,contigeti estis,contigi estis,contigi estis,You (pl.) have been happened
+Passive Indicative,Perfect,3rd Person,Singular,contigatus est,contigetus est,contigus est,contigus est,He/she/it has been happened
+Passive Indicative,Perfect,3rd Person,Plural,contigati sunt,contigeti sunt,contigi sunt,contigi sunt,They have been happened
+Passive Indicative,Pluperfect,1st Person,Singular,contigatus eram,contigetus eram,contigus eram,contigus eram,I had been happened
+Passive Indicative,Pluperfect,1st Person,Plural,contigati eramus,contigeti eramus,contigi eramus,contigi eramus,We had been happened
+Passive Indicative,Pluperfect,2nd Person,Singular,contigatus eras,contigetus eras,contigus eras,contigus eras,You had been happened
+Passive Indicative,Pluperfect,2nd Person,Plural,contigati eratis,contigeti eratis,contigi eratis,contigi eratis,You (pl.) had been happened
+Passive Indicative,Pluperfect,3rd Person,Singular,contigatus erat,contigetus erat,contigus erat,contigus erat,He/she/it had been happened
+Passive Indicative,Pluperfect,3rd Person,Plural,contigati erant,contigeti erant,contigi erant,contigi erant,They had been happened
+Passive Indicative,Future Perfect,1st Person,Singular,contigatus ero,contigetus ero,contigus ero,contigus ero,I will have been happened
+Passive Indicative,Future Perfect,1st Person,Plural,contigati erimus,contigeti erimus,contigi erimus,contigi erimus,We will have been happened
+Passive Indicative,Future Perfect,2nd Person,Singular,contigatus eris,contigetus eris,contigus eris,contigus eris,You will have been happened
+Passive Indicative,Future Perfect,2nd Person,Plural,contigati eritis,contigeti eritis,contigi eritis,contigi eritis,You (pl.) will have been happened
+Passive Indicative,Future Perfect,3rd Person,Singular,contigatus erit,contigetus erit,contigus erit,contigus erit,He/she/it will have been happened
+Passive Indicative,Future Perfect,3rd Person,Plural,contigati erunt,contigeti erunt,contigi erunt,contigi erunt,They will have been happened
+Active Subjunctive,Present,1st Person,Singular,contigem,contigem,contigam,contigam,I may happen
+Active Subjunctive,Present,1st Person,Plural,contigemus,contigemus,contigamus,contigamus,We may happen
+Active Subjunctive,Present,2nd Person,Singular,contiges,contiges,contigas,contigas,You may happen
+Active Subjunctive,Present,2nd Person,Plural,contigetis,contigetis,contigatis,contigatis,You (pl.) may happen
+Active Subjunctive,Present,3rd Person,Singular,contiget,contiget,contigat,contigat,He/she/it may happen
+Active Subjunctive,Present,3rd Person,Plural,contigent,contigent,contigant,contigant,They may happen
+Active Subjunctive,Imperfect,1st Person,Singular,contigarem,contigerem,contigerem,contigirem,I should happen
+Active Subjunctive,Imperfect,1st Person,Plural,contigaremus,contigeremus,contigeremus,contigiremus,We should happen
+Active Subjunctive,Imperfect,2nd Person,Singular,contigares,contigeres,contigeres,contigires,You should happen
+Active Subjunctive,Imperfect,2nd Person,Plural,contigaretis,contigeretis,contigeretis,contigiretis,You (pl.) should happen
+Active Subjunctive,Imperfect,3rd Person,Singular,contigaret,contigeret,contigeret,contigiret,He/she/it should happen
+Active Subjunctive,Imperfect,3rd Person,Plural,contigarent,contigerent,contigerent,contigirent,They should happen
+Active Subjunctive,Perfect,1st Person,Singular,contigerim,contiguerim,contigerim,contigierim,I may have happened
+Active Subjunctive,Perfect,1st Person,Plural,contigerimus,contiguerimus,contigerimus,contigierimus,We may have happened
+Active Subjunctive,Perfect,2nd Person,Singular,contigeris,contigueris,contigeris,contigieris,You may have happened
+Active Subjunctive,Perfect,2nd Person,Plural,contigeritis,contigueritis,contigeritis,contigieritis,You (pl.) may have happened
+Active Subjunctive,Perfect,3rd Person,Singular,contigerit,contiguerit,contigerit,contigierit,He/she/it may have happened
+Active Subjunctive,Perfect,3rd Person,Plural,contigerint,contiguerint,contigerint,contigierint,They may have happened
+Active Subjunctive,Pluperfect,1st Person,Singular,contigissem,contiguissem,contigissem,contigissem,I should have happened
+Active Subjunctive,Pluperfect,1st Person,Plural,contigissemus,contiguissemus,contigissemus,contigissemus,We should have happened
+Active Subjunctive,Pluperfect,2nd Person,Singular,contigisses,contiguisses,contigisses,contigisses,You would have happened
+Active Subjunctive,Pluperfect,2nd Person,Plural,contigissetis,contiguissetis,contigissetis,contigissetis,You (pl.) would have happened
+Active Subjunctive,Pluperfect,3rd Person,Singular,contigisset,contiguisset,contigisset,contigisset,He/she/it would have happened
+Active Subjunctive,Pluperfect,3rd Person,Plural,contigissent,contiguissent,contigissent,contigissent,They would have happened
+Passive Subjunctive,Present,1st Person,Singular,contiger,contiger,contigar,contigar,I may be happened
+Passive Subjunctive,Present,1st Person,Plural,contigemur,contigemur,contigamur,contigamur,We may be happened
+Passive Subjunctive,Present,2nd Person,Singular,contigeris,contigeris,contigaris,contigaris,You may be happened
+Passive Subjunctive,Present,2nd Person,Plural,contigemini,contigemini,contigamini,contigamini,You (pl.) may be happened
+Passive Subjunctive,Present,3rd Person,Singular,contigetur,contigetur,contigatur,contigatur,He/she/it may be happened
+Passive Subjunctive,Present,3rd Person,Plural,contigentur,contigentur,contigantur,contigantur,They may be happened
+Passive Subjunctive,Imperfect,1st Person,Singular,contigarer,contigerer,contigerer,contigirer,I should be happened
+Passive Subjunctive,Imperfect,1st Person,Plural,contigaremur,contigeremur,contigeremur,contigiremur,We should be happened
+Passive Subjunctive,Imperfect,2nd Person,Singular,contigareris,contigereris,contigereris,contigireris,You would be happened
+Passive Subjunctive,Imperfect,2nd Person,Plural,contigaremini,contigeremini,contigeremini,contigiremini,You (pl.) would be happened
+Passive Subjunctive,Imperfect,3rd Person,Singular,contigaretur,contigeretur,contigeretur,contigiretur,He/she/it would be happened
+Passive Subjunctive,Imperfect,3rd Person,Plural,contigarentur,contigerentur,contigerentur,contigirentur,They would be happened
+Passive Subjunctive,Perfect,1st Person,Singular,contigatus sim,contigetus sim,contigus sim,contigus sim,I may have been happened
+Passive Subjunctive,Perfect,1st Person,Plural,contigati simus,contigeti simus,contigi simus,contigi simus,We may have been happened
+Passive Subjunctive,Perfect,2nd Person,Singular,contigatus sis,contigetus sis,contigus sis,contigus sis,You may have been happened
+Passive Subjunctive,Perfect,2nd Person,Plural,contigati sitis,contigeti sitis,contigi sitis,contigi sitis,You (pl.) may have been happened
+Passive Subjunctive,Perfect,3rd Person,Singular,contigatus sit,contigetus sit,contigus sit,contigus sit,He/she/it may have been happened
+Passive Subjunctive,Perfect,3rd Person,Plural,contigati sint,contigeti sint,contigi sint,contigi sint,They may have been happened
+Passive Subjunctive,Pluperfect,1st Person,Singular,contigatus essem,contigetus essem,contigus essem,contigus essem,I should have been happened
+Passive Subjunctive,Pluperfect,1st Person,Plural,contigati essemus,contigeti essemus,contigi essemus,contigi essemus,We should have been happened
+Passive Subjunctive,Pluperfect,2nd Person,Singular,contigatus esses,contigetus esses,contigus esses,contigus esses,You would have been happened
+Passive Subjunctive,Pluperfect,2nd Person,Plural,contigati essetis,contigeti essetis,contigi essetis,contigi essetis,You (pl.) would have been happened
+Passive Subjunctive,Pluperfect,3rd Person,Singular,contigatus esset,contigetus esset,contigus esset,contigus esset,He/she/it would have been happened
+Passive Subjunctive,Pluperfect,3rd Person,Plural,contigati essent,contigeti essent,contigi essent,contigi essent,They would have been happened

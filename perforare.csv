@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,perforo,perforeo,perforo,perforio,I pierce through
+Active Indicative,Present,1st Person,Plural,perforamus,perforemus,perforimus,perforimus,We pierce through
+Active Indicative,Present,2nd Person,Singular,perforas,perfores,perforis,perforis,You pierce through
+Active Indicative,Present,2nd Person,Plural,perforatis,perforetis,perforitis,perforitis,You (pl.) pierce through
+Active Indicative,Present,3rd Person,Singular,perforat,perforet,perforit,perforit,He/she/it pierce through
+Active Indicative,Present,3rd Person,Plural,perforant,perforent,perforiunt,perforiunt,They pierce through
+Active Indicative,Imperfect,1st Person,Singular,perforabam,perforebam,perforebam,perforiebam,I was pierce throughing
+Active Indicative,Imperfect,1st Person,Plural,perforabamus,perforebamus,perforebamus,perforiebamus,We were pierce throughing
+Active Indicative,Imperfect,2nd Person,Singular,perforabas,perforebas,perforebas,perforiebas,You were pierce throughing
+Active Indicative,Imperfect,2nd Person,Plural,perforabatis,perforebatis,perforebatis,perforiebatis,You (pl.) were pierce throughing
+Active Indicative,Imperfect,3rd Person,Singular,perforabat,perforebat,perforebat,perforiebat,He/she/it was pierce throughing
+Active Indicative,Imperfect,3rd Person,Plural,perforabant,perforebant,perforebant,perforiebant,They were pierce throughing
+Active Indicative,Future,1st Person,Singular,perforabo,perforebo,perforam,perforiam,I will pierce through
+Active Indicative,Future,1st Person,Plural,perforabimus,perforebimus,perforemus,perforiemus,We will pierce through
+Active Indicative,Future,2nd Person,Singular,perforabis,perforebis,perfores,perfories,You will pierce through
+Active Indicative,Future,2nd Person,Plural,perforabitis,perforebitis,perforetis,perforietis,You (pl.) will pierce through
+Active Indicative,Future,3rd Person,Singular,perforabit,perforebit,perforet,perforiet,He/she/it will pierce through
+Active Indicative,Future,3rd Person,Plural,perforabunt,perforebunt,perforent,perforient,They will pierce through
+Active Indicative,Perfect,1st Person,Singular,perforavi,perforui,perfori,perfori,I have pierce throughed
+Active Indicative,Perfect,1st Person,Plural,perforavimus,perforuimus,perforimus,perforimus,We have pierce throughed
+Active Indicative,Perfect,2nd Person,Singular,perforavisti,perforuisti,perforisti,perforisti,You have pierce throughed
+Active Indicative,Perfect,2nd Person,Plural,perforavistis,perforuistis,perforistis,perforistis,You (pl.) have pierce throughed
+Active Indicative,Perfect,3rd Person,Singular,perforavit,perforuit,perforit,perforit,He/she/it has pierce throughed
+Active Indicative,Perfect,3rd Person,Plural,perforaverunt,perforuerunt,perforerunt,perforerunt,They have pierce throughed
+Active Indicative,Pluperfect,1st Person,Singular,perforaveram,perforueram,perforeram,perforeram,I had pierce throughed
+Active Indicative,Pluperfect,1st Person,Plural,perforaveramus,perforueramus,perforeramus,perforeramus,We had pierce throughed
+Active Indicative,Pluperfect,2nd Person,Singular,perforaveras,perforueras,perforeras,perforeras,You had pierce throughed
+Active Indicative,Pluperfect,2nd Person,Plural,perforaveratis,perforueratis,perforeratis,perforeratis,You (pl.) had pierce throughed
+Active Indicative,Pluperfect,3rd Person,Singular,perforaverat,perforuerat,perforerat,perforerat,He/she/it had pierce throughed
+Active Indicative,Pluperfect,3rd Person,Plural,perforaverant,perforuerant,perforerant,perforerant,They had pierce throughed
+Active Indicative,Future Perfect,1st Person,Singular,perforavero,perforueero,perforero,perforiero,I will have pierce throughed
+Active Indicative,Future Perfect,1st Person,Plural,perforaverimus,perforuerimus,perforerimus,perforierimus,We will have pierce throughed
+Active Indicative,Future Perfect,2nd Person,Singular,perforaveris,perforueris,perforeris,perforieris,You will have pierce throughed
+Active Indicative,Future Perfect,2nd Person,Plural,perforaveritis,perforueritis,perforeritis,perforieritis,You (pl.) will have pierce throughed
+Active Indicative,Future Perfect,3rd Person,Singular,perforaverit,perforuerit,perforerit,perforierit,He/she/it will have pierce throughed
+Active Indicative,Future Perfect,3rd Person,Plural,perforaverint,perforuerint,perforerint,perforierint,They will have pierce throughed
+Passive Indicative,Present,1st Person,Singular,perforor,perforeor,perforor,perforior,I am being pierce throughed
+Passive Indicative,Present,1st Person,Plural,perforamur,perforemur,perforimur,perforimur,We are being pierce throughed
+Passive Indicative,Present,2nd Person,Singular,perforaris,perforeris,perforiris,perforiris,You are being pierce throughed
+Passive Indicative,Present,2nd Person,Plural,perforamini,perforemini,perforimini,perforimini,You (pl.) are being pierce throughed
+Passive Indicative,Present,3rd Person,Singular,perforatur,perforetur,perforitur,perforitur,He/she/it is being pierce throughed
+Passive Indicative,Present,3rd Person,Plural,perforantur,perforentur,perforiuntur,perforiuntur,They are being pierce throughed
+Passive Indicative,Imperfect,1st Person,Singular,perforabar,perforebar,perforebar,perforiebar,I was pierce throughed
+Passive Indicative,Imperfect,1st Person,Plural,perforabamur,perforebamur,perforebamur,perforiebamur,We were pierce throughed
+Passive Indicative,Imperfect,2nd Person,Singular,perforabaris,perforebaris,perforebaris,perforiebaris,You were pierce throughed
+Passive Indicative,Imperfect,2nd Person,Plural,perforabamini,perforebamini,perforebamini,perforiebamini,You (pl.) were pierce throughed
+Passive Indicative,Imperfect,3rd Person,Singular,perforabatur,perforebatur,perforebatur,perforiebatur,He/she/it was pierce throughed
+Passive Indicative,Imperfect,3rd Person,Plural,perforabantur,perforebantur,perforebantur,perforiebantur,They were pierce throughed
+Passive Indicative,Future,1st Person,Singular,perforabor,perforebor,perforar,perforiar,I will be pierce throughed
+Passive Indicative,Future,1st Person,Plural,perforabimur,perforebimur,perforemur,perforiemur,We will be pierce throughed
+Passive Indicative,Future,2nd Person,Singular,perforaberis,perforeberis,perforeris,perforieris,You will be pierce throughed
+Passive Indicative,Future,2nd Person,Plural,perforabimini,perforebimini,perforemini,perforiemini,You (pl.) will be pierce throughed
+Passive Indicative,Future,3rd Person,Singular,perforabitur,perforebitur,perforetur,perforietur,He/she/it will be pierce throughed
+Passive Indicative,Future,3rd Person,Plural,perforabuntur,perforebuntur,perforentur,perforientur,They will be pierce throughed
+Passive Indicative,Perfect,1st Person,Singular,perforatus sum,perforetus sum,perforus sum,perforus sum,I have been pierce throughed
+Passive Indicative,Perfect,1st Person,Plural,perforati sumus,perforeti sumus,perfori sumus,perfori sumus,We have been pierce throughed
+Passive Indicative,Perfect,2nd Person,Singular,perforatus es,perforetus es,perforus es,perforus es,You have been pierce throughed
+Passive Indicative,Perfect,2nd Person,Plural,perforati estis,perforeti estis,perfori estis,perfori estis,You (pl.) have been pierce throughed
+Passive Indicative,Perfect,3rd Person,Singular,perforatus est,perforetus est,perforus est,perforus est,He/she/it has been pierce throughed
+Passive Indicative,Perfect,3rd Person,Plural,perforati sunt,perforeti sunt,perfori sunt,perfori sunt,They have been pierce throughed
+Passive Indicative,Pluperfect,1st Person,Singular,perforatus eram,perforetus eram,perforus eram,perforus eram,I had been pierce throughed
+Passive Indicative,Pluperfect,1st Person,Plural,perforati eramus,perforeti eramus,perfori eramus,perfori eramus,We had been pierce throughed
+Passive Indicative,Pluperfect,2nd Person,Singular,perforatus eras,perforetus eras,perforus eras,perforus eras,You had been pierce throughed
+Passive Indicative,Pluperfect,2nd Person,Plural,perforati eratis,perforeti eratis,perfori eratis,perfori eratis,You (pl.) had been pierce throughed
+Passive Indicative,Pluperfect,3rd Person,Singular,perforatus erat,perforetus erat,perforus erat,perforus erat,He/she/it had been pierce throughed
+Passive Indicative,Pluperfect,3rd Person,Plural,perforati erant,perforeti erant,perfori erant,perfori erant,They had been pierce throughed
+Passive Indicative,Future Perfect,1st Person,Singular,perforatus ero,perforetus ero,perforus ero,perforus ero,I will have been pierce throughed
+Passive Indicative,Future Perfect,1st Person,Plural,perforati erimus,perforeti erimus,perfori erimus,perfori erimus,We will have been pierce throughed
+Passive Indicative,Future Perfect,2nd Person,Singular,perforatus eris,perforetus eris,perforus eris,perforus eris,You will have been pierce throughed
+Passive Indicative,Future Perfect,2nd Person,Plural,perforati eritis,perforeti eritis,perfori eritis,perfori eritis,You (pl.) will have been pierce throughed
+Passive Indicative,Future Perfect,3rd Person,Singular,perforatus erit,perforetus erit,perforus erit,perforus erit,He/she/it will have been pierce throughed
+Passive Indicative,Future Perfect,3rd Person,Plural,perforati erunt,perforeti erunt,perfori erunt,perfori erunt,They will have been pierce throughed
+Active Subjunctive,Present,1st Person,Singular,perforem,perforem,perforam,perforam,I may pierce through
+Active Subjunctive,Present,1st Person,Plural,perforemus,perforemus,perforamus,perforamus,We may pierce through
+Active Subjunctive,Present,2nd Person,Singular,perfores,perfores,perforas,perforas,You may pierce through
+Active Subjunctive,Present,2nd Person,Plural,perforetis,perforetis,perforatis,perforatis,You (pl.) may pierce through
+Active Subjunctive,Present,3rd Person,Singular,perforet,perforet,perforat,perforat,He/she/it may pierce through
+Active Subjunctive,Present,3rd Person,Plural,perforent,perforent,perforant,perforant,They may pierce through
+Active Subjunctive,Imperfect,1st Person,Singular,perforarem,perforerem,perforerem,perforirem,I should pierce through
+Active Subjunctive,Imperfect,1st Person,Plural,perforaremus,perforeremus,perforeremus,perforiremus,We should pierce through
+Active Subjunctive,Imperfect,2nd Person,Singular,perforares,perforeres,perforeres,perforires,You should pierce through
+Active Subjunctive,Imperfect,2nd Person,Plural,perforaretis,perforeretis,perforeretis,perforiretis,You (pl.) should pierce through
+Active Subjunctive,Imperfect,3rd Person,Singular,perforaret,perforeret,perforeret,perforiret,He/she/it should pierce through
+Active Subjunctive,Imperfect,3rd Person,Plural,perforarent,perforerent,perforerent,perforirent,They should pierce through
+Active Subjunctive,Perfect,1st Person,Singular,perforerim,perforuerim,perforerim,perforierim,I may have pierce throughed
+Active Subjunctive,Perfect,1st Person,Plural,perforerimus,perforuerimus,perforerimus,perforierimus,We may have pierce throughed
+Active Subjunctive,Perfect,2nd Person,Singular,perforeris,perforueris,perforeris,perforieris,You may have pierce throughed
+Active Subjunctive,Perfect,2nd Person,Plural,perforeritis,perforueritis,perforeritis,perforieritis,You (pl.) may have pierce throughed
+Active Subjunctive,Perfect,3rd Person,Singular,perforerit,perforuerit,perforerit,perforierit,He/she/it may have pierce throughed
+Active Subjunctive,Perfect,3rd Person,Plural,perforerint,perforuerint,perforerint,perforierint,They may have pierce throughed
+Active Subjunctive,Pluperfect,1st Person,Singular,perforissem,perforuissem,perforissem,perforissem,I should have pierce throughed
+Active Subjunctive,Pluperfect,1st Person,Plural,perforissemus,perforuissemus,perforissemus,perforissemus,We should have pierce throughed
+Active Subjunctive,Pluperfect,2nd Person,Singular,perforisses,perforuisses,perforisses,perforisses,You would have pierce throughed
+Active Subjunctive,Pluperfect,2nd Person,Plural,perforissetis,perforuissetis,perforissetis,perforissetis,You (pl.) would have pierce throughed
+Active Subjunctive,Pluperfect,3rd Person,Singular,perforisset,perforuisset,perforisset,perforisset,He/she/it would have pierce throughed
+Active Subjunctive,Pluperfect,3rd Person,Plural,perforissent,perforuissent,perforissent,perforissent,They would have pierce throughed
+Passive Subjunctive,Present,1st Person,Singular,perforer,perforer,perforar,perforar,I may be pierce throughed
+Passive Subjunctive,Present,1st Person,Plural,perforemur,perforemur,perforamur,perforamur,We may be pierce throughed
+Passive Subjunctive,Present,2nd Person,Singular,perforeris,perforeris,perforaris,perforaris,You may be pierce throughed
+Passive Subjunctive,Present,2nd Person,Plural,perforemini,perforemini,perforamini,perforamini,You (pl.) may be pierce throughed
+Passive Subjunctive,Present,3rd Person,Singular,perforetur,perforetur,perforatur,perforatur,He/she/it may be pierce throughed
+Passive Subjunctive,Present,3rd Person,Plural,perforentur,perforentur,perforantur,perforantur,They may be pierce throughed
+Passive Subjunctive,Imperfect,1st Person,Singular,perforarer,perforerer,perforerer,perforirer,I should be pierce throughed
+Passive Subjunctive,Imperfect,1st Person,Plural,perforaremur,perforeremur,perforeremur,perforiremur,We should be pierce throughed
+Passive Subjunctive,Imperfect,2nd Person,Singular,perforareris,perforereris,perforereris,perforireris,You would be pierce throughed
+Passive Subjunctive,Imperfect,2nd Person,Plural,perforaremini,perforeremini,perforeremini,perforiremini,You (pl.) would be pierce throughed
+Passive Subjunctive,Imperfect,3rd Person,Singular,perforaretur,perforeretur,perforeretur,perforiretur,He/she/it would be pierce throughed
+Passive Subjunctive,Imperfect,3rd Person,Plural,perforarentur,perforerentur,perforerentur,perforirentur,They would be pierce throughed
+Passive Subjunctive,Perfect,1st Person,Singular,perforatus sim,perforetus sim,perforus sim,perforus sim,I may have been pierce throughed
+Passive Subjunctive,Perfect,1st Person,Plural,perforati simus,perforeti simus,perfori simus,perfori simus,We may have been pierce throughed
+Passive Subjunctive,Perfect,2nd Person,Singular,perforatus sis,perforetus sis,perforus sis,perforus sis,You may have been pierce throughed
+Passive Subjunctive,Perfect,2nd Person,Plural,perforati sitis,perforeti sitis,perfori sitis,perfori sitis,You (pl.) may have been pierce throughed
+Passive Subjunctive,Perfect,3rd Person,Singular,perforatus sit,perforetus sit,perforus sit,perforus sit,He/she/it may have been pierce throughed
+Passive Subjunctive,Perfect,3rd Person,Plural,perforati sint,perforeti sint,perfori sint,perfori sint,They may have been pierce throughed
+Passive Subjunctive,Pluperfect,1st Person,Singular,perforatus essem,perforetus essem,perforus essem,perforus essem,I should have been pierce throughed
+Passive Subjunctive,Pluperfect,1st Person,Plural,perforati essemus,perforeti essemus,perfori essemus,perfori essemus,We should have been pierce throughed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,perforatus esses,perforetus esses,perforus esses,perforus esses,You would have been pierce throughed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,perforati essetis,perforeti essetis,perfori essetis,perfori essetis,You (pl.) would have been pierce throughed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,perforatus esset,perforetus esset,perforus esset,perforus esset,He/she/it would have been pierce throughed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,perforati essent,perforeti essent,perfori essent,perfori essent,They would have been pierce throughed

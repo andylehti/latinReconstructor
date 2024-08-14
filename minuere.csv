@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,minuo,minueo,minuo,minuio,I diminish
+Active Indicative,Present,1st Person,Plural,minuamus,minuemus,minuimus,minuimus,We diminish
+Active Indicative,Present,2nd Person,Singular,minuas,minues,minuis,minuis,You diminish
+Active Indicative,Present,2nd Person,Plural,minuatis,minuetis,minuitis,minuitis,You (pl.) diminish
+Active Indicative,Present,3rd Person,Singular,minuat,minuet,minuit,minuit,He/she/it diminish
+Active Indicative,Present,3rd Person,Plural,minuant,minuent,minuiunt,minuiunt,They diminish
+Active Indicative,Imperfect,1st Person,Singular,minuabam,minuebam,minuebam,minuiebam,I was diminishing
+Active Indicative,Imperfect,1st Person,Plural,minuabamus,minuebamus,minuebamus,minuiebamus,We were diminishing
+Active Indicative,Imperfect,2nd Person,Singular,minuabas,minuebas,minuebas,minuiebas,You were diminishing
+Active Indicative,Imperfect,2nd Person,Plural,minuabatis,minuebatis,minuebatis,minuiebatis,You (pl.) were diminishing
+Active Indicative,Imperfect,3rd Person,Singular,minuabat,minuebat,minuebat,minuiebat,He/she/it was diminishing
+Active Indicative,Imperfect,3rd Person,Plural,minuabant,minuebant,minuebant,minuiebant,They were diminishing
+Active Indicative,Future,1st Person,Singular,minuabo,minuebo,minuam,minuiam,I will diminish
+Active Indicative,Future,1st Person,Plural,minuabimus,minuebimus,minuemus,minuiemus,We will diminish
+Active Indicative,Future,2nd Person,Singular,minuabis,minuebis,minues,minuies,You will diminish
+Active Indicative,Future,2nd Person,Plural,minuabitis,minuebitis,minuetis,minuietis,You (pl.) will diminish
+Active Indicative,Future,3rd Person,Singular,minuabit,minuebit,minuet,minuiet,He/she/it will diminish
+Active Indicative,Future,3rd Person,Plural,minuabunt,minuebunt,minuent,minuient,They will diminish
+Active Indicative,Perfect,1st Person,Singular,minuavi,minui,minui,minui,I have diminished
+Active Indicative,Perfect,1st Person,Plural,minuavimus,minuimus,minuimus,minuimus,We have diminished
+Active Indicative,Perfect,2nd Person,Singular,minuavisti,minuisti,minuisti,minuisti,You have diminished
+Active Indicative,Perfect,2nd Person,Plural,minuavistis,minuistis,minuistis,minuistis,You (pl.) have diminished
+Active Indicative,Perfect,3rd Person,Singular,minuavit,minuit,minuit,minuit,He/she/it has diminished
+Active Indicative,Perfect,3rd Person,Plural,minuaverunt,minuerunt,minuerunt,minuerunt,They have diminished
+Active Indicative,Pluperfect,1st Person,Singular,minuaveram,minueram,minueram,minueram,I had diminished
+Active Indicative,Pluperfect,1st Person,Plural,minuaveramus,minueramus,minueramus,minueramus,We had diminished
+Active Indicative,Pluperfect,2nd Person,Singular,minuaveras,minueras,minueras,minueras,You had diminished
+Active Indicative,Pluperfect,2nd Person,Plural,minuaveratis,minueratis,minueratis,minueratis,You (pl.) had diminished
+Active Indicative,Pluperfect,3rd Person,Singular,minuaverat,minuerat,minuerat,minuerat,He/she/it had diminished
+Active Indicative,Pluperfect,3rd Person,Plural,minuaverant,minuerant,minuerant,minuerant,They had diminished
+Active Indicative,Future Perfect,1st Person,Singular,minuavero,minueero,minuero,minuiero,I will have diminished
+Active Indicative,Future Perfect,1st Person,Plural,minuaverimus,minuerimus,minuerimus,minuierimus,We will have diminished
+Active Indicative,Future Perfect,2nd Person,Singular,minuaveris,minueris,minueris,minuieris,You will have diminished
+Active Indicative,Future Perfect,2nd Person,Plural,minuaveritis,minueritis,minueritis,minuieritis,You (pl.) will have diminished
+Active Indicative,Future Perfect,3rd Person,Singular,minuaverit,minuerit,minuerit,minuierit,He/she/it will have diminished
+Active Indicative,Future Perfect,3rd Person,Plural,minuaverint,minuerint,minuerint,minuierint,They will have diminished
+Passive Indicative,Present,1st Person,Singular,minuor,minueor,minuor,minuior,I am being diminished
+Passive Indicative,Present,1st Person,Plural,minuamur,minuemur,minuimur,minuimur,We are being diminished
+Passive Indicative,Present,2nd Person,Singular,minuaris,minueris,minuiris,minuiris,You are being diminished
+Passive Indicative,Present,2nd Person,Plural,minuamini,minuemini,minuimini,minuimini,You (pl.) are being diminished
+Passive Indicative,Present,3rd Person,Singular,minuatur,minuetur,minuitur,minuitur,He/she/it is being diminished
+Passive Indicative,Present,3rd Person,Plural,minuantur,minuentur,minuiuntur,minuiuntur,They are being diminished
+Passive Indicative,Imperfect,1st Person,Singular,minuabar,minuebar,minuebar,minuiebar,I was diminished
+Passive Indicative,Imperfect,1st Person,Plural,minuabamur,minuebamur,minuebamur,minuiebamur,We were diminished
+Passive Indicative,Imperfect,2nd Person,Singular,minuabaris,minuebaris,minuebaris,minuiebaris,You were diminished
+Passive Indicative,Imperfect,2nd Person,Plural,minuabamini,minuebamini,minuebamini,minuiebamini,You (pl.) were diminished
+Passive Indicative,Imperfect,3rd Person,Singular,minuabatur,minuebatur,minuebatur,minuiebatur,He/she/it was diminished
+Passive Indicative,Imperfect,3rd Person,Plural,minuabantur,minuebantur,minuebantur,minuiebantur,They were diminished
+Passive Indicative,Future,1st Person,Singular,minuabor,minuebor,minuar,minuiar,I will be diminished
+Passive Indicative,Future,1st Person,Plural,minuabimur,minuebimur,minuemur,minuiemur,We will be diminished
+Passive Indicative,Future,2nd Person,Singular,minuaberis,minueberis,minueris,minuieris,You will be diminished
+Passive Indicative,Future,2nd Person,Plural,minuabimini,minuebimini,minuemini,minuiemini,You (pl.) will be diminished
+Passive Indicative,Future,3rd Person,Singular,minuabitur,minuebitur,minuetur,minuietur,He/she/it will be diminished
+Passive Indicative,Future,3rd Person,Plural,minuabuntur,minuebuntur,minuentur,minuientur,They will be diminished
+Passive Indicative,Perfect,1st Person,Singular,minuatus sum,minuetus sum,minus sum,minus sum,I have been diminished
+Passive Indicative,Perfect,1st Person,Plural,minuati sumus,minueti sumus,minui sumus,minui sumus,We have been diminished
+Passive Indicative,Perfect,2nd Person,Singular,minuatus es,minuetus es,minus es,minus es,You have been diminished
+Passive Indicative,Perfect,2nd Person,Plural,minuati estis,minueti estis,minui estis,minui estis,You (pl.) have been diminished
+Passive Indicative,Perfect,3rd Person,Singular,minuatus est,minuetus est,minus est,minus est,He/she/it has been diminished
+Passive Indicative,Perfect,3rd Person,Plural,minuati sunt,minueti sunt,minui sunt,minui sunt,They have been diminished
+Passive Indicative,Pluperfect,1st Person,Singular,minuatus eram,minuetus eram,minus eram,minus eram,I had been diminished
+Passive Indicative,Pluperfect,1st Person,Plural,minuati eramus,minueti eramus,minui eramus,minui eramus,We had been diminished
+Passive Indicative,Pluperfect,2nd Person,Singular,minuatus eras,minuetus eras,minus eras,minus eras,You had been diminished
+Passive Indicative,Pluperfect,2nd Person,Plural,minuati eratis,minueti eratis,minui eratis,minui eratis,You (pl.) had been diminished
+Passive Indicative,Pluperfect,3rd Person,Singular,minuatus erat,minuetus erat,minus erat,minus erat,He/she/it had been diminished
+Passive Indicative,Pluperfect,3rd Person,Plural,minuati erant,minueti erant,minui erant,minui erant,They had been diminished
+Passive Indicative,Future Perfect,1st Person,Singular,minuatus ero,minuetus ero,minus ero,minus ero,I will have been diminished
+Passive Indicative,Future Perfect,1st Person,Plural,minuati erimus,minueti erimus,minui erimus,minui erimus,We will have been diminished
+Passive Indicative,Future Perfect,2nd Person,Singular,minuatus eris,minuetus eris,minus eris,minus eris,You will have been diminished
+Passive Indicative,Future Perfect,2nd Person,Plural,minuati eritis,minueti eritis,minui eritis,minui eritis,You (pl.) will have been diminished
+Passive Indicative,Future Perfect,3rd Person,Singular,minuatus erit,minuetus erit,minus erit,minus erit,He/she/it will have been diminished
+Passive Indicative,Future Perfect,3rd Person,Plural,minuati erunt,minueti erunt,minui erunt,minui erunt,They will have been diminished
+Active Subjunctive,Present,1st Person,Singular,minuem,minuem,minuam,minuam,I may diminish
+Active Subjunctive,Present,1st Person,Plural,minuemus,minuemus,minuamus,minuamus,We may diminish
+Active Subjunctive,Present,2nd Person,Singular,minues,minues,minuas,minuas,You may diminish
+Active Subjunctive,Present,2nd Person,Plural,minuetis,minuetis,minuatis,minuatis,You (pl.) may diminish
+Active Subjunctive,Present,3rd Person,Singular,minuet,minuet,minuat,minuat,He/she/it may diminish
+Active Subjunctive,Present,3rd Person,Plural,minuent,minuent,minuant,minuant,They may diminish
+Active Subjunctive,Imperfect,1st Person,Singular,minuarem,minuerem,minuerem,minuirem,I should diminish
+Active Subjunctive,Imperfect,1st Person,Plural,minuaremus,minueremus,minueremus,minuiremus,We should diminish
+Active Subjunctive,Imperfect,2nd Person,Singular,minuares,minueres,minueres,minuires,You should diminish
+Active Subjunctive,Imperfect,2nd Person,Plural,minuaretis,minueretis,minueretis,minuiretis,You (pl.) should diminish
+Active Subjunctive,Imperfect,3rd Person,Singular,minuaret,minueret,minueret,minuiret,He/she/it should diminish
+Active Subjunctive,Imperfect,3rd Person,Plural,minuarent,minuerent,minuerent,minuirent,They should diminish
+Active Subjunctive,Perfect,1st Person,Singular,minuerim,minuerim,minuerim,minuierim,I may have diminished
+Active Subjunctive,Perfect,1st Person,Plural,minuerimus,minuerimus,minuerimus,minuierimus,We may have diminished
+Active Subjunctive,Perfect,2nd Person,Singular,minueris,minueris,minueris,minuieris,You may have diminished
+Active Subjunctive,Perfect,2nd Person,Plural,minueritis,minueritis,minueritis,minuieritis,You (pl.) may have diminished
+Active Subjunctive,Perfect,3rd Person,Singular,minuerit,minuerit,minuerit,minuierit,He/she/it may have diminished
+Active Subjunctive,Perfect,3rd Person,Plural,minuerint,minuerint,minuerint,minuierint,They may have diminished
+Active Subjunctive,Pluperfect,1st Person,Singular,minuissem,minuissem,minuissem,minuissem,I should have diminished
+Active Subjunctive,Pluperfect,1st Person,Plural,minuissemus,minuissemus,minuissemus,minuissemus,We should have diminished
+Active Subjunctive,Pluperfect,2nd Person,Singular,minuisses,minuisses,minuisses,minuisses,You would have diminished
+Active Subjunctive,Pluperfect,2nd Person,Plural,minuissetis,minuissetis,minuissetis,minuissetis,You (pl.) would have diminished
+Active Subjunctive,Pluperfect,3rd Person,Singular,minuisset,minuisset,minuisset,minuisset,He/she/it would have diminished
+Active Subjunctive,Pluperfect,3rd Person,Plural,minuissent,minuissent,minuissent,minuissent,They would have diminished
+Passive Subjunctive,Present,1st Person,Singular,minuer,minuer,minuar,minuar,I may be diminished
+Passive Subjunctive,Present,1st Person,Plural,minuemur,minuemur,minuamur,minuamur,We may be diminished
+Passive Subjunctive,Present,2nd Person,Singular,minueris,minueris,minuaris,minuaris,You may be diminished
+Passive Subjunctive,Present,2nd Person,Plural,minuemini,minuemini,minuamini,minuamini,You (pl.) may be diminished
+Passive Subjunctive,Present,3rd Person,Singular,minuetur,minuetur,minuatur,minuatur,He/she/it may be diminished
+Passive Subjunctive,Present,3rd Person,Plural,minuentur,minuentur,minuantur,minuantur,They may be diminished
+Passive Subjunctive,Imperfect,1st Person,Singular,minuarer,minuerer,minuerer,minuirer,I should be diminished
+Passive Subjunctive,Imperfect,1st Person,Plural,minuaremur,minueremur,minueremur,minuiremur,We should be diminished
+Passive Subjunctive,Imperfect,2nd Person,Singular,minuareris,minuereris,minuereris,minuireris,You would be diminished
+Passive Subjunctive,Imperfect,2nd Person,Plural,minuaremini,minueremini,minueremini,minuiremini,You (pl.) would be diminished
+Passive Subjunctive,Imperfect,3rd Person,Singular,minuaretur,minueretur,minueretur,minuiretur,He/she/it would be diminished
+Passive Subjunctive,Imperfect,3rd Person,Plural,minuarentur,minuerentur,minuerentur,minuirentur,They would be diminished
+Passive Subjunctive,Perfect,1st Person,Singular,minuatus sim,minuetus sim,minus sim,minus sim,I may have been diminished
+Passive Subjunctive,Perfect,1st Person,Plural,minuati simus,minueti simus,minui simus,minui simus,We may have been diminished
+Passive Subjunctive,Perfect,2nd Person,Singular,minuatus sis,minuetus sis,minus sis,minus sis,You may have been diminished
+Passive Subjunctive,Perfect,2nd Person,Plural,minuati sitis,minueti sitis,minui sitis,minui sitis,You (pl.) may have been diminished
+Passive Subjunctive,Perfect,3rd Person,Singular,minuatus sit,minuetus sit,minus sit,minus sit,He/she/it may have been diminished
+Passive Subjunctive,Perfect,3rd Person,Plural,minuati sint,minueti sint,minui sint,minui sint,They may have been diminished
+Passive Subjunctive,Pluperfect,1st Person,Singular,minuatus essem,minuetus essem,minus essem,minus essem,I should have been diminished
+Passive Subjunctive,Pluperfect,1st Person,Plural,minuati essemus,minueti essemus,minui essemus,minui essemus,We should have been diminished
+Passive Subjunctive,Pluperfect,2nd Person,Singular,minuatus esses,minuetus esses,minus esses,minus esses,You would have been diminished
+Passive Subjunctive,Pluperfect,2nd Person,Plural,minuati essetis,minueti essetis,minui essetis,minui essetis,You (pl.) would have been diminished
+Passive Subjunctive,Pluperfect,3rd Person,Singular,minuatus esset,minuetus esset,minus esset,minus esset,He/she/it would have been diminished
+Passive Subjunctive,Pluperfect,3rd Person,Plural,minuati essent,minueti essent,minui essent,minui essent,They would have been diminished

@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,extramuto,extramuteo,extramuto,extramutio,I transform
+Active Indicative,Present,1st Person,Plural,extramutamus,extramutemus,extramutimus,extramutimus,We transform
+Active Indicative,Present,2nd Person,Singular,extramutas,extramutes,extramutis,extramutis,You transform
+Active Indicative,Present,2nd Person,Plural,extramutatis,extramutetis,extramutitis,extramutitis,You (pl.) transform
+Active Indicative,Present,3rd Person,Singular,extramutat,extramutet,extramutit,extramutit,He/she/it transform
+Active Indicative,Present,3rd Person,Plural,extramutant,extramutent,extramutiunt,extramutiunt,They transform
+Active Indicative,Imperfect,1st Person,Singular,extramutabam,extramutebam,extramutebam,extramutiebam,I was transforming
+Active Indicative,Imperfect,1st Person,Plural,extramutabamus,extramutebamus,extramutebamus,extramutiebamus,We were transforming
+Active Indicative,Imperfect,2nd Person,Singular,extramutabas,extramutebas,extramutebas,extramutiebas,You were transforming
+Active Indicative,Imperfect,2nd Person,Plural,extramutabatis,extramutebatis,extramutebatis,extramutiebatis,You (pl.) were transforming
+Active Indicative,Imperfect,3rd Person,Singular,extramutabat,extramutebat,extramutebat,extramutiebat,He/she/it was transforming
+Active Indicative,Imperfect,3rd Person,Plural,extramutabant,extramutebant,extramutebant,extramutiebant,They were transforming
+Active Indicative,Future,1st Person,Singular,extramutabo,extramutebo,extramutam,extramutiam,I will transform
+Active Indicative,Future,1st Person,Plural,extramutabimus,extramutebimus,extramutemus,extramutiemus,We will transform
+Active Indicative,Future,2nd Person,Singular,extramutabis,extramutebis,extramutes,extramuties,You will transform
+Active Indicative,Future,2nd Person,Plural,extramutabitis,extramutebitis,extramutetis,extramutietis,You (pl.) will transform
+Active Indicative,Future,3rd Person,Singular,extramutabit,extramutebit,extramutet,extramutiet,He/she/it will transform
+Active Indicative,Future,3rd Person,Plural,extramutabunt,extramutebunt,extramutent,extramutient,They will transform
+Active Indicative,Perfect,1st Person,Singular,extramutavi,extramutui,extramuti,extramuti,I have transformed
+Active Indicative,Perfect,1st Person,Plural,extramutavimus,extramutuimus,extramutimus,extramutimus,We have transformed
+Active Indicative,Perfect,2nd Person,Singular,extramutavisti,extramutuisti,extramutisti,extramutisti,You have transformed
+Active Indicative,Perfect,2nd Person,Plural,extramutavistis,extramutuistis,extramutistis,extramutistis,You (pl.) have transformed
+Active Indicative,Perfect,3rd Person,Singular,extramutavit,extramutuit,extramutit,extramutit,He/she/it has transformed
+Active Indicative,Perfect,3rd Person,Plural,extramutaverunt,extramutuerunt,extramuterunt,extramuterunt,They have transformed
+Active Indicative,Pluperfect,1st Person,Singular,extramutaveram,extramutueram,extramuteram,extramuteram,I had transformed
+Active Indicative,Pluperfect,1st Person,Plural,extramutaveramus,extramutueramus,extramuteramus,extramuteramus,We had transformed
+Active Indicative,Pluperfect,2nd Person,Singular,extramutaveras,extramutueras,extramuteras,extramuteras,You had transformed
+Active Indicative,Pluperfect,2nd Person,Plural,extramutaveratis,extramutueratis,extramuteratis,extramuteratis,You (pl.) had transformed
+Active Indicative,Pluperfect,3rd Person,Singular,extramutaverat,extramutuerat,extramuterat,extramuterat,He/she/it had transformed
+Active Indicative,Pluperfect,3rd Person,Plural,extramutaverant,extramutuerant,extramuterant,extramuterant,They had transformed
+Active Indicative,Future Perfect,1st Person,Singular,extramutavero,extramutueero,extramutero,extramutiero,I will have transformed
+Active Indicative,Future Perfect,1st Person,Plural,extramutaverimus,extramutuerimus,extramuterimus,extramutierimus,We will have transformed
+Active Indicative,Future Perfect,2nd Person,Singular,extramutaveris,extramutueris,extramuteris,extramutieris,You will have transformed
+Active Indicative,Future Perfect,2nd Person,Plural,extramutaveritis,extramutueritis,extramuteritis,extramutieritis,You (pl.) will have transformed
+Active Indicative,Future Perfect,3rd Person,Singular,extramutaverit,extramutuerit,extramuterit,extramutierit,He/she/it will have transformed
+Active Indicative,Future Perfect,3rd Person,Plural,extramutaverint,extramutuerint,extramuterint,extramutierint,They will have transformed
+Passive Indicative,Present,1st Person,Singular,extramutor,extramuteor,extramutor,extramutior,I am being transformed
+Passive Indicative,Present,1st Person,Plural,extramutamur,extramutemur,extramutimur,extramutimur,We are being transformed
+Passive Indicative,Present,2nd Person,Singular,extramutaris,extramuteris,extramutiris,extramutiris,You are being transformed
+Passive Indicative,Present,2nd Person,Plural,extramutamini,extramutemini,extramutimini,extramutimini,You (pl.) are being transformed
+Passive Indicative,Present,3rd Person,Singular,extramutatur,extramutetur,extramutitur,extramutitur,He/she/it is being transformed
+Passive Indicative,Present,3rd Person,Plural,extramutantur,extramutentur,extramutiuntur,extramutiuntur,They are being transformed
+Passive Indicative,Imperfect,1st Person,Singular,extramutabar,extramutebar,extramutebar,extramutiebar,I was transformed
+Passive Indicative,Imperfect,1st Person,Plural,extramutabamur,extramutebamur,extramutebamur,extramutiebamur,We were transformed
+Passive Indicative,Imperfect,2nd Person,Singular,extramutabaris,extramutebaris,extramutebaris,extramutiebaris,You were transformed
+Passive Indicative,Imperfect,2nd Person,Plural,extramutabamini,extramutebamini,extramutebamini,extramutiebamini,You (pl.) were transformed
+Passive Indicative,Imperfect,3rd Person,Singular,extramutabatur,extramutebatur,extramutebatur,extramutiebatur,He/she/it was transformed
+Passive Indicative,Imperfect,3rd Person,Plural,extramutabantur,extramutebantur,extramutebantur,extramutiebantur,They were transformed
+Passive Indicative,Future,1st Person,Singular,extramutabor,extramutebor,extramutar,extramutiar,I will be transformed
+Passive Indicative,Future,1st Person,Plural,extramutabimur,extramutebimur,extramutemur,extramutiemur,We will be transformed
+Passive Indicative,Future,2nd Person,Singular,extramutaberis,extramuteberis,extramuteris,extramutieris,You will be transformed
+Passive Indicative,Future,2nd Person,Plural,extramutabimini,extramutebimini,extramutemini,extramutiemini,You (pl.) will be transformed
+Passive Indicative,Future,3rd Person,Singular,extramutabitur,extramutebitur,extramutetur,extramutietur,He/she/it will be transformed
+Passive Indicative,Future,3rd Person,Plural,extramutabuntur,extramutebuntur,extramutentur,extramutientur,They will be transformed
+Passive Indicative,Perfect,1st Person,Singular,extramutatus sum,extramutetus sum,extramutus sum,extramutus sum,I have been transformed
+Passive Indicative,Perfect,1st Person,Plural,extramutati sumus,extramuteti sumus,extramuti sumus,extramuti sumus,We have been transformed
+Passive Indicative,Perfect,2nd Person,Singular,extramutatus es,extramutetus es,extramutus es,extramutus es,You have been transformed
+Passive Indicative,Perfect,2nd Person,Plural,extramutati estis,extramuteti estis,extramuti estis,extramuti estis,You (pl.) have been transformed
+Passive Indicative,Perfect,3rd Person,Singular,extramutatus est,extramutetus est,extramutus est,extramutus est,He/she/it has been transformed
+Passive Indicative,Perfect,3rd Person,Plural,extramutati sunt,extramuteti sunt,extramuti sunt,extramuti sunt,They have been transformed
+Passive Indicative,Pluperfect,1st Person,Singular,extramutatus eram,extramutetus eram,extramutus eram,extramutus eram,I had been transformed
+Passive Indicative,Pluperfect,1st Person,Plural,extramutati eramus,extramuteti eramus,extramuti eramus,extramuti eramus,We had been transformed
+Passive Indicative,Pluperfect,2nd Person,Singular,extramutatus eras,extramutetus eras,extramutus eras,extramutus eras,You had been transformed
+Passive Indicative,Pluperfect,2nd Person,Plural,extramutati eratis,extramuteti eratis,extramuti eratis,extramuti eratis,You (pl.) had been transformed
+Passive Indicative,Pluperfect,3rd Person,Singular,extramutatus erat,extramutetus erat,extramutus erat,extramutus erat,He/she/it had been transformed
+Passive Indicative,Pluperfect,3rd Person,Plural,extramutati erant,extramuteti erant,extramuti erant,extramuti erant,They had been transformed
+Passive Indicative,Future Perfect,1st Person,Singular,extramutatus ero,extramutetus ero,extramutus ero,extramutus ero,I will have been transformed
+Passive Indicative,Future Perfect,1st Person,Plural,extramutati erimus,extramuteti erimus,extramuti erimus,extramuti erimus,We will have been transformed
+Passive Indicative,Future Perfect,2nd Person,Singular,extramutatus eris,extramutetus eris,extramutus eris,extramutus eris,You will have been transformed
+Passive Indicative,Future Perfect,2nd Person,Plural,extramutati eritis,extramuteti eritis,extramuti eritis,extramuti eritis,You (pl.) will have been transformed
+Passive Indicative,Future Perfect,3rd Person,Singular,extramutatus erit,extramutetus erit,extramutus erit,extramutus erit,He/she/it will have been transformed
+Passive Indicative,Future Perfect,3rd Person,Plural,extramutati erunt,extramuteti erunt,extramuti erunt,extramuti erunt,They will have been transformed
+Active Subjunctive,Present,1st Person,Singular,extramutem,extramutem,extramutam,extramutam,I may transform
+Active Subjunctive,Present,1st Person,Plural,extramutemus,extramutemus,extramutamus,extramutamus,We may transform
+Active Subjunctive,Present,2nd Person,Singular,extramutes,extramutes,extramutas,extramutas,You may transform
+Active Subjunctive,Present,2nd Person,Plural,extramutetis,extramutetis,extramutatis,extramutatis,You (pl.) may transform
+Active Subjunctive,Present,3rd Person,Singular,extramutet,extramutet,extramutat,extramutat,He/she/it may transform
+Active Subjunctive,Present,3rd Person,Plural,extramutent,extramutent,extramutant,extramutant,They may transform
+Active Subjunctive,Imperfect,1st Person,Singular,extramutarem,extramuterem,extramuterem,extramutirem,I should transform
+Active Subjunctive,Imperfect,1st Person,Plural,extramutaremus,extramuteremus,extramuteremus,extramutiremus,We should transform
+Active Subjunctive,Imperfect,2nd Person,Singular,extramutares,extramuteres,extramuteres,extramutires,You should transform
+Active Subjunctive,Imperfect,2nd Person,Plural,extramutaretis,extramuteretis,extramuteretis,extramutiretis,You (pl.) should transform
+Active Subjunctive,Imperfect,3rd Person,Singular,extramutaret,extramuteret,extramuteret,extramutiret,He/she/it should transform
+Active Subjunctive,Imperfect,3rd Person,Plural,extramutarent,extramuterent,extramuterent,extramutirent,They should transform
+Active Subjunctive,Perfect,1st Person,Singular,extramuterim,extramutuerim,extramuterim,extramutierim,I may have transformed
+Active Subjunctive,Perfect,1st Person,Plural,extramuterimus,extramutuerimus,extramuterimus,extramutierimus,We may have transformed
+Active Subjunctive,Perfect,2nd Person,Singular,extramuteris,extramutueris,extramuteris,extramutieris,You may have transformed
+Active Subjunctive,Perfect,2nd Person,Plural,extramuteritis,extramutueritis,extramuteritis,extramutieritis,You (pl.) may have transformed
+Active Subjunctive,Perfect,3rd Person,Singular,extramuterit,extramutuerit,extramuterit,extramutierit,He/she/it may have transformed
+Active Subjunctive,Perfect,3rd Person,Plural,extramuterint,extramutuerint,extramuterint,extramutierint,They may have transformed
+Active Subjunctive,Pluperfect,1st Person,Singular,extramutissem,extramutuissem,extramutissem,extramutissem,I should have transformed
+Active Subjunctive,Pluperfect,1st Person,Plural,extramutissemus,extramutuissemus,extramutissemus,extramutissemus,We should have transformed
+Active Subjunctive,Pluperfect,2nd Person,Singular,extramutisses,extramutuisses,extramutisses,extramutisses,You would have transformed
+Active Subjunctive,Pluperfect,2nd Person,Plural,extramutissetis,extramutuissetis,extramutissetis,extramutissetis,You (pl.) would have transformed
+Active Subjunctive,Pluperfect,3rd Person,Singular,extramutisset,extramutuisset,extramutisset,extramutisset,He/she/it would have transformed
+Active Subjunctive,Pluperfect,3rd Person,Plural,extramutissent,extramutuissent,extramutissent,extramutissent,They would have transformed
+Passive Subjunctive,Present,1st Person,Singular,extramuter,extramuter,extramutar,extramutar,I may be transformed
+Passive Subjunctive,Present,1st Person,Plural,extramutemur,extramutemur,extramutamur,extramutamur,We may be transformed
+Passive Subjunctive,Present,2nd Person,Singular,extramuteris,extramuteris,extramutaris,extramutaris,You may be transformed
+Passive Subjunctive,Present,2nd Person,Plural,extramutemini,extramutemini,extramutamini,extramutamini,You (pl.) may be transformed
+Passive Subjunctive,Present,3rd Person,Singular,extramutetur,extramutetur,extramutatur,extramutatur,He/she/it may be transformed
+Passive Subjunctive,Present,3rd Person,Plural,extramutentur,extramutentur,extramutantur,extramutantur,They may be transformed
+Passive Subjunctive,Imperfect,1st Person,Singular,extramutarer,extramuterer,extramuterer,extramutirer,I should be transformed
+Passive Subjunctive,Imperfect,1st Person,Plural,extramutaremur,extramuteremur,extramuteremur,extramutiremur,We should be transformed
+Passive Subjunctive,Imperfect,2nd Person,Singular,extramutareris,extramutereris,extramutereris,extramutireris,You would be transformed
+Passive Subjunctive,Imperfect,2nd Person,Plural,extramutaremini,extramuteremini,extramuteremini,extramutiremini,You (pl.) would be transformed
+Passive Subjunctive,Imperfect,3rd Person,Singular,extramutaretur,extramuteretur,extramuteretur,extramutiretur,He/she/it would be transformed
+Passive Subjunctive,Imperfect,3rd Person,Plural,extramutarentur,extramuterentur,extramuterentur,extramutirentur,They would be transformed
+Passive Subjunctive,Perfect,1st Person,Singular,extramutatus sim,extramutetus sim,extramutus sim,extramutus sim,I may have been transformed
+Passive Subjunctive,Perfect,1st Person,Plural,extramutati simus,extramuteti simus,extramuti simus,extramuti simus,We may have been transformed
+Passive Subjunctive,Perfect,2nd Person,Singular,extramutatus sis,extramutetus sis,extramutus sis,extramutus sis,You may have been transformed
+Passive Subjunctive,Perfect,2nd Person,Plural,extramutati sitis,extramuteti sitis,extramuti sitis,extramuti sitis,You (pl.) may have been transformed
+Passive Subjunctive,Perfect,3rd Person,Singular,extramutatus sit,extramutetus sit,extramutus sit,extramutus sit,He/she/it may have been transformed
+Passive Subjunctive,Perfect,3rd Person,Plural,extramutati sint,extramuteti sint,extramuti sint,extramuti sint,They may have been transformed
+Passive Subjunctive,Pluperfect,1st Person,Singular,extramutatus essem,extramutetus essem,extramutus essem,extramutus essem,I should have been transformed
+Passive Subjunctive,Pluperfect,1st Person,Plural,extramutati essemus,extramuteti essemus,extramuti essemus,extramuti essemus,We should have been transformed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,extramutatus esses,extramutetus esses,extramutus esses,extramutus esses,You would have been transformed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,extramutati essetis,extramuteti essetis,extramuti essetis,extramuti essetis,You (pl.) would have been transformed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,extramutatus esset,extramutetus esset,extramutus esset,extramutus esset,He/she/it would have been transformed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,extramutati essent,extramuteti essent,extramuti essent,extramuti essent,They would have been transformed

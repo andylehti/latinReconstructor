@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,admorto,admorteo,admorto,admortio,I deaden
+Active Indicative,Present,1st Person,Plural,admortamus,admortemus,admortimus,admortimus,We deaden
+Active Indicative,Present,2nd Person,Singular,admortas,admortes,admortis,admortis,You deaden
+Active Indicative,Present,2nd Person,Plural,admortatis,admortetis,admortitis,admortitis,You (pl.) deaden
+Active Indicative,Present,3rd Person,Singular,admortat,admortet,admortit,admortit,He/she/it deaden
+Active Indicative,Present,3rd Person,Plural,admortant,admortent,admortiunt,admortiunt,They deaden
+Active Indicative,Imperfect,1st Person,Singular,admortabam,admortebam,admortebam,admortiebam,I was deadening
+Active Indicative,Imperfect,1st Person,Plural,admortabamus,admortebamus,admortebamus,admortiebamus,We were deadening
+Active Indicative,Imperfect,2nd Person,Singular,admortabas,admortebas,admortebas,admortiebas,You were deadening
+Active Indicative,Imperfect,2nd Person,Plural,admortabatis,admortebatis,admortebatis,admortiebatis,You (pl.) were deadening
+Active Indicative,Imperfect,3rd Person,Singular,admortabat,admortebat,admortebat,admortiebat,He/she/it was deadening
+Active Indicative,Imperfect,3rd Person,Plural,admortabant,admortebant,admortebant,admortiebant,They were deadening
+Active Indicative,Future,1st Person,Singular,admortabo,admortebo,admortam,admortiam,I will deaden
+Active Indicative,Future,1st Person,Plural,admortabimus,admortebimus,admortemus,admortiemus,We will deaden
+Active Indicative,Future,2nd Person,Singular,admortabis,admortebis,admortes,admorties,You will deaden
+Active Indicative,Future,2nd Person,Plural,admortabitis,admortebitis,admortetis,admortietis,You (pl.) will deaden
+Active Indicative,Future,3rd Person,Singular,admortabit,admortebit,admortet,admortiet,He/she/it will deaden
+Active Indicative,Future,3rd Person,Plural,admortabunt,admortebunt,admortent,admortient,They will deaden
+Active Indicative,Perfect,1st Person,Singular,admortavi,admortui,admorti,admorti,I have deadened
+Active Indicative,Perfect,1st Person,Plural,admortavimus,admortuimus,admortimus,admortimus,We have deadened
+Active Indicative,Perfect,2nd Person,Singular,admortavisti,admortuisti,admortisti,admortisti,You have deadened
+Active Indicative,Perfect,2nd Person,Plural,admortavistis,admortuistis,admortistis,admortistis,You (pl.) have deadened
+Active Indicative,Perfect,3rd Person,Singular,admortavit,admortuit,admortit,admortit,He/she/it has deadened
+Active Indicative,Perfect,3rd Person,Plural,admortaverunt,admortuerunt,admorterunt,admorterunt,They have deadened
+Active Indicative,Pluperfect,1st Person,Singular,admortaveram,admortueram,admorteram,admorteram,I had deadened
+Active Indicative,Pluperfect,1st Person,Plural,admortaveramus,admortueramus,admorteramus,admorteramus,We had deadened
+Active Indicative,Pluperfect,2nd Person,Singular,admortaveras,admortueras,admorteras,admorteras,You had deadened
+Active Indicative,Pluperfect,2nd Person,Plural,admortaveratis,admortueratis,admorteratis,admorteratis,You (pl.) had deadened
+Active Indicative,Pluperfect,3rd Person,Singular,admortaverat,admortuerat,admorterat,admorterat,He/she/it had deadened
+Active Indicative,Pluperfect,3rd Person,Plural,admortaverant,admortuerant,admorterant,admorterant,They had deadened
+Active Indicative,Future Perfect,1st Person,Singular,admortavero,admortueero,admortero,admortiero,I will have deadened
+Active Indicative,Future Perfect,1st Person,Plural,admortaverimus,admortuerimus,admorterimus,admortierimus,We will have deadened
+Active Indicative,Future Perfect,2nd Person,Singular,admortaveris,admortueris,admorteris,admortieris,You will have deadened
+Active Indicative,Future Perfect,2nd Person,Plural,admortaveritis,admortueritis,admorteritis,admortieritis,You (pl.) will have deadened
+Active Indicative,Future Perfect,3rd Person,Singular,admortaverit,admortuerit,admorterit,admortierit,He/she/it will have deadened
+Active Indicative,Future Perfect,3rd Person,Plural,admortaverint,admortuerint,admorterint,admortierint,They will have deadened
+Passive Indicative,Present,1st Person,Singular,admortor,admorteor,admortor,admortior,I am being deadened
+Passive Indicative,Present,1st Person,Plural,admortamur,admortemur,admortimur,admortimur,We are being deadened
+Passive Indicative,Present,2nd Person,Singular,admortaris,admorteris,admortiris,admortiris,You are being deadened
+Passive Indicative,Present,2nd Person,Plural,admortamini,admortemini,admortimini,admortimini,You (pl.) are being deadened
+Passive Indicative,Present,3rd Person,Singular,admortatur,admortetur,admortitur,admortitur,He/she/it is being deadened
+Passive Indicative,Present,3rd Person,Plural,admortantur,admortentur,admortiuntur,admortiuntur,They are being deadened
+Passive Indicative,Imperfect,1st Person,Singular,admortabar,admortebar,admortebar,admortiebar,I was deadened
+Passive Indicative,Imperfect,1st Person,Plural,admortabamur,admortebamur,admortebamur,admortiebamur,We were deadened
+Passive Indicative,Imperfect,2nd Person,Singular,admortabaris,admortebaris,admortebaris,admortiebaris,You were deadened
+Passive Indicative,Imperfect,2nd Person,Plural,admortabamini,admortebamini,admortebamini,admortiebamini,You (pl.) were deadened
+Passive Indicative,Imperfect,3rd Person,Singular,admortabatur,admortebatur,admortebatur,admortiebatur,He/she/it was deadened
+Passive Indicative,Imperfect,3rd Person,Plural,admortabantur,admortebantur,admortebantur,admortiebantur,They were deadened
+Passive Indicative,Future,1st Person,Singular,admortabor,admortebor,admortar,admortiar,I will be deadened
+Passive Indicative,Future,1st Person,Plural,admortabimur,admortebimur,admortemur,admortiemur,We will be deadened
+Passive Indicative,Future,2nd Person,Singular,admortaberis,admorteberis,admorteris,admortieris,You will be deadened
+Passive Indicative,Future,2nd Person,Plural,admortabimini,admortebimini,admortemini,admortiemini,You (pl.) will be deadened
+Passive Indicative,Future,3rd Person,Singular,admortabitur,admortebitur,admortetur,admortietur,He/she/it will be deadened
+Passive Indicative,Future,3rd Person,Plural,admortabuntur,admortebuntur,admortentur,admortientur,They will be deadened
+Passive Indicative,Perfect,1st Person,Singular,admortatus sum,admortetus sum,admortus sum,admortus sum,I have been deadened
+Passive Indicative,Perfect,1st Person,Plural,admortati sumus,admorteti sumus,admorti sumus,admorti sumus,We have been deadened
+Passive Indicative,Perfect,2nd Person,Singular,admortatus es,admortetus es,admortus es,admortus es,You have been deadened
+Passive Indicative,Perfect,2nd Person,Plural,admortati estis,admorteti estis,admorti estis,admorti estis,You (pl.) have been deadened
+Passive Indicative,Perfect,3rd Person,Singular,admortatus est,admortetus est,admortus est,admortus est,He/she/it has been deadened
+Passive Indicative,Perfect,3rd Person,Plural,admortati sunt,admorteti sunt,admorti sunt,admorti sunt,They have been deadened
+Passive Indicative,Pluperfect,1st Person,Singular,admortatus eram,admortetus eram,admortus eram,admortus eram,I had been deadened
+Passive Indicative,Pluperfect,1st Person,Plural,admortati eramus,admorteti eramus,admorti eramus,admorti eramus,We had been deadened
+Passive Indicative,Pluperfect,2nd Person,Singular,admortatus eras,admortetus eras,admortus eras,admortus eras,You had been deadened
+Passive Indicative,Pluperfect,2nd Person,Plural,admortati eratis,admorteti eratis,admorti eratis,admorti eratis,You (pl.) had been deadened
+Passive Indicative,Pluperfect,3rd Person,Singular,admortatus erat,admortetus erat,admortus erat,admortus erat,He/she/it had been deadened
+Passive Indicative,Pluperfect,3rd Person,Plural,admortati erant,admorteti erant,admorti erant,admorti erant,They had been deadened
+Passive Indicative,Future Perfect,1st Person,Singular,admortatus ero,admortetus ero,admortus ero,admortus ero,I will have been deadened
+Passive Indicative,Future Perfect,1st Person,Plural,admortati erimus,admorteti erimus,admorti erimus,admorti erimus,We will have been deadened
+Passive Indicative,Future Perfect,2nd Person,Singular,admortatus eris,admortetus eris,admortus eris,admortus eris,You will have been deadened
+Passive Indicative,Future Perfect,2nd Person,Plural,admortati eritis,admorteti eritis,admorti eritis,admorti eritis,You (pl.) will have been deadened
+Passive Indicative,Future Perfect,3rd Person,Singular,admortatus erit,admortetus erit,admortus erit,admortus erit,He/she/it will have been deadened
+Passive Indicative,Future Perfect,3rd Person,Plural,admortati erunt,admorteti erunt,admorti erunt,admorti erunt,They will have been deadened
+Active Subjunctive,Present,1st Person,Singular,admortem,admortem,admortam,admortam,I may deaden
+Active Subjunctive,Present,1st Person,Plural,admortemus,admortemus,admortamus,admortamus,We may deaden
+Active Subjunctive,Present,2nd Person,Singular,admortes,admortes,admortas,admortas,You may deaden
+Active Subjunctive,Present,2nd Person,Plural,admortetis,admortetis,admortatis,admortatis,You (pl.) may deaden
+Active Subjunctive,Present,3rd Person,Singular,admortet,admortet,admortat,admortat,He/she/it may deaden
+Active Subjunctive,Present,3rd Person,Plural,admortent,admortent,admortant,admortant,They may deaden
+Active Subjunctive,Imperfect,1st Person,Singular,admortarem,admorterem,admorterem,admortirem,I should deaden
+Active Subjunctive,Imperfect,1st Person,Plural,admortaremus,admorteremus,admorteremus,admortiremus,We should deaden
+Active Subjunctive,Imperfect,2nd Person,Singular,admortares,admorteres,admorteres,admortires,You should deaden
+Active Subjunctive,Imperfect,2nd Person,Plural,admortaretis,admorteretis,admorteretis,admortiretis,You (pl.) should deaden
+Active Subjunctive,Imperfect,3rd Person,Singular,admortaret,admorteret,admorteret,admortiret,He/she/it should deaden
+Active Subjunctive,Imperfect,3rd Person,Plural,admortarent,admorterent,admorterent,admortirent,They should deaden
+Active Subjunctive,Perfect,1st Person,Singular,admorterim,admortuerim,admorterim,admortierim,I may have deadened
+Active Subjunctive,Perfect,1st Person,Plural,admorterimus,admortuerimus,admorterimus,admortierimus,We may have deadened
+Active Subjunctive,Perfect,2nd Person,Singular,admorteris,admortueris,admorteris,admortieris,You may have deadened
+Active Subjunctive,Perfect,2nd Person,Plural,admorteritis,admortueritis,admorteritis,admortieritis,You (pl.) may have deadened
+Active Subjunctive,Perfect,3rd Person,Singular,admorterit,admortuerit,admorterit,admortierit,He/she/it may have deadened
+Active Subjunctive,Perfect,3rd Person,Plural,admorterint,admortuerint,admorterint,admortierint,They may have deadened
+Active Subjunctive,Pluperfect,1st Person,Singular,admortissem,admortuissem,admortissem,admortissem,I should have deadened
+Active Subjunctive,Pluperfect,1st Person,Plural,admortissemus,admortuissemus,admortissemus,admortissemus,We should have deadened
+Active Subjunctive,Pluperfect,2nd Person,Singular,admortisses,admortuisses,admortisses,admortisses,You would have deadened
+Active Subjunctive,Pluperfect,2nd Person,Plural,admortissetis,admortuissetis,admortissetis,admortissetis,You (pl.) would have deadened
+Active Subjunctive,Pluperfect,3rd Person,Singular,admortisset,admortuisset,admortisset,admortisset,He/she/it would have deadened
+Active Subjunctive,Pluperfect,3rd Person,Plural,admortissent,admortuissent,admortissent,admortissent,They would have deadened
+Passive Subjunctive,Present,1st Person,Singular,admorter,admorter,admortar,admortar,I may be deadened
+Passive Subjunctive,Present,1st Person,Plural,admortemur,admortemur,admortamur,admortamur,We may be deadened
+Passive Subjunctive,Present,2nd Person,Singular,admorteris,admorteris,admortaris,admortaris,You may be deadened
+Passive Subjunctive,Present,2nd Person,Plural,admortemini,admortemini,admortamini,admortamini,You (pl.) may be deadened
+Passive Subjunctive,Present,3rd Person,Singular,admortetur,admortetur,admortatur,admortatur,He/she/it may be deadened
+Passive Subjunctive,Present,3rd Person,Plural,admortentur,admortentur,admortantur,admortantur,They may be deadened
+Passive Subjunctive,Imperfect,1st Person,Singular,admortarer,admorterer,admorterer,admortirer,I should be deadened
+Passive Subjunctive,Imperfect,1st Person,Plural,admortaremur,admorteremur,admorteremur,admortiremur,We should be deadened
+Passive Subjunctive,Imperfect,2nd Person,Singular,admortareris,admortereris,admortereris,admortireris,You would be deadened
+Passive Subjunctive,Imperfect,2nd Person,Plural,admortaremini,admorteremini,admorteremini,admortiremini,You (pl.) would be deadened
+Passive Subjunctive,Imperfect,3rd Person,Singular,admortaretur,admorteretur,admorteretur,admortiretur,He/she/it would be deadened
+Passive Subjunctive,Imperfect,3rd Person,Plural,admortarentur,admorterentur,admorterentur,admortirentur,They would be deadened
+Passive Subjunctive,Perfect,1st Person,Singular,admortatus sim,admortetus sim,admortus sim,admortus sim,I may have been deadened
+Passive Subjunctive,Perfect,1st Person,Plural,admortati simus,admorteti simus,admorti simus,admorti simus,We may have been deadened
+Passive Subjunctive,Perfect,2nd Person,Singular,admortatus sis,admortetus sis,admortus sis,admortus sis,You may have been deadened
+Passive Subjunctive,Perfect,2nd Person,Plural,admortati sitis,admorteti sitis,admorti sitis,admorti sitis,You (pl.) may have been deadened
+Passive Subjunctive,Perfect,3rd Person,Singular,admortatus sit,admortetus sit,admortus sit,admortus sit,He/she/it may have been deadened
+Passive Subjunctive,Perfect,3rd Person,Plural,admortati sint,admorteti sint,admorti sint,admorti sint,They may have been deadened
+Passive Subjunctive,Pluperfect,1st Person,Singular,admortatus essem,admortetus essem,admortus essem,admortus essem,I should have been deadened
+Passive Subjunctive,Pluperfect,1st Person,Plural,admortati essemus,admorteti essemus,admorti essemus,admorti essemus,We should have been deadened
+Passive Subjunctive,Pluperfect,2nd Person,Singular,admortatus esses,admortetus esses,admortus esses,admortus esses,You would have been deadened
+Passive Subjunctive,Pluperfect,2nd Person,Plural,admortati essetis,admorteti essetis,admorti essetis,admorti essetis,You (pl.) would have been deadened
+Passive Subjunctive,Pluperfect,3rd Person,Singular,admortatus esset,admortetus esset,admortus esset,admortus esset,He/she/it would have been deadened
+Passive Subjunctive,Pluperfect,3rd Person,Plural,admortati essent,admorteti essent,admorti essent,admorti essent,They would have been deadened

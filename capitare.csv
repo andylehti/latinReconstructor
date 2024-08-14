@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,capito,capiteo,capito,capitio,I arrive at
+Active Indicative,Present,1st Person,Plural,capitamus,capitemus,capitimus,capitimus,We arrive at
+Active Indicative,Present,2nd Person,Singular,capitas,capites,capitis,capitis,You arrive at
+Active Indicative,Present,2nd Person,Plural,capitatis,capitetis,capititis,capititis,You (pl.) arrive at
+Active Indicative,Present,3rd Person,Singular,capitat,capitet,capitit,capitit,He/she/it arrive at
+Active Indicative,Present,3rd Person,Plural,capitant,capitent,capitiunt,capitiunt,They arrive at
+Active Indicative,Imperfect,1st Person,Singular,capitabam,capitebam,capitebam,capitiebam,I was arrive ating
+Active Indicative,Imperfect,1st Person,Plural,capitabamus,capitebamus,capitebamus,capitiebamus,We were arrive ating
+Active Indicative,Imperfect,2nd Person,Singular,capitabas,capitebas,capitebas,capitiebas,You were arrive ating
+Active Indicative,Imperfect,2nd Person,Plural,capitabatis,capitebatis,capitebatis,capitiebatis,You (pl.) were arrive ating
+Active Indicative,Imperfect,3rd Person,Singular,capitabat,capitebat,capitebat,capitiebat,He/she/it was arrive ating
+Active Indicative,Imperfect,3rd Person,Plural,capitabant,capitebant,capitebant,capitiebant,They were arrive ating
+Active Indicative,Future,1st Person,Singular,capitabo,capitebo,capitam,capitiam,I will arrive at
+Active Indicative,Future,1st Person,Plural,capitabimus,capitebimus,capitemus,capitiemus,We will arrive at
+Active Indicative,Future,2nd Person,Singular,capitabis,capitebis,capites,capities,You will arrive at
+Active Indicative,Future,2nd Person,Plural,capitabitis,capitebitis,capitetis,capitietis,You (pl.) will arrive at
+Active Indicative,Future,3rd Person,Singular,capitabit,capitebit,capitet,capitiet,He/she/it will arrive at
+Active Indicative,Future,3rd Person,Plural,capitabunt,capitebunt,capitent,capitient,They will arrive at
+Active Indicative,Perfect,1st Person,Singular,capitavi,capitui,capiti,capiti,I have arrive ated
+Active Indicative,Perfect,1st Person,Plural,capitavimus,capituimus,capitimus,capitimus,We have arrive ated
+Active Indicative,Perfect,2nd Person,Singular,capitavisti,capituisti,capitisti,capitisti,You have arrive ated
+Active Indicative,Perfect,2nd Person,Plural,capitavistis,capituistis,capitistis,capitistis,You (pl.) have arrive ated
+Active Indicative,Perfect,3rd Person,Singular,capitavit,capituit,capitit,capitit,He/she/it has arrive ated
+Active Indicative,Perfect,3rd Person,Plural,capitaverunt,capituerunt,capiterunt,capiterunt,They have arrive ated
+Active Indicative,Pluperfect,1st Person,Singular,capitaveram,capitueram,capiteram,capiteram,I had arrive ated
+Active Indicative,Pluperfect,1st Person,Plural,capitaveramus,capitueramus,capiteramus,capiteramus,We had arrive ated
+Active Indicative,Pluperfect,2nd Person,Singular,capitaveras,capitueras,capiteras,capiteras,You had arrive ated
+Active Indicative,Pluperfect,2nd Person,Plural,capitaveratis,capitueratis,capiteratis,capiteratis,You (pl.) had arrive ated
+Active Indicative,Pluperfect,3rd Person,Singular,capitaverat,capituerat,capiterat,capiterat,He/she/it had arrive ated
+Active Indicative,Pluperfect,3rd Person,Plural,capitaverant,capituerant,capiterant,capiterant,They had arrive ated
+Active Indicative,Future Perfect,1st Person,Singular,capitavero,capitueero,capitero,capitiero,I will have arrive ated
+Active Indicative,Future Perfect,1st Person,Plural,capitaverimus,capituerimus,capiterimus,capitierimus,We will have arrive ated
+Active Indicative,Future Perfect,2nd Person,Singular,capitaveris,capitueris,capiteris,capitieris,You will have arrive ated
+Active Indicative,Future Perfect,2nd Person,Plural,capitaveritis,capitueritis,capiteritis,capitieritis,You (pl.) will have arrive ated
+Active Indicative,Future Perfect,3rd Person,Singular,capitaverit,capituerit,capiterit,capitierit,He/she/it will have arrive ated
+Active Indicative,Future Perfect,3rd Person,Plural,capitaverint,capituerint,capiterint,capitierint,They will have arrive ated
+Passive Indicative,Present,1st Person,Singular,capitor,capiteor,capitor,capitior,I am being arrive ated
+Passive Indicative,Present,1st Person,Plural,capitamur,capitemur,capitimur,capitimur,We are being arrive ated
+Passive Indicative,Present,2nd Person,Singular,capitaris,capiteris,capitiris,capitiris,You are being arrive ated
+Passive Indicative,Present,2nd Person,Plural,capitamini,capitemini,capitimini,capitimini,You (pl.) are being arrive ated
+Passive Indicative,Present,3rd Person,Singular,capitatur,capitetur,capititur,capititur,He/she/it is being arrive ated
+Passive Indicative,Present,3rd Person,Plural,capitantur,capitentur,capitiuntur,capitiuntur,They are being arrive ated
+Passive Indicative,Imperfect,1st Person,Singular,capitabar,capitebar,capitebar,capitiebar,I was arrive ated
+Passive Indicative,Imperfect,1st Person,Plural,capitabamur,capitebamur,capitebamur,capitiebamur,We were arrive ated
+Passive Indicative,Imperfect,2nd Person,Singular,capitabaris,capitebaris,capitebaris,capitiebaris,You were arrive ated
+Passive Indicative,Imperfect,2nd Person,Plural,capitabamini,capitebamini,capitebamini,capitiebamini,You (pl.) were arrive ated
+Passive Indicative,Imperfect,3rd Person,Singular,capitabatur,capitebatur,capitebatur,capitiebatur,He/she/it was arrive ated
+Passive Indicative,Imperfect,3rd Person,Plural,capitabantur,capitebantur,capitebantur,capitiebantur,They were arrive ated
+Passive Indicative,Future,1st Person,Singular,capitabor,capitebor,capitar,capitiar,I will be arrive ated
+Passive Indicative,Future,1st Person,Plural,capitabimur,capitebimur,capitemur,capitiemur,We will be arrive ated
+Passive Indicative,Future,2nd Person,Singular,capitaberis,capiteberis,capiteris,capitieris,You will be arrive ated
+Passive Indicative,Future,2nd Person,Plural,capitabimini,capitebimini,capitemini,capitiemini,You (pl.) will be arrive ated
+Passive Indicative,Future,3rd Person,Singular,capitabitur,capitebitur,capitetur,capitietur,He/she/it will be arrive ated
+Passive Indicative,Future,3rd Person,Plural,capitabuntur,capitebuntur,capitentur,capitientur,They will be arrive ated
+Passive Indicative,Perfect,1st Person,Singular,capitatus sum,capitetus sum,capitus sum,capitus sum,I have been arrive ated
+Passive Indicative,Perfect,1st Person,Plural,capitati sumus,capiteti sumus,capiti sumus,capiti sumus,We have been arrive ated
+Passive Indicative,Perfect,2nd Person,Singular,capitatus es,capitetus es,capitus es,capitus es,You have been arrive ated
+Passive Indicative,Perfect,2nd Person,Plural,capitati estis,capiteti estis,capiti estis,capiti estis,You (pl.) have been arrive ated
+Passive Indicative,Perfect,3rd Person,Singular,capitatus est,capitetus est,capitus est,capitus est,He/she/it has been arrive ated
+Passive Indicative,Perfect,3rd Person,Plural,capitati sunt,capiteti sunt,capiti sunt,capiti sunt,They have been arrive ated
+Passive Indicative,Pluperfect,1st Person,Singular,capitatus eram,capitetus eram,capitus eram,capitus eram,I had been arrive ated
+Passive Indicative,Pluperfect,1st Person,Plural,capitati eramus,capiteti eramus,capiti eramus,capiti eramus,We had been arrive ated
+Passive Indicative,Pluperfect,2nd Person,Singular,capitatus eras,capitetus eras,capitus eras,capitus eras,You had been arrive ated
+Passive Indicative,Pluperfect,2nd Person,Plural,capitati eratis,capiteti eratis,capiti eratis,capiti eratis,You (pl.) had been arrive ated
+Passive Indicative,Pluperfect,3rd Person,Singular,capitatus erat,capitetus erat,capitus erat,capitus erat,He/she/it had been arrive ated
+Passive Indicative,Pluperfect,3rd Person,Plural,capitati erant,capiteti erant,capiti erant,capiti erant,They had been arrive ated
+Passive Indicative,Future Perfect,1st Person,Singular,capitatus ero,capitetus ero,capitus ero,capitus ero,I will have been arrive ated
+Passive Indicative,Future Perfect,1st Person,Plural,capitati erimus,capiteti erimus,capiti erimus,capiti erimus,We will have been arrive ated
+Passive Indicative,Future Perfect,2nd Person,Singular,capitatus eris,capitetus eris,capitus eris,capitus eris,You will have been arrive ated
+Passive Indicative,Future Perfect,2nd Person,Plural,capitati eritis,capiteti eritis,capiti eritis,capiti eritis,You (pl.) will have been arrive ated
+Passive Indicative,Future Perfect,3rd Person,Singular,capitatus erit,capitetus erit,capitus erit,capitus erit,He/she/it will have been arrive ated
+Passive Indicative,Future Perfect,3rd Person,Plural,capitati erunt,capiteti erunt,capiti erunt,capiti erunt,They will have been arrive ated
+Active Subjunctive,Present,1st Person,Singular,capitem,capitem,capitam,capitam,I may arrive at
+Active Subjunctive,Present,1st Person,Plural,capitemus,capitemus,capitamus,capitamus,We may arrive at
+Active Subjunctive,Present,2nd Person,Singular,capites,capites,capitas,capitas,You may arrive at
+Active Subjunctive,Present,2nd Person,Plural,capitetis,capitetis,capitatis,capitatis,You (pl.) may arrive at
+Active Subjunctive,Present,3rd Person,Singular,capitet,capitet,capitat,capitat,He/she/it may arrive at
+Active Subjunctive,Present,3rd Person,Plural,capitent,capitent,capitant,capitant,They may arrive at
+Active Subjunctive,Imperfect,1st Person,Singular,capitarem,capiterem,capiterem,capitirem,I should arrive at
+Active Subjunctive,Imperfect,1st Person,Plural,capitaremus,capiteremus,capiteremus,capitiremus,We should arrive at
+Active Subjunctive,Imperfect,2nd Person,Singular,capitares,capiteres,capiteres,capitires,You should arrive at
+Active Subjunctive,Imperfect,2nd Person,Plural,capitaretis,capiteretis,capiteretis,capitiretis,You (pl.) should arrive at
+Active Subjunctive,Imperfect,3rd Person,Singular,capitaret,capiteret,capiteret,capitiret,He/she/it should arrive at
+Active Subjunctive,Imperfect,3rd Person,Plural,capitarent,capiterent,capiterent,capitirent,They should arrive at
+Active Subjunctive,Perfect,1st Person,Singular,capiterim,capituerim,capiterim,capitierim,I may have arrive ated
+Active Subjunctive,Perfect,1st Person,Plural,capiterimus,capituerimus,capiterimus,capitierimus,We may have arrive ated
+Active Subjunctive,Perfect,2nd Person,Singular,capiteris,capitueris,capiteris,capitieris,You may have arrive ated
+Active Subjunctive,Perfect,2nd Person,Plural,capiteritis,capitueritis,capiteritis,capitieritis,You (pl.) may have arrive ated
+Active Subjunctive,Perfect,3rd Person,Singular,capiterit,capituerit,capiterit,capitierit,He/she/it may have arrive ated
+Active Subjunctive,Perfect,3rd Person,Plural,capiterint,capituerint,capiterint,capitierint,They may have arrive ated
+Active Subjunctive,Pluperfect,1st Person,Singular,capitissem,capituissem,capitissem,capitissem,I should have arrive ated
+Active Subjunctive,Pluperfect,1st Person,Plural,capitissemus,capituissemus,capitissemus,capitissemus,We should have arrive ated
+Active Subjunctive,Pluperfect,2nd Person,Singular,capitisses,capituisses,capitisses,capitisses,You would have arrive ated
+Active Subjunctive,Pluperfect,2nd Person,Plural,capitissetis,capituissetis,capitissetis,capitissetis,You (pl.) would have arrive ated
+Active Subjunctive,Pluperfect,3rd Person,Singular,capitisset,capituisset,capitisset,capitisset,He/she/it would have arrive ated
+Active Subjunctive,Pluperfect,3rd Person,Plural,capitissent,capituissent,capitissent,capitissent,They would have arrive ated
+Passive Subjunctive,Present,1st Person,Singular,capiter,capiter,capitar,capitar,I may be arrive ated
+Passive Subjunctive,Present,1st Person,Plural,capitemur,capitemur,capitamur,capitamur,We may be arrive ated
+Passive Subjunctive,Present,2nd Person,Singular,capiteris,capiteris,capitaris,capitaris,You may be arrive ated
+Passive Subjunctive,Present,2nd Person,Plural,capitemini,capitemini,capitamini,capitamini,You (pl.) may be arrive ated
+Passive Subjunctive,Present,3rd Person,Singular,capitetur,capitetur,capitatur,capitatur,He/she/it may be arrive ated
+Passive Subjunctive,Present,3rd Person,Plural,capitentur,capitentur,capitantur,capitantur,They may be arrive ated
+Passive Subjunctive,Imperfect,1st Person,Singular,capitarer,capiterer,capiterer,capitirer,I should be arrive ated
+Passive Subjunctive,Imperfect,1st Person,Plural,capitaremur,capiteremur,capiteremur,capitiremur,We should be arrive ated
+Passive Subjunctive,Imperfect,2nd Person,Singular,capitareris,capitereris,capitereris,capitireris,You would be arrive ated
+Passive Subjunctive,Imperfect,2nd Person,Plural,capitaremini,capiteremini,capiteremini,capitiremini,You (pl.) would be arrive ated
+Passive Subjunctive,Imperfect,3rd Person,Singular,capitaretur,capiteretur,capiteretur,capitiretur,He/she/it would be arrive ated
+Passive Subjunctive,Imperfect,3rd Person,Plural,capitarentur,capiterentur,capiterentur,capitirentur,They would be arrive ated
+Passive Subjunctive,Perfect,1st Person,Singular,capitatus sim,capitetus sim,capitus sim,capitus sim,I may have been arrive ated
+Passive Subjunctive,Perfect,1st Person,Plural,capitati simus,capiteti simus,capiti simus,capiti simus,We may have been arrive ated
+Passive Subjunctive,Perfect,2nd Person,Singular,capitatus sis,capitetus sis,capitus sis,capitus sis,You may have been arrive ated
+Passive Subjunctive,Perfect,2nd Person,Plural,capitati sitis,capiteti sitis,capiti sitis,capiti sitis,You (pl.) may have been arrive ated
+Passive Subjunctive,Perfect,3rd Person,Singular,capitatus sit,capitetus sit,capitus sit,capitus sit,He/she/it may have been arrive ated
+Passive Subjunctive,Perfect,3rd Person,Plural,capitati sint,capiteti sint,capiti sint,capiti sint,They may have been arrive ated
+Passive Subjunctive,Pluperfect,1st Person,Singular,capitatus essem,capitetus essem,capitus essem,capitus essem,I should have been arrive ated
+Passive Subjunctive,Pluperfect,1st Person,Plural,capitati essemus,capiteti essemus,capiti essemus,capiti essemus,We should have been arrive ated
+Passive Subjunctive,Pluperfect,2nd Person,Singular,capitatus esses,capitetus esses,capitus esses,capitus esses,You would have been arrive ated
+Passive Subjunctive,Pluperfect,2nd Person,Plural,capitati essetis,capiteti essetis,capiti essetis,capiti essetis,You (pl.) would have been arrive ated
+Passive Subjunctive,Pluperfect,3rd Person,Singular,capitatus esset,capitetus esset,capitus esset,capitus esset,He/she/it would have been arrive ated
+Passive Subjunctive,Pluperfect,3rd Person,Plural,capitati essent,capiteti essent,capiti essent,capiti essent,They would have been arrive ated

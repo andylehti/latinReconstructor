@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,odisso,odisseo,odisso,odissio,I abhor
+Active Indicative,Present,1st Person,Plural,odissamus,odissemus,odissimus,odissimus,We abhor
+Active Indicative,Present,2nd Person,Singular,odissas,odisses,odissis,odissis,You abhor
+Active Indicative,Present,2nd Person,Plural,odissatis,odissetis,odissitis,odissitis,You (pl.) abhor
+Active Indicative,Present,3rd Person,Singular,odissat,odisset,odissit,odissit,He/she/it abhor
+Active Indicative,Present,3rd Person,Plural,odissant,odissent,odissiunt,odissiunt,They abhor
+Active Indicative,Imperfect,1st Person,Singular,odissabam,odissebam,odissebam,odissiebam,I was abhoring
+Active Indicative,Imperfect,1st Person,Plural,odissabamus,odissebamus,odissebamus,odissiebamus,We were abhoring
+Active Indicative,Imperfect,2nd Person,Singular,odissabas,odissebas,odissebas,odissiebas,You were abhoring
+Active Indicative,Imperfect,2nd Person,Plural,odissabatis,odissebatis,odissebatis,odissiebatis,You (pl.) were abhoring
+Active Indicative,Imperfect,3rd Person,Singular,odissabat,odissebat,odissebat,odissiebat,He/she/it was abhoring
+Active Indicative,Imperfect,3rd Person,Plural,odissabant,odissebant,odissebant,odissiebant,They were abhoring
+Active Indicative,Future,1st Person,Singular,odissabo,odissebo,odissam,odissiam,I will abhor
+Active Indicative,Future,1st Person,Plural,odissabimus,odissebimus,odissemus,odissiemus,We will abhor
+Active Indicative,Future,2nd Person,Singular,odissabis,odissebis,odisses,odissies,You will abhor
+Active Indicative,Future,2nd Person,Plural,odissabitis,odissebitis,odissetis,odissietis,You (pl.) will abhor
+Active Indicative,Future,3rd Person,Singular,odissabit,odissebit,odisset,odissiet,He/she/it will abhor
+Active Indicative,Future,3rd Person,Plural,odissabunt,odissebunt,odissent,odissient,They will abhor
+Active Indicative,Perfect,1st Person,Singular,odissavi,odissui,odissi,odissi,I have abhored
+Active Indicative,Perfect,1st Person,Plural,odissavimus,odissuimus,odissimus,odissimus,We have abhored
+Active Indicative,Perfect,2nd Person,Singular,odissavisti,odissuisti,odissisti,odissisti,You have abhored
+Active Indicative,Perfect,2nd Person,Plural,odissavistis,odissuistis,odissistis,odissistis,You (pl.) have abhored
+Active Indicative,Perfect,3rd Person,Singular,odissavit,odissuit,odissit,odissit,He/she/it has abhored
+Active Indicative,Perfect,3rd Person,Plural,odissaverunt,odissuerunt,odisserunt,odisserunt,They have abhored
+Active Indicative,Pluperfect,1st Person,Singular,odissaveram,odissueram,odisseram,odisseram,I had abhored
+Active Indicative,Pluperfect,1st Person,Plural,odissaveramus,odissueramus,odisseramus,odisseramus,We had abhored
+Active Indicative,Pluperfect,2nd Person,Singular,odissaveras,odissueras,odisseras,odisseras,You had abhored
+Active Indicative,Pluperfect,2nd Person,Plural,odissaveratis,odissueratis,odisseratis,odisseratis,You (pl.) had abhored
+Active Indicative,Pluperfect,3rd Person,Singular,odissaverat,odissuerat,odisserat,odisserat,He/she/it had abhored
+Active Indicative,Pluperfect,3rd Person,Plural,odissaverant,odissuerant,odisserant,odisserant,They had abhored
+Active Indicative,Future Perfect,1st Person,Singular,odissavero,odissueero,odissero,odissiero,I will have abhored
+Active Indicative,Future Perfect,1st Person,Plural,odissaverimus,odissuerimus,odisserimus,odissierimus,We will have abhored
+Active Indicative,Future Perfect,2nd Person,Singular,odissaveris,odissueris,odisseris,odissieris,You will have abhored
+Active Indicative,Future Perfect,2nd Person,Plural,odissaveritis,odissueritis,odisseritis,odissieritis,You (pl.) will have abhored
+Active Indicative,Future Perfect,3rd Person,Singular,odissaverit,odissuerit,odisserit,odissierit,He/she/it will have abhored
+Active Indicative,Future Perfect,3rd Person,Plural,odissaverint,odissuerint,odisserint,odissierint,They will have abhored
+Passive Indicative,Present,1st Person,Singular,odissor,odisseor,odissor,odissior,I am being abhored
+Passive Indicative,Present,1st Person,Plural,odissamur,odissemur,odissimur,odissimur,We are being abhored
+Passive Indicative,Present,2nd Person,Singular,odissaris,odisseris,odissiris,odissiris,You are being abhored
+Passive Indicative,Present,2nd Person,Plural,odissamini,odissemini,odissimini,odissimini,You (pl.) are being abhored
+Passive Indicative,Present,3rd Person,Singular,odissatur,odissetur,odissitur,odissitur,He/she/it is being abhored
+Passive Indicative,Present,3rd Person,Plural,odissantur,odissentur,odissiuntur,odissiuntur,They are being abhored
+Passive Indicative,Imperfect,1st Person,Singular,odissabar,odissebar,odissebar,odissiebar,I was abhored
+Passive Indicative,Imperfect,1st Person,Plural,odissabamur,odissebamur,odissebamur,odissiebamur,We were abhored
+Passive Indicative,Imperfect,2nd Person,Singular,odissabaris,odissebaris,odissebaris,odissiebaris,You were abhored
+Passive Indicative,Imperfect,2nd Person,Plural,odissabamini,odissebamini,odissebamini,odissiebamini,You (pl.) were abhored
+Passive Indicative,Imperfect,3rd Person,Singular,odissabatur,odissebatur,odissebatur,odissiebatur,He/she/it was abhored
+Passive Indicative,Imperfect,3rd Person,Plural,odissabantur,odissebantur,odissebantur,odissiebantur,They were abhored
+Passive Indicative,Future,1st Person,Singular,odissabor,odissebor,odissar,odissiar,I will be abhored
+Passive Indicative,Future,1st Person,Plural,odissabimur,odissebimur,odissemur,odissiemur,We will be abhored
+Passive Indicative,Future,2nd Person,Singular,odissaberis,odisseberis,odisseris,odissieris,You will be abhored
+Passive Indicative,Future,2nd Person,Plural,odissabimini,odissebimini,odissemini,odissiemini,You (pl.) will be abhored
+Passive Indicative,Future,3rd Person,Singular,odissabitur,odissebitur,odissetur,odissietur,He/she/it will be abhored
+Passive Indicative,Future,3rd Person,Plural,odissabuntur,odissebuntur,odissentur,odissientur,They will be abhored
+Passive Indicative,Perfect,1st Person,Singular,odissatus sum,odissetus sum,odissus sum,odissus sum,I have been abhored
+Passive Indicative,Perfect,1st Person,Plural,odissati sumus,odisseti sumus,odissi sumus,odissi sumus,We have been abhored
+Passive Indicative,Perfect,2nd Person,Singular,odissatus es,odissetus es,odissus es,odissus es,You have been abhored
+Passive Indicative,Perfect,2nd Person,Plural,odissati estis,odisseti estis,odissi estis,odissi estis,You (pl.) have been abhored
+Passive Indicative,Perfect,3rd Person,Singular,odissatus est,odissetus est,odissus est,odissus est,He/she/it has been abhored
+Passive Indicative,Perfect,3rd Person,Plural,odissati sunt,odisseti sunt,odissi sunt,odissi sunt,They have been abhored
+Passive Indicative,Pluperfect,1st Person,Singular,odissatus eram,odissetus eram,odissus eram,odissus eram,I had been abhored
+Passive Indicative,Pluperfect,1st Person,Plural,odissati eramus,odisseti eramus,odissi eramus,odissi eramus,We had been abhored
+Passive Indicative,Pluperfect,2nd Person,Singular,odissatus eras,odissetus eras,odissus eras,odissus eras,You had been abhored
+Passive Indicative,Pluperfect,2nd Person,Plural,odissati eratis,odisseti eratis,odissi eratis,odissi eratis,You (pl.) had been abhored
+Passive Indicative,Pluperfect,3rd Person,Singular,odissatus erat,odissetus erat,odissus erat,odissus erat,He/she/it had been abhored
+Passive Indicative,Pluperfect,3rd Person,Plural,odissati erant,odisseti erant,odissi erant,odissi erant,They had been abhored
+Passive Indicative,Future Perfect,1st Person,Singular,odissatus ero,odissetus ero,odissus ero,odissus ero,I will have been abhored
+Passive Indicative,Future Perfect,1st Person,Plural,odissati erimus,odisseti erimus,odissi erimus,odissi erimus,We will have been abhored
+Passive Indicative,Future Perfect,2nd Person,Singular,odissatus eris,odissetus eris,odissus eris,odissus eris,You will have been abhored
+Passive Indicative,Future Perfect,2nd Person,Plural,odissati eritis,odisseti eritis,odissi eritis,odissi eritis,You (pl.) will have been abhored
+Passive Indicative,Future Perfect,3rd Person,Singular,odissatus erit,odissetus erit,odissus erit,odissus erit,He/she/it will have been abhored
+Passive Indicative,Future Perfect,3rd Person,Plural,odissati erunt,odisseti erunt,odissi erunt,odissi erunt,They will have been abhored
+Active Subjunctive,Present,1st Person,Singular,odissem,odissem,odissam,odissam,I may abhor
+Active Subjunctive,Present,1st Person,Plural,odissemus,odissemus,odissamus,odissamus,We may abhor
+Active Subjunctive,Present,2nd Person,Singular,odisses,odisses,odissas,odissas,You may abhor
+Active Subjunctive,Present,2nd Person,Plural,odissetis,odissetis,odissatis,odissatis,You (pl.) may abhor
+Active Subjunctive,Present,3rd Person,Singular,odisset,odisset,odissat,odissat,He/she/it may abhor
+Active Subjunctive,Present,3rd Person,Plural,odissent,odissent,odissant,odissant,They may abhor
+Active Subjunctive,Imperfect,1st Person,Singular,odissarem,odisserem,odisserem,odissirem,I should abhor
+Active Subjunctive,Imperfect,1st Person,Plural,odissaremus,odisseremus,odisseremus,odissiremus,We should abhor
+Active Subjunctive,Imperfect,2nd Person,Singular,odissares,odisseres,odisseres,odissires,You should abhor
+Active Subjunctive,Imperfect,2nd Person,Plural,odissaretis,odisseretis,odisseretis,odissiretis,You (pl.) should abhor
+Active Subjunctive,Imperfect,3rd Person,Singular,odissaret,odisseret,odisseret,odissiret,He/she/it should abhor
+Active Subjunctive,Imperfect,3rd Person,Plural,odissarent,odisserent,odisserent,odissirent,They should abhor
+Active Subjunctive,Perfect,1st Person,Singular,odisserim,odissuerim,odisserim,odissierim,I may have abhored
+Active Subjunctive,Perfect,1st Person,Plural,odisserimus,odissuerimus,odisserimus,odissierimus,We may have abhored
+Active Subjunctive,Perfect,2nd Person,Singular,odisseris,odissueris,odisseris,odissieris,You may have abhored
+Active Subjunctive,Perfect,2nd Person,Plural,odisseritis,odissueritis,odisseritis,odissieritis,You (pl.) may have abhored
+Active Subjunctive,Perfect,3rd Person,Singular,odisserit,odissuerit,odisserit,odissierit,He/she/it may have abhored
+Active Subjunctive,Perfect,3rd Person,Plural,odisserint,odissuerint,odisserint,odissierint,They may have abhored
+Active Subjunctive,Pluperfect,1st Person,Singular,odississem,odissuissem,odississem,odississem,I should have abhored
+Active Subjunctive,Pluperfect,1st Person,Plural,odississemus,odissuissemus,odississemus,odississemus,We should have abhored
+Active Subjunctive,Pluperfect,2nd Person,Singular,odississes,odissuisses,odississes,odississes,You would have abhored
+Active Subjunctive,Pluperfect,2nd Person,Plural,odississetis,odissuissetis,odississetis,odississetis,You (pl.) would have abhored
+Active Subjunctive,Pluperfect,3rd Person,Singular,odississet,odissuisset,odississet,odississet,He/she/it would have abhored
+Active Subjunctive,Pluperfect,3rd Person,Plural,odississent,odissuissent,odississent,odississent,They would have abhored
+Passive Subjunctive,Present,1st Person,Singular,odisser,odisser,odissar,odissar,I may be abhored
+Passive Subjunctive,Present,1st Person,Plural,odissemur,odissemur,odissamur,odissamur,We may be abhored
+Passive Subjunctive,Present,2nd Person,Singular,odisseris,odisseris,odissaris,odissaris,You may be abhored
+Passive Subjunctive,Present,2nd Person,Plural,odissemini,odissemini,odissamini,odissamini,You (pl.) may be abhored
+Passive Subjunctive,Present,3rd Person,Singular,odissetur,odissetur,odissatur,odissatur,He/she/it may be abhored
+Passive Subjunctive,Present,3rd Person,Plural,odissentur,odissentur,odissantur,odissantur,They may be abhored
+Passive Subjunctive,Imperfect,1st Person,Singular,odissarer,odisserer,odisserer,odissirer,I should be abhored
+Passive Subjunctive,Imperfect,1st Person,Plural,odissaremur,odisseremur,odisseremur,odissiremur,We should be abhored
+Passive Subjunctive,Imperfect,2nd Person,Singular,odissareris,odissereris,odissereris,odissireris,You would be abhored
+Passive Subjunctive,Imperfect,2nd Person,Plural,odissaremini,odisseremini,odisseremini,odissiremini,You (pl.) would be abhored
+Passive Subjunctive,Imperfect,3rd Person,Singular,odissaretur,odisseretur,odisseretur,odissiretur,He/she/it would be abhored
+Passive Subjunctive,Imperfect,3rd Person,Plural,odissarentur,odisserentur,odisserentur,odissirentur,They would be abhored
+Passive Subjunctive,Perfect,1st Person,Singular,odissatus sim,odissetus sim,odissus sim,odissus sim,I may have been abhored
+Passive Subjunctive,Perfect,1st Person,Plural,odissati simus,odisseti simus,odissi simus,odissi simus,We may have been abhored
+Passive Subjunctive,Perfect,2nd Person,Singular,odissatus sis,odissetus sis,odissus sis,odissus sis,You may have been abhored
+Passive Subjunctive,Perfect,2nd Person,Plural,odissati sitis,odisseti sitis,odissi sitis,odissi sitis,You (pl.) may have been abhored
+Passive Subjunctive,Perfect,3rd Person,Singular,odissatus sit,odissetus sit,odissus sit,odissus sit,He/she/it may have been abhored
+Passive Subjunctive,Perfect,3rd Person,Plural,odissati sint,odisseti sint,odissi sint,odissi sint,They may have been abhored
+Passive Subjunctive,Pluperfect,1st Person,Singular,odissatus essem,odissetus essem,odissus essem,odissus essem,I should have been abhored
+Passive Subjunctive,Pluperfect,1st Person,Plural,odissati essemus,odisseti essemus,odissi essemus,odissi essemus,We should have been abhored
+Passive Subjunctive,Pluperfect,2nd Person,Singular,odissatus esses,odissetus esses,odissus esses,odissus esses,You would have been abhored
+Passive Subjunctive,Pluperfect,2nd Person,Plural,odissati essetis,odisseti essetis,odissi essetis,odissi essetis,You (pl.) would have been abhored
+Passive Subjunctive,Pluperfect,3rd Person,Singular,odissatus esset,odissetus esset,odissus esset,odissus esset,He/she/it would have been abhored
+Passive Subjunctive,Pluperfect,3rd Person,Plural,odissati essent,odisseti essent,odissi essent,odissi essent,They would have been abhored

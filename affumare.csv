@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,affumo,affumeo,affumo,affumio,I smoke
+Active Indicative,Present,1st Person,Plural,affumamus,affumemus,affumimus,affumimus,We smoke
+Active Indicative,Present,2nd Person,Singular,affumas,affumes,affumis,affumis,You smoke
+Active Indicative,Present,2nd Person,Plural,affumatis,affumetis,affumitis,affumitis,You (pl.) smoke
+Active Indicative,Present,3rd Person,Singular,affumat,affumet,affumit,affumit,He/she/it smoke
+Active Indicative,Present,3rd Person,Plural,affumant,affument,affumiunt,affumiunt,They smoke
+Active Indicative,Imperfect,1st Person,Singular,affumabam,affumebam,affumebam,affumiebam,I was smokeing
+Active Indicative,Imperfect,1st Person,Plural,affumabamus,affumebamus,affumebamus,affumiebamus,We were smokeing
+Active Indicative,Imperfect,2nd Person,Singular,affumabas,affumebas,affumebas,affumiebas,You were smokeing
+Active Indicative,Imperfect,2nd Person,Plural,affumabatis,affumebatis,affumebatis,affumiebatis,You (pl.) were smokeing
+Active Indicative,Imperfect,3rd Person,Singular,affumabat,affumebat,affumebat,affumiebat,He/she/it was smokeing
+Active Indicative,Imperfect,3rd Person,Plural,affumabant,affumebant,affumebant,affumiebant,They were smokeing
+Active Indicative,Future,1st Person,Singular,affumabo,affumebo,affumam,affumiam,I will smoke
+Active Indicative,Future,1st Person,Plural,affumabimus,affumebimus,affumemus,affumiemus,We will smoke
+Active Indicative,Future,2nd Person,Singular,affumabis,affumebis,affumes,affumies,You will smoke
+Active Indicative,Future,2nd Person,Plural,affumabitis,affumebitis,affumetis,affumietis,You (pl.) will smoke
+Active Indicative,Future,3rd Person,Singular,affumabit,affumebit,affumet,affumiet,He/she/it will smoke
+Active Indicative,Future,3rd Person,Plural,affumabunt,affumebunt,affument,affumient,They will smoke
+Active Indicative,Perfect,1st Person,Singular,affumavi,affumui,affumi,affumi,I have smokeed
+Active Indicative,Perfect,1st Person,Plural,affumavimus,affumuimus,affumimus,affumimus,We have smokeed
+Active Indicative,Perfect,2nd Person,Singular,affumavisti,affumuisti,affumisti,affumisti,You have smokeed
+Active Indicative,Perfect,2nd Person,Plural,affumavistis,affumuistis,affumistis,affumistis,You (pl.) have smokeed
+Active Indicative,Perfect,3rd Person,Singular,affumavit,affumuit,affumit,affumit,He/she/it has smokeed
+Active Indicative,Perfect,3rd Person,Plural,affumaverunt,affumuerunt,affumerunt,affumerunt,They have smokeed
+Active Indicative,Pluperfect,1st Person,Singular,affumaveram,affumueram,affumeram,affumeram,I had smokeed
+Active Indicative,Pluperfect,1st Person,Plural,affumaveramus,affumueramus,affumeramus,affumeramus,We had smokeed
+Active Indicative,Pluperfect,2nd Person,Singular,affumaveras,affumueras,affumeras,affumeras,You had smokeed
+Active Indicative,Pluperfect,2nd Person,Plural,affumaveratis,affumueratis,affumeratis,affumeratis,You (pl.) had smokeed
+Active Indicative,Pluperfect,3rd Person,Singular,affumaverat,affumuerat,affumerat,affumerat,He/she/it had smokeed
+Active Indicative,Pluperfect,3rd Person,Plural,affumaverant,affumuerant,affumerant,affumerant,They had smokeed
+Active Indicative,Future Perfect,1st Person,Singular,affumavero,affumueero,affumero,affumiero,I will have smokeed
+Active Indicative,Future Perfect,1st Person,Plural,affumaverimus,affumuerimus,affumerimus,affumierimus,We will have smokeed
+Active Indicative,Future Perfect,2nd Person,Singular,affumaveris,affumueris,affumeris,affumieris,You will have smokeed
+Active Indicative,Future Perfect,2nd Person,Plural,affumaveritis,affumueritis,affumeritis,affumieritis,You (pl.) will have smokeed
+Active Indicative,Future Perfect,3rd Person,Singular,affumaverit,affumuerit,affumerit,affumierit,He/she/it will have smokeed
+Active Indicative,Future Perfect,3rd Person,Plural,affumaverint,affumuerint,affumerint,affumierint,They will have smokeed
+Passive Indicative,Present,1st Person,Singular,affumor,affumeor,affumor,affumior,I am being smokeed
+Passive Indicative,Present,1st Person,Plural,affumamur,affumemur,affumimur,affumimur,We are being smokeed
+Passive Indicative,Present,2nd Person,Singular,affumaris,affumeris,affumiris,affumiris,You are being smokeed
+Passive Indicative,Present,2nd Person,Plural,affumamini,affumemini,affumimini,affumimini,You (pl.) are being smokeed
+Passive Indicative,Present,3rd Person,Singular,affumatur,affumetur,affumitur,affumitur,He/she/it is being smokeed
+Passive Indicative,Present,3rd Person,Plural,affumantur,affumentur,affumiuntur,affumiuntur,They are being smokeed
+Passive Indicative,Imperfect,1st Person,Singular,affumabar,affumebar,affumebar,affumiebar,I was smokeed
+Passive Indicative,Imperfect,1st Person,Plural,affumabamur,affumebamur,affumebamur,affumiebamur,We were smokeed
+Passive Indicative,Imperfect,2nd Person,Singular,affumabaris,affumebaris,affumebaris,affumiebaris,You were smokeed
+Passive Indicative,Imperfect,2nd Person,Plural,affumabamini,affumebamini,affumebamini,affumiebamini,You (pl.) were smokeed
+Passive Indicative,Imperfect,3rd Person,Singular,affumabatur,affumebatur,affumebatur,affumiebatur,He/she/it was smokeed
+Passive Indicative,Imperfect,3rd Person,Plural,affumabantur,affumebantur,affumebantur,affumiebantur,They were smokeed
+Passive Indicative,Future,1st Person,Singular,affumabor,affumebor,affumar,affumiar,I will be smokeed
+Passive Indicative,Future,1st Person,Plural,affumabimur,affumebimur,affumemur,affumiemur,We will be smokeed
+Passive Indicative,Future,2nd Person,Singular,affumaberis,affumeberis,affumeris,affumieris,You will be smokeed
+Passive Indicative,Future,2nd Person,Plural,affumabimini,affumebimini,affumemini,affumiemini,You (pl.) will be smokeed
+Passive Indicative,Future,3rd Person,Singular,affumabitur,affumebitur,affumetur,affumietur,He/she/it will be smokeed
+Passive Indicative,Future,3rd Person,Plural,affumabuntur,affumebuntur,affumentur,affumientur,They will be smokeed
+Passive Indicative,Perfect,1st Person,Singular,affumatus sum,affumetus sum,affumus sum,affumus sum,I have been smokeed
+Passive Indicative,Perfect,1st Person,Plural,affumati sumus,affumeti sumus,affumi sumus,affumi sumus,We have been smokeed
+Passive Indicative,Perfect,2nd Person,Singular,affumatus es,affumetus es,affumus es,affumus es,You have been smokeed
+Passive Indicative,Perfect,2nd Person,Plural,affumati estis,affumeti estis,affumi estis,affumi estis,You (pl.) have been smokeed
+Passive Indicative,Perfect,3rd Person,Singular,affumatus est,affumetus est,affumus est,affumus est,He/she/it has been smokeed
+Passive Indicative,Perfect,3rd Person,Plural,affumati sunt,affumeti sunt,affumi sunt,affumi sunt,They have been smokeed
+Passive Indicative,Pluperfect,1st Person,Singular,affumatus eram,affumetus eram,affumus eram,affumus eram,I had been smokeed
+Passive Indicative,Pluperfect,1st Person,Plural,affumati eramus,affumeti eramus,affumi eramus,affumi eramus,We had been smokeed
+Passive Indicative,Pluperfect,2nd Person,Singular,affumatus eras,affumetus eras,affumus eras,affumus eras,You had been smokeed
+Passive Indicative,Pluperfect,2nd Person,Plural,affumati eratis,affumeti eratis,affumi eratis,affumi eratis,You (pl.) had been smokeed
+Passive Indicative,Pluperfect,3rd Person,Singular,affumatus erat,affumetus erat,affumus erat,affumus erat,He/she/it had been smokeed
+Passive Indicative,Pluperfect,3rd Person,Plural,affumati erant,affumeti erant,affumi erant,affumi erant,They had been smokeed
+Passive Indicative,Future Perfect,1st Person,Singular,affumatus ero,affumetus ero,affumus ero,affumus ero,I will have been smokeed
+Passive Indicative,Future Perfect,1st Person,Plural,affumati erimus,affumeti erimus,affumi erimus,affumi erimus,We will have been smokeed
+Passive Indicative,Future Perfect,2nd Person,Singular,affumatus eris,affumetus eris,affumus eris,affumus eris,You will have been smokeed
+Passive Indicative,Future Perfect,2nd Person,Plural,affumati eritis,affumeti eritis,affumi eritis,affumi eritis,You (pl.) will have been smokeed
+Passive Indicative,Future Perfect,3rd Person,Singular,affumatus erit,affumetus erit,affumus erit,affumus erit,He/she/it will have been smokeed
+Passive Indicative,Future Perfect,3rd Person,Plural,affumati erunt,affumeti erunt,affumi erunt,affumi erunt,They will have been smokeed
+Active Subjunctive,Present,1st Person,Singular,affumem,affumem,affumam,affumam,I may smoke
+Active Subjunctive,Present,1st Person,Plural,affumemus,affumemus,affumamus,affumamus,We may smoke
+Active Subjunctive,Present,2nd Person,Singular,affumes,affumes,affumas,affumas,You may smoke
+Active Subjunctive,Present,2nd Person,Plural,affumetis,affumetis,affumatis,affumatis,You (pl.) may smoke
+Active Subjunctive,Present,3rd Person,Singular,affumet,affumet,affumat,affumat,He/she/it may smoke
+Active Subjunctive,Present,3rd Person,Plural,affument,affument,affumant,affumant,They may smoke
+Active Subjunctive,Imperfect,1st Person,Singular,affumarem,affumerem,affumerem,affumirem,I should smoke
+Active Subjunctive,Imperfect,1st Person,Plural,affumaremus,affumeremus,affumeremus,affumiremus,We should smoke
+Active Subjunctive,Imperfect,2nd Person,Singular,affumares,affumeres,affumeres,affumires,You should smoke
+Active Subjunctive,Imperfect,2nd Person,Plural,affumaretis,affumeretis,affumeretis,affumiretis,You (pl.) should smoke
+Active Subjunctive,Imperfect,3rd Person,Singular,affumaret,affumeret,affumeret,affumiret,He/she/it should smoke
+Active Subjunctive,Imperfect,3rd Person,Plural,affumarent,affumerent,affumerent,affumirent,They should smoke
+Active Subjunctive,Perfect,1st Person,Singular,affumerim,affumuerim,affumerim,affumierim,I may have smokeed
+Active Subjunctive,Perfect,1st Person,Plural,affumerimus,affumuerimus,affumerimus,affumierimus,We may have smokeed
+Active Subjunctive,Perfect,2nd Person,Singular,affumeris,affumueris,affumeris,affumieris,You may have smokeed
+Active Subjunctive,Perfect,2nd Person,Plural,affumeritis,affumueritis,affumeritis,affumieritis,You (pl.) may have smokeed
+Active Subjunctive,Perfect,3rd Person,Singular,affumerit,affumuerit,affumerit,affumierit,He/she/it may have smokeed
+Active Subjunctive,Perfect,3rd Person,Plural,affumerint,affumuerint,affumerint,affumierint,They may have smokeed
+Active Subjunctive,Pluperfect,1st Person,Singular,affumissem,affumuissem,affumissem,affumissem,I should have smokeed
+Active Subjunctive,Pluperfect,1st Person,Plural,affumissemus,affumuissemus,affumissemus,affumissemus,We should have smokeed
+Active Subjunctive,Pluperfect,2nd Person,Singular,affumisses,affumuisses,affumisses,affumisses,You would have smokeed
+Active Subjunctive,Pluperfect,2nd Person,Plural,affumissetis,affumuissetis,affumissetis,affumissetis,You (pl.) would have smokeed
+Active Subjunctive,Pluperfect,3rd Person,Singular,affumisset,affumuisset,affumisset,affumisset,He/she/it would have smokeed
+Active Subjunctive,Pluperfect,3rd Person,Plural,affumissent,affumuissent,affumissent,affumissent,They would have smokeed
+Passive Subjunctive,Present,1st Person,Singular,affumer,affumer,affumar,affumar,I may be smokeed
+Passive Subjunctive,Present,1st Person,Plural,affumemur,affumemur,affumamur,affumamur,We may be smokeed
+Passive Subjunctive,Present,2nd Person,Singular,affumeris,affumeris,affumaris,affumaris,You may be smokeed
+Passive Subjunctive,Present,2nd Person,Plural,affumemini,affumemini,affumamini,affumamini,You (pl.) may be smokeed
+Passive Subjunctive,Present,3rd Person,Singular,affumetur,affumetur,affumatur,affumatur,He/she/it may be smokeed
+Passive Subjunctive,Present,3rd Person,Plural,affumentur,affumentur,affumantur,affumantur,They may be smokeed
+Passive Subjunctive,Imperfect,1st Person,Singular,affumarer,affumerer,affumerer,affumirer,I should be smokeed
+Passive Subjunctive,Imperfect,1st Person,Plural,affumaremur,affumeremur,affumeremur,affumiremur,We should be smokeed
+Passive Subjunctive,Imperfect,2nd Person,Singular,affumareris,affumereris,affumereris,affumireris,You would be smokeed
+Passive Subjunctive,Imperfect,2nd Person,Plural,affumaremini,affumeremini,affumeremini,affumiremini,You (pl.) would be smokeed
+Passive Subjunctive,Imperfect,3rd Person,Singular,affumaretur,affumeretur,affumeretur,affumiretur,He/she/it would be smokeed
+Passive Subjunctive,Imperfect,3rd Person,Plural,affumarentur,affumerentur,affumerentur,affumirentur,They would be smokeed
+Passive Subjunctive,Perfect,1st Person,Singular,affumatus sim,affumetus sim,affumus sim,affumus sim,I may have been smokeed
+Passive Subjunctive,Perfect,1st Person,Plural,affumati simus,affumeti simus,affumi simus,affumi simus,We may have been smokeed
+Passive Subjunctive,Perfect,2nd Person,Singular,affumatus sis,affumetus sis,affumus sis,affumus sis,You may have been smokeed
+Passive Subjunctive,Perfect,2nd Person,Plural,affumati sitis,affumeti sitis,affumi sitis,affumi sitis,You (pl.) may have been smokeed
+Passive Subjunctive,Perfect,3rd Person,Singular,affumatus sit,affumetus sit,affumus sit,affumus sit,He/she/it may have been smokeed
+Passive Subjunctive,Perfect,3rd Person,Plural,affumati sint,affumeti sint,affumi sint,affumi sint,They may have been smokeed
+Passive Subjunctive,Pluperfect,1st Person,Singular,affumatus essem,affumetus essem,affumus essem,affumus essem,I should have been smokeed
+Passive Subjunctive,Pluperfect,1st Person,Plural,affumati essemus,affumeti essemus,affumi essemus,affumi essemus,We should have been smokeed
+Passive Subjunctive,Pluperfect,2nd Person,Singular,affumatus esses,affumetus esses,affumus esses,affumus esses,You would have been smokeed
+Passive Subjunctive,Pluperfect,2nd Person,Plural,affumati essetis,affumeti essetis,affumi essetis,affumi essetis,You (pl.) would have been smokeed
+Passive Subjunctive,Pluperfect,3rd Person,Singular,affumatus esset,affumetus esset,affumus esset,affumus esset,He/she/it would have been smokeed
+Passive Subjunctive,Pluperfect,3rd Person,Plural,affumati essent,affumeti essent,affumi essent,affumi essent,They would have been smokeed

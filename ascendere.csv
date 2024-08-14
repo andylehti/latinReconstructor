@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+Active Indicative,Present,1st Person,Singular,ascendo,ascendeo,ascendo,ascendio,I rise up
+Active Indicative,Present,1st Person,Plural,ascendamus,ascendemus,ascendimus,ascendimus,We rise up
+Active Indicative,Present,2nd Person,Singular,ascendas,ascendes,ascendis,ascendis,You rise up
+Active Indicative,Present,2nd Person,Plural,ascendatis,ascendetis,ascenditis,ascenditis,You (pl.) rise up
+Active Indicative,Present,3rd Person,Singular,ascendat,ascendet,ascendit,ascendit,He/she/it rise up
+Active Indicative,Present,3rd Person,Plural,ascendant,ascendent,ascendiunt,ascendiunt,They rise up
+Active Indicative,Imperfect,1st Person,Singular,ascendabam,ascendebam,ascendebam,ascendiebam,I was rise uping
+Active Indicative,Imperfect,1st Person,Plural,ascendabamus,ascendebamus,ascendebamus,ascendiebamus,We were rise uping
+Active Indicative,Imperfect,2nd Person,Singular,ascendabas,ascendebas,ascendebas,ascendiebas,You were rise uping
+Active Indicative,Imperfect,2nd Person,Plural,ascendabatis,ascendebatis,ascendebatis,ascendiebatis,You (pl.) were rise uping
+Active Indicative,Imperfect,3rd Person,Singular,ascendabat,ascendebat,ascendebat,ascendiebat,He/she/it was rise uping
+Active Indicative,Imperfect,3rd Person,Plural,ascendabant,ascendebant,ascendebant,ascendiebant,They were rise uping
+Active Indicative,Future,1st Person,Singular,ascendabo,ascendebo,ascendam,ascendiam,I will rise up
+Active Indicative,Future,1st Person,Plural,ascendabimus,ascendebimus,ascendemus,ascendiemus,We will rise up
+Active Indicative,Future,2nd Person,Singular,ascendabis,ascendebis,ascendes,ascendies,You will rise up
+Active Indicative,Future,2nd Person,Plural,ascendabitis,ascendebitis,ascendetis,ascendietis,You (pl.) will rise up
+Active Indicative,Future,3rd Person,Singular,ascendabit,ascendebit,ascendet,ascendiet,He/she/it will rise up
+Active Indicative,Future,3rd Person,Plural,ascendabunt,ascendebunt,ascendent,ascendient,They will rise up
+Active Indicative,Perfect,1st Person,Singular,ascendavi,ascendui,ascendi,ascendi,I have rise uped
+Active Indicative,Perfect,1st Person,Plural,ascendavimus,ascenduimus,ascendimus,ascendimus,We have rise uped
+Active Indicative,Perfect,2nd Person,Singular,ascendavisti,ascenduisti,ascendisti,ascendisti,You have rise uped
+Active Indicative,Perfect,2nd Person,Plural,ascendavistis,ascenduistis,ascendistis,ascendistis,You (pl.) have rise uped
+Active Indicative,Perfect,3rd Person,Singular,ascendavit,ascenduit,ascendit,ascendit,He/she/it has rise uped
+Active Indicative,Perfect,3rd Person,Plural,ascendaverunt,ascenduerunt,ascenderunt,ascenderunt,They have rise uped
+Active Indicative,Pluperfect,1st Person,Singular,ascendaveram,ascendueram,ascenderam,ascenderam,I had rise uped
+Active Indicative,Pluperfect,1st Person,Plural,ascendaveramus,ascendueramus,ascenderamus,ascenderamus,We had rise uped
+Active Indicative,Pluperfect,2nd Person,Singular,ascendaveras,ascendueras,ascenderas,ascenderas,You had rise uped
+Active Indicative,Pluperfect,2nd Person,Plural,ascendaveratis,ascendueratis,ascenderatis,ascenderatis,You (pl.) had rise uped
+Active Indicative,Pluperfect,3rd Person,Singular,ascendaverat,ascenduerat,ascenderat,ascenderat,He/she/it had rise uped
+Active Indicative,Pluperfect,3rd Person,Plural,ascendaverant,ascenduerant,ascenderant,ascenderant,They had rise uped
+Active Indicative,Future Perfect,1st Person,Singular,ascendavero,ascendueero,ascendero,ascendiero,I will have rise uped
+Active Indicative,Future Perfect,1st Person,Plural,ascendaverimus,ascenduerimus,ascenderimus,ascendierimus,We will have rise uped
+Active Indicative,Future Perfect,2nd Person,Singular,ascendaveris,ascendueris,ascenderis,ascendieris,You will have rise uped
+Active Indicative,Future Perfect,2nd Person,Plural,ascendaveritis,ascendueritis,ascenderitis,ascendieritis,You (pl.) will have rise uped
+Active Indicative,Future Perfect,3rd Person,Singular,ascendaverit,ascenduerit,ascenderit,ascendierit,He/she/it will have rise uped
+Active Indicative,Future Perfect,3rd Person,Plural,ascendaverint,ascenduerint,ascenderint,ascendierint,They will have rise uped
+Passive Indicative,Present,1st Person,Singular,ascendor,ascendeor,ascendor,ascendior,I am being rise uped
+Passive Indicative,Present,1st Person,Plural,ascendamur,ascendemur,ascendimur,ascendimur,We are being rise uped
+Passive Indicative,Present,2nd Person,Singular,ascendaris,ascenderis,ascendiris,ascendiris,You are being rise uped
+Passive Indicative,Present,2nd Person,Plural,ascendamini,ascendemini,ascendimini,ascendimini,You (pl.) are being rise uped
+Passive Indicative,Present,3rd Person,Singular,ascendatur,ascendetur,ascenditur,ascenditur,He/she/it is being rise uped
+Passive Indicative,Present,3rd Person,Plural,ascendantur,ascendentur,ascendiuntur,ascendiuntur,They are being rise uped
+Passive Indicative,Imperfect,1st Person,Singular,ascendabar,ascendebar,ascendebar,ascendiebar,I was rise uped
+Passive Indicative,Imperfect,1st Person,Plural,ascendabamur,ascendebamur,ascendebamur,ascendiebamur,We were rise uped
+Passive Indicative,Imperfect,2nd Person,Singular,ascendabaris,ascendebaris,ascendebaris,ascendiebaris,You were rise uped
+Passive Indicative,Imperfect,2nd Person,Plural,ascendabamini,ascendebamini,ascendebamini,ascendiebamini,You (pl.) were rise uped
+Passive Indicative,Imperfect,3rd Person,Singular,ascendabatur,ascendebatur,ascendebatur,ascendiebatur,He/she/it was rise uped
+Passive Indicative,Imperfect,3rd Person,Plural,ascendabantur,ascendebantur,ascendebantur,ascendiebantur,They were rise uped
+Passive Indicative,Future,1st Person,Singular,ascendabor,ascendebor,ascendar,ascendiar,I will be rise uped
+Passive Indicative,Future,1st Person,Plural,ascendabimur,ascendebimur,ascendemur,ascendiemur,We will be rise uped
+Passive Indicative,Future,2nd Person,Singular,ascendaberis,ascendeberis,ascenderis,ascendieris,You will be rise uped
+Passive Indicative,Future,2nd Person,Plural,ascendabimini,ascendebimini,ascendemini,ascendiemini,You (pl.) will be rise uped
+Passive Indicative,Future,3rd Person,Singular,ascendabitur,ascendebitur,ascendetur,ascendietur,He/she/it will be rise uped
+Passive Indicative,Future,3rd Person,Plural,ascendabuntur,ascendebuntur,ascendentur,ascendientur,They will be rise uped
+Passive Indicative,Perfect,1st Person,Singular,ascendatus sum,ascendetus sum,ascendus sum,ascendus sum,I have been rise uped
+Passive Indicative,Perfect,1st Person,Plural,ascendati sumus,ascendeti sumus,ascendi sumus,ascendi sumus,We have been rise uped
+Passive Indicative,Perfect,2nd Person,Singular,ascendatus es,ascendetus es,ascendus es,ascendus es,You have been rise uped
+Passive Indicative,Perfect,2nd Person,Plural,ascendati estis,ascendeti estis,ascendi estis,ascendi estis,You (pl.) have been rise uped
+Passive Indicative,Perfect,3rd Person,Singular,ascendatus est,ascendetus est,ascendus est,ascendus est,He/she/it has been rise uped
+Passive Indicative,Perfect,3rd Person,Plural,ascendati sunt,ascendeti sunt,ascendi sunt,ascendi sunt,They have been rise uped
+Passive Indicative,Pluperfect,1st Person,Singular,ascendatus eram,ascendetus eram,ascendus eram,ascendus eram,I had been rise uped
+Passive Indicative,Pluperfect,1st Person,Plural,ascendati eramus,ascendeti eramus,ascendi eramus,ascendi eramus,We had been rise uped
+Passive Indicative,Pluperfect,2nd Person,Singular,ascendatus eras,ascendetus eras,ascendus eras,ascendus eras,You had been rise uped
+Passive Indicative,Pluperfect,2nd Person,Plural,ascendati eratis,ascendeti eratis,ascendi eratis,ascendi eratis,You (pl.) had been rise uped
+Passive Indicative,Pluperfect,3rd Person,Singular,ascendatus erat,ascendetus erat,ascendus erat,ascendus erat,He/she/it had been rise uped
+Passive Indicative,Pluperfect,3rd Person,Plural,ascendati erant,ascendeti erant,ascendi erant,ascendi erant,They had been rise uped
+Passive Indicative,Future Perfect,1st Person,Singular,ascendatus ero,ascendetus ero,ascendus ero,ascendus ero,I will have been rise uped
+Passive Indicative,Future Perfect,1st Person,Plural,ascendati erimus,ascendeti erimus,ascendi erimus,ascendi erimus,We will have been rise uped
+Passive Indicative,Future Perfect,2nd Person,Singular,ascendatus eris,ascendetus eris,ascendus eris,ascendus eris,You will have been rise uped
+Passive Indicative,Future Perfect,2nd Person,Plural,ascendati eritis,ascendeti eritis,ascendi eritis,ascendi eritis,You (pl.) will have been rise uped
+Passive Indicative,Future Perfect,3rd Person,Singular,ascendatus erit,ascendetus erit,ascendus erit,ascendus erit,He/she/it will have been rise uped
+Passive Indicative,Future Perfect,3rd Person,Plural,ascendati erunt,ascendeti erunt,ascendi erunt,ascendi erunt,They will have been rise uped
+Active Subjunctive,Present,1st Person,Singular,ascendem,ascendem,ascendam,ascendam,I may rise up
+Active Subjunctive,Present,1st Person,Plural,ascendemus,ascendemus,ascendamus,ascendamus,We may rise up
+Active Subjunctive,Present,2nd Person,Singular,ascendes,ascendes,ascendas,ascendas,You may rise up
+Active Subjunctive,Present,2nd Person,Plural,ascendetis,ascendetis,ascendatis,ascendatis,You (pl.) may rise up
+Active Subjunctive,Present,3rd Person,Singular,ascendet,ascendet,ascendat,ascendat,He/she/it may rise up
+Active Subjunctive,Present,3rd Person,Plural,ascendent,ascendent,ascendant,ascendant,They may rise up
+Active Subjunctive,Imperfect,1st Person,Singular,ascendarem,ascenderem,ascenderem,ascendirem,I should rise up
+Active Subjunctive,Imperfect,1st Person,Plural,ascendaremus,ascenderemus,ascenderemus,ascendiremus,We should rise up
+Active Subjunctive,Imperfect,2nd Person,Singular,ascendares,ascenderes,ascenderes,ascendires,You should rise up
+Active Subjunctive,Imperfect,2nd Person,Plural,ascendaretis,ascenderetis,ascenderetis,ascendiretis,You (pl.) should rise up
+Active Subjunctive,Imperfect,3rd Person,Singular,ascendaret,ascenderet,ascenderet,ascendiret,He/she/it should rise up
+Active Subjunctive,Imperfect,3rd Person,Plural,ascendarent,ascenderent,ascenderent,ascendirent,They should rise up
+Active Subjunctive,Perfect,1st Person,Singular,ascenderim,ascenduerim,ascenderim,ascendierim,I may have rise uped
+Active Subjunctive,Perfect,1st Person,Plural,ascenderimus,ascenduerimus,ascenderimus,ascendierimus,We may have rise uped
+Active Subjunctive,Perfect,2nd Person,Singular,ascenderis,ascendueris,ascenderis,ascendieris,You may have rise uped
+Active Subjunctive,Perfect,2nd Person,Plural,ascenderitis,ascendueritis,ascenderitis,ascendieritis,You (pl.) may have rise uped
+Active Subjunctive,Perfect,3rd Person,Singular,ascenderit,ascenduerit,ascenderit,ascendierit,He/she/it may have rise uped
+Active Subjunctive,Perfect,3rd Person,Plural,ascenderint,ascenduerint,ascenderint,ascendierint,They may have rise uped
+Active Subjunctive,Pluperfect,1st Person,Singular,ascendissem,ascenduissem,ascendissem,ascendissem,I should have rise uped
+Active Subjunctive,Pluperfect,1st Person,Plural,ascendissemus,ascenduissemus,ascendissemus,ascendissemus,We should have rise uped
+Active Subjunctive,Pluperfect,2nd Person,Singular,ascendisses,ascenduisses,ascendisses,ascendisses,You would have rise uped
+Active Subjunctive,Pluperfect,2nd Person,Plural,ascendissetis,ascenduissetis,ascendissetis,ascendissetis,You (pl.) would have rise uped
+Active Subjunctive,Pluperfect,3rd Person,Singular,ascendisset,ascenduisset,ascendisset,ascendisset,He/she/it would have rise uped
+Active Subjunctive,Pluperfect,3rd Person,Plural,ascendissent,ascenduissent,ascendissent,ascendissent,They would have rise uped
+Passive Subjunctive,Present,1st Person,Singular,ascender,ascender,ascendar,ascendar,I may be rise uped
+Passive Subjunctive,Present,1st Person,Plural,ascendemur,ascendemur,ascendamur,ascendamur,We may be rise uped
+Passive Subjunctive,Present,2nd Person,Singular,ascenderis,ascenderis,ascendaris,ascendaris,You may be rise uped
+Passive Subjunctive,Present,2nd Person,Plural,ascendemini,ascendemini,ascendamini,ascendamini,You (pl.) may be rise uped
+Passive Subjunctive,Present,3rd Person,Singular,ascendetur,ascendetur,ascendatur,ascendatur,He/she/it may be rise uped
+Passive Subjunctive,Present,3rd Person,Plural,ascendentur,ascendentur,ascendantur,ascendantur,They may be rise uped
+Passive Subjunctive,Imperfect,1st Person,Singular,ascendarer,ascenderer,ascenderer,ascendirer,I should be rise uped
+Passive Subjunctive,Imperfect,1st Person,Plural,ascendaremur,ascenderemur,ascenderemur,ascendiremur,We should be rise uped
+Passive Subjunctive,Imperfect,2nd Person,Singular,ascendareris,ascendereris,ascendereris,ascendireris,You would be rise uped
+Passive Subjunctive,Imperfect,2nd Person,Plural,ascendaremini,ascenderemini,ascenderemini,ascendiremini,You (pl.) would be rise uped
+Passive Subjunctive,Imperfect,3rd Person,Singular,ascendaretur,ascenderetur,ascenderetur,ascendiretur,He/she/it would be rise uped
+Passive Subjunctive,Imperfect,3rd Person,Plural,ascendarentur,ascenderentur,ascenderentur,ascendirentur,They would be rise uped
+Passive Subjunctive,Perfect,1st Person,Singular,ascendatus sim,ascendetus sim,ascendus sim,ascendus sim,I may have been rise uped
+Passive Subjunctive,Perfect,1st Person,Plural,ascendati simus,ascendeti simus,ascendi simus,ascendi simus,We may have been rise uped
+Passive Subjunctive,Perfect,2nd Person,Singular,ascendatus sis,ascendetus sis,ascendus sis,ascendus sis,You may have been rise uped
+Passive Subjunctive,Perfect,2nd Person,Plural,ascendati sitis,ascendeti sitis,ascendi sitis,ascendi sitis,You (pl.) may have been rise uped
+Passive Subjunctive,Perfect,3rd Person,Singular,ascendatus sit,ascendetus sit,ascendus sit,ascendus sit,He/she/it may have been rise uped
+Passive Subjunctive,Perfect,3rd Person,Plural,ascendati sint,ascendeti sint,ascendi sint,ascendi sint,They may have been rise uped
+Passive Subjunctive,Pluperfect,1st Person,Singular,ascendatus essem,ascendetus essem,ascendus essem,ascendus essem,I should have been rise uped
+Passive Subjunctive,Pluperfect,1st Person,Plural,ascendati essemus,ascendeti essemus,ascendi essemus,ascendi essemus,We should have been rise uped
+Passive Subjunctive,Pluperfect,2nd Person,Singular,ascendatus esses,ascendetus esses,ascendus esses,ascendus esses,You would have been rise uped
+Passive Subjunctive,Pluperfect,2nd Person,Plural,ascendati essetis,ascendeti essetis,ascendi essetis,ascendi essetis,You (pl.) would have been rise uped
+Passive Subjunctive,Pluperfect,3rd Person,Singular,ascendatus esset,ascendetus esset,ascendus esset,ascendus esset,He/she/it would have been rise uped
+Passive Subjunctive,Pluperfect,3rd Person,Plural,ascendati essent,ascendeti essent,ascendi essent,ascendi essent,They would have been rise uped

@@ -1,0 +1,121 @@
+Type,Tense,Person,Number,1st Conjugation Form,2nd Conjugation Form,3rd Conjugation Form,4th Conjugation Form,Example Sentence
+A,P,1,S,o,eo,o.io,io,I {Base}
+A,P,1,P,amus,emus,imus,imus,We {Base}
+A,P,2,S,as,es,is,is,You {Base}
+A,P,2,P,atis,etis,itis,itis,You (pl.) {Base}
+A,P,3,S,at,et,it,it,He/she/it {Base}
+A,P,3,P,ant,ent,iunt,iunt,They {Base}
+A,I,1,S,abam,ebam,ebam,iebam,I was {PresentParticiple}
+A,I,1,P,abamus,ebamus,ebamus,iebamus,We were {PresentParticiple}
+A,I,2,S,abas,ebas,ebas,iebas,You were {PresentParticiple}
+A,I,2,P,abatis,ebatis,ebatis,iebatis,You (pl.) were {PresentParticiple}
+A,I,3,S,abat,ebat,ebat,iebat,He/she/it was {PresentParticiple}
+A,I,3,P,abant,ebant,ebant,iebant,They were {PresentParticiple}
+A,F,1,S,abo,ebo,am,iam,I will {Base}
+A,F,1,P,abimus,ebimus,emus,iemus,We will {Base}
+A,F,2,S,abis,ebis,es,ies,You will {Base}
+A,F,2,P,abitis,ebitis,etis,ietis,You (pl.) will {Base}
+A,F,3,S,abit,ebit,et,iet,He/she/it will {Base}
+A,F,3,P,abunt,ebunt,ent,ient,They will {Base}
+A,PR,1,S,avi,ui,i,i,I have {PastParticiple}
+A,PR,1,P,avimus,uimus,imus,imus,We have {PastParticiple}
+A,PR,2,S,avisti,uisti,isti,isti,You have {PastParticiple}
+A,PR,2,P,avistis,uistis,istis,istis,You (pl.) have {PastParticiple}
+A,PR,3,S,avit,uit,it,it,He/she/it has {PastParticiple}
+A,PR,3,P,averunt,uerunt,erunt,erunt,They have {PastParticiple}
+A,PF,1,S,averam,ueram,eram,eram,I had {PastParticiple}
+A,PF,1,P,averamus,ueramus,eramus,eramus,We had {PastParticiple}
+A,PF,2,S,averas,ueras,eras,eras,You had {PastParticiple}
+A,PF,2,P,averatis,ueratis,eratis,eratis,You (pl.) had {PastParticiple}
+A,PF,3,S,averat,uerat,erat,erat,He/she/it had {PastParticiple}
+A,PF,3,P,averant,uerant,erant,erant,They had {PastParticiple}
+A,FP,1,S,avero,ueero,ero,iero,I will have {PastParticiple}
+A,FP,1,P,averimus,uerimus,erimus,ierimus,We will have {PastParticiple}
+A,FP,2,S,averis,ueris,eris,ieris,You will have {PastParticiple}
+A,FP,2,P,averitis,ueritis,eritis,ieritis,You (pl.) will have {PastParticiple}
+A,FP,3,S,averit,uerit,erit,ierit,He/she/it will have {PastParticiple}
+A,FP,3,P,averint,uerint,erint,ierint,They will have {PastParticiple}
+PI,P,1,S,or,eor,or,ior,I am being {PastParticiple}
+PI,P,1,P,amur,emur,imur,imur,We are being {PastParticiple}
+PI,P,2,S,aris,eris,iris,iris,You are being {PastParticiple}
+PI,P,2,P,amini,emini,imini,imini,You (pl.) are being {PastParticiple}
+PI,P,3,S,atur,etur,itur,itur,He/she/it is being {PastParticiple}
+PI,P,3,P,antur,entur,iuntur,iuntur,They are being {PastParticiple}
+PI,I,1,S,abar,ebar,ebar,iebar,I was {PastParticiple}
+PI,I,1,P,abamur,ebamur,ebamur,iebamur,We were {PastParticiple}
+PI,I,2,S,abaris,ebaris,ebaris,iebaris,You were {PastParticiple}
+PI,I,2,P,abamini,ebamini,ebamini,iebamini,You (pl.) were {PastParticiple}
+PI,I,3,S,abatur,ebatur,ebatur,iebatur,He/she/it was {PastParticiple}
+PI,I,3,P,abantur,ebantur,ebantur,iebantur,They were {PastParticiple}
+PI,F,1,S,abor,ebor,ar,iar,I will be {PastParticiple}
+PI,F,1,P,abimur,ebimur,emur,iemur,We will be {PastParticiple}
+PI,F,2,S,aberis,eberis,eris,ieris,You will be {PastParticiple}
+PI,F,2,P,abimini,ebimini,emini,iemini,You (pl.) will be {PastParticiple}
+PI,F,3,S,abitur,ebitur,etur,ietur,He/she/it will be {PastParticiple}
+PI,F,3,P,abuntur,ebuntur,entur,ientur,They will be {PastParticiple}
+PI,PR,1,S,atus sum,etus sum,us sum,us sum,I have been {PastParticiple}
+PI,PR,1,P,ati sumus,eti sumus,i sumus,i sumus,We have been {PastParticiple}
+PI,PR,2,S,atus es,etus es,us es,us es,You have been {PastParticiple}
+PI,PR,2,P,ati estis,eti estis,i estis,i estis,You (pl.) have been {PastParticiple}
+PI,PR,3,S,atus est,etus est,us est,us est,He/she/it has been {PastParticiple}
+PI,PR,3,P,ati sunt,eti sunt,i sunt,i sunt,They have been {PastParticiple}
+PI,PF,1,S,atus eram,etus eram,us eram,us eram,I had been {PastParticiple}
+PI,PF,1,P,ati eramus,eti eramus,i eramus,i eramus,We had been {PastParticiple}
+PI,PF,2,S,atus eras,etus eras,us eras,us eras,You had been {PastParticiple}
+PI,PF,2,P,ati eratis,eti eratis,i eratis,i eratis,You (pl.) had been {PastParticiple}
+PI,PF,3,S,atus erat,etus erat,us erat,us erat,He/she/it had been {PastParticiple}
+PI,PF,3,P,ati erant,eti erant,i erant,i erant,They had been {PastParticiple}
+PI,FP,1,S,atus ero,etus ero,us ero,us ero,I will have been {PastParticiple}
+PI,FP,1,P,ati erimus,eti erimus,i erimus,i erimus,We will have been {PastParticiple}
+PI,FP,2,S,atus eris,etus eris,us eris,us eris,You will have been {PastParticiple}
+PI,FP,2,P,ati eritis,eti eritis,i eritis,i eritis,You (pl.) will have been {PastParticiple}
+PI,FP,3,S,atus erit,etus erit,us erit,us erit,He/she/it will have been {PastParticiple}
+PI,FP,3,P,ati erunt,eti erunt,i erunt,i erunt,They will have been {PastParticiple}
+AI,P,1,S,em,em,am,am,I may {Base}
+AI,P,1,P,emus,emus,amus,amus,We may {Base}
+AI,P,2,S,es,es,as,as,You may {Base}
+AI,P,2,P,etis,etis,atis,atis,You (pl.) may {Base}
+AI,P,3,S,et,et,at,at,He/she/it may {Base}
+AI,P,3,P,ent,ent,ant,ant,They may {Base}
+AI,I,1,S,arem,erem,erem,irem,I should {Base}
+AI,I,1,P,aremus,eremus,eremus,iremus,We should {Base}
+AI,I,2,S,ares,eres,eres,ires,You should {Base}
+AI,I,2,P,aretis,eretis,eretis,iretis,You (pl.) should {Base}
+AI,I,3,S,aret,eret,eret,iret,He/she/it should {Base}
+AI,I,3,P,arent,erent,erent,irent,They should {Base}
+AI,PR,1,S,erim,uerim,erim,ierim,I may have {PastParticiple}
+AI,PR,1,P,erimus,uerimus,erimus,ierimus,We may have {PastParticiple}
+AI,PR,2,S,eris,ueris,eris,ieris,You may have {PastParticiple}
+AI,PR,2,P,eritis,ueritis,eritis,ieritis,You (pl.) may have {PastParticiple}
+AI,PR,3,S,erit,uerit,erit,ierit,He/she/it may have {PastParticiple}
+AI,PR,3,P,erint,uerint,erint,ierint,They may have {PastParticiple}
+AI,PF,1,S,issem,uissem,issem,issem,I should have {PastParticiple}
+AI,PF,1,P,issemus,uissemus,issemus,issemus,We should have {PastParticiple}
+AI,PF,2,S,isses,uisses,isses,isses,You would have {PastParticiple}
+AI,PF,2,P,issetis,uissetis,issetis,issetis,You (pl.) would have {PastParticiple}
+AI,PF,3,S,isset,uisset,isset,isset,He/she/it would have {PastParticiple}
+AI,PF,3,P,issent,uissent,issent,issent,They would have {PastParticiple}
+PS,P,1,S,er,er,ar,ar,I may be {PastParticiple}
+PS,P,1,P,emur,emur,amur,amur,We may be {PastParticiple}
+PS,P,2,S,eris,eris,aris,aris,You may be {PastParticiple}
+PS,P,2,P,emini,emini,amini,amini,You (pl.) may be {PastParticiple}
+PS,P,3,S,etur,etur,atur,atur,He/she/it may be {PastParticiple}
+PS,P,3,P,entur,entur,antur,antur,They may be {PastParticiple}
+PS,I,1,S,arer,erer,erer,irer,I should be {PastParticiple}
+PS,I,1,P,aremur,eremur,eremur,iremur,We should be {PastParticiple}
+PS,I,2,S,areris,ereris,ereris,ireris,You would be {PastParticiple}
+PS,I,2,P,aremini,eremini,eremini,iremini,You (pl.) would be {PastParticiple}
+PS,I,3,S,aretur,eretur,eretur,iretur,He/she/it would be {PastParticiple}
+PS,I,3,P,arentur,erentur,erentur,irentur,They would be {PastParticiple}
+PS,PR,1,S,atus sim,etus sim,us sim,us sim,I may have been {PastParticiple}
+PS,PR,1,P,ati simus,eti simus,i simus,i simus,We may have been {PastParticiple}
+PS,PR,2,S,atus sis,etus sis,us sis,us sis,You may have been {PastParticiple}
+PS,PR,2,P,ati sitis,eti sitis,i sitis,i sitis,You (pl.) may have been {PastParticiple}
+PS,PR,3,S,atus sit,etus sit,us sit,us sit,He/she/it may have been {PastParticiple}
+PS,PR,3,P,ati sint,eti sint,i sint,i sint,They may have been {PastParticiple}
+PS,PF,1,S,atus essem,etus essem,us essem,us essem,I should have been {PastParticiple}
+PS,PF,1,P,ati essemus,eti essemus,i essemus,i essemus,We should have been {PastParticiple}
+PS,PF,2,S,atus esses,etus esses,us esses,us esses,You would have been {PastParticiple}
+PS,PF,2,P,ati essetis,eti essetis,i essetis,i essetis,You (pl.) would have been {PastParticiple}
+PS,PF,3,S,atus esset,etus esset,us esset,us esset,He/she/it would have been {PastParticiple}
+PS,PF,3,P,ati essent,eti essent,i essent,i essent,They would have been {PastParticiple}

@@ -132,7 +132,7 @@ def mapCase(c):
     return case_map[c]
 
 def mapNumber(c):
-    return "s." if "S" in c else "pl."
+    return "s" if "S" in c else "p"
 
 col1, col2 = st.columns(2)
 
@@ -153,10 +153,9 @@ if st.button("Process"):
             case = mapCase(c)
             number = mapNumber(c)
             data.append([icon, mapDeclension(d), mapGender(d), case, fm, normalize(fm), tr, number])
-    
+
     df = pd.DataFrame(data, columns=["", "Declension", "Gender", "Case", "Form", "Normalized Form", "Translation", "Plurality"])
     st.dataframe(df.style.set_properties(**{'text-align': 'left'}))
 
-    # Export to CSV
     csv = df.to_csv(index=False)
     st.download_button(label="Download CSV", data=csv, file_name=f'{word}.csv', mime='text/csv')

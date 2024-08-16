@@ -92,14 +92,27 @@ def mapDeclension(d):
     declension_map = {
         "1 0": "1st Declension",
         "2 M": "2nd Declension",
-        "2 N": "2nd Declension n.",
+        "2 N": "2nd Declension",
         "3 MF": "3rd Declension",
-        "3 N": "3rd Declension n.",
+        "3 N": "3rd Declension",
         "4 MF": "4th Declension",
-        "4 N": "4th Declension n.",
+        "4 N": "4th Declension",
         "5 0": "5th Declension"
     }
     return declension_map[d]
+
+def mapGender(d):
+    gender_map = {
+        "1 0": "Feminine",
+        "2 M": "Masculine",
+        "2 N": "Neuter",
+        "3 MF": "Masculine/Feminine",
+        "3 N": "Neuter",
+        "4 MF": "Masculine/Feminine",
+        "4 N": "Neuter",
+        "5 0": "Feminine"
+    }
+    return gender_map[d]
 
 def mapCase(c):
     case_map = {
@@ -119,10 +132,7 @@ def mapCase(c):
     return case_map[c]
 
 def mapNumber(c):
-    if "S" in c:
-        return "s."
-    else:
-        return "pl."
+    return "s." if "S" in c else "pl."
 
 col1, col2 = st.columns(2)
 
@@ -138,15 +148,15 @@ if st.button("Process"):
     data = []
     for d, fm in forms.items(): 
         for c, (fm, tr) in fm.items():
-            e = "V" if r == d else "O"
-            icon = "✅" if e == "V" else "❌"
+            e = "V" if r == d else ""
+            icon = "✅" if e == "V" else ""
             case = mapCase(c)
             number = mapNumber(c)
-            data.append([icon, mapDeclension(d), case + " " + number, fm, normalize(fm), tr])
+            data.append([icon, mapDeclension(d), mapGender(d), case, fm, normalize(fm), tr, number])
     
-    df = pd.DataFrame(data, columns=["", "Declension Type", "Case", "Form", "Normalized Form", "Translation"])
-    st.table(df)
+    df = pd.DataFrame(data, columns=["", "Declension", "Gender", "Case", "Form", "Normalized Form", "Translation", "Plurality"])
+    st.dataframe(df.style.set_properties(**{'text-align': 'left'}))
 
     # Export to CSV
     csv = df.to_csv(index=False)
-    st.download_button(label="Download CSV", data=csv, file_name='latin_declensions.csv', mime='text/csv')
+    st.download_button(label="Download CSV", data=csv, file_name=f'{word}.csv', mime='text/csv')

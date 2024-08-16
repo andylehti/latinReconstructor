@@ -1,6 +1,17 @@
 import streamlit as st
 import unicodedata
 import pandas as pd
+from difflib import SequenceMatcher
+
+st.title("Latin Declension Generator")
+
+st.write("This code reconstructs Latin forms, generating all variants and providing precise English translations for linguistic analysis. It produces all declensions for a word and delivers direct translations for machine learning. The data identifies the most likely declined form of a Latin noun and excludes forms for counterexample training. Reconstructing non-standard forms aids in identifying translations that may not originate from fully literate sources.")
+
+def fuzzyMatch(s):
+    s = s[-2:]
+    s = s.translate(str.maketrans('znlwfvxkcdjt', 'smimeuumaaii'))
+    d = {'1 0': ['ae'], '2 M': ['us', 'er'], '2 N': ['um'], '3 MF': ['is', 'es'], '3 N': ['e', 'al', 'ar'], '4 MF': ['us'], '4 N': ['u'], '5 0': ['es']}
+    return max(d.keys(), key=lambda k: max(SequenceMatcher(None, s, v).ratio() for v in d[k]))
 
 def getTR(t): 
     v = t[0] == 'a' or t[0] == "A"
@@ -27,7 +38,7 @@ def getTR(t):
         "G": (f"{t}'{'s' if r else ''}", f"{p}"),
         "D": (f"to/for the {t}", f"to/for the {p}"),
         "A": (f"{'an' if v else 'a'} {t}", f"the {p}"),
-        "AB": (f"by/with the {t}.", f"by/with the {p}."),
+        "T": (f"by/with the {t}.", f"by/with the {p}."),
         "V": (f"Hey, {t}!", f"Hey, {p}!")
     }
     return tr
@@ -39,14 +50,14 @@ def declension(t):
     return t
 
 s = {
-    "1 0": {"N": ("a", "ae"), "G": ("ae", "ārum"), "D": ("ae", "īs"), "A": ("am", "ās"), "AB": ("ā", "īs"), "V": ("a", "ae")},
-    "2 M": {"N": ("us", "ī"), "G": ("ī", "ōrum"), "D": ("ō", "īs"), "A": ("um", "ōs"), "AB": ("ō", "īs"), "V": ("e", "ī")},
-    "2 N": {"N": ("um", "a"), "G": ("ī", "ōrum"), "D": ("ō", "īs"), "A": ("um", "a"), "AB": ("ō", "īs"), "V": ("um", "a")},
-    "3 MF": {"N": ("", "ēs"), "G": ("is", "um"), "D": ("ī", "ibus"), "A": ("em", "ēs"), "AB": ("e", "ibus"), "V": ("", "ēs")},
-    "3 N": {"N": ("", "a"), "G": ("is", "um"), "D": ("ī", "ibus"), "A": ("", "a"), "AB": ("e", "ibus"), "V": ("", "a")},
-    "4 MF": {"N": ("us", "ūs"), "G": ("ūs", "uum"), "D": ("uī", "ibus"), "A": ("um", "ūs"), "AB": ("ū", "ibus"), "V": ("us", "ūs")},
-    "4 N": {"N": ("ū", "ua"), "G": ("ūs", "uum"), "D": ("ū", "ibus"), "A": ("ū", "ua"), "AB": ("ū", "ibus"), "V": ("ū", "ua")},
-    "5 0": {"N": ("ēs", "ēs"), "G": ("eī", "ērum"), "D": ("eī", "ēbus"), "A": ("em", "ēs"), "AB": ("ē", "ēbus"), "V": ("ēs", "ēs")}
+    "1 0": {"N": ("a", "ae"), "G": ("ae", "ārum"), "D": ("ae", "īs"), "A": ("am", "ās"), "T": ("ā", "īs"), "V": ("a", "ae")},
+    "2 M": {"N": ("us", "ī"), "G": ("ī", "ōrum"), "D": ("ō", "īs"), "A": ("um", "ōs"), "T": ("ō", "īs"), "V": ("e", "ī")},
+    "2 N": {"N": ("um", "a"), "G": ("ī", "ōrum"), "D": ("ō", "īs"), "A": ("um", "a"), "T": ("ō", "īs"), "V": ("um", "a")},
+    "3 MF": {"N": ("", "ēs"), "G": ("is", "um"), "D": ("ī", "ibus"), "A": ("em", "ēs"), "T": ("e", "ibus"), "V": ("", "ēs")},
+    "3 N": {"N": ("", "a"), "G": ("is", "um"), "D": ("ī", "ibus"), "A": ("", "a"), "T": ("e", "ibus"), "V": ("", "a")},
+    "4 MF": {"N": ("us", "ūs"), "G": ("ūs", "uum"), "D": ("uī", "ibus"), "A": ("um", "ūs"), "T": ("ū", "ibus"), "V": ("us", "ūs")},
+    "4 N": {"N": ("ū", "ua"), "G": ("ūs", "uum"), "D": ("ū", "ibus"), "A": ("ū", "ua"), "T": ("ū", "ibus"), "V": ("ū", "ua")},
+    "5 0": {"N": ("ēs", "ēs"), "G": ("eī", "ērum"), "D": ("eī", "ēbus"), "A": ("em", "ēs"), "T": ("ē", "ēbus"), "V": ("ēs", "ēs")}
 }
 
 def process(word, t): 
@@ -63,17 +74,48 @@ def process(word, t):
     
     return f
 
-st.title("Latin Declension Generator")
+def mapDeclension(d):
+    declension_map = {
+        "1 0": "1st Declension Feminine",
+        "2 M": "2nd Declension Masculine",
+        "2 N": "2nd Declension Neuter",
+        "3 MF": "3rd Declension Masculine/Feminine",
+        "3 N": "3rd Declension Neuter",
+        "4 MF": "4th Declension Masculine/Feminine",
+        "4 N": "4th Declension Neuter",
+        "5 0": "5th Declension Feminine"
+    }
+    return declension_map[d]
+
+def mapCase(c):
+    case_map = {
+        "N S": "Nominative Singular",
+        "N P": "Nominative Plural",
+        "G S": "Genitive Singular",
+        "G P": "Genitive Plural",
+        "D S": "Dative Singular",
+        "D P": "Dative Plural",
+        "A S": "Accusative Singular",
+        "A P": "Accusative Plural",
+        "T S": "Ablative Singular",
+        "T P": "Ablative Plural",
+        "V S": "Vocative Singular",
+        "V P": "Vocative Plural"
+    }
+    return case_map[c]
 
 word = st.text_input("Enter Word:", "")
 translation = st.text_input("Enter Translation:", "")
 
 if st.button("Process"):
     forms = process(word, translation)
+    r = fuzzyMatch(normalize(word))
     data = []
     for d, fm in forms.items(): 
-        for c, (fm, tr) in fm.items(): 
-            data.append([d, c, fm, normalize(fm), tr])
+        for c, (fm, tr) in fm.items():
+            e = "V" if r == d else "O"
+            icon = "✅" if e == "V" else "👎"
+            data.append([icon, mapDeclension(d), mapCase(c), fm, normalize(fm), tr])
     
-    df = pd.DataFrame(data, columns=["Declension", "Case", "Form", "Normalized Form", "Translation"])
+    df = pd.DataFrame(data, columns=["Declension Indicator", "Declension Type", "Case", "Form", "Normalized Form", "Translation"])
     st.table(df)

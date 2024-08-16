@@ -21,8 +21,6 @@ md = """
 with st.popover("Features"):
     st.markdown(md)
 
-st.write("Expand Details")
-
 def fuzzyMatch(s):
     s = s[-2:]
     s = s.translate(str.maketrans('znlwfvxkcdjt', 'smimeuumaaii'))

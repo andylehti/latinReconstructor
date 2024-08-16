@@ -119,3 +119,15 @@ PS,PF,2,S,atus esses,etus esses,us esses,us esses,You would have been {PastParti
 PS,PF,2,P,ati essetis,eti essetis,i essetis,i essetis,You (pl.) would have been {PastParticiple}
 PS,PF,3,S,atus esset,etus esset,us esset,us esset,He/she/it would have been {PastParticiple}
 PS,PF,3,P,ati essent,eti essent,i essent,i essent,They would have been {PastParticiple}
+AP,PR,1,S,avi,ui,i,i,I {pastSimple}
+AP,PR,1,P,avimus,uimus,imus,imus,We {pastSimple}
+AP,PR,2,S,avisti,uisti,isti,isti,You {pastSimple}
+AP,PR,2,P,avistis,uistis,istis,istis,You (pl.) {pastSimple}
+AP,PR,3,S,avit,uit,it,it,He/she/it {pastSimple}
+AP,PR,3,P,averunt,uerunt,erunt,erunt,They {pastSimple}
+AP,PF,1,S,averam,ueram,eram,eram,I {pastSimple}
+AP,PF,1,P,averamus,ueramus,eramus,eramus,We {pastSimple}
+AP,PF,2,S,averas,ueras,eras,eras,You {pastSimple}
+AP,PF,2,P,averatis,ueratis,eratis,eratis,You (pl.) {pastSimple}
+AP,PF,3,S,averat,uerat,erat,erat,He/she/it {pastSimple}
+AP,PF,3,P,averant,uerant,erant,erant,They {PastSimple}

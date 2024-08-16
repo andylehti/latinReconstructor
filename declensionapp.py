@@ -5,7 +5,16 @@ from difflib import SequenceMatcher
 
 st.title("Latin Declension Generator")
 
-st.write("This code reconstructs Latin forms, generating all variants and providing precise English translations for linguistic analysis. It produces all declensions for a word and delivers direct translations for machine learning. The data identifies the most likely declined form of a Latin noun and excludes forms for counterexample training. Reconstructing non-standard forms aids in identifying translations that may not originate from fully literate sources.")
+st.write("""
+- Reconstructs Latin forms
+- Generates all variants
+- Provides precise English translations
+- Produces all declensions
+- Direct translations for machine learning
+- Identifies likely declined forms
+- Excludes forms for counterexample training
+- Finds non-standard translations
+""")
 
 def fuzzyMatch(s):
     s = s[-2:]
@@ -104,8 +113,13 @@ def mapCase(c):
     }
     return case_map[c]
 
-word = st.text_input("Enter Word:", "")
-translation = st.text_input("Enter Translation:", "")
+col1, col2 = st.columns(2)
+
+with col1:
+    word = st.text_input("", placeholder="Latin Word")
+
+with col2:
+    translation = st.text_input("", placeholder="English Translation")
 
 if st.button("Process"):
     forms = process(word, translation)

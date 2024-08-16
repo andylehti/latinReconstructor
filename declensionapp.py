@@ -90,33 +90,39 @@ def process(word, t):
 
 def mapDeclension(d):
     declension_map = {
-        "1 0": "1st Dec.",
-        "2 M": "2nd Dec. [m]",
-        "2 N": "2nd Dec. [n]",
-        "3 MF": "3rd Dec. [m/f]",
-        "3 N": "3rd Dec. [n]",
-        "4 MF": "4th Dec. [m/f]",
-        "4 N": "4th Dec. [n]",
-        "5 0": "5th Dec."
+        "1 0": "1st Declension",
+        "2 M": "2nd Declension",
+        "2 N": "2nd Declension n.",
+        "3 MF": "3rd Declension",
+        "3 N": "3rd Declension n.",
+        "4 MF": "4th Declension",
+        "4 N": "4th Declension n.",
+        "5 0": "5th Declension"
     }
     return declension_map[d]
 
 def mapCase(c):
     case_map = {
-        "N S": "Nominative [s]",
-        "N P": "Nominative [p]",
-        "G S": "Genitive [s]",
-        "G P": "Genitive [p]",
-        "D S": "Dative [s]",
-        "D P": "Dative [p]",
-        "A S": "Accusative [s]",
-        "A P": "Accusative [p]",
-        "T S": "Ablative [s]",
-        "T P": "Ablative [p]",
-        "V S": "Vocative [s]",
-        "V P": "Vocative [p]"
+        "N S": "Nominative",
+        "N P": "Nominative",
+        "G S": "Genitive",
+        "G P": "Genitive",
+        "D S": "Dative",
+        "D P": "Dative",
+        "A S": "Accusative",
+        "A P": "Accusative",
+        "T S": "Ablative",
+        "T P": "Ablative",
+        "V S": "Vocative",
+        "V P": "Vocative"
     }
     return case_map[c]
+
+def mapNumber(c):
+    if "S" in c:
+        return "s."
+    else:
+        return "pl."
 
 col1, col2 = st.columns(2)
 
@@ -133,8 +139,14 @@ if st.button("Process"):
     for d, fm in forms.items(): 
         for c, (fm, tr) in fm.items():
             e = "V" if r == d else "O"
-            icon = "✅" if e == "V" else ""
-            data.append([icon, mapDeclension(d), mapCase(c), fm, normalize(fm), tr])
+            icon = "✅" if e == "V" else "❌"
+            case = mapCase(c)
+            number = mapNumber(c)
+            data.append([icon, mapDeclension(d), case + " " + number, fm, normalize(fm), tr])
     
-    df = pd.DataFrame(data, columns=["Declension Indicator", "Declension Type", "Case", "Form", "Normalized Form", "Translation"])
+    df = pd.DataFrame(data, columns=["", "Declension Type", "Case", "Form", "Normalized Form", "Translation"])
     st.table(df)
+
+    # Export to CSV
+    csv = df.to_csv(index=False)
+    st.download_button(label="Download CSV", data=csv, file_name='latin_declensions.csv', mime='text/csv')

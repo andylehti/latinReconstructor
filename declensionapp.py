@@ -5,6 +5,8 @@ from difflib import SequenceMatcher
 
 st.title("Latin Declension Generator")
 
+st.divider()
+
 md = """
 - Reconstructs Latin forms
 - Generates all variants
@@ -19,7 +21,7 @@ md = """
 with st.popover("Features"):
     st.markdown(md)
 
-st.write("Explore the features in the popover.")
+st.write("Expand Details")
 
 def fuzzyMatch(s):
     s = s[-2:]

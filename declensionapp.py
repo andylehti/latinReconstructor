@@ -5,7 +5,7 @@ from difflib import SequenceMatcher
 
 st.title("Latin Declension Generator")
 
-st.write("""
+md = """
 - Reconstructs Latin forms
 - Generates all variants
 - Provides precise English translations
@@ -14,7 +14,12 @@ st.write("""
 - Identifies likely declined forms
 - Excludes forms for counterexample training
 - Finds non-standard translations
-""")
+"""
+
+with st.popover("Features"):
+    st.markdown(md)
+
+st.write("Explore the features in the popover.")
 
 def fuzzyMatch(s):
     s = s[-2:]
@@ -85,31 +90,31 @@ def process(word, t):
 
 def mapDeclension(d):
     declension_map = {
-        "1 0": "1st Declension Feminine",
-        "2 M": "2nd Declension Masculine",
-        "2 N": "2nd Declension Neuter",
-        "3 MF": "3rd Declension Masculine/Feminine",
-        "3 N": "3rd Declension Neuter",
-        "4 MF": "4th Declension Masculine/Feminine",
-        "4 N": "4th Declension Neuter",
-        "5 0": "5th Declension Feminine"
+        "1 0": "1st Dec.",
+        "2 M": "2nd Dec. [m]",
+        "2 N": "2nd Dec. [n]",
+        "3 MF": "3rd Dec. [m/f]",
+        "3 N": "3rd Dec. [n]",
+        "4 MF": "4th Dec. [m/f]",
+        "4 N": "4th Dec. [n]",
+        "5 0": "5th Dec."
     }
     return declension_map[d]
 
 def mapCase(c):
     case_map = {
-        "N S": "Nominative Singular",
-        "N P": "Nominative Plural",
-        "G S": "Genitive Singular",
-        "G P": "Genitive Plural",
-        "D S": "Dative Singular",
-        "D P": "Dative Plural",
-        "A S": "Accusative Singular",
-        "A P": "Accusative Plural",
-        "T S": "Ablative Singular",
-        "T P": "Ablative Plural",
-        "V S": "Vocative Singular",
-        "V P": "Vocative Plural"
+        "N S": "Nominative [s]",
+        "N P": "Nominative [p]",
+        "G S": "Genitive [s]",
+        "G P": "Genitive [p]",
+        "D S": "Dative [s]",
+        "D P": "Dative [p]",
+        "A S": "Accusative [s]",
+        "A P": "Accusative [p]",
+        "T S": "Ablative [s]",
+        "T P": "Ablative [p]",
+        "V S": "Vocative [s]",
+        "V P": "Vocative [p]"
     }
     return case_map[c]
 
@@ -128,7 +133,7 @@ if st.button("Process"):
     for d, fm in forms.items(): 
         for c, (fm, tr) in fm.items():
             e = "V" if r == d else "O"
-            icon = "✅" if e == "V" else "👎"
+            icon = "✅" if e == "V" else ""
             data.append([icon, mapDeclension(d), mapCase(c), fm, normalize(fm), tr])
     
     df = pd.DataFrame(data, columns=["Declension Indicator", "Declension Type", "Case", "Form", "Normalized Form", "Translation"])

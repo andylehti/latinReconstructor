@@ -1,4 +1,11 @@
 import unicodedata
+from difflib import SequenceMatcher
+
+def fuzzyMatch(s):
+    s = s[-2:]
+    s = s.translate(str.maketrans('znlwfvxkcdjt', 'smimeuumaaii'))
+    d = {'1 0': ['ae'], '2 M': ['us', 'er'], '2 N': ['um'], '3 MF': ['is', 'es'], '3 N': ['e', 'al', 'ar'], '4 MF': ['us'], '4 N': ['u'], '5 0': ['es']}
+    return max(d.keys(), key=lambda k: max(SequenceMatcher(None, s, v).ratio() for v in d[k]))
 
 def getTR(t): 
     v = t[0] == 'a' or t[0] == "A"
@@ -63,6 +70,8 @@ def process(word, t):
 
 word, translation = "Antōniopolis", "Cactus"
 forms = process(word, translation)
+r = fuzzyMatch(normalize(word))
 for d, fm in forms.items(): 
-    for c, (fm, tr) in fm.items(): 
-        print(f"{d} {c}: {fm}, {normalize(fm)} \t {tr}")
+    for c, (fm, tr) in fm.items():
+        e = "V" if r == d else "O"
+        print(f"{e} {d} {c}: {fm}, {normalize(fm)} \t {tr}")

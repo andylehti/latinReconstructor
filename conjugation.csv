@@ -130,4 +130,4 @@ AP,PF,1,P,averamus,ueramus,eramus,eramus,We {pastSimple}
 AP,PF,2,S,averas,ueras,eras,eras,You {pastSimple}
 AP,PF,2,P,averatis,ueratis,eratis,eratis,You (pl.) {pastSimple}
 AP,PF,3,S,averat,uerat,erat,erat,He/she/it {pastSimple}
-AP,PF,3,P,averant,uerant,erant,erant,They {PastSimple}
+AP,PF,3,P,averant,uerant,erant,erant,They {pastSimple}

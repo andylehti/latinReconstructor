@@ -4680,3 +4680,5479 @@ exercitor: trainer
 exiguitas: smallness
 existimatio: estimation
 existimator: estimator
+expeditio: expedition
+expugnatio: storming
+expugnator: conqueror
+exspectatio: expectation
+familiaritas: familiarity
+feritas: ferocity
+flagitator: demander
+frequentia: frequency
+frux: fruit
+frumentarius: grain-dealer
+funditor: slinger
+brutum: brute
+caelator: engraver
+vinaceus: grapey
+auxiliatrix: helper
+gratulatio: congratulation
+harpago: grapnel
+tonitrus: thunder
+tonitruum: thunder
+antilops: antelope
+imbecillitas: weakness
+immunitas: immunity
+imprudentia: imprudence
+impunitas: impunity
+incommodum: inconvenience
+arga: sluggish
+indignitas: indignity
+indiligentia: carelessness
+indutiae: truce
+infidelitas: faithlessness
+infirmitas: infirmity
+inscientia: ignorance
+insectum: insect
+insidiator: plotter
+insolentia: insolence
+interitus: destruction
+internecio: extermination
+intolerantia: intolerance
+invocator: summoner
+iurandum: oath
+laetatio: rejoicing
+lassitudo: weariness
+divinator: diviner
+laetitia: joy
+loricula: small curtain
+mobilitas: mobility
+moene: fortification
+molimentum: effort
+navigium: vessel
+obsequentia: obedience
+occultatio: concealment
+offensio: offense
+oppugnatio: assault
+ostentatio: ostentation
+paucitas: scarcity
+peditatus: infantry
+percontatio: inquiry
+delectus: selection
+nonnus: monk
+oriens: east
+parvulus: little one
+perculsus: struck
+perfuga: deserter
+pernicies: destruction
+perpauci: very few
+perpendiculum: plumb line
+planities: plain
+pollicitatio: promise
+locutor: speaker
+perturbatio: disturbance
+plurimum: very much
+pollicitum: promise
+postulatio: demand
+potentatus: potentate
+praefectura: prefecture
+praescriptum: prescription
+praeteritum: past
+primipilus: senior centurion
+proditio: betrayal
+proeliator: warrior
+profectio: departure
+proventus: result
+circumspector: watcher
+piscator: fisherman
+pugnantia: battles
+quaerens: seeker
+quaestus: gain
+ratis: raft
+redintegrator: restorer
+reditio: return
+repugnantia: resistance
+nevem: snow
+resistentia: resistance
+sarmentum: twig
+scrobis: ditch
+sectio: section
+severitas: severity
+significatio: signification
+simulatio: pretense
+simultas: rivalry
+sollertia: skill
+stabilitas: stability
+subsidiarius: subsidiary
+subsidium: aid
+subvectio: conveyance
+sudis: stake
+suggestum: platform
+domna: lady
+tabulatum: floor
+temperantia: temperance
+tenuitas: thinness
+tignum: beam
+transversum: transverse
+cantio: song
+trabs: beam
+transitus: passage
+tutum: safety
+vacatio: exemption
+vastator: devastator
+vaticinatio: prophecy
+veterator: trickster
+vimen: wicker
+virgultum: thicket
+vulneratio: wounding
+adulterium: adultery
+apostolus: apostle
+calciamentum: footwear
+centuplum: hundredfold
+cessator: idler
+clibanus: oven
+cofinus: basket
+anthropologia: anthropology
+boreas: north wind
+colaphus: blow
+conservus: fellow slave
+consummatio: consummation
+desolatio: desolation
+didragma: two-drachma
+discumbens: recliner
+divitia: wealth
+ducatus: leadership
+eurus: east wind
+figulus: potter
+genimen: offspring
+hedus: kid
+homicidium: homicide
+horreum: barn
+hypocrisis: hypocrisy
+hypocrita: hypocrite
+immunditia: filth
+incredulitas: disbelief
+inhabitator: inhabitant
+iustificator: justifier
+loquela: speech
+lumbus: loin
+messor: reaper
+multiloquium: loquacity
+nummularius: money-changer
+nuptia: marriage
+natalis: birth
+parapsis: dish
+perditio: perdition
+phylacterium: phylactery
+plenitudo: fullness
+profundum: depth
+recubitus: reclining
+operarius: worker
+plantatio: plantation
+prophetia: prophecy
+proselyta: proselyte
+publicanus: tax collector
+redemptio: redemption
+regeneratio: regeneration
+repudium: repudiation
+sagena: dragnet
+sepes: hedge
+scandalum: scandal
+secessus: withdrawal
+seminator: sower
+spurcitia: filth
+suicidium: suicide
+suprascriptio: superscription
+teloneum: toll-house
+temptatio: temptation
+tetrarches: tetrarch
+torcular: winepress
+tortor: torturer
+transmigratio: migration
+tribulatio: tribulation
+ventilabrum: winnowing-fan
+adnuntiator: announcer
+aeramentum: brass
+aerumna: hardship
+circumspicientia: circumspection
+circumstantia: circumstance
+compes: fetter
+concupiscentia: concupiscence
+concurrentia: concurrence
+conviciator: reviler
+deceptio: deception
+diluculum: dawn
+emundatio: purification
+corban: offering
+discubitus: reclining
+fraudator: cheater
+fullo: fuller
+gazophylacium: treasury
+grabattus: cot
+holocautoma: holocaust
+impudicitia: unchastity
+laguena: flagon
+portentum: portent
+rabboni: rabbi
+refectio: refreshment
+sementis: sowing
+talitha: little girl
+alienigena: foreigner
+assumptio: assumption
+cadus: jar
+cautio: caution
+commemoratio: commemoration
+sementium: sowing
+sindon: linen
+urceus: pitcher
+versutia: cunning
+vespera: evening
+deficientia: deficiency
+deliramentum: delirium
+dispensator: steward
+ebrietas: drunkenness
+expetitor: seeker
+faenerator: moneylender
+inaquosum: unfair
+assumentum: attachment
+dragma: drachma
+fulgor: brightness
+improbitas: wickedness
+insipientia: foolishness
+iustificatio: justification
+linteamen: linen cloth
+maledicentia: slander
+mendicus: beggar
+narratio: narration
+obsecratio: supplication
+ostensio: display
+deponens: deponent
+peccatrix: sinner
+praeceptor: teacher
+retributio: retribution
+sanctitas: holiness
+sterquilinium: dunghill
+buccella: morsel
+condiscipulus: fellow student
+dilectio: love
+dormitio: sleep
+stabulum: stable
+superscriptio: superscription
+sycomorus: sycamore
+vindemiator: grape-gatherer
+visitatio: visitation
+volentia: willingness
+hysopum: hyssop
+iniustitia: injustice
+instita: instep
+linteum: linen
+orfanus: orphan
+paracletus: advocate
+virginitas: virginity
+apostolatus: apostleship
+benedictio: blessing
+comesatio: revelry
+iudaismus: Judaism
+proverbium: proverb
+purificatio: purification
+scenopegia: feast of tabernacles
+sortitor: drawer
+repromissio: promise
+subiectio: subjection
+acceptio: acceptance
+accessus: approach
+advena: stranger
+apertio: opening
+augmentum: increase
+captivitas: captivity
+circumventio: circumvention
+colluctatio: wrestling
+concorporalis: fellow body
+incorruptio: incorruption
+rixa: quarrel
+torrens: torrent
+commilito: comrade
+dispensatio: dispensation
+habitaculum: dwelling
+indignatio: indignation
+oblatio: offering
+pignus: pledge
+praefinitio: predefinition
+scurrilitas: scurrility
+stultiloquium: foolish talk
+sublimitas: sublimity
+sumministratio: supply
+vocatio: vocation
+bravium: prize
+compar: companion
+consedo: sit down
+diaconus: deacon
+haesitatio: hesitation
+murmuratio: murmuring
+oboedientia: obedience
+perspicillum: perspective
+reprehensio: reproach
+venatus: hunting
+adulatio: flattery
+chirographum: handwriting
+ciccum: trifle
+concubitor: concubine
+exhortatio: exhortation
+fatigatio: weariness
+intermissio: intermission
+neomenia: new moon
+primatus: primacy
+primitia: first fruit
+sanctificatio: sanctification
+saturitas: satiety
+seductio: seduction
+superstitio: superstition
+sustinentia: endurance
+appetentia: appetite
+castitas: chastity
+conflictatio: conflict
+criminator: accuser
+deformatio: deformity
+disceptatio: dispute
+dominantia: domination
+episcopatus: episcopacy
+fornicarius: fornicator
+impietas: impiety
+inaniloquium: idle talk
+perfectio: perfection
+belligerator: warrior
+catinus: dish
+fornicaria: harlot
+illuminatio: illumination
+immortalitas: immortality
+impositio: imposition
+inoboedientia: disobedience
+institutio: institution
+mansuetudo: meekness
+montania: mountainous region
+neophytus: neophyte
+plagiarius: kidnapper
+signaculum: seal
+sobrietas: sobriety
+subversio: subversion
+vaniloquium: vain talk
+aspersio: sprinkling
+exaltatio: exaltation
+maeror: grief
+obumbratio: shadowing
+occisio: slaughter
+probatio: proof
+vicissitudo: change
+benefactum: benefaction
+capillatura: hairdressing
+circumdatio: surrounding
+clerus: clergy
+consenior: fellow elder
+consistentia: consistency
+corruptibilitas: corruptibility
+cruciata: crusade
+depositio: deposition
+detractio: detraction
+dividia: division
+illusor: mocker
+incolatus: residence
+incorruptibilitas: incorruptibility
+inquinatio: pollution
+runca: hook
+transmutatio: transmutation
+annuntiatio: announcement
+atramentum: ink
+praeco: herald
+vinolentia: drunkenness
+volutabrum: wallowing
+amissio: loss
+condemnatio: condemnation
+propitiatio: propitiation
+unctio: anointing
+arcarius: chest keeper
+concubitus: lying together
+contritio: contrition
+delibatio: tasting
+deminutio: diminution
+figmentum: figment
+gloriatio: boasting
+guttur: throat
+impaenitentia: impenitence
+improperium: reproach
+malignitas: malice
+nuditas: nakedness
+oboeditio: obedience
+offendiculum: stumbling-block
+apocalypsis: revelation
+bilibra: double pound
+botrus: cluster
+carcedonius: chalcedony
+chrysolitus: chrysolite
+chrysoprassus: chrysoprase
+citharoedus: cithara player
+congero: heap
+ordinatio: ordination
+reconciliatio: reconciliation
+sustentatio: sustenance
+vectigal: tax
+amomum: amomum
+fornicatrix: harlot
+odoramentum: perfume
+beneficientia: benevolence
+hyacinthus: hyacinth
+iaspis: jasper
+matutinum: matins
+omnipotentia: omnipotence
+particeps: sharer
+statera: balance
+topazius: topaz
+turibulum: censer
+conceptio: conception
+criminatrix: accuser
+destitutio: abandonment
+discretio: discretion
+distributio: distribution
+effusio: outpouring
+exacerbatio: aggravation
+expletio: completion
+fidentia: confidence
+prostitutio: prostitution
+smaragdus: emerald
+casula: little house
+immobilitas: immobility
+inductura: undergarment
+inutilitas: uselessness
+ludibrium: mockery
+melota: goat-skin
+provocatio: challenge
+remuneratio: remuneration
+renovatio: renewal
+reprobatio: rejection
+sanna: scorn
+propitiator: appeaser
+sanctimonia: sanctity
+sparsio: scattering
+subtractio: subtraction
+tribulus: thorn
+velamentum: covering
+afflictio: affliction
+animans: living being
+architectus: architect
+canistrum: basket
+conquisitor: conqueror
+conspersio: sprinkling
+extollentia: exaltation
+holocaustum: holocaust
+thymiama: incense
+gubernatio: governance
+haeresis: heresy
+idoleum: idol
+ignobilitas: ignobility
+incontinentia: incontinence
+incorruptela: incorruptibility
+indigenus: native
+irritator: provoker
+laganum: cake
+oephi: handle
+ministratio: ministry
+mortificatio: mortification
+obiurgatio: rebuke
+occursus: meeting
+opitulatio: aid
+participatio: participation
+pectusculum: little chest
+peripsema: refuse
+pseudapostolus: false apostle
+purgamentum: filth
+reminiscentia: recollection
+sollemnitas: solemnity
+susurratio: whispering
+bucina: trumpet
+confugium: refuge
+consortio: association
+crabro: hornet
+deductorium: ledge
+nitiditas: brightness
+spondeus: spondee
+fundamen: foundation
+iobeleus: jubilee
+lineamentum: lineament
+pulentia: plenty
+cessio: cession
+coniugium: marriage
+egressio: egress
+gerula: bearer
+palliolum: small cloak
+posteritas: posterity
+pubertas: puberty
+quaesitor: seeker
+sarcinula: small bundle
+viculus: hamlet
+villula: small farm
+vociferatio: clamor
+adinventio: invention
+adiutorium: assistance
+butyrum: butter
+concessio: concession
+despicientia: disdain
+fortax: payment
+glarea: gravel
+luctator: wrestler
+nardus: nard
+singularitas: singularity
+trunculus: little trunk
+vinarius: wine merchant
+divisura: division
+elevatio: elevation
+funambulus: tightrope walker
+funicula: small rope
+funirepus: rope carrier
+grunda: buttress
+nexilitas: connectedness
+pollutio: pollution
+pollutrix: polluter
+rubedo: redness
+vinitor: vintner
+inauris: earring
+limpor: lameness
+pinguedo: fatness
+commixtio: mixture
+posticum: back door
+postis: doorpost
+propugnaculum: bulwark
+quiescentia: repose
+ramnum: wild buckthorn
+repetitio: repetition
+sebboleth: shibboleth
+sodalis: comrade
+specus: cave
+therafin: Teraphim
+caesaries: hair
+circumductum: circumduction
+commotio: commotion
+consacerdos: fellow priest
+consaeptum: enclosure
+consalutatio: salutation
+consatio: planting
+consecratio: consecration
+dedicatio: dedication
+dextrale: right-hand object
+divinatio: divination
+emunctorium: excretory organ
+erectio: erection
+expiatio: expiation
+exsecratio: execration
+infantula: little girl
+infantulus: little boy
+interfector: killer
+iussio: command
+consanguinitas: consanguinity
+conscriptor: writer
+libamentum: libation
+lustratio: purification
+metator: measurer
+murenula: small eel
+operimentum: covering
+quadrum: square
+nausia: nausea
+noxa: harm
+opertum: cover
+paxillus: peg
+periscelis: anklet
+plaustrum: cart
+pugillum: fistful
+querimonia: complaint
+rinoceros: rhinoceros
+solitas: accustomedness
+solitum: habit
+sponsio: pledge
+sublimor: exalted one
+cementarius: mason
+consecratrix: consecrator
+consectaneus: companion
+consectatrix: pursuer
+consequia: following
+conservitium: joint service
+consiliator: adviser
+laesio: injury
+prosperitas: prosperity
+tortula: small cake
+unctum: ointment
+vatillum: fire-pan
+conservatrix: preserver
+consessor: companion
+consignatio: sealing
+consiliatrix: adviser
+consiligo: fellow slave
+consitor: sower
+nonae: nones
+scyphus: cup
+ascensa: ascent
+casleu: Kislev
+consistorianus: member of the consistory
+consociatio: association
+consocius: companion
+despectio: contempt
+exactio: exaction
+interruptio: interruption
+moabites: Moabite
+moabitis: Moabitess
+adiuramentum: oath
+blandimentum: blandishment
+cassidile: helmet
+comparentia: comparison
+interfectrix: murderess
+pincerna: cupbearer
+possibilitas: possibility
+speculatrix: observer
+stimulatrix: instigator
+usurpatrix: usurper
+zelatrix: zealot
+ariditas: dryness
+ascopa: broom
+congressio: congress
+conopeum: canopy
+contus: pole
+copulatio: coupling
+devoratio: devouring
+direptio: pillage
+lamentatio: lamentation
+medicamentum: medicine
+pigmentarius: painter
+puerulus: little boy
+cubicularius: chamberlain
+depraedatio: plundering
+dextraliolum: small right-hand object
+emendatio: emendation
+exterminium: extermination
+ferocitas: ferocity
+fundibalarius: slinger
+honorificentia: honor
+inquietudo: restlessness
+locupletatio: enrichment
+alietum: altar
+cartallus: basket
+eunuchus: eunuch
+peritia: skill
+viduitas: widowhood
+proceritudo: tallness
+prolixitudo: length
+quantitudo: quantity
+raritudo: rarity
+salsitudo: saltiness
+scabitudo: scab
+severitudo: severity
+sorditudo: filthiness
+spissitudo: thickness
+squalitudo: squalor
+tabitudo: wasting
+tarditudo: slowness
+temeritudo: rashness
+tristitudo: sadness
+vastitudo: vastness
+promptitudo: promptness
+sanctitudo: holiness
+suavitudo: sweetness
+taetritudo: foulness
+partitudo: division
+perperitudo: obstinacy
+caesor: killer
+caliga: boot
+dipsas: thirst
+ingratitudo: ingratitude
+integritudo: integrity
+limpitudo: clearness
+macritudo: leanness
+maestitudo: sadness
+miseritudo: wretchedness
+nigritudo: blackness
+noxitudo: harmfulness
+orbitudo: bereavement
+pinguitudo: fatness
+vanitudo: emptiness
+crispitudo: curliness
+gravitudo: heaviness
+grossitudo: thickness
+laetitudo: joy
+aegritudo: sickness
+anxitudo: anxiety
+aritudo: dryness
+aspritudo: roughness
+claritudo: brightness
+disertitudo: eloquence
+foeditas: ugliness
+herodius: heron
+increpatio: rebuke
+indigentia: need
+ineptitudo: ineptitude
+ixon: ivy
+levitudo: lightness
+magnale: great deed
+mollities: softness
+nycticorax: night raven
+praedo: robber
+consolamen: comfort
+illuvies: filth
+incantator: enchanter
+inquinamentum: pollution
+milvus: kite
+noctua: owl
+onocrotalus: pelican
+planctus: wailing
+porphirio: purple gallinule
+prostibulum: brothel
+quinquagesima: fiftieth
+tabellarius: courier
+capparis: caper
+muscus: moss
+robigo: rust
+strutio: ostrich
+succisio: cutting
+tonsio: shaving
+ubertas: abundance
+veretrum: penis
+coluber: snake
+contignatio: timbering
+delinquentia: delinquency
+distentio: distention
+emolumentum: advantage
+instabilitas: instability
+praesumptio: presumption
+profunditas: depth
+renascentia: rebirth
+responsio: response
+cilicium: haircloth
+compitum: crossroad
+eradicatio: eradication
+morsellum: morsel
+catta: cat
+cucumerarium: cucumber field
+deplois: woven cloth
+dioecesis: diocese
+exquisitor: seeker
+gaudimonium: joy
+sterilitas: sterility
+archieparchia: archdiocese
+archiepiscopatus: archbishopric
+eparchus: eparch
+novalis: fallow land
+nutricia: nurse
+nutricium: nursing
+patriarchatus: patriarchate
+putredo: rot
+speculatio: observation
+archidioecesis: archdiocese
+nutricio: foster child
+subsannatio: mockery
+terebinthus: terebinth
+eparchia: eparchy
+supplantator: supplanter
+archieparchus: archbishop
+attonitus: astonished
+blanditia: flattery
+canities: grayness
+caph: palm
+comesator: fellow reveller
+conflatorium: smelting house
+coph: palm
+dammula: small lady
+deleth: door
+derisor: mocker
+dispendium: expense
+dormitatio: sleep
+exarchatus: exarchate
+exarchus: exarch
+aversio: aversion
+fatuitas: foolishness
+hinulus: young mule
+imperitia: inexperience
+institor: pedlar
+ioth: hand
+irrigatio: irrigation
+lameth: ox-goad
+aspiramen: aspiration
+fascinatio: enchantment
+laudatio: praise
+liquiditas: liquidity
+maestitia: sadness
+mendicitas: beggary
+multiplicatio: multiplication
+munditia: cleanliness
+pauperies: poverty
+pigredo: sloth
+praestolatio: expectation
+ablactatio: weaning
+adoratio: adoration
+pessulum: bolt
+samech: support
+sectatio: pursuit
+septuplum: sevenfold
+sermocinatio: discourse
+stilio: leech
+stragulum: covering
+subplantatio: tripping
+suffusio: suffusion
+supplantatio: supplanting
+tendicula: snare
+tonsa: shorn woman
+vecordia: madness
+thau: mark
+aequivocatio: equivocation
+absconsum: concealment
+accitus: summons
+acerbitudo: bitterness
+aciditas: acidity
+admixtio: admixture
+aequivalentia: equivalence
+affinitas: affinity
+ambiguitas: ambiguity
+animalitas: animality
+certitudo: certainty
+fermentatio: fermentation
+indemnitas: indemnity
+mactatio: slaughter
+maioritas: majority
+quietudo: tranquility
+adustio: burning
+alimonia: sustenance
+amula: small pitcher
+assensus: assent
+Scotus: Scot
+arvina: grease
+annalis: annual
+arantium: orange
+arrhabo: pledge
+aucupium: fowling
+bibitura: drink
+cacabus: pot
+carectum: reed bed
+arbitratus: judgment
+capitium: hood
+celebritas: fame
+charadrion: Charadrius
+chyrogryllius: goat
+cidaris: mitre
+cinyra: hyena
+clusor: encloser
+coemptio: purchase
+cognomentum: surname
+carpentarius: carpenter
+coctio: cooking
+cohaerentia: coherence
+collactaneus: foster brother
+colocyntis: colocynth
+comestor: eater
+commixtus: mixed
+commoratio: delay
+compago: joint
+confutator: refuter
+collisio: collision
+conquisitio: search
+contaminatio: contamination
+contemplatio: contemplation
+contemptor: despiser
+contionator: haranguer
+contutor: fellow guardian
+coronula: small crown
+creagra: flesh-hook
+coriarius: leather worker
+craticula: gridiron
+criminatio: accusation
+cultrix: worshipper
+custoditio: guarding
+cytropus: little tree
+deambulacrum: promenade
+deambulator: walker
+deiectio: defecation
+delectamentum: delight
+delectatio: delight
+expostulatio: remonstrance
+adminiculum: support
+confoederatio: confederation
+consternatio: consternation
+devotatio: curse
+dilatio: delay
+dinumeratio: counting
+incogitantia: thoughtlessness
+maturitas: maturity
+oblocutio: contradiction
+obloquium: reproach
+populatio: depopulation
+proximitas: proximity
+salivatio: salivation
+soliloquium: soliloquy
+virilitas: virility
+visibilitas: visibility
+cantamen: incantation
+dissolutio: dissolution
+domuncula: little house
+edulium: food
+elul: month of Elul
+impossibilitas: impossibility
+memorialia: memorials
+memorialis: memorial
+naufragus: shipwrecked
+perspicacitas: sharpness
+syllogismus: syllogism
+amphibologia: ambiguity
+doctrix: female teacher
+emanatio: emanation
+emissarium: emissary
+emissarius: emissary
+epicinium: funeral song
+epistylium: epistyle
+epulatio: feasting
+ergastulum: prison
+euroaquilo: northeast wind
+eversio: overturning
+exauditio: hearing
+exequia: funeral
+sicilis: dagger
+excogitatio: devising
+expositio: exposition
+exquisitio: search
+exsecutio: execution
+extasis: ecstasy
+exterminatio: extermination
+famulatus: service
+ficetum: fig grove
+fictio: fiction
+flagrantia: burning
+flagrum: whip
+focaria: kitchen maid
+fulgurator: thunderer
+fundibulum: funnel
+gannitus: croaking
+gurgustium: hovel
+hethanim: Ethanim
+gemmarius: jeweler
+grassator: brigand
+halitus: breath
+harundinetum: reed bed
+hibix: hibiscus
+hortatio: exhortation
+hortatus: exhortation
+idololatria: idolatry
+ieiunatio: fasting
+immemoratio: commemoration
+incantatio: incantation
+incentor: inciter
+inconvenientia: inconvenience
+inhabitato: residence
+inhospitalitas: inhospitality
+immutatio: change
+impendium: expense
+innovatio: innovation
+conexio: connection
+imprecatio: imprecation
+improvisum: unforeseen
+impuritas: impurity
+inspiratio: inspiration
+intempestum: untimely
+intercolumnium: intercolumniation
+invocatio: invocation
+involumentum: wrapping
+irritatio: irritation
+puppa: doll
+viceregnum: viceroyalty
+vicerex: viceroy
+italianus: Italian
+lamentum: lamentation
+lanceola: little spear
+lanciarius: spearman
+lapidicina: quarry
+latomus: stonecutter
+lecythus: oil-flask
+libatorium: libation
+archidux: archduke
+ligyrius: crying child
+malleator: hammerer
+malagma: emollient
+memoratio: mention
+messio: harvest
+migale: small mouse
+moechia: adultery
+moechus: adulterer
+captatio: striving
+mundatio: purification
+munimen: defense
+nablum: harp
+neptis: granddaughter
+nidulus: small nest
+nimietas: excess
+nugacitas: trifling
+oblectatio: delight
+mustela: weasel
+olivetum: olive grove
+opertorium: cover
+opilio: shepherd
+opupa: hoopoe
+apodixis: proof
+papyrio: papyrus
+pedisequa: maidservant
+pedisequus: servant
+pelicatus: concubinage
+pensitatio: weighing
+peremptor: destroyer
+peribolus: enclosure
+periurium: perjury
+phylarchus: tribal chief
+placatio: appeasement
+poppysma: snapping
+pigror: sluggishness
+pinea: pine cone
+pineum: pine tree
+portarius: porter
+possessiuncula: small possession
+praeclaritas: renown
+praecordia: diaphragm
+praestantia: excellence
+prohibitio: prohibition
+protestatio: protestation
+psaltes: psalm singer
+punitio: punishment
+pyromis: fiery
+pythonissa: witch
+quadrangulum: quadrangle
+redargutio: reproof
+refrigerium: refreshment
+renunculus: little frog
+requietio: rest
+respectio: regard
+refugus: refugee
+resticula: little rope
+retractatio: retraction
+rotunditas: roundness
+sabath: Sabbath
+salsugo: brackishness
+scutula: small shield
+seminiverbius: half-witted
+sessor: sitter
+siban: bean
+sibilatio: hissing
+similago: fine flour
+sitarchia: food supply
+sarculum: small hoe
+sicarius: assassin
+sospitas: safety
+speciositas: beauty
+sphaerula: little sphere
+sportula: small basket
+stabilimentum: foundation
+sternutatio: sneezing
+subitatio: suddenness
+mucor: mold
+scutarius: shield-maker
+seminarium: nursery
+strages: slaughter
+stramen: straw
+subtemen: weft
+subucula: undergarment
+superabundantia: superabundance
+superliminare: lintel
+collarium: collar
+superumerale: overgarment
+supervacuitas: superfluity
+supputatio: reckoning
+sycaminus: sycamore
+tebeth: Tebeth
+tegimen: cover
+testificatio: testimony
+theristrum: veil
+thymiamaterium: censer
+toparcia: toparchy
+tornatura: turning
+trienne: three-year period
+triremis: trireme
+tristegum: saddle
+trulla: trowel
+tyrsus: thyrsus
+umbraculum: shade
+umerale: shoulder covering
+uredo: rust
+veneratio: veneration
+adapertio: opening
+armentarius: herdsman
+conculcatio: trampling
+depopulatio: depopulation
+dilaceratio: tearing apart
+smyrna: myrrh
+vacuitas: emptiness
+victrix: victress
+virectum: green place
+vitulamen: calf
+absconsio: concealment
+framea: spear
+humiliatio: humiliation
+myrtetum: myrtle grove
+naulum: fare
+nigredo: blackness
+paliurus: buckthorn
+provocatrix: challenger
+salvatio: salvation
+suffusorium: suffusion
+torris: burning wood
+additamentum: addition
+agnitor: recognizer
+allisio: collision
+arihel: lion of God
+aplestia: fullness
+apostatrix: female apostate
+artaba: measure
+aspaltus: asphalt
+atramentarium: inkwell
+atriolum: small atrium
+auguratrix: female augur
+aversatrix: female rejecter
+borith: soap
+aemulatus: imitated
+balsamum: balsam
+caenum: mud
+cantatio: incantation
+cataclysmus: deluge
+cataplectatio: amazement
+celeusma: chant
+cinctorium: girdle
+circumspectio: circumspection
+cof: palm
+colligatio: binding
+comminatio: threat
+commissio: commission
+conclusio: conclusion
+conflatio: fusion
+confractio: breaking
+conspector: observer
+contingentia: contingency
+conturbatio: disturbance
+conventiculum: conventicle
+convicium: reproach
+coruscatio: flashing
+deambulatio: walking
+decachordum: decachord
+decursus: course
+delatura: denouncement
+deminoratio: diminution
+denotatio: denotation
+densitas: density
+denudatio: denudation
+descensio: descent
+detentio: detention
+detestatio: detestation
+devoratrix: devourer
+diapsalma: pause
+dignatio: dignity
+disponsatio: distribution
+dissipatio: dispersion
+cudo: anvil
+dolositas: deceit
+dominatus: domination
+dromedaria: she-dromedary
+ektheta: ekthesis
+exasperatrix: exasperator
+exceptorium: exception
+exclamatio: exclamation
+excussio: shaking
+exoratio: supplication
+exsecramentum: curse
+extructio: building
+exustio: burning
+fabulatio: storytelling
+frutectum: shrubbery
+congruentia: congruence
+fluctuatio: fluctuation
+habitatrix: inhabitant
+inclusor: encloser
+inhonoratio: dishonor
+inlusio: mockery
+irrisor: mocker
+impudentia: shamelessness
+inflammatio: inflammation
+inspectio: inspection
+irreverentia: irreverence
+irrisio: mockery
+irritatrix: irritator
+interitio: destruction
+iuratio: swearing
+lamentatrix: lamenter
+lavatio: washing
+libratio: weighing
+linitio: anointing
+litura: blotting
+satyrus: satyr
+linteolum: small linen cloth
+litteratura: writing
+loramentum: strap
+lumbare: loincloth
+magnatus: magnate
+migma: mixture
+minoratio: diminution
+mitigatio: mitigation
+myrice: myrtle
+naptha: naphtha
+nominatio: nomination
+nundinae: market days
+obductio: covering
+obturatio: closing
+offuscatio: obscuration
+oppressio: oppression
+otiositas: idleness
+parietina: wall
+plantarium: nursery
+plastes: sculptor
+ponderatio: weighing
+praecipitatio: precipitation
+praevaricatrix: prevaricator
+pratus: meadow
+precatio: prayer
+prinus: holm oak
+proceritas: tallness
+processio: procession
+promptuarium: storeroom
+capreolus: young roe
+psaltria: female psalm singer
+pusillanimitas: faint-heartedness
+ramusculus: little branch
+reciperatio: recovery
+redditio: return
+redundantia: redundancy
+religiositas: piety
+rememoratio: recollection
+repromissor: promiser
+runcina: plane
+rusticatio: rusticity
+saliunca: wild thyme
+sanctificium: sanctification
+satietas: satiety
+scinus: oak
+sericum: silk
+siccatio: drying
+stillicidium: dripping
+stipulatio: stipulation
+strator: groom
+subversor: subverter
+succensio: kindling
+sufflatorium: blower
+suffossio: undermining
+susceptio: reception
+susurrium: whisper
+thecel: shekel
+topazion: topaz
+actuositas: activity
+adhaesio: adhesion
+adimpletio: fulfillment
+adiutrix: helper
+susurrator: whisperer
+tortio: twisting
+tympanistria: female drummer
+vergentia: slopes
+viror: greenness
+accessio: addition
+adiumentum: help
+allectatio: allurement
+allegatio: allegation
+appellatio: appeal
+assuetudo: habit
+attractio: attraction
+transcensus: crossing
+viriditas: greenness
+catechismus: catechism
+catechumenus: catechumen
+catholicitas: catholicity
+codificatio: codification
+competentia: competence
+compositum: compound
+condescensio: condescension
+conexus: connection
+consessio: sitting together
+conspiratio: conspiracy
+consultatio: consultation
+convergentia: convergence
+cooperatio: cooperation
+credibilitas: credibility
+depositarius: depositary
+disseminatio: dissemination
+dynamismus: dynamism
+effectio: effecting
+efformatio: formation
+evangelizatio: evangelization
+formulatio: formulation
+exigentia: exigency
+exsistentia: existence
+glorificatio: glorification
+gratitudo: gratitude
+hagiographus: hagiographer
+historicitas: historicity
+initiatio: initiation
+inordinatio: disorder
+insertio: insertion
+intercessio: intercession
+invitatio: invitation
+homilia: homily
+moralitas: morality
+operositas: industriousness
+parochus: parish priest
+polytheismus: polytheism
+praefiguratio: prefiguration
+pluralitas: plurality
+proclamatio: proclamation
+promulgatio: promulgation
+propagatio: propagation
+redemptrix: female redeemer
+reiectio: rejection
+repraesentatio: representation
+responsabilitas: responsibility
+solidarietas: solidarity
+abstractio: abstraction
+accretio: accretion
+admistio: mingling
+admotio: approach
+adoperatio: preparation
+scriptio: writing
+summarium: summary
+sustentaculum: support
+transformatio: transformation
+unicitas: uniqueness
+vilitas: vileness
+advertentia: attention
+advocatio: advocacy
+advolatio: flight
+aestimativas: estimative
+alembicum: alembic
+alimentatio: nourishment
+alligatio: binding
+alteratio: alteration
+alternatio: alternation
+angustiatio: narrowness
+anhelitus: breath
+aggressus: attack
+alchemia: alchemy
+alchemista: alchemist
+animadversus: noticed
+annihilatio: annihilation
+anteversio: anteversion
+anticipatio: anticipation
+antipathia: antipathy
+antiperistasis: reaction
+antiquatio: antiquation
+antitypia: antitype
+aphorismus: aphorism
+apogaeum: apogee
+approximatio: approximation
+argumentatio: argumentation
+arietatio: battering
+ascriptio: inscription
+mitella: sling
+assimulatio: assimilation
+astipulatio: agreement
+astrolabium: astrolabe
+augmentatio: augmentation
+beneficentia: kindness
+bracteola: small plate
+calculatio: calculation
+calefactio: heating
+bilanx: double balance
+cavillator: joker
+circulatio: circulation
+circumscriptio: circumcision
+clarificatio: clarification
+coacervatio: heap
+cohibitio: restraint
+coitio: meeting
+colliquatio: melting
+collusor: fellow player
+comminutio: diminution
+commistio: mixing
+complura: many
+commentatio: commentary
+complexio: complexion
+complicatio: complication
+compulsio: compulsion
+concinnatio: arrangement
+concoctio: digestion
+condensatio: condensation
+condus: leader
+configuratio: configuration
+conformitas: conformity
+confutatio: refutation
+conquassatio: shaking
+continuitas: continuity
+contristatio: sorrow
+contrusio: thrusting
+contusio: contusion
+coordinatio: coordination
+corrosio: corrosion
+corrugatio: wrinkling
+crassities: thickness
+curvatio: curvature
+decrescentia: decrease
+defaecatio: defecation
+deflexio: deflection
+concrescentia: growing together
+contractus: contract
+corruptela: corruption
+crematio: cremation
+defossio: digging up
+delicatio: delight
+demissio: sending down
+demonstratio: demonstration
+deperditio: loss
+depraedatrix: female plunderer
+depravatio: depravity
+deprehensio: capture
+derelictio: abandonment
+derivatio: derivation
+desiccatio: drying
+desipientia: folly
+destinatio: destination
+diaphaneitas: transparency
+digestio: digestion
+discidium: separation
+discontinuatio: discontinuation
+discrepantia: discrepancy
+dispensatrix: female dispenser
+dissectio: dissection
+dissimilaritas: dissimilarity
+distillatio: distillation
+divortium: divorce
+dotatio: endowment
+durities: hardness
+ebullitio: boiling
+eiaculatio: ejaculation
+eleemosyna: alms
+elongatio: extension
+elucescentia: brightness
+enucleatio: enucleation
+enumeratio: enumeration
+evaporatio: evaporation
+evitatio: avoidance
+evolatio: flight
+examinatio: examination
+exasperatio: exasperation
+excitatio: excitation
+exclusio: exclusion
+excretio: excretion
+exhalatio: exhalation
+exhorrentia: abhorrence
+exsectio: cutting out
+expansio: expansion
+explosio: explosion
+exporrectio: stretching out
+expurgatio: purification
+exsiccatio: drying
+exspiratio: expiration
+exsuctio: suction
+exstirpatio: extirpation
+exsudatio: exudation
+extractio: extraction
+extravagantia: extravagance
+fastidium: disgust
+foculus: hearth
+farcimen: sausage
+forinsecum: outward part
+fricatio: rubbing
+fricatus: rubbing
+fruitio: enjoyment
+gangraena: gangrene
+garyophyllon: clove
+gestio: management
+graduatio: graduation
+graphium: stylus
+guttula: little drop
+heterogenia: heterogeneity
+humiditas: humidity
+ignitio: ignition
+imbibitium: imbibition
+haereticus: heretic
+homogenia: homogeneity
+imitamentum: imitation
+imitatio: imitation
+imparitas: inequality
+impatientia: impatience
+impinguatio: fattening
+impulsio: impulse
+imum: lowest point
+inaequalitas: inequality
+incarceratio: imprisonment
+incineratio: incineration
+incitatio: incitement
+incorporatio: incorporation
+incrustatio: encrustation
+indagatio: investigation
+inditio: imposition
+inductio: induction
+induratio: hardening
+influxus: influx
+infortunium: misfortune
+infrigidatio: cooling
+infusio: infusion
+inoculatio: inoculation
+inscitia: ignorance
+insidiatrix: female plotter
+insitio: grafting
+insolatio: exposure to the sun
+integralitas: entirety
+interceptio: interception
+laophoron: bearer of tribute
+instinctus: instinct
+irregularitas: irregularity
+irritatio: irritation
+regularitas: regularity
+iurisdictio: jurisdiction
+latitantia: lurking
+levamen: alleviation
+ligatio: binding
+limitatio: limitation
+limositas: sliminess
+liquefactio: liquefaction
+lychnus: lamp
+magnanimitas: magnanimity
+malleatio: hammering
+mancipatio: mancipation
+maturatio: maturation
+membrificatio: formation of limbs
+mercurius: mercury
+meteorum: of meteors
+milliarium: milestone
+moderatio: moderation
+modificatio: modification
+molitio: grinding
+nugator: trifler
+nullitas: nullity
+nutricula: nurse
+disgregatio: separation
+obeliscus: obelisk
+obiectio: objection
+obliquitas: obliquity
+obscuritas: obscurity
+oleositas: oiliness
+opificium: workmanship
+opulentia: wealth
+parallelismus: parallelism
+ostentum: portent
+parallaxis: parallax
+penetratio: penetration
+peragratio: wandering
+perambulatio: perambulation
+percolatio: filtration
+perforatio: perforation
+perlatio: bringing
+perpetuatio: perpetuation
+perspicuitas: clarity
+pertentatio: trial
+pharmacopola: drug-seller
+phiala: vial
+phlegma: phlegm
+pigritia: sloth
+plebeius: plebeian
+plenilunium: full moon
+plumagine: featherwork
+polychresta: useful thing
+porositas: porosity
+praeceptio: precept
+praedispositio: predisposition
+praedominantia: predominance
+praenotio: preconception
+praeoccupatio: preoccupation
+reubarbarum: rhubarb
+petroselinum: parsley
+prehensio: grasping
+pressorium: press
+privatio: deprivation
+procinctus: preparation
+procuratio: procuration
+prolongatio: prolongation
+propensio: propensity
+proportio: proportion
+prosapia: lineage
+promissor: promiser
+punctura: puncture
+putrefactio: putrefaction
+quadriduum: four days
+rarefactio: rarefaction
+recitatio: recitation
+rectificatio: rectification
+reflexio: reflection
+refluxus: reflux
+refocillatio: refreshment
+refractio: refraction
+relaxatio: relaxation
+reluctatio: resistance
+renitentia: resistance
+reparatio: repair
+repercussio: repercussion
+replicatio: replication
+repositio: reposition
+repurgatio: purification
+reseratio: unlocking
+respiratio: respiration
+restauratio: restoration
+resuscitatio: resurrection
+retardatio: retardation
+retusio: blunting
+reverberatio: reverberation
+rhabarbarum: rhubarb
+roboratio: strengthening
+roratio: dewfall
+rotatio: rotation
+rudimentum: rudiment
+schematismos: schema
+sclopetum: musket
+scrutinium: scrutiny
+secuutus: follower
+sedatio: sedation
+semihora: half-hour
+separabilitas: separability
+sequacitas: following
+sermunculus: little sermon
+sesquihora: hour and a half
+similarium: similarity
+sinuatio: bending
+socordia: laziness
+sophistice: sophisticatedly
+spithama: span
+stercoratio: manuring
+substitutio: substitution
+succumbentia: succumbing
+sucinum: amber
+suffragatio: vote
+summersio: submersion
+summotio: removal
+suppositio: supposition
+sympathia: sympathy
+syrtis: quicksand
+tarditas: slowness
+tentamentum: attempt
+tepefactio: warming
+transcursus: crossing
+transplantatio: transplantation
+truncatio: truncation
+undulatio: undulation
+ustio: burning
+transactio: transaction
+usurpatio: usurpation
+variatio: variation
+variegatio: variegation
+vaticinium: prophecy
+vectura: transport
+velificatio: sailing
+velitatio: skirmish
+ventilatio: ventilation
+verificatio: verification
+verisimilitudo: verisimilitude
+versatio: turning
+versoria: rudder
+verticitas: verticality
+vindemiatio: grape harvest
+vitriolum: vitriol
+volutatio: rolling
+zibethus: civet
+cavitas: cavity
+centripetentia: centripetence
+citatio: citation
+cohaesio: cohesion
+decrementum: decrease
+disparitas: disparity
+libramen: balance
+oscillatio: oscillation
+parallelogrammum: parallelogram
+perimetros: perimeter
+permansio: continuance
+vivificatio: vivification
+caetra: small shield
+calliditas: cunning
+covinarius: accomplice
+decessor: predecessor
+delenimentum: allurement
+gutus: drop
+intensio: intensity
+reactio: reaction
+rectangulum: rectangle
+semicirculus: semicircle
+tardatio: delay
+vicinia: neighborhood
+bipennis: double-edged axe
+certatus: struggle
+discessus: departure
+incitamentum: incitement
+invitamentum: invitation
+liventia: blueness
+obtrectatio: detraction
+petulantia: wantonness
+praesumptus: presumption
+praetura: praetorship
+segnitia: sloth
+absurditas: absurdity
+algebraista: algebraist
+algorithmus: algorithm
+analysta: analyst
+characteristica: characteristic
+riscus: risk
+coefficiens: coefficient
+denominatio: denomination
+dexteritas: dexterity
+disquisitio: inquiry
+dissertatio: dissertation
+divisibilitas: divisibility
+eliminatio: elimination
+enodatio: solution
+fictia: fiction
+geometres: geometer
+iunctio: junction
+munificentia: munificence
+peripheria: periphery
+phrasis: phrase
+ratiocinium: reasoning
+concussio: concussion
+disiunctio: disjunction
+effervescentia: effervescence
+polynomium: polynomial
+resolubilitas: resolvability
+sublimatio: sublimation
+tractatio: treatment
+ductio: drawing
+fulguratio: lightning
+hydrodendron: hydrodendron
+incitabilitas: excitability
+intensitas: intensity
+oxydendron: oxydendron
+parotis: parotid gland
+abusus: abuse
+acclamatio: acclamation
+admonitio: admonition
+aedilitas: aedileship
+asella: she-donkey
+attactus: touch
+nigritia: blackness
+physiologia: physiology
+punctio: puncture
+scobis: sawdust
+scutica: scourge
+sollicitatio: solicitation
+specillum: probe
+suppuratio: suppuration
+surditas: deafness
+viatrix: female traveler
+vitalitas: vitality
+aeneator: trumpeter
+aesum: iron
+altercatio: altercation
+aretalogus: storyteller
+auctio: auction
+calamistrum: curling iron
+catenatum: chained
+certatio: struggle
+cinctura: belt
+extersus: wiped
+melongena: eggplant
+abrenuntiatio: renunciation
+cinaedus: catamite
+coercitio: coercion
+cribrum: sieve
+curatura: care
+ephelis: freckle
+etymologicon: etymology
+fraxinetum: ash grove
+gynaeceum: women's quarters
+incile: channel
+lagopus: ptarmigan
+lampreda: lamprey
+legista: legist
+manuculus: little hand
+movita: movita
+oesypum: wool fat
+oryza: rice
+panicum: panic grass
+pharmacum: drug
+promutuum: loan
+rixatrix: female quarreller
+tarmes: termite
+tortuca: tortoise
+aequanimitas: equanimity
+colluvio: mixing
+cucullus: hood
+lutreola: little otter
+quinquevir: five-man commission
+roncus: grunt
+strenuitas: activity
+subregnum: subkingdom
+superfamilia: superfamily
+superregnum: overlordship
+venatrix: huntress
+vivacitas: liveliness
+anisum: anise
+cerasus: cherry
+elegion: song
+genealogus: genealogist
+insultus: assault
+manale: handle
+manatus: manat
+mastruca: rough coat
+naumachia: sea battle
+nepa: scorpion
+notula: note
+agrostis: bent grass
+compectum: compact
+conditorium: tomb
+confector: maker
+coniurati: conspirators
+consutura: stitching
+curculio: weevil
+decemvir: decemvir
+falisca: Faliscan
+iunix: heifer
+lytta: rabies
+porcarius: swineherd
+prioria: priority
+protuberantia: protuberance
+pulica: flea
+pumilio: dwarf
+retinaculum: retaining strap
+riparia: riverbank
+ruscum: butcher's broom
+satureia: savory
+brandeum: relic cover
+coniuratus: conspirator
+contubernalis: tentmate
+desinentia: ending
+destillatio: distillation
+dialogus: dialogue
+horrentia: horror
+digressus: digression
+distichon: distich
+exoletus: faded
+exorsa: begun
+exsequia: funeral
+exsequiae: funerals
+exsulatus: exile
+forpex: forceps
+garrulitas: talkativeness
+gravedo: heaviness
+hibrida: hybrid
+nepeta: catnip
+inobservantia: inobservance
+insectator: pursuer
+intercapedo: interval
+interpellatio: interruption
+lactucula: little lettuce
+labes: stain
+laticlavius: broad-striped
+lautitia: magnificence
+licitatio: bidding
+locatio: lease
+lodicula: lodicule
+ludius: player
+lychnuchus: lamp holder
+mercantia: merchandise
+mimus: mime
+monitio: warning
+lixa: camp follower
+mensarius: moneychanger
+obaeratus: debtor
+oblectamentum: amusement
+obsonium: food
+obtrectator: detractor
+pantomimus: pantomime
+perduellio: treason
+patricius: patrician
+peristylum: peristyle
+perversitas: perversity
+piscatus: fishing
+plausus: applause
+praecordium: diaphragm
+praesagium: presage
+praetextum: pretext
+proavus: great-grandfather
+probrum: disgrace
+progener: descendant
+prolatio: extension
+proscriptio: proscription
+pyrricha: Pyrrhic
+regaliolus: little king
+pumilus: dwarf
+rescriptum: rescript
+rusticitas: rusticity
+segestre: covering
+strigilis: scraper
+strena: gift
+suffragator: supporter
+syngrapha: bond
+taciturnitatas: taciturnity
+togatarius: wearer of the toga
+toreuma: carving
+travectio: transport
+adiunctio: junction
+calcatura: treading
+minutal: minced food
+thalamegus: large boat
+timiditas: timidity
+tragoedia: tragedy
+venalicius: slave dealer
+vigintivir: member of a commission of twenty
+volubilitas: fluency
+xysticus: gymnast
+admurmuratio: murmur
+amandatio: sending away
+amicula: small friend
+amiculum: small cloak
+angiportum: alley
+apologus: fable
+assecula: follower
+orphanus: orphan
+amplificatio: amplification
+aratio: plowing
+assensio: assent
+assentatio: flattery
+authepsa: self-boiler
+bacchatio: bacchanalia
+caltha: marigold
+cervicula: little neck
+circumitio: going around
+circumsessio: siege
+citharista: lyre player
+comissatio: revelry
+margella: small pearl
+splen: spleen
+collaudatio: praise
+condonatio: donation
+conductio: hiring
+confictio: fabrication
+conflictio: conflict
+conquestio: lament
+consuasor: advisor
+cretula: small piece of chalk
+collusio: collusion
+comic: comic
+corem: corem
+delatio: denouncement
+deliberatio: deliberation
+demolitio: demolition
+depeculator: embezzler
+depulsio: expulsion
+despicatus: despised
+deversorium: inn
+devorsor: guest
+digressio: digression
+discriptio: division
+dolabra: axe
+elocutio: elocution
+ereptio: seizure
+ereptor: robber
+everriculum: drag-net
+excursio: excursion
+excursus: digression
+exornatio: ornament
+expilatio: pillage
+exportatio: exportation
+expulsor: expeller
+faeneratio: usury
+frugalitas: frugality
+imitatrix: female imitator
+immanitas: savageness
+immaturitas: immaturity
+immolatio: immolation
+implementum: implement
+importunitas: importunity
+improbatio: reproof
+infirmatio: weakening
+inhumanitas: inhumanity
+iniectio: injection
+intertrimentum: interval
+iudicatio: judgment
+lucellum: small profit
+cucus: cuckoo
+focarius: hearth
+formositas: beauty
+manceps: bidder
+medimnum: medimnus
+moderatrix: female moderator
+myoparo: myoparo
+nihildum: nothing
+nummulus: small coin
+nundinatio: marketing
+patrocinium: patronage
+perfamiliaris: close friend
+peripetasma: curtain
+perpessio: endurance
+praesente: gift
+proagorus: advocate
+quadruplator: informer
+ratiocinator: reasoner
+receptrix: female receiver
+reclamitator: objector
+redimiculum: fillet
+relegatio: relegation
+relictio: relinquishing
+renuntiatio: renunciation
+competitrix: female competitor
+eale: unicorn
+introductor: introducer
+marrubium: horehound
+restipulatio: counter-stipulation
+ricula: small net
+scurra: buffoon
+spoliatio: spoliation
+subscriptio: subscription
+subscriptor: subscriber
+suburbanitas: suburbanity
+taciturnitas: silence
+titubatio: hesitation
+trierarchus: trierarch
+vadimonium: bail
+antistita: priestess
+archipirata: pirate chief
+asportatio: carrying away
+bucula: little cow
+carbasus: fine linen
+castimonia: chastity
+vindicatio: vindication
+vitatio: avoidance
+collibertus: fellow freedman
+conchylium: shell
+imploratio: imploration
+insimulatio: accusation
+panton: all-tone
+rupicola: rock dweller
+autocrator: autocrat
+circumitus: circuit
+internuntia: female messenger
+lapidatio: stoning
+lausa: small measure
+lautumia: stone quarry
+mystagogus: mystagogue
+nauarchus: ship captain
+octophoron: eight-horse chariot
+parelion: parhelion
+piratica: piracy
+praetervectio: passage
+repagulum: barrier
+temperatio: moderation
+venabulum: hunting spear
+deunx: eleven-twelfths
+servolus: small servant
+agnatus: agnate
+conciliatio: reconciliation
+concitatio: incitement
+deltidium: delta
+graculus: jackdaw
+gubernum: helm
+interdictum: prohibition
+irruptio: irruption
+obtestatio: appeal
+rator: reasoner
+sedulitas: diligence
+taxatio: taxation
+trucidatio: massacre
+ascriptor: writer
+centunculus: patched cloak
+quiris: citizen
+rumusculus: rumor
+serrula: small saw
+servulus: small servant
+suasio: persuasion
+suppressio: suppression
+assignatio: assignment
+etesia: etesian
+gratificatio: gratification
+plebicola: demagogue
+portitor: ferryman
+saxetum: rocky place
+circumscriptor: cheat
+decoctor: debtor
+falcarius: scythe-maker
+ganeo: glutton
+incensio: burning
+lubido: desire
+multatio: penalty
+publicatio: publication
+subiector: subjugator
+allevamentum: alleviation
+assectatio: attendance
+auloedus: flute player
+effractura: breaking open
+exstinctor: extinguisher
+vastatio: devastation
+veneficus: poisoner
+adversio: aversion
+anicula: old woman
+calamister: curling iron
+invidentia: envy
+neglectio: neglect
+persalutatio: greeting
+propulsatio: repulsion
+repudiatio: repudiation
+stipatio: attendance
+convocatio: convocation
+direptor: plunderer
+diribitor: distributor
+fiscina: basket
+helluatio: gluttony
+monedula: jackdaw
+mutuatio: borrowing
+obscenitas: obscenity
+coniventia: connivance
+crocota: saffron robe
+deletrix: destroyer
+eluvies: flood
+excisio: cutting out
+exsultatio: exultation
+tabernarius: shopkeeper
+vicanus: villager
+anagnostes: reader
+bestiarium: beast show
+cautor: cautioner
+eiulatus: wailing
+eversor: subverter
+instimulator: inciter
+interdictio: prohibition
+praecentio: chanting
+praedictio: prediction
+simpuvium: libation cup
+sororicida: sister-killer
+assessus: sitting
+concentio: harmony
+concertatio: contest
+conciliatricula: small reconciler
+diritas: harshness
+docilitas: docility
+experiundum: testing
+gravitatio: gravity
+machinula: small machine
+oncidium: oncidium
+photomachinula: small camera
+verticillus: spindle
+balneator: bath keeper
+ganea: tavern
+interfatio: introduction
+labecula: small spot
+ludificatio: mocking
+nitedula: dormouse
+propugnatio: defense
+sororius: sisterly
+veprecula: small thicket
+prolapsio: slipping
+protervitas: impudence
+pusio: little boy
+animula: small soul
+bimaritus: twice married
+pulsatio: striking
+rapacitas: rapacity
+relicuum: remainder
+spoliatrix: female plunderer
+archetypum: archetype
+debilitatio: debilitation
+debitio: debt
+declamatio: declamation
+decuriatio: decuriation
+deflagratio: deflagration
+dissidentia: dissent
+epilogus: epilogue
+escensus: climbing
+excommunicator: excommunicator
+fautrix: female supporter
+hira: furrow
+hypocauston: hypocaust
+hypocaustum: hypocaust
+cupressus: cypress
+ineptia: ineptness
+lanternarius: lantern bearer
+lemonium: lemon tree
+librariolus: small book
+manupretium: hand price
+mimula: little mime
+occursatio: meeting
+offensiuncula: small offense
+perpotatio: drinking
+praediator: plunderer
+propola: huckster
+reprehensor: reproacher
+ructa: belch
+sarracum: cart
+cupressetum: cypress grove
+dioecetes: diocese
+insulsitas: insipidity
+cepulla: small onion
+fragilitas: fragility
+penator: Penates
+remansio: stay
+sternutum: sneeze
+suasum: persuasion
+tergiversatio: tergiversation
+transfusio: transfusion
+caurus: northwest wind
+commentariolum: little commentary
+compellatio: address
+compotor: fellow drinker
+compransor: fellow diner
+dispertitio: distribution
+effrenatio: unbridling
+fustuarium: flogging
+lusor: player
+pransor: diner
+impactus: impact
+ingressio: entrance
+inquies: restless
+minacia: threatening
+nuntiatio: announcement
+percursatio: running through
+peristroma: rug
+quasillum: small basket
+stupiditas: stupidity
+corycus: leather sack
+cruciamentum: torment
+decempedator: land surveyor
+pronepos: great-grandson
+propudium: disgrace
+revocatio: recall
+septemvir: seven-man commission
+suburbium: suburb
+choliambus: choliamb
+esuritio: hunger
+grabatus: small bed
+hendecasyllabus: hendecasyllabic
+infacetia: inelegance
+latusculum: small side
+mnemosynum: memento
+mundities: cleanliness
+aequinoctiale: equinoctial
+amaracus: marjoram
+bracchiolum: small arm
+chronicon: chronicle
+erifuga: fugitive
+pilleus: cap
+pipio: chirp
+rapum: turnip
+semitarius: narrow
+veternus: old age
+epistolium: little letter
+frondator: leaf-stripper
+iocatio: jest
+photographia: photography
+remigium: rowing
+apothecarius: apothecary
+haruspicium: haruspicy
+pedicellus: small stalk
+sonipes: horse
+tremulus: trembling
+unguen: ointment
+unigena: only begotten
+aequipondium: equilibrium
+ammoniacum: ammoniac
+complementum: complement
+contiguitas: contiguity
+contrarietas: contrariety
+corporeitas: corporeity
+deceptor: deceiver
+diametros: diameter
+ellychnium: wick
+flexilitas: flexibility
+fluiditas: fluidity
+fulgetrum: lightning
+gyratio: rotation
+imminutio: diminution
+immutabilitas: immutability
+imperfectio: imperfection
+incommensurabilitas: incommensurability
+immensitas: immensity
+inflexio: inflection
+intellectio: understanding
+interstitio: interstice
+lubricitas: slipperiness
+machinamentum: machine
+monor: money
+orificium: opening
+ponderositas: weightiness
+praeordinatio: preordination
+alticola: highlander
+cichorium: chicory
+digeries: digestion
+hyalus: glass
+hystrix: porcupine
+lobus: lobe
+plovia: rain
+psora: scabies
+punctulum: little point
+retrogradatio: retrogradation
+scabritia: roughness
+scintillatio: sparkling
+soliditas: solidity
+titillatio: tickling
+tornator: turner
+bifurcum: forked
+bulbus: bulb
+carbonaria: coal
+crena: notch
+morio: fool
+penicillum: little brush
+strigatus: scraping
+torculum: press
+amphiprostylos: amphiprostyle
+ancula: maid
+euforbea: euphorbia
+fario: trout
+iulus: millipede
+mulsura: milking
+pardalis: leopard
+peloris: bivalve
+salimuria: salt brine
+amarantus: amaranth
+anachoreta: anchorite
+anculus: servant
+androgynus: androgynous
+arcuarius: bowman
+baetulus: Baetylus
+birota: two-wheeler
+bisextus: leap year
+bromos: broom
+bryonia: bryony
+buglossa: borage
+burricus: small horse
+correus: co-defendant
+maura: Moorish
+taura: small bull
+adventura: adventure
+adventurus: about to arrive
+aenum: cauldron
+brodium: broth
+calcatrix: kicker
+carnarium: meat shop
+carnarius: butcher
+coenobita: coenobite
+coenobium: monastery
+corrugator: wrinkler
+erythropus: red-footed
+idos: idea
+pustulatum: blistered
+scoparius: broom maker
+serpentaria: serpent woman
+cervicapra: antelope
+epops: hoopoe
+foenum-graecum: fenugreek
+hemionus: half-donkey
+hippurus: horse-tail
+lotor: washer
+molinum: mill
+physeter: whale
+sabdariffa: hibiscus
+spondylus: spondylus
+Capucinus: Capuchin
+abrotonum: southernwood
+acanthocalyx: prickly calyx
+actaea: baneberry
+albicilla: white-tailed
+andron: hallway
+asclepion: Asclepion
+cyperos: sedge
+inceptor: beginner
+lemmus: lemming
+microtympanum: small drum
+paniscus: Paniscus
+pinax: tablet
+porpita: sea jelly
+pyralis: firefly
+sepalum: sepal
+vibex: stripe
+allubentia: inclination
+antoecus: Antoecus
+areopagites: Areopagite
+asotia: wastefulness
+axinomantia: divination
+bibliothecarius: librarian
+blandiloquentia: flattery
+oratrix: oratrix
+ovarium: ovary
+scriptrix: female writer
+tudicula: hammer
+admonitor: admonisher
+amnicola: stream dweller
+bracile: bracelet
+bursarius: bursar
+characteristicus: characteristic
+chiragra: gout
+conamen: effort
+cyclas: tunic
+eductor: leader
+furnarius: baker
+hordeolus: stye
+patellula: little plate
+pulegium: pennyroyal
+pylae: gate
+raia: ray
+rhythmus: rhythm
+teredo: shipworm
+trichila: arbor
+voivoda: voivode
+Cappadox: Cappadocian
+bellitatem: beauty
+brandus: brandy
+centumvir: centumvir
+depositum: deposit
+dictamen: writing
+dochmius: dochmius
+ephippium: saddle
+filiaster: stepson
+gulo: glutton
+ientatio: breakfast
+inductorium: inductor
+leria: complexion
+mespilum: medlar
+molossus: Molossian
+spacus: spade
+syrma: train
+taeniola: ribbon
+tentaculum: tentacle
+thia: aunt
+thius: uncle
+antiae: temples
+cembra: pine
+chartula: little paper
+chartularius: keeper of the records
+embrocha: spit
+hamaxostichus: train
+pilentum: carriage
+prurigo: itching
+lepor: charm
+rhomboides: rhomboid
+pinaster: maritime pine
+trochiscus: lozenge
+epagoge: introduction
+intributio: tribute
+lazulum: lazuli
+melus: song
+miltos: red ochre
+seminarius: seminarian
+subclassis: sub-class
+superclassis: superclass
+synaxis: synaxis
+abismus: abyss
+aetaticum: age
+alemosyna: alms
+alysson: alyssum
+avocatio: diversion
+collatrix: collatrix
+forda: pregnant
+lanarius: wool worker
+leopardus: leopard
+naturalitas: naturalness
+ploppus: plop
+thunnus: tuna
+ambustio: burn
+angiportus: alley
+chrysoscele: gold leg
+conium: hemlock
+crambe: cabbage
+delusio: delusion
+emacitas: leanness
+hallus: big toe
+hyoscyamus: henbane
+melem: honey
+monococcum: einkorn
+racana: racana
+tartarum: tartar
+trifolum: clover
+trua: ladle
+uligo: moisture
+vaporarium: vaporarium
+alticorpus: tall
+bambusa: bamboo
+chlorum: chlorine
+corax: raven
+feretrum: bier
+gammarus: lobster
+maena: maena
+mannus: horse
+meleagris: turkey
+multifilius: many-threaded
+pugilator: boxer
+repraesentamen: representation
+abdicatrix: female renouncer
+abstrusio: concealment
+acanthyllis: prickly plant
+accubitalia: couches
+acopos: acopos
+aculeolus: little thorn
+adiuratio: adjuration
+advocamentum: advocacy
+aegror: sick person
+aeruca: caterpillar
+chalcographus: copperplate engraver
+comula: small lock of hair
+elaphus: deer
+fimicola: dung beetle
+hadra: heavy
+hexagonum: hexagon
+latifascia: broad fascia
+leucops: white-eye
+lomentum: bean meal
+pseudomalleus: false hammer
+squamigeri: scalebearers
+tarum: tarum
+tetragonum: tetragon
+typographus: printer
+accubitatio: reclining
+acor: bitterness
+aenitologium: brass sundial
+affectatrix: female pretender
+agnominatio: play on names
+alcea: hollyhock
+alimonium: sustenance
+amygdalus: almond
+angarius: messenger
+antescholanus: ante-room
+antescolarius: before scholar
+aphractus: unboarded
+aquiminale: water-carrier
+antisagoge: antisagoge
+agnomentum: nickname
+aristolochia: birthwort
+armoracia: horseradish
+arvix: arvix
+averta: avertisement
+avertarius: averter
+babulus: babulus
+baccina: small berry
+bacrio: staff
+basilicola: basil dweller
+bonusculum: little good
+bratus: noise
+caballatio: horseman
+caballio: horseman
+caballion: horseman
+cacabulus: small pot
+cacalia: cacalia
+cachecta: cachexia
+cachinnatio: laughter
+cachla: chaff
+cacula: cook
+caculatum: cooked
+gallinarius: henkeeper
+caldor: warmth
+campsor: moneychanger
+casmus: casmus
+catarrhus: catarrh
+catillamen: small dish
+cessatrix: idler
+chalcanthum: chalcanth
+chamaezelon: ground-apple
+chrysocalis: golden
+chrysocanthos: golden flower
+circulatrix: circulatrix
+circumiectio: circumference
+circumpotatio: drinking
+clabulare: baggage wagon
+clacendix: noise maker
+clunaclus: clown
+cocleola: little snail
+cohum: beam
+comissator: reveller
+confligium: conflict
+consentium: consensus
+conviciolum: small reproach
+chorepiscopus: rural bishop
+colyx: husk
+conciliatrix: female conciliator
+contemptrix: female despiser
+cooptatio: cooptation
+cotoria: cotoria
+crassificatio: thickening
+crebritudo: frequency
+crocodilion: small crocodile
+cunela: cradle
+cynoglossos: hound's tongue
+cynoides: dog-like
+fultura: support
+apparamentum: preparation
+cinusia: small bed
+clinia: bed
+cotoneum: quince
+cotoneus: quince
+dabla: table
+dactyliotheca: ring case
+damalio: small ox
+damasonion: small ox
+deversitor: guest
+fulvidraco: yellow dragon
+linarius: linen worker
+melimelum: apple
+defricatio: rubbing
+dehonestatio: dishonor
+desecatio: drying
+diaporesis: diaporesis
+diptotum: diptote
+discursor: runner
+dispositura: arrangement
+divulsio: tearing
+dolamen: pain
+drimyphagia: spicy food
+dysuriacus: suffering from dysuria
+eborarius: ivory worker
+ebriamen: drunkenness
+hebenus: ebony
+ianthis: violet
+iasione: hyacinth
+iaspachates: jasper
+iasponyx: jasper
+iatralipta: ointment
+impertitio: distribution
+scalmus: rowlock
+alaternus: alaternus
+blennus: mucus
+murrum: wall
+pactiuncula: little agreement
+parciloquium: little speech
+pator: sufferer
+pellectio: selection
+pemma: cake
+penteris: five-oared
+permissor: permitter
+dolba: dagger
+peritonaeum: peritoneum
+perstrictio: closing
+desideus: lazy
+ebriositas: drunkenness
+petoritum: carriage
+pheleta: cake
+phlebotomia: phlebotomy
+pietaticultrix: piety cult
+pinoteres: crab
+pinsatio: pounding
+saccatum: sack
+spelaeum: cave
+ecstasis: ecstasy
+enormitas: enormity
+equulus: small horse
+erysisceptrum: erysisceptrum
+erysithales: erysithales
+euphrosynum: euphrosynum
+euplia: euplia
+exacerbatrix: female exasperator
+exscensio: scaling
+exsolutio: loosening
+fabatarium: bean-field
+fabricatrix: female maker
+fabricensis: factory worker
+fabricula: small workshop
+fabrificatio: making
+macropus: macropus
+sacal: sacred
+fabulositas: fable
+fabulus: fable
+febricula: slight fever
+fetutina: stinking
+frigidatio: chilling
+fulcimen: prop
+fundula: small base
+fustibalator: slinger
+gaesum: spear
+genesta: broom
+habitatiuncula: small dwelling
+habitio: dwelling
+strobus: pine cone
+aluta: soft leather
+brittunculus: little Briton
+caementarius: stonemason
+choreus: choreus
+chrysaetos: golden eagle
+commobilitas: joint movement
+crustum: crust
+heliotropium: heliotrope
+hemistichium: hemistich
+hirnea: kidney
+hydropismus: hydropsy
+iactatrix: female boaster
+iaculatio: hurling
+incingulum: girdle
+incommobilitas: immobility
+incumulatio: accumulation
+insomnietas: sleeplessness
+interturbatio: disturbance
+ischuria: ischuria
+putorius: ferret
+sargus: sargus
+iaculamentum: missile
+amicitatem: friendship
+iaculatrix: female thrower
+iugalitas: yoked
+iuscularius: soup maker
+labdacismus: lisp
+laboratio: labor
+lanositas: wooliness
+lateramen: brick
+levigatio: smoothing
+alburnus: whiteness
+dumus: bush
+frambesia: frambesia
+infectio: infection
+linimen: liniment
+linimentum: liniment
+liquamentum: liquid
+lithargyrus: litharge
+luctatio: struggle
+ludificatus: mocked
+macaerinthe: sorrel
+obliteratio: obliteration
+phasis: appearance
+rhamnus: buckthorn
+rosmarinus: rosemary
+siphunculus: small tube
+Hiberus: Iberian
+aposplenos: aposplenos
+cataegis: cataegis
+claustellum: small lock
+claustrarius: cloistered
+clavicarius: key bearer
+clavichordium: clavichord
+clostellum: small lock
+limma: linden
+machaera: sword
+machinamen: machine
+maculatio: staining
+nilus: Nile
+raptio: seizure
+Maccabaeus: Maccabee
+draucus: draucus
+gallopavo: turkey
+ligusticum: lovage
+mentagra: chin
+sibilatrix: female whistler
+cephalaea: headache
+crepundia: toys
+foederatio: federation
+impilium: eyebrow hair
+inventarium: inventory
+iuglans: walnut
+luella: wool
+martyrologium: martyrology
+mensarium: monthly
+mugil: mullet
+polypodium: polypody
+sedimentum: sediment
+serpula: small serpent
+campania: plain
+choana: funnel
+epoophoron: epoophoron
+mantum: mantle
+melioratio: improvement
+narica: nostril
+offula: morsel
+postliminium: postliminium
+praecantor: precentor
+principissa: princess
+solamen: comfort
+spartum: esparto
+Capitolium: Capitol
+absedium: siege
+adumbratio: adumbration
+arcionem: arcion
+conductrix: female contractor
+decoctio: decoction
+dida: dida
+exemplares: models
+infirmaria: infirmary
+lectrix: female reader
+necatrix: female killer
+parasita: parasite
+selenites: selenite
+vericulum: small rod
+Setonix: Setonix
+campio: champion
+cavannus: little basket
+eremus: desert
+hydraulus: hydraulic
+ianuella: small door
+mantisa: small weight
+neovagina: new vagina
+obituarius: obituarius
+redintegratio: reinstatement
+thalictrum: meadow-rue
+virgator: rod bearer
+cavamen: cavity
+coincidentia: coincidence
+manciparius: enslaver
+manicula: small hand
+marmusculum: little marble
+medicatio: medication
+melosmos: singing
+mercimonium: commodity
+metrocomia: urban care
+miratio: admiration
+motatio: motion
+multiangulum: multi-angle
+musivum: mosaic
+myrsineum: myrtle grove
+saepimentum: hedge
+musivarius: mosaic worker
+myxum: slime
+nablium: harp
+nasica: long nose
+navities: fleet
+naccum: small purse
+neglector: neglecter
+nyctalopa: nyctalops
+obaerarius: debtor
+obambulatio: walking
+obauditio: hearing
+obauditus: hearing
+obdensatio: thickening
+obscuratio: obscuration
+obtention: obtaining
+obtusio: dulling
+orestion: Orestes
+oxymyrsine: oxymyrsine
+opella: small work
+opulentitas: opulence
+plicatrix: folder
+polygonos: knotgrass
+posticulum: little post
+potamogeton: pondweed
+potrix: female drinker
+praeiuratio: praeiuratio
+primivirgius: first lash
+proclinatio: inclination
+proflamen: proflamen
+proflatus: proflatus
+psalmidicus: psalm-singer
+psalmisonus: psalm-singer
+ptochotropheum: almshouse
+pycnitis: pycnitis
+diruptio: disruption
+quadratio: quadrature
+quadrifinium: quadrifinium
+qualum: basket
+rabula: petty lawyer
+rallum: Rallum
+rallus: rail
+rectitator: reader
+relevamen: relief
+relevatio: lifting up
+remoratio: delay
+repensatio: reconsideration
+resonantia: resonance
+resonatio: resounding
+restinctio: extinguishment
+rudor: rudor
+sambucina: elder tree
+sandaligerula: small sandal
+sebaceus: sebaceous
+sectrix: female cutter
+sectura: cutting
+sedecula: small seat
+sempiternitas: eternity
+serrago: serrago
+signarius: sign bearer
+similitas: similarity
+socialitas: sociality
+solearius: sandal maker
+spadonatus: castrated
+spondylion: small vertebra
+stabilimen: support
+staphylodendron: staphylodendron
+stereobata: stereobata
+stergethron: stergethron
+subactor: subduer
+subex: subex
+subligatio: binding
+succortex: subcortex
+suffrenatio: bridling
+tabellio: notary
+tabernacularius: tent-maker
+turdus: thrush
+vacerra: vacerra
+susurratrix: female whisperer
+syngraphus: scribe
+tabernula: small shop
+tabificatio: wasting
+tabulamentum: tablet
+tabulinum: small board
+tectio: covering
+thermula: small bath
+vacca: small cow
+tabularius: tabularius
+testatio: testimony
+therma: thermal spring
+torvitas: fierceness
+traiector: crosser
+trapetus: press
+tabum: decay
+temperies: mildness
+traiectorium: crossing
+ulceraria: ulceraria
+ulceratio: ulceration
+ulex: ulex
+ulmarium: elm grove
+urigo: urigo
+utrarius: leatherman
+vacillatio: vacillation
+vacivitas: emptiness
+vaframentum: trick
+vafritia: craftiness
+vagatio: wandering
+vastatrix: female devastator
+vertagus: vertagus
+vesicaria: bladderwort
+viduitas: widowhood
+vulticulus: small face
+xanthos: yellow
+xeniolum: little gift
+xenoparochus: foreigner
+xerocollyrium: dry collyrium
+xeromyrrha: dry myrrh
+xiphion: xiphion
+xylinum: xylinum
+xylocassia: xylocassia
+xylocinnamomum: xylocinnamon
+xylophytum: xylophytum
+xystarches: xystarches
+zeus: Zeus
+abpatruus: great-uncle
+blachnon: blanket
+boatus: bellowing
+brabeum: reward
+mastiche: mastic
+plostrum: cart
+sesquidies: one and a half days
+farfarum: colt's foot
+tubicen: trumpeter
+adiectio: addition
+adiudicatio: adjudication
+adiunctor: adjoiner
+fidicina: female lyre player
+gobius: goby
+iynx: wryneck
+orcus: underworld
+pelluvia: basin
+segmen: segment
+deiector: thrower
+deiuratio: taking an oath
+dijudicatio: judgment
+dijudicatrix: female judge
+dijugatio: separation
+disiurgium: disiurgium
+fideiussio: surety
+iniucunditas: unpleasantness
+iniunctio: injunction
+iniuriator: injurer
+interiectura: interjection
+tributor: payor
+iacea: small flower
+grunnitus: grunting
+acceptrix: female receiver
+adulatrix: female flatterer
+adulteratrix: female adulterer
+adversatrix: female opponent
+aedifex: builder
+arrha: pledge
+ballux: ballux
+balneatrix: female bather
+callithrix: beauty
+calumniatrix: female accuser
+cantatrix: female singer
+carpocapsa: carpocapsa
+itinerarium: itinerary
+mammothreptus: spoiled child
+anisoplia: anisoplia
+automatum: automaton
+birotula: small bicycle
+buculus: little bull
+cardunculus: small thistle
+cibatus: food
+coctilia: baked goods
+copulatrix: female copulator
+cupula: cupule
+glirarium: dormouse
+herous: hero
+idiologus: idiologus
+lepidium: lepidium
+maripalus: marsh dweller
+molecula: molecule
+obsequiae: obsequies
+ophthalmicus: eye
+splanchnocranium: splanchnocranium
+tarandrus: tarandrus
+turbulentia: turbulence
+umbella: small umbrella
+Spartiates: Spartans
+abnepos: great-grandson
+abneptis: great-granddaughter
+abscessio: abscess
+abusor: abuser
+acanthillis: spiny plant
+acatus: ship
+accendium: kindle
+acceptilatio: discharge
+anthias: anthias
+asphodelus: asphodel
+ballistarius: ballista operator
+ballistia: ballista
+cephalus: head
+clunis: buttock
+cruciamen: torment
+helleborus: hellebore
+occidio: massacre
+occisor: killer
+Naziraeus: Nazarene
+abortium: abortion
+acridium: locust
+actuariola: small ship
+adelostoma: adelostoma
+adenocalyx: glandular calyx
+arquata: arched
+camaeus: cameo
+fimetum: dung
+malitas: evil
+ocris: hill
+pernarius: thigh
+perpetuitas: perpetuity
+pirarius: pear grower
+prologus: prologue
+sexvir: six-man commission
+supernumerarius: supernumerary
+synedrus: synedrus
+carroballista: carroballista
+monographia: monograph
+oblivium: oblivion
+parochia: parish
+absitas: absitas
+papissa: female pope
+Israelita: Israelite
+Laconicum: laconicum
+Latinum: Latin
+andrachne: andrachne
+cavaedium: courtyard
+dumetum: thicket
+gallinarium: henhouse
+lactarius: milk seller
+luparius: wolf hunter
+lupellus: little wolf
+pentagonum: pentagon
+profilius: descendant
+quadrigula: quadrigula
+sentimentum: sentiment
+coxo: hip
+jujuba: jujube
+pellarius: furrier
+suile: pigsty
+anhelus: panting
+cameratio: vaulted
+caprile: goat pen
+cluor: blood
+communismus: communism
+cooperculum: covering
+corylus: hazel
+infinitivus: infinitive
+maneanum: morning
+ningor: snow
+phthongus: sound
+remulcum: tow rope
+satispassio: enough suffering
+stadile: stadium
+tribon: tribon
+Gaipor: Gaipor
+Lucipor: Lucipor
+Marcipor: Marcipor
+Naepor: Naepor
+Olipor: Olipor
+Publipor: Publipor
+Quintipor: Quintipor
+catulaster: little puppy
+cestrum: cestrum
+dapifex: steward
+falcastrum: small sickle
+meninga: meninga
+mentastrum: wild mint
+molimen: effort
+mulctra: milking vessel
+mulctrum: milking vessel
+murdrum: murder
+nucifrangibulum: nutcracker
+offex: offense
+parasitaster: small parasite
+pedicatio: pedication
+perfinitio: perfinitio
+pueraster: little boy
+rapistrum: rape
+retifex: net maker
+salebra: roughness
+signifex: sign bearer
+talitrum: jump
+thuribulum: censer
+ubicatio: ubicatio
+albinucha: white-necked
+asilus: asilus
+bacha: bacha
+caligatus: booted
+chelydrus: chelydrus
+cochlearium: spoon
+culcita: cushion
+equitulus: small horse
+extortor: extorter
+haereseus: haereseus
+haeresiacus: heretic
+lunatio: moon phase
+pericarpium: pericarp
+phthisicus: consumptive
+acroasis: lecture
+acrocorium: acrocorium
+amphibrachys: amphibrach
+caliditas: heat
+canistellum: small basket
+carcharias: shark
+catorchites: catorchites
+cedretum: cedar grove
+centaureum: centaury
+illapsus: gliding
+incantamentum: incantation
+leontopetalon: lion's foot
+nepotatio: drink
+poppyzon: poppy juice
+rubecula: robin
+tredecennium: thirteen years
+acorus: acorus
+aemulatrix: female rival
+alisma: alisma
+amasia: lover
+amasius: lover
+circumlocutio: circumlocution
+defrutum: must
+dividium: division
+elaphoboscon: deer-scaring plant
+iusculum: little broth
+locutuleia: small speech
+locutuleius: small speaker
+parilitas: parity
+praelocutio: preface
+proloquium: preface
+secutuleia: follower
+sterceia: dung heap
+sterteia: snoring
+telaria: loom
+Eumenides: Eumenides
+Fescenninus: Fescennine
+abamurus: abamurus
+adaequatio: equalization
+adespota: adespota
+admonitorium: warning
+blattaria: blattaria
+carpio: carpio
+ceratium: ceratium
+chrysolithus: chrysolith
+condux: leader
+duodecennium: twelve years
+gastaldus: steward
+inceptio: inception
+indolentia: indolence
+intibus: chicory
+invisibilitas: invisibility
+leucopus: leucopus
+livia: livia
+lurco: glutton
+morositas: moroseness
+nartatio: nartatio
+octennium: eight years
+parabalani: parabalani
+parabolanus: parabolanus
+pilax: pilax
+pratulum: small meadow
+schediasma: improvisation
+sortilegus: sortilegus
+staticum: stable
+tanos: tanos
+telonium: telonium
+tribrachys: tribrach
+tribrevis: three-short
+Iapys: Iapys
+Nereis: Nereid
+admissor: admissor
+alicula: small wing
+alvina: small belly
+ancylista: curser
+aspretum: rough place
+attestatio: attestation
+bucetum: bucetum
+busticetum: cemetery
+buxetum: box grove
+calipha: calipha
+citretum: citrus grove
+cornetum: horn
+debacchatio: debauchery
+dialyton: daily
+funetum: rope yard
+ianus: Janus
+iuncetum: rush grove
+lauretum: laurel grove
+licentiatus: licentiate
+livedo: lividity
+lotium: urine
+magalia: huts
+masculetum: little male
+novelletum: small grove
+nucetum: nut grove
+olenticetum: olenticetum
+oletum: small garden
+opobalsametum: balsam grove
+oxynosema: oxynosema
+platanetum: plane grove
+pometum: orchard
+populetum: poplar grove
+porculetum: small pig
+rumpotinetum: small thorn
+sampsa: sampsa
+secundogenitura: second son
+sophos: sophos
+sophus: wise
+theos: god
+theosophia: theosophy
+theosophus: theosophist
+ultrix: female avenger
+veteretum: old
+viminetum: willow grove
+Parthus: Parthian
+Saracenus: Saracen
+animicida: soul killer
+apsinthites: absinthe
+arcella: small chest
+catinum: bowl
+cibicida: food killer
+cicuticen: flute player
+citharicen: lyre player
+corporicida: body killer
+fidicen: lyre player
+foria: carrying pole
+hepatizon: liver
+lapicida: stonecutter
+lignicida: woodcutter
+liticen: trumpeter
+lyricen: lyre player
+noctiluca: glowworm
+oscen: bird
+parenticida: parricide
+paronymon: synonym
+psalmicen: psalm singer
+saccabus: money bag
+vermina: worms
+wargus: outlaw
+utricida: bag maker
+infanticidium: infanticide
+sororicidium: sister-killing
+traumaticum: traumatic
+aeroplanum: airplane
+attributor: attributer
+burgravius: burgrave
+castanearius: chestnut seller
+circen: circus
+combibo: drinker
+contiger: contiger
+libriger: book carrier
+ornatrix: female dresser
+procrastinatrix: procrastinator
+saltatrix: female dancer
+salutiger: salutiger
+ustrina: burning place
+Hiber: Iberian
+Iunonicola: worshipper of Juno
+arura: plowland
+bomiscus: loud noise
+camox: camox
+epitaphium: epitaph
+esor: esor
+excommunicatio: excommunication
+fidepromissor: promisor
+flasco: flask
+gazella: gazelle
+incisio: incision
+itinerans: itinerant
+locellus: small place
+lolium: darnel
+ombria: rain
+opobalsamum: balsam
+paragraphus: paragraph
+petaurista: acrobat
+pilamalleus: mallet
+rasorium: razor
+reginula: small queen
+rhexis: rupture
+threnodia: threnody
+zelivira: jealous
+Nomas: nomad
+avicella: small bird
+buccea: small mouth
+cocles: one-eyed
+cosmopolitismos: cosmopolitanism
+fidiculae: small lyre
+geognosia: geognosy
+glycyrrhiza: liquorice
+gurdus: fool
+lavatorium: washroom
+oryctognosia: oryctognosy
+oryctologia: oryctology
+peperomia: peperomia
+piscatrix: female fisher
+plerumque: mostly
+precativus: prayerful
+pugnatrix: female fighter
+quelea: quelea
+sphaeroglossa: sphaeroglossa
+uranologia: uranology
+veglo: veglo
+zarda: zarda
+zoognosia: zoognosy
+zootrophion: zoo
+zupania: zupania
+asaphatum: asphalt
+ballivus: bailiff
+bardus: dull
+barrus: barrus
+biocolyta: biocolyta
+cautes: cliff
+corrigiuncula: little correction
+cyclaminos: cyclamen
+cynomazon: dog woman
+desertio: desertion
+displosio: explosion
+elephantia: elephantiasis
+ermina: ermine
+haspa: clasp
+novennium: nine years
+opacitas: opacity
+pervigilium: vigil
+phalaena: moth
+planetula: small planet
+porcetra: little pig
+praemonitio: premonition
+scabinus: scabinus
+taxiraeda: taxi
+tromocrata: terrorist
+vascellum: small vessel
+acoetis: companion
+antitheton: antitheton
+caladrius: caladrius
+casearius: cheese
+coraceonem: crow
+eximperator: ex-emperor
+flotum: flotum
+fulica: coot
+grassatio: attack
+hallebarda: halberd
+lethargia: lethargy
+litargia: litargia
+manuballista: crossbow
+meridiatio: siesta
+mosquetum: mosquito
+patrina: female patron
+pistolium: small pistol
+pusus: small boy
+regyratio: turning back
+somnolentia: drowsiness
+subregio: subregion
+trygon: stingray
+vicennium: twenty years
+vicissitas: vicissitude
+zephirum: west wind
+zephyrus: west wind
+Aquitanus: Aquitanian
+Cantabra: Cantabrian
+Cantabrus: Cantabrian
+Occitanus: Occitanian
+allevator: lifter
+architecta: female architect
+ciris: ciris
+comissatus: feast
+coniurator: conspirator
+decocta: decoction
+helcium: yoke
+lectuaria: lectuaria
+lixiva: lye
+picosa: pitch
+puga: little girl
+repletio: filling
+soliculum: small sun
+acucula: little needle
+attributrix: female attribute
+aviola: little bird
+aviolum: small bird
+carduelis: goldfinch
+condictum: agreement
+conrogata: female gatherer
+conscensus: agreement
+convalescentia: convalescence
+coopertura: covering
+crinon: hair
+dimetiens: measuring
+dissonantia: dissonance
+domitura: taming
+exilitas: thinness
+expletrix: female filler
+exsuperantia: preeminence
+frustratus: frustrated
+inanitas: emptiness
+insanitas: madness
+lapsana: lamb's lettuce
+laqueator: strangler
+lascivitas: wantonness
+matrina: godmother
+nepotatus: nepotism
+phagedaena: ulcer
+praemandata: precepts
+pretiator: appraiser
+prodigentia: profligacy
+remorsus: remorse
+renidentia: brightness
+repercussus: repercussion
+stiria: icicle
+tinus: viburnum
+vibratus: vibration
+barrum: barrum
+apluda: chaff
+mullus: mullet
+tamarix: tamarisk
+glastum: woad
+grallae: stilts
+glaesum: amber
+Romanum: Roman
+acona: anchovy
+brasmatiae: trembling
+cotho: fool
+damnaticum: condemnation
+labina: landslide
+visaticum: toll
+Februarius: February
+aelinos: windstorm
+apocolocyntosis: deification as a pumpkin
+asciola: little bag
+aucellus: little bird
+bellitia: beauty
+borago: borage
+boscaticum: forest tax
+brasium: malt
+celox: swift ship
+coquinarium: kitchen
+cordarium: heart medicine
+crumena: purse
+diphthongus: diphthong
+duplicarius: soldier receiving double pay
+exaratio: writing out
+fibella: little clasp
+foliaticum: foliage
+forica: public toilet
+fratellus: little brother
+gauta: cheek
+gomphus: wedge
+helops: marsh
+ianiculum: Janiculum Hill
+incitabulum: incentive
+lacticinium: dairy product
+luror: paleness
+missaticum: mission
+myrtatum: myrtle grove
+myrtillus: bilberry
+partiarius: sharecropper
+piltrum: trifle
+psychopompus: guide of souls
+reniculus: little kidney
+sagia: scythe
+salarius: salary
+sambatum: Saturday
+santerna: twilight
+sartor: tailor
+smeralda: emerald
+smeraldus: emerald
+superanus: overlord
+vallus: stake
+vargus: bow-legged
+Cosar: Cossack
+Cosareus: Cossack
+alausa: alausa (a type of bird)
+albucus: white flower
+amphicomos: adorned with hair
+ascopera: wing case
+aspilates: unspotted
+autobirota: motorcycle
+avocamentum: distraction
+balatro: jester
+baphium: dye
+broccus: projecting teeth
+bromus: brome grass
+bronchia: bronchia
+bronchium: bronchium
+brontea: thunder
+callais: turquoise
+catochitis: retaining stone
+ceramitis: clay pot
+ceraunia: thunderstone
+ceritis: waxy
+chalcophonos: bronze-voiced
+chloritis: greenstone
+choaspitis: Choaspes river water
+choraules: flute player
+cimussa: wild olive
+cnecos: safflower
+cnodax: knot
+cremium: hearth
+crocallis: bright yellow moth
+diadochos: successor
+dovana: godsend
+encaenia: dedication festival
+erotylus: little love
+eureos: gold coin
+isatis: woad
+marcor: withering
+melichrysos: honey-colored
+nerium: oleander
+ononis: restharrow
+reformatio: reformation
+sandaresus: red dye
+serpyllum: wild thyme
+terebinthizusa: resinous
+toculio: small axe
+tradux: branch
+anancitis: necessity
+ancrae: clamps
+arsio: burning
+chrismus: chrism
+christogramma: Christ monogram
+copis: knife
+crismon: chrism
+dasea: dense
+dendritis: tree-like
+drosolithus: dew stone
+duritas: hardness
+echeneis: remora
+eupetalos: with good petals
+eusebes: pious
+gassinades: gossip
+glossopetra: tongue stone
+goniaea: angular
+hamiota: hook
+hammitis: hooked
+hephaestitis: of Hephaestus
+hieracitis: hawk stone
+leucophthalmos: white-eyed
+leucopoecilos: white-spotted
+libanochrus: frankincense-colored
+liparea: shiny
+lonchus: lance
+memnonia: Memnonian
+mesoleucos: half-white
+mithrax: mitra
+muttum: mute
+myrmecitis: ant stone
+nasamonitis: Nasamonian
+nebritis: fawn
+oica: houseless
+oritis: of the mountains
+peucedanum: peucedanum
+phloginos: fiery
+promnion: forward
+rhoeas: poppy
+scomma: jest
+synnephitis: cloudy
+tecolithos: fixed stone
+therapia: therapy
+trulleum: trowel
+turbellae: little whirlwinds
+adarca: wetness
+anagyros: anagyros (a plant)
+antenatus: ancestor
+attegia: hut
+bastum: pack saddle
+bechion: wallflower
+calpar: mixing cup
+capnos: smoke
+chreston: useful
+chrisma: anointing
+colobium: sleeveless tunic
+dipsacos: dipsacus
+embamma: condiment
+gerrae: trifles
+gerro: trifler
+gingidion: sprout
+herna: booty
+hirpex: harrow
+lamium: dead nettle
+lasanum: chamber pot
+lastaurus: basket
+laternio: lantern
+libanotis: frankincense herb
+malope: mallow
+marathrum: fennel
+milifolium: yarrow
+mirio: ten thousand
+murgiso: murmur
+nabun: cloud
+oniros: dream
+oniscus: woodlouse
+ostriago: shellfish
+pistacium: pistachio
+pistris: shark
+popanum: cake
+psila: fine down
+psilothrum: depilatory
+sacrium: sacred place
+scolops: stake
+singilio: bundle
+siser: parsnip
+squatina: angel shark
+subium: pillar
+surus: Syrian
+thymbra: savory
+tryx: dregs
+unedo: arbutus
+urium: urium (a mineral)
+verbascum: mullein
+vidulus: suitcase
+agea: flocks
+agolum: stone
+agonium: contest
+alsine: chickweed
+apuliae: Apulian
+bisonium: bison
+caragius: carousel
+carphos: dry
+cectoria: perforator
+celtis: Celtis
+choeras: pigsty
+cillus: eyelash
+cilo: move
+circius: north-west wind
+citocacia: quicklime
+clathri: lattice
+clericia: clerical
+clura: trench
+condama: condemn
+crethmos: pulse
+cumera: chest
+decembrius: December
+dureta: hardness
+elucus: light
+encolpiae: cross
+eucharistia: Eucharist
+exagium: examination
+frisio: Frisian
+gilarus: glutton
+gingritus: chirping
+gludis: acorn
+gongylis: round
+gyrovagus: wandering
+lampago: lamp
+manacus: sleeve
+melotris: sweet
+mollestra: mild
+picris: bitter
+pitheus: potter
+prelum: press
+pyelus: pelvis
+rhagion: burst
+rutuba: red earth
+sceptos: skeptical
+schinus: mastic tree
+siliquastrum: Judas tree
+stribligo: scrape
+alterculum: quarrel
+ascyron: Hypericum ascyron
+athisca: Athiscus
+autocarrus: truck
+autocurrus: car
+autoraeda: automobile
+autovehiculum: vehicle
+chrysea: golden
+clonos: twig
+coracesia: raven-like
+crusma: kneading trough
+delictor: offender
+echios: viper
+ecligma: syrup
+exacum: Exacum
+gabbarus: bag
+larbason: leather worker
+ploxenum: twisted
+salapitta: batter
+scindappus: tear
+staphis: stavesacre
+trimodia: measure of three
+ungulus: claw
+ungustus: rough
+Taphros: trench
+alisna: oar
+amalusta: vineyard
+anquina: suffocation
+arcera: chest
+archontologia: record of rulers
+athera: husk
+cicaro: cicada
+cissaros: poplar
+dubietas: doubt
+epileus: seizure
+fusio: fusion
+hormenos: impulse
+horminum: sage
+interlunium: new moon
+leontice: lion-like
+naucum: trifle
+novilunium: new moon
+orarium: prayer book
+osyris: Osyris
+pollubrum: basin
+refector: restorer
+sarcasmus: sarcasm
+schedia: raft
+stobrus: stump
+stoebe: Stoebe
+threnus: lament
+vastities: waste
+veranum: springtime
+alima: nourishment
+arianis: silver coin
+balatus: bleating
+belbus: white
+bellio: war
+branchos: bronchus
+cofanus: chest
+corissum: oat
+cotinus: smoke tree
+domnicella: little lady
+enthusiasmus: enthusiasm
+euonymos: Euonymus
+eupatoria: agrimony
+fisclum: money
+flagritriba: scourge
+flemen: mucus
+lacartum: torn piece
+locarium: rent
+phimus: clamp
+pistana: flour
+proneptis: great-granddaughter
+scymnus: young animal
+simbella: small flute
+stloppus: lout
+stomoma: mouth
+suspectio: suspicion
+thlasias: cress
+torror: roasting
+trachia: roughness
+tylos: knob
+victimarius: assistant priest
+Laches: Laches
+afannae: worry
+agaga: agaga
+alabrum: lip
+alutiae: soft leather
+ambasiator: ambassador
+amerimnon: never-dying
+bascanus: slanderer
+bladona: plant
+bredum: bridge
+ceola: keel
+colurus: short-tail
+conyza: fleabane
+depetigo: scab
+distortio: distortion
+elacaten: torch
+elaqueatio: releasing
+forago: market
+fretale: seaweed
+guttera: throat
+histon: beam
+imbractum: raincoat
+involvulus: knot
+lygos: bindweed
+maeremium: building material
+magirus: cook
+materiamen: material
+mergae: fork
+momerium: punishment
+monocytus: single cell
+noluntas: unwillingness
+oxytropis: sharp-faced
+phascola: pouch
+piracium: fishery
+porisma: conclusion
+prasinatus: green
+psecas: dust
+rubinus: ruby
+sewera: sewer
+sitella: measure
+siticen: flute player
+spodos: ash
+stivarius: shoveler
+teba: stump
+udor: water
+adasia: a kind of herb
+adlapsus: flowing
+aiunus: eternal
+amellus: starwort
+anagallis: pimpernel
+apostrophus: apostrophe
+arrugia: diggings
+asio: owl
+axamenta: axle
+bastaga: burden
+butio: cry
+campter: bender
+cassita: bunting
+causos: burning
+ciloter: picker
+dravoca: heifer
+dropax: drapery
+epipactis: epipactis (a plant)
+falsimonia: deception
+favonius: west wind
+fitilla: wick
+halimon: saltwort
+haliurunna: witch
+hostorium: hospitality
+laurocerasus: cherry laurel
+lepista: mushroom
+levamentum: comfort
+limeum: thread
+manicon: madness
+metoecus: resident alien
+mutilatio: mutilation
+mutilitas: mutilation
+ortyx: quail
+rufius: red
+scardia: carp
+simulamen: pretense
+solanus: east wind
+sozusa: safeguard
+strigmentum: scraping
+thomix: straw
+trustis: bundle
+vappo: worthless person
+vibia: small vein
+vimentum: wickerwork
+vulpio: fox
+Acroceraunia: Acroceraunian
+altor: nourisher
+aparine: cleavers
+apinae: bees
+arillator: plowman
+boscus: grove
+bruscum: bush
+callion: beauty
+causidicus: advocate
+cicla: seaweed
+cocio: merchant
+derisio: derision
+drungus: mob
+encaustum: ink
+enixio: difficult childbirth
+favissae: underground chamber
+fiola: phial
+gelela: jelly
+gerdius: bold
+geusiae: flavors
+gillo: small tool
+girba: hump
+glandium: acorn
+gulbia: throat
+gumia: glutton
+gyrgillus: revolving
+hermupoa: hermaphrodite
+hyoseris: sow thistle
+hypericon: St. John's wort
+hysginum: scarlet dye
+lampyris: glowworm
+lathyros: pea
+leucrion: white powder
+lustrago: purification
+mufrius: glutton
+nodia: knots
+orobus: vetch
+paragauda: parasol
+pastrix: shepherdess
+pnix: tightly bound
+qualificatio: qualification
+rivora: stream
+sciotherum: sundial
+scordiscus: scordiscus
+serpedo: creeping
+suppilatrix: female thief
+thea: tea
+tragicus: tragic
+uvor: udder
+vavato: little darling
+apiarius: beekeeper
+apodix: little branch
+cancamum: cramp
+cerinthus: honey plant
+chamaecerasus: dwarf cherry
+cilliba: light
+contrapunctus: counterpoint
+discerniculum: small distinction
+erisma: attraction
+labeo: thick-lipped
+lampado: torch
+matellio: chamber pot
+melum: apple
+mollugo: soft
+mystax: mustache
+nitela: glowworm
+oscillum: small mask
+petilium: thinness
+phoenicurus: redstart
+piccus: woodpecker
+sacrima: offering
+salaco: dirty
+sandaraca: realgar
+scandix: chervil
+sculna: sculpin
+seplasium: seplasian perfume
+vesperugo: vesper bat
+viratus: pointed
+alsbergum: Alsberg
+ambosta: amputated
+baccinum: small berry
+barneca: barnacle
+biria: veil
+bostellus: stable
+bostia: ship
+brigna: brink
+buccus: sprout
+caium: feast
+caributus: descendant
+cnifus: hair
+corruda: grass
+cumba: boat
+dardus: lance
+famex: flame
+focacium: flatbread
+frocum: frock
+fumariolum: chimney
+garcio: servant
+grutum: coarse meal
+helmus: helmet
+lotura: washing
+musaraneus: shrew
+noegeum: nest
+phaunos: shining
+ptygma: fold
+ramale: branch
+redundatio: redundancy
+rencus: kidney
+salgama: salt
+sceletus: skeleton
+screa: scream
+scuma: scum
+secespita: sacrificial knife
+selago: savin
+sturio: sturgeon
+taranca: taranca
+terracia: terrace
+thrascias: north-west wind
+trichechus: walrus
+troppus: troop
+tutellum: little guardian
+wacta: watch
+wadium: pledge
+wantus: deficiency
+xystra: covered walkway
+apica: small point
+bordum: border
+camerlingus: chamberlain
+capedo: cap
+capronae: goat
+caracalla: cloak
+chiausus: veil
+cicuma: wormwood
+clavicymbalum: harpsichord
+colymbus: diver
+corbulo: basket
+cynacantha: dog thorn
+dardanarius: moneylender
+dullia: dullness
+egeries: exclamation
+faldistolium: faldstool
+frigiditas: coldness
+hairo: hair
+hanappus: cup
+haunta: haunt
+hosae: stockings
+laubia: porch
+laurex: laurel
+maneries: manners
+marculus: hammer
+mastus: breast
+masucius: little hammer
+metellus: metellus
+minatio: threat
+onolatria: ass-worship
+parricus: corral
+samartia: saddle
+sennus: old man
+siniscalcus: seneschal
+smaltum: smalt
+soligenitus: sun-born
+sophisma: sophism
+sophronisterium: temperance school
+telegraphum: telegraph
+telephonum: telephone
+titus: title
+toallia: towel
+toppus: top
+tricurium: tricurius
+vespex: wasp
+wastina: waste
+calabrix: goat
+carissa: carissa (a plant)
+citeria: Citerea
+condurdum: condurango
+cripia: creeper
+iudicatrix: female judge
+iuridicus: legal
+iurisprudentia: jurisprudence
+iurista: jurist
+nectareus: nectar-like
+nocumentum: harm
+orgollium: pride
+quaestionarius: inquisitor
+sanqualis: blood
+scammonea: scammony
+stallum: stall
+temptamentum: temptation
+vispillo: undertaker
+vitiparra: vice-spreader
+cymbium: bowl
+formicula: small ant
+funeralia: funeral
+funerarius: funeral
+funeraticium: funeral service
+mamphur: mamphur
+patronatus: patronage
+procuratrix: female agent
+repertorium: repertory
+siagones: jaws
+vallettus: valet
+voracitas: voracity
+voratrina: devourer
+voratrix: devourer (feminine)
+aciarium: steel
+adipositas: obesity
+apruco: boar
+archivum: archive
+armamaxa: armed wagon
+babbus: babe
+ballaena: whale
+barinulae: little bars
+carnaceum: flesh
+cavula: little hollow
+certificatum: certificate
+clubium: club
+fetiolum: little fetus
+gracula: little crow
+hebria: Hebra
+iugastrum: yoke
+obryzum: pure gold
+pagensis: peasant
+praemonitor: premonitor
+scolopax: woodcock
+Fennus: Finn
+Salmuria: brine
+aedon: nightingale
+agnile: little lamb
+alebria: bread
+aletudo: ailment
+aulax: furrow
+barta: beard
+bibliopolium: bookshop
+bracchiale: bracelet
+caprificus: wild fig
+carotides: carotid arteries
+caryophyllon: clove
+catascopium: lookout
+cholesterolum: cholesterol
+codeta: chain
+compania: company
+conflages: conflagration
+corculum: heart
+culigna: copper
+dentifricium: toothpaste
+diverbium: dialogue
+domiporta: home
+equile: stable
+gricenea: cricket
+hapsis: joint
+horia: boundary
+liaculum: thread
+mafors: scarf
+maritagium: marriage
+murcus: boor
+murilegus: cat
+pharus: lighthouse
+prosumia: profit
+pulpus: pulp
+pycta: paint
+saphon: soap
+scorpaena: scorpion fish
+scutifer: shield-bearer
+sipho: siphon
+topia: place
+varulus: small varus
+Rhamnes: Rhamnes
+Singara: Singara
+arachis: peanut
+asplenium: spleenwort
+biodiversitas: biodiversity
+bucco: mouth
+coagulatio: coagulation
+doliolum: small barrel
+fendicae: crack
+globalizatio: globalization
+lenitio: soothing
+lyrica: lyric
+lyricus: lyric
+lyristes: lyrist
+olentica: scent
+paedia: upbringing
+perpetratrix: female perpetrator
+plusquamperfectum: pluperfect
+radiophonia: radio
+radiophonum: radio
+rudicula: little spoon
+strebula: thrust
+subductisupercilicarptor: thief of raised eyebrows
+vertiginosus: dizzy
+Evenor: Evenor
+Spartanus: Spartan
+Tampsapor: Tampsapor
+aculos: needle
+aedituens: sacristan
+aeriportus: airport
+almities: alma
+anthropocentrismus: anthropocentrism
+apozema: decoction
+atocium: poison
+aumatium: hall
+biotechnologia: biotechnology
+caeliscalpium: skyscraper
+chiliometrum: kilometer
+cinnamolgus: cinnamon bird
+circanea: circumstantial
+clarnus: clarion
+commetacula: commetacle
+cosmologus: cosmologist
+crassundia: thickness
+deletio: deletion
+drepanis: drepanis
+eiectamenta: ejecta
+epiclintae: epiclintae
+erneum: erneum
+galgulus: woodpecker
+gerusia: gerusia
+helicopterum: helicopter
+illegitimus: illegitimate
+imbulus: imbule
+luria: luria
+magnetoscopium: magnetoscope
+masticatio: mastication
+nanotechnologia: nanotechnology
+oecosystema: ecosystem
+sarinum: sarin
+simptax: syntax
+simpulum: simpulum
+sirium: sirium
+sprintilla: sprintilla
+uranographia: uranography
+uranographus: uranographer
+vitus: virtue
+Pudens: Pudens
+antilena: counterweight
+aquale: water vessel
+aqualium: aquarium
+arcuballista: crossbow
+arcubius: arcubius
+armarius: armorer
+baccalaureatus: baccalaureate
+butica: butcher's shop
+cocistro: cochister
+deceris: deceris
+decermina: decermina
+deperitio: perish
+domiseda: housebound
+duovir: duumvir
+epopta: overseer
+hoitzitzillin: hoitzitzillin
+interula: tunic
+libellio: little book
+mattea: mattock
+musio: museum
+mustrula: mustrum
+opetis: assistant
+orchesta: orchestra
+passernix: passerine
+pavicula: little peacock
+pesoluta: free foot
+postilena: afterbirth
+prioratus: priorate
+puerilitas: childhood
+rosula: little rose
+sandalum: sandalwood
+sirpe: hoop
+stibadium: dining couch
+subumbilicus: lower belly
+suffectio: substitution
+Francensis: Frank
+appropriatio: appropriation
+balco: balcony
+cacaoticus: bad
+capillamentum: hair
+capitatio: capitation
+coalitio: coalition
+culullus: cup
+degradatio: degradation
+deterioratio: deterioration
+gangaba: tribe
+glutto: glutton
+inclusio: inclusion
+inflictio: infliction
+insitor: planter
+intimatio: intimation
+mador: moisture
+magulum: cheek
+mantele: tablecloth
+medullum: marrow
+muneratio: remuneration
+petaurum: platform
+protractio: protraction
+recessio: recession
+sanguinitas: bloodthirstiness
+scimpodion: little leg
+sensatio: sensation
+sensualitas: sensuality
+suggluttium: gulping
+testula: tile
+titillamentum: tickling
+aliatum: winged
+altitia: height
+blandiloquium: flattery
+calatio: calling
+calceolus: little shoe
+campicellum: little field
+captivatio: captivity
+chirurgianus: surgeon
+cibatio: feeding
+coxendix: hip
+cretio: creation
+cursio: running
+cyprus: cypress
+discursatio: discourse
+discursio: running about
+districtio: distrainment
+emancipatio: emancipation
+excorrigiata: whipping
+excursator: runner
+falsiloquium: lying
+fatiloquium: divination
+hordeata: barley
+incriminatio: incrimination
+macritas: thinness
+magniloquium: grandiloquence
+maliloquium: evil-speaking
+mendaciloquium: falsehood
+multiloquentia: loquacity
+muscerda: mouse
+neopum: new
+ninnus: child
+numella: ankle
+occursio: collision
+palatarem: palate
+percursor: precursor
+permities: destruction
+pettia: piece
+praestrictio: restriction
+psyllion: flea
+restrictio: restriction
+resultatum: result
+risiloquium: jest
+salariarius: salaried
+scirros: hard swelling
+sclareia: clary
+sonchus: sow thistle
+sortiarius: sorcerer
+succursor: aider
+typographia: typography
+veriloquium: truth-telling
+Northus: Norse
+acolythus: acolyte
+actualitas: actuality
+barditus: bard song
+bisaccium: double saddlebag
+cybindis: spindle
+domicella: young lady
+domicellus: young man
+gerontocomium: geriatric hospital
+gerundivus: gerundive
+guerrarius: warrior
+haematologia: hematology
+hippopera: horse equipment
+horarium: schedule
+infirmarius: infirmary attendant
+ingeniarius: engineer
+ingeniator: engineer
+lintrus: small boat
+mulieritas: womanhood
+nerion: water-lily
+nosodochium: hospital
+parthenon: Parthenon
+promulsidare: appetizer
+rhododendros: rhododendron
+seniorissa: senior woman
+septunx: seven-twelfths
+subdivisio: subdivision
+subordo: suborder
+teniludium: tennis
+turpethum: turpeth
+Cosacus: Cossack
+Romancium: Rome
+Tatarus: Tatar
+begus: beg
+butticula: little barrel
+butticularius: barrel maker
+comitissa: countess
+corbona: Corban
+coronamentum: crown
+diplomarius: diplomat
+doliarius: cooper
+faenarius: hay maker
+faldistorium: faldstool
+fictiliarius: potter
+gardinus: garden
+glutinarius: glue maker
+grupus: group
+luxatio: dislocation
+minctio: urination
+nauclerus: shipmaster
+panetarius: baker
+pavimentarius: paver
+planca: board
+praelusio: prelude
+scandularius: roofer
+tegularius: tiler
+tessellarius: mosaic maker
+tessellator: mosaicist
+thynnarius: wasp
+topiarius: gardener
+usamentum: use
+casellula: little house
+culpatio: blame
+cydonius: quince
+deivos: gods
+exprobratio: reproach
+fontanus: fountain
+obiectatio: objection
+aqualis: equal
+cabanna: cabin
+cummis: gum
+paraphrasis: paraphrase
+puellus: little boy
+puerities: boyhood
+virlupus: werewolf
+duodecimvir: duodecimvir
+novemvir: nine men
+octovir: eight men
+quindecimvir: quindecimvir
+undecimvir: eleven men
+vigintisexvir: twenty-six men
+muliebritas: womanhood
+muliercularius: fond of women
+servula: little servant
+servulicola: servant
+turdela: little thrush
+bubulcarius: cowherd
+muriceps: mouse catcher
+provocabulum: provocation
+serpentigena: born of a serpent
+taurigenus: bull-born
+taurobolinus: taurobolium
+taurocenta: taurocenta
+vocalitas: vocality
+vocamen: name
+gerulus: bearer
+iucundatio: pleasure
+rebellatrix: female rebel
+subauditio: implication
+thermopolium: thermopolium
+tibicina: female flute player
+bellidux: war leader
+belligeratio: war
+duellator: duelist
+pugilatio: pugilism
+pugnaculum: small fort
+punctillum: small point
+punctorium: prick
+pugilatus: boxing
+pugillariarius: scribe
+salutatrix: female greeter
+salvatrix: savior
+sententiola: little sentence
+degustatio: tasting
+dissimulamentum: dissimulation
+salutatorium: greeting
+sensificator: sensor
+sensio: perception
+appetitrix: female desirer
+citrullum: gourd
+citrullus: watermelon
+contemplatrix: female contemplator
+expetitio: request
+heredipeta: heir-hunter
+impes: force
+impetiginosus: infected with impetigo
+impetix: impetigo
+petigo: petigo
+subaemulatio: emulation
+suppetiae: assistance
+suppetiatus: assisted
+suppetium: help
+citrangulus: citrangulus
+extemporalitas: extemporaneity
+perpetuarius: perpetual
+domuitio: taming
+fugacitas: fleetingness
+fugium: refuge
+itio: going
+nubilarium: cloud bank
+patratio: perpetration
+patrimoniolum: little patrimony
+scriniolum: little chest
+tractabilitas: tractability
+circumductor: circuit rider
+conductela: conduct
+diductio: division
+eductio: bringing up
+inductrix: female instigator
+perductor: conductor
+praeductal: praeductal
+produx: leader
+traharius: dragger
+tributio: tributation
+Solyma: Jerusalem
+addictor: addict
+dicacitas: witticism
+dictabolarium: dictionary
+productivitas: productivity
+seductrix: seductress
+superductio: superinduction
+tertiarium: tertiary
+beneficiarius: beneficiary
+cauponarius: innkeeper
+confectorarius: confectioner
+confectorium: confectionery
+confectrix: confectioner
+dictiuncula: little saying
+excoriatio: excoriation
+indiciva: indication
+maledicax: slanderous
+maledictor: slanderer
+oenopola: wine seller
+praedicatrix: female preacher
+prodiction: prediction
+socolata: chocolate
+suspiratio: sighing
+vindicium: vengeance
+Asiarcha: Asiarch
+Oreas: Oread
+Pullanus: Pullanus
+Syriarcha: Syriarch
+allex: bribe
+anthalium: wreath
+apeliotes: east wind
+ariena: ariena
+armistitium: armistice
+axio: axiom
+bisomum: bisomum
+cardinalitas: cardinality
+cauterium: cautery
+communista: communist
+corroboratio: corroboration
+cosmopolitismus: cosmopolitanism
+crucifixor: crucifier
+deiva: goddess
+epiphania: Epiphany
+fleccia: fleccia
+fratillus: small brother
+hydromantis: water diviner
+lausia: praise
+megalomartyr: megalomartyr
+meletema: effort
+myroblyta: myroblyte
+nasiterna: nightshade
+netrix: wet nurse
+ocimum: basil
+pannifex: rag-picker
+platalea: spoonbill
+rationalitas: rationality
+tegeticula: small mat
+thalerus: thaler
+vispellio: vispellio
+Thomista: Thomist
+adversitas: adversity
+amphibolia: amphibology
+atriplex: orache
+companio: companion
+indigeries: indigeries
+phasma: ghost
+proluvies: overflow
+pullastra: pullet
+suberies: cork tree
+trico: three
+venaliciarius: slave trader
+Troianus: Trojan
+algorismus: algorithm
+archielectus: archbishop
+archisolium: archisolium
+assassinus: assassin
+bannalia: bannalia
+bannalis: bannalis
+bannarius: bannarius
+binio: two
+calandrus: calandrus
+chanis: chanis
+clenodium: clenodium
+cneoron: cneoron
+collybista: money changer
+colobathra: colobathra
+colyma: colyma
+combibiolus: combibiolus
+debellatio: debellatio
+dyscolia: dyscolia
+faenile: hayloft
+flammivomus: flammivomus
+gestamen: burden
+lycisca: wolf
+lyciscus: little wolf
+lyristria: lyrist
+maeria: maeria
+mahomeria: mahomeria
+mainleveta: mainleveta
+malluvium: malluvium
+meschita: meschita
+naupegus: naupegus
+orphus: orphus
+ostrya: hop hornbeam
+paramentum: parament
+pessum: pessum
+phlebotomus: phlebotomus
+radicina: radicina
+ratiuncula: ratiuncula
+segusius: segusius
+starrum: starrum
+thymelaea: thymelaea
+alopecuros: foxtail
+buselinum: buselinum
+caerefolium: chervil
+hinnulus: hinnulus
+macrocollum: macrocollum
+quaccola: quaccola
+setania: setania
+dentiscalpium: toothpick
+domnicellus: young lord
+enneas: ennead
+evictio: eviction
+libitinarius: undertaker
+magasinus: warehouse
+pullicenus: little chicken
+scipio: staff
+subulcus: swineherd
+taxegium: taxegium
+vectuarius: carrier
+aevus: age
+aloxinum: aloxinum
+basipila: basipila
+canistriludium: canistriludium
+clavile: clavile
+decufinium: decufinium
+doana: doana
+doctorissa: doctress
+fartor: stuffer
+feltrum: felt
+fundicus: bottom
+haemorrhousa: haemorrhousa
+hodoeporicon: itinerary
+hottentottus: hottentot
+impugnatio: attack
+incerniculum: little basket
+indebitum: indebitum
+operistitium: strike
+pagius: page
+sensalis: broker
+temulentia: drunkenness
+trifinium: trifinium
+vitiositas: vice
+zedoarium: zedoary
+Aucopolis: Aucopolis
+Dacus: Dacian
+Thorus: Thorus
+corbita: cargo ship
+foculare: fireplace
+gelicidium: frost
+inlectamentum: attraction
+melopepo: pumpkin
+methium: methium
+protelum: prolongation
+captatrix: female catcher
+mustacium: mustacium
+mustax: mustax
+nerdiludium: game
+optatio: wish
+trochaeus: trochee
+Harpyia: harpy
+Superhomo: Superman
+acuitio: sharpening
+amiculus: little friend
+aquifuga: water-drainer
+architecton: architect
+assentatrix: female flatterer
+bellitudo: beauty
+betizo: beet
+bibale: bibale
+bruaria: moorland
+bucinator: trumpeter
+caminarius: chimney sweep
+chelidon: swallow
+chromis: chromis
+corbula: little basket
+decalogus: Decalogue
+ducatrix: leaderess
+escariola: little salad
+finstallum: small inn
+fontanarius: fountain-keeper
+fontarius: fountain-keeper
+frigedo: cold
+goetia: witchcraft
+hinnuleus: young deer
+laminarius: laminar
+lautia: luxury
+lorarius: whip-bearer
+ministrix: female servant
+pausatio: pause
+pharmacia: pharmacy
+piratia: piracy
+postarius: postman
+risor: laugher
+sicanus: Sicilian
+spicarium: spicarium
+tectulum: little roof
+terebellum: small drill
+veterinarius: veterinarian
+floritio: blooming
+fluctio: fluctuation
+induperator: induperator
+apricatio: sunning
+coartatio: narrowing
+fimbriarius: fimbriarius
+murarius: murarius
+phoenicopterus: flamingo
+rotarius: rotarius
+sanatrix: healer
+semella: semolina
+smegmarius: smegmarius
+tubarius: tubarius
+Geniculatus: Geniculatus
+Senatus: Senate
+acersecomes: acersecomes
+brisco: bristle
+broccium: brooch
+calefactorium: warming room
+confluentia: confluence
+fomentatio: fomentation
+formaticum: formaticum
+granicia: granicia
+latitatio: hiding
+legumlator: lawgiver
+lignile: wooden
+manticulator: swindler
+modernitas: modernity
+patrinus: godfather
+piscatio: fishing
+piscicapus: fish catcher
+restiarius: restiarius
+tepalum: tepal
+vertebrum: vertebra
+agraticum: agriculture
+archigrammateus: chief scribe
+arepennis: arpent
+beatitas: beatitude
+binubus: binubus
+caunea: caunea
+chronographus: chronographer
+colobra: colobra
+epithymum: epithymum
+grammateus: scribe
+interemptor: interemptor
+interemptrix: interemptrix
+lapifractor: lapifractor
+lignifer: lignifer
+luctamen: struggle
+monialis: nun
+parcitas: parcitas
+portitorium: portitorium
+stoicus: Stoic
+suggrunda: suggrunda
+tector: plasterer
+tegillum: little cover
+tegulum: little tile
+tristimonia: sadness
+tristitas: sadness
+unicornuus: unicornuus
+aprugnus: aprugnus
+arculata: small chest
+butyratio: butyratio
+cassiculus: small box
+edacitas: gluttony
+eous: eastern
+fratruelis: little brother
+harpyia: harpy
+imbilium: little brooch
+organifex: organ-maker
+otacustes: listener
+precamen: prayer
+sciolus: sciolus
+silvula: little forest
+tongitio: tongitio
+antecenium: anteroom
+captrix: female captor
+cenatio: dining room
+cenatiuncula: small dining room
+cenula: small dinner
+concena: common dinner
+concenatio: concenatio
+domicenium: small dining room
+magmentum: small table
+oribata: oribata
+ovilio: little sheep
+prandiculum: small lunch
+prandiolum: little lunch
+saxitas: rockiness
+saxositas: rockiness
+saxulum: little rock
+umbratio: shade
+urnarium: urn
+urnula: small urn
+Cluniacus: Cluniac
+accuratio: accuracy
+aduncitas: crookedness
+aegrimonia: agrimony
+ambubaia: Syrian flute-player
+amputatio: amputation
+anguifer: snake-bearer
+appropinquatio: approach
+artopta: baking dish
+bascauda: basket
+batillum: shovel
+caelamen: carving
+calathiscus: little basket
+captiuncula: little capture
+cardiacus: cardiac
+catonium: small bed
+causula: little cause
+cercopithecus: monkey
+chrysophrys: golden brow
+ciniflo: hairdresser
+circummunitio: circumvallation
+coagmentum: coagmentum
+columnarium: columnarium
+commendatrix: female commendator
+commiseratio: commiseration
+compactio: compaction
+compotatio: drinking bout
+conclusiuncula: little conclusion
+daculum: little stick
+exstructor: builder
+globellum: little ball
+harenatum: sandy
+ienuarius: January
+magnitas: greatness
+mintula: small mint
+rivuscellum: little stream
+superheros: superhero
+taxillus: small die
+vicata: vicata
+aliptes: anointer
+balneolum: little bath
+cerintha: honey plant
+cetarius: fishmonger
+citharistria: female lyre-player
+classiarii: marines
+coagmentatio: coagmentation
+commilitium: comradeship
+conglobatio: aggregation
+conglutinatio: gluing
+consponsor: consponsor
+consumptor: consumer
+conterminus: conterminous
+contiuncula: little story
+contortio: contortion
+contrectatio: handling
+convictor: companion
+corytos: quiver
+crotalistria: female castanet-player
+cuneolus: small wedge
+cuppedia: sweets
+cuppedo: sweets
+cuppes: sweets
+curvamen: curvature
+decoloratio: discoloration
+dehonestamentum: disgrace
+deliratio: delirium
+depulsor: repeller
+derupta: broken
+desideratio: desire
+detrectatio: detraction
+deversoriolum: little inn
+dibaphus: dyed twice
+dichoreus: dancer
+diludium: mockery
+discrepatio: discrepancy
+dissociatio: dissociation
+dissuasio: dissuasion
+dissuasor: dissuader
+disturbatio: disturbance
+ditiae: richness
+dromas: dromas
+efferitas: wildness
+efflagitatio: demand
+elleborus: hellebore
+equiferus: wild horse
+erratio: wandering
+escensio: ascension
+ethologus: moral philosopher
+exaequatio: equalization
+exanimatio: fainting
+exauguratio: desecration
+excelsitas: loftiness
+exodium: afterpiece
+exploratio: exploration
+exstructio: construction
+hirsutia: hirsuteness
+medicamentarius: apothecary
+violatio: violation
+adventor: comer
+asclepias: asclepias
+asplenon: spleenwort
+bipalium: bipalium
+buccellatum: biscuit
+capillamentarius: hairdresser
+collactanea: milk sibling
+collactea: milk sibling
+collacteus: milk sibling
+congelatio: freezing
+congestio: congestion
+convulsio: convulsion
+deambulatorium: ambulatory
+erctum: erected
+evulsio: pulling out
+faenilia: hayloft
+ficedula: warbler
+firmamen: support
+flagitatio: demand
+flammeolum: little flame
+flammula: little flame
+flictus: blow
+frequentatio: frequentation
+futilitas: futility
+gradatio: gradation
+graviditas: pregnancy
+haliaeetus: sea eagle
+helvella: helvella
+holusculum: little vegetable
+hortamen: exhortation
+hortamentum: exhortation
+humatio: burial
+imitamen: imitation
+impeditio: impediment
+impetratio: obtaining
+impigritas: quickness
+laetamen: joy
+melilotos: melilotus
+modulamen: modulation
+pomarium: orchard
+smegmator: smegmator
+spumatio: foaming
+vervactum: plowed field
+abstentio: abstention
+anatria: swimming
+aurifrigium: aurifrigium
+coronatio: coronation
+crumeniseca: pickpocket
+cucurum: cucurum
+diffusio: diffusion
+epicyclus: epicycle
+glaux: glaux
+incommoditas: inconvenience
+incusatio: accusation
+infecunditas: barrenness
+infinitio: infinitio
+infitiatio: denial
+infractio: breaking
+innumerabilitas: innumerability
+levitum: lightness
+manticula: little bag
+manticularius: little bag
+neptia: niece
+omissio: omission
+pulvus: dust
+rapidium: rapid
+viriditia: greenness
+viridura: greenery
+catanum: catanum
+claviatura: keyboard
+coffeinum: caffeine
+copiositas: abundance
+instinctor: inciter
+interclusio: interception
+intermundia: intermundia
+internodium: internode
+invectio: invective
+nigror: blackness
+rocheta: rocket
+tenisia: tennis
+abarticulamentum: joint
+frussatum: tattered
+inanitio: emptiness
+raphanus: radish
+saetacium: brush
+concivis: fellow citizen
+consutorium: sewing room
+despumatio: despumation
+estoverium: estoverium
+liquiritia: licorice
+magida: magida
+mensula: little table
+missale: missal
+quarcum: quarcum
+selinon: celery
+selinophyllon: celery leaf
+temptamen: trial
+Carelianus: Karelian
+accresciamentum: increase
+accrochiamentum: accrochiamentum
+autocephalia: autocephaly
+elegidarion: elegidarion
+eliquia: eliquia
+liberatarius: liberator
+petauristarius: acrobat
+proluvio: flood
+aestivatio: aestivation
+cania: cania
+caseolus: little cheese
+confuga: refugee
+coraticum: heart
+formamentum: form
+grossitas: thickness
+ignitabulum: fire
+iuvamentum: help
+kalator: caller
+muccicalium: muccicalium
+noptias: noptias
+organarius: organ-builder
+putricalium: putricalium
+quros: quros
+robotum: robot
+scrupeda: scrupeda
+sedimen: sediment
+seminium: seminium
+sessibulum: sessibulum
+sessimonium: sessimonium
+sociatio: society
+sociennus: sociennus
+strictio: restriction
+Stoicidae: Stoics
+Thessalus: Thessalian
+cinemateum: cinema
+coticula: touchstone
+fluruncum: fluruncum
+genocidium: genocide
+latronicium: robbery
+laurarium: laurarium
+nocem: harm
+semicinctium: semicinctium
+staticulum: staticulum
+disportus: disportus
+dollarium: dollar
+fustaneum: fustian
+gemellicium: gemellicium
+lapicidinae: stone quarries
+laudatrix: female praiser
+libita: libita
+lignamen: wood
+litatio: litatio
+ludia: female actor
+lyncurium: lyncurium
+mastigia: scoundrel
+matella: chamber pot
+mazonium: mazonium
+mediastinus: mediator
+meditamentum: meditation
+melicus: melodic
+micacula: little crumb
+miliardum: billion
+monstratio: showing
+mormyr: mormyr
+mutabilitas: mutability
+padulis: swamp
+portaticum: portaticum
+quiditas: quiddity
+samanus: samanus
+seniculus: little old man
+sordities: dirtiness
+ypnalis: sleep-inducing
+antiepiscopus: antiepiscopus
+apparium: apparatus
+bastardus: bastard
+berfredus: berfredus
+caldumen: caldumen
+caronia: caronia
+chiramaxium: chiramaxium
+excessio: excess
+inscensio: incense
+minofledus: minofledus
+nosocomus: nurse
+secundicerius: secundicerius
+sortifex: sortifex
+usor: usurer
+Normannus: Norman
+capulatio: capulatio
+capulator: capulator
+custor: custodian
+cylon: cylinder
+pervasor: pervasor
+puliconem: puliconem
+quilon: quilon
+synodicon: synodicon
+administratiuncula: small administration
+basus: base
+batypicron: batypicron
+bicarium: bicarium
+capseata: capseata
+capseum: capseum
+extimulator: extimulator
+genuculum: little knee
+manicella: little sleeve
+profector: leader
+ranucula: little frog
+resecum: resecum
+scaenographia: scenography
+scindula: splinter
+sonaculum: sonaculum
+sultanatus: sultanate
+sultanus: sultan
+virgella: small rod
+Amorrhaeus: Amorite
+abbacomes: abbacomes
+bacchinon: bacchinon
+bacinus: basin
+bacularis: bacularis
+balascus: balascus
+brugitus: brugitus
+husbandria: husbandry
+moruca: moruca
+pariolum: little pariolum
+pectiniculum: small comb
+pullionem: little chick
+sinapionem: mustard
+sirimpio: sirimpio
+succlamatio: succlamatio
+verruculum: verruculum
+Cartusia: Carthusian
+Cartusianus: Carthusian
+Priscillianus: Priscillian
+archibasilica: archbasilica
+archiconfraternitas: archconfraternity
+archipraesul: archbishop
+archisodalitas: archsodalitas
+architectonia: architectonics
+argentus: silver
+bagagium: baggage
+cisorium: chisel
+complexitas: complexity
+cosmocrator: ruler of the world
+fetonem: fetus
+frixorium: frying pan
+gaius: Gaius
+genea: generation
+hastula: small spear
+iobagio: iobagio
+matrastra: stepmother
+narthecium: narthex
+negotiolum: small business
+nutrimen: nourishment
+oblectamen: delight
+occatio: harrowing
+popellus: common people
+procantator: singer
+sceptrifer: scepter-bearer
+scopilia: scopilia
+trisagion: trisagion
+weregildum: wergild
+Anglicum: English
+Japo: Japanese
+Visigothus: Visigoth
+abantaticum: abantaticum
+abettator: abettor
+absolutor: absolver
+aciale: steel
+alchiebabat: alchiebabat
+allevatio: alleviation
+ardalio: busybody
+bacciballum: berry
+barazda: furrow
+cattia: cattia
+ericionem: hedgehog
+flaccor: flaccidity
+formidamen: formidamen
+gemellicum: gemellicum
+ianizarus: janissary
+macor: fatigue
+mancipiolum: little slave
+oblator: offerer
+paritas: equality
+pectinarius: comb-maker
+plastrum: shield
+porticuncula: little portico
+pyrobolus: grenade
+retinopathia: retinopathy
+ripaticum: riparian
+rutellum: little wheel
+stropha: strophe
+televisorium: television
+trisaeclisenex: trisaeclisenex
+urvum: urvum
+vespertillum: bat
+wallus: wallus
+zathene: zathene
+Graii: Greeks
+Pyrenaeus: Pyrenean
+Tyrrhenus: Tyrrhenian
+characulum: characulum
+congustia: congustia
+coxinus: coxinus
+custodela: custody
+drictus: drictus
+duciculus: little duke
+falcicula: little sickle
+fangus: fang
+fragula: fragula
+frondia: frond
+herbaticum: herbaticum
+lectionarium: lectionary
+lendina: lendina
+lendis: lentis
+manicus: maniac
+maslardus: maslardus
+motrum: motrum
+narix: narix
+novium: novium
+osor: hater
+pectorina: pectorina
+pilastrum: pilastrum
+ramuscellum: little branch
+septembrius: September
+suadela: suadela
+tragicomoedia: tragicomedy
+ultraticum: ultraticum
+usitilium: useful
+Deus-Imperator: God-Emperor
+Turcomannus: Turcoman
+aratrix: female plowman
+aububulcus: cowherd
+aurina: aurina
+bufus: toad
+caecias: caecias
+calculatrum: calculatrum
+camarlingus: chamberlain
+clisterella: clisterella
+decagonum: decagon
+defensatrix: female defender
+excornum: excornum
+gubernium: gubernium
+mattiana: mattiana
+ordinatrum: ordainer
+sevandilia: sevandilia
+sicila: sicila
+spurcamen: filth
+spurciloquium: filthy language
+arbuscellum: little tree
+auraticum: auraticum
+balluca: balluca
+cenotaphium: cenotaph
+cinifes: gnats
+coadiutor: helper
+concatenatio: concatenation
+concavitas: concavity
+gerbum: gerbum
+iovenem: young
+rivusculum: little stream
+scoculum: scoculum
+waldus: waldus
+Corinthius: Corinthian
+collativum: collativum
+conterraneus: conterraneus
+sesquimille: one and a half thousand
+sesquipes: one and a half feet
+caelibatus: celibacy
+cerasiarium: cherry
+dilucidatio: explanation
+figlinum: pottery
+geranion: geranium
+herbuscula: little herb
+hippagogi: hippagogi
+lectrum: lectrum
+oenophorum: wine container
+opinatio: opinion
+oppidulum: little town
+oratiuncula: little speech
+paenumbra: penumbra
+paratio: preparation
+paropsis: side dish
+pastillus: little loaf
+peractio: completion
+pluor: pluor
+pocillum: little cup
+siticula: small vessel
+somniculus: drowsiness
+tonstrina: barber's shop
+truculentia: ferocity
+antistitium: antistitium
+augmen: increase
+degulator: degulator
+dentio: teething
+faenisex: haymaker
+filiastra: stepdaughter
+hordearius: horderarius
+interaneum: entrails
+mutunium: mutunium
+nazismus: Nazism
+poterium: wine cup
+praegnatio: pregnancy
+praesegmen: front cut
+resegmen: rear cut
+somnulentia: sleepiness
+telephonulum: little telephone
+transtillum: little beam
+ventriloquus: ventriloquist
+viviradix: viviradix
+abnormitas: abnormality
+aquilegus: water-bearer
+aquilex: water-bearer
+aquilicium: water drawing
+blasphematio: blasphemy
+cruppus: cruppus
+edulus: edible
+finitudo: finitude
+gallinus: chicken
+gesticulatio: gesticulation
+haringus: herring
+illex: decoy
+implosio: implosion
+inaptitudo: inaptitude
+intervidere: intervidere
+iodidum: iodide
+macilentia: leanness
+mollimentum: softening
+naevulus: small mole
+nihilitas: nothingness
+nonussis: ninth
+obsequela: compliance
+pellacia: seduction
+praecautio: precaution
+proletariatus: proletariat
+pseudoscientia: pseudoscience
+rabulista: rabulist
+ruminatio: rumination
+semaphorum: semaphore
+solifuga: solifuga
+stillarium: still
+subnuba: concubine
+tamarindus: tamarind
+tragularius: dragoman
+tressis: three
+ubiquitas: ubiquity
+uluccus: uluccus
+Poenus: Phoenician
+arbitrarietas: arbitrariness
+argentifex: silversmith
+asotium: debauchery
+ataurus: ataurus
+bassara: bassara
+brugaria: brugaria
+cataphagas: cataphagas
+collocutio: colloquy
+compatibilitas: compatibility
+dentifrangibulus: toothbreaker
+domusio: household use
+dualitas: duality
+fascismus: fascism
+feminicidium: femicide
+insipiditas: tastelessness
+laxatio: relaxation
+masculinitas: masculinity
+myrias: myriad
+napy: napy
+polyphagus: polyphagous
+precarietas: precariousness
+procacitas: impudence
+regimentum: regiment
+septinuba: septinuba
+sonium: noise
+spontaneitas: spontaneity
+stultiloquentia: foolish talk
+usio: use
+verbositas: verbosity
+Minotaurus: Minotaur
+acutia: sharpness
+annexio: annexation
+antiheros: antihero
+audacitas: audacity
+bonacia: bonacia
+coctorium: kitchen
+comesor: table companion
+comestura: comestibles
+conucula: conucula
+cruciabilitas: torment
+deliciolae: little delights
+despicatio: contempt
+duplicatio: duplication
+eiectamentum: ejectament
+floccinaucinihilipilificatio: floccinaucinihilipilification
+gaitanum: gaitanum
+illisio: impact
+infertilitas: infertility
+ingratia: ingratia
+ipsimago: ipsimago
+ipsulum: ipsulum
+kemalismus: kemalism
+litigatio: litigation
+litigium: lawsuit
+luciditas: lucidity
+lupuletum: lupuletum
+narcissium: narcissus
+parentatio: memorial service
+praedilectio: predilection
+profanitas: profanity
+pronitas: proneness
+prosopographia: prosopography
+ramificatio: ramification
+solamentum: comfort
+subigitatio: subigitatio
+suffimen: suffimen
+suffimentum: suffimentum
+tragema: snack
+trogium: trogium
+tutorium: tutorial
+acuties: sharpness
+assyr: Assyrian
+chamaepitys: chamaepitys
+dentilegus: tooth-picker
+eructatio: belch
+eugium: good deed
+helciarius: helciarius
+incredibilitas: incredibility
+insecuritas: insecurity
+instinctio: incitement
+interpretamentum: interpretation
+mordex: bite
+nomenclatio: nomenclation
+plaustrarius: carter
+ploratio: weeping
+rhabdomantia: rhabdomancy
+urbicapus: urbicapus
+vaccarius: cowherd
+vervecarius: sheep-herder
+fuscitas: darkness
+typoglypta: typoglypta
+attrectatio: handling
+caphura: camphor
+devastatio: devastation
+extalis: extalis
+ieiunitas: fasting
+sellarius: saddler
+volitio: volition
+cardamomum: cardamom
+eleemosynarius: almoner
+athambia: fearlessness
+chamaemelon: chamomile
+hydragogia: water carrying
+myrobalanum: myrobalan
+tricennium: tricennium
+Tegeaea: Tegeaea
+dolabrarius: woodcutter
+iudicamentum: judgment
+ovatio: ovation
+peccamen: sin
+properatio: haste
+Homeromastix: Homeromastix
+appulsio: landing
+cabella: little mare
+chloroformum: chloroform
+elastrum: elastrum
+identificatio: identification
+inconcinnitas: incongruity
+interspatium: interval
+linguagium: language
+menstruatio: menstruation
+petrificatio: petrification
+peturnicula: peturnicula
+territio: intimidation
+tinnimentum: tinkling
+trucitas: truculence
+varicositas: varicosity
+apodixa: apodixa
+brosca: brosca
+fagetum: beech forest
+lumbifragium: lumbifragium
+somnambulus: sleepwalker
+subterfugium: subterfuge
+thunnina: tuna
+torneamentum: tournament
+veracitas: truthfulness
+vituperium: vituperation
+Mahometanus: Mahometan
+imbricitor: roofer
+lucorem: light
+matteuca: hammer
+puronium: puronium
+salvamentum: salvage
+Musulmanus: Muslim
+abellona: bee
+aculeonis: thorn
+biscopu: bishop
+botularius: sausage-maker
+marinellus: marine
+monasteriolum: little monastery
+morphinum: morphine
+oestriculum: little gadfly
+quadrula: little square
+sclava: female slave
+stimularia: spur
+subcustos: assistant custodian
+subtelaris: subtelaris
+sufflitum: sufflitum
+Austrasius: Austrasian
+Hassius: Hessian
+Maioricanus: Majorcan
+Valachus: Vlach
+alumo: alum
+banausicus: banausic
+bibliopegus: bookbinder
+caligarius: bootmaker
+campaniolus: campaniolus
+citrovorum: citron
+crassia: thickness
+cucumellum: little cucumber
+epigraphia: epigraphy
+exaptotum: exaptotum
+febrifugia: febrifuge
+fratruus: little brother
+inquietatio: restlessness
+melice: melodious
+monoptotum: monoptotum
+pentaptotum: pentaptotum
+proclivitas: proclivity
+subfronticella: subfronticella
+tabonem: tabonem
+tetraptotum: tetraptotum
+triptotum: triptotum
+amolitio: amolitio
+bessalis: bessalis
+bostar: ox-stall
+buttia: butt
+sphalma: error
+summionem: summionem

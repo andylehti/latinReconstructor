@@ -1,0 +1,6295 @@
+{
+  "masterId": "latinMasterMorph.master.v1",
+  "meta": {
+    "name": "latinMasterMorphMaster",
+    "version": "1.0.0",
+    "structure": [
+      "part1",
+      "part2",
+      "part3",
+      "part4"
+    ],
+    "notes": [
+      "This file is the complete 4-part wrapper for machine-code aided context translation.",
+    ]
+  },
+  "parts": {
+    "part1": {
+      "schemaId": "latinMasterRulepack.v2",
+      "__comments": {
+        "part2": "codes, gloss templates, declension tables, verb endings; neuter rules, i-stem options.",
+        "part3": "appendices + examples + correlatives + irregular verb tables + verbs/loans package, appendixExamples, correlativesMatrix, irregularVerbsTables, verbsAndLoans) to avoid mega-nodes.",
+        "part4": "lexicon overrides, exception lists (e.g., -er stem retention, mixed declensions like domus), scoring/priority calibration, and any tokenizer/segmenter runtime configuration not already captured in part1.regexAndAssembly."
+      },
+      "meta": {
+        "name": "Latin Master Morphology + Direct Translation Rulepack",
+        "version": "2.0.0",
+        "description": "Unified Latin morphology dataset (nouns/adjectives/pronouns/verbs) + direct-translation rules + regex/assembly helpers.",
+        "placeholders": {
+          "{base}": "English base verb gloss (e.g., 'love')",
+          "{participle}": "English participle gloss (e.g., 'loved', 'loving')",
+          "{noun}": "English noun gloss",
+          "{adj}": "English adjective gloss",
+          "{V}": "English verb gloss token (engine-resolved)"
+        },
+        "sourcesHint": {
+          "declensions": [
+            "A116",
+            "A117",
+            "A118",
+            "A119",
+            "A121",
+            "A122",
+            "A126"
+          ],
+          "verbs": [
+            "A123",
+            "A124",
+            "A125",
+            "A128"
+          ],
+          "greekLoans": [
+            "A129"
+          ]
+        },
+        "normalization": {
+          "caseFold": true,
+          "stripDiacritics": true,
+          "stripMacrons": true,
+          "preserveOriginalToken": true,
+          "mapJtoIOptional": true,
+          "mapVtoUOptional": false
+        }
+      },
+      "core": {
+        "cases": [
+          "nom",
+          "voc",
+          "acc",
+          "gen",
+          "dat",
+          "abl",
+          "loc"
+        ],
+        "numbers": [
+          "sg",
+          "pl"
+        ],
+        "genders": [
+          "m",
+          "f",
+          "n",
+          "c"
+        ],
+        "coordinationMarkers": [
+          "et",
+          "ac",
+          "atque",
+          "aut",
+          "vel",
+          "sive",
+          "nec",
+          "neque",
+          "-que"
+        ],
+        "enclitics": [
+          "-que",
+          "-ve",
+          "-ne"
+        ],
+        "neuterIdentityRule": {
+          "apply": true,
+          "description": "Neuters: nom=acc=voc in both sg and pl (within their declension/adjective pattern)."
+        }
+      },
+      "morphology": {
+        "declensions": {
+          "nouns": [
+            {
+              "id": "noun.1st.a",
+              "declensionNumber": 1,
+              "genderDefault": "f",
+              "match": {
+                "genSgSuffixAny": [
+                  "ae"
+                ]
+              },
+              "endings": {
+                "sg": {
+                  "nom": [
+                    "a"
+                  ],
+                  "voc": [
+                    "a"
+                  ],
+                  "acc": [
+                    "am"
+                  ],
+                  "gen": [
+                    "ae"
+                  ],
+                  "dat": [
+                    "ae"
+                  ],
+                  "abl": [
+                    "a"
+                  ],
+                  "loc": [
+                    "ae"
+                  ]
+                },
+                "pl": {
+                  "nom": [
+                    "ae"
+                  ],
+                  "voc": [
+                    "ae"
+                  ],
+                  "acc": [
+                    "as"
+                  ],
+                  "gen": [
+                    "arum"
+                  ],
+                  "dat": [
+                    "is"
+                  ],
+                  "abl": [
+                    "is"
+                  ],
+                  "loc": [
+                    "is"
+                  ]
+                }
+              },
+              "alternates": {
+                "genSgArchaic": [
+                  "as"
+                ],
+                "datAblPlSpecial": {
+                  "useWhenLemmaInAny": [
+                    "dea",
+                    "filia"
+                  ],
+                  "endings": [
+                    "abus"
+                  ]
+                }
+              },
+              "notes": [
+                "Locative -ae is productive mainly for cities/small islands; otherwise rare.",
+                "Some masculine 1st declension nouns exist (esp. professions/ethnics), lexicon-driven."
+              ]
+            },
+            {
+              "id": "noun.1st.greek",
+              "declensionNumber": 1,
+              "genderDefault": "m",
+              "match": {
+                "nomSgSuffixAny": [
+                  "as",
+                  "es"
+                ],
+                "genSgSuffixAny": [
+                  "ae"
+                ]
+              },
+              "endings": {
+                "sg": {
+                  "nom": [
+                    "as",
+                    "es"
+                  ],
+                  "voc": [
+                    "a",
+                    "e"
+                  ],
+                  "acc": [
+                    "an",
+                    "en",
+                    "am"
+                  ],
+                  "gen": [
+                    "ae"
+                  ],
+                  "dat": [
+                    "ae"
+                  ],
+                  "abl": [
+                    "a",
+                    "e"
+                  ],
+                  "loc": [
+                    "ae"
+                  ]
+                },
+                "pl": {
+                  "note": "Regular 1st declension plural endings (noun.1st.a.pl)."
+                }
+              },
+              "notes": [
+                "Greek loans/names vary; keep lexicon exceptions as overrides."
+              ]
+            },
+            {
+              "id": "noun.2nd.usEr",
+              "declensionNumber": 2,
+              "genderDefault": "m",
+              "match": {
+                "genSgSuffixAny": [
+                  "i"
+                ]
+              },
+              "endings": {
+                "sg": {
+                  "nom": [
+                    "us",
+                    "er",
+                    "ir"
+                  ],
+                  "voc": [
+                    "e",
+                    "er",
+                    "ir",
+                    "i"
+                  ],
+                  "acc": [
+                    "um"
+                  ],
+                  "gen": [
+                    "i"
+                  ],
+                  "dat": [
+                    "o"
+                  ],
+                  "abl": [
+                    "o"
+                  ],
+                  "loc": [
+                    "i"
+                  ]
+                },
+                "pl": {
+                  "nom": [
+                    "i"
+                  ],
+                  "voc": [
+                    "i"
+                  ],
+                  "acc": [
+                    "os"
+                  ],
+                  "gen": [
+                    "orum"
+                  ],
+                  "dat": [
+                    "is"
+                  ],
+                  "abl": [
+                    "is"
+                  ],
+                  "loc": [
+                    "is"
+                  ]
+                }
+              },
+              "alternates": {
+                "vocSgRules": [
+                  {
+                    "ifNomSgEndsWith": "ius",
+                    "vocSg": [
+                      "i"
+                    ]
+                  },
+                  {
+                    "ifNomSgEndsWith": "us",
+                    "vocSg": [
+                      "e"
+                    ]
+                  },
+                  {
+                    "ifNomSgEndsWithAny": [
+                      "er",
+                      "ir"
+                    ],
+                    "vocSg": [
+                      "er",
+                      "ir"
+                    ]
+                  }
+                ],
+                "erStemRule": {
+                  "note": "Some -er nouns drop e in oblique stem (ager/agr-), others keep (puer/puer-). Lexicon decides."
+                }
+              }
+            },
+            {
+              "id": "noun.2nd.um",
+              "declensionNumber": 2,
+              "genderDefault": "n",
+              "match": {
+                "nomAccSgSuffixAny": [
+                  "um"
+                ],
+                "genSgSuffixAny": [
+                  "i"
+                ]
+              },
+              "endings": {
+                "sg": {
+                  "nom": [
+                    "um"
+                  ],
+                  "voc": [
+                    "um"
+                  ],
+                  "acc": [
+                    "um"
+                  ],
+                  "gen": [
+                    "i"
+                  ],
+                  "dat": [
+                    "o"
+                  ],
+                  "abl": [
+                    "o"
+                  ],
+                  "loc": [
+                    "i"
+                  ]
+                },
+                "pl": {
+                  "nom": [
+                    "a"
+                  ],
+                  "voc": [
+                    "a"
+                  ],
+                  "acc": [
+                    "a"
+                  ],
+                  "gen": [
+                    "orum"
+                  ],
+                  "dat": [
+                    "is"
+                  ],
+                  "abl": [
+                    "is"
+                  ],
+                  "loc": [
+                    "is"
+                  ]
+                }
+              }
+            },
+            {
+              "id": "noun.2nd.greek.osOn",
+              "declensionNumber": 2,
+              "genderDefault": "c",
+              "match": {
+                "nomSgSuffixAny": [
+                  "os",
+                  "on"
+                ],
+                "genSgSuffixAny": [
+                  "i"
+                ]
+              },
+              "endings": {
+                "sg": {
+                  "nom": [
+                    "os",
+                    "on"
+                  ],
+                  "voc": [
+                    "e",
+                    "on"
+                  ],
+                  "acc": [
+                    "on",
+                    "um"
+                  ],
+                  "gen": [
+                    "i"
+                  ],
+                  "dat": [
+                    "o"
+                  ],
+                  "abl": [
+                    "o"
+                  ],
+                  "loc": [
+                    "i"
+                  ]
+                },
+                "pl": {
+                  "note": "Often regular 2nd declension plural; keep lexicon alternates."
+                }
+              },
+              "notes": [
+                "Greek accusative -on may appear alongside Latinized -um."
+              ]
+            },
+            {
+              "id": "noun.3rd.general",
+              "declensionNumber": 3,
+              "genderDefault": "c",
+              "match": {
+                "genSgSuffixAny": [
+                  "is"
+                ]
+              },
+              "stemRule": {
+                "deriveStemFromGenSg": {
+                  "removeSuffix": "is"
+                }
+              },
+              "endings": {
+                "sg": {
+                  "nom": [
+                    "*"
+                  ],
+                  "voc": [
+                    "*"
+                  ],
+                  "acc": [
+                    "em",
+                    "*"
+                  ],
+                  "gen": [
+                    "is"
+                  ],
+                  "dat": [
+                    "i"
+                  ],
+                  "abl": [
+                    "e",
+                    "i"
+                  ],
+                  "loc": [
+                    "i"
+                  ]
+                },
+                "pl": {
+                  "nom": [
+                    "es",
+                    "a",
+                    "ia"
+                  ],
+                  "voc": [
+                    "es",
+                    "a",
+                    "ia"
+                  ],
+                  "acc": [
+                    "es",
+                    "a",
+                    "ia"
+                  ],
+                  "gen": [
+                    "um",
+                    "ium"
+                  ],
+                  "dat": [
+                    "ibus"
+                  ],
+                  "abl": [
+                    "ibus"
+                  ],
+                  "loc": [
+                    "ibus"
+                  ]
+                }
+              },
+              "subrules": {
+                "iStemHeuristics": {
+                  "enable": true,
+                  "signals": [
+                    "genPl=ium",
+                    "ablSg=i",
+                    "neuterPl=ia",
+                    "parisyllabicHint"
+                  ],
+                  "effects": {
+                    "preferGenPl": "ium",
+                    "preferAblSg": "i",
+                    "preferNeuterPl": "ia"
+                  }
+                },
+                "neuterConsonantStemCommon": {
+                  "signals": [
+                    "nomSgEndsWithAny:al,ar,men"
+                  ],
+                  "effects": {
+                    "preferNeuterPl": "a",
+                    "preferGenPl": "um"
+                  }
+                }
+              },
+              "notes": [
+                "Nom/Voc sg is lexicon-driven; cannot be derived reliably from endings alone.",
+                "Acc sg sometimes = nom sg (esp. some i-stems/Greek); keep as variant."
+              ]
+            },
+            {
+              "id": "noun.4th.us",
+              "declensionNumber": 4,
+              "genderDefault": "m",
+              "match": {
+                "genSgSuffixAny": [
+                  "us"
+                ],
+                "ablSgSuffixAny": [
+                  "u"
+                ]
+              },
+              "endings": {
+                "sg": {
+                  "nom": [
+                    "us"
+                  ],
+                  "voc": [
+                    "us"
+                  ],
+                  "acc": [
+                    "um"
+                  ],
+                  "gen": [
+                    "us"
+                  ],
+                  "dat": [
+                    "ui",
+                    "u"
+                  ],
+                  "abl": [
+                    "u"
+                  ],
+                  "loc": [
+                    "u"
+                  ]
+                },
+                "pl": {
+                  "nom": [
+                    "us"
+                  ],
+                  "voc": [
+                    "us"
+                  ],
+                  "acc": [
+                    "us"
+                  ],
+                  "gen": [
+                    "uum"
+                  ],
+                  "dat": [
+                    "ibus",
+                    "ubus"
+                  ],
+                  "abl": [
+                    "ibus",
+                    "ubus"
+                  ],
+                  "loc": [
+                    "ibus",
+                    "ubus"
+                  ]
+                }
+              },
+              "notes": [
+                "Many 4th declension nouns are feminine (e.g., manus); gender must be lexicon-aware."
+              ]
+            },
+            {
+              "id": "noun.4th.u",
+              "declensionNumber": 4,
+              "genderDefault": "n",
+              "match": {
+                "nomAccSgSuffixAny": [
+                  "u"
+                ],
+                "genSgSuffixAny": [
+                  "us"
+                ]
+              },
+              "endings": {
+                "sg": {
+                  "nom": [
+                    "u"
+                  ],
+                  "voc": [
+                    "u"
+                  ],
+                  "acc": [
+                    "u"
+                  ],
+                  "gen": [
+                    "us"
+                  ],
+                  "dat": [
+                    "u"
+                  ],
+                  "abl": [
+                    "u"
+                  ],
+                  "loc": [
+                    "u"
+                  ]
+                },
+                "pl": {
+                  "nom": [
+                    "ua"
+                  ],
+                  "voc": [
+                    "ua"
+                  ],
+                  "acc": [
+                    "ua"
+                  ],
+                  "gen": [
+                    "uum"
+                  ],
+                  "dat": [
+                    "ibus"
+                  ],
+                  "abl": [
+                    "ibus"
+                  ],
+                  "loc": [
+                    "ibus"
+                  ]
+                }
+              }
+            },
+            {
+              "id": "noun.5th.es",
+              "declensionNumber": 5,
+              "genderDefault": "f",
+              "match": {
+                "nomSgSuffixAny": [
+                  "es"
+                ],
+                "genSgSuffixAny": [
+                  "ei"
+                ]
+              },
+              "endings": {
+                "sg": {
+                  "nom": [
+                    "es"
+                  ],
+                  "voc": [
+                    "es"
+                  ],
+                  "acc": [
+                    "em"
+                  ],
+                  "gen": [
+                    "ei"
+                  ],
+                  "dat": [
+                    "ei"
+                  ],
+                  "abl": [
+                    "e"
+                  ],
+                  "loc": [
+                    "e"
+                  ]
+                },
+                "pl": {
+                  "nom": [
+                    "es"
+                  ],
+                  "voc": [
+                    "es"
+                  ],
+                  "acc": [
+                    "es"
+                  ],
+                  "gen": [
+                    "erum"
+                  ],
+                  "dat": [
+                    "ebus"
+                  ],
+                  "abl": [
+                    "ebus"
+                  ],
+                  "loc": [
+                    "ebus"
+                  ]
+                }
+              },
+              "notes": [
+                "dies is often masculine (sometimes feminine); res is typically feminine.",
+                "Some words show -e/-ei variation; store lexicon alternates if needed."
+              ]
+            }
+          ],
+          "adjectives": [
+            {
+              "id": "adj.1st2nd",
+              "match": {
+                "lemmaPatternAny": [
+                  "*us/*a/*um",
+                  "*er/*ra/*rum"
+                ]
+              },
+              "inflectLike": [
+                "noun.1st.a",
+                "noun.2nd.usEr",
+                "noun.2nd.um"
+              ],
+              "notes": [
+                "Use noun endings with gender selection; stem behavior for -er is lexicon-driven."
+              ]
+            },
+            {
+              "id": "adj.3rd.twoTermination",
+              "match": {
+                "lemmaPatternAny": [
+                  "*is/*e"
+                ]
+              },
+              "endings": {
+                "sg": {
+                  "nom": [
+                    "is(mf)",
+                    "e(n)"
+                  ],
+                  "gen": [
+                    "is"
+                  ],
+                  "dat": [
+                    "i"
+                  ],
+                  "acc": [
+                    "em(mf)",
+                    "e(n)"
+                  ],
+                  "abl": [
+                    "i",
+                    "e"
+                  ],
+                  "loc": [
+                    "i"
+                  ]
+                },
+                "pl": {
+                  "nom": [
+                    "es(mf)",
+                    "ia(n)"
+                  ],
+                  "gen": [
+                    "ium"
+                  ],
+                  "dat": [
+                    "ibus"
+                  ],
+                  "acc": [
+                    "es(mf)",
+                    "ia(n)"
+                  ],
+                  "abl": [
+                    "ibus"
+                  ],
+                  "loc": [
+                    "ibus"
+                  ]
+                }
+              }
+            },
+            {
+              "id": "adj.3rd.oneTermination",
+              "match": {
+                "lemmaPatternAny": [
+                  "*x/*is",
+                  "*ns/*ntis",
+                  "*r/*ris"
+                ]
+              },
+              "endings": {
+                "sg": {
+                  "nom": [
+                    "*"
+                  ],
+                  "gen": [
+                    "is"
+                  ],
+                  "dat": [
+                    "i"
+                  ],
+                  "acc": [
+                    "em",
+                    "*"
+                  ],
+                  "abl": [
+                    "i",
+                    "e"
+                  ],
+                  "loc": [
+                    "i"
+                  ]
+                },
+                "pl": {
+                  "nom": [
+                    "es(mf)",
+                    "a/ia(n)"
+                  ],
+                  "gen": [
+                    "um/ium"
+                  ],
+                  "dat": [
+                    "ibus"
+                  ],
+                  "acc": [
+                    "es(mf)",
+                    "a/ia(n)"
+                  ],
+                  "abl": [
+                    "ibus"
+                  ],
+                  "loc": [
+                    "ibus"
+                  ]
+                }
+              },
+              "notes": [
+                "Present participles behave like one-termination adjectives with stem in -nt-."
+              ]
+            },
+            {
+              "id": "adj.comparative",
+              "match": {
+                "surfaceSuffixAny": [
+                  "ior",
+                  "ius"
+                ]
+              },
+              "endings": {
+                "sg": {
+                  "nom": [
+                    "ior(mf)",
+                    "ius(n)"
+                  ],
+                  "gen": [
+                    "ioris"
+                  ],
+                  "dat": [
+                    "iori"
+                  ],
+                  "acc": [
+                    "iorem(mf)",
+                    "ius(n)"
+                  ],
+                  "abl": [
+                    "iore"
+                  ],
+                  "loc": [
+                    "iore"
+                  ]
+                },
+                "pl": {
+                  "nom": [
+                    "iores(mf)",
+                    "iora(n)"
+                  ],
+                  "gen": [
+                    "iorum"
+                  ],
+                  "dat": [
+                    "ioribus"
+                  ],
+                  "acc": [
+                    "iores(mf)",
+                    "iora(n)"
+                  ],
+                  "abl": [
+                    "ioribus"
+                  ],
+                  "loc": [
+                    "ioribus"
+                  ]
+                }
+              }
+            }
+          ],
+          "pronouns": [
+            {
+              "id": "pron.personal.ego",
+              "forms": {
+                "sg": {
+                  "nom": [
+                    "ego"
+                  ],
+                  "gen": [
+                    "mei"
+                  ],
+                  "dat": [
+                    "mihi"
+                  ],
+                  "acc": [
+                    "me"
+                  ],
+                  "abl": [
+                    "me"
+                  ]
+                },
+                "pl": {
+                  "nom": [
+                    "nos"
+                  ],
+                  "gen": [
+                    "nostri",
+                    "nostrum"
+                  ],
+                  "dat": [
+                    "nobis"
+                  ],
+                  "acc": [
+                    "nos"
+                  ],
+                  "abl": [
+                    "nobis"
+                  ]
+                }
+              }
+            },
+            {
+              "id": "pron.personal.tu",
+              "forms": {
+                "sg": {
+                  "nom": [
+                    "tu"
+                  ],
+                  "gen": [
+                    "tui"
+                  ],
+                  "dat": [
+                    "tibi"
+                  ],
+                  "acc": [
+                    "te"
+                  ],
+                  "abl": [
+                    "te"
+                  ]
+                },
+                "pl": {
+                  "nom": [
+                    "vos"
+                  ],
+                  "gen": [
+                    "vestri",
+                    "vestrum"
+                  ],
+                  "dat": [
+                    "vobis"
+                  ],
+                  "acc": [
+                    "vos"
+                  ],
+                  "abl": [
+                    "vobis"
+                  ]
+                }
+              }
+            },
+            {
+              "id": "pron.reflexive.se",
+              "forms": {
+                "sg": {
+                  "nom": [],
+                  "gen": [
+                    "sui"
+                  ],
+                  "dat": [
+                    "sibi"
+                  ],
+                  "acc": [
+                    "se"
+                  ],
+                  "abl": [
+                    "se"
+                  ]
+                },
+                "pl": {
+                  "nom": [],
+                  "gen": [
+                    "sui"
+                  ],
+                  "dat": [
+                    "sibi"
+                  ],
+                  "acc": [
+                    "se"
+                  ],
+                  "abl": [
+                    "se"
+                  ]
+                }
+              }
+            },
+            {
+              "id": "adj.possessive.core",
+              "lemmata": [
+                "meus",
+                "tuus",
+                "suus",
+                "noster",
+                "vester"
+              ],
+              "inflectLike": [
+                "adj.1st2nd"
+              ],
+              "notes": [
+                "Possessives are adjectives (agree with possessed noun)."
+              ]
+            },
+            {
+              "id": "pron.demonstrative.isEaId",
+              "forms": {
+                "sg": {
+                  "m": {
+                    "nom": [
+                      "is"
+                    ],
+                    "acc": [
+                      "eum"
+                    ],
+                    "gen": [
+                      "eius"
+                    ],
+                    "dat": [
+                      "ei"
+                    ],
+                    "abl": [
+                      "eo"
+                    ]
+                  },
+                  "f": {
+                    "nom": [
+                      "ea"
+                    ],
+                    "acc": [
+                      "eam"
+                    ],
+                    "gen": [
+                      "eius"
+                    ],
+                    "dat": [
+                      "ei"
+                    ],
+                    "abl": [
+                      "ea"
+                    ]
+                  },
+                  "n": {
+                    "nom": [
+                      "id"
+                    ],
+                    "acc": [
+                      "id"
+                    ],
+                    "gen": [
+                      "eius"
+                    ],
+                    "dat": [
+                      "ei"
+                    ],
+                    "abl": [
+                      "eo"
+                    ]
+                  }
+                },
+                "pl": {
+                  "m": {
+                    "nom": [
+                      "ei",
+                      "ii"
+                    ],
+                    "acc": [
+                      "eos"
+                    ],
+                    "gen": [
+                      "eorum"
+                    ],
+                    "dat": [
+                      "eis"
+                    ],
+                    "abl": [
+                      "eis"
+                    ]
+                  },
+                  "f": {
+                    "nom": [
+                      "eae"
+                    ],
+                    "acc": [
+                      "eas"
+                    ],
+                    "gen": [
+                      "earum"
+                    ],
+                    "dat": [
+                      "eis"
+                    ],
+                    "abl": [
+                      "eis"
+                    ]
+                  },
+                  "n": {
+                    "nom": [
+                      "ea"
+                    ],
+                    "acc": [
+                      "ea"
+                    ],
+                    "gen": [
+                      "eorum"
+                    ],
+                    "dat": [
+                      "eis"
+                    ],
+                    "abl": [
+                      "eis"
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "id": "pron.demonstrative.hicHaecHoc",
+              "forms": {
+                "sg": {
+                  "m": {
+                    "nom": [
+                      "hic"
+                    ],
+                    "acc": [
+                      "hunc"
+                    ],
+                    "gen": [
+                      "huius"
+                    ],
+                    "dat": [
+                      "huic"
+                    ],
+                    "abl": [
+                      "hoc"
+                    ]
+                  },
+                  "f": {
+                    "nom": [
+                      "haec"
+                    ],
+                    "acc": [
+                      "hanc"
+                    ],
+                    "gen": [
+                      "huius"
+                    ],
+                    "dat": [
+                      "huic"
+                    ],
+                    "abl": [
+                      "hac"
+                    ]
+                  },
+                  "n": {
+                    "nom": [
+                      "hoc"
+                    ],
+                    "acc": [
+                      "hoc"
+                    ],
+                    "gen": [
+                      "huius"
+                    ],
+                    "dat": [
+                      "huic"
+                    ],
+                    "abl": [
+                      "hoc"
+                    ]
+                  }
+                },
+                "pl": {
+                  "m": {
+                    "nom": [
+                      "hi"
+                    ],
+                    "acc": [
+                      "hos"
+                    ],
+                    "gen": [
+                      "horum"
+                    ],
+                    "dat": [
+                      "his"
+                    ],
+                    "abl": [
+                      "his"
+                    ]
+                  },
+                  "f": {
+                    "nom": [
+                      "hae"
+                    ],
+                    "acc": [
+                      "has"
+                    ],
+                    "gen": [
+                      "harum"
+                    ],
+                    "dat": [
+                      "his"
+                    ],
+                    "abl": [
+                      "his"
+                    ]
+                  },
+                  "n": {
+                    "nom": [
+                      "haec"
+                    ],
+                    "acc": [
+                      "haec"
+                    ],
+                    "gen": [
+                      "horum"
+                    ],
+                    "dat": [
+                      "his"
+                    ],
+                    "abl": [
+                      "his"
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "id": "pron.demonstrative.illeIllaIllud",
+              "forms": {
+                "sg": {
+                  "m": {
+                    "nom": [
+                      "ille"
+                    ],
+                    "acc": [
+                      "illum"
+                    ],
+                    "gen": [
+                      "illius"
+                    ],
+                    "dat": [
+                      "illi"
+                    ],
+                    "abl": [
+                      "illo"
+                    ]
+                  },
+                  "f": {
+                    "nom": [
+                      "illa"
+                    ],
+                    "acc": [
+                      "illam"
+                    ],
+                    "gen": [
+                      "illius"
+                    ],
+                    "dat": [
+                      "illi"
+                    ],
+                    "abl": [
+                      "illa"
+                    ]
+                  },
+                  "n": {
+                    "nom": [
+                      "illud"
+                    ],
+                    "acc": [
+                      "illud"
+                    ],
+                    "gen": [
+                      "illius"
+                    ],
+                    "dat": [
+                      "illi"
+                    ],
+                    "abl": [
+                      "illo"
+                    ]
+                  }
+                },
+                "pl": {
+                  "m": {
+                    "nom": [
+                      "illi"
+                    ],
+                    "acc": [
+                      "illos"
+                    ],
+                    "gen": [
+                      "illorum"
+                    ],
+                    "dat": [
+                      "illis"
+                    ],
+                    "abl": [
+                      "illis"
+                    ]
+                  },
+                  "f": {
+                    "nom": [
+                      "illae"
+                    ],
+                    "acc": [
+                      "illas"
+                    ],
+                    "gen": [
+                      "illarum"
+                    ],
+                    "dat": [
+                      "illis"
+                    ],
+                    "abl": [
+                      "illis"
+                    ]
+                  },
+                  "n": {
+                    "nom": [
+                      "illa"
+                    ],
+                    "acc": [
+                      "illa"
+                    ],
+                    "gen": [
+                      "illorum"
+                    ],
+                    "dat": [
+                      "illis"
+                    ],
+                    "abl": [
+                      "illis"
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "id": "pron.relative.quiQuaeQuod",
+              "forms": {
+                "sg": {
+                  "m": {
+                    "nom": [
+                      "qui"
+                    ],
+                    "acc": [
+                      "quem"
+                    ],
+                    "gen": [
+                      "cuius"
+                    ],
+                    "dat": [
+                      "cui"
+                    ],
+                    "abl": [
+                      "quo"
+                    ]
+                  },
+                  "f": {
+                    "nom": [
+                      "quae"
+                    ],
+                    "acc": [
+                      "quam"
+                    ],
+                    "gen": [
+                      "cuius"
+                    ],
+                    "dat": [
+                      "cui"
+                    ],
+                    "abl": [
+                      "qua"
+                    ]
+                  },
+                  "n": {
+                    "nom": [
+                      "quod"
+                    ],
+                    "acc": [
+                      "quod"
+                    ],
+                    "gen": [
+                      "cuius"
+                    ],
+                    "dat": [
+                      "cui"
+                    ],
+                    "abl": [
+                      "quo"
+                    ]
+                  }
+                },
+                "pl": {
+                  "m": {
+                    "nom": [
+                      "qui"
+                    ],
+                    "acc": [
+                      "quos"
+                    ],
+                    "gen": [
+                      "quorum"
+                    ],
+                    "dat": [
+                      "quibus"
+                    ],
+                    "abl": [
+                      "quibus"
+                    ]
+                  },
+                  "f": {
+                    "nom": [
+                      "quae"
+                    ],
+                    "acc": [
+                      "quas"
+                    ],
+                    "gen": [
+                      "quarum"
+                    ],
+                    "dat": [
+                      "quibus"
+                    ],
+                    "abl": [
+                      "quibus"
+                    ]
+                  },
+                  "n": {
+                    "nom": [
+                      "quae"
+                    ],
+                    "acc": [
+                      "quae"
+                    ],
+                    "gen": [
+                      "quorum"
+                    ],
+                    "dat": [
+                      "quibus"
+                    ],
+                    "abl": [
+                      "quibus"
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "id": "pron.interrogative.quisQuid",
+              "forms": {
+                "sg": {
+                  "c": {
+                    "nom": [
+                      "quis"
+                    ],
+                    "acc": [
+                      "quem"
+                    ],
+                    "gen": [
+                      "cuius"
+                    ],
+                    "dat": [
+                      "cui"
+                    ],
+                    "abl": [
+                      "quo"
+                    ]
+                  },
+                  "n": {
+                    "nom": [
+                      "quid"
+                    ],
+                    "acc": [
+                      "quid"
+                    ],
+                    "gen": [
+                      "cuius"
+                    ],
+                    "dat": [
+                      "cui"
+                    ],
+                    "abl": [
+                      "quo"
+                    ]
+                  }
+                },
+                "pl": {
+                  "c": {
+                    "nom": [
+                      "qui",
+                      "quae"
+                    ],
+                    "acc": [
+                      "quos",
+                      "quas"
+                    ],
+                    "gen": [
+                      "quorum",
+                      "quarum"
+                    ],
+                    "dat": [
+                      "quibus"
+                    ],
+                    "abl": [
+                      "quibus"
+                    ]
+                  },
+                  "n": {
+                    "nom": [
+                      "quae"
+                    ],
+                    "acc": [
+                      "quae"
+                    ],
+                    "gen": [
+                      "quorum"
+                    ],
+                    "dat": [
+                      "quibus"
+                    ],
+                    "abl": [
+                      "quibus"
+                    ]
+                  }
+                }
+              },
+              "notes": [
+                "Interrogatives share many forms with relatives; engine should treat as separate lexeme class."
+              ]
+            }
+          ]
+        },
+        "verbs": {
+          "features": {
+            "voice": [
+              "act",
+              "pass"
+            ],
+            "moodFinite": [
+              "ind",
+              "subj",
+              "imp"
+            ],
+            "tenseFinite": [
+              "pres",
+              "impf",
+              "fut",
+              "perf",
+              "plup",
+              "futp"
+            ],
+            "person": [
+              "1",
+              "2",
+              "3"
+            ],
+            "number": [
+              "sg",
+              "pl"
+            ]
+          },
+          "stems": {
+            "principalParts": {
+              "pp1": "presentIndicative1sg",
+              "pp2": "presentActiveInfinitive",
+              "pp3": "perfectActive1sg",
+              "pp4": "supineOrPPP"
+            },
+            "deriveRules": [
+              {
+                "id": "presentStemFromInfinitive",
+                "input": "pp2",
+                "rules": [
+                  {
+                    "ifEndsWith": "are",
+                    "remove": "re"
+                  },
+                  {
+                    "ifEndsWith": "ere",
+                    "remove": "re"
+                  },
+                  {
+                    "ifEndsWith": "ire",
+                    "remove": "re"
+                  }
+                ]
+              },
+              {
+                "id": "perfectStemFromPp3",
+                "input": "pp3",
+                "rules": [
+                  {
+                    "ifEndsWith": "i",
+                    "remove": "i"
+                  }
+                ]
+              },
+              {
+                "id": "supineStemFromPp4",
+                "input": "pp4",
+                "rules": [
+                  {
+                    "ifEndsWith": "um",
+                    "remove": "um"
+                  },
+                  {
+                    "ifEndsWithAny": [
+                      "us",
+                      "a",
+                      "um"
+                    ],
+                    "remove": ""
+                  }
+                ]
+              }
+            ]
+          },
+          "classes": [
+            {
+              "id": "verb.1",
+              "signal": {
+                "pp2EndsWith": "are"
+              },
+              "presentSystem": {
+                "ind": {
+                  "act": {
+                    "pres": {
+                      "1sg": "o",
+                      "2sg": "as",
+                      "3sg": "at",
+                      "1pl": "amus",
+                      "2pl": "atis",
+                      "3pl": "ant"
+                    },
+                    "impf": {
+                      "1sg": "abam",
+                      "2sg": "abas",
+                      "3sg": "abat",
+                      "1pl": "abamus",
+                      "2pl": "abatis",
+                      "3pl": "abant"
+                    },
+                    "fut": {
+                      "1sg": "abo",
+                      "2sg": "abis",
+                      "3sg": "abit",
+                      "1pl": "abimus",
+                      "2pl": "abitis",
+                      "3pl": "abunt"
+                    }
+                  },
+                  "pass": {
+                    "pres": {
+                      "1sg": "or",
+                      "2sg": [
+                        "aris",
+                        "are"
+                      ],
+                      "3sg": "atur",
+                      "1pl": "amur",
+                      "2pl": "amini",
+                      "3pl": "antur"
+                    },
+                    "impf": {
+                      "1sg": "abar",
+                      "2sg": "abaris",
+                      "3sg": "abatur",
+                      "1pl": "abamur",
+                      "2pl": "abamini",
+                      "3pl": "abantur"
+                    },
+                    "fut": {
+                      "1sg": "abor",
+                      "2sg": "aberis",
+                      "3sg": "abitur",
+                      "1pl": "abimur",
+                      "2pl": "abimini",
+                      "3pl": "abuntur"
+                    }
+                  }
+                },
+                "subj": {
+                  "act": {
+                    "pres": {
+                      "1sg": "em",
+                      "2sg": "es",
+                      "3sg": "et",
+                      "1pl": "emus",
+                      "2pl": "etis",
+                      "3pl": "ent"
+                    },
+                    "impf": {
+                      "rule": "infinitive + personalEndings",
+                      "example": "amare -> amarem"
+                    }
+                  },
+                  "pass": {
+                    "pres": {
+                      "1sg": "er",
+                      "2sg": "eris",
+                      "3sg": "etur",
+                      "1pl": "emur",
+                      "2pl": "emini",
+                      "3pl": "entur"
+                    },
+                    "impf": {
+                      "rule": "infinitive + passivePersonalEndings",
+                      "example": "amare -> amarer"
+                    }
+                  }
+                },
+                "imp": {
+                  "act": {
+                    "pres": {
+                      "2sg": "a",
+                      "2pl": "ate"
+                    },
+                    "fut": {
+                      "2sg": "ato",
+                      "2pl": "atote",
+                      "3pl": "anto"
+                    }
+                  },
+                  "pass": {
+                    "pres": {
+                      "2sg": "are",
+                      "2pl": "amini"
+                    },
+                    "fut": {
+                      "2sg": "ator",
+                      "3pl": "antor"
+                    }
+                  }
+                }
+              },
+              "notes": [
+                "1st conj perfect stems often -av-; treat as lexicon-preferred, not mandatory."
+              ]
+            },
+            {
+              "id": "verb.2",
+              "signal": {
+                "pp2EndsWith": "ere",
+                "pp1EndsWith": "eo"
+              },
+              "presentSystem": {
+                "ind": {
+                  "act": {
+                    "pres": {
+                      "1sg": "eo",
+                      "2sg": "es",
+                      "3sg": "et",
+                      "1pl": "emus",
+                      "2pl": "etis",
+                      "3pl": "ent"
+                    },
+                    "impf": {
+                      "1sg": "ebam",
+                      "2sg": "ebas",
+                      "3sg": "ebat",
+                      "1pl": "ebamus",
+                      "2pl": "ebatis",
+                      "3pl": "ebant"
+                    },
+                    "fut": {
+                      "1sg": "ebo",
+                      "2sg": "ebis",
+                      "3sg": "ebit",
+                      "1pl": "ebimus",
+                      "2pl": "ebitis",
+                      "3pl": "ebunt"
+                    }
+                  },
+                  "pass": {
+                    "pres": {
+                      "1sg": "eor",
+                      "2sg": "eris",
+                      "3sg": "etur",
+                      "1pl": "emur",
+                      "2pl": "emini",
+                      "3pl": "entur"
+                    },
+                    "impf": {
+                      "1sg": "ebar",
+                      "2sg": "ebaris",
+                      "3sg": "ebatur",
+                      "1pl": "ebamur",
+                      "2pl": "ebamini",
+                      "3pl": "ebantur"
+                    },
+                    "fut": {
+                      "1sg": "ebor",
+                      "2sg": "eberis",
+                      "3sg": "ebitur",
+                      "1pl": "ebimur",
+                      "2pl": "ebimini",
+                      "3pl": "ebuntur"
+                    }
+                  }
+                },
+                "subj": {
+                  "act": {
+                    "pres": {
+                      "1sg": "eam",
+                      "2sg": "eas",
+                      "3sg": "eat",
+                      "1pl": "eamus",
+                      "2pl": "eatis",
+                      "3pl": "eant"
+                    },
+                    "impf": {
+                      "rule": "infinitive + personalEndings",
+                      "example": "monere -> monerem"
+                    }
+                  },
+                  "pass": {
+                    "pres": {
+                      "1sg": "ear",
+                      "2sg": "earis",
+                      "3sg": "eatur",
+                      "1pl": "eamur",
+                      "2pl": "eamini",
+                      "3pl": "eantur"
+                    },
+                    "impf": {
+                      "rule": "infinitive + passivePersonalEndings",
+                      "example": "monere -> monerer"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "id": "verb.3",
+              "signal": {
+                "pp2EndsWith": "ere",
+                "pp1EndsWithAny": [
+                  "o"
+                ]
+              },
+              "presentSystem": {
+                "ind": {
+                  "act": {
+                    "pres": {
+                      "1sg": "o",
+                      "2sg": "is",
+                      "3sg": "it",
+                      "1pl": "imus",
+                      "2pl": "itis",
+                      "3pl": "unt"
+                    },
+                    "impf": {
+                      "1sg": "ebam",
+                      "2sg": "ebas",
+                      "3sg": "ebat",
+                      "1pl": "ebamus",
+                      "2pl": "ebatis",
+                      "3pl": "ebant"
+                    },
+                    "fut": {
+                      "1sg": "am",
+                      "2sg": "es",
+                      "3sg": "et",
+                      "1pl": "emus",
+                      "2pl": "etis",
+                      "3pl": "ent"
+                    }
+                  },
+                  "pass": {
+                    "pres": {
+                      "1sg": "or",
+                      "2sg": "eris",
+                      "3sg": "itur",
+                      "1pl": "imur",
+                      "2pl": "imini",
+                      "3pl": "untur"
+                    },
+                    "impf": {
+                      "1sg": "ebar",
+                      "2sg": "ebaris",
+                      "3sg": "ebatur",
+                      "1pl": "ebamur",
+                      "2pl": "ebamini",
+                      "3pl": "ebantur"
+                    },
+                    "fut": {
+                      "1sg": "ar",
+                      "2sg": "eris",
+                      "3sg": "etur",
+                      "1pl": "emur",
+                      "2pl": "emini",
+                      "3pl": "entur"
+                    }
+                  }
+                },
+                "subj": {
+                  "act": {
+                    "pres": {
+                      "1sg": "am",
+                      "2sg": "as",
+                      "3sg": "at",
+                      "1pl": "amus",
+                      "2pl": "atis",
+                      "3pl": "ant"
+                    },
+                    "impf": {
+                      "rule": "infinitive + personalEndings",
+                      "example": "regere -> regerem"
+                    }
+                  },
+                  "pass": {
+                    "pres": {
+                      "1sg": "ar",
+                      "2sg": "aris",
+                      "3sg": "atur",
+                      "1pl": "amur",
+                      "2pl": "amini",
+                      "3pl": "antur"
+                    },
+                    "impf": {
+                      "rule": "infinitive + passivePersonalEndings",
+                      "example": "regere -> regerer"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "id": "verb.3io",
+              "signal": {
+                "pp1EndsWith": "io",
+                "pp2EndsWith": "ere"
+              },
+              "overrides": {
+                "ind.act.pres.1sg": "io",
+                "ind.act.pres.3pl": "iunt",
+                "ind.pass.pres.1sg": "ior",
+                "ind.pass.pres.3pl": "iuntur",
+                "ind.act.fut": {
+                  "1sg": "iam",
+                  "2sg": "ies",
+                  "3sg": "iet",
+                  "1pl": "iemus",
+                  "2pl": "ietis",
+                  "3pl": "ient"
+                },
+                "subj.act.pres": {
+                  "1sg": "iam",
+                  "2sg": "ias",
+                  "3sg": "iat",
+                  "1pl": "iamus",
+                  "2pl": "iatis",
+                  "3pl": "iant"
+                },
+                "subj.pass.pres": {
+                  "1sg": "iar",
+                  "2sg": "iaris",
+                  "3sg": "iatur",
+                  "1pl": "iamur",
+                  "2pl": "iamini",
+                  "3pl": "iantur"
+                }
+              }
+            },
+            {
+              "id": "verb.4",
+              "signal": {
+                "pp2EndsWith": "ire"
+              },
+              "presentSystem": {
+                "ind": {
+                  "act": {
+                    "pres": {
+                      "1sg": "io",
+                      "2sg": "is",
+                      "3sg": "it",
+                      "1pl": "imus",
+                      "2pl": "itis",
+                      "3pl": "iunt"
+                    },
+                    "impf": {
+                      "1sg": "iebam",
+                      "2sg": "iebas",
+                      "3sg": "iebat",
+                      "1pl": "iebamus",
+                      "2pl": "iebatis",
+                      "3pl": "iebant"
+                    },
+                    "fut": {
+                      "1sg": "iam",
+                      "2sg": "ies",
+                      "3sg": "iet",
+                      "1pl": "iemus",
+                      "2pl": "ietis",
+                      "3pl": "ient"
+                    }
+                  },
+                  "pass": {
+                    "pres": {
+                      "1sg": "ior",
+                      "2sg": "iris",
+                      "3sg": "itur",
+                      "1pl": "imur",
+                      "2pl": "imini",
+                      "3pl": "iuntur"
+                    },
+                    "impf": {
+                      "1sg": "iebar",
+                      "2sg": "iebaris",
+                      "3sg": "iebatur",
+                      "1pl": "iebamur",
+                      "2pl": "iebamini",
+                      "3pl": "iebantur"
+                    },
+                    "fut": {
+                      "1sg": "iar",
+                      "2sg": "ieris",
+                      "3sg": "ietur",
+                      "1pl": "iemur",
+                      "2pl": "iemini",
+                      "3pl": "ientur"
+                    }
+                  }
+                },
+                "subj": {
+                  "act": {
+                    "pres": {
+                      "1sg": "iam",
+                      "2sg": "ias",
+                      "3sg": "iat",
+                      "1pl": "iamus",
+                      "2pl": "iatis",
+                      "3pl": "iant"
+                    },
+                    "impf": {
+                      "rule": "infinitive + personalEndings",
+                      "example": "audire -> audirem"
+                    }
+                  },
+                  "pass": {
+                    "pres": {
+                      "1sg": "iar",
+                      "2sg": "iaris",
+                      "3sg": "iatur",
+                      "1pl": "iamur",
+                      "2pl": "iamini",
+                      "3pl": "iantur"
+                    },
+                    "impf": {
+                      "rule": "infinitive + passivePersonalEndings",
+                      "example": "audire -> audirer"
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "commonPerfectEndings": {
+            "ind": {
+              "perf": {
+                "1sg": "i",
+                "2sg": "isti",
+                "3sg": "it",
+                "1pl": "imus",
+                "2pl": "istis",
+                "3pl": [
+                  "erunt",
+                  "ere"
+                ]
+              },
+              "plup": {
+                "1sg": "eram",
+                "2sg": "eras",
+                "3sg": "erat",
+                "1pl": "eramus",
+                "2pl": "eratis",
+                "3pl": "erant"
+              },
+              "futp": {
+                "1sg": "ero",
+                "2sg": "eris",
+                "3sg": "erit",
+                "1pl": "erimus",
+                "2pl": "eritis",
+                "3pl": "erint"
+              }
+            },
+            "subj": {
+              "perf": {
+                "1sg": "erim",
+                "2sg": "eris",
+                "3sg": "erit",
+                "1pl": "erimus",
+                "2pl": "eritis",
+                "3pl": "erint"
+              },
+              "plup": {
+                "1sg": "issem",
+                "2sg": "isses",
+                "3sg": "isset",
+                "1pl": "issemus",
+                "2pl": "issetis",
+                "3pl": "issent"
+              }
+            }
+          },
+          "passivePerfectSystem": {
+            "usesPPPPlusSum": true,
+            "sumTenseMap": {
+              "ind": {
+                "perf": "pres",
+                "plup": "impf",
+                "futp": "fut"
+              },
+              "subj": {
+                "perf": "pres",
+                "plup": "impf"
+              }
+            }
+          },
+          "nonFiniteBuilders": {
+            "infinitives": {
+              "presAct": {
+                "rule": "pp2"
+              },
+              "presPass": {
+                "byClass": {
+                  "verb.1": {
+                    "replacePp2Suffix": [
+                      "are",
+                      "ari"
+                    ]
+                  },
+                  "verb.2": {
+                    "replacePp2Suffix": [
+                      "ere",
+                      "eri"
+                    ]
+                  },
+                  "verb.3": {
+                    "replacePp2Suffix": [
+                      "ere",
+                      "i"
+                    ]
+                  },
+                  "verb.3io": {
+                    "replacePp2Suffix": [
+                      "ere",
+                      "i"
+                    ]
+                  },
+                  "verb.4": {
+                    "replacePp2Suffix": [
+                      "ire",
+                      "iri"
+                    ]
+                  }
+                },
+                "archaicAlternates": [
+                  {
+                    "form": "ier",
+                    "optional": true
+                  }
+                ]
+              },
+              "perfAct": {
+                "fromPerfectStem": {
+                  "append": "isse"
+                }
+              },
+              "perfPass": {
+                "fromPPP": {
+                  "append": "esse"
+                }
+              },
+              "futAct": {
+                "fromFutActParticiple": {
+                  "append": "esse"
+                }
+              },
+              "futPass": {
+                "fromSupineAcc": {
+                  "append": "iri"
+                }
+              }
+            },
+            "participles": {
+              "presAct": {
+                "fromPresentStem": {
+                  "append": "ns",
+                  "genitiveAppend": "ntis"
+                }
+              },
+              "perfPass": {
+                "fromPp4OrPPP": true
+              },
+              "futAct": {
+                "fromSupineStem": {
+                  "append": "urus"
+                }
+              },
+              "futPassGerundive": {
+                "fromPresentStem": {
+                  "byClassAppend": {
+                    "verb.1": "andus",
+                    "verb.2": "endus",
+                    "verb.3": "endus",
+                    "verb.3io": "iendus",
+                    "verb.4": "iendus"
+                  }
+                }
+              }
+            },
+            "supine": {
+              "acc": {
+                "fromSupineStem": {
+                  "append": "um"
+                }
+              },
+              "abl": {
+                "fromSupineStem": {
+                  "append": "u"
+                }
+              }
+            }
+          },
+          "voiceSemantics": {
+            "deponent": {
+              "surfaceVoice": "pass",
+              "semanticVoice": "act"
+            },
+            "semiDeponent": {
+              "presentSystemSurface": "act",
+              "perfectSystemSurface": "pass",
+              "semanticVoice": "act"
+            }
+          },
+          "syncopationAndContraction": [
+            {
+              "id": "perfSyncopation.1st",
+              "optional": true,
+              "patterns": [
+                {
+                  "from": "avisti",
+                  "to": "asti"
+                },
+                {
+                  "from": "averunt",
+                  "to": "arunt"
+                },
+                {
+                  "from": "avisse",
+                  "to": "asse"
+                },
+                {
+                  "from": "averam",
+                  "to": "aram"
+                }
+              ]
+            }
+          ],
+          "irregularVerbs": {
+            "paradigms": {
+              "sum": {
+                "lemma": [
+                  "sum",
+                  "esse",
+                  "fui"
+                ],
+                "ind": {
+                  "act": {
+                    "pres": {
+                      "1sg": "sum",
+                      "2sg": "es",
+                      "3sg": "est",
+                      "1pl": "sumus",
+                      "2pl": "estis",
+                      "3pl": "sunt"
+                    },
+                    "impf": {
+                      "1sg": "eram",
+                      "2sg": "eras",
+                      "3sg": "erat",
+                      "1pl": "eramus",
+                      "2pl": "eratis",
+                      "3pl": "erant"
+                    },
+                    "fut": {
+                      "1sg": "ero",
+                      "2sg": "eris",
+                      "3sg": "erit",
+                      "1pl": "erimus",
+                      "2pl": "eritis",
+                      "3pl": "erunt"
+                    },
+                    "perf": {
+                      "1sg": "fui",
+                      "2sg": "fuisti",
+                      "3sg": "fuit",
+                      "1pl": "fuimus",
+                      "2pl": "fuistis",
+                      "3pl": "fuerunt"
+                    },
+                    "plup": {
+                      "1sg": "fueram",
+                      "2sg": "fueras",
+                      "3sg": "fuerat",
+                      "1pl": "fueramus",
+                      "2pl": "fueratis",
+                      "3pl": "fuerant"
+                    },
+                    "futp": {
+                      "1sg": "fuero",
+                      "2sg": "fueris",
+                      "3sg": "fuerit",
+                      "1pl": "fuerimus",
+                      "2pl": "fueritis",
+                      "3pl": "fuerint"
+                    }
+                  }
+                },
+                "subj": {
+                  "act": {
+                    "pres": {
+                      "1sg": "sim",
+                      "2sg": "sis",
+                      "3sg": "sit",
+                      "1pl": "simus",
+                      "2pl": "sitis",
+                      "3pl": "sint"
+                    },
+                    "impf": {
+                      "1sg": "essem",
+                      "2sg": "esses",
+                      "3sg": "esset",
+                      "1pl": "essemus",
+                      "2pl": "essetis",
+                      "3pl": "essent"
+                    },
+                    "perf": {
+                      "1sg": "fuerim",
+                      "2sg": "fueris",
+                      "3sg": "fuerit",
+                      "1pl": "fuerimus",
+                      "2pl": "fueritis",
+                      "3pl": "fuerint"
+                    },
+                    "plup": {
+                      "1sg": "fuissem",
+                      "2sg": "fuisses",
+                      "3sg": "fuisset",
+                      "1pl": "fuissemus",
+                      "2pl": "fuissetis",
+                      "3pl": "fuissent"
+                    }
+                  }
+                },
+                "imp": {
+                  "act": {
+                    "pres": {
+                      "2sg": "es",
+                      "2pl": "este"
+                    },
+                    "fut": {
+                      "2sg": "esto",
+                      "3sg": "esto",
+                      "2pl": "estote",
+                      "3pl": "sunto"
+                    }
+                  }
+                }
+              },
+              "possum": {
+                "lemma": [
+                  "possum",
+                  "posse",
+                  "potui"
+                ]
+              },
+              "eo": {
+                "lemma": [
+                  "eo",
+                  "ire",
+                  "ii",
+                  "itum"
+                ],
+                "note": "Present system is irregular (eunt, ibam/ibo...). Store full table if generating."
+              },
+              "fero": {
+                "lemma": [
+                  "fero",
+                  "ferre",
+                  "tuli",
+                  "latum"
+                ]
+              },
+              "fio": {
+                "lemma": [
+                  "fio",
+                  "fieri",
+                  "factus sum"
+                ],
+                "note": "Present system functions as passive of facio."
+              },
+              "do": {
+                "lemma": [
+                  "do",
+                  "dare",
+                  "dedi",
+                  "datum"
+                ]
+              },
+              "edo": {
+                "lemma": [
+                  "edo",
+                  "esse/edere",
+                  "edi",
+                  "esum"
+                ]
+              },
+              "volo": {
+                "lemma": [
+                  "volo",
+                  "velle",
+                  "volui"
+                ]
+              },
+              "nolo": {
+                "lemma": [
+                  "nolo",
+                  "nolle",
+                  "nolui"
+                ]
+              },
+              "malo": {
+                "lemma": [
+                  "malo",
+                  "malle",
+                  "malui"
+                ]
+              },
+              "inquam": {
+                "lemma": [
+                  "inquam",
+                  "inquis",
+                  "inquit"
+                ],
+                "note": "Defective."
+              }
+            },
+            "miscRules": [
+              {
+                "id": "shortImperative2sg",
+                "verbs": [
+                  "dico",
+                  "duco",
+                  "facio",
+                  "fero"
+                ],
+                "imperative2sg": [
+                  "dic",
+                  "duc",
+                  "fac",
+                  "fer"
+                ]
+              },
+              {
+                "id": "perfectUsedAsPresent",
+                "verbs": [
+                  "coepi",
+                  "memini",
+                  "odi",
+                  "novi"
+                ],
+                "note": "Perfect forms can carry present meaning; map tense meanings accordingly in glossing."
+              }
+            ]
+          }
+        },
+        "derivation": {
+          "suffixes": [
+            {
+              "type": "diminutive",
+              "suffix": [
+                "ulus",
+                "ula",
+                "ulum"
+              ],
+              "senseTags": [
+                "little",
+                "young"
+              ]
+            },
+            {
+              "type": "diminutive",
+              "suffix": [
+                "olus",
+                "ola",
+                "olum"
+              ],
+              "senseTags": [
+                "small",
+                "lesser"
+              ]
+            },
+            {
+              "type": "diminutive",
+              "suffix": [
+                "culus",
+                "cula",
+                "culum"
+              ],
+              "senseTags": [
+                "little",
+                "young"
+              ]
+            },
+            {
+              "type": "diminutive",
+              "suffix": [
+                "ellus",
+                "ella",
+                "ellum"
+              ],
+              "senseTags": [
+                "little"
+              ]
+            },
+            {
+              "type": "diminutive",
+              "suffix": [
+                "illus",
+                "illa",
+                "illum"
+              ],
+              "senseTags": [
+                "little"
+              ]
+            },
+            {
+              "type": "agent",
+              "suffix": [
+                "tor"
+              ],
+              "template": "one who {verb}s"
+            },
+            {
+              "type": "agent",
+              "suffix": [
+                "trix"
+              ],
+              "template": "female who {verb}s"
+            },
+            {
+              "type": "abstract",
+              "suffix": [
+                "tas"
+              ],
+              "template": "state of being {adj}"
+            },
+            {
+              "type": "abstract",
+              "suffix": [
+                "tudo"
+              ],
+              "template": "condition of being {adj}"
+            },
+            {
+              "type": "place",
+              "suffix": [
+                "arium"
+              ],
+              "template": "place for {noun}s"
+            },
+            {
+              "type": "actionNoun",
+              "suffix": [
+                "tio",
+                "sio"
+              ],
+              "template": "act of {verb}ing / {verb}ing"
+            }
+          ]
+        }
+      },
+      "loanMorphology": {
+        "greekNounsInLatin": {
+          "overview": "Greek loan nouns may preserve Greek alternates (esp. voc/acc sg). Treat as optional variants.",
+          "rules": [
+            {
+              "id": "greekVocativeDropS",
+              "when": {
+                "nomSgEndsWithAny": [
+                  "is",
+                  "ys",
+                  "es",
+                  "eus",
+                  "as"
+                ]
+              },
+              "then": {
+                "vocSg": {
+                  "operation": "dropFinal",
+                  "char": "s"
+                }
+              },
+              "optional": true
+            },
+            {
+              "id": "greekAccSingularAlternates",
+              "when": {
+                "nomSgEndsWithAny": [
+                  "es",
+                  "is",
+                  "ys"
+                ]
+              },
+              "then": {
+                "accSgAlternates": [
+                  "en",
+                  "in",
+                  "yn",
+                  "em"
+                ]
+              },
+              "optional": true
+            },
+            {
+              "id": "greekSecondDeclOs",
+              "when": {
+                "nomSgEndsWith": "os",
+                "genSgEndsWith": "i"
+              },
+              "then": {
+                "declensionLike": "noun.2nd.usEr",
+                "accSgAlternate": "on"
+              },
+              "optional": true
+            }
+          ],
+          "notes": [
+            "Names can be mixed Greek+Latin forms; keep both if lexicon flags them."
+          ]
+        }
+      },
+      "declensionExtras": {
+        "pronounAdjectives": {
+          "genDatSingularPattern": {
+            "genSg": "ius",
+            "datSg": "i"
+          },
+          "lemmata": [
+            "alius",
+            "alter",
+            "uter",
+            "totus",
+            "solus",
+            "ullus",
+            "nullus",
+            "uterque"
+          ],
+          "note": "Decline like 1st/2nd adjective except gen sg -ius, dat sg -i."
+        },
+        "selectedIrregularNouns": [
+          {
+            "lemma": "domus",
+            "note": "Mixed 2nd/4th behavior; allow alternative paradigms if lexicon marks."
+          },
+          {
+            "lemma": "vis",
+            "note": "Irregular; limited sg; plural vires/virium etc. Lexicon table recommended."
+          }
+        ],
+        "numeralsCore": {
+          "unusUnaUnum": {
+            "pattern": "pronounAdjective",
+            "forms": {
+              "sg": {
+                "m": {
+                  "nom": "unus",
+                  "acc": "unum",
+                  "gen": "unius",
+                  "dat": "uni",
+                  "abl": "uno"
+                },
+                "f": {
+                  "nom": "una",
+                  "acc": "unam",
+                  "gen": "unius",
+                  "dat": "uni",
+                  "abl": "una"
+                },
+                "n": {
+                  "nom": "unum",
+                  "acc": "unum",
+                  "gen": "unius",
+                  "dat": "uni",
+                  "abl": "uno"
+                }
+              }
+            }
+          },
+          "duoDuaeDuo": {
+            "forms": {
+              "pl": {
+                "m": {
+                  "nom": "duo",
+                  "acc": "duos",
+                  "gen": "duorum",
+                  "dat": "duobus",
+                  "abl": "duobus"
+                },
+                "f": {
+                  "nom": "duae",
+                  "acc": "duas",
+                  "gen": "duarum",
+                  "dat": "duobus",
+                  "abl": "duobus"
+                },
+                "n": {
+                  "nom": "duo",
+                  "acc": "duo",
+                  "gen": "duorum",
+                  "dat": "duobus",
+                  "abl": "duobus"
+                }
+              }
+            }
+          },
+          "tresTria": {
+            "forms": {
+              "pl": {
+                "mf": {
+                  "nom": [
+                    "tres",
+                    "tris"
+                  ],
+                  "acc": [
+                    "tres",
+                    "tris"
+                  ],
+                  "gen": "trium",
+                  "dat": "tribus",
+                  "abl": "tribus"
+                },
+                "n": {
+                  "nom": "tria",
+                  "acc": "tria",
+                  "gen": "trium",
+                  "dat": "tribus",
+                  "abl": "tribus"
+                }
+              }
+            }
+          }
+        },
+        "adverbs": {
+          "formation": {
+            "from1st2ndAdj": {
+              "append": "e"
+            },
+            "from3rdAdj": {
+              "append": "iter",
+              "note": "Many; lexicon stores exceptions."
+            }
+          },
+          "comparison": {
+            "comparative": {
+              "rule": "neuterNomSgOfComparativeAdj",
+              "examplePattern": "*ius"
+            },
+            "superlative": {
+              "rule": "superlativeAdjStem + issime"
+            }
+          },
+          "irregularComparatives": [
+            {
+              "pos": "bene",
+              "comp": "melius",
+              "sup": "optime"
+            },
+            {
+              "pos": "male",
+              "comp": "peius",
+              "sup": "pessime"
+            },
+            {
+              "pos": "magnopere",
+              "comp": "magis",
+              "sup": "maxime"
+            },
+            {
+              "pos": "parum",
+              "comp": "minus",
+              "sup": "minime"
+            }
+          ]
+        }
+      },
+      "syntaxToGloss": {
+        "defaultCaseRoles": [
+          {
+            "case": "nom",
+            "roles": [
+              "subject",
+              "predicateNoun",
+              "predicateAdj"
+            ]
+          },
+          {
+            "case": "acc",
+            "roles": [
+              "directObject",
+              "extent",
+              "motionTowardWithOrWithoutPrep"
+            ]
+          },
+          {
+            "case": "gen",
+            "roles": [
+              "possession",
+              "ofPhrase",
+              "partitive"
+            ]
+          },
+          {
+            "case": "dat",
+            "roles": [
+              "indirectObject",
+              "toFor"
+            ]
+          },
+          {
+            "case": "abl",
+            "roles": [
+              "fromByWithInOn",
+              "meansInstrument",
+              "sourceSeparation"
+            ]
+          },
+          {
+            "case": "loc",
+            "roles": [
+              "inAtPlace"
+            ]
+          },
+          {
+            "case": "voc",
+            "roles": [
+              "directAddress"
+            ]
+          }
+        ],
+        "agreementRules": [
+          {
+            "id": "adjNounAgreement",
+            "apply": true,
+            "description": "Adjectives agree with head nouns in case/number/gender; possessives behave as adjectives."
+          }
+        ],
+        "coordinationRules": [
+          {
+            "id": "coordSameRole",
+            "apply": true,
+            "description": "Coordinated nominals typically share syntactic role; propagate shared features if enabled."
+          }
+        ]
+      },
+      "semanticsAndVariantRules": {
+        "profiles": [
+          {
+            "id": "literalOnly",
+            "description": "No bracketed context; no overlay rules; morphology+gloss only.",
+            "toggles": {
+              "bracketedContext": false,
+              "applyDiminutiveTransfer": false,
+              "applyNoahicCorrection": false,
+              "applyEthicsOverlay": false
+            }
+          },
+          {
+            "id": "directWithTransfers",
+            "description": "Direct translation plus optional transfer/overlay rules; outputs multiple variants.",
+            "toggles": {
+              "bracketedContext": true,
+              "applyDiminutiveTransfer": true,
+              "applyNoahicCorrection": true,
+              "applyEthicsOverlay": true
+            }
+          }
+        ],
+        "rules": [
+          {
+            "id": "diminutiveTransferRule",
+            "enabledByToggle": "applyDiminutiveTransfer",
+            "priority": 900,
+            "description": "If a coordinated sex-pair includes a diminutive-marked male lexeme, allow 'young' to transfer to both members unless blocked.",
+            "diminutiveSuffixSignals": [
+              "culus",
+              "cula",
+              "culum",
+              "ulus",
+              "ula",
+              "ulum",
+              "ellus",
+              "ella",
+              "ellum",
+              "illus",
+              "illa",
+              "illum",
+              "olus",
+              "ola",
+              "olum"
+            ],
+            "when": {
+              "patternType": "coordPair",
+              "requires": {
+                "pairSemanticsAny": [
+                  "sexPair",
+                  "maleFemalePair"
+                ],
+                "leftTokenHasDiminutiveSignal": true,
+                "connectorAny": [
+                  "et",
+                  "-que",
+                  "ac",
+                  "atque"
+                ]
+              },
+              "pairLexemeHints": {
+                "maleAny": [
+                  "masculus"
+                ],
+                "femaleAny": [
+                  "femina"
+                ]
+              },
+              "blockIf": {
+                "explicitAgeMarkersPresent": [
+                  "adultus",
+                  "vir",
+                  "uxor",
+                  "maritus"
+                ],
+                "negatedOrContrastive": [
+                  "sed",
+                  "autem"
+                ]
+              }
+            },
+            "then": {
+              "emitVariant": {
+                "type": "glossAugment",
+                "augment": [
+                  {
+                    "target": "leftNounPhrase",
+                    "addSenseTag": "young"
+                  },
+                  {
+                    "target": "rightNounPhrase",
+                    "addSenseTag": "young"
+                  }
+                ],
+                "englishRealizations": [
+                  {
+                    "senseTag": "young",
+                    "renderAs": [
+                      "young",
+                      "juvenile"
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "noahicLogisticalCorrection",
+            "enabledByToggle": "applyNoahicCorrection",
+            "priority": 200,
+            "description": "If ark-loading logistics are explicitly in scope, emit a bracketed optional variant: animals are the youngest of their kind.",
+            "when": {
+              "patternType": "topicTrigger",
+              "requiresAny": {
+                "lemmasAny": [
+                  "arca",
+                  "noe",
+                  "noah",
+                  "introire",
+                  "ingredi",
+                  "ducere",
+                  "adducere",
+                  "genus",
+                  "species"
+                ],
+                "structuresAny": [
+                  "pairListing",
+                  "kindsOfAnimalsEnumeration"
+                ]
+              }
+            },
+            "then": {
+              "emitVariant": {
+                "type": "bracketedContextInsertion",
+                "insert": [
+                  {
+                    "location": "afterAnimalPairOrKindPhrase",
+                    "text": "[the youngest of their kind]",
+                    "confidence": 0.55
+                  }
+                ],
+                "note": "Optional variant only; never replaces literal content."
+              }
+            }
+          },
+          {
+            "id": "sexualEthicsPedophiliaProhibitionOverlay",
+            "enabledByToggle": "applyEthicsOverlay",
+            "priority": 850,
+            "description": "In explicit sexual-prohibition domain, allow masculus/arsen/zachar sense variants mapping to 'young male/child' in alternates.",
+            "when": {
+              "patternType": "semanticDomainTrigger",
+              "requires": {
+                "domain": "sexualActOrProhibition",
+                "mustContainAnyLemmas": [
+                  "concumbere",
+                  "coire",
+                  "cubare",
+                  "stuprum",
+                  "scortari",
+                  "polluere",
+                  "immundus",
+                  "nefas"
+                ],
+                "mustContainAnyTargets": [
+                  "masculus",
+                  "arsen",
+                  "zachar",
+                  "puer",
+                  "infans"
+                ]
+              },
+              "guardrails": {
+                "onlyIfExplicitSexualVerbOrNounPresent": true,
+                "doNotApplyInAnimalBreedingContext": true
+              }
+            },
+            "then": {
+              "emitVariant": {
+                "type": "lexemeSenseSwap",
+                "targets": [
+                  {
+                    "lemmaAny": [
+                      "masculus"
+                    ],
+                    "preferredSenses": [
+                      "youngMale",
+                      "maleChild"
+                    ],
+                    "englishRealizations": [
+                      "young male",
+                      "male child"
+                    ]
+                  },
+                  {
+                    "lemmaAny": [
+                      "arsen",
+                      "zachar"
+                    ],
+                    "preferredSenses": [
+                      "youngMale",
+                      "maleChild"
+                    ],
+                    "englishRealizations": [
+                      "young male",
+                      "male child"
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "bracketPolicy",
+            "enabledByToggle": "bracketedContext",
+            "priority": 50,
+            "description": "Brackets may only be inserted by explicit rules; capped per sentence; always optional variants.",
+            "then": {
+              "renderingConstraints": {
+                "bracketsStyle": "square",
+                "maxBracketInsertionsPerSentence": 2,
+                "mustRemainOptionalVariant": true
+              }
+            }
+          }
+        ]
+      },
+      "translationOutput": {
+        "variantModel": {
+          "description": "Each sentence yields N variants: morphology disambiguation + sense choices + optional bracket insertions.",
+          "scoring": {
+            "morphologyCertaintyWeight": 0.6,
+            "lexiconCertaintyWeight": 0.3,
+            "semanticRulePenaltyPerOverlay": 0.1,
+            "bracketInsertionPenalty": 0.05
+          }
+        },
+        "templates": {
+          "ind": {
+            "act": {
+              "pres": "I {V}",
+              "impf": "I was {V}ing / I used to {V}",
+              "fut": "I will {V}",
+              "perf": "I {V}ed / I have {V}ed",
+              "plup": "I had {V}ed",
+              "futp": "I will have {V}ed"
+            },
+            "pass": {
+              "pres": "I am {V}ed",
+              "impf": "I was being {V}ed",
+              "fut": "I will be {V}ed",
+              "perf": "I was {V}ed / I have been {V}ed",
+              "plup": "I had been {V}ed",
+              "futp": "I will have been {V}ed"
+            }
+          },
+          "subj": {
+            "act": {
+              "pres": "I may/should {V}",
+              "impf": "I might/would {V}",
+              "perf": "I may have {V}ed",
+              "plup": "I might have {V}ed"
+            },
+            "pass": {
+              "pres": "I may be {V}ed",
+              "impf": "I might be {V}ed",
+              "perf": "I may have been {V}ed",
+              "plup": "I might have been {V}ed"
+            }
+          },
+          "imp": {
+            "act": {
+              "pres": "{V}!",
+              "fut": "you shall {V}!"
+            },
+            "pass": {
+              "pres": "be {V}ed!",
+              "fut": "you shall be {V}ed!"
+            }
+          }
+        }
+      },
+      "glossing": {
+        "nounCaseTranslations": {
+          "nom": "the {noun} (subject)",
+          "gen": "of the {noun}, {noun}'s",
+          "dat": "to/for the {noun}",
+          "acc": "the {noun} (object)",
+          "abl": "by/with/from the {noun}",
+          "loc": "in/at the {noun}",
+          "voc": "O {noun}!"
+        }
+      },
+      "regexAndAssembly": {
+        "priorityRule": "Longest suffix match first; if ties, return multiple analyses.",
+        "normalizePipeline": {
+          "steps": [
+            "preserveOriginal",
+            "caseFold",
+            "stripDiacritics",
+            "optionalMapJtoI",
+            "optionalMapVtoU"
+          ]
+        },
+        "encliticSplit": {
+          "pattern": "(?<stem>.+?)(?<enclitic>que|ve|ne)$",
+          "notes": [
+            "Apply after normalization and punctuation stripping.",
+            "Maintain a blocklist for stems where -que/-ve/-ne is lexical (lexicon overrides)."
+          ]
+        },
+        "declensionSuffixBuckets": {
+          "noun.1st.a": [
+            "arum",
+            "abus",
+            "ae",
+            "am",
+            "as",
+            "is",
+            "a"
+          ],
+          "noun.2nd.usEr": [
+            "orum",
+            "ius",
+            "um",
+            "os",
+            "i",
+            "o",
+            "e",
+            "er",
+            "ir",
+            "us"
+          ],
+          "noun.2nd.um": [
+            "orum",
+            "um",
+            "a",
+            "i",
+            "o",
+            "is"
+          ],
+          "noun.4th.us": [
+            "uum",
+            "ibus",
+            "ubus",
+            "ui",
+            "um",
+            "us",
+            "u"
+          ],
+          "noun.4th.u": [
+            "uum",
+            "ibus",
+            "ua",
+            "us",
+            "u"
+          ],
+          "noun.5th.es": [
+            "erum",
+            "ebus",
+            "ei",
+            "em",
+            "es",
+            "e"
+          ],
+          "noun.3rd.general": [
+            "ibus",
+            "ium",
+            "um",
+            "is",
+            "em",
+            "es",
+            "e",
+            "i",
+            "a",
+            "ia"
+          ]
+        },
+        "assembly": {
+          "nouns": {
+            "stemDerivation": [
+              {
+                "rule": "Use genSg to derive stem when available (3rd).",
+                "example": "regis -> reg-"
+              },
+              {
+                "rule": "For 1st/2nd/4th/5th, stem is often lemma minus nomSg ending; lexicon best."
+              }
+            ],
+            "neuterIdentity": "If gender=n, force acc=voc=nom for a chosen number."
+          },
+          "verbs": {
+            "presentSystem": "presentStem + tense/mood/voice ending (class-specific)",
+            "perfectSystemActive": "perfectStem + commonPerfectEndings",
+            "perfectSystemPassive": "PPP (agreeing) + sum (mapped tense)",
+            "imperfectSubjRule": "active: infinitive + personal endings; passive: infinitive + passive endings",
+            "deponentRule": "Parse as passive morphology; gloss as active semantics."
+          }
+        }
+      }
+    },
+    "part2": {
+      "schemaId": "latinMasterMorph.v1",
+      "meta": {
+        "name": "latinMasterMorph",
+        "version": "1.0.0",
+        "notes": [
+          "Inflection rules here are paradigm-first (stable).",
+          "Perfect stems and perfect passive participles are lexical; this JSON supplies universal endings and periphrastic patterns, but not stem formation rules.",
+          "Macrons are omitted; treat vowel length as optional metadata if you add it later."
+        ],
+        "normalization": {
+          "caseFold": true,
+          "stripDiacritics": true,
+          "stripMacrons": true,
+          "preserveOriginalToken": true,
+          "mapJtoIOptional": true,
+          "mapVtoUOptional": false
+        }
+      },
+      "codes": {
+        "type": {
+          "A": "activeIndicative",
+          "PI": "passiveIndicative",
+          "AI": "activeSubjunctive",
+          "PS": "passiveSubjunctive"
+        },
+        "tense": {
+          "P": "present",
+          "I": "imperfect",
+          "F": "future",
+          "PR": "perfect",
+          "PF": "pluperfect",
+          "FP": "futurePerfect"
+        },
+        "person": {
+          "1": "first",
+          "2": "second",
+          "3": "third"
+        },
+        "number": {
+          "S": "singular",
+          "P": "plural"
+        },
+        "case": {
+          "nom": "nominative",
+          "voc": "vocative",
+          "acc": "accusative",
+          "gen": "genitive",
+          "dat": "dative",
+          "abl": "ablative",
+          "loc": "locative"
+        }
+      },
+      "gloss": {
+        "cases": {
+          "nom": {
+            "templates": [
+              "{noun}"
+            ],
+            "role": "subject"
+          },
+          "voc": {
+            "templates": [
+              "O {noun}!",
+              "{noun}!"
+            ],
+            "role": "address"
+          },
+          "acc": {
+            "templates": [
+              "{noun} (object)",
+              "(to/into/toward) {noun}"
+            ],
+            "role": "objectOrMotion"
+          },
+          "gen": {
+            "templates": [
+              "of {noun}",
+              "{noun}'s"
+            ],
+            "role": "possessionOrKind"
+          },
+          "dat": {
+            "templates": [
+              "to {noun}",
+              "for {noun}"
+            ],
+            "role": "recipient"
+          },
+          "abl": {
+            "templates": [
+              "by {noun}",
+              "with {noun}",
+              "from {noun}",
+              "in/on {noun}"
+            ],
+            "role": "meansSourceLocation"
+          },
+          "loc": {
+            "templates": [
+              "at {noun}",
+              "in {noun}"
+            ],
+            "role": "location"
+          }
+        },
+        "verbs": {
+          "presentActive": [
+            "I {base}",
+            "you {base}",
+            "he/she/it {base}s",
+            "we {base}",
+            "you(pl) {base}",
+            "they {base}"
+          ],
+          "imperfectActive": [
+            "I was {base}ing",
+            "you were {base}ing",
+            "he/she/it was {base}ing",
+            "we were {base}ing",
+            "you(pl) were {base}ing",
+            "they were {base}ing"
+          ],
+          "futureActive": [
+            "I will {base}",
+            "you will {base}",
+            "he/she/it will {base}",
+            "we will {base}",
+            "you(pl) will {base}",
+            "they will {base}"
+          ],
+          "presentPassive": [
+            "I am {ppp}",
+            "you are {ppp}",
+            "he/she/it is {ppp}",
+            "we are {ppp}",
+            "you(pl) are {ppp}",
+            "they are {ppp}"
+          ],
+          "imperfectPassive": [
+            "I was {ppp}",
+            "you were {ppp}",
+            "he/she/it was {ppp}",
+            "we were {ppp}",
+            "you(pl) were {ppp}",
+            "they were {ppp}"
+          ],
+          "futurePassive": [
+            "I will be {ppp}",
+            "you will be {ppp}",
+            "he/she/it will be {ppp}",
+            "we will be {ppp}",
+            "you(pl) will be {ppp}",
+            "they will be {ppp}"
+          ],
+          "perfectActive": [
+            "I {base}ed / have {base}ed",
+            "you {base}ed / have {base}ed",
+            "he/she/it {base}ed / has {base}ed",
+            "we {base}ed / have {base}ed",
+            "you(pl) {base}ed / have {base}ed",
+            "they {base}ed / have {base}ed"
+          ],
+          "pluperfectActive": [
+            "I had {base}ed",
+            "you had {base}ed",
+            "he/she/it had {base}ed",
+            "we had {base}ed",
+            "you(pl) had {base}ed",
+            "they had {base}ed"
+          ],
+          "futurePerfectActive": [
+            "I will have {base}ed",
+            "you will have {base}ed",
+            "he/she/it will have {base}ed",
+            "we will have {base}ed",
+            "you(pl) will have {base}ed",
+            "they will have {base}ed"
+          ]
+        }
+      },
+      "nouns": {
+        "neuterRule": {
+          "statement": "Neuter nouns have nom=voc=acc; in plural, nom/acc/voc are typically -a (or -ia for many i-stems).",
+          "useAsHeuristic": true
+        },
+        "declensions": {
+          "1": {
+            "label": "first",
+            "gendersTypical": [
+              "f"
+            ],
+            "endings": {
+              "nom": {
+                "sg": [
+                  "a"
+                ],
+                "pl": [
+                  "ae"
+                ]
+              },
+              "voc": {
+                "sg": [
+                  "a"
+                ],
+                "pl": [
+                  "ae"
+                ]
+              },
+              "acc": {
+                "sg": [
+                  "am"
+                ],
+                "pl": [
+                  "as"
+                ]
+              },
+              "gen": {
+                "sg": [
+                  "ae"
+                ],
+                "pl": [
+                  "arum"
+                ]
+              },
+              "dat": {
+                "sg": [
+                  "ae"
+                ],
+                "pl": [
+                  "is",
+                  "abus"
+                ]
+              },
+              "abl": {
+                "sg": [
+                  "a"
+                ],
+                "pl": [
+                  "is",
+                  "abus"
+                ]
+              }
+            },
+            "notes": [
+              "-abus is rare; include for ambiguity generation."
+            ]
+          },
+          "2": {
+            "label": "second",
+            "endings": {
+              "m": {
+                "nom": {
+                  "sg": [
+                    "us",
+                    "er",
+                    "ius"
+                  ],
+                  "pl": [
+                    "i"
+                  ]
+                },
+                "voc": {
+                  "sg": [
+                    "e",
+                    "er",
+                    "i"
+                  ],
+                  "pl": [
+                    "i"
+                  ]
+                },
+                "acc": {
+                  "sg": [
+                    "um"
+                  ],
+                  "pl": [
+                    "os"
+                  ]
+                },
+                "gen": {
+                  "sg": [
+                    "i"
+                  ],
+                  "pl": [
+                    "orum"
+                  ]
+                },
+                "dat": {
+                  "sg": [
+                    "o"
+                  ],
+                  "pl": [
+                    "is"
+                  ]
+                },
+                "abl": {
+                  "sg": [
+                    "o"
+                  ],
+                  "pl": [
+                    "is"
+                  ]
+                }
+              },
+              "n": {
+                "nom": {
+                  "sg": [
+                    "um"
+                  ],
+                  "pl": [
+                    "a"
+                  ]
+                },
+                "voc": {
+                  "sg": [
+                    "um"
+                  ],
+                  "pl": [
+                    "a"
+                  ]
+                },
+                "acc": {
+                  "sg": [
+                    "um"
+                  ],
+                  "pl": [
+                    "a"
+                  ]
+                },
+                "gen": {
+                  "sg": [
+                    "i"
+                  ],
+                  "pl": [
+                    "orum"
+                  ]
+                },
+                "dat": {
+                  "sg": [
+                    "o"
+                  ],
+                  "pl": [
+                    "is"
+                  ]
+                },
+                "abl": {
+                  "sg": [
+                    "o"
+                  ],
+                  "pl": [
+                    "is"
+                  ]
+                }
+              }
+            },
+            "vocativeRules": [
+              {
+                "ifNomEndsWith": "us",
+                "vocSg": "e",
+                "exceptIfNomEndsWith": [
+                  "eus",
+                  "ius"
+                ]
+              },
+              {
+                "ifNomEndsWith": "ius",
+                "vocSg": "i"
+              },
+              {
+                "ifNomEndsWith": "er",
+                "vocSg": "er"
+              }
+            ]
+          },
+          "3": {
+            "label": "third",
+            "recognitionHint": {
+              "genSgUsually": [
+                "is"
+              ]
+            },
+            "endings": {
+              "mf": {
+                "nom": {
+                  "sg": [
+                    "(variable)"
+                  ],
+                  "pl": [
+                    "es"
+                  ]
+                },
+                "voc": {
+                  "sg": [
+                    "(often=nom)"
+                  ],
+                  "pl": [
+                    "es"
+                  ]
+                },
+                "acc": {
+                  "sg": [
+                    "em"
+                  ],
+                  "pl": [
+                    "es"
+                  ]
+                },
+                "gen": {
+                  "sg": [
+                    "is"
+                  ],
+                  "pl": [
+                    "um",
+                    "ium"
+                  ]
+                },
+                "dat": {
+                  "sg": [
+                    "i"
+                  ],
+                  "pl": [
+                    "ibus"
+                  ]
+                },
+                "abl": {
+                  "sg": [
+                    "e",
+                    "i"
+                  ],
+                  "pl": [
+                    "ibus"
+                  ]
+                }
+              },
+              "n": {
+                "nom": {
+                  "sg": [
+                    "(variable)"
+                  ],
+                  "pl": [
+                    "a",
+                    "ia"
+                  ]
+                },
+                "voc": {
+                  "sg": [
+                    "(often=nom)"
+                  ],
+                  "pl": [
+                    "a",
+                    "ia"
+                  ]
+                },
+                "acc": {
+                  "sg": [
+                    "(often=nom)"
+                  ],
+                  "pl": [
+                    "a",
+                    "ia"
+                  ]
+                },
+                "gen": {
+                  "sg": [
+                    "is"
+                  ],
+                  "pl": [
+                    "um",
+                    "ium"
+                  ]
+                },
+                "dat": {
+                  "sg": [
+                    "i"
+                  ],
+                  "pl": [
+                    "ibus"
+                  ]
+                },
+                "abl": {
+                  "sg": [
+                    "e",
+                    "i"
+                  ],
+                  "pl": [
+                    "ibus"
+                  ]
+                }
+              }
+            },
+            "iStemOptions": {
+              "genPl": "ium",
+              "ablSg": "i",
+              "neutPlNomAccVoc": "ia",
+              "notes": [
+                "Treat as optional variants unless you have i-stem detection logic or lexicon."
+              ]
+            }
+          },
+          "4": {
+            "label": "fourth",
+            "endings": {
+              "mf": {
+                "nom": {
+                  "sg": [
+                    "us"
+                  ],
+                  "pl": [
+                    "us"
+                  ]
+                },
+                "voc": {
+                  "sg": [
+                    "us"
+                  ],
+                  "pl": [
+                    "us"
+                  ]
+                },
+                "acc": {
+                  "sg": [
+                    "um"
+                  ],
+                  "pl": [
+                    "us"
+                  ]
+                },
+                "gen": {
+                  "sg": [
+                    "us"
+                  ],
+                  "pl": [
+                    "uum"
+                  ]
+                },
+                "dat": {
+                  "sg": [
+                    "ui",
+                    "u"
+                  ],
+                  "pl": [
+                    "ibus"
+                  ]
+                },
+                "abl": {
+                  "sg": [
+                    "u"
+                  ],
+                  "pl": [
+                    "ibus"
+                  ]
+                }
+              },
+              "n": {
+                "nom": {
+                  "sg": [
+                    "u"
+                  ],
+                  "pl": [
+                    "ua"
+                  ]
+                },
+                "voc": {
+                  "sg": [
+                    "u"
+                  ],
+                  "pl": [
+                    "ua"
+                  ]
+                },
+                "acc": {
+                  "sg": [
+                    "u"
+                  ],
+                  "pl": [
+                    "ua"
+                  ]
+                },
+                "gen": {
+                  "sg": [
+                    "us"
+                  ],
+                  "pl": [
+                    "uum"
+                  ]
+                },
+                "dat": {
+                  "sg": [
+                    "u"
+                  ],
+                  "pl": [
+                    "ibus"
+                  ]
+                },
+                "abl": {
+                  "sg": [
+                    "u"
+                  ],
+                  "pl": [
+                    "ibus"
+                  ]
+                }
+              }
+            }
+          },
+          "5": {
+            "label": "fifth",
+            "gendersTypical": [
+              "f"
+            ],
+            "endings": {
+              "nom": {
+                "sg": [
+                  "es"
+                ],
+                "pl": [
+                  "es"
+                ]
+              },
+              "voc": {
+                "sg": [
+                  "es"
+                ],
+                "pl": [
+                  "es"
+                ]
+              },
+              "acc": {
+                "sg": [
+                  "em"
+                ],
+                "pl": [
+                  "es"
+                ]
+              },
+              "gen": {
+                "sg": [
+                  "ei"
+                ],
+                "pl": [
+                  "erum"
+                ]
+              },
+              "dat": {
+                "sg": [
+                  "ei"
+                ],
+                "pl": [
+                  "ebus"
+                ]
+              },
+              "abl": {
+                "sg": [
+                  "e"
+                ],
+                "pl": [
+                  "ebus"
+                ]
+              }
+            },
+            "notes": [
+              "dies is often masculine; keep gender lexical if you care."
+            ]
+          }
+        },
+        "locative": {
+          "enabled": true,
+          "notes": [
+            "Locative is rare; implement as a small lexical list if desired (place names and a few common nouns)."
+          ]
+        }
+      },
+      "verbs": {
+        "persons": [
+          {
+            "person": 1,
+            "number": "S",
+            "slot": "1sg"
+          },
+          {
+            "person": 2,
+            "number": "S",
+            "slot": "2sg"
+          },
+          {
+            "person": 3,
+            "number": "S",
+            "slot": "3sg"
+          },
+          {
+            "person": 1,
+            "number": "P",
+            "slot": "1pl"
+          },
+          {
+            "person": 2,
+            "number": "P",
+            "slot": "2pl"
+          },
+          {
+            "person": 3,
+            "number": "P",
+            "slot": "3pl"
+          }
+        ],
+        "classes": {
+          "1": {
+            "label": "first",
+            "presInf": "are",
+            "themeVowel": "a"
+          },
+          "2": {
+            "label": "second",
+            "presInf": "ereLong",
+            "themeVowel": "e"
+          },
+          "3": {
+            "label": "third",
+            "presInf": "ereShort",
+            "themeVowel": "(varies)"
+          },
+          "3io": {
+            "label": "thirdIo",
+            "presInf": "ereShort",
+            "themeVowel": "i"
+          },
+          "4": {
+            "label": "fourth",
+            "presInf": "ire",
+            "themeVowel": "i"
+          }
+        },
+        "presentSystem": {
+          "indicative": {
+            "active": {
+              "P": {
+                "1": [
+                  "o",
+                  "as",
+                  "at",
+                  "amus",
+                  "atis",
+                  "ant"
+                ],
+                "2": [
+                  "eo",
+                  "es",
+                  "et",
+                  "emus",
+                  "etis",
+                  "ent"
+                ],
+                "3": [
+                  "o",
+                  "is",
+                  "it",
+                  "imus",
+                  "itis",
+                  "unt"
+                ],
+                "3io": [
+                  "io",
+                  "is",
+                  "it",
+                  "imus",
+                  "itis",
+                  "iunt"
+                ],
+                "4": [
+                  "io",
+                  "is",
+                  "it",
+                  "imus",
+                  "itis",
+                  "iunt"
+                ]
+              },
+              "I": {
+                "1": [
+                  "abam",
+                  "abas",
+                  "abat",
+                  "abamus",
+                  "abatis",
+                  "abant"
+                ],
+                "2": [
+                  "ebam",
+                  "ebas",
+                  "ebat",
+                  "ebamus",
+                  "ebatis",
+                  "ebant"
+                ],
+                "3": [
+                  "ebam",
+                  "ebas",
+                  "ebat",
+                  "ebamus",
+                  "ebatis",
+                  "ebant"
+                ],
+                "3io": [
+                  "iebam",
+                  "iebas",
+                  "iebat",
+                  "iebamus",
+                  "iebatis",
+                  "iebant"
+                ],
+                "4": [
+                  "iebam",
+                  "iebas",
+                  "iebat",
+                  "iebamus",
+                  "iebatis",
+                  "iebant"
+                ]
+              },
+              "F": {
+                "1": [
+                  "abo",
+                  "abis",
+                  "abit",
+                  "abimus",
+                  "abitis",
+                  "abunt"
+                ],
+                "2": [
+                  "ebo",
+                  "ebis",
+                  "ebit",
+                  "ebimus",
+                  "ebitis",
+                  "ebunt"
+                ],
+                "3": [
+                  "am",
+                  "es",
+                  "et",
+                  "emus",
+                  "etis",
+                  "ent"
+                ],
+                "3io": [
+                  "iam",
+                  "ies",
+                  "iet",
+                  "iemus",
+                  "ietis",
+                  "ient"
+                ],
+                "4": [
+                  "iam",
+                  "ies",
+                  "iet",
+                  "iemus",
+                  "ietis",
+                  "ient"
+                ]
+              }
+            },
+            "passive": {
+              "P": {
+                "1": [
+                  "or",
+                  "aris",
+                  "atur",
+                  "amur",
+                  "amini",
+                  "antur"
+                ],
+                "2": [
+                  "eor",
+                  "eris",
+                  "etur",
+                  "emur",
+                  "emini",
+                  "entur"
+                ],
+                "3": [
+                  "or",
+                  "eris",
+                  "itur",
+                  "imur",
+                  "imini",
+                  "untur"
+                ],
+                "3io": [
+                  "ior",
+                  "eris",
+                  "itur",
+                  "imur",
+                  "imini",
+                  "iuntur"
+                ],
+                "4": [
+                  "ior",
+                  "iris",
+                  "itur",
+                  "imur",
+                  "imini",
+                  "iuntur"
+                ]
+              },
+              "I": {
+                "1": [
+                  "abar",
+                  "abaris",
+                  "abatur",
+                  "abamur",
+                  "abamini",
+                  "abantur"
+                ],
+                "2": [
+                  "ebar",
+                  "ebaris",
+                  "ebatur",
+                  "ebamur",
+                  "ebamini",
+                  "ebantur"
+                ],
+                "3": [
+                  "ebar",
+                  "ebaris",
+                  "ebatur",
+                  "ebamur",
+                  "ebamini",
+                  "ebantur"
+                ],
+                "3io": [
+                  "iebar",
+                  "iebaris",
+                  "iebatur",
+                  "iebamur",
+                  "iebamini",
+                  "iebantur"
+                ],
+                "4": [
+                  "iebar",
+                  "iebaris",
+                  "iebatur",
+                  "iebamur",
+                  "iebamini",
+                  "iebantur"
+                ]
+              },
+              "F": {
+                "1": [
+                  "abor",
+                  "aberis",
+                  "abitur",
+                  "abimur",
+                  "abimini",
+                  "abuntur"
+                ],
+                "2": [
+                  "ebor",
+                  "eberis",
+                  "ebitur",
+                  "ebimur",
+                  "ebimini",
+                  "ebuntur"
+                ],
+                "3": [
+                  "ar",
+                  "eris",
+                  "etur",
+                  "emur",
+                  "emini",
+                  "entur"
+                ],
+                "3io": [
+                  "iar",
+                  "ieris",
+                  "ietur",
+                  "iemur",
+                  "iemini",
+                  "ientur"
+                ],
+                "4": [
+                  "iar",
+                  "ieris",
+                  "ietur",
+                  "iemur",
+                  "iemini",
+                  "ientur"
+                ]
+              }
+            }
+          },
+          "subjunctive": {
+            "active": {
+              "P": {
+                "1": [
+                  "em",
+                  "es",
+                  "et",
+                  "emus",
+                  "etis",
+                  "ent"
+                ],
+                "2": [
+                  "eam",
+                  "eas",
+                  "eat",
+                  "eamus",
+                  "eatis",
+                  "eant"
+                ],
+                "3": [
+                  "am",
+                  "as",
+                  "at",
+                  "amus",
+                  "atis",
+                  "ant"
+                ],
+                "3io": [
+                  "iam",
+                  "ias",
+                  "iat",
+                  "iamus",
+                  "iatis",
+                  "iant"
+                ],
+                "4": [
+                  "iam",
+                  "ias",
+                  "iat",
+                  "iamus",
+                  "iatis",
+                  "iant"
+                ]
+              },
+              "I": {
+                "1": [
+                  "arem",
+                  "ares",
+                  "aret",
+                  "aremus",
+                  "aretis",
+                  "arent"
+                ],
+                "2": [
+                  "erem",
+                  "eres",
+                  "eret",
+                  "eremus",
+                  "eretis",
+                  "erent"
+                ],
+                "3": [
+                  "erem",
+                  "eres",
+                  "eret",
+                  "eremus",
+                  "eretis",
+                  "erent"
+                ],
+                "3io": [
+                  "erem",
+                  "eres",
+                  "eret",
+                  "eremus",
+                  "eretis",
+                  "erent"
+                ],
+                "4": [
+                  "irem",
+                  "ires",
+                  "iret",
+                  "iremus",
+                  "iretis",
+                  "irent"
+                ]
+              }
+            },
+            "passive": {
+              "P": {
+                "1": [
+                  "er",
+                  "eris",
+                  "etur",
+                  "emur",
+                  "emini",
+                  "entur"
+                ],
+                "2": [
+                  "ear",
+                  "earis",
+                  "eatur",
+                  "eamur",
+                  "eamini",
+                  "eantur"
+                ],
+                "3": [
+                  "ar",
+                  "aris",
+                  "atur",
+                  "amur",
+                  "amini",
+                  "antur"
+                ],
+                "3io": [
+                  "iar",
+                  "iaris",
+                  "iatur",
+                  "iamur",
+                  "iamini",
+                  "iantur"
+                ],
+                "4": [
+                  "iar",
+                  "iaris",
+                  "iatur",
+                  "iamur",
+                  "iamini",
+                  "iantur"
+                ]
+              },
+              "I": {
+                "1": [
+                  "arer",
+                  "areris",
+                  "aretur",
+                  "aremur",
+                  "aremini",
+                  "arentur"
+                ],
+                "2": [
+                  "erer",
+                  "ereris",
+                  "eretur",
+                  "eremur",
+                  "eremini",
+                  "erentur"
+                ],
+                "3": [
+                  "erer",
+                  "ereris",
+                  "eretur",
+                  "eremur",
+                  "eremini",
+                  "erentur"
+                ],
+                "3io": [
+                  "erer",
+                  "ereris",
+                  "eretur",
+                  "eremur",
+                  "eremini",
+                  "erentur"
+                ],
+                "4": [
+                  "irer",
+                  "ireris",
+                  "iretur",
+                  "iremur",
+                  "iremini",
+                  "irentur"
+                ]
+              }
+            }
+          }
+        },
+        "perfectSystem": {
+          "activeIndicativeEndings": {
+            "PR": [
+              "i",
+              "isti",
+              "it",
+              "imus",
+              "istis",
+              "erunt"
+            ],
+            "PF": [
+              "eram",
+              "eras",
+              "erat",
+              "eramus",
+              "eratis",
+              "erant"
+            ],
+            "FP": [
+              "ero",
+              "eris",
+              "erit",
+              "erimus",
+              "eritis",
+              "erint"
+            ]
+          },
+          "activeSubjunctiveEndings": {
+            "PR": [
+              "erim",
+              "eris",
+              "erit",
+              "erimus",
+              "eritis",
+              "erint"
+            ],
+            "PF": [
+              "issem",
+              "isses",
+              "isset",
+              "issemus",
+              "issetis",
+              "issent"
+            ]
+          },
+          "patterns": {
+            "perfectActiveIndicative": "{perfectStem}+{ending}",
+            "pluperfectActiveIndicative": "{perfectStem}+{ending}",
+            "futurePerfectActiveIndicative": "{perfectStem}+{ending}",
+            "perfectActiveSubjunctive": "{perfectStem}+{ending}",
+            "pluperfectActiveSubjunctive": "{perfectStem}+{ending}",
+            "perfectPassiveIndicative": "{ppp}+{sumForm}",
+            "pluperfectPassiveIndicative": "{ppp}+{eramForm}",
+            "futurePerfectPassiveIndicative": "{ppp}+{eroForm}",
+            "perfectPassiveSubjunctive": "{ppp}+{simForm}",
+            "pluperfectPassiveSubjunctive": "{ppp}+{essemForm}"
+          },
+          "sumSets": {
+            "present": [
+              "sum",
+              "es",
+              "est",
+              "sumus",
+              "estis",
+              "sunt"
+            ],
+            "imperfect": [
+              "eram",
+              "eras",
+              "erat",
+              "eramus",
+              "eratis",
+              "erant"
+            ],
+            "future": [
+              "ero",
+              "eris",
+              "erit",
+              "erimus",
+              "eritis",
+              "erunt"
+            ],
+            "subjPresent": [
+              "sim",
+              "sis",
+              "sit",
+              "simus",
+              "sitis",
+              "sint"
+            ],
+            "subjImperfect": [
+              "essem",
+              "esses",
+              "esset",
+              "essemus",
+              "essetis",
+              "essent"
+            ]
+          },
+          "lexicalNote": "perfectStem and ppp must be provided by lexicon or principal parts; do not infer them purely from conjugation class."
+        },
+        "imperatives": {
+          "present": {
+            "active": {
+              "2sg": {
+                "1": "a",
+                "2": "e",
+                "3": "e",
+                "3io": "e",
+                "4": "i"
+              },
+              "2pl": {
+                "1": "ate",
+                "2": "ete",
+                "3": "ite",
+                "3io": "ite",
+                "4": "ite"
+              }
+            },
+            "passive": {
+              "2sg": {
+                "1": "are",
+                "2": "ere",
+                "3": "ere",
+                "3io": "ere",
+                "4": "ire"
+              },
+              "2pl": {
+                "1": "amini",
+                "2": "emini",
+                "3": "imini",
+                "3io": "imini",
+                "4": "imini"
+              }
+            }
+          }
+        },
+        "nonFinite": {
+          "infinitives": {
+            "presentActive": {
+              "1": "are",
+              "2": "ereLong",
+              "3": "ereShort",
+              "3io": "ereShort",
+              "4": "ire"
+            },
+            "presentPassive": {
+              "1": "ari",
+              "2": "eri",
+              "3": "i",
+              "3io": "i",
+              "4": "iri"
+            },
+            "perfectActive": "isse",
+            "perfectPassive": "{ppp} esse",
+            "futureActive": "{fap} esse",
+            "futurePassive": "{supineAcc} iri"
+          },
+          "participles": {
+            "presentActive": {
+              "ending": "ns",
+              "gen": "ntis",
+              "gloss": "{base}ing"
+            },
+            "perfectPassive": {
+              "ending": [
+                "tus",
+                "sus"
+              ],
+              "gloss": "{base}ed / having been {base}ed"
+            },
+            "futureActive": {
+              "ending": "turus",
+              "gloss": "about to {base} / going to {base}"
+            },
+            "gerundive": {
+              "ending": "ndus",
+              "gloss": "needing to be {base}ed / must be {base}ed"
+            }
+          },
+          "gerund": {
+            "formsByClass": {
+              "1": {
+                "gen": "andi",
+                "dat": "ando",
+                "acc": "andum",
+                "abl": "ando"
+              },
+              "2": {
+                "gen": "endi",
+                "dat": "endo",
+                "acc": "endum",
+                "abl": "endo"
+              },
+              "3": {
+                "gen": "endi",
+                "dat": "endo",
+                "acc": "endum",
+                "abl": "endo"
+              },
+              "3io": {
+                "gen": "iendi",
+                "dat": "iendo",
+                "acc": "iendum",
+                "abl": "iendo"
+              },
+              "4": {
+                "gen": "iendi",
+                "dat": "iendo",
+                "acc": "iendum",
+                "abl": "iendo"
+              }
+            },
+            "glossByCase": {
+              "gen": [
+                "of {base}ing"
+              ],
+              "dat": [
+                "to/for {base}ing"
+              ],
+              "acc": [
+                "{base}ing",
+                "for {base}ing (often after ad)"
+              ],
+              "abl": [
+                "by/with {base}ing"
+              ]
+            }
+          },
+          "supine": {
+            "acc": {
+              "ending": "tum",
+              "gloss": "to {base} (purpose after motion)"
+            },
+            "abl": {
+              "ending": "tu",
+              "gloss": "in respect to {base}ing"
+            }
+          }
+        },
+        "voiceNotes": [
+          "Deponent verbs: passive morphology with active meaning (treat as candidate readings).",
+          "Semi-deponent: active present system, deponent-like perfect system."
+        ]
+      },
+      "derivation": {
+        "enclitics": [
+          {
+            "form": "que",
+            "pos": "clitic",
+            "meaning": "and",
+            "attach": "endOfWord"
+          },
+          {
+            "form": "ne",
+            "pos": "clitic",
+            "meaning": "questionMarker",
+            "attach": "endOfWord"
+          },
+          {
+            "form": "ve",
+            "pos": "clitic",
+            "meaning": "or",
+            "attach": "endOfWord"
+          }
+        ],
+        "suffixes": [
+          {
+            "suffix": "ulus",
+            "category": "diminutive",
+            "posResult": [
+              "noun",
+              "adj"
+            ],
+            "english": [
+              "little {base}",
+              "young {base}",
+              "dear {base}",
+              "lesser {base}"
+            ]
+          },
+          {
+            "suffix": "culus",
+            "category": "diminutive",
+            "posResult": [
+              "noun",
+              "adj"
+            ],
+            "english": [
+              "little {base}",
+              "small {base}",
+              "dear {base}"
+            ]
+          },
+          {
+            "suffix": "ellus",
+            "category": "diminutive",
+            "posResult": [
+              "noun",
+              "adj"
+            ],
+            "english": [
+              "little {base}",
+              "small {base}",
+              "dear {base}"
+            ]
+          },
+          {
+            "suffix": "illus",
+            "category": "diminutive",
+            "posResult": [
+              "noun",
+              "adj"
+            ],
+            "english": [
+              "little {base}",
+              "small {base}",
+              "dear {base}"
+            ]
+          },
+          {
+            "suffix": "tor",
+            "category": "agentDoer",
+            "posResult": [
+              "noun"
+            ],
+            "english": [
+              "{base}er",
+              "one who {base}s",
+              "doer of {base}"
+            ]
+          },
+          {
+            "suffix": "sor",
+            "category": "agentDoer",
+            "posResult": [
+              "noun"
+            ],
+            "english": [
+              "{base}er",
+              "one who {base}s"
+            ]
+          },
+          {
+            "suffix": "trix",
+            "category": "agentDoerFeminine",
+            "posResult": [
+              "noun"
+            ],
+            "english": [
+              "female {base}er",
+              "woman who {base}s"
+            ]
+          },
+          {
+            "suffix": "tas",
+            "category": "abstractQuality",
+            "posResult": [
+              "noun"
+            ],
+            "english": [
+              "{base}ness",
+              "{base}ty",
+              "quality/state of being {base}"
+            ]
+          },
+          {
+            "suffix": "tia",
+            "category": "abstractQuality",
+            "posResult": [
+              "noun"
+            ],
+            "english": [
+              "{base}ness",
+              "state/condition of {base}"
+            ]
+          },
+          {
+            "suffix": "itia",
+            "category": "abstractQuality",
+            "posResult": [
+              "noun"
+            ],
+            "english": [
+              "{base}ness",
+              "{base}ice",
+              "state/condition of {base}"
+            ]
+          },
+          {
+            "suffix": "tudo",
+            "category": "abstractDegree",
+            "posResult": [
+              "noun"
+            ],
+            "english": [
+              "{base}ness",
+              "{base}tude",
+              "degree/state of {base}"
+            ]
+          },
+          {
+            "suffix": "monium",
+            "category": "abstractState",
+            "posResult": [
+              "noun"
+            ],
+            "english": [
+              "{base}mony",
+              "state/act/condition tied to {base}"
+            ]
+          },
+          {
+            "suffix": "io",
+            "category": "actionResult",
+            "posResult": [
+              "noun"
+            ],
+            "english": [
+              "act of {base}ing",
+              "{base}tion/{base}sion (often)"
+            ]
+          },
+          {
+            "suffix": "tio",
+            "category": "actionResult",
+            "posResult": [
+              "noun"
+            ],
+            "english": [
+              "act of {base}ing",
+              "{base}tion"
+            ]
+          },
+          {
+            "suffix": "sio",
+            "category": "actionResult",
+            "posResult": [
+              "noun"
+            ],
+            "english": [
+              "act of {base}ing",
+              "{base}sion"
+            ]
+          },
+          {
+            "suffix": "tus",
+            "category": "actionResultOrState",
+            "posResult": [
+              "noun",
+              "participle"
+            ],
+            "english": [
+              "result/state of {base}ing",
+              "{base}ed (ppp class)"
+            ]
+          },
+          {
+            "suffix": "sus",
+            "category": "actionResultOrState",
+            "posResult": [
+              "noun",
+              "participle"
+            ],
+            "english": [
+              "result/state of {base}ing",
+              "{base}ed (ppp class)"
+            ]
+          },
+          {
+            "suffix": "men",
+            "category": "instrumentResult",
+            "posResult": [
+              "noun"
+            ],
+            "english": [
+              "thing that {base}s",
+              "instrument/result of {base}ing"
+            ]
+          },
+          {
+            "suffix": "mentum",
+            "category": "instrumentResult",
+            "posResult": [
+              "noun"
+            ],
+            "english": [
+              "means/instrument of {base}ing",
+              "result of {base}ing"
+            ]
+          },
+          {
+            "suffix": "arium",
+            "category": "placeContainer",
+            "posResult": [
+              "noun"
+            ],
+            "english": [
+              "place/container for {base}"
+            ]
+          },
+          {
+            "suffix": "etum",
+            "category": "collectiveGrove",
+            "posResult": [
+              "noun"
+            ],
+            "english": [
+              "grove/collection of {base}",
+              "{base}garden/{base}stand"
+            ]
+          },
+          {
+            "suffix": "ile",
+            "category": "placeAnimals",
+            "posResult": [
+              "noun"
+            ],
+            "english": [
+              "pen/fold/place for {base} (often animals)"
+            ]
+          },
+          {
+            "suffix": "ides",
+            "category": "patronymic",
+            "posResult": [
+              "noun"
+            ],
+            "english": [
+              "descendant/son of {base}",
+              "line of {base}"
+            ]
+          },
+          {
+            "suffix": "ades",
+            "category": "patronymic",
+            "posResult": [
+              "noun"
+            ],
+            "english": [
+              "descendant/son of {base}",
+              "line of {base}"
+            ]
+          },
+          {
+            "suffix": "anus",
+            "category": "originBelonging",
+            "posResult": [
+              "adj"
+            ],
+            "english": [
+              "of/from {base}",
+              "belonging to {base}"
+            ]
+          },
+          {
+            "suffix": "ensis",
+            "category": "originBelonging",
+            "posResult": [
+              "adj"
+            ],
+            "english": [
+              "of/from {base}",
+              "associated with {base}"
+            ]
+          },
+          {
+            "suffix": "alis",
+            "category": "pertainingTo",
+            "posResult": [
+              "adj"
+            ],
+            "english": [
+              "pertaining to {base}",
+              "{base}al"
+            ]
+          },
+          {
+            "suffix": "aris",
+            "category": "pertainingTo",
+            "posResult": [
+              "adj"
+            ],
+            "english": [
+              "pertaining to {base}",
+              "{base}ary/{base}ar"
+            ]
+          },
+          {
+            "suffix": "ilis",
+            "category": "likeOrFitFor",
+            "posResult": [
+              "adj"
+            ],
+            "english": [
+              "like {base}",
+              "{base}ish",
+              "fit/suited for {base}ing"
+            ]
+          },
+          {
+            "suffix": "bilis",
+            "category": "ability",
+            "posResult": [
+              "adj"
+            ],
+            "english": [
+              "able to be {base}ed",
+              "{base}able/{base}ible"
+            ]
+          },
+          {
+            "suffix": "osus",
+            "category": "fullOf",
+            "posResult": [
+              "adj"
+            ],
+            "english": [
+              "full of {base}",
+              "{base}ous/{base}ose"
+            ]
+          },
+          {
+            "suffix": "lentus",
+            "category": "fullOf",
+            "posResult": [
+              "adj"
+            ],
+            "english": [
+              "full of {base}",
+              "{base}lent"
+            ]
+          },
+          {
+            "suffix": "arius",
+            "category": "pertainingOrRole",
+            "posResult": [
+              "adj",
+              "noun"
+            ],
+            "english": [
+              "pertaining to {base}",
+              "{base}ary",
+              "person tied to {base}"
+            ]
+          },
+          {
+            "suffix": "inus",
+            "category": "pertainingLike",
+            "posResult": [
+              "adj"
+            ],
+            "english": [
+              "of {base}",
+              "like {base}",
+              "{base}ine"
+            ]
+          },
+          {
+            "suffix": "ia",
+            "category": "stateCondition",
+            "posResult": [
+              "noun"
+            ],
+            "english": [
+              "state/condition of {base}",
+              "{base}y/{base}ia (sometimes)"
+            ]
+          },
+          {
+            "suffix": "trum",
+            "category": "toolPlace",
+            "posResult": [
+              "noun"
+            ],
+            "english": [
+              "instrument/place for {base}ing"
+            ]
+          },
+          {
+            "suffix": "torium",
+            "category": "placeForDoing",
+            "posResult": [
+              "noun"
+            ],
+            "english": [
+              "place for {base}ing"
+            ]
+          }
+        ]
+      },
+      "greekInLatin": {
+        "commonNounPatterns": [
+          {
+            "patternId": "maMatisNeuter",
+            "nomSgEndsWith": "ma",
+            "genSgEndsWith": "matis",
+            "notes": [
+              "Often treated as 3rd declension neuter in Latinized forms."
+            ]
+          },
+          {
+            "patternId": "onNeuter",
+            "nomSgEndsWith": "on",
+            "latinizationNotes": [
+              "Often behaves like 2nd declension neuter (-um/-i) or retains -on in some texts."
+            ]
+          },
+          {
+            "patternId": "isIdis",
+            "nomSgEndsWith": "is",
+            "genSgEndsWith": "idis",
+            "notes": [
+              "Common for Greek proper names and learned nouns."
+            ]
+          }
+        ],
+        "rules": [
+          {
+            "ruleId": "vocativeDropS",
+            "ifNomSgEndsWith": [
+              "is",
+              "ys",
+              "es",
+              "as",
+              "os"
+            ],
+            "vocSgTransform": "dropFinalS",
+            "notes": [
+              "Greek-style vocatives appear especially in names; treat as optional candidate."
+            ]
+          },
+          {
+            "ruleId": "greekOsToE",
+            "ifNomSgEndsWith": [
+              "os"
+            ],
+            "vocSgMayBe": [
+              "e"
+            ],
+            "notes": [
+              "Optional; varies with latinization level."
+            ]
+          }
+        ]
+      },
+      "heuristics": [
+        {
+          "ruleId": "diminutiveTransferCoordination",
+          "kind": "candidateExpansion",
+          "trigger": {
+            "sequence": [
+              "{tokenA}",
+              "et",
+              "{tokenB}"
+            ],
+            "tokenAHasSuffixIn": [
+              "ulus",
+              "culus",
+              "ellus",
+              "illus"
+            ],
+            "tokenBLooksLike": "nounOrAdj"
+          },
+          "action": {
+            "addModifierCandidatesToTokenB": [
+              "young",
+              "little",
+              "lesser",
+              "dear"
+            ]
+          },
+          "notes": [
+            "Heuristic expansion only; not a strict inflection rule."
+          ]
+        },
+        {
+          "ruleId": "neuterAgreementHint",
+          "kind": "candidateScoring",
+          "trigger": {
+            "nounGender": "n"
+          },
+          "action": {
+            "preferCaseEqualities": [
+              "nom=voc=acc"
+            ],
+            "preferPluralNomAccVoc": [
+              "a",
+              "ia"
+            ]
+          }
+        }
+      ],
+      "indexes": {
+        "buildHints": [
+          "You can invert noun endings by iterating declensions->cases->numbers and mapping ending->feature set list.",
+          "For verbs, invert by iterating verb classes->mood->voice->tense->personSlots and mapping ending->feature set list."
+        ],
+        "ambiguityNotes": [
+          "Many endings collide across cases/numbers (e.g., -ae, -is, -um). Always return sets, not single tags.",
+          "3rd declension stem extraction from nominative is unreliable without genitive or lexicon."
+        ]
+      },
+      "_variantsAndFixups": {
+        "verbFormAlternates": [
+          {
+            "id": "passive2sgShortAreVariant",
+            "appliesTo": {
+              "system": "presentSystem",
+              "mood": "indicative",
+              "voice": "passive",
+              "tense": "P",
+              "class": "1",
+              "slot": "2sg"
+            },
+            "alternateEndings": [
+              "are"
+            ],
+            "note": "Some traditions allow -are alongside -aris for 1st conjugation present passive 2sg."
+          },
+          {
+            "id": "perfectIndicative3plArchaicEre",
+            "appliesTo": {
+              "system": "perfectSystem",
+              "mood": "indicative",
+              "voice": "active",
+              "tense": "PR",
+              "slot": "3pl"
+            },
+            "alternateEndings": [
+              "ere"
+            ],
+            "note": "Perfect active indicative 3pl may appear as -ere (alongside -erunt)."
+          }
+        ],
+        "assemblyHints": [
+          {
+            "id": "firstConj1sgContraction",
+            "pattern": "presentStem + 'o' may contract (e.g., ama+o -> amo)",
+            "useAsOptionalPostProcess": true
+          },
+          {
+            "id": "passiveEnglishRendering",
+            "pattern": "present/imperfect passive often render naturally as 'is/was {pastParticiple}' or progressive 'is/was being {pastParticiple}' depending on context",
+            "note": "This keeps your existing {ppp} placeholder usable as an English past-participle token."
+          }
+        ]
+      }
+    },
+    "part3": {
+      "schemaId": "latinMasterSyntax.v1",
+      "meta": {
+        "name": "latinMasterSyntax",
+        "version": "1.0.0",
+        "dependsOn": [
+          "latinMasterCore.v1",
+          "latinMasterMorph.v1"
+        ],
+        "notes": [
+          "Part 3 is syntax + transfer: it consumes morphological candidates and produces structured phrase/clause interpretations and ranked English candidates."
+        ]
+      },
+      "phraseRules": {
+        "nounPhrase": {
+          "agreement": [
+            {
+              "id": "adjNounAgreement",
+              "appliesWhen": "adj modifies noun",
+              "constraints": [
+                "caseMatch",
+                "numberMatch",
+                "genderMatchOrNeuterOverride"
+              ],
+              "score": {
+                "base": 3,
+                "penaltyPerMismatch": 4
+              }
+            },
+            {
+              "id": "apposition",
+              "appliesWhen": "two nouns adjacent or linked by punctuation",
+              "constraints": [
+                "caseMatchPreferred",
+                "numberMatchPreferred"
+              ],
+              "score": {
+                "base": 2,
+                "bonusIfCaseMatches": 2,
+                "penaltyIfCaseDiffers": 2
+              }
+            }
+          ],
+          "genitiveAttachment": [
+            {
+              "id": "genitiveOfPossessor",
+              "pattern": "NP + GEN",
+              "roles": [
+                "possessor",
+                "source",
+                "kind"
+              ],
+              "englishTemplates": [
+                "{head} of {gen}",
+                "{gen}'s {head}"
+              ],
+              "score": {
+                "base": 2
+              }
+            },
+            {
+              "id": "genitiveOfDescription",
+              "pattern": "NP + GEN (quality)",
+              "englishTemplates": [
+                "{head} of {gen}",
+                "{head} (characterized by {gen})"
+              ],
+              "score": {
+                "base": 1
+              }
+            }
+          ],
+          "dativeAttachment": [
+            {
+              "id": "dativeIndirectObject",
+              "pattern": "verbGroup + DAT",
+              "englishTemplates": [
+                "to {dat}",
+                "for {dat}"
+              ],
+              "score": {
+                "base": 2
+              }
+            },
+            {
+              "id": "doubleDative",
+              "pattern": "DAT(purpose) + DAT(reference)",
+              "englishTemplates": [
+                "as {purposeDat} for {refDat}"
+              ],
+              "score": {
+                "base": 1
+              }
+            }
+          ],
+          "ablativeAttachment": [
+            {
+              "id": "ablativeMeans",
+              "pattern": "ABL without preposition",
+              "englishTemplates": [
+                "by {abl}",
+                "with {abl}"
+              ],
+              "score": {
+                "base": 2
+              }
+            },
+            {
+              "id": "ablativeSeparation",
+              "pattern": "ABL with separation verbs",
+              "englishTemplates": [
+                "from {abl}"
+              ],
+              "score": {
+                "base": 2
+              }
+            },
+            {
+              "id": "ablativeLocation",
+              "pattern": "ABL with stative context",
+              "englishTemplates": [
+                "in/on {abl}"
+              ],
+              "score": {
+                "base": 1
+              }
+            }
+          ]
+        },
+        "prepositionalPhrase": {
+          "government": [
+            {
+              "prep": "in",
+              "cases": [
+                {
+                  "case": "abl",
+                  "sense": "location",
+                  "english": [
+                    "in",
+                    "on",
+                    "within"
+                  ],
+                  "score": 2
+                },
+                {
+                  "case": "acc",
+                  "sense": "motionInto",
+                  "english": [
+                    "into",
+                    "onto",
+                    "toward"
+                  ],
+                  "score": 2
+                }
+              ]
+            },
+            {
+              "prep": "ad",
+              "cases": [
+                {
+                  "case": "acc",
+                  "sense": "toward",
+                  "english": [
+                    "to",
+                    "toward",
+                    "at"
+                  ],
+                  "score": 2
+                }
+              ]
+            },
+            {
+              "prep": "de",
+              "cases": [
+                {
+                  "case": "abl",
+                  "sense": "downFromAbout",
+                  "english": [
+                    "from",
+                    "down from",
+                    "about"
+                  ],
+                  "score": 2
+                }
+              ]
+            },
+            {
+              "prep": "ex",
+              "cases": [
+                {
+                  "case": "abl",
+                  "sense": "outOf",
+                  "english": [
+                    "out of",
+                    "from"
+                  ],
+                  "score": 2
+                }
+              ]
+            },
+            {
+              "prep": "cum",
+              "cases": [
+                {
+                  "case": "abl",
+                  "sense": "with",
+                  "english": [
+                    "with"
+                  ],
+                  "score": 2
+                }
+              ]
+            },
+            {
+              "prep": "sub",
+              "cases": [
+                {
+                  "case": "abl",
+                  "sense": "underLocation",
+                  "english": [
+                    "under",
+                    "beneath"
+                  ],
+                  "score": 1
+                },
+                {
+                  "case": "acc",
+                  "sense": "underToward",
+                  "english": [
+                    "to under",
+                    "beneath (toward)"
+                  ],
+                  "score": 1
+                }
+              ]
+            },
+            {
+              "prep": "super",
+              "cases": [
+                {
+                  "case": "abl",
+                  "sense": "onAboveLocation",
+                  "english": [
+                    "on",
+                    "over",
+                    "above"
+                  ],
+                  "score": 2
+                },
+                {
+                  "case": "acc",
+                  "sense": "ontoOverMotion",
+                  "english": [
+                    "onto",
+                    "over (toward)"
+                  ],
+                  "score": 2
+                }
+              ]
+            }
+          ]
+        },
+        "verbGroup": {
+          "subjectMatching": {
+            "id": "finiteVerbSubject",
+            "constraints": [
+              "personNumberAgreementPreferred"
+            ],
+            "score": {
+              "bonusIfExplicitSubjectNearby": 2,
+              "penaltyIfFar": 1
+            }
+          },
+          "objectMatching": {
+            "id": "accObjectDefault",
+            "pattern": "verbGroup + ACC",
+            "score": {
+              "base": 2
+            }
+          },
+          "copularPredicates": {
+            "id": "sumPredicate",
+            "pattern": "sum + predicateNomOrAdj",
+            "englishTemplates": [
+              "{subj} is {pred}",
+              "{subj} was {pred}"
+            ],
+            "score": {
+              "base": 3
+            }
+          }
+        },
+        "formulaicConstructions": [
+          {
+            "id": "formula.etFactumEst",
+            "pattern": "et + (fio|factum) + est",
+            "englishCandidates": [
+              "and it came to be",
+              "and it happened"
+            ],
+            "notes": [
+              "Treat as a discourse step marker; keep literal options."
+            ],
+            "score": {
+              "base": 2
+            }
+          }
+        ]
+      },
+      "clauseRules": {
+        "coordination": [
+          {
+            "id": "etCoordination",
+            "marker": "et",
+            "types": [
+              "NP+NP",
+              "VP+VP",
+              "Clause+Clause"
+            ],
+            "english": [
+              "and"
+            ],
+            "score": {
+              "base": 2
+            }
+          },
+          {
+            "id": "autVelCoordination",
+            "markers": [
+              "aut",
+              "vel",
+              "ve"
+            ],
+            "types": [
+              "NP+NP",
+              "VP+VP",
+              "Clause+Clause"
+            ],
+            "english": [
+              "or"
+            ],
+            "score": {
+              "base": 2
+            }
+          }
+        ],
+        "relatives": [
+          {
+            "id": "relativeClauseQui",
+            "markers": [
+              "qui",
+              "quae",
+              "quod"
+            ],
+            "score": {
+              "base": 2,
+              "bonusIfAgreementStrong": 2
+            }
+          }
+        ],
+        "subordination": [
+          {
+            "id": "utPurposeOrResult",
+            "marker": "ut",
+            "expectedMood": "subjunctive",
+            "roles": [
+              "purpose",
+              "result"
+            ],
+            "englishTemplates": [
+              "so that {clause}",
+              "in order that {clause}"
+            ],
+            "score": {
+              "base": 2
+            }
+          },
+          {
+            "id": "cumCircumstantial",
+            "marker": "cum",
+            "expectedMood": "subjunctiveOrIndicative",
+            "roles": [
+              "time",
+              "cause",
+              "concession"
+            ],
+            "englishTemplates": [
+              "when {clause}",
+              "since {clause}",
+              "although {clause}"
+            ],
+            "score": {
+              "base": 1
+            }
+          }
+        ],
+        "indirectStatement": [
+          {
+            "id": "accusativeInfinitive",
+            "pattern": "speechOrThoughtVerb + ACC(subject) + INF",
+            "englishTemplates": [
+              "{speaker} said that {accSubj} {infClause}"
+            ],
+            "score": {
+              "base": 2,
+              "bonusIfSpeechVerbLexical": 2
+            }
+          }
+        ],
+        "ablativeAbsolute": [
+          {
+            "id": "ablAbsParticiple",
+            "pattern": "ABL noun/pronoun + ABL participle",
+            "englishTemplates": [
+              "with {ablNoun} having been {part}",
+              "when {ablNoun} was {part}",
+              "[with {ablNoun} {part}]"
+            ],
+            "score": {
+              "base": 2
+            }
+          }
+        ],
+        "participialPhrases": [
+          {
+            "id": "participleAsClause",
+            "pattern": "participle agrees with NP",
+            "roles": [
+              "temporal",
+              "causal",
+              "manner",
+              "concessive"
+            ],
+            "englishTemplates": [
+              "{np}, {participlePhrase}",
+              "{np} {participlePhrase}"
+            ],
+            "score": {
+              "base": 1
+            }
+          }
+        ]
+      },
+      "transferHeuristics": {
+        "discourseDefaults": [
+          {
+            "id": "nullSubjectFromVerb",
+            "when": "finite verb lacks explicit nominative",
+            "action": "createImplicitPronounSubject",
+            "englishPronounsByPerson": {
+              "1sg": "I",
+              "2sg": "you",
+              "3sg": "he/she/it",
+              "1pl": "we",
+              "2pl": "you(pl)",
+              "3pl": "they"
+            },
+            "score": {
+              "base": 2
+            }
+          },
+          {
+            "id": "topicContinuity",
+            "when": "multiple clauses in sequence",
+            "action": "preferPreviousSubjectAsCurrentNullSubject",
+            "score": {
+              "bonus": 2
+            }
+          }
+        ],
+        "semanticLifts": [
+          {
+            "id": "diminutiveInheritanceCoordination",
+            "kind": "candidateExpansion",
+            "trigger": {
+              "sequence": [
+                "tokenA",
+                "et",
+                "tokenB"
+              ],
+              "tokenAHasDiminutiveSuffix": true,
+              "tokenBIsAnimateOrPersonRole": "preferred"
+            },
+            "action": {
+              "addSemanticModifiersToTokenB": [
+                "young",
+                "little",
+                "lesser",
+                "dear"
+              ],
+              "inheritanceStrength": "weakToModerate"
+            },
+            "rendering": {
+              "preferred": "{tokenA} and [young] {tokenB}",
+              "notes": [
+                "Bracket insertion required for inherited modifier."
+              ]
+            },
+            "score": {
+              "base": 1,
+              "bonusIfParallelRoles": 1
+            }
+          },
+          {
+            "id": "ageSenseCandidateForMasculus",
+            "kind": "candidateSense",
+            "trigger": {
+              "lemma": "masculus"
+            },
+            "action": {
+              "addSenseCandidates": [
+                {
+                  "sense": "male",
+                  "gloss": "male",
+                  "weight": 0.6
+                },
+                {
+                  "sense": "youngMale",
+                  "gloss": "young male",
+                  "weight": 0.4
+                }
+              ]
+            }
+          },
+          {
+            "id": "sexualEthicsChildProtectionFork",
+            "kind": "candidateConstraint",
+            "trigger": {
+              "domain": "sexualProhibition",
+              "requires": [
+                "masculusSenseForkActive"
+              ],
+              "pattern": "adultAgent + cum + masculus(youngMaleSense) OR equivalent co-occurrence"
+            },
+            "action": {
+              "promoteCandidate": true,
+              "notes": [
+                "This does not force interpretation; it increases salience of readings where masculus resolves to youngMale if supported by morphology/context."
+              ]
+            },
+            "score": {
+              "base": 0,
+              "bonusIfDiminutiveOrAgeMarkersPresent": 3,
+              "penaltyIfNoSupport": 3
+            }
+          },
+          {
+            "id": "noahicLogisticalPreference",
+            "kind": "macroCoherence",
+            "trigger": {
+              "domain": "arkLogistics",
+              "mentions": [
+                "ark",
+                "animals",
+                "pairs",
+                "brought",
+                "entered",
+                "carried"
+              ]
+            },
+            "action": {
+              "addGlobalCandidateConstraint": {
+                "preference": "chooseReadingsThatReduceLogisticalLoad",
+                "examples": [
+                  "prefer smaller/younger individuals only if text supports youth markers",
+                  "prefer fewer implied actions or entities"
+                ]
+              }
+            },
+            "rendering": {
+              "requiresBracketIfNotLiteral": true,
+              "example": "the animals [the youngest of their kind]"
+            },
+            "score": {
+              "base": 0,
+              "bonusIfExplicitYouthMarkers": 2,
+              "penaltyIfPurelySpeculative": 3
+            }
+          },
+          {
+            "id": "terraSenseByCaseAndFrame",
+            "kind": "candidateSense",
+            "trigger": {
+              "lemma": "terra"
+            },
+            "action": {
+              "sensePromotions": [
+                {
+                  "when": "terra is acc with motionInto or emergence",
+                  "promote": [
+                    "land",
+                    "ground"
+                  ],
+                  "demote": [
+                    "earth"
+                  ]
+                },
+                {
+                  "when": "terra is paired with caelum/sky or cosmological pairing",
+                  "promote": [
+                    "earth"
+                  ],
+                  "demote": [
+                    "ground"
+                  ]
+                },
+                {
+                  "when": "terra contrasts with aquae/oceans or dryness appears",
+                  "promote": [
+                    "land"
+                  ],
+                  "demote": [
+                    "earth"
+                  ]
+                }
+              ]
+            },
+            "score": {
+              "base": 1
+            }
+          }
+        ],
+        "penalties": [
+          {
+            "id": "overInsertionPenalty",
+            "when": "render uses bracket insertions",
+            "action": "subtractScore",
+            "amount": 1
+          },
+          {
+            "id": "agreementViolationPenalty",
+            "when": "candidate violates required agreement constraints",
+            "action": "subtractScore",
+            "amount": 5
+          }
+        ]
+      },
+      "outputs": {
+        "intermediate": {
+          "chunkTypes": [
+            "nounPhrase",
+            "prepPhrase",
+            "verbGroup",
+            "participleGroup",
+            "clause"
+          ],
+          "roleLabels": [
+            "subject",
+            "object",
+            "predicate",
+            "possessor",
+            "recipient",
+            "means",
+            "source",
+            "location",
+            "time",
+            "purpose",
+            "result"
+          ]
+        },
+        "final": {
+          "englishCandidates": {
+            "fields": [
+              "text",
+              "score",
+              "bracketInsertions",
+              "ruleTrace"
+            ],
+            "ruleTrace": {
+              "enabled": true,
+              "store": "idsOnly"
+            }
+          }
+        }
+      }
+    },
+    "part4": {
+      "schemaId": "latinMasterContextAndQA.v1",
+      "meta": {
+        "name": "latinMasterContextAndQA",
+        "version": "1.0.0",
+        "dependsOn": [
+          "latinMasterCore.v1",
+          "latinMasterMorph.v1",
+          "latinMasterSyntax.v1"
+        ],
+        "notes": [
+          "Part 4 adds context memory, reproducibility harness, test vectors, and an execution interface.",
+          "Context can influence scoring but must never silently rewrite literal meaning."
+        ]
+      },
+      "contextEngine": {
+        "enabled": true,
+        "stateModel": {
+          "entities": {
+            "track": true,
+            "fields": [
+              "entityId",
+              "surfaceMentions",
+              "lemma",
+              "gender",
+              "number",
+              "roles",
+              "lastSeenTokenId"
+            ]
+          },
+          "topics": {
+            "track": true,
+            "fields": [
+              "topicId",
+              "headLemma",
+              "salience",
+              "lastClauseId"
+            ]
+          },
+          "lexemeOverrides": {
+            "track": true,
+            "fields": [
+              "lemma",
+              "forcedSense",
+              "forcedGloss",
+              "scope",
+              "createdAt"
+            ]
+          },
+          "constructionOverrides": {
+            "track": true,
+            "fields": [
+              "ruleId",
+              "enabled",
+              "weightDelta",
+              "scope",
+              "createdAt"
+            ]
+          }
+        },
+        "scoringInfluence": {
+          "entityContinuityBonus": 2,
+          "topicContinuityBonus": 2,
+          "overrideBonus": 5,
+          "overridePenaltyIfConflictsMorph": 6
+        },
+        "inferencePolicies": {
+          "allowed": [
+            {
+              "id": "implicitSubjectFromVerb",
+              "class": "implicitSubject",
+              "bracketPolicy": "optionalBracket",
+              "notes": [
+                "Allowed because Latin often omits explicit subject; still track as insertion."
+              ]
+            },
+            {
+              "id": "bridgingReference",
+              "class": "senseDisambiguation",
+              "bracketPolicy": "optionalBracket",
+              "notes": [
+                "Allowed only for resolving pronoun antecedents; no new actions."
+              ]
+            }
+          ],
+          "restricted": [
+            {
+              "id": "macroNarrativeInsertion",
+              "class": "macroCoherence",
+              "bracketPolicy": "requiredBracket",
+              "notes": [
+                "Any narrative flourish or scene-setting not encoded in morphology/syntax must be bracketed and penalized."
+              ]
+            }
+          ]
+        }
+      },
+      "memoryLayer": {
+        "enabled": true,
+        "purpose": [
+          "Persist decisions you explicitly choose during iterative translation.",
+          "Store rule tweaks and sense locks so later passages remain consistent."
+        ],
+        "storage": {
+          "format": "jsonPatchLog",
+          "fields": [
+            "patchId",
+            "timestamp",
+            "scope",
+            "patch",
+            "reason",
+            "author"
+          ],
+          "scopeTypes": [
+            "global",
+            "document",
+            "pericope",
+            "clauseRange",
+            "tokenRange"
+          ]
+        },
+        "defaultOverrides": {
+          "lexemeOverrides": [],
+          "constructionOverrides": []
+        }
+      },
+      "ioSpec": {
+        "input": {
+          "latinText": "string",
+          "contextState": "optional object",
+          "configOverrides": "optional object"
+        },
+        "output": {
+          "normalizedLatin": "string",
+          "tokens": "Token[]",
+          "morphCandidates": "MorphCandidate[]",
+          "chunks": "Chunk[]",
+          "clauses": "Clause[]",
+          "meaningCandidates": "MeaningCandidate[]",
+          "englishCandidates": "EnglishCandidate[]",
+          "contextStateOut": "object",
+          "runHash": "string"
+        }
+      },
+      "validation": {
+        "strict": true,
+        "errorModel": {
+          "fields": [
+            "code",
+            "message",
+            "stageId",
+            "tokenId",
+            "details"
+          ],
+          "codes": [
+            "E_TOKENIZE",
+            "E_MORPH_EMPTY",
+            "E_PARSE_FAIL",
+            "E_TRANSFER_EMPTY",
+            "E_RENDER_EMPTY",
+            "E_SCHEMA_INVALID"
+          ]
+        }
+      },
+      "qaHarness": {
+        "enabled": true,
+        "testVectors": [
+          {
+            "id": "tv.masculus.et.femina",
+            "latin": "masculus et femina",
+            "expectations": {
+              "mustGenerateCandidates": true,
+              "mustIncludeSenseFork": [
+                "masculus:male",
+                "masculus:youngMale"
+              ],
+              "mayIncludeBracketInsertion": true,
+              "mustNotSilentlyInsert": [
+                "young"
+              ]
+            },
+            "notes": [
+              "If 'young' appears for femina via inheritance, it must be bracketed."
+            ]
+          },
+          {
+            "id": "tv.terra.caseMotion",
+            "latin": "in terram",
+            "expectations": {
+              "mustRecognizePrepGovernment": true,
+              "preferredSense": [
+                "land",
+                "ground"
+              ],
+              "mustRankLocationVsMotion": "motionHigher"
+            }
+          },
+          {
+            "id": "tv.terra.caseLocation",
+            "latin": "in terra",
+            "expectations": {
+              "mustRecognizePrepGovernment": true,
+              "preferredSense": [
+                "land",
+                "earth",
+                "ground"
+              ],
+              "mustRankLocationVsMotion": "locationHigher"
+            }
+          },
+          {
+            "id": "tv.ablAbs",
+            "latin": "nocte facta",
+            "expectations": {
+              "mustDetectAblativeAbsoluteCandidate": true,
+              "mustAllowBracketedRendering": true
+            }
+          }
+        ],
+        "metrics": {
+          "candidateDiversity": {
+            "minEnglishCandidates": 2,
+            "minMeaningCandidates": 2
+          },
+          "traceCompleteness": {
+            "ruleTraceRequired": true,
+            "minRulesPerTopCandidate": 3
+          }
+        }
+      },
+      "executionProfiles": {
+        "profiles": [
+          {
+            "id": "profile.strictLiteral",
+            "description": "Minimize inference; penalize brackets heavily.",
+            "configOverrides": {
+              "scoring": {
+                "weights": {
+                  "bracketInsertionPenalty": 3,
+                  "discourseContinuity": 1
+                }
+              },
+              "contextEngine": {
+                "inferencePolicies": {
+                  "restricted": [
+                    {
+                      "id": "macroNarrativeInsertion",
+                      "class": "macroCoherence",
+                      "bracketPolicy": "requiredBracket"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "id": "profile.contextAided",
+            "description": "Allow controlled context scoring; still enforce brackets.",
+            "configOverrides": {
+              "scoring": {
+                "weights": {
+                  "discourseContinuity": 3,
+                  "bracketInsertionPenalty": 1
+                }
+              }
+            }
+          }
+        ]
+      },
+      "exampleRun": {
+        "latin": "In principio Deus fecit caelum et terram.",
+        "expectedBehavior": {
+          "mustTokenize": true,
+          "mustParseCoordination": true,
+          "mustOfferTerraSenses": true,
+          "mustNotImportExternalConsensus": true,
+          "englishCandidateExamples": [
+            "In the beginning, God made the sky and the earth.",
+            "In the beginning, God made the sky and the land."
+          ]
+        }
+      }
+    }
+  }
+}
